@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL COVID-19
+
+protocolo:
+RX tòrax portàtil
+
+conclusiones:
+Es compara amb estudis RX prèvies, la primera del [**30 de juny de 2016**]
+Respecte als estudis previs s'objectiva una franca milloria de les opacitats alveolars bilaterals.
+A l'estudi actual destaca opacitat a camp inferior del pulmó esquerre.
+Estructures mediastíniques i hilis pulmonars sense alteracions.
+No hi ha obliteració dels sins costofrènics.
+
+descrip:
+RX  PORTATIL  TORAX

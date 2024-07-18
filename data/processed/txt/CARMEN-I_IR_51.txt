@@ -1,0 +1,27 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+Mujer de 74 años, ingresada por SCASEST + estenosis aórtica pendiente de intervnción, COVID nosocomial. Shock séptico por E.coli que requiere NA, sueroterapia y cobertura con meropenem. Empeoramiento de función renal con Cr 2. Solicitamos eco renovesical para descartar complicación.
+Gracias!
+Infecció per coronavirus no especificada
+
+protocolo:
+ECOGRAFÍA ABDOMINAL
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+Vena porta permeable de calibre normal y flujo hepatopetal.
+Páncreas parcialmente visualizado por interposición de gas, sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, con algún quiste simpli, sin dilatación de la vía excretora.
+Vejiga urinaria colapsada con sondaje vesical en su interior.
+No se observa líquido libre intraabdominal ni perirrenal.
+
+conclusiones:
+Ecografía sin alteraciones destacables.
+
+descrip:
+ECO RENO-VESICAL

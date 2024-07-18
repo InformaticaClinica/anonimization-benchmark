@@ -1,0 +1,8 @@
+
+** ELECTROCARDIOGRAMA: RS a 60 lpm, eje 0º, PR 0.16, QRS estrecho, sin alteraciones del segmento ST ni de la repolarización. QTc 400 ms.
+** GASTROSCOPIA URGENTE ([**9/09**]): Esófago sin lesiones, cardias situado a 42 cm de la arcada dentaria. Estómago con fundus en retroversión normal, cuerpo e incisura sin lesiones. Antro con algunas erosiones milimétricas. Píloro normal. Bulbo y duodeno hasta segunda porción sin lesiones. No restos hemáticos en todas las áreas exploradas.
+** COLONOSCOPIA ([**18/09**]): Abundantes restos líquidos de color oscuro en todo el trayecto incluyendo el íleon terminal lo que sugiere origen alto de la hemorragia en estudio. No se identifican restos hemáticos ni lesiones macroscópicamente muy significativas. Se explora la ampolla rectal por retroversión sin identificar lesiones valorables.
+** INTERCONSULTA NEUROLOGÍA ([**9/09**]):
+A nuestra valoración en TC, paciente desorientado, con paresia facio (lev)-braquio (3/5)-crural (4/5) que parece que ha mejorado, desorientado. Lenguaje dificil de valorar. NIHSS 5.Se orienta como probable ictus talámico izquierdo. Dados los antecedentes del paciente con sangrado importante reciente se descarta tratamiento fibrinolítico.
+Por ausencia de oclusión de gran vaso no es candidato a trombectomía mecánica. Se recomienda completar estudio con RMN cerebral. Dados los antecedentes del paciente, descartar presencia de foramen oval permeable con ecocardiograma. El tratamiento que recomendamos para esta patología sería la anticoagulación, a valorar dado el contexto clínico del paciente y su evolución.
+ 

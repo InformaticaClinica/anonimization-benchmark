@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID 19 +
+
+protocolo:
+RX TORAX
+
+conclusiones:
+Opacidades en vidrio delustrado a nivel de campos inf. y medios con alguna zona de aspecto mas alveolar a nivel basal. Hay TC previo.
+Respecto RX TX [**6/05**] hay progresión en las zonas descritas
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,24 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+RMN NIT
+COVID POSITIVO!
+Mujer de 51 años con cuadro de deterioro cognitivo rápidamente progresivo de 3 meses de evolución. Solicitamos RMN cerebral para estudio. Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+RM CEREBRAL sin y con contraste paramagnético, evaluada con secuencias T1W, T2W, ADC/DWI y FLAIR.
+
+resultados:
+Alteración de la señal en T2W-FLAIR y restricción de la señal en ambos n. caudados, ambos putamenes y en parte de ambos tálamos. En el contexto de la paciente, y de descartar origen tóxito-metabólico, estos hallazgos podrían estar en relación a enfermedad tipo Creutzfeldt-Jakob.
+No se observan otras alteraciones significativas de la señal o la difusión del parénquima encefálico.
+No se observa sangrado agudo intra ni extraaxial.
+Sistema ventricular simétrico y no dilatado. Estructuras de la línea media centradas. Cisternas de la base libres.
+
+conclusiones:
+Hallazgos en ganglios de la base que podrían estar en relación a enfermedad de Creutzfeldt-Jakob en el contexto de la paciente.
+
+descrip:
+RM CEREBRAL

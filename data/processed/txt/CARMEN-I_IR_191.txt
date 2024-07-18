@@ -1,0 +1,34 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de 61 anys amb tumor GIST i limfoma, en tractament, ingressada per COVID19.
+Presenta alt requeriment d'O2 i augment molt significatiu del DD i troponina.
+Interessa descartar TEP.
+Moltes gràcies
+Infecció per coronavirus no especificada
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Se compara con TC pulmonar previa realizada el 1/12/21:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Adenopatías supraclaviculares de predominio izquierdo y axilares bilaterales, sin cambios respecto a previa. Adenopatías hiliares bilaterales, sin cambios.
+Ocupación de la grasa de mediastino anterior por componente mal definido / infiltrativo de partes blandas ya conocido, menos evidente en el estudio actual.
+Severo derrame pleural bilateral de aspecto loculada y distribución similar al estudio previo. Condiciona atelectasias pasivas bibasales.
+Concolidaciones bibasales con presencia de broncogarama aéreo y broncograma líquido, hallazgos que pueden corresponder a neumonía broncoaspirativa. Adicionalmente se aprecian opacidades en vidrio deslustrado y engrosamientos septales en LLII, LM, língula y LSD, con cierto gradiente anteroposterior, sugestivo de distres respiratorio.
+Derrame pleural bilateral de aspecto loculado y predominio derecho, de aspecto similar al estudio previo.
+Engrosamientos peribronquiales y presencia de septos interlobulillares ambos de predominio derecho, en el contexto en probable relación a linfangitis carcinomatosa.
+Cambios posquirúrgicos por gastrectomía parcial.
+No se identifican algunas de las lesiones nodulares sugetivas de M1 evidenciadas en el estudio previo. No obstante se aprecia un nodulo semisólido de nueva aparición en LSI de 14 mm.
+Destaca la presencia de una lesiión hipodensa parcialmente incluida en el estudio centrada en el ligamento gasto-hepático que contacta con el LHI y con la celda pancreática anterior, se recomienda ampliar estudio con TC abdominal.
+Lesión hipodensa subcapsular en s.VIII, no visible en estudios previos.
+
+conclusiones:
+Sin signos de TEP. Resto ver informe.
+
+descrip:
+ANGIO TC PULMONAR

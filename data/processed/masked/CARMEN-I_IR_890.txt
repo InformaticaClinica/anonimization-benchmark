@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con hipoxemia persistente por NAC COVID19 y durante su evolución presenta NOC. Actualmente con Dímero D elevado a pesar de tratamiento completo. Solciitamos angiotac urgente a descartar TEP.
+Gracias
+POSIBLE NEUMONIA ORGANIZATICA
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual.
+
+resultados:
+Se compara con la TC previa del [**11/04/2027**].
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco común de la arteria pulmonar.
+Catéter venoso central con acceso periférico izquierdo y extremo distal en la vena cava superior. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Áreas bilaterales con patrón en "crazy paving" (vidrio deslustrado + engrosamientos septales) bilaterales y con disposición predominantemente periférica, con tendencia a la consolidación en los lóbulos inferiores donde además asocia bronquioloectasias de tracción. Todo ello en relación con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa), similar al previo. No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+- No se observa TEP.
+- Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa), similar al previo.
+
+descrip:
+ANGIO TC PULMONAR

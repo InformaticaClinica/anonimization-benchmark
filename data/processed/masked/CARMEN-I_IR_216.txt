@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+[**sabado / 19**]
+NEUMONIA BIALTERAL POR SARS-Cov2
+
+conclusiones:
+Consolidacione basal derecha y en campo superior izquierdo, no presentes en Rx del [**16**], y más evidentes que en Rx del [**18**]. Se aconseja descartar sobreinfección.
+
+descrip:
+RX  PORTATIL  TORAX

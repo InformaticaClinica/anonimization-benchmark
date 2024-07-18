@@ -1,0 +1,30 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente covid positiva que sale de intubación y ventilación mecánica a la sala. Presenta alteración analítica en forma de hiperbilirrubinamia directa 4,5 sin colestasis significativa asociada a elevación de PCR sin fiebre. Solicito eco para descartar complicaciones biliares. Merci
+INSUFICIENCIA RESPIRATORIA AGUDA
+
+protocolo:
+ecografia abdominal URGENT.
+
+resultados:
+Fetge homogeni de mida, morfologia i ecoestructura normal, sense lesions focals.
+No es visualitza vesícula biliar.
+Lleu dilatació de la via biliar intrahepàtica.
+Colèdoc ectàsic fins a 10mm, visualitzant-se fins el terç distal a on ha anat disminuint progressivament de calibre. No es valorable el colèdoc terminal per interposció de gas.
+Vena porta permeable, de calibre normal i amb fluxe hepatopetal.
+Venes suprahepàtiques permeables i de calibres normals.
+Melsa homogènia de mida normal.
+No s'aconsegueix visualitzar el ronyó esquerre. En ecografies prèvies ([**historia clínica electrónica**]) s'informa de ronyó atròfic (6cm).
+Ronyó dret de mida normal, amb cortical d'ecogenicitat augmentada, en probable relació a nefropatia mèdica (antecedent d'insuficiència renal crònica).
+Bufeta urinària poc replecionada, amb material hipoecoic al seu interior, probables detritus.
+Petita quantitat de líquid lliure perihepàtic i subhepàtic dret.
+Vessament pleural bilateral.
+
+conclusiones:
+.
+
+descrip:
+ECO BASAL (ABDOMEN)

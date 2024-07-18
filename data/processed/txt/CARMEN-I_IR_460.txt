@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente que ingresa a UCIAS con colestasis a finales de enero, diagnosticado de ADK de cabeza de páncreas. Programado para DPC, pero en frotis preoperatorio es positivo para COVID. Se suspende cirugía y se drena vía biliar con prótesis (se revisa posteriormente por desplazamiento de la misma). Inicialmente asintomático respiratorio, pero a principios de febrero presenta empeoramiento progresivo con entrada en UCI, requiriendo VMK 40%, no IOT. Recibió plasma, anakinra y corticoides 10 días, se disminuye aporte de oxígneo. Ya en sala COVID desde hace dos días, con LN 4L.
+Hoy nuevamente con VMK 35%. Colestasis estable, ferritina bajando, DD estable. Contando aprox. 14 días de clínica y RX progresivamente peores (incluyendo la de hoy), ruego descartar NOC para iniciar tratamiento acorde.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC TORAX ALTA RESOLUCIÓN sin administración de contraste e.v.
+
+resultados:
+Catéter venoso central con extremo distal en vena cava superior. No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Calcificaciones ateromatosas en aorta torácica así como en los tres territorios arteriales coronarios y en válvulas aórtica y mitral. No se observa derrame pleural ni pericardico.
+Opacidades en vidrio deslustrado bilaterales y periféricas de distribución subpleural y peribroncovascular con presencia de engrosamiento de septos (patrón en empedrado). Existe una incipiente formación de reticulas a nivel de bases pulmonares. Dilataciones bronquiales. Globalmente los hallazgos son coherentes con una neumonía vírica por COVID-19 de extensión moderada con muy incipientes cambios organizativos en bases (evolucion natural de la enfermedad). No se identifican nodularidades sospechosas de M1s en parénquima pulmonar.
+En cortes de hemiabdomen superior incluidos en el estudio se aprecia una protesis biliar, aerobilia y un quiste complicado de 2 cm en riñón derecho sin otros hallazgos relevantes. Estructuras óseas incluidas en el estudio sin hallazgos patológicos relevantes.
+
+conclusiones:
+Hallazgos coherentes con neumonía vírica por COVID-19 de extensión moderada con muy incipientes cambios organizativos en bases (evolucion natural de la enfermedad).
+
+descrip:
+TC TORAX

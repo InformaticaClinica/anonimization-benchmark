@@ -1,0 +1,19 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente ingresada por infección por COVID sin insuficiencia respiratoria que acude por cuadro de náuseas y vómitos con elevación de transaminasas del orden de 200, sin fosfatasa alcalina elevada ni hiperbilirrubinemia. Antecedente de hepatitis B grave en su [**hermano**] recientemente. Agradecería ecografia abdominal para completar estudio.
+
+protocolo:
+ECO ABDOMEN
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. V. porta permeable de calibre normal con flujo hepatopetal y velocidades normales. Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes. Bazo homogéneo de tamaño normal. Riñones de tamaño y grosor cortical preservado, sin dilatación de la vía excretora. Aorta abdominal de calibre normal. No se observa líquido libre intra-abdominal.
+
+conclusiones:
+Exploración sin alteraciones relevantes.
+
+descrip:
+ECO BASAL (ABDOMEN)

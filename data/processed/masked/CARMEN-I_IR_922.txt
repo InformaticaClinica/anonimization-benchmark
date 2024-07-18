@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+covid-19
+
+protocolo:
+RX tòrax portatil
+es compara amb RX previa del [**17/9/2019**]
+
+conclusiones:
+Pràctica resolució completa de les opacitats alveolars a camp mig i inferior del pulmó dret, descrites a RX previa del [**17/9/2019**]
+Catèter ev amb extrem distal a VCS
+
+descrip:
+RX  PORTATIL  TORAX

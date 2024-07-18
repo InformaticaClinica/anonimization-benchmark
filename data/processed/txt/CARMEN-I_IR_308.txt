@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+QUIANTIFERON POSITIVO
+
+protocolo:
+Rx portátil de tórax. Se compara con previa del 22/11/2025.
+
+resultados:
+A pesar de las diferencias técnicas entre ambas exploraciones, se aprecia leve mejoría radiológica de las múltiples opacidades alveolares de predominio periferico en campos medios e inferiores bilaterales en relación con infección por COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,20 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA COVID-19
+
+protocolo:
+RX DE TÓRAX PORTATIL
+
+resultados:
+Rx poco penetrada y levemente rotada hacia la izq. Marcage incorrecto del lado derecho (la D está en el lado izquierdo).
+Cardiomegalia. En la RX de ayer realizada en el [**Centro La Peña Estación**] se identificaban 2 opacidades pulmonares localizadas la periferia del LID y campos medio e inferior del pulmon izq, sugestivas de infeccion por COVID dado el contexto epidemiologico actual.
+En la RX de hoy destaca la aparicion de una extensa afectacion pulmonar bilateral de predominio central que se extiende hacia la periferia (en alas de mariposa), asociada a signos de redistribucion vascular y mala definicion de ambos hilios pulmonares. Estos hallazgos sugieren la aparicion de edema pulmonar cardiogenico en fase alveolar. Leve derrame pleural derecho de nueva aparicion.
+
+conclusiones:
+RX previa de ayer con signos sugestivos de infeccion por COVID. EN RX de hoy existe un marcado empeoramiento a expensas de aparicion de signos sugestivos de edema pulmonar cardiogenico en fase alveolar. Aparicion de leve derrame pleural derecho.
+
+descrip:
+RX  PORTATIL  TORAX

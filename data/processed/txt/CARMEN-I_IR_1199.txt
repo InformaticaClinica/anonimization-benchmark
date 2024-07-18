@@ -1,0 +1,21 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Sospecha COVID. Puérpera cesárea
+Cesárea iterativa
+
+protocolo:
+RX PORTATIL TORAX  URGENTE
+
+resultados:
+Se compara con la RX previa de 27/8/24:
+Aumento de densidad en ambas bases, de predominio en base derecha que, a pesar de no ser concluyente, sugiere una afectación por COVID.
+Afectación pulmonar por COVID que muestra progresión respecto a Rx previa.
+
+conclusiones:
+Afectación pulmonar por COVID que muestra progresión respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

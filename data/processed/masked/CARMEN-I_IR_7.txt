@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+PROBABLE INFECCIÓN POR SARS-COV2
+
+resultados:
+Presencia de infiltrados intersticio-alveolares bilaterales de predominio en tercio medio e inferior bilateral.
+Existe cierta mejoría respecto a RX previas (se compara con la del [**22- 11-2018**]).
+
+conclusiones:
+Afectación pulmonar bilateral compatible con covid-19 con discreta mejoría respecto a estudio de hace 1 semana.
+
+descrip:
+RX  PORTATIL  TORAX

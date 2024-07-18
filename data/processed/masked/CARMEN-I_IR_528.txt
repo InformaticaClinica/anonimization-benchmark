@@ -1,0 +1,24 @@
+
+prueba:
+GASTROSTOMIA Y GASTROYEYUNOSTOMIA PERCUT ANEA
+
+clinica:
+[**Mujer**] de [**80 años**] con CDI de mama metastásico en seguimiento por oncología que ingresa ahora por disfagia progresiva por estenosis esofágica de aparente origen tumoral (pendiente AP aunque parece un nuevo primario por endoscopia). LA estenosis no permite el paso de endoscopio pediátrico.
+solicito colocación de PEG por angiorradiología como alternativa para inicio de nutrición enteral. gracias
+estenosis esofágica
+
+protocolo:
+Colocación de stent de esófago
+
+resultados:
+Realizamos esofagograma evidenciando una estenosis larga (aproximadamente 70 mm) a nivel del tercio medio del esófago.
+Franqueamos estenosis y colocamos prótesis descubierta de 12o mm de longitud que queda correctamente colocada y expandida.
+
+conclusiones:
+Colocación de protesis de esófago sin incidencias.
+PLAN:
+Dieta líquida hoy
+Seguir progresando en la introducción de alimentos según protocolo habitual.
+
+descrip:
+GASTROSTOMIA Y GASTROYEYUNOSTOMIA PERCUTANEA

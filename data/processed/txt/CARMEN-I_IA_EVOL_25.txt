@@ -1,0 +1,35 @@
+
+EVOLUCIÓN EN ONCO/AVI/INFECCIONES:
+1- NEUMONÍA BILATERAL POR SARS-COV2
+2- INSUFICIENCIA RESPIRATORIA AGUDA. SDRA leve con PaFi 211
+3- SÍNDROME DE HIPERACTIVACIÓN DE CITOQUINAS
+4- ENFISEMA PULMONAR paraseptal y centrolobulillar de predominio en LLSS sin PFR, posible EPOC
+5- SÍNDROME FEBRIL DE FOCO URINARIO POR E.COLI MULTIS y CANDIDA
+6- INSUFICIENCIA RENAL AGUDA AKIN II PRERRENAL vs SEPSIS
+7- ANEMIA NORMOCÍTICA NORMOCRÓMICA CON DÉFICIT DE FÓLICO Y HIERRO
+8- DESNUTRICIÓN PROTEICA
+9- AP: Ca. Urotelial vejiga localmente avanzado. Cistoprostatectomia + linfadenectomia 3/3/16 + Dolor glúteo mal controlado, de carácter mixto por compresión nerviosa vs infiltración de ileopsoas.
+.
+Fecha de inicio de los síntomas: 19/3/2016
+Fecha de ingreso HOSPITALARIO ONCO: 19/3/2016
+- Ingreso AVI: 27/3/2016 (máx NA 0,1 mcg/kg/min; LAF 70%/flujo 45L/min)
+- Ingreso sala INF: 29/3/2016
+Fecha de frotis positivo: 19/3/2016
+Fecha de inicio tratamiento: 19/3/2016
+.
+Tipo de Tratamiento:
+19/3: ATB: 19/3-20/3 ertapenem -> 20/3-30/3 meropenem + 27/3-30/3 daptomicina -> 30/3-31/3 ceftriaxona -> 05/4-act fluconazol 19/3- 2/4: dexametasona 6mg/día EV -> 3/4 pauta desc de prednisona 1/4: plasma hiperinmune de paciente convalecientes de SARS-COV2 (S/Co Cov G 8,37)
+1-4.- Al ingreso en sala se mantine con LN 3L/min con saturación correcta, pero en contxto de aumento progresivo de oxigenoterapia en las primeras 24h presenta encefalopatía hipercápnica que se resuelve parcialmente tras disminución de oxígeno, por lo que se disminuye tratamiento con morfina por somnolencia y bradipsiquia con buen control actual del dolor y resolución del cuadro.
+Se repite PCR SARS-COV2 por persistencia de febrícula, aumento de parámetros inflamatorios y persistencia de infiltados bilaterales, alto requerimiento de oxígeno por lo que se solicita TC torácico el 1/4 valorando múltiples ganglios mediastínicos probablemente reactivos, áreas de enfisema paraseptal y centrolobulillar de predominio en LLSS, hallazgos son sugestivos de neumonía bilateral con afectación extensa sin signos de neumonía organizativa, catéter pig tail bilateral con extremo proximal en pelvis renal y filtro en VCI.
+Ante la sospecha de persistencia de replicación viral en contexto de inicio de corticoides precozmente por shock, que se confirma (CT 19 -> CT 16), se contacta con la sobrina, quien da consentimiento informado oral, para entrar en estudio observacional de plasma hiperinmune de pacientes convalecientes COVID19, por lo que se adminitra sin reacciones inmediatas y se inicia pauta descendente de prednisona.
+Al alta sin O2 con satO2 92-94% basal, buena mecánica respiratoria.
+Ha completado el tiempo de aislamiento durante el ingreso por lo que no requiere continuarlo en domicilio.
+Se programa visita de control en Neumología tras el alta.
+5.- Completa 12 días de tratamiento ATB sin nuevos aislamientos. El 1/4 presenta nuevo pico febril por lo que se realizan nuevos HC y UC, con aislamiento de C.albicans y C.kefyr, dado que estaba afebril con descenso de parámetros inflamatorios se realizó nuevo UC con aislamiento de C.kefyr por lo que se inicia el 05/4 tratamiento con fluconazol que deberá continuar ambulatoriamente durante 14 días.
+6.- Se mantiene con creatinina en rango habitual con diuresis correcta.
+Al alta 0.87 mg/dL con FG >90 ml/min/1,73m2.
+7.- Se completa estudio de anemia valorando déficit de fólico y hierro (Hb 97 g/L, VCM 86.3fl, HCM 27.1pg, Ferritina 2191 ng/mL, Transferrina 1.2 g/L, Receptor soluble de la transferrina 1.81 mg/L, Capacitat total de lligar ferro 1.69 mg/L, Saturació de transferrina 4.7%, Vitamina B12 814 pg/mL, Acid fòlic sèric 3.47 ng/mL) por lo que inicia tratamiento suplementario con hierro EV 200mg/48h x3 dosis y fólico 5mg/día VO y deberá continaur con tratamiento oral ambulatoriamente.
+8.- Se inicia suplementación dietética que continuará en domicilio.
+9.- Durante el ingreso en sala se disminuye MST en contexto de encefalopatía hipercápnica y se mantiene tras resolcuión de la misma con dolor bien controlado, se mantiene tratamiento al alta pendiente de revaloreación por clínica del dolor.
+Se ha mantenido con fisioterapia durante el ingreso, se recomienda seguirla en domicilio.
+    

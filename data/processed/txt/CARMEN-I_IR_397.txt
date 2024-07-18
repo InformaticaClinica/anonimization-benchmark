@@ -1,0 +1,21 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Interesa realización de TAC de tórax en paciente de 86 años ingresado por infección respiratoria por COVID-19 el pasado 27/10/2013. Como complicaciones el paciente ha realizado un TEP por lo que se encuentra anticoagulado. El paciente ha presentado cierto deterioro respiratorio con empeoramiento de la saturación de oxígeno, aumento de los crepitantes a la auscultación y deterioro de los infiltrados pulmonares.
+
+protocolo:
+TC TORAX URGENTE sin contraste yodado E.V.
+
+resultados:
+Opacidades en vidrio delustrado bilaterales con engrosamientos septales (empedrado) y algunas pequeñas consolidaciones de distribución periférica, todo de predominio en bases pulmonares. Se acompaña de discreta desestructuración del parénquima pulmonar afectado y de bandas subpleurales. Hallazgos compatibles con afectación pulmonar por COVID con componente incipiente de neumonía organizativa.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Ganglios calcificados subcarinal e hiliares.
+Estructuras mediastínicas sin alteraciones significativas.
+Mínimo derrame pleural bilateral. No se observa derrame pericárdico.
+
+conclusiones:
+Afectación pulmonar por COVID en fase de neumonía organizativa.
+
+descrip:
+TC TORAX

@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Descartar TEP/neumonía organizativa
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+AngioTC de arterias pulmonar URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Trónco de la arteria pulmonar de calibre normal (25 mm).
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico. Ganglio de tamaño límite a nivel prevascular. Adenopatías hiliares bilaterales, de predominio derecho de hasta 13 mm de tamaño.
+No se observa derrame pleural ni pericárdico.
+Consolidaciones bilaterales de predominio en LLSS y, en menor medida, opacidades en vidrio deslustrado de distribución periférica, con bandas subpleurales distorsión arquitectural y bronquiectasias de tracción, todo esto en relación a infección COVID19 conocida, con signos de neumonía organizativa y cambios fibrosos.
+Respecto a radiografía previa del día 03/01/19, se observa dudosa mejoría radiológica en campo pulmonar superior izquierdo, siendo el resto de la afectación similar.
+Imagen nodular poligonal subpleural en el aspecto posterior del segmento apical del LID, sugestivo de ganglio intrapulmonar.
+Los cortes de hemiabdomen superior muestran esteatosis hepática, cambios por colecistectomia sin otros hallazgos significativos.
+
+conclusiones:
+No se observan signos de TEP agudo.
+Hallazgos compatibles con infección COVID19 conocida, con signos de neumonía organizativa afectando todos los lóbulos pulmonares bilateralmente.
+
+descrip:
+ANGIO TC PULMONAR

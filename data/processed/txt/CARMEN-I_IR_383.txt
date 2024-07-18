@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 54 años sin antecedentes patológicos. Ingresado por neumonía bilateral por covid-19, a día +11 de síntomas. Presenta en las últimas 24 horas empeoramiento clínico (pasa de LN2L a VK al 60%), con aumento de los RFA. Se solicita TC para descartar complicaciones, entre elloas, TEP, NOC o sobreinfección, Gracias
+INFECCION SARS-CoV-2
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Arterias pulmonares principales y ramas lobares permeables sin defectos de repleción sugestivos de TEP. Estudio subóptimo para la valoración de arterias segmentarias.
+Tronco de la arteria pulmonar de calibre normal, sin signos de sobrecarga ventricular derecha.
+No se observan adenopatías axilares o mediastínicas de tamaño patológico.
+No se evidencia derrame pleural ni pericárdico.
+Múltiples focos en vidrio deslustrado bilaterales, de predominio periférico, con tendencia a la consolidación en segmentos posteriores y lóbulos inferiores. Los hallazgos descritos son sugestivos de infección pulmonar, en probable relación por COVID-19 sin cambios organizativos evidentes.
+Disminución global de la atenuación hepática, que si bien no es un estudio dirigido, es sugestivo de estatosis.
+
+conclusiones:
+Hallazgos sugestivos de infección pulmonar, en probable relación por COVID-19, sin cambios organizativos evidentes.
+No se observa TEP de localización central ni signos de sobrecarga derecha mediante TC.
+
+descrip:
+ANGIO TC PULMONAR

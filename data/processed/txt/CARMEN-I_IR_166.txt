@@ -1,0 +1,40 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varón de 73 años con AP HTA, DLP y ERC en hemodiálisis, inicialmente hace 1 mes IOT por neumonía por COVID llegándose a extubar y posteriormente, hace pocos días re-IOT por IRA en contexto de hipervolemia y derrame pleural bilateral importante, en contexto de mala tolerancia a las sesiones de HD.
+Ayer se realizó TC tórax: derrame pleural bilateral y neumotórax pequeño izquierdo + neumonía por COVID. Ayer se colocaron 2 drenajes pleurales.
+Esta noche, presenta shock probablemente hipovolémico por drenaje pleural derecho hemático (salida 2L) y anemización. Solicitamos angio-TC para descartar hemotórax +/-sangrado activo a ese nivel, gracias.
+sospecha hemotórax
+
+protocolo:
+TC de cráneo + Angio-Tc pulmonar urgente.
+
+resultados:
+CRÁNEO:
+No se observa sangrado agudo intracraneal, lesiones ocupantes de espacio ni lesiones isquémicas agudas valorables por TC en el momento actual.
+Hipodensidad en la sustancia blanca subcortical supratentorial, en probable relación con enfermedad de pequeño vaso.
+Moderada pérdida global de volumen cerebral que condiciona la prominencia de surcos y del sistema ventricular. Estructuras de la línea media centradas. Cisternas basales no colapsadas.
+Ausencia de cristalino derecho.
+ANGIO-TC PULMONAR:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tronco común de la arteria pulmonar de calibre normal.
+Ateromatosis calcificada de las arterias coronarias (3 vasos).
+Calcificación del anillo valvular mitral. No se observan ganglios axilares ni mediastínicos de tamaño valorable. Nódulos tiroideos infracentimétricos bilaterales.
+Tubo endotraqueal con extremo distal a 4,3 cm de la carina. Sonda nasogástrica con extremo distal en el fundus gástrico.
+Catéter venoso central con acceso yugular derecho y extremo distal en la vena cava superior.
+Catéter venoso central con acceso subclavio izquierdo y extremo distal en contacto con la pared vascular de la confluencia de la vena cava superior.
+Tubo de drenaje torácico derecho con entrada por el 6-7º espacio intercostal, trayecto ascendente por la cisura mayor y extremo distal en el espacio pleural craneal al segmento superior del lóbulo inferior derecho (LID).
+Tubo de drenaje torácico izquierdo con entrada por el 7-8º espacio intercostal, trayecto intraparenquimatoso en el lóbulo inferior izquierdo (LII) y extremo distal en el espacio pleural posterior al segmento superior del LII.
+Moderado hidroneumotórax derecho, con extensión cisural y áreas basalmente densas en relación con componente de hemotórax asociado. El componente líquido ha disminuido considerablemente, y todo ello parece quedar recogido por el tubo de drenaje torácico derecho. En No se identifican imágenes de sangrado activo valorables mediante TC en el momento actual.
+Leve hidroneumotórax izquierdo, que también ha disminuido considerablemente y que queda recogido por el tubo de drenaje torácico izquierdo.
+Extensas opacidades en vidrio deslustrado bilaterales, en algunas áreas con tendencia a la consolidación y con dilataciones bronquiales asociadas. Los hallazgos descritos probablemente guarden relación con la infección pulmonar por COVID-19 conocida, sin poder descartar en el pulmón derecho áreas de contusión/hemorragia pulmonar dado el contexto clínico.
+Colecistectomía.
+
+conclusiones:
+Importante disminución del derrame pleural derecho, actualmente con mayor componente de neumotórax y hemotórax asociado, todo ello recogido por el tubo de drenaje torácico. No se visualizan imágenes de sangrado activo.
+Importante disminución del derrame pleural izquierdo, que queda recogido por el tubo de drenaje torácico.
+Infección pulmonar por COVID-19, sin poder descartar algún foco de contusión/hemorragia pulmonar en el pulmón derecho (posiblemente relacionado con la manipulación reciente).
+
+descrip:
+ANGIO TC PULMONAR

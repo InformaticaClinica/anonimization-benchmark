@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+LMA secundaria a SMD
+
+conclusiones:
+Comparativamente con RX de tórax previo del 1/11/2021 se observa la persistencia de tenues opacidades en el campo pulmonar medio e inferior derecho de distribución central, valorar proceso infeccioso. Atelectasia laminar en LM.
+PATRÓN INDETERMINADO para COVID-19.
+Otros hallazgos:
+Ateromatosis calcificada en el arco aórtico.
+
+descrip:
+RX  PORTATIL  TORAX

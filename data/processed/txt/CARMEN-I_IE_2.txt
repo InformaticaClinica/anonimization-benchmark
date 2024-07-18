@@ -1,0 +1,61 @@
+## DIAG
+Infección por COVID 19
+
+
+## DIAG
+Hipertensión arterial
+
+
+## DIAG
+Diabetes Mellitus
+
+
+## DIAG
+Hepatopatía crónica por Virus Hepatitis C
+
+
+## DIAG
+Asma
+
+
+## CAUSA
+
+Infección respiratoria por COVID-19
+ 
+
+
+## OBSER
+
+Varón de 91 a, sin hábitos tóxicos, alergia medicamentosa a penicilina.
+Soltero, no sobrinos, familia directa hijos. Vive en residencia en habitación individual. Dep leve para las ABVD B80/100 (deambulación con bastón, pañales por incontinencia orinaria, fecal muy ocasional,limpieza/aseo/vestirse/trasnferencias
+autónomo). Cognitivo conservado.
+***Antecedentes patológicos:
+- Anemia crónica
+- DM
+- HTA
+- Asma bronquial
+- Hernia discal
+- HDA por espina pescado hace 50 años, precisó trasfusión de sangre en esa fecha.
+- Hepatopatia crónica por VHC / F3 curada tras tt ocon Abbvie (Viekirax+ exvierax) desde oct a dic de 2023. RVS a las 12s post-tto *FGS 2025: no varices
+*Ecografía abdominal Mayo 2023: hepatopatía crónica avanzada. No LOES.
+Flujo hepatopetal normal. Esplenomegalia de 13 cm. Resto normal.
+*Elastografía: 11.49 Kpa corresponde a un F3 (fibrosis avanzada).
+- IQs: apendicectomia, amigdalectomia, hernia inguinal bilateral, HBP.
+*tto médico habitual: citalopram 20 mg al dia, fentanilo 50 mcg c/3d, fursosemida 1-0-0, gabapentina 100 1-0-1, lantus 0-0-0-18, losartan 50 mg 1-0-0. Movicol si precisa, mysoline 250 mg 0-0-0.5, omeprazol 20 mg al dia, paracetamol s/p, rilast turbohaler, 2-0-2, sumial 10 mg 1-0-0, toviaz 4 mg al dia.
+***Enfermedad actual: Refiere desde hace una semana aprox (sobre el día 08.05) tos con expectoración purulenta, no fiebre, no sensación distérmica, disnea progresiva hasta hacer de pequeños esfuerzos, no alteracion gusto/olfato, un día episodio vómitos y episodio puntual de diarreas si np/p, anorexia, astenia. El día 13.05 en informe residencia afirma aparición febricula y desaturación hasta 92% por lo que inician tto corticoterapia oral + levofloxacino + azitromicina. Niega dolor torácico. Ante persistencia sintomatología sin mejoría se procede a derivación urgencias.
+***Exploraciones complementarias durante ingreso:
+- PCR nasofaringeo COVID 19 : positivo
+- ECG: Eje -60º RS a 60x' PR 0.20 seg No alt agudas repolarización QTc 446mseg
+- GSA urgencias: pH arterial 7.338/B pCO2 arterial 51.3/A mmHg pO2 arterial 76.1 mmHg Bicarbonat actual arterial 26.9/A mmol/ TCO2 arteria l28.5 mmol/ Excés de base arterial 0.60 mmol/ Bicarbonat estàndar arterial 24.9 mmol/ % sat. per Oxígen Hb arterial94.3/B% Calci ionitzat; sang arterial 1.06 mmol/ Fracció d'oxihemoglobina, sang arterial 92.6/B%
+- AS urgencias: PCR 8.58/A mg/dL Troponina I d'alta sensibilitat urgent 492.9/A ng/L Procalcitonina 0.25 ng/mL Ferritina 132 ng/ DD 4800 Glu 207/A mg/dL Cr 0.83 mg/dL FG 78.57 ml/min/ AST 56/A U/L ALT 36 U/L GGT 227/A U/L Bil total 0.80 mg/dL Bil conjugada 0.40 mg/dL FA 123/ AU/L LDH 305/A U/L Prot totals 58/B g/L Na 139 mEq/L K 4.0 mEq/L Ca 7.40/B mg/dL Mg 2.3 mg/ Leucos 5.07 10^ Hb 111/B g/ Hto 0.330/B L/ VCM 93.7 fl HCM 31.5 pg Plaquetes 112/B 10^ (N 92.0/A% E 0.1% B 0.1% L 3.3/B% M 3.9% N 4.7 10^ E 0 B 0 10^ L 0.2/B 10^ M 0.2 10^) Temps de protrombina (seg) 13.6 seg INR 1.17
+- GSA de control: pH arterial 7.422 pCO2 arterial 45.7/A mmHg pO2 arterial 77.9 mmHg HCO3 29.1/A mmol/L CO2 arteria l30.5/A mmol/L Excés de base arterial 4.10/A mmol/L Bicarbonat estàndar arterial 28.1/ Ammol/L % satO2 Hb arterial 95.7%
+- AS 10.04 PCR 9.25/A mg/dL, LDH 283/A U/L, Troponina I d'alta sensibilitat urgent 251.2/A ng/L, Ferritina 159 ng/mL, Dimer D 2900/A ng/mL Procalcitonina 1.39/A ng/mL Glu 203/A mg/dL Cr 0.72 mg/dL FG 83.30 ml/min/ AST 46/A U/L, ALT 31 U/L GGT 214/A U/L Bil total 0.40 mg/dL Bil conjugada 0.20 mg/dL FA 112 U/L Prot totals 58/B g/L Sodi 140 mEq/L Potasi 3.9 mEq/L Ca 7.70/B mg/dL Leucos 2.80/B 10^9/ Hb 110/B g/L Hto 0.340/B L/L VCM93.0 fl HCM 30.2 pg Plaquetes 96/B 10^9/ (N 85.3/A% E 0.1% B 0.1 %L 9.2/B% M 4.0% N 2.4 10^9 E 0 B 0 L 0.3/B 10^9/L M 0.1 10^ 9/L)
+- Rx tórax urgencias: condensación LID + parahiliar I
+- Ag en orina neumococo: negativo
+- Pte resultados hemocultivos y antigeno en orina legionela.
+***Evolución: Paciente con los AP descritos previamente, derivado desde residencia por clínica respiratoria a nuestro centro. A su llegada hemodinamicamente estable, broncoplegico, con GSA con tendencia a acidosis hipercapnica que se corrige con reducción aporte de oxigenoterapia. Radiografía tórax sugestiva de neumonia. Analítica con marcadores de inflamación. Se inicia tratamiento antiviral con hidroxicloroquina y azitromicina y cobertura antibiótica con moxifloxacino + broncodilatadores + corticoterapia 40mg/d.
+Dado estabilidad del paciente, pasa a planta médica. Durante su estancia en planta permenece estable hemodinamicamente, afebril, saturaciones mantenidas al rededor de 94-95% con VMK 2L 24% sin trabajo respiratorio.
+De forma abrupta, el día 16.05.2027 sobre las 2.30 am, presenta desaturación hasta 70% con franco trabajo respiratorio y bajo nivel de conciencia. Se inicia tratamiento con corticoides y oxigenoterapia (Monagan) sin respuesta.Ante la no respuesta al tratamiento, el estado crítico del paciente y dada la edad y comorbilidades se desestima tratamiento invasivo en UCI. Se contacta con familiares y se acuerda confort del paciente.El paciente es exitus el 17.05.2027 a las 06.30 h.
+ 
+
+

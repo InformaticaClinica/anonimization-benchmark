@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de pneumònia vírica
+
+protocolo:
+RX DE TÓRAX PORTATIL PA
+
+conclusiones:
+Rx levemente rotada a la derecha. Comparativamente con RX previa del [**10/9/2015**] se observa resolución de las opacidades en la periferia del pulmón izquierdo y mejoría de las opacidades en pulmón derecho, persistiendo en el campo superior y parte del medio.
+
+descrip:
+RX  PORTATIL  TORAX

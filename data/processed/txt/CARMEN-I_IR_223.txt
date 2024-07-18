@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neoplàsia maligna, localització no especificada del coll uterí
+
+conclusiones:
+Respecto a RX de tórax previa de 23/10/2027 se observa leve aumento de las opacidades alveolo-intersticiales parchedas bilaterales de predominio basal, con mayor afectación de la base pulmonar izquierda (pequeño foco consolidativo en la lingula).
+
+descrip:
+RX  PORTATIL  TORAX

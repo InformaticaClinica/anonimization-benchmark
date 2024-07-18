@@ -1,0 +1,12 @@
+
+ECG: ritmo sinusal, sin alteraciones en el QT
+RX TÓRAX [**5/08**]: dudosos patrón intersticial bilateral
+RX TÓRAX [**6/08**]: similar a previa
+RX TÓRAX [**8/08**]: discreto empeoramiento, con aparición de líquido en cisura derecha vs atelectasia
+RX TÓRAX [**9/08**]: similar a previa
+RX TÓRAX [**11/08**]: similar a previa
+RX TÓRAX [**14/08**]: empeoramiento con aparición de infiltrados bilaterales
+TC TÓRAX [**14/08**]: Adenopatías mediastínicas paratraqueales bilaterales, la de mayor tamaño paratraqueal derecha de 10 mm y adenopatía subcarinal de 12 mm, probablemente reactivas. No se observan adenopatías axilares de tamaño significativo. Calcificaciones coronarias. Discreta ateromatosis calcificada aórtica. Espacios pleurales libres. Se observan múltiples focos en vidrio deslustrado bilaterales y difusos de distribución periférica y subpleural compatible con afectación extensa pulmonar por COVID-19. En los LLII de predominio derecho presenta tendencia a la consolidación en forma de banda subpleural con alguna imagen nodular con halo reverso en el segmento basal anterior del LID sugestiva de neumonía organizativa, sin cambios fibróticos evidentes en el estudio actual. Los hallazgos podrían corresponder a cambios evolutivos en la afectación por COVID-19 en las bases pulmonares. Presenta empeoramiento radiológico con aumento de las lesiones pulmonares bilaterales desde RX de tórax de [**9/08**]. Atelectasia del segmento basal posterior del LII. Hernia de hiato. Adenoma suprarrenal izquierdo de 30 mm, sin cambios respecto a estudios previos.
+RX TÓRAX [**16/08**]: estabilidad respecto a Rx [**14/08**]
+RX TÓRAX [**18/08**]: discreta mejoría respecto a previa
+ 

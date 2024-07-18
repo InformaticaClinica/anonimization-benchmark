@@ -1,0 +1,58 @@
+
+prueba:
+PET TC COS SENCER FDG I CONTRAST IODAT E V
+
+clinica:
+Pacient de [**56 anys**] que ha realitzat teràpia CART per un limfoma DCGB refractari als tractaments previs.
+Infecció persistent per SARS-CoV-2 des de fa mesos.
+Interessa reavaluació amb PET-TC als +28 dies del CART ([**25/02/22**]) per valorar resposta precoç a CART.
+Moltes gràcies.
+LINFOMA DIFUSO DE CÉLULA GRANDE B REFRACTARIO
+
+protocolo:
+Radiofármaco: Fluorodesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 8.6 mCi de FDG.
+Glucemia en el momento de la inyección de FDG: 123 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+TC: Se obtiene estudio dinámico torácico y abdomino-pélvico
+
+resultados:
+TC Tórax:
+No se observan adenopatías latero-cervicales bilaterales ni supraclaviculares derechas de tamaño valorable.
+Dos adenopatía supraclaviculares izquierdas patológicas que han aumentado de tamaño respecto al TC previo del [**9-1-2022**]
+No se observan adenopatías axilares de tamaño valorable.
+Se observan adenopatías mediastínicas subcarinales y periesofagicas, patológicas que han aumentado de tamaño.
+Adenopatías hiliares izquierdas patológicas de nueva aparición.
+Se observan adenopatías retrocrurales bilaterales, estables.
+Derrame pleural derecho. Aumento de tamaño del nódulo pleural paracardiaco izquierdo
+Aumento de tamaño de los  nódulos pulmonares respecto al TC previo del [**9-1-2022**] sugestivos de M1.
+TC Abdomen:
+Hígado de morfología y tamaño normal con múltiples lesiones  focales de nueva aparición sugestivas de M1.
+Vena porta y eje esplenomesentérico permeables.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Leve esplenomegalia (13 cm).
+Páncreas sin alteraciones relevantes.
+Adenopatías patológicas celiacas, hilio hepático y porto-cavales.
+Aumento de tamaño del mazacote retroperitoneal parcialmente calcificado que ocupa los espacios retrocaval, interaortocava y paraaórtico, y que se extiende e infiltra el hilio y la cortical renal izquierdo,la glándula suprarrenal y la fascia pararrenal anterior izquierda. Engloba a la aorta y a la vena cava inferior y los vasos renales bilaterales y el uréter izquierdo. La masa en el estudio actual muestra menor densidad que en el estudio previo.
+También se observan múltiples implantes en al grasa perirrenal izquierda que han aumentado de tamaño respecto al TC previo del [**9-1-2022**]
+También se observan implantes en la espacio hepato-renal y grasa perirrenal derecha que han aumentado en numero y tamaño
+El nódulo localizado en la glándula suprarrenal derecha sugestivo de M1, también presenta un aumento de tamaño
+Riñón derecho de morfología normal, sin dilatación de la vía excretora.
+No se observan adenopatías ilíacas de tamaño valorable.
+Líquido libre intraabdominal.
+PET/TC
+Estudio subóptimo debido a extravasación del radiofármaco en el sitio de inyección y al estado general del paciente.
+Se compara el estudio actual con el PET/TC previo del [**9/01/22**].
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Estudio PET/TC que muestra adenopatías con captación patológica de FDG en región supraclavicular izquierda (SUVmáx: 7.77, previo 7.56), mediastínicas subcarinal periesofágica (SUVmáx: 4.24, previo 6.85) así como hiliar izquierda (SUVmáx: 7.54), retrocrural (SUVmáx: 6.40), celíaca (SUVmáx: 7.63), hilio hepático y proto-cavales e ilíacas primitivas; todas ellas atribuibles a su proceso de base.
+Captación patológica y heterogénea de FDG en mazacote retroperitoneal anteriormente descrito con área centrales hipoactivas sugestivas de necrosis (SUVmáx: 6.15, previo 20.26) que engloba las estructuras vasculares adyacentes y compromete también al riñón y glándula suprarrenal izquierda.
+Aumento de captación de FDG en nódulo pleural paracardíaco izquierdo (SUVmáx: 4.54, previo 4.82) y los nódulos pulmonares ya conocidos y descritos en estudio TC previo del 12-4-2021 (el mayor de ellos en língula yuxtacisural SUVmáx: 7.36), atribuibles a afectación pulmonar de su proceso de base.
+Captación heterogénea del radiofármaco en el parénquima hepático con varias áreas de captación más focal en probable relación con afectación hepática por su proceso de base.
+Captación patológica de FDG en los múltiples implantes de la grasa perirrenal izquierda y del espacio hepato-renal y grasa perirrenal derecha.
+Intenso aumento de captación en nódulo suprarrenal derecho (SUVmáx: 7.08), también atribuible a afectación suprarrenal.
+
+conclusiones:
+Estudio PET/TC que muestra progresión de su proceso de base con afectación ganglionar supra e infradiafragmática, mazacote retroperitoneal con extensa afectación de estructuras adyacentes, compromiso hepático y pulmonar.
+
+descrip:
+PET TC COS SENCER FDG I CONTRAST IODAT EV

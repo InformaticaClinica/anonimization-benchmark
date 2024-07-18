@@ -1,0 +1,22 @@
+
+NOTA DE EVOLUCIÓN EN ENFERMEDADES AUTOIMMUNES:
+1. NEUMONÍA ORGANIZATIVA
+2. POSIBLE SÍNDROME DE SJÖGREN Y LUPUS ERITEMATOSO SISTÉMICO
+3. ANEMIA FERROPENICA.
+4. EPILEPSIA
+5. LABILIDAD EMOCIONAL
+1-2. A su llegada a Urgencias se encuentra taquicárdica a 120 lpm, normotensa, afebril y taquipneica a 30 rpm sin trabajo respiratorio, con SatO2 del 93% basal. En la exploración física destacan crepitantes bibasales.
+La radiografía de tórax muestra infiltrados alveolo-intersticiales bilaterales de predominio en bases. En la analítica destaca elevación de reactantes de fase aguda con PCR de 1.25 mg/dL, LDH de 254 U/L sin linfopenia con dímero D 1100 ng/mL.
+Inicialmente y dado el contexto epidemiológico se orienta como una neumonía bilateral por probable SARS-CoV-2 e ingresa en sala de hospitalización para iniciar tratamiento con dolquine, azitromicina y kaletra. Se realiza frotis de SARS-CoV-2 que es negativo.
+Durante su estancia en sala presenta empeoramiento clínico respiratorio con requerimientos de oxigenoterapia con FiO2 de hasta el 40% con disociación de los parámetros de inflamación por lo que el día 30/11 se realiza TC torácico compatible con neumonía organizativa incipienta por lo que se inicia tratamiento con prednisona a dosis de mg/kg/diario.
+Tras 8 días de tratamiento sin presentar mejoría y con resultados de frotis y serología para COVID-19 negativos se decide realizar fibrobroncoscopia con lavado broncoalveolar y biopsia pulmonar siendo el lavado negativo para microorganismos incluyendo SARS-CoV-2 y la biopsia compatible con neumonía organizativa y PCR para SARS-CoV-2 en el tejido de la biopsia negativo. En uno de los lavados broncoalveolares se observan microorganismos compatibles con hongos en la tinción de plata que se ha considerado una contaminación.
+Posteriormente la paciente evoluciona favorablemente con disminución paulatina de las necesidades de oxigenoterapia bajo tratamiento corticoideo.
+Para ampliar estudio etiológico se realiza panel de autoimmunidad donde destacan ANA de 1/640, anticuerpos antiDNA bicatenario positivos a título bajo, antiSm positivio y antiLa positivo débil. Al inicio del ingreso tiene unos anticuerpos anitRo52 positivo intenso y unos titulos de 55 para anticuerpos antiproteinasa 3. El TC de senos paranasales, el sedimento de orina y la orina de 24 horas son normales.
+La anamnesis dirigida revela síntomas de sequedad mucosa de larga evolución así como la aparición de lesiones cutáneas en forma de eritema de distribución variable. Se había realizado la biopsia de unas de las lesiones del muslo que al parecer es compatible con granuloma anular (no disponemos de informes). No refiere fotosensibiliad. La paciente también viene presentando poliartralgias de pequeñas y grandes articulaciones, asimétricas, sin rigidez matutina, que van empeorando a lo largo del día y de evolución muy variable.
+Dada la sospecha de síndrome de Sjögren con neumopatía organizativa con un perfil inmunólogico muy sugesitvo de lupus eritematoso sistémico se ha realizado biopsia de glándula salival, pendiente de resultado al alta, se ha mantenido el tratamiento con prednisona y se ha asociado tratamiento con hidroxicloroquina y micofenolato mofetilo. También se ha realizado una gammagrafía salival que queda pendiente del resultado al alta y estudio del funcionalismo pulmonar que se realizará de forma ambulatoria.
+3. Durante el ingreso presentó anemia ferropénica con ferritina de 10 ng/mL por lo que se pauta hierro ev el 12/05 y se mantiene tratamiento con hierro oral.
+4. Por trastorno epiléptico crónico y potenciales interacciones con fármacos que ha requerido durante el ingreso se ha comentado con neurología que recomiendan sustitutir ácido valpróico por lacosamida 100mg/12h con lo que no ha presentado episodios comiciales durante el ingreso.
+5. Durante el ingreso ha presentado episodios de labilidad emocional importante que valorada por psiquiatria atribuyen a una respuesta vivencial normal en una persona con mucha tendencia a la rumiación e introducen tratamiento con sertralina 50mg diarios y recomiendan seguimiento ambulatorio por médico de cabecera.
+La estabilidad clínica actual permite el alta hospitalaria.
+   
+   

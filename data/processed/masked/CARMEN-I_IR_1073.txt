@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**72 años**] cardiopata que presenta infeccion por covid con enumonia bilateral a dia 8-10 de clinica. Empeoramiento clinico- analitico y radiologico con sospecha de proceso infeccioso sobreañadido.
+Agradeceriamos estudio para filar nuevos infiltrados.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC de tórax sin contraste EV
+
+resultados:
+Adenopatías mediastínicas prevasculares, paratraqueales bilaterales y subcarinales aumentadas de tamaño, a controlar evolutivamente.
+Esternotomía media. Dispositivo de cierre de orejuela izquierda.
+Ateromatosis calcificada aórtica y coronaria. Dilatación auricular izquierda.
+Arteria subclavia derecha aberrante de recorrido retroesofágico.
+Leve derrame pleural bilateral de predominio izquierdo.
+Enfisema paraseptal y centrolobulillar de predominio en LLSS.
+Extensas opacidades en vidrio deslustrado bilaterales y parcheadas, con patrón en empedrado, con tendencia a la consolidación periférica, de predominio en LLSS y segmentos apicales de LLII, más extensas del lado derecho. Hallazgos en relación a neumonía bilateral por COVID-19. En los LLSS la afectación presenta un aspecto "pseudoquístico" debido al enfisema pulmonar de base del paciente. No se observan claros signos de neumonía organizativa en el estudio actual.
+En el segmento apicoposterior del LSI se observa un foco consolidativo nodular de 25 mm de bordes espiculados y con retracción pleural, tributario de control evolutivo precoz tras resolución del proceso infeccioso actual. Si bien podría corresponder al proceso infeccioso, obliga por sus características a descartar proceso neoformativo pulmonar si persiste tras infección actual.
+Pequeña hernia de hiato.
+
+conclusiones:
+Hallazgos en relación a neumonía bilateral por COVID-19 de las características descritas, sin claros signos de neumonía organizativa en el estudio actual. Enfisema paraseptal y centrolobulillar de predominio en LLSS. Leve derrame pleural bilateral de predominio izquierdo.
+Foco consolidativo nodular de 25 mm en el LSI, tributario de control evolutivo precoz tras resolución del proceso infeccioso actual. Si bien podría corresponder al proceso infeccioso, obliga por sus características a descartar proceso neoformativo pulmonar si persiste tras infección actual.
+
+descrip:
+TC TORAX

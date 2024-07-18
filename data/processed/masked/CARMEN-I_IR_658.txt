@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Pacient de [**70 anys**], ingressat per pneumonia covid d'1 mes d'evolució, 2 reintubacions i traqueostomia. Empitjorament respiratori i radiològic malgrat broncoscòpia amb rentat i sense aillaments ni sepsi per pensar en sobreinfecció. Descartar NOC. Gràcies.
+Intubación prolongada
+
+protocolo:
+TC TORAX
+
+resultados:
+Se compara con TC torácica realizada el [**30/05/15**]:
+Traqueostomía con cánula normoposicionada. Sonda nasogástrica normoposicionada. Catéter yugular derecho con extremo en unión atriocaval. Catéter yugular izquierdo de doble luz.
+Adenopatía de tamaño patológico subcarinal de 16 mm y en ventana aortopulmonar de 17 mm, estables.
+No se observa derrame pericárdico. Derrame pleural bilateral que ha aumentado respecto TC previa.
+Focos consolidativos subpleurales y opacidades en vidrio deslsutardo en LLII . Se observa una mayor afectación de campos medios y posteriores, la simágenes son sugestivas de neumonia COVID con mayor extensión del vidrio delsustrado y de los focos consolidativos respecto a TC previa.
+
+conclusiones:
+vr
+
+descrip:
+TC TORAX

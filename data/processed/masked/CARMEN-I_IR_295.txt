@@ -1,0 +1,30 @@
+
+prueba:
+TC TORAX
+
+clinica:
+NEUMONÍA BILATERAL
+
+protocolo:
+TC TORAX URGENTE sin contraste yodado E.V.
+
+resultados:
+Se compara con cortes de bases pulmonaers de TC abdominopélvico del [**1/03/2017**].
+Aparación de múltiples áreas quísticas en la consolidación conocida que abarca la práctica totalidad del LII, sugestivos de corresponder a focos de necrosis (neumonía necrotizante). En LID se observa confluencia de las múltiples focos consolidativos visualizados en TC previo, observandose una gran consolidación con broncograma aéreo que abarca la mayoría de dicho lóbulo.
+En seg. anterior del LSD y en LM se observan múltiples áreas quísticas de bordes engrosados y confluyentes, algunas de gran tamaño, no visualizadas en TC previo, y que podría ser de probable origen residual.
+También se observan tenúes opacidades en vidrio delustrado, algunas de morfología redondeada y otras con engrosamientos septales, de distribución bilateral y difusa, sugestivo de corresponder afectación pulmonar por COVID.
+Todos estos hallazgos en el contexto de la paciente son sugestivos de corresponder a afectación pulmonar por COVID con sobreinfección bacteriana complicada con neumonía necrotizante.
+Aparición de leve neumotórax derecho. Mínimo derrame pleural derecho.
+Drenaje pleural izquierdo con entrada en 7º espacio intercostal y extremo distal en espacio pleural apical. No se observa derrame pericárdico.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Cáteter de vía central con entrada en v. yugular interna derecha y extremo distal en VCS. Tubo endotraqueal con extremo distal a 2,5 cm de la carina. Portador de SNG.
+Prótesis mamarias.
+Leve cantidad de líquido libre en hemiabdomen superior.
+
+conclusiones:
+Hallazgos en parénquima pulmonar sugestivos de corresponder afectación por COVID con sobreinfección en ambas bases pulmonares y complicada con neumonía necrotizante en LII.
+Aparición de múltiples áreas quísticas de aspecto residual en LM y en seg. anterior de LSD.
+Aparición de leve neumotórax izquierdo.
+
+descrip:
+TC TORAX

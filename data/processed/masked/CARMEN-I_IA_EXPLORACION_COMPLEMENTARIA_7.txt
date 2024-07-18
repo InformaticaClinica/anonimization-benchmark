@@ -1,0 +1,32 @@
+
+* MICROBIOLOGÍA
+- PCR COVID 19 ([**27/1**]): Positivo
+- CULTIVO DE ASPIRADO TRAQUEAL ([**30/1**]): S'aïllen més de 2.000.000 i menys de 3.000.000 UFC/mL de Staphylococcus aureus Detecccció directa de la PBP2a: Negatiu. Indica que la soca és sensible a l'oxacil.lina.
+- PCR COVID 19 ([**30/12**]): No concluyente
+- FROTIS RECTAL ([**31/1**]): S'aïlla flora habitual o sapròfita
+- FROTIS NASAL ([**31/1**]): S'aillen colònies de: Staphylococcus aureus oxacilina sensible
+- HEMOCULTIVO ([**31/1**]): S´observen cocs gram positius tipus estafilococ positivo para Staphylococcus aureus multisensible. Crecimiento en 20h
+- HEMOCULTIVO ([**31/1**]): S´observen cocs gram positius tipus estafilococ positivo para Staphylococcus aureus. Crecimiento en 16h
+- PCR COVID 19 ([**31/1**]): Positivo
+- UROCULTIVO ([**31/1**]): Negativo
+- HEMOCULTIVO ([**01/2**]): Negativo
+- HEMOCULTIVO ([**02/2**]): S´observen cocs gram positius tipus estafilococ.
+Positiu per Staphylococcus aureus. Crecimiento en 22h.
+- HEMOCULTIVO ([**03/2**]): Negativo
+- HEMOCULTIVO ([**03/2**]): De catéter de diálisis. S'aillen colònies de: Enterococcus faecium. La soca aillada no expressa resistència d'alt nivell a la gentamicina.
+- HEMOCULTIVO ([**03/2**]): Negativo.
+- HEMOCULTIVO ([**03/2**]): de CVC. Positiu per Staphylococcus aureus.
+- CULTIVO CATETER FEMORAL IZQ ([**04/2**]): Negativo
+- CULTIVO CATETER DIALISIS FEMORAL DER ([**06/2**]): Negativo
+- HEMOCULTIVOS X 2 ([**06/2**]): Negativos
+- CULTIVO CATETER CVC YUGULAR DER ([**06/2**]): negativo
+- FROTIS RECTAL Y NASAL ([**7/2**]): Flora habitual o saprofita
+- CULTIVO BRONCOASPIRADO ([**8/2**]): S'aïllen 10.000 UFC/ml de Staphylococcus aureus
+- HEMOCULTIVO X4 ([**2/11**]): Negativo
+- CULTIVO ASPIRADO TRAQUEAL ([**13/2**]): Negativo
+- COPROCULTIVO Y TOXINA C DIFFICILE ([**13/2**]): Negativo
+- HEMOCULTIVO X4 ([**13/2**]): En curso
+- BRONCOASPIRADO ([**14/2**]): Negativo
+- BRONCOASPIRADO ([**16/2**]): En curso
+- CULTIVO DE CATETER ([**16/2**]): En curso
+ 

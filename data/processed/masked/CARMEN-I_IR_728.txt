@@ -1,0 +1,27 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con Neumonía por COVID 19, complicada con sobreinfección por s.
+malthophila. NEcesidad de ECMO V-V que se retira el [**día 11/06/28**]. Ahora solicitamos TAC de Tórax para descartar signos de NOC incipiete y descartar TEP.
+Además solicitamos TAC de craneo para descartar patología aguda tras registros bajos durante la monitorización.
+Caso comentado con equipo de CDI
+Gracias!
+SOSPECHA SOBREINFECCIÓN EN PACIENTE INMUNODEPRIMID
+
+protocolo:
+TC CRANEAL URGENTE
+
+resultados:
+No se observan imágenes de hemorragia aguda intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular no dilatado y simétrico.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso.
+
+conclusiones:
+Sin signos de patología intracraneal aguda por TC.
+
+descrip:
+TC CEREBRAL

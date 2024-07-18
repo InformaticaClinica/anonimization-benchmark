@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**54 años**]. Clinica de tos, fiebre y expectoración miaglias disgeusia, anosmia. Diarrea, Radiografia con patron de neumonia bialteraial Frotis negativa de COVID interesa valoración para descartar.
+PENDIENTE RESULTADO COVID-19
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Áreas en vidrio deslustrado de predominio periférico en LID con engrosamiento de paredes bronquiales y broncograma aéreo, así como pequeños focos en vidrio deslustrado en LSD y LII, sugestivo de neumonía por COVID-19.
+No se observa derrame pleural ni pericárdico.
+Pequeña hernia hiatal.
+
+conclusiones:
+Patrón radiológico de las características descritas sugestivo de neumonía por COVID-19.
+
+descrip:
+TC TORAX

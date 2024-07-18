@@ -1,0 +1,26 @@
+
+prueba:
+EMBOLIZACION DE ANEURISMAS
+
+clinica:
+Paciente postoperado de DPC el [**día 06/06**]. Reingresa por colecciones intraabdominales en contexto de sospecha de fístula pancreática. En TC de control de hoy se observa Pequeña imagen de 6 mm posterior a la anastomosis gastro-yeyunal, aparentemente
+dependiente de la A. Gástrica Izq, compatible con un pequeño pseudoaneurisma. Se solicita embolización.
+COVID positivo del [**día 22/06**]. Se repite PCR hoy.
+Colecciones post-quirúrgicas.
+
+protocolo:
+ARTERIOGRAFIA DE TRONCO CELÍACO Y EMBOLIZACIÓN
+
+resultados:
+Sedación por parte del equipo de anestesiologia.
+Punción arterial femoral derecha ecoguiada.
+Arteriografias selectivas del tronco celíaco y de la arteria gástrica izquierda que muestran la presencia de una imagen nodular compatible con el pseudoaneurisma descrito en el estudio TC.
+Se cateteriza selectivamente el pseudoaneurisma que se encuentra en una rama distal de la arteria gástrica izquierda mediante un catéter SL-10 y se emboliza con Squid12.
+Las séries de control muestran correcta oclusión del pseudoaneurisma sin migración del material a ramas no deseadas.
+Cierre Mynxgrip efectivo. Compresivo a retirar en 6 horas.
+
+conclusiones:
+Embolización de pseudoaneurisma gástrico sin incidencias.
+
+descrip:
+EMBOLIZACION DE ANEURISMAS

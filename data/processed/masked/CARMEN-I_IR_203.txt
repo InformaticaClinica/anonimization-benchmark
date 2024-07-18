@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**63 anys**]. Comentat amb Radiologia. Per sospita de TEP (insuficiencia respiratòria i D-Dímer 3700), descoagulació empírica. Preguem angio-TC per confirmació de TEP o no (epistaxis, es valoraria retirar descoagulació).
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Ganglio subcarinal de tamaño borderline, inespecífico. No se observan adenopatías axilares o mediastínicas de tamaño significativo.
+No se evidencia derrame pleural ni pericárdico.
+Focos consolidativos y vidrio deslustrado subpleurales, bilaterales y con distribución  predominantemente periférica. Asocian extensas áreas de distorsión parenquimatosa con bandas perilobulares e imágenes en halo inverso. Pérdida de voluman de predominio en pulmón derecho. Los hallazgos descritos son compatibles con infección pulmonar por COVID-19 con patrón de neumonía organizativa y tendencia a la fibrosis.
+Se observa una imagen nodular pulmonar de 14 mm con retracción pleural en el LM, que probablemente esté en relación a los cambios fibróticos, sin embargo, se recomienda control mediante TC en 3 meses (tras resolucíon de cuadro actual).
+Gran hernia de hiato. Bazos accesorios. Nodulo renal hiperdenso en polo superior derecho (15 mm), con calcificación parietal fina, Bosniak II, a estudiar mediante CEUS.
+
+conclusiones:
+No se observa TEP.
+Hallazgos radiológicos compatibles con infección pulmonar por COVID-19 con patrón de neumonía organizativa y tendencia a la fibrosis con pérdida de volumen.
+Llama la atención una imagen nodular pulmonar con retracción pleural en el LM. Se recomienda control radiológico en 3 meses, tras resolución de proceso infeccioso agudo.
+Quiste renal derecho hiperdenso, con calcificación parietal fina. Se recomienda estudio dirigido mediante CEUS.
+
+descrip:
+ANGIO TC PULMONAR

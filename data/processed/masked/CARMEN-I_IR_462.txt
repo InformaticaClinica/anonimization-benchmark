@@ -1,0 +1,17 @@
+
+prueba:
+TC ANGIO ARTERIAL EXTRACRANEAL (TSA)
+
+clinica:
+[**Hombre**] de [**65 años**]. Neumonía por COVID. IOT. Colocación vía central izq en carótida. Solicitamos ANGIO TAC URGENTE CUELLO Y TORAX PARA DESCARTAR TROMBOSIS. Dependiendo de esto DIVAS o QX. Hablado con vascular.
+Gracias
+Descartar trombosis cateter carótida
+
+protocolo:
+TC craneal basal urgente.
+
+conclusiones:
+Se compara con RM previa del [**09/3/2024**]
+
+descrip:
+TC ANGIO ARTERIAL EXTRACRANEAL (TSA)

@@ -1,0 +1,24 @@
+
+prueba:
+DRENAJE DE COLECCIONES LIQUIDAS (CUALQUI ER LOCALIZACION)
+
+clinica:
+Pacient amb carcinoma serós d'ovari amb afectació peritoneal que presenta dilatació d ela via urinària esquerre amb febre persistent.
+S'havia sospitat infecció de PAC, que s'ha retirat, però per persistèncai de la febre es fa ecografia que no pot descartar infecció.
+Interessa nefrostomia. Estava anticoagulada amb enoxaparina 60 mg/12h - última dosi el [**21/7**] a la nit. Gràcies.
+TROMBOFLEBITIS SÉPTICA ASOCIADA A CATÉTER
+
+protocolo:
+NEFROSTOMIA IZQUIERDA
+
+resultados:
+Procedimiento realizado bajo monitorización por parte de Anestesia.
+Mediante guía ecografica y radioscopica punción de caliz inferior renal izquierdo. Se obtiene orina turbia, de aspecto purulento, se envía muestra a Microbiología . Colocación de drenaje tipo pigtail con hilo de retención 10F.
+Finaliza el procedimiento sin complicaciones.
+
+conclusiones:
+Nefrostomía izquierda, sin incidencias.
+Se obtiene orina turbia, purulenta, se envía muestra a microbiología.
+
+descrip:
+DRENAJE DE COLECCIONES LIQUIDAS (CUALQUIER LOCALIZACION)

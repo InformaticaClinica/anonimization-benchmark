@@ -1,0 +1,34 @@
+
+prueba:
+TC UROGRAFIA
+
+clinica:
+Paciente con antecedente de abdominoplastia. Posteriormente se observa pequeña perforación vesical con importante cantidad de líquido retroperitoneal.
+Paciente con ausencia de mejoría clínica. Dolor muy intenso. A la exploración adbomen doloroso, con defensa. Tambien refiere dolor cólico derecho.
+A/S: PCR 30; Leu 12000
+Se solicita TC con fase excretora para descartar fuga urinaria a otro nivel distinto a la mínima perforación vesical.
+Gracias.
+Fasciïtis necrosant
+
+protocolo:
+TC UROGRAFIA URGENTE
+
+resultados:
+Se compara con el TC previo de 10/9/19:
+Cambios posquirúrgicos en relación a abdominoplastía con líquido y enfisema subcutáneo (este último de nueva aparición, probablemente secundario a la colocación de drenajes) de pared abdominal anterior.
+Dos drenajes quirúrgicos uno de ellos con entrada en flanco derecho y extremo distal a nivel de la fascial lateroconal ipsilateral y el segundo con entrada en hipogastrio y extremo distal en vacío izquierdo.
+Riñones funcionantes de tamaño y morfología normal, con nefrograma simétrico bilateral. En la fase extretora se identifica correcta opacificación de ambos uréteres, sin apreciar fugas de contraste.
+Persisten aunque menos evidentes los cambios inflamatorio-flemonosos y el edema de tejido graso profundo a nivel inguinal derecho, siguiendo el trayecto de los vasos femorales con extensión craneal a través del canal inguinal hacia el retroperitoneo.
+Estabilidad de la solución de continuidad de la hoja peritoneal derecha ya conocida.
+Disminución de la extensión del liquido libre retroperitoneal (Retzius, la fosa ilíaca, paraaórtico) e intraabdominal (raíz del mesenterio, espacio peri y pararrenal, gotiera parietocólica derecha y FID), que en la actualidad muestra un apecto pseudocoleccionado.
+Engrosamiento hipodenso del espesor del músculo psoas derecho, algo más evidente en el estudio actual, probablemente secundario a cambio reactivos.
+Engrosamiento parietal del colon ascendente y ángulo hepático, con adecuada captación de contraste,hallazgo de aspecto reactivo, similar al estudio previo.
+Leve derrame pleural derecho con colapso parcial del LID de aspecto pasivo. Leve derrame pleural izquierod mayor que en el estudio previo que condiciona atelectasia pasiva subyacente.
+CVC con extremo distal en unión cavoatrial.
+Resto del estudio sin cambios respecto al previo.
+
+conclusiones:
+vr
+
+descrip:
+TC UROGRAFIA

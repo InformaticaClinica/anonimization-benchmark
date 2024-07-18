@@ -1,0 +1,20 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con ingreso prolongado (más de 3 meses) cirrótico descompensado con neumonía por covid curada hace dos meses y que presenta miopatía del enfermo crítico y recientemente se ha diagnosticado una trombosis de las venas subclavia y axilar dchs, que han requerido de iniciar tratamiento anticoagulante el martes. Durante la noche anterior y toda la jornada de hoy, presenta un dolor abdominal de predominio en hemiabdomen derecho, sin respuesta a analgesia y con líquido ascítico sin criterios de infección ni hemoperitoneo. Por persistencia del dolor, interesa por favor TC abdominal con contraste para descartar principalmente hematoma en psoas/vs otras complicaciones en contexto de inicio reciente de anticoagulación.
+
+protocolo:
+TC ABDOMINAL URGENTE (BASAL + PORTAL)
+
+resultados:
+Abundante ascitis difusa. No se objetivan imágenes sugestivas de hematomas intraabdominales, colecciones ni neumoperitoneo. Hígado de contornos irregulares, hipertrofia del LHI y del caudado, correspondientes hepatopatía crónica, sin lesiones focales evidentes (*obs: no se ha realizado un protocolo dirigido a valoración de CHC).
+Vena porta y eje esplenomesentérico permeables, con pequeños vasos colaterales en lig. gastrohepático y periesplénicos. Esplenomegalia de 17 cm, con pequeña hendidura esplénica. Colecistectomía. Vía biliar no dilatada. Sonda gástrica con extremo distal en antro /región prepilórica. Páncreas, glándulas suprarrenales y ambos riñones sin alteraciones relevantes. Divertículo de 2ª porción duodenal de 2.5 cm.
+Asas intestinales, cólon y apéndice cecal de morfología normal. Sondaje vesical. No se visualizan adenopatías retroperitoneales ni ilíacas de tamaño patológico. Material de artrodesis en columna lumbar (L3-S1). En los cortes torácicos: hallazgos sin cambios a TC de tórax del [**20/2/2019**], correspondientes a cambios pulmonares secundarios a infección pasada por COVID. Mínimo derrame pleural izq.
+
+conclusiones:
+No se observan signos sospechosos de un hematoma intraabdominal ni de hemoperitoneo. Hepatopatía crónica avanzada con signos de hipertensión portal y abundante ascitis difusa. Sistema porta permeable. Cambios post-COVID en bases pulmonares (estable respecto TC previo).
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

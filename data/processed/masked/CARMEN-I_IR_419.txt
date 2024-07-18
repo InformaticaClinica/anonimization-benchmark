@@ -1,0 +1,36 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente [**mujer**] de [**67 años**] ap=nodulo pulmonar solitario(NPS) en seguimiento por neumología [**H14A**], bronquiectasias cilíndricas de prodominio bibasal sin engrosamientos parietales y atelectasias laminares en LII en TAC [**2015**]. ESCOLIOSIS CON + 60% DESVIACIÓN Posible PMR en tto con corticoides en [**julio 2017**], pte de inicio de aclasta por osteoporosis. Adenoma suprarrenal.
+Ingreso por:
+1),,Neumonia bilateral por COVID con insuficiencia respiratoria, ahora satura 94%-GN2L, fatiga al realizar cualquier movimiento. Inicio de clínica [**1/1**], hoy dia+11 de clínica, y diagnostico en [**dia 6/1**] por pcr.
+Ha completado Remdesivir (5 dias) y esta en curso de Dexametasona.
+Refiere tos y fatiga. No tiene fiebre ni otra clínica. Pido TAC torácico porque presenta ligera molestia torácica y mucha fatiga para descartar entre otras cosas NOC. Va con profilaxis con heparina. Tambien por sus bronquiectasias esta cubierta con Pipertazo, pte de analítica para ver si podemos pasar a via oral.
+2),,Insuficiencia respiratoria por 1
+A pesar de tto la paciente sigue presentado sturacion justa con bastante disnea al esfuerzo, rogamos TAC toracico para descartar complicaciones de 1 (noc, tep...)
+NEUMONÍA por SARS-CoV-2
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+Se compara con TC previa de [**04/5/2017**].
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Mínimo derrame pleural bilateral.
+Areas en vidrio deslustrado de distribución periferica subpleural bilateral con afectación de todos los lobulos pulmonares. Mayor consolidación en LII. Algunos de estos focos presentan el signo del halo inverso en LLII que podrian corresponder a focos de neumonia organizativa.
+Bronquiectasias cilíndricas difusas de predominio LLII con engrosamientos peribronquiales.
+Atelectasias laminares en el LII.
+Hernia de hiato.
+Nódulo suprarrenal derecho de 22 mm, hipodenso, sin cambios, sugestivo de adenoma.
+Escoliosis dorsolumbar de convexidad derecha.
+
+conclusiones:
+Empeoramiento radiologico con multiples focos  en vidrio deslustrado bilaterales con focos de neumonia organizativa en LLII.
+Bronquiectasias cilíndricas difusas de predominio LLII.
+Hernia de hiato.
+Adenoma suprarrenal derecho.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

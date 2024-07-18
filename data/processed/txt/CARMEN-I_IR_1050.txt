@@ -1,0 +1,25 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Varón de 51 años con antecedentes de VIH, VHC curada, y sífilis tratada en 11/2015.
+Presenta fiebre de origen desconocido de 4 semanas de evolución. Frotis covid 07/10 negativo. Serologías en curso. TC torax sin aparente afectación por covid, pendiente de informar.
+Solicitamos PET-TC para descartar adenopatías y otro foco, gracias.
+Fiebre prolongada sin foco
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 (FDG). Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 min después de la inyección endovenosa de 7.4 mCi de FDG.
+Glucemia en el momento de la inyección: 119 mg/dl.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Se visualiza moderada captación de FDG en escasas adenopatías mediastínicas localizadas en ventana aortopulmonar, región subcarinal (SUVmáx: 6) e hiliares bilaterales de predominio derecho, de problable características inflamatorias.
+No hay evidencia de depósitos patológicos de FDG en parénquima pulmonar ni hepático.
+No se identifican otras alteraciones en la captación del radiotrazador en el resto de sectores corporales estudiados.
+
+conclusiones:
+PET/TC que muestra captación de FDG en adenopatías mediastínicas e hiliares, de probable características inflamatorias, sin otros signos de enfermedad macroscópica con avidez para la FDG.
+
+descrip:
+PET TC COS SENCER FDG

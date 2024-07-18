@@ -1,0 +1,29 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA POR COVID-19
+
+protocolo:
+RX TORAX PROTATIL
+
+resultados:
+HALLAZGOS:
+Opacidades: Si
+Patrón intersticial: No
+Distribución: Difusa
+Campos pulmonares
+- Pulmón derecho: superior / medio / inferior
+- Pulmón izquierdo: medio / inferior
+Otros hallazgos relevantes:
+EVOLUCION
+Extensión: Estabilidad
+Consolidación: Disminución de las cosnolidaciones en pulmón derecho
+Aparición de fibrosis: No
+
+conclusiones:
+Afectación pulmonar por COVID que muestra mejoría respecto a Rx previa ([**18/08/2013**]).
+
+descrip:
+RX  PORTATIL  TORAX

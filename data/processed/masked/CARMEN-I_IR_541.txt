@@ -1,0 +1,24 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Sospecha de sangrado intrabdominal hematoma del psoas conocido por TC [**08/11**] con líquido libre intra abdominal.
+Gracias
+HEMATOMA PSOAS
+
+protocolo:
+Angio-TC abdominal urgente con contraste ev. y estudio multifase.
+
+resultados:
+En comparación con la TC previa realizada el [**08/11/2024**]:
+- Estabilidad del hematoma retroperitoneal derecho conocido en el músculo psoas, que mide aproximadamente 9 x 7,5 x 17 cm (Laterolateral x Anteroposterior x Craneocaudal), y no muestra signos de sangrado activo.
+- Líquido libre intraabdominal perirrenal, en la fascia pararrenal anterior y presacro, discretamente menor que en el estudio previo. No se observan otras colecciones intraabdominales ni neumoperitoneo.
+- Leve derrame pleural derecho, sin cambios.
+Resto del estudio sin cambios significativos con respecto al previo.
+
+conclusiones:
+Estabilidad del hematoma retroperitoneal derecho conocido, sin visualizar nuevas colecciones intraabdominales ni signos de sangrado activo.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

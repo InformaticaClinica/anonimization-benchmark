@@ -1,0 +1,21 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+varon de 41 años ingresado por neumonia grave por covid19 con requerimiento de colocación de ECMO el 7/11. Durante la madrugada de hoy presenta inestabilidad hemodinámica con requerimientos de SVA y signos de shock hipovolémico. Portador de cateter arterial femoral, presenta sangrado a través de inserción del mismo con hematoma a nivel inguinal que impresiona de pulsátil. Rogamos angioTC urgente para descartar sagnado femoral, retroperitoneal u otros puntos.
+
+protocolo:
+ANGIOTC PÉVICO URGENTE: adquisición antes y después de administrar contraste ev (fases arterial y portal).
+
+resultados:
+Cambios inguinales derechos por colocación de ECMO, con cánula en vena femoral común y catéter en arteria femoral común, sin observar focos de sangrado activo. No se observan imágenes que sugieran la presencia de seudoaneurisma.
+Leve trabeculación de la grasa adyacente al sitio de punción, sin observar colecciones adyacentes. No se observan colecciones retroperitoneales.
+Sonda vesical.
+Resto del estudio sin hallazgos a destacar.
+
+conclusiones:
+Cambios por colocación de cánula venosa femoral derecha y catéter arterial femoral derecho, sin signos de sangrado activo ni imágenes que sugieran la presencia seudoaneurismas.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

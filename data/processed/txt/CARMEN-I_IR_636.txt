@@ -1,0 +1,13 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Mujer de 62a ingresada por neumonia bilateral por COVID19 con ingreso en UCI precisando LAF a flujos moderados. Persiste con necesidad de oxigenoterapia con VMK 31%. Radiografia de tórax que objetiva un patrón más consolidativo. SOlicito TC para descartar NO. Gracias.
+Infecció per coronavirus no especificada
+
+conclusiones:
+Ver informe en la otra prestación de TC tórax.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

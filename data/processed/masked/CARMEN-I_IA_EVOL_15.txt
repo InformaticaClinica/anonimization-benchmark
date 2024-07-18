@@ -1,0 +1,20 @@
+
+* EVOLUCIÓN INFECCIONES:
+1. NEUMONÍA ADQUIRIDA EN LA COMUNIDAD POR NEUMOCOCO (COVID-19 NEGATIVO) EN PACIENTE INMUNODEPRIMIDO
+2. VIH SIN TRATAMIENTO
+Fecha inicio síntomas: [**9.09.2010**]
+Fecha ingreso: [**13.09.2010**]
+Fecha frotis: [**13.09.2010**] - negativo para COVID19
+Fecha inicio tratamiento: [**13.09.2010**]
+Tipo de tratamiento:
+[**13.09.2010**]-[**19.09.2010**]: ceftriaxona, kaletra+truvada, azitromicina y hidroxiclorquina
+Paciente de [**41 años**] con infección VIH+ sin tratamiento antirretroviral desde hace más de cuatro meses, derivado a nuestro centro por tos, febrícula y disnea de 3 días de evolución.
+A su llegada a Urgencias se encuentra hemodinámicamente estable, febricular (37.4ºC), eupneico con SaO2 96% basal. Dada la clínica respiratoria y el contexto epidemiológico actual, se solicita frotis de COVID-19 y se inicia tratamiento empírico con kaletra (y truvada por VIH+), azitromicina y hidroxicloroquina y se decide ingreso en sala convencional [**A465**] para completar tratamiento y control evolutivo.
+Durante el ingreso en la [**A465**], el paciente se encuentra hemodinamicamente estable, afebril en todo momento y eupneico. No requiere oxígeno suplementario. Se añade antibioticoterapia empírica el [**13/09**] con ceftriaxona y profilaxis para PCP con septrin. Refiere mejoría subjetiva, sin disnea en reposo, aunque persistencia de tos con predominio nocturno. En los hemocultivos realizados al ingreso se aislan colonias de Moraxella catarrhalis y Streptococcus pneumoniae (R levofloxacino), se mantiene antibioticoterapia con ceftriaxona completando 6 días de tratamiento.
+En la radiografía de tórax de control, no se observa el dudoso infiltrado izquierdo y en ápice izquierda. Se solicita quantiferón que es negativo y esputo en el que no se observan bacilos ácido alcohol resistentes, cultivo al alta en curso que se valorará en visita sucesiva de H. día.
+Dada la negatividad para PCR de SARS-CoV-2, los aislaminetos que ofrecen un diagnóstico alternativo a COVID y la radiografía y analítica poco características de COVID, se decide alta hospitalaria descartando COVID (aún así recibió tratamiento completo de forma empírica tras la sospecha inicial y por ser un paciente inmunodeprimido).
+En cuanto al VIH, se mantiene Triumeq al alta y profilaxis con Septrin.
+Se realiza TAC pulmonar para completar estudio pulmonar, pendiente de reporte al alta. Se solicita cita de control en H. Día.
+Se ha ofrecido alta a centro en varias ocasiones, se valoró por trabajadora social. Hoy tenía sitio, sin embargo el paciente lo ha rechazado.
+   
+   

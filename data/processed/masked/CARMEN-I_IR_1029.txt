@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con infección por COVID19. Presenta mejoría clínica y analítica pero persiste mala evolución Rx. Solicitamos TC para descartar complicación (fibrosis, NOC). Gracias
+INFECCIÓN POR COVID-19
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Adenopatías subcarinales, la mayor de 12 mm, probablemente reactivas.
+Discretas calcificaciones coronarias.
+Espacios pleurales libres.
+Focos consolidativos periféricos derechos de predominio en el LID y LM con morfología de halo reverso y discretas dilataciones bronquiales asociadas, sugestivo de neumonía organizativa. En el LSD se observan focos periféricos en vidrio deslustrado con tendencia a la organización.
+Tenues opacidades tenues peribroncovasculares en vidrio deslustrado en el resto del pulmón derecho.
+En el pulmón izquierdo se observa menor afectación respecto al pulmón contralateral con presencia de focos en vidrio deslustrado más tenues de disposición peribroncovascular y periférica, predominando en el LSI.
+Los hallazgos son correspondientes a la evolución en las RX de tórax en donde se observa mayor consolidación basal derecha desde el [**13/02**].
+Pequeña hernia de hiato.
+Colelitiasis.
+
+conclusiones:
+Neumonía bilateral por COVID-19 con mayor afectación del pulmón derecho en donde se observan focos de neumonía organizativa de predominio basal.
+
+descrip:
+TC TORAX

@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+Paciente con hematoma gemelar. Hoy nuevos signos de resangrado. Se solicita nuevo AngioTC. Gracias.
+Síndrome compartimental no traumàtica, extremitat inferior dreta
+
+protocolo:
+AngioTC de abdomen y EEII URGENTE en condiciones basales y
+
+resultados:
+Se compara con TC de abdomen sin contraste del [**10/06/21**] y TC de abdomen y EEII del [**08/06/21**].
+Respecto a TCs previos se observa:
+- Cambios posquirúrgicos en la pantorrilla derecha con aumento de volumen respecto al contralateral. Aumento del diámetro de la pierna respecto a TC previo y desestructuración de los músculos del compartimento posterior, reemplazados actualmente por una imagen heterógenea, con áreas basalmente hiper e hipodensas, sin captación de contraste, que podría corresponder a áreas de necrosis y restos de hematoma muscular. En las fases contrastadas, se oberva una imagen nodular de nueva apaparición posterior a la membrana interosea, caudal al coil metálico de embolización previa, que no cambia de tamaño en las fases dinámicas, sugestivo de pseudoaneurisma. No se observan signos de sangrado activo en el momento actual.
+- Estabilidad de tamaño del pseudoaneurisma dependiente de la arteria iliaca común derecha conocido, de proximadamente 9 cm adyacente al margen anterior del stent ilíaco derecho. Presenta signos de llenado del mismo a través del stent, también sin cambios significativos respecto a TC previo. No se observan signos que sugieran extravasación de contraste hacia la cavidad intraabdominal ni de rotura. Stents en ambas arterias ilíacas comunes. Aorta abdominal infrarrenal y sector ilíaco bilateral permeables.
+- Disminución de tamaño del hematoma subcapsular del injerto renal en FII, actualmente de (88 x 66 x 39 mm, previo de 90 x 82 x 50 mm (APxTxCC)), sin signos de sangrado activo. Sigue condicionando efecto masa con deformación del margen superior del injerto. Vía excretora del injerto no dilatada. Se observan dos coil metálicos en tercio medio con dos pequeñas áreas de hipodensidad parenquimatosa triangular asociadas, estables. Arteria y vena del injerto permeable.
+- Aumento del derrame pleural bilateral respecto a TC previo, con estabilidad del derrame pericárdico. Disminuición del la ascitis respecto a TC previos, actualmente de discreta cuantía y distribución difusa.
+Resto del TC, sin cambios significativos:
+Hígado, bazo, vesícula, via biliar, páncreas y glándulas suprarrenales de características normales. Riñón trasplantado atrófico y calcificado en la fosa ilíaca derecha. Riñones propios atróficos. Correcta captación de asas de intestino delgado y colon. Quiste de Baker izquierdo.
+En los cortes de tórax inferior, incluidos en el estudio se observa cardiomegalia, atelectasias laminares bibasales, derrame pleural y pericárdico descritos y vidrio deslustrado difuso.
+
+conclusiones:
+- Desestructuración de los músculos del compartimento posterior, reemplazados actualmente por una imagen heterógenea que podría corresponder a áreas de necrosis y restos de hematoma muscular. Imagen nodular sugestivo de pseudoaneurisma en localización descrita. No se observan signos de sangrado activo en el momento actual.
+- Estabilidad de tamaño del pseudoaneurisma dependiente de la arteria iliaca común derecha conocido con signos de llenado del mismo a través del stent, sin cambios. No se observan signos que sugieran extravasación de contraste hacia la cavidad intraabdominal ni de rotura.
+- Disminución de tamaño del hematoma subcapsular del injerto renal en FII, sin signos de sangrado activo.
+- Aumento del derrame pleural bilateral respecto a TC previo, con estabilidad del derrame pericárdico. Disminuición del la ascitis respecto a TC previos, actualmente de discreta cuantía y distribución difusa.
+Resto del TC, sin cambios significativos.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Comentado telefónicamente, Varón de 86 a con múltiples comorbilidades, neumonía por COVID-19 con inicio de síntomas hace 1 mes. TAC con NOC a inicio del ingreso, persiste actualmente estancado con FiO2 40-60%.
+Aumentamos corticoides y solicto TAC de control. Gracias!
+NEUMONÍA ORGANIZATIVA POST COVID
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No hay derrame pleural ni pericárdico.
+Con respecto a control previo del 19/2/2012 se observa una evolución de las áreas en vidrio deslustrado difusas a opacidades alveolares con bronquiectasias de tracción, aparición de atelectasias subsegmentarias, distorsión de la arquitectura parenquimatosa y signos de la arcada, todo ello en relación a signos de fibrosis y evolución hacia neumonía organizada.
+
+conclusiones:
+Afectación pulmonar por COVID con signos de evolución a neumonía organizada.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

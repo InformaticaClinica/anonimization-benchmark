@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+PAciente de 75 años, IOT por neumonía grave por covid,.
+Pese a 3 días suspendida sedonalgesia con propol y remifentanilo present ausencia de conexión con el medio.
+Se solicita TC de craneo, gracias.
+COVID-19
+
+protocolo:
+TC CRANEAL BASAL
+
+conclusiones:
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en relación con cambios involutivos.
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+
+descrip:
+TC CEREBRAL

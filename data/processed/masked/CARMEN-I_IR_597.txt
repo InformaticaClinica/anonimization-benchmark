@@ -1,0 +1,29 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con antecedentes de transplante renal, LCGCB ingresada por nuemonía grave por COVID.
+Presenta alteración del estado de conciencia con hiperamonemia, sin signos claros de fallo hepático.
+A nivel cerebral descartar HTIC
+A nivel abdominal valoración de pancreas y descartar infiltración hepática esplénica por el linfoma.
+Gracias
+ANTIGENURIA POSITIVA PARA NEUMOCOCO
+
+protocolo:
+TC CEREBRAL
+
+resultados:
+Se compara con el estudio previo del [**21/10/2011**]:
+No se observa sangrado agudo intracraneal.
+Persiste la hipodensidad en la sustancia blanca frontal izquierda adyacente al asta frontal del VLI que además presenta retracción lo que sugiere cronicidad.
+Ensanchamiento de los surcos cerebrales de predominio bifrontoparietal mayor al esperable por la edad de la paciente.
+Estructuras de la línea media centradas. Sistema ventricular de tamaño y forma conservados.
+Cisternas de la base libres.
+Silla turca vacía.
+
+conclusiones:
+Estabilidad radiológica respecto al estudio previo.
+
+descrip:
+TC CEREBRAL

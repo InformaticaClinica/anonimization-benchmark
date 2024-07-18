@@ -1,0 +1,23 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Urotelial metastàsic amb anticoagulació retirada per insuficiència renal que presenta important edema de l'extremitat inferior esquerra.
+Descartar TVP. Gràcies.
+
+protocolo:
+ECOGRAFIA DOPPLER VENOSO DE EII
+Obs. Dr Castellano
+
+resultados:
+Venas femoral común, superficial y profunda izquierdas permeables, compresibles y sin signos ecográficos de TVP.
+Venas poplítea y musculares gemelares izquierdas permeables, compresibles y sin signos ecográficos de TVP.
+Aumento de la ecogenicidad del tejido celular subcutáneo de muslo y pierna en relación a edema del mismo.
+
+conclusiones:
+Sin signos ecográficos de TVP.
+Aumento de la ecogenicidad del tejido celular subcutáneo de muslo y pierna en relación a edema del mismo.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

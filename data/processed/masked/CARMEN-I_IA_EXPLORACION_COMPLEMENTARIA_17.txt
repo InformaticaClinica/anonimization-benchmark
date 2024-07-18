@@ -1,0 +1,15 @@
+
+- EKG al ingreso: ritmo sinusal 60 lpm, QTc 44
+- Frotis PCR COVID: [**18.10**] indetectable, [**20.10**] positivo, [**03.11**] positivo, [**5.11**] positivo, [**9.11**] positivo, [**16.11**] positivo, [**18.11**] positivo.
+- Frotis nasofaríngeo ([**20.10**]): Influenza A y B indetectable. VRS indetectable
+- HCx 2 neg + HC transcateter ([**11.04**]): negativos
+- Cultivo frotis catéter ([**11.04**]): Serratia marcencens Amikacina RAmox./àc. clavulànic R Ampicil.lina R Cefotaxima S Ceftazidima S
+Cefuroxima R Ciprofloxacina S Cotrimoxazol S Ertapenem S Gentamicina S Imipenem S Meropenem S Pipera/tazobactam S Tobramicina R
+- Urinocultivo ([**11.04**]): Klebsiella pneumoniae
+Amikacina S Amox./àc. clavulànic R Ampicil.lina R Cefotaxima S Ceftazidima S
+Cefuroxima S Ciprofloxacina S Cotrimoxazol S Ertapenem S Fosfomicina R Gentamicina S Imipenem S Meropenem S Pipera/tazobactam S Tobramiciina S
+- Corpocultivo y toxina C. difficile ([**9.11**]): negativos.
+- Muestra sanguínea PCR ([**9.11**]): parvovirus B19, CMV i VEB indetectable.
+- Frotis nasal MRSA ([**9.11**]): negativo
+- HC y HC transcateter ([**11.11**]): negativos.
+ 

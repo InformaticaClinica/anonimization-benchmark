@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 61 años, actualmente ingresada por neumonía bilateral por SARS-CoV-2 (inicio síntomas 11/02, TAR + 8/11), en tratamiento condexametasona 8 mg (inicio 9/11) y bolus de metilprednisolona (x3), presentando incremento de los requerimientos de oxigenoterapia VMK 60% ,sin signos clínicos ni analíticos de sobreinfección bacteriana ni aislamientos microbiológicos. A descartar TEP.
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+Defecto de repleción compatible con TEP en rama segmentaria basal posterior izquierda. Arterias pulmonares principales y ramas lobares permeables. Tronco de la arteria pulmonar permeable de calibre normal.
+No se observan adenopatías axilares o mediastínicas de tamaño valorable.
+Sin derrame pleural o pericárdico.
+Parénquima pulmonar con presencia de opacidades en vídrio deslustrado difusas y consolidaciones de predominio periférico y basal, compatibles con neumonía bilateral por COVID-19. Así mismo se observan algunas bandas subpleurales y halo reverso en segmentos inferiores, que traduce organización incipiente.
+
+conclusiones:
+TEP agudo en rama segmentaria izquierda. Hallazgos compatibles con neumonía bilateral por COVID-19 con signos de organización incipiente.
+
+descrip:
+ANGIO TC PULMONAR

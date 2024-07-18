@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Mujer**] [**65 años**], asmática de antecedentes
+COVID desde hace 2 semanas
+Evolución desfavorable con hipoxemia refractaria
+Precisa ATB (sobre infeccion aspergilus) + Corticoides + iNO Pronada en varias ocasiones
+Solicitamos TAC pulmonar
+Gracias
+INSUFICIENCIA RESPIRATORIA secundaria A 1.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+*Abundantes artefactos condiconados por los miembros superiores, por lo que la exploración es parcialmente valorable.
+No se observan claros defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Permeabilidad del tronco pulmonar principal, de calibre normal.
+Espacios pleurales libres. No hay derrame pericárdico.
+No se observan adenopatías axilares de tamaño significativo. Presencia de adenopatías mediastínicas prey paratraqueales, prevasculares, subcarinales e hiliares bilaterales.
+Opacidades en vidrio deslustrado extensas y difusas de predominio en LLSS y LM que confluyen y tienden a la cosolidación en los aspectos posteriores lobares superiores.
+Extensas consolidaciones neumónicas con presencia de broncograma aéreo que afectan ambos LLII subtotalmente.
+Los hallazgos descritos estan en relación con infección por COVID en evolución.
+
+conclusiones:
+No hay signos de TEP.
+Signos de infección por COVID en evolución.
+
+descrip:
+ANGIO TC PULMONAR

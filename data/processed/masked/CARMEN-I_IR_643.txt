@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR Y EXTREMIDADES
+
+clinica:
+[**Mujer**] de [**73 años**] con Neumonia bilateral por COVID-19 de inicio el [**19/02/2027**], ingreso el [**27/02**]. Al ingreso Sat 95% con lentillas a 2 litros. Discreto deterioro clínico por lo que se administra tocilizumab ([**1/03**]) con buen respuesta clínica y analítica. En las ultimas 24 h deterioro respiratorio con aumento de los requerimientos de O2 (actual FiO2 40%/Sat 96%) pese a mantenerse afebril y con mejoría de parametros analíticos asociados a infección por COVID-19. DDmero en incremento, hoy
+2600. Descartar TEP.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Pátron pulmonar con opacidades dispersas en vidrio delustrado y engrosamiento septables (empedrado) de distribución periférica, que se acompaña de algunas pequeñas consolidaciones y bronquiolectasias de tracción en ambas bases pulmonares. Hallazgos compatibles con afectación severa por COVID en el contexto. Muestra estabilidad respecto a radiografía del [**1/03/2027**].
+
+conclusiones:
+No se observan signos que sugieran TEP. Signos compatibles con afectación pulmonar severa por COVID, con estabilidad radiológica respecto a radiografía del [**1/03/2027**].
+
+descrip:
+ANGIO TC PULMONAR Y EXTREMIDADES

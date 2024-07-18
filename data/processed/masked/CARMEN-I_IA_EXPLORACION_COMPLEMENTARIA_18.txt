@@ -1,0 +1,94 @@
+
+[**10/12/2012**].
+ANALÍTICA:
+BIOQUÍMICA GENERAL
+Proteïna C reactiva (PCR) 2.40/A mg/dL
+Glucosa 66 mg/dL
+BUN 16 mg/dL
+Creatinina 0.72 mg/dL
+Filtrat glomerular calculat [CKD-EPI] >90*
+Per a l'estimació del filtrat glomerular es fa servir l'equació CKD-EPI assumint que el pacient és de [**raça blanca**] (valor numéric s'informa fins a 90 ml/min/1,73 m2)
+* Magnitud en: mL/min/1,73m2
+Colesterol total 143 mg/dL
+Valor desitjable <200 mg/dL
+Triglicèrids 106 mg/dL
+Aspartat aminotransferasa (ASAT) 23 U/L
+Alanin aminotransferasa (ALAT) 14 U/L
+Gamma glutamil transpeptidasa (GGT) 37 U/L
+Bilirrubina total 1.0 mg/dL
+Bilirrubina directa 0.4 mg/dL
+Bilirrubina indirecta 0.6 mg/dL
+Fosfatasa alcalina 86 U/L
+Lactat deshidrogenasa (LDH) 280/A U/L
+Proteïnes totals 63 g/L
+Albúmina 37 g/L
+Sodi 141 mEq/L
+Potasi 3.7 mEq/L
+Procalcitonina, plasma 0.07 ng/mL
+Calci 9.0 mg/dL
+Fósfor 2.9 mg/dL
+Magnesi 1.9 mg/dL
+HEMOGRAMA
+Leucòcits 4.00 10^9/L
+Hematies 4.06/B 10^12/
+Hemoglobina 113/B g/L
+Hematòcrit 0.360/B L/L
+VCM (Volum eritrocitari mig) 88.3 fl
+HCM (Hemoglobina eritrocitària mitja) 27.8 pg
+CCMH (Concentr. corpusc. mitja Hb) 315 g/L
+HEMOGRAMA
+CHCM (Concentració d'hemoglobina eritroc 326 g/L
+ADE (Amplada de la distribució eritrocit 17.0%
+HDW (Amplada de la distribució HB) 31.2/A g/L
+Macròcits 1.5%
+Micròcits 2.6%
+Hematies hipocròmics 5.4/A%
+Plaquetes 193 10^9/
+Volum plaquetari mig 8.2 fl
+PDW(Amplada de la distribució plaquetar) 50.7%
+RECOMPTE DIFERENCIAL AUTOMÀTIC
+Atenció: .
+No vàlid en cas de recompte diferencial leucocitari manual.
+Neutròfils 49.7%
+Eosinòfils 3.2%
+Basòfils 0.9%
+Limfòcits 39.4%
+Monòcits 4.8%
+LUC 2.0%
+Neutròfils 2.0 10^9/
+Eosinòfils 0.1 10^9/
+Basòfils 0.0 10^9/
+Limfòcits 1.6 10^9/
+Monòcits 0.2 10^9/
+LUC 0.1 10^9/
+HEMOSTÀSIA GENERAL
+Temps de protrombina (%) 72.0/B%
+Temps de protrombina (seg) 13.2 seg
+Temps de protrombina, rati 1.11
+INR 1.18
+Dímer D quantitatiu 1300/A ng/mL
+BACTERIOLOGIA
+Prova reagínica lues. VDRL Negatiu
+Ac IgG anti-Bartonella henselae, En curs
+IgG Mycoplasma pneumoniae En curs
+IgM Mycoplasma pneumoniae En curs
+Ac IgM anti-Bartonella henselae, En curs
+Ac IgG anti-Bartonella quintana,
+Ac IgM anti-Bartonella quintana,
+IgM Coxiella burnetti
+Ac Brucella
+IgG Coxiella burnetti
+IgM Rickettsia conorii
+IgG Rickettsia conorii
+Leptospira, serologia IgG
+Leptospira, serologia IgM
+Ac IgG Borrelia burgdorferi (Lyme), sèru
+Ac IgM Borrelia burgdorferi (Lyme), sèru
+MICROBIOLOGÍA:
+Frotis nasofaríngeo [**1/12**] para SARS-CoV-2 indetectable.
+HEMOCULTIVOS [**1/12**]: NEGATIVOS
+UROCULTIVO [**30/11**]: Se aíslan colonias de K. pneumoniae BLEE.
+IMAGEN:
+Radiología de tórax: sin hallazgos sugestivos de infiltrados compatibles con COVID-19.
+PET: Estudio PET/TC que muestra hallazgos más sugestivos de cambios post- quirúrgicos que de proceso infeccioso activo en Bentall y prótesis valvular aórtica. Proceso inflamatorio/infeccioso pulmonar izquierdo indeterminado para COVID-19. Presencia de aerobilia.
+ 

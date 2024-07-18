@@ -1,0 +1,33 @@
+
+INFORME ADMISIÓN UTR ([**Llerena**])
+[**Mujer**] con antecedentes de hipoacusia familiar, carcinoma papilar de tiroides con tiroidectomía total y paratiroidectomía (por hiperPTH secundario) en [**1991**], ERC por GN membranoproliferativa, receptora de su tercer trasplante renal en [**diciembre 2016**] (donante en muerte encefalica, programa hipersensibilizados) con Cr basal de 1.2-1.3 mg/dL y posterior ingreso por shock séptico de foco urinario por EColi MS. Fibrilación auricular de reciente diagnóstico en tratamiento con Eliquis.
+Ingreso hace tres meses por hipocalcemia sintomática que requirió inicio de teriparatida, rocaltrol, HCT y calcio elemento, mateniendo calcio en rango posteriormente. En todo este contexto presenta disfunción renal (Cr 2.5 mg/dL) por lo que se realizó el [**día 26 de abril**] biopsia renal con resultado:
+- Alteraciones compatibles con rechazo humoral agudo C4d negativo (g2, ptc2, v0)
+- Signos de microangiopatía trombótica evolucionada (se aprecia un glomérulo con colapso completo capilar y esclerosis incipiente (además de los 2 glomérulos en situación de esclerosis global). En una arteriola imagen de trombosis recanalizada).
+- Fibrosis intersticial con atrofia tubular leves.
+- Alteraciones vasculares crónicas moderadas.
+Acude a urgencias por debilidad, astenia, malestar general, náuseas sin vómitos. Sin síntomas respiratorios. No fiebre en ningún momento.
+A su llegada tendencia a hipotensión arterial PA 92/45, FC 100x, bien perfundida, sin edemas periféricos. ACR normal salvo arritmia, sin crepitantes.
+Analítica con PCR 1, Cr 2.8 (tras hidratación, 2.4), perfil hepático normal, Na 135, K 4.4, Ca 14.3, Mg 2.3, Hto 47% (previo hace una semana 34%). DDimero 1400. RxTx sin consolidaciones, leve pinzamiento costofrénico izquierdo. ECG con fibrilación auricular ya conocida, sin alteraciones en el QT.
+OD/
+- Hipercalcemia de etiología farmacológica.
+- Rechazo humoral agudo.
+Plan/
+- Sondaje vesical e hidratación.
+- Solicito frotis para COVID-19. La paciente no tiene clínica respiratoria ni fiebre/febrícula y es poco probable que sea positivo.
+Sin embargo, a pesar de múltiples factores que lo puedan causar, tiene DDimero elevado, linfopenia leve (si bien tiene histórico de linfopenia) y mínima elevación de LDH (si bien muestra hemolizada), y dado que probablemente pueda recibr tratamiento para rechazo humoral, comentado con Infectología se decide solicitud de frotis para COVID-19.
+    
+**NOTA EVOLUCIÓN EN SALA UTR:
+1. HIPERCALCEMIA PROBABLE 2aria a DESHIDRATACIÓN + FARMACOLÓGICA
+2. Tercer TRDC DBD PATHI (cPRA 99%) el [**29/12/16**]. Bx renal ([**26/4/17**]) RAH -> bolus MTP 250x2 + IgIV ev 35g x2
+3. BACTERIURIA ASINTOMÁTICA por PROTEUS MIRABILIS
+1-3. A su llegada a urgencias paciente con tendencia a hipotensión arterial (TA 92/45), FC 100x, bien perfundida, sin edemas periféricos.
+ACR normal salvo arritmia, sin crepitantes.
+ECG con fibrilación auricular ya conocida, sin alteraciones en el QT.
+Rx de tórax sin consolidaciones, leve pinzamiento costofrénico izquierdo.
+Analítica con PCR 1, Cr 2.8, perfil hepático normal, Na 135, K 4.4, Ca 14.3, Mg 2.3, Hto 47% (previo hace una semana 34%). D-Dimero 1400.
+Se orienta como hipercalcemia 2aria probablemente a deshidratación + etiología farmacológica. Se realiza sondaje vesical, se retira tratamiento con mastical + rocaltrol + teriparatida y se inicia sueroterapia. Ingresa a cargo de UTR. Se realiza frotis para COVID-19 con resultado negativo.
+Durante su estancia en sala progresiva normalización de la función renal así como de las cifras de calcio, permitiendo reintroducción de teriparatida 20 mcg subcutáneos cada 24h, rocaltrol 0.5mg cada 24h y mastical 1 comprimido en cada comida. Al alta creatinina de 1.66 mg/dL, FG 31 mL/min, Ca 8.32 mg/dL corregido por Albúmina. Niveles FK de 8.0 ng/mL y Evelorimus 6.2 ng/mL por lo que se disminuye Everolimus a 1mg cada 12h. Advagraf 6mg/24h y Prednisona 10mg sin cambios.
+3. Sedimento de orina con leucocitos 35-60/campo y bacterias abundantes en paciente trasplantada renal que ha recidibo recientemente tratamiento antirechazo con bolus de metilprednisolona + IgIV. Por este motivo se inicia cobertura antibiótica empírica con ceftriaxona 1g/24h ev. Previo al alta se aísla en urinocultivo Proteus Mirabilis. Al alta se mantiene tratamiento con cefuroxima vía oral según antibiograma, a cumplir en total 5 días de tratamiento (faltan 2 días más por vía oral)
+Ante evolución clínica favorable bajo el tratamiento administrado, con normalización de las cifras de calcio y progresiva mejoría de la función renal, se decide alta a domicilio para mantener controles en CCEE UTR (Dr. [**Majida**]).
+    

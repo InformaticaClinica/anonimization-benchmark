@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente [**varón**] de [**58 años**] con neumonía por Covid y empeoramiento durante su estancia en intermedios con Dímero D elevado por lo que se descoaguló empíricamente. Baja sospecha de TEP por lo que se retiraría anticoagulación. Solicitado angio-TC [**día 09.01**]. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Adenopatía paratraqueal baja derecha de 10 mm. Adenopatía hiliar derecha de 12 mm. Adenopatía subcarinal de tamaño borderline (9 mm). Ganglios prevasculares infracentimétricos infracentimétricos, inespecíficos.
+No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado de predominio en lóbulos superiores con engrosamientos septales (patrón de crazy paving) con un patrón consolidativo en segmento posteriores asociado a dilataciones bonquiales. En lóbulos inferiores se observan bandas subpleurales en relación a evolución de la neumonía por COVID-19.
+Hernia de hiato. Colecistectomía.
+
+conclusiones:
+-No se observan signos de TEP.
+-Hallazgos en relación a neumonía por COVID-19.
+
+descrip:
+ANGIO TC PULMONAR

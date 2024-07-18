@@ -1,0 +1,25 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+[**Hombre**] de [**61 años**] con infección por COVID-19 que presenta dolor abdominal en HCD, con murphy positivo, y ligera elevación de transaminasas con fiebre persistente. Aunque se justifica por infección por COVID, ruego eco abdominal par descartar colelitiasis/colecistitis.
+Gracias
+covid
+
+protocolo:
+Ecografía portátil urgente.
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. Vena porta permeable de calibre normal y flujo hepatopetal.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+Estudio ecográfico dentro de la normalidad.
+
+descrip:
+ECO BASAL (ABDOMEN)

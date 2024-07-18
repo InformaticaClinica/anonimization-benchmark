@@ -1,0 +1,29 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Varón de 26 años Hsh. Acude por clinica de vómitos a la que se le añade diarrea en los últimos 4 días con deposiciones liquidas abundantes con hematoquecia. Solicito TAC abdominal para completar estudio. Gracias.
+COVID-19
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en condiciones basales y en fase arterial y portal, tras administrar contraste iv.
+
+resultados:
+Engrosamiento parietal hipodenso de todo el marco colónico y recto, asociado a discreta trabeculación y mínima cantidad de líquido adyacente. Estos hallazgos son compatibles con panproctocolitis de probable origen infeccioso.
+No se observan colecciones ni neumoperitoneo.
+Llama la atención el apéndice cecal aumentado de calibre en sus porción distal hasta 9 mm, con apendicolito en su interior, con discreta hipercaptación mucosa en este segmento y mínima cantidad de líquido libre adyacente a la punta. Si bien estos hallazgos como primera opccion podría ser reactivos a la panproctocolitis descrita, los hallazgo son inespecificos y no excluyentes apendicitis aguda. A valorar en la evolucion clínica
+Asas de intestino delgado y colon, de calibre normal, con correcta captación de contraste.
+Hígado de tamaño y morfología normales. No se observan lesiones focales.
+Bazo, páncreas, glándulas suprarrenales, vesícula y vías biliares sin alteraciones significativas.
+Riñones de tamaño y morfología normales, con nefrograma simétrico. No se observa dilatación de la vía excretora.
+Tronco celiaco, arteria mesentérica superior e inferior permeables. Eje porto-espleno-mesentérico permeable.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+En los cortes de tórax, se observan opacidades en vidrio deslustrado bilaterales en ambas bases pulmonares y en língula, de predominio derecho, algunas de ellas con tendencia a la consolidación. Estos hallazgos son compatibles con infección COVID19 conocida (paciente con frotis positivo). No se observan otros hallazgos significativos.
+
+conclusiones:
+Hallazgos compatibles con panproctocolitis de probable origen infeccioso. Llama la atención los hallazgos descritos en relación al apéndice cecal no permiten descartar apendicitis aguda. A valorar clínicamente.
+Hallazgos compatibles con infección COVID19 conocida (paciente con frotis positivo).
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

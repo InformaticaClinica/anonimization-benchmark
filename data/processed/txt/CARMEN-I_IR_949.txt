@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+1. NEUMONIA BILOVAR ESQUERRA PER COVID19.
+
+protocolo:
+Rx portátil de tórax. Se compara con previa del 25/05/2019.
+
+resultados:
+Placa parcialmente rotada.
+Persistencia con leve progresión en densidad de las opacidades de tipo alveolo-intersticial de predominio en campos pulmonares superior, medio e inferior del lado izquierdo y superior del lado derecho consistentes con afectación parenquimatosa por COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,30 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Paciente con Sd Down de [**568 años**].- Ingreso prolongado por COVID-19.
+Presenta Bacteriemia por S. aureus meticilin sensible i aparición de artritis en muñeca derecha. Sospecha endocarditis infecciosa con metástasis séptica. Agradeceremos valoración.
+COVID POSITIVO
+
+protocolo:
+Radiofármaco: Fluorodesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 6.86 mCi de FDG.
+Glucemia en el momento de la inyección de FDG: 71 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Estudio PET/TC que no muestra en la actualidad signos sugestivos de endocarditis infecciosa (EI). No obstante, cabe recordar el bajo rendimiento diagnóstico de la técnica para EI en válvulas nativas.
+Refuerzo de captación focal (SUVmáx: 5.01) en el margen tenar de carpo izquierdo que interpretamos en relación con el antecedente referido de artritis de muñeca.
+Intenso aumento de captación del radiofármaco (SUVmáx: 5.91) de distribución irregular y parcheada por ambos parénquima pulmonares que en las imágenes del TC coincide con opacidades y áreas en vidrio deslustrado bilaterales que han mejorado respecto al TC del [**27/3/17**].
+Interpretamos estos hallazgos como actividad inflamatoria relacionada con el proceso infeccioso pulmonar secundario a SARS-CoV-2 ya conocido.
+Refuerzo de captación focal en fractura de isquion izquierdo, probablemente antigua.
+Aumento de captación difuso en médula ósea y bazo que interpretamos como de carácter reactivo a proceso inflamatorio/infeccioso.
+En el resto de los sectores corporales estudiados no se aprecian otros depósitos patológicos del radiofármaco ni hallazgos sugestivos de émbolos sépticos.
+
+conclusiones:
+Estudio PET/TC que no muestra en la actualidad signos sugestivos de endocarditis infecciosa. Intensa captación del radiofármaco en parénquima pulmonar atribuible proceso infeccioso secundario a SARS- CoV-2 ya conocido. Imagen compatible con artritis en muñeca izquierda.
+
+descrip:
+PET TC COS SENCER FDG

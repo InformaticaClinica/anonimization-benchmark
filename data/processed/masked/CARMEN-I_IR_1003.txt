@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Mujer**] de [**57 años**], neumonía pro COVID. en mejoría hasta el dái d ehoy con deterioro rtespiratorio súbito. Obesa. Interesa angio-TC pulmonar.
+gracias
+NEUMONÍA BILATERAL PROBABLEMENTE POR COVID-19
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Defecto de repleción en la rama arterial para el segmento apical y el posterior del LSD, compatibles con TEP agudo. No se observan defectos de repleción en otras localizaciones.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Escasas y ténues opacidades en vidrio deslustrado bilaterales y de distribución periférica y predominio en LSD y LID, compatibles con infección COVID19 conocida con importante mejoría respecto a radiografías previas. Nódulo de morfología poligonal de 6 mm, subpleural en el segmento anterior del LSI, sugestivo de ganglio intrapulmonar.
+Atelectasias subsegmentarias en los segmentos posteriores de ambos LLII de predominio derecho.
+TOT a 10 mm de la carina. CVC con extremo distal en VCS. SNG con extremos distal en cámara gástrica.
+
+conclusiones:
+Hallazgos compatibles con TEP agudo segmentario. No se observan signos de sobrecarga cardiaca derecha.
+Hallazgos compatibles con infección COVID19 con importante mejoría radiológica respecto a radiografías previas.
+
+descrip:
+ANGIO TC PULMONAR

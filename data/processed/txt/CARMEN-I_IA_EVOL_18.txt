@@ -1,0 +1,25 @@
+
+07/12/2014
+1. SDRA por neumonía bilateral por Covid-19-> IOT(19/10).
+2. Weaning prolongado -> TQ 30/10.
+3. Parada cardiorrespiratoria recuperada por tapón de mucosidad.
+4. Hemoptisis amenazante (embolización 03/11).
+5. VAP por P.aeruginosa MDR
+6. Neumotórax derecho con drenaje pleural.
+7. Hemorragia alveolar difusa: Sospecha de sd.hemofagocitico.
+8. Insuficiencia renal aguda oligoanúrica (TRS)
+9. Probable sd. PRES (encefalopatía posterior reversible)
+64 años, Ex fumadora hace 30 años. Independiente para la activdades básicas. Antecedentes patológicos: osteoporosis y glaucoma.
+Ingresa por cuadro de 1 semana de evolución caracterizado por aparición súbita de fiebre hasta 40ºC con tiritonas y sudoración, con tos y expectoración blanquecina. Esputo hemoptoico y deposiciones diarreicas.
+En sala presenta deterioro respiratorio y se traslada a UVIR.
+1-7)Al ingreso en UVIR, se inició oxigenoterapia de alto flujo con cánulas nasales con lo que persistía taquipneica y con mala mecánica ventilatoria por lo que se procedió a intubación orotraqueal. Recibió tratamiento antimicrobiano según PNT (ceftriaxona, azitromicina, hidroxicloroquina y teicoplanina) así como tocilizumab y corticoides.
+Por weaning prolongado se realizó traqueostomía quirúrgica sin incidencias. Como complicaciones respiratorias presentó:
+- Parada cardiorrespiratoria recuperada por tapón de moco; hemoptisis amenazante que requirió de embolización de la arteria bronquial derecha y del tronco bibronquial y neumotórax derecho que requirió drenaje torácico.
+- Desde el punto de vista infeccioso, presentó neumonía asociada a la ventilación mecánica con aislamiento de P.aeruginosa (MDR) inicialmente tratada con meropenem durante 8 días y posteriormente con ceftolozano/tazobactam. El estudio microbiológico además demostró aislamiento de cándida albicans en urinocultivo y en BAS que se trató con fluconazol. En todo este contexto se objetivó un aumento de la carga inflamatoria sistémica con progresión radiológica (TACAR de tórax con afectación parenquimatosa muy extensa, compatible con infección por COVID19 y SDRA). Ante estos hallazgos se inició terapia inmunomoduladora con anakinra que cumplió durante 11 días, bolus de metilprednisolona y se administró 2ª dosis de tocilizumab. Por persistencia de P.aeruginosa y repunte en el número de colonias se reajustó tratamiento según nuevo antibiograma (piperacilina/tazobactam, ceftazidima/avibactam y amikacina nebulizada). Frotis nasofaríngeo (17/11) negativo para RT-PCR de SARS CoV2.
+- TACAR de 22/11 disminución de las extensas consolidaciones bilaterales, observándose opacidades en vidrio deslustrado asociado a opacidades reticulares (patrón en empedrado) bilateral, dilataciones bronquiales y tendencia a la consolidación peribronquial en LLII. Se inicia descenso de corticoides, manteniendo cobertura antibiotica con: piperacilina/tazobactam, ceftazidima/avibactam y amikacina nebulizada.
+- Presenta nuevamente deterioro respiratorio con radiografía de tórax con infiltrados pulmonares bilaterales. Se realiza miniBAL con obtención de líquido hemorrágico, hallazgo sugestivo de hemorragia alveolar difusa. Ante la sospecha de sd.hemofagocítico se inicia nuevo ciclo de anakinra, tocilizumab y se aumenta dosis de corticoides. Se asocia tratamiento antifungico por reactivación CMV. TC control 07/12/14 persiste una afectación pulmonar generalizada con vidrio deslustrado, áreas de consolidación, dilataciones bronquiales con preservación parcheada de lobulillos secundarios. Enfisema centrolobulillar de predominio superior. Aparición de una masa ovoidea localizada entre los segmentos basales medial y posterior del lóbulo inferior derecho, con una porción anterior hipodensa y una posterior hiperdensa que sugiere un hematoma pulmonar y derrame pleural.
+8) A nivel renal, la paciente evolucionó hacia insuficiencia renal anúrica que precisó de terapia renal sustitutiva con hemodiafiltración continua. Actualmente persiste en insuficiencia renal con requerimientos de diálisis intermitente depurativa.
+9) A nivel neurológico, el 23/11 presentó disminución brusca del nivel de conciencia sin aparente desencadenante. TC cerebral con marcada hipodensidad de sustancia blanca parietooccipital y angio-TC sin oclusiones del sistema vertebrobasilar. EEG patológico con hallazgos compatibles con encefalopatía difusa y tendencia epileptogénica aumentada en las regiones occipitales. Valorado por NRL, el cuadro es sugestivo de síndrome de PRES (sd. encefalopatía posterior reversible).
+Dado el empeoramiento clinico radiologico, fallo multiorganico sin respuesta a tratamiento se informa a familiares de mal pronostico y se priorizan la medidas de confort. Siendo exitus el dia 8 de diciembre de 2014 a las 17h.
+   
+   

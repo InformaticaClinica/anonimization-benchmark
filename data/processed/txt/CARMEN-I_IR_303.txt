@@ -1,0 +1,33 @@
+
+prueba:
+ANGIO TC REGION ESPLACNICA (TC, AMS)
+
+clinica:
+probable covid
+
+protocolo:
+TC ABDOMINAL URGENTE: basal, arterial, portal y equilibro.
+
+resultados:
+Se compara con TC previo del 15/03/2025:
+Se observa un aumento de tamaño de la colección retrogástrica (en el omento menor) que presenta abundante material basalmente hiperdenso en relación  detritus/necrosis y coágulos en el contexto de pancreatitis necrotizante. En el seno de la colección se observan múltiples focos de extravasación de contraste en fase arterial con posterior crecimiento en fases más tardías. Los hallazgos son compatibles con sangrado activo de las ramas que vascularizan el páncreas y la pared del estómago. Los focos de sangrado más evidentes y de mayor tamaño se localizan en el punto más anterior de la colección (probablemente ramas de la arteria pancreatoduodenal con origen en la gasttroduaodenal) y otro foco en el remanente de la cola pancreática (ramas de la arteria esplénica).
+La colección/hematoma desplaza anteriormente el estómago y es difícil valorar su pared posterior ya que se encuentra engrosada y muy edematosa. Sonda nasogástrica normoposicionada.
+Aumento de la necrosis pancreática; actualmente existe un pequeño remanente de la cabeza/uncinado y de la cola (necrosis de aproximadamente el 90% del parénquima pancreático).
+El resto de pseudocolecciones peripancreáticas no han aumentado de tamaño respecto al estudio previo.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Vesicula biliar distendida, litiásica.
+Via biliar no dilatada. Vena porta permeable. La vena mesentérica superior y la vena esplénica son filiformes y se encuentran imbuidas en el magma inflamatorio de las colecciones esteatonecróticas peripancreáticas.
+No hay signos de neumoperitoneo en el momento actual.
+Bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Vejiga distendida de paredes finas.
+Aumento del derrame pleural izquierdo.
+Líquido libre en pelvis.
+Catéter venoso femoral derecho con extremo en vena cava inferior.
+
+conclusiones:
+Aumento de tamaño de la colección del omento menor con signos de sangrado activo; múltiples focos (VER INFORME).
+
+descrip:
+ANGIO TC REGION ESPLACNICA (TC, AMS)

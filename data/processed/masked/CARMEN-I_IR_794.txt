@@ -1,0 +1,32 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con neumonía COVID-19 con casi un mes desde el inicio de síntomas. Ha ingresado en UCI requiriendo IOT. Ex-IOT hace unos días, pero persiste estancado respiratoriamente. FiO2 35% con taquipnea y taquicardia persistente.
+Tiene un angioTC del [**2/3**] que informaba de TEP segmentario y de neumonía organizativa incipiente. Desde entonces con corticoides a dosis elevadas. Además ha tenido aislamiento de S. aureus reciente.
+Ruego TC para descartar complicaciones que justifiquen la falta de mejoría actual.
+NEUMONIA BILATERAL COVID19
+
+protocolo:
+TC de tórax sin contraste EV
+
+resultados:
+Se compara con angio-TC pulmonar previa de [**3/02/2014**].
+Disminución de tamaño de los ganglios mediastínicos, probablemente reactivos. Ganglios calcificados hiliares derechos.
+No se observa derrame pleural. Discreto derrame pericárdico.
+Mínimo neumomediastino laminar paracardíaco izquierdo (presente en mediastino prevascular en el TC previo).
+Resolución de las extensas consolidaciones posterobasales en LLII.
+Se observa disminución de las opacidades parcheadas en vidrio deslustrado bilaterales.
+En el estudio actual se observa la presencia de focos consolidativos peribroncovasculares y perilobulares, de predominio periférico en LLII, língula, segmento posterior del LSD y LM, con marcada dilatación y distorsión bronquial, todo ello en relación a cambios organizativos.
+En el segmento anterior del LSI se observa la aparición de imágenes psedoquísticas agrupadas y subpleurales que parecen corresponder a bronquiectasias de tracción y cambios quísticos del parénquima pulmonar, secundarios al proceso infeccioso (COVID-S. aureus), a valorar evolutivamente.
+Fracturas costales izquierdas antiguas. Hemangioma en el cuerpo vertebral de T7.
+
+conclusiones:
+Disminución de las opacidades parcheadas en vidrio deslustrado bilaterales.
+Aparición de extensos cambios organizativos con distorsión parenquimatosa, de predominio basal, secundarios a la neumonía bilateral por COVID-19.
+Aparición de imágenes pseudoquísticas agrupadas en el segmento anterior del LSI que parecen corresponder a bronquiectasias de tracción y cambios quísticos del parénquima pulmonar, secundarios al proceso infeccioso (COVID-S. aureus), a valorar evolutivamente.
+Mínimo neumomediastino laminar paracardíaco izquierdo.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

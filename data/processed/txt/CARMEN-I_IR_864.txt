@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+IC DE DEBUT
+
+protocolo:
+Se compara con RC de torax del 18/10/2016.
+
+resultados:
+Comparativamente, se observa un aumento del índice cardiotirácico con elevación de ambos diafragmas de predominio derecho. Llama la atención, la marcada progresión de opacidades del campo pulmonar derecho inferior que se extienden en la actualidad a campos medio y superior conformando un patrón alveolo-intersticial con tendencia a consolidar. Se asocia derrame pleural derecho. Todo ello sugiere corresponder con descompensación cardíaca asociado proceso infeccioso respiratorio derecho indeterminado para COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

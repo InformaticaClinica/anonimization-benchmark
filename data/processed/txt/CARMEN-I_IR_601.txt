@@ -1,0 +1,31 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con neumonia por COVID que ha requerido IOT. Actualmente extubado con CNAF. EL 18/04 presento shock hipovolémico secundario a hematoma en el psoas derecho de aprox 11 x 12 x 19 cms (AP x Tr x CC) con ligera extensión a cara anterior del muslo ipsilateral que requirió embolización consiguiendose hemostasia.
+Tras la extubación el paciente refiere clinica neurológica con dificultad para la extensión de cuadriceps y parestesias en muslo.
+Solicitamos TC de control para valorar tamaño actual del hematoma y descartar compresión de raices nerviosas a dicho nivel. Gracias.
+SHOCK HIPOVOLÉMICO. HEMATOMA RETROPERITONEAL
+
+protocolo:
+TC abdominal con contraste ev. Se obtienen las imágenes en fase portal.
+
+resultados:
+Estabilidad del volumen del hematoma del músculo iliopsoas derecho con extensión retroperitoneal (el diámetro mayor sigue siendo el longitudinal de unos 19 cm).
+Persiste cierto efecto de masa con menor compresión sobre de la vena cava inferior y la vena ilíaca externa derecha.
+Hígado de tamaño y morfología normal. Quiste simple de 9 mm en s. IVa.
+No se observan otras lesiones focales.
+Vesícula biliar de tamaño y morfología normal. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeable.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología normal.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Riñones con nefrograma simétrico, de tamaño y morfología normal. No hay evidencia de dilatación de la vía excretora ni litiasis. Quiste cortical simple de 28mm en polo inferior renal izquierdo
+Sonda vesical.
+Aumento del derrame pleural derecho. Estabilidad del derrame pleural izquierdo. Consolidaciones pulmonares en ambas bases.
+
+conclusiones:
+Estabilidad del volumen del hematoma del músculo iliopsoas derecho con extensión retroperitoneal (el diámetro mayor sigue siendo el longitudinal de unos 19 cm).
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

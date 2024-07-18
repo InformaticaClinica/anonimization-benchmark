@@ -1,0 +1,25 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+sospecha TEP por d-dímero 4300.
+covid-19
+
+protocolo:
+Angio-TC pulmonar URGENTE Obs: Dr. Recuero
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+Cardiomegalia. Tronco pulmonar común levemente dilatado (32 mm).
+Dilatación aneurismática de la aorta torácica ascendente (4,5cm).
+Leve derrame pleural bilateral de predominio izquierdo. No se observa derrame pericárdico.
+Ganglios linfáticos borderline (8-9mm) paratraqueales bilaterales y subcarinal. No se observan adenopatías axilares de tamaño valorable.
+Patrón pulmonar con opacidades en vidrio deslustrado y engrosamientos septables (empedrado) de distribución periférica y bilateral. Se asocia consolidaciones periféricas y en ambas bases pulmonares, con broncograma aéreo y algún signo de halo reverso. En bases pulmonares también se observa distorsión del parénquima pulmonar con bandas subpleurales. Todo ello es compatible con sídrome COVID-19 con probable neumonía organizada.
+Nódulo tiroideo hipondeso derecho de 9 mm.
+
+conclusiones:
+No se observan signos que sugieran TEP. Hallazgos compatibles con afectación pulmonar por COVID con componente de neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

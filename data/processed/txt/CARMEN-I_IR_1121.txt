@@ -1,0 +1,35 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+POR FAVOR, REALIZAR SIN CONTRASTE POR INSUFICIENCIA RENAL!!
+Mujer de 73 años con antecedentes de FA, hiperreactividad bronquial y neoplasia de colon operada y curada en otro centro hace >10 años.
+Ingresó en otro centro por neumonía COVID19 hace más de un mes, requiriendo IOT+VM y posteriormente se trasladó a nuestro centro.
+Ha presentado múltiples complicaciones durante el ingreso (SDRA, neumonía asociada a la ventilación mecánica, hematoma retroperitoneal con choque hemorrágico en contexto de anticoagulación, insuficiencia renal aguda oligoanúrica que requirió hemodiafiltración). Todo ello se encuentra en fase de resolución pero sin embargo persiste insuficiencia respiratoria hipoxémica y distensión abdominal. Interesa TC de tórax y abdomen SIN CONTRASE (balance riesgo/beneficio) para evaluar situación de parénquima pulmonar y abdomen.
+GRACIAS!!!
+persistencia insuf resp+hematoma retroperit pasado
+
+protocolo:
+TC toracoabdominal en condiciones basales.
+
+resultados:
+Taqueostomía.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural.
+Extensas áreas de patrón en vidrio deslusrado, asociados a engrosamientos septales (patrón en empedrado), con zonas de condensación peribronquial y periféricas de predominio en lóbulos inferiores y todo ello en relación con la infección por Covid19.
+Hígado, bazo, páncreas y  glándulas suprarrenales de morfología tamaño y densidad normal.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Riñón izdo de tamaño y morfologia normales. desplazamiento anterior del riñón derecho por el hematoma retroperitoneal. Leve ecasia piélica de dicho riñon.
+Discreta disminución del extenso hematoma retroperitoneal derecho, que se inicia a la altura del riñón derecho y que alcanza la pelvis. El diámetro máximo transverso ha pasado de 15 a 13cms. Al ser TC basal no podemos valorar sangrado activo, pero el hematoma no ha aumentado, por lo que no lo sugiere.
+Sutura en recto sin alteraciones.
+
+conclusiones:
+Extensa afectación pulmonar por Covid19, con deslustrado y áreas de condensación de predominio en bases.
+Discreta disminución del extenso hematoma retroperitoneal derecho.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

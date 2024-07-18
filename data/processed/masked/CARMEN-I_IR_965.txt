@@ -1,0 +1,37 @@
+
+prueba:
+ANGIO TC REGION ESPLACNICA (TC, AMS)
+
+clinica:
+NAC x COVID. Trombosis de la arteria mesentérica y de las ilíacas.
+Preciso de dos intervenciones: [**20/12**] trombectomía y resección de un segmento de intestino delgado; [**22/12**] bypass axilo-bifemoral y resección de 1 m de intestino delgado hasta colon transverso, colocación de malla.
+Aparición de hematoma de pared en la noche con posterior caída de 2 puntos de hemoglobina e inestabilidad hemodinámica. Valorado por cirugía interesa valorar que no presente sangrado intra-aabdominal. Gracias.
+ISQUEMIA MIEMBROS INFERIORES
+
+protocolo:
+TC abdominal en condiciones basales con posterior administración de contraste ev y adquisición de imágenes en fases arterial, portal y de equilibrio.
+
+resultados:
+Se compara con el estudio previo del [**20/12/2017**].
+Extenso hematoma polilobulado y heterogéneo de aproximadamente 4,7 x 13,2 x 27,8 cm (AP x TR x CC) que se extiende a lo largo del tejido celular subcutáneo de toda la pared abdominal anterior. Presenta múltiples focos de extravasación de contraste en fase arterial en su seno que aumentan en las fases sucesivas, compatible con sangrado arterial activo. No se identifican hematomas en la musculatura de la pared abdominal anterior, que en la región hipogástrica se encuentra rechazada posteriormente por el hematoma descrito.
+Cambios posquirúrgicos en relación hemicolectomía derecha y resección de intestino delgado con anastomosis ileo-cólica L-L. Drenaje quirúrgico con entrada en FII, trayecto descendente hacia pelvis y posteriormente ascendente por hemiabdomen derecho, quedando su extremo distal en hipocondrio derecho (caudal al duodeno).
+Moderado neumoperitoneo de predominio anterior y subfrénico, mayor al esperable el 4º día de post-operatorio. No se identifica líquido libre, colecciones intraabdominales ni burbujas de aire acumuladas en la vecindad de la anastomosis ileo-cólica, por lo que el neumoperitoneo probablemente sea posquirúrgico o secundario a la manipulación reciente de la herida.
+Diverticulosis colónica sin signos de diverticulitis. Resto del marco colónico y asas intestinales sin alteraciones relevantes.
+Cambios posquirúrgicos en relación a by-pass axilo-bifemoral derecho, permeable. Ateromatosis aorto-ilíaca. Trombosis completa conocida de la aorta abdominal infrarrenal que se extiende hasta las arterias ilíacas externa derecha y primitiva izquierda (afecta también la AMI).
+Repermeabilización distal de las arterias ilíacas internas y femorales comunes bilaterales. Aorta abdominal suprarrenal, tronco celíaco, AMS y arterias renales permeables.
+SNG normoposicionada. Hígado, páncreas, bazo y glándulas suprarrenales sin alteraciones. Vena porta y eje espleno-mesentérico permeables.
+Vesícula biliar normodistendida y de paredes finas con material hiperdenso en su interior en relación a contraste yodado de exploraciones previas. Vía biliar no dilatada. No se aprecian adenopatías retroperitoneales ni pélvicas valorables. Aislados ganglios mesentéricos infracentimétricos de predominio en hemiabdomen derecho, inespecíficos. Riñones de tamaño y morfología normales con un nefrograma ligeramente retradaso bilateralmente y algunos quistes corticales simples. No hay dilatación de la vía excretora. Vejiga urinaria con sonda vesical y algunas burbujas de aire en su interior, probablemente secundarias a su manipulación.
+Megaapófisis transversa bilateral de L5. Cambios degenerativos en columna lumbosacra.
+SECCIONES TORÁCICAS:
+Si bien la exploración no está dirigida a su estudio, se identifican varios defectos de repleción en ramas arteriales segmentarias y subsegmentarias del LID (segmentos basales medial, posterior y lateral) y más dudosos en el LII, compatible con TEP agudo. No hay claros signos de sobrecarga cardíaca derecha.
+Aparente mejoría radiológica de la afectación pulmonar bilateral en relación a la neumonía por COVID-19 conocida. Persistien algunas opacidades en vidrio deslustrado y focos consolidativos periféricos en ambos LLII que asocian alguna banda pleuroparenquimatosa y dilataciones bronquiales. Engrosamiento difuso de las paredes bronquiales con presencia de alguna impactación endobronquial. Moderado enfisema centrolobulillar.
+
+conclusiones:
+- Extenso hematoma en tejido celular subcutáneo de la pared abdominal anterior con varios focos de sangrado arterial activo en su seno.
+- Cambios posquirúrgicos en relación a by-pass axilo-bifemoral derecho, hemicolectomía derecha y resección de intestino delgado con anastomosis ileo-cólica.
+- Moderado neumoperitoneo que parece mayor al esperable el 4º día de post-operatorio. Sin embargo no hay signos que sugieran dehiscencia de la anastomosis ni perforación de víscera hueca, por lo que probablemente sea posquirúrgico o secundario a la manipulación de la herida quirúrgica.
+- Signos de TEP agudo en ramas arteriales segmentarias y subsegmentarias del LID y más dudoso en LII.
+- Aparente mejoría radiológica de la neumonía bilateral por COVID-19 conocida.
+
+descrip:
+ANGIO TC REGION ESPLACNICA (TC, AMS)

@@ -1,0 +1,27 @@
+
+prueba:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+clinica:
+CoVid19
+
+protocolo:
+PROTOCOLO CÓDIGO ICTUS
+
+conclusiones:
+TC CRANEAL BASAL:
+En el momento actual no se observan signos de sangrado agudo intracraneal.
+Ténue hipodensidad del parenquima cerebral con pérdida de la diferenciación córticosubcortical a nivel parietotemporal derecho y más dudosa en ínsula ipsilateral. Hallazgos que no permiten descartar áreas de infarto agudo establecido en territorio de la ACM derecha. ASPECTS 8- 9.
+Discreta hipodensidad de la sustancia blanca periventricular supratentorial en relación a microangiopatía crónica.
+Pérdida global de volumen cerebral con dilatación secundaria del sistema ventricular, en relación a cambios involutivos. Estructuras de la línea media centradas. Cisternas de la base libres.
+TC-PERFUSIÓN:
+Extensa área con retraso del TTP a nivel fronto-parieto-temporal derecho y en el aspecto posterior de la ínsula ipsilateral que únicamente asocia alteraciones en los mapas CBV y CBF en un foco temporoparietal y en dos pequeños focos corticales parietales. Estos hallazgos sugieren una extensa área de isquémia en todo el territorio de la ACM derecha con algún área de infarto establecido (discordancia significativa).
+ANGIO-TC EXTRA E INTRACRANEAL:
+Aorta y segmentos proximales de troncos supraaórticos permeables, con signos de ateromatosis no estenosante.
+Origen y segmentos cervicales de las arterias carótidas internas y de las arterias vertebrales permeables. Placa ateromosa calcificada en bifurcación carotídea derecha que condiciona una estenosis del 30-40%.
+Segmentos intracavernoso y supraclinoideo de las arterias carotidas internas permeables, con signos bilaterales de ateromatosis no significativamente estenosante.
+Oclusión a nivel del segmento M1 distal de la ACM derecha. Resto de las principales arterias cerebrales intracraneales (ACAs, ACM izquierda, ACPs, Basilar, V4s) permeables, sin hallazgos valorables.
+En las secciones torácicas incluidas en el estudio se aprecian opacidades en vidrio deslustrado bilaterales de predominio peribroncovascular con tendencia consolidativa en probable relación a afectación conocida por COVID-19. Adicionalmente se identifican signos de neumopatía intersticial también conocida (descrita en estudio previo del [**22/05/2026**] como patrón de NIU).
+
+descrip:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)

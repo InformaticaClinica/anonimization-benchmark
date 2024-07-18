@@ -1,0 +1,29 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+[**Varón**] de [**74 años**], antecedentes destacables: Tumor vesical músculo- invasivo que requiere cistectomía radical, Bricker en [**2002**]. ERC en HD pendiente de valoración de TR. Colecistectomía por colelitiasis ([**2/06/14**]), complicado con perforación intestinal que requirió laparotiomía exlporatoria, resección intestinal de segmento de 10 cms y anastomosis L-L. Hemorragía digestiva alta por lesión vascular a nivel de esófago distal donde se coloca un clip. Insuficiencia respiratoria secundaria a neumonía por COVID 19 requiere intubación y ventilación mecánica desde [**21/07**]. Traqueostomia quirúrgica [**2/08**]. Durante las últimas 24 horas evolución marcada por inestabilidad hemodinámica con requerimiento de soporte vasopresor, por lo que solicitamos Tc de tórax y abdomen para descartar complicaciones infeciosas.
+
+protocolo:
+TC DE TÓRAX Y ABDOMEN CON CONTRASTE EV. URGENTE (TÓRAX ARTERIAL Y ABDOMEN BASAL, ARTERIAL Y PORTAL)
+
+resultados:
+TÓRAX: Moderado-severo derrame pleural bilateral asociado a leve neumotórax izquierdo. Parénquima pulmonar con zonas de atenuación en vidrio deslustrado con tendencia a la consolidación en ambos lóbulos superiores y focos consolidativos peribroncovasculares en lóbulos inferiores, correspondientes a afectación por COVID. Signos de enfisema paraseptal en ambos lóbulos superiores. Traqueostomía. Catéter de 2 luces yugular derecho con extremo en aurícula derecha, con pequeños defectos de repleción en contacto con su tercio distal, en su periferia, sugestivos de pequeños focos de trombosis. Acceso venoso subclavio izquierdo con extremo en tronco braquiocefálico izquierdo. Leve dilatación del tronco de la arteria pulmonar (33 mm), no identificándose imágenes sospechosas de TEP. No hay derrame pericárdico. Sonda nasogástrica con extremo en cuerpo gástrico. Material hiperdenso en tercio distal del esófago, quizás en relación con antecedentes de tratamiento local.
+ABDOMEN: No se identifican imágenes sospechosas de un sangrado activo intraabdominal. Cambios postquirúrgicos por cistectomía radical y reconstrucción tipo Bricker en FID, suturas intestinales, nefrectomía derecha y colecistectomía. Hígado de morfología normal, sin lesiones.
+Vía biliar intrahepática no dilatada. Múltiples coledocolitiasis en tercio distal, sin dilatación asociada del colédoco. Vena porta y eje espleno mesentérico permeables. Páncreas, bazo y glándulas suprarrenales sin alteraciones relevantes. Riñón izquierdo severamente atrófico.
+Estenosis ateromatosa en grado severo de la arteria mesentérica superior proximal, siendo distalmente permeable. Aorta abdominal, ambos ejes ilíacos, tronco celíaco y arteria mesentérica inferior permeables. No se observan ganglios intraabdominales de características patológicas.
+Pequeña lámina de líquido en flanco derecho, en probable relación con antecedentes quirúrgicos.
+
+conclusiones:
+- Moderado-severo derrame pleural bilateral asociado a leve neumotórax izquierdo.
+- Severa afectación pulmnonar por COVID. No se observan imágenes de TEP.
+- Imágenes sugestivas de pequeños focos de trombosis adyacentes al tercio distal del catéter de 2 luces, en su periferia.
+- Múltiples coledocolitiasis en tercio distal del colédoco, sin dilatación de la vía biliar (sin cambios respecto TC previo).
+- No se identifican signos de sangrado agudo intra abdominal ni otras alteraciones agudas en el abdomen.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORAX

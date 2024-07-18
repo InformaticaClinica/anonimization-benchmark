@@ -1,0 +1,17 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+SOSPITA COVID 19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE: ampliación de estudio.
+
+conclusiones:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP o trombosis vascular.
+Tronco de la arteria pulmonar de diámetro normal.
+Resto del estudio sin cambios respecto TC previa del [**27/06/13**] (menos de 24h).
+
+descrip:
+ANGIO TC PULMONAR

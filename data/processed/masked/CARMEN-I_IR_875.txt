@@ -1,0 +1,26 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Varón**] ingresado por Neumonía bilateral COVID19 desde el [**27.03**], con buena evolución clíncia tras tratamiento con Remdesivir + corticoides.
+Persiste con radiografia con infiltrado parcheado bilateral.
+Solicitamos TC para descartar presencia de NOC con encesidad de tratamiento mantenido.
+Gracias
+NEUMONÍA SARS-COV-2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta una afectación parenquimatosa pulmonar difusa bilateral caracterizada por áreas parcheadas de consolidación y vidrio deslustrado con distribucxión subpleural y peribroncovascular. El patrón de afectación es coherente con neumonía por COVID-19. Muestra algunas dilataciones bronquiales que podrían traducir cierto componente de fibrosis o desmoplasia intralobulillar. No puedo concluir que existan claros patrones coherentes con neumonía organizativa aunque la afectación peribroncovascular, que puede evidenciarse en la COVID, también se describe en la nuemonía organizativa.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

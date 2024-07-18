@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Agradecería angio-TC de tórax y abdominal en paciente con insuficiencia respiratoria grave por SARS-CoV2 (ECMO VV hasta el día 21/3) que como complicación tiene un SAF catastrófico con múltiples fenómenos trombóticos durante el ingreso y que además asocia IRA anúrica que ha requerido de TRS sin causa clara. Agradeceríamos angio-TC de torax y abdominal para descartar TEP y trombosis de venas renales o TVP proximal, gracias
+NEUMONIA BILATERAL POR SARS-COV-2
+
+protocolo:
+TC torácica de alta resolución + Angio-TC pulmonar adquirida mediante energía dual.
+
+resultados:
+Se compara con el estudio previo del 09/3/2020.
+Traqueostomía. SNG con un loop en cámara gástrica y extremo distal en el fundus. CVC yugular izquierdo con extremo distal en unión atriocaval.
+Tronco de la arteria pulmonar y sus ramas principales, lobares y segmentarias permeables, sin defectos de repleción que sugieran un TEP agudo. Dilatación del tronco de la arteria pulmonar de hasta 32 mm, estable.
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio. Ganglio paratraqueal alto derecho de tamaño borderline (11 mm) que ha disminuido respecto el estudio previo (15 mm).
+Mínimo derrame pleural bilateral que ha disminuido respecto el estudio previo. No se observa derrame pericárdico.
+Práctica resolución de la afectación parenquimatosa pulmonar en relación a la neumonía bilateral por COVID-19 conocida. Atelectasias laminares en LSD, LID, LM y língula. Dilataciones bronquiales en LII.
+Consolidación normocaptante y con pérdida de volumen de todo el LID que asocia broncograma aéreo y líquido, de aspecto atelectásico. Se aprecian otros focos consolidativos peribroncovasculares en el segmento posterior del LII con una correcta captación de contraste, también de aspecto atelectásico.
+Esplenomegalia de 13.6 cm. Colelitiasis. Secciones abdominales incluidas en el estudio sin otros hallazgos relevantes.
+Colección densa de morfología fusiforme en la topografía del m. serrato anterior derecho con unos diámetros axiales de 8.2 x 2.8, discretamente mayor respecto el estudio previo.
+
+conclusiones:
+- No hay signos de TEP.
+- Práctica resolución de la neumonía bilateral por COVID-19 conocida.
+- Consolidaciones de aspecto atelectásico en todo el LID y segmentos basales posteriores del LII.
+
+descrip:
+ANGIO TC PULMONAR

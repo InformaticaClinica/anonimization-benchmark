@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de 73 a. que ingresa por IAMSEST Killip 2. En coronariografía se objetiva lesión compleja en DA ostial del 90%. Se intenta realizar ICP de forma fallida, presentando episodio de hipoTA y bradicardia intraprocedimiento. Se habla con CCV para cirugía de revascularización coronaria. Se solicita estudio de TC pre-CABG en paciente con alto componente de calcio parietal. Muchas gracias.
+EAC DE 1 V: DA OSTIAL
+
+protocolo:
+Estudio TC torácico basal.
+
+resultados:
+Aorta ascendente no dilatada (32 mm), que presenta sólo una discreta calcificación parietal en región posterolateral izquierda.
+Ateromatosis calcificada en arco aórtico, distal a la salida del tronco branquicefálico, y en aorta descendente.
+Calcificación del anillo valvular aórtico. Extensas calcificaciones coronarias.
+Cardiomegalia, a expensas de dilatación de cavidades izquierdas.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable.
+Moderado derrame pleural bilateral, de predominio derecho, con discreta atelectasia pasiva del parénquima adyacente. Ausencia del derrame pericárdico.
+En el parénquima pulmonar se visualizan engrosamientos septales interlobulillares y engrosamientos parietales bronquiales; hallazgos sugestivos de edema pulmonar. También se visualizan discretas opacidades en vidrio deslutrado peribroncovasculares, de predominio en segmento apical del LID, que también están en probable relación al edema pulmonar, mucho menos probable están en relación a proceso infeccioso (no sugestivo de COVID).
+Pequeña hernia de hiato.
+Cambios degenerativos en columna torácica.
+En hemiabdomen superior incluido, se visualizan granulomas calcificados hepáticos y esplénicos. Diverticulosis colónica.
+
+conclusiones:
+Aorta ascendente no dilatada, que presenta sólo una discreta calcificación parietal en región posterolateral izquierda.
+Hallazgos sugestivos de edema pulmonar. Moderado derrame pleural bilateral, de predominio derecho. Discretas opacidades en vidrio deslutrado peribroncovasculares, de predominio en segmento apical del LID, que también están en probable relación al edema pulmonar, mucho menos probable están en relación a proceso infeccioso (no sugestivo de COVID).
+
+descrip:
+TC TORAX

@@ -1,0 +1,31 @@
+
+prueba:
+RM SUELO DE LA PELVIS
+
+clinica:
+[**Mujer**] de [**71 años**] afecta de Ca de ovario de alto grado en sexta linea de tratamiento que se ha interrumpido por rectorragias secundarias a infiltración recto-sigmoidea asociado a fístulas yuxta-anales de etiología no filiada y signos de colitis de recto-sigma-colon. Se realizó RT hemostática sobre implante tumoral que infiltra recto-sigma (FIN RT [**26.10.2025**]) pero persisten de rectorragias.
+Proctosigmoidoscopia ([**12/10/25**]): a 15 cm del margen anal masa vegetativa y friable que ocupa 3/4 de la luz y que impide la progresión del endoscopio.
+TAC del [**7/11/25**] (disponible en [**Historia clínica electrónica**]): Marcados cambios de colitis en región de recto, sigma y colon descendente que se ha incrementado respecto a TC previa con reducción de tamaño del implante en pelvis en región recto-sigmoidea.
+Solicitamos RMN pélvica para completar estudio de fístulas yuxta-anales.
+COLITIS DE EIOLOGÍA NO PRECISADA
+
+protocolo:
+RMN pelvica
+
+resultados:
+Edema generalitzat de parts toves.
+Canvis post histerectomia i ooforectomia esquerra.
+Sonda Foley en bufeta de la orina.
+Edema de paret del recte, sigma i colon descendent (parcialment estudiat). També identifico edema d'algun segment d'ili (en TC extern ja s'identificava).
+Nòdul de 15 mm que contacta amb la cara inferior del sigma i protruxiex cap a la seva llum. Coincidex amb la lesió descrita en la TC externa.
+Està situat a uns 15 cm del marge anal.
+Identifico un orifici intern situat a les 12h del canal anal, amb fístula que es ramifica en espai ano-vaginal. Un dels trajectes drena a les 13h; els altres orificis externs descrits en l'informe d'endoscopia no els puc identificar per RM.
+No hi ha col·leccions assoaciades.
+
+conclusiones:
+Edema de recte, sigma i colon descendent i edema segmentari en ili (parcialment estudiat).
+Fístula perianal amb OI a les 12h i un mínim d'un OE a les 13h. No identifico els altres dos orificis descrits en l'infome d'endoscopia.
+Nòdul (possible implant segons història clínica) de 15 cm que protrueix en sigma.
+
+descrip:
+RM SUELO DE LA PELVIS

@@ -1,0 +1,48 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+Paient ingressat per COVID19 amb pneumònia bilateal i TEP bilateral subsegmetnari que presenta anemització en les darreres 48h, amb GCS 3 i aturada cardiorresiratòria aquest mati. Hb 4.5. Agrairiem TC cerebral + toracoabdminal per descartar sagnat , gràcies
+COVID+
+
+protocolo:
+TC TORACOABDOMINAL en fases basal, arterial ,portal y excretora tras la adminitración de contraste endovenoso.
+
+resultados:
+Se compara con el TC previo torácico del [**21/7/24**]:
+TORAX
+Lóbulos tiroideos de tamaño aumentado y con parénquima heterogéneo.
+IOT a 13 mm de la carina.
+Portador ca catéter PICC derecho y catéter venoso central con entrada en vena yugular derecha y extremo distal en cava superior.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable. No hay derrame pleural ni pericárdico. Leve enfisema subcutáneo entre planos grasos cervicales.
+Opacidades en vidrio deslustrado difusas subpleurales en ambos LLSS, LM y LLII. Se identifican áreas consolidativas en porciones basales de los LLII. Todos estos cambios son más extensos en este estudio respecto al TC previo, en relación a evolución de la enfermedad.
+No se identifican imágenes sugestivas de TEP en este estudio, si bien su adquisisción es subóptima para esta valoración.
+ABDOMEN
+Hematoma retroperitoneal de 57 x 58 x 171 mm centrado en musculo psoas izquierdo con extensión craneo-caudal a traves de su espesor. El hematoma alcanza el musculo iliaco ipsilateral, el cual es discretamente de mayor tamaño respecto al derecho.
+Foco de extravasación de contraste en fase arterial que aumenta en fases tardias, en relación con sangrado activo.
+Leve hemorretroperitoneo izquierdo.
+No se observa líquido libre intraabdominal, colecciones ni neumoperitoneo.
+Higado de tamaño y morfología normal con disminución de su coeficiente de atenuación en relación a esteatosis hepática. No se identifican lesiones focales evidentes.
+Vesicula biliar distendida, sin alteraciones evidentes y con presencia de  material hipedenso en su interior por pruebas previas. Via biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables. AMS, TC, arteria esplénica y arterias renales permeables.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora. Diminuta imagen nodular infracentimétrica (5 mm) en valva posterior del terico renal izquierdo, indereminada en este estudio.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Sondaje vesical.
+Hematoma de partes plandas subcutáneo en ingle y muslo derechos, sin identificar signos de sangrado activo.
+
+conclusiones:
+Hematoma retroperitoneal centrado en el espesor psoas izquierdo con signos de sangrado activo arterial.
+Hematoma de partes blandas inguinal y en muslo derecho sin signos de sangrado activo.
+Leve hemorretroperitoneo izquierdo.
+No se observa líquido libre intraabdominal, colecciones ni neumoperitoneo.
+Moderada estatosis hepática.
+Empeoramiento radiológico leve del parénquima pulmonar en relación a evolución de su infección por COVID.
+Diminuta imagen nodular infracentimétrica (5 mm) en valva posterior del terico renal izquierdo, indereminada, a valorar ampliar estudio si procede.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

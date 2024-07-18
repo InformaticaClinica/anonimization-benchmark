@@ -1,0 +1,16 @@
+
+prueba:
+CAMBIO DE CATETER
+
+clinica:
+[**Hombre**] de [**84 años**] con neumonia COVID, insuficiencia respiratoria y bacteremia por E. Faecalis que persiste febril. Tiene mal acceso venoso periferico, ruego colocación de vía central.
+Gracias
+NEUMONÍA POR SARS-CoV-2.
+
+conclusiones:
+Mediante control ecográfico y fluoroscópico, se coloca catéter venoso central yugular derecho de 3 luces, que queda bien posicionado en auricula derecha.
+Se comprueba adecuado funcionamiento.
+No se han presentado complicaciones.
+
+descrip:
+CAMBIO DE CATETER

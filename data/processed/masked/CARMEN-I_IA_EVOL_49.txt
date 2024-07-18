@@ -1,0 +1,61 @@
+
+1. POP PERFORACIÓN INTESTINAL ([**06.08**]) ->COLECISTECTOMIA POR LPS ([**2.08**])- PUNTO EN ASA DE ID QUE SE ENCONTRABA ADHERIDA A SITIO DE LAPAROTOMIA PREVIA.
+2. SHOCK SÉPTICO-HIPERLACTATEMIA
+3. HIPERPOTASEMIA
+4. ACIDOSIS METABÓLICA
+5. IRC ESTADIO IV (HEMODIÁLISIS).
+6. NEUMONIA BASAL IZQUIERDA
+Paciente que se interviene de Colecistectomia LPS el [**día 2.08**].
+Intraoperatoriamente se produce lesión accidental de intestino delgado, que se repara con sutura simple. El paciente presenta evolución tórpida en la sala, inestabilidad hemodinámica y aumento de reactantes de fase aguda. Se orienta en un primer momento como sospecha de pancreatitis vs Perforación intestinal.
+Se realiza scanner [**3.08**]. Observando pequeño hematoma en el lecho quirúrgico. Se observa alguna pequeña burbuja de aire adyacente al asa descrita.
+As: PCR 29.45, Glucosa 475, Cr 11; FGT 4; ASAT /ALAT 25/27; GGT 49; Bb t 0.7; Bb c 0.5; FA 91; Amilasa 1180; Na 129; K 6.9; L 2.19 (neutropenia); Hb 15,4; Hto 49; TP 57; TTpa 32.8; Fibri 6,6, INR 1.36; Liq ascítico: Gluc <4; Prot 42, Bb 2,2, amilasa 7520, LDH 2395.
+Se contacta con UCIQ en contexto de inestabilidad y la mala evolución clínica del paciente. A nuestra valoración paciente con mal aspecto general, mal perfundido, constantes respiratorias alteradas, SpO2 87- 90%, hipotenso, abdomen distendido, doloroso a la palpación, portador de redon con contenido sero-hemático productivo. Por lo que se decide ingreso en UCIQ.
+A su llegada a nuestra unidad se coloca CVC VYII, catéter PICO (femoral izquierda), portador de catéter hemodiálisis en subclavia derecha. Se cursan hemocultivos. Inicio tratamiento ATB con meropenem 2 G, linezolid 600mg y amikacina 2G. Se inicia NAD (x4) y Adrenalina en perfusión.
+Administración de dosis única hidrocortisona 100mg. GSA acidosis metabólica, se administra 100mEq HC03, Gluconato calcico e insulina ev.
+Ecocardiograma muestra ventriculos hiperdinámicos, no se llega a calcular ITV por aceleración presente durante su medida. Posteriormente se disminuye perfusión adrenalina hasta stop. Paciente con soporte oxigeno con VMK FiO2 0.6. Se decide con el equipo quirúrgico Iqx de urgencia. Se procede a la intervención laparotomía exploradora, observándose perforación intestinal en borde antimesentérico (8cm de la perforación reparada). Se realiza resección de 10 cm de intestino delgado y anastomosis lat-lat. Lavados abundantes de toda la cavidad abdominal. Colocación de drenaje de blake perianastomsis.
+Intraoperatoriamente paciente inestable con dosis crecientes de NAD e reinicio adrenalina. Administración de 250mEq HCO3 intraoperatoriamente.
+Al regreso a la unidad paciente IOT en VM, sedoanalgesia con propofol y remifentanilo, inestable con perfusión de NAD x4 a 35ml/h y Adrenalina 8ml/h. Se decide inicio de hemodiálisis continua, 200ml/h, sin solución de anticoagulación.
+    
+INFORME DE ALTA UCIQ
+1. POP COLECISTECTOMIA LPS ([**2.08**])CON PERFORACIÓN INTESTINAL POR ADHERENCIA (SUTURA SIMPLE).
+2. SHOCK SÉPTICO POR PERITONITIS SECUNDARIA A PERFORACIÓN INTESTINAL.
+RE-IQ ([**6/8**]): LPT + RESECCIÓN INTESTINAL 10CM + ANASTOMOSIS L/L 2.1. DISFUNCIÓN CV. HIPOVOLEMIA RELATIVA POR FUGA CAPILAR+ SAM.
+3.ERC EN HD([**2018**])->diálisis convecional
+4.DELIRIO HIPOACTIVO
+5.FA
+6.INFECCIÓN HERIDA QUIRÚRGICA. E.FAECIUM
+7.PLAQUETOPENIA POR SEPSIS/LINEZOLID
+8. Aislamiento de contacto-> frotis rectal [**06/08**] positivo para Citrobacter freundii Ampc.
+Paciente intervenido de colecistectomia LPS programada el [**día 2.08**].
+Intraoperatoriamente se produce perforación accidental de intestino delgado, que se repara con sutura simple.
+Se inicio tratamiento ATB con meropenem,linezolid,amikacina y se inicia perfusión de vasopresores,noradrenalina y adrenalina.
+Ecocardiograma al ingreso muestra ventriculos hiperdinámicos, no se llega a calcular ITV por aceleración presente durante su medida.
+Posteriormente se disminuye perfusión adrenalina hasta stop.
+Ante la mala evolución se decide intervención quirúrgica de urgencia.Se realiza laparotomía, observándose perforación intestinal en borde antimesentérico (8cm de la perforación reparada). Se realiza resección de 10 cm de intestino delgado y anastomosis lat-lat.Se colocan dos drenajes tipo de blake perianastomsis. Intraoperatoriamente paciente inestable con dosis crecientes de NAD e reinicio adrenalina.
+El paciente ingresa IOT en VM, inestable con perfusión de noradrenalina a 1 mcg/kg/min y adrenalina a 0,01mcg/kg/min, se añade antifúngico (anidulafungina)a la terapia antibiótica y se inicia HDVVC que posteriormente se pasa a SLED.
+El paciente evoluciona favorablemente por lo que se puede extubar.
+El paciente presenta un pico febril de 38o,leucos y PCR en ascenso,se solicita TAC ABD que resulta normal.
+En días posteriores afebril,leucos en descenso,PCR 12, por lo que decidimos suspender meropenem y teicoplanina [**14/08**].
+INFECCIÓN DE HERIDA QUIRÚRGICA
+Por evolución tórpida en cuanto a requerimientos de noradrenalina, persistencia y de PCR elevada de 20 se inicia tige + cefta + anidula.
+En el cultivo de un frotis de herida se aisla E.Faecium. Revisado por S.
+cirugia no se indica revisión quirúrgica de la herida.
+SOPORTE NUTRICIONAL
+Mejoría de la ingesta, por lo que se retira NTP.
+Refiere no deposición desde el [**01/03/2020**], por lo que se pauta movicol.
+PLAQUETOPENIA EN CONTEXTO DE LINEZOLID
+Plaquetopenia que llega hasta 23000,el [**día 10/08**] se suspende enoxaparina y linezolid e iniciamos teicoplanina.
+CULTIVOS
+cult CVC [**18/08**] pdte, HC [**18/08**] pdtes,
+E. faecium frotis herida [**17/08**], esputo [**16/08**] neg, FR [**15/08**] E. Coli BLEA y C. fruendii AMPc .
+CULTIVO HERIDA: streptococo faecium. ([**20/08**])
+Por situación de pandemia covid19 se traslada el paciente a [**10.8**].
+En estos momentos paciente 3 dias sin fiebre PCR 10, consciente, eupneico con lentillas nasales, requerimientos de noradrenalina a dosis bajas 8ml/h y hemodiafiltración continua que valorado por nefrologia se puede pasar a sled.
+Abdomen blando con correcta tolerancia a la via oral.
+SALA DE HBP:
+Paciente con historia y antecedentes como descritos anteriormente.
+En la sala paciente presenta buen estado general, afebril, tolerando dieta, sin requerimientos de drogas vasoactivas.
+Analitic con gran mejoria de parametros inflamatorios, cumpliendo antibiotico con Tedizolid via oral , realizando IC a servicio de infecciosas.
+Dado correcta evolucion, y en contecto de la situacion actual por cod 19, se comenta caso con [**C. La Salud**] quienes aceptan su traslado.
+Por todo ellos se decide alta hoy.
+    

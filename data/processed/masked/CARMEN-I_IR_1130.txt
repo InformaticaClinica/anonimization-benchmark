@@ -1,0 +1,36 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente pluripatológico con colecciones abdominales conocidas. El [**jueves 27/06**] se realizó drenaje de colección subfrénica izquierda con éxito con salida de 200ml purulentos dejándose drenaje torácico, que fue productivo hasta el día de hoy. Rogamos TAC de control para estudio de evolución de colecciones. A poder ser, con bases pulmonares, para control así de derrame pleural basal y TEP subsegmentario previo.
+
+protocolo:
+TC ABDOMINAL AMB CONTRAST EV. EN FASE PORTAL
+
+resultados:
+Es compara amb TC previs del [**65/1/27**] i del [**5/6/27**].
+Canvis post-quirúrgics per hemicolectomia esquerra amb colostomia terminal en flanc dret, sense alteracions. Remanent colònic distal amb extrem proximal en hipocondri esquerre col·lapsat. Adjacent al mateix s'identifiquen les diverses coleccions conegudes, de morfologia anfractuosa i amb diverses prolongacions: latero-caudal al remanent colònic, postero-caudal cap a nivell subesplénic i craneal cap a nivell subfrènic esquerre, on es localitza la principal col·lecció que actualment mesura 9 x 5.5 cm en eixos majors. Aquesta última s'ha reduït lleugerament de mida (previ de 11 x 7 cm) però presenta, al igual que les altres, un component de parts toves d'aspecte flemonós al seu voltant que actualment és més evident i algunes calcificacions puntiformes no presents en l'anterior estudi.
+Acumulació de líquid d'aspecte col·leccionatn subfrènic dret que ha disminuït i presenta un gruix actual de 10 mm (previ de 27 mm).
+Resta de nanses intestinals de calibre normal i normocaptants, sense alteracions.
+El fetge és de mida i morfologia dins de la normalitat, homogeni. Alguns quist simples, estabes. No s'identifiquen lesions sòlides focals.
+Bufeta biliar de mida i morfologia normal. Via biliar no dilatada.
+Vena porta i eix esplenomesentèric permeables.
+Melsa, pàncrees i glàndules suprarenals sense alteracions.
+Ronyons de mida i morfologia dins de la normalitat amb nefrograma bilateral i simètric. Quists corticals simples bilaterals. Microlitiasis no obstructives en GCS del RD. Sense signes d'uropatia obstructiva.
+No es veuen ganglis limfàtics augmentats de mida ni al retroperitoni ni en altres territoris abdominals o pèlvics.
+Hèrnia inguinal grassa bilateral amb un segment d'íleon distal en el seu interior en el costat dret.
+No es veu líquid lliure intrabdominal acumulat en altres localitzacions.
+Disminució del vessament pleural esquerre, de quantitat lleu-moderada i d'aspecte discretament loculat en l'actualitat. Fina làmina de vessament pleural dret que també s'ha reduït. Atelectàsies bibasals passives associades.
+S'observen múltiples ganglis mediastínics augmentats de mida, els de major mida en territori ganglionar prevascular, d'11 mm. Lleu quantitat de líquid en regió cardiofrènica esquerra. No s'observen signes evidents de TEP, no obstant l'estudi no s'ha realitzat en la fase adequada per la seva valoració.
+Atròfia de la musculatura glútia i peritrocantèria bilateral, en relació a antecedents de poliomelitis.
+
+conclusiones:
+- Col·leccions adjacents a l'extrem proximal del remanent colònic en hipocondri esquerre.
+- Disminució de mida de la col·lecció subfrènica esquerra, amb persistència d'una paret gruixuda que l'envolta.
+- Discreta disminució de mides de la altres col·lecciosn.
+- Disminució del vessament pleural bilateral.
+- Colostomia en flanc dret sense alteracions.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

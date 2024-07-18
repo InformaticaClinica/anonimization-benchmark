@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19+
+
+protocolo:
+RX PORTATIL TORAX
+
+resultados:
+Comparativamente con la radiografía previa del [**24/12/2026**] se visualiza aumento de la extensión de las opacidades alveolares que afectan predominantemente ambas bases pulmonares.
+PICC con extremo distal en vena cava superior.
+
+conclusiones:
+Progresión de la afectación neumónica bilateral con patrón que sugiere neumonía por COVID.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Varón**] de [**56 años**] con carcinoma de pulmón E IV, actualmente ingresado por mal control del dolor. Presenta disnea de reposo de 24 horas de evolución. Rx de tórax sin cambios relevantes. Solicito angio TC para descartar TEP. Gracias.
+INFECCIÓN RESPIRATORIA
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+Se compara con TC previo del [**25/3/2027**]:
+Port-a-cath en hemitórax derecho con extremo distal en aurícula derecha.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro aumentado (35 mm), hallazgo inespecífico que podría estar en relación con hipertensión pulmonar. No se observan signos de sobrecarga ventricular derecha.
+Cambios post-quirúrgicos por lobectomía superior derecha y lobectomía inferior izquierda.
+No se observa derrame pericardico. Mínimo derrame pleural izquierdo.
+Múltiples adenopatías patológicas ya conocidas y estables: supra e infra claviculares izquierdas, prevascular izquierda, hiliar izquierda, paratraqueal posterior alta derecha, subcarinal, paraesofágica baja y cardiofrénicas izquierdas.
+Nódulos pulmonares bilaterales, el de mayor tamaño en lóbulo superior izquierdo con amplio contacto pleural ha aumentado levemente respecto al estudio previo, ahora presenta un diámetro máximo de 70 mm cuando en el previo era de 61 mm.
+Extensa área consolidativa en lóbulo inferior izquierdo con bronquiectasias irregulares en su interior todo en relación a cambios por radioterapia, ya conocido y estable.
+En comparación con el estudio previo destaca la aparición de extensas áreas bilaterales en vidrio deslustrado con engrosamiento de septos interlobulillares (patrón en empedrado), de distribución periférica y peribroncovascular. Dichos hallazgos en el contexto epidemiológico actual son sugestivos de neumonía vírica por COVID-19.
+En los cortes de hemiabdomen superior no se aprecian alteraciones relevantes.
+
+conclusiones:
+- No se observa TEP.
+- Aparición de hallazgos sugestivos de neumonía vírica bilateral por COVID-19, no presentes en el TC previo de [**25/3/2027**].
+- Crecimiento del nódulo pulmonar de mayor tamaño con amplio contacto pleural en LSI.
+
+descrip:
+ANGIO TC PULMONAR

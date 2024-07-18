@@ -1,0 +1,52 @@
+
+prueba:
+TC COLONOGRAFIA
+
+clinica:
+[**Mujer**] [**65 años**] HTA, DM2, IC FEVI preservada, hernia abdominal gigante, ingresa por anemia grave Hb 6, ferropenia, déficit fólico y b12, rechaza estudio endoscópico. Interesa colono-TC descartar neoplasia.
+
+protocolo:
+TC DE TÓRAX (Fases Arterial y Tardía) + TC COLONOGRAFÍA CON CONTRASTE EV. (PORTAL)
+
+resultados:
+TÓRAX:
+Moderado derrame pleural derecho con zonas que podrían estar loculadas, a valorar si procede ampliar estudio con ecografía torácica + toracocentesis.
+Atelectasias prácticamente completas del lóbulo inferior derecho y lóbulo medio así como atelectasia de los segmentos apical y posterior del lóbulo superior derecho. No se identifican lesiones en los segmentos atelectasiados.
+No se observa derrame pleural izquierdo ni derrame pericárdico.
+Parénquima pulmonar izquierdo de morfología normal, sin lesiones ni focos consolidativos.
+Extensa calcificación traqueobronquial difusa, con engrosamientos bronquiales en pulmón derecho, no obstante no se identifican imágenes de stop a nivel bronquial.
+Grandes vasos del mediastino dentro de la normalidad. Arterias pulmonares permeables, sin imágenes sospechosas de TEP.
+Adenopatías mediastínicas: paratraqueales derechas (la mayor de 16 mm), subcarinal (17 mm) y prevasculares (la mayor de 13 mm). No se observan ganglios axilares de características patológicas.
+Calcificación de arterias coronarias, de la válvula aórtica y del anillo valvular mitral. Cardiomegalia. Aparente dilatación de aurícula izquierda.
+Tiroides con varios nódulos, el mayor de ellos de 17 mm en LTI.
+Fractura antigua consolidada del húmero proximal izquierdo.
+ABDOMEN:
+Hígado de contornos levemente irregulares, con hipertrofia del LHI y del L.Caudado, sugestivo de hepatopatía crónica. Llama la atención la presencia en la zona hipocaptante en s.VI-VI medial, adyacente al lecho vesicular de unos 4.5 x 1.7 cm (más evidente en el plano coronal, dónde presenta una morfología nodular). Es indeterminada en este estudio: se recomienda ampliar estudio con ecografía con contraste ev.
+Vesícula biliar replecionada, de paredes finas. Vía biliar intra y extrahepática no dilatada.
+Vena porta y eje espleno mesentérico permeables. Esplenomegalia de 14 cm.
+Páncreas y glándulas suprarrenales de morfología normal.
+Riñones de tamaño y grosor cortical normal. Se observa una moderada ureterohidronefrosis bilateral sin lesiones obstructivas así como un gran globo vesical (alcanza la región periumbilical) sin lesiones evidentes. Probablemente la dilatación ureteral bilateral sea debida a reflujo vesicoureteral. Valorar sondaje vesical.
+COLONOGRAFÍA: distensión subóptima del colon en varios segmentos (la paciente no logra retener el aire administrado), si bien no se identifican lesiones sospechosas de una neoplasia colorrectal.
+Gran eventración periumbilical que contiene asas intestinales, colon transverso, descendente y ciego, así como una leve cantidad de líquido.
+El saco eventrado presenta unas dimensiones de 22 x 10 x 22 cm (ejes TRxAPxCC) y un amplio orificio herniario de 8 x 7 cm.
+Pequeños ganglios retroperitoneales altos y celiacos globulosos, de < 1 cm, inespecíficos. No se observan ganglios intraabdominales ni inguinales de características patológicas. Leve cantidad de líquido libre intraabdominal.
+Edema de tejido celular subcutáneo de la pared abdominal en ambos flancos y en muslo proximal derecho.
+
+conclusiones:
+Destacan los siguientes hallazgos:
+TÓRAX:
+- Moderado derrame pleural derecho con zonas que podrían estar loculadas, a valorar si procede ampliar estudio con ecografía torácica + toracocentesis.
+- Atelectasias en amplias zonas del pulmón derecho, no identificándose lesiones y con bronquios aferentes permeables, si bien de paredes engrosadas.
+- Adenopatías mediastínicas de predominio derecho, indeterminadas.
+ABDOMEN:
+- Hígado con signos de hepatopatía crónica. Zona hipocaptante en en s.VI-VI medial, adyacente al lecho vesicular, a valorar si procede mediante ecografía con contraste.
+- TC COLONOGRAFÍA subóptima, no obstante sin lesiones sospechosas de proceso neoformativo.
+- Riñones de tamaño y grosor cortical normal, con moderada ureterohidronefrosis bilateral, actualmente causada por reflujo debido a un severo globo vesical. Valorar sondaje.
+- Gran eventración periumbilical que contiene asas intestinales, colon transverso, descendente y ciego, así como una leve cantidad de líquido.
+No presenta signos de complicación en este momento.
+
+descrip:
+TC COLONOGRAFIA
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,21 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Mujer**] de [**78 años**], ingresada por neumonía por SAR-CoV-2, día +19 desde inicio de síntomas. Ha recibido tratamiento con glucocorticoides, anakinra y actualmente IVIg. Presenta evolución estacionaria, con altos requerimientos de O2 (ahora VMK 60% SatO2 96%), analítica con persistencia de parámetros pronósticos elevados (ferritina, LDH, dímero D) y Rx de tórax de control similar a previa (infiltrado intersticial bilateral de predominio en bases). Solicitamos TCAR de tórax como estudio complementario con el fin de ajustar tratamiento inmunomodulador/inmunosupresor y definir pronóstico (evaluar neumonía organizativa +/- fibrosis).
+
+protocolo:
+TC TÒRAX en condiciones basales.
+
+resultados:
+Extensa afectación pulmonar consistente en zonas parcheadas bilaterales de predominio peribroncovascular y subpleural en forma de focos consolidativos y zonas de morfología en empedrado que afecta aprox. 50- 75% de ambos pulmones. Se identifican también alguna imagen de halo reverso (LII). Estos hallazgos están en relación a cambios por afectación pulmonar por COVID-19 con probable componente de neumonía organizativa sobreañadido.
+Cabe destacar el parénquima de base de la paciente presenta un moderado enfisema centrolobulillar de predominio en lóbulos superiores (los cambios radiológicos por la enfermedad actual se superponen al parénquima de base).
+Ganglio paratraqueal derecho parcialmente calcificado. Adenopatía subcarinal prominente (1.2 cm en su eje corto). No se observan adenopatías axilares de tamaño patológico. Calcificaciones ateromatosas de vasos coronarios.  No se observa derrame pleural ni pericárdico.
+Cortes adquiridos del abdomen superior sin alteraciones relevantes.
+
+conclusiones:
+Extensa afectación pulmonar bilateral por neumonía virica por COVID-19 con probable componente de neumonía organizada asociada, afectando a un parénquima pulmonar con moderado enfisema centrolobulillar de base.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

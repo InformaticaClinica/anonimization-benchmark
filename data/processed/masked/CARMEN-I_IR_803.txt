@@ -1,0 +1,20 @@
+
+prueba:
+PIELOGRAFIA POR CATETER
+
+clinica:
+Paciente de [**68 años**] portadora de dos nefrostomías por uropatía obstructiva bilateral por adenopatías tumorales, presenta diuresis uretral espontánea por lo que se cierra ureterostomía izquierda sin mostrar dilatación. Se solicita pielografía izquierda para valorar retirada del catéter.
+Gracias.
+obstrucción ureteral bilateral
+
+resultados:
+Paciente portadora de doble nefrostomía.
+Se instila contraste a través de la nefrostomía izquierda, que presenta su extremo en cáliz inferior. Imagen de litiasis de gran tamaño (13 mm) proyectada sobre un cáliz inferior.
+Correcta repleción de la vía excretora intrarrenal y del uréter. Se objetiva correcto paso de contraste hasta la vejiga.
+Ligero adelgazamiento e irregularidad del contorno del uréter en su tercio medio.
+
+conclusiones:
+Se confirma la permeabilidad del uréter izquierdo, que presenta ligera irregularidad de contorno y leve adelgazamiento difuso en su segmento medio.
+
+descrip:
+PIELOGRAFIA POR CATETER

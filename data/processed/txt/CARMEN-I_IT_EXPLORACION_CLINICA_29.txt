@@ -1,0 +1,7 @@
+26/6/2021-19:17:00: Peso (Kg) 69.4, PAS (mm Hg) 150, PAD (mm Hg) 60, Pu lsioximetría (%) 95, Talla (cm) 174, Ta axilar (oC) 35.8. 26/6/2021-19: 30:00 : Glicemia capilar (mg/dl) 246. 26/6/2021-19:58:00 : Frecuencia r espiratoria (rpm) 15.
+* EXPLORACIÓN FÍSICA EN URGENCIAS:
+General: buen estado general. Piel y mucosas normohidratadas y normocoloreadas.
+Exp. Respiratoria: disminucion del murmullo vesicular en hemitorax derecho,
+Exp. Cardiovascular: tonos cardíacos rítmicos sin soplos u otros ruidos audibles. No edemas en extremidades inferiores. Pulsos periféricos presentes y simétricos.
+Exp. Abdominal: blando, depresible, timpánico con peristaltismo conservado. No dolor ni a la palpación profunda ni superficial. No palpación de visceromegalias. No signos de irritación peritoneal.
+Exp. Neurológica: Consciente y orientado en las 3 esferas. No focalidad neurológica aguda.

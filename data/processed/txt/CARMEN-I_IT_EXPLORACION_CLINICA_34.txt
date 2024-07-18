@@ -1,0 +1,7 @@
+08/04/2013-12:00:00: Frecuencia respiratoria (rpm) 20, PAS (mm Hg) 153, PAD (mm Hg) 83, Pulsioximetría (%) 92, Pulso (ppm) 54, Ta axilar (oC) 36 .
+Regular estado general,  somnolienta, alertable al dolor, sin signos de dificultad respiratoria, febril , hipertensa, taquicárdica, sin requerimiento de oxigenoterapia complementaria
+-CABEZA Y CUELLO:  mucosas semihúmedas, escleras anictéricas
+-TORAX : normoexpansible, impresiona  estertores finos en base derecha, sin uso de musculatura accesoria,  ruidos cardíacos arritmicos, taquicardicos
+-ABDOMEN:  ruidos intestinales presnetes, impresiona doloroso a la palpacion de hemiabdomen inferior y a nivel de flanco e hipocondrio derecho,  sin signos de irritación peritoneal, no palpo globo vesical
+-EXTREMIDADES: sin edema, llenado capilar menor a dos segundos, no observo  lesiones flogóticas en piel
+-NEUROLOGICO: no responde al llamado, no obedece ordenes, alerta al dolor, fuerza en extremidades sin evidencia de focalización, isocorica, con reactividad pupilar

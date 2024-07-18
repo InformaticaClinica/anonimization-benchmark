@@ -1,0 +1,46 @@
+
+prueba:
+TC TORAX Y HEMIABDOMEN SUPERIOR
+
+clinica:
+Paciente [**69 a**] con poliangeitis granulomatosa no eosinofílica de debut en forma de síndrome renopulmonar que requirió IOT+VM + hemodiálisis.
+Además COVID +. Evolución favorable, ahora en weaning (traqueostomía).
+Ha presentado 2 complicaciones: neumotórax apical izquierdo, con tubo drenaje. Posible colangitis, con dilatación colédoco y colestasis, con signos de sepsis. Pendiente colangioRM.
+En las últimas 48 horas presenta enfisema subcutáneo en zona de tubo pleural sugetivo de desplazamiento, no bien apreciable en Rx tórax, e imagen basal derecha sugestiva de neumotórax, extrañando localización.
+Por ese motivo solicitamos TC tórax.
+Además ha presentado empeoramiento colestasis y signos de sepsis, por lo que se solicita TC abdomen superior para valorar dilatación colédoco y dilatación vía biliar intrahepática.
+PACIENTE ALÉRGICO A CONTRASTE YODADO. FAMILIA NO AUTORIZA USO DE CONTRASTE.
+Gracias
+GRANULOMATOSIS CON POLIANGEITIS
+
+protocolo:
+TC tórax y hemiabdomen superior en condiciones basales. URGENTE
+
+resultados:
+Se compara con TC abdominal previo de [**18/8/2017**] y con PET-TC de [**20/04/2017**].
+Traqueostomía con extremo distal de la cánula situada a 5 cm de la carina. Catéter venoso central yucular derecho con extremo distal en unión atrio-caval. Sónda nasogástrica.
+Ganglios mediastínicos aumentados de tamaño, probablemente reactivos.
+Tronco de la arteria pulmonar de calibre conservado.
+Extenso enfisema subcutáneo y entre planos musculares de partes blandas del hemitórax izquierdo.
+Extenso neumotórax bilateral. Tubo de drenaje pleural izquierdo con entrada en el 2º espacio intercostal anterior y extremo distal de localización posterior en contacto con el derrame pleural. Moderado derrame pleural bilateral posterobasal.
+No se identifica neumomediastino.
+Secreciones endobronquiales en el bronquio lobar inferior derecho.
+Colapso del segmento anterior del LSD y de los segmentos posterobasales de los LLII. Comparativamente con el TC abdominal previo se observa disminución de las opacidades centrolobulillares en vidrio deslustrado bilaterales asociado a discretos engrosamientos septales, en probable relación con la hemorragia alveolar en resolución. Llama la atención la presencia de pequeñas imágenes quísticas bilaterales en los LLSS, algunas de ellas subpleurales de predominio en el LSI, no presentes en el PET-TC de [**03/2017**], sugestivos de neumatoceles, pudiendo ser el origen del neumotórax. Se aconseja valorar la posibilidad de neumatoceles secundarios a infección por PCP, o a su enfermedad de base (vasculitis).
+Se observan algunos focos consolidativos y en vidrio deslustrado peribroncovasculares, de predominio en el segmento posterior del LSD y en el LSI, que podrían estar en relación a la neumonía por COVID-19 (patrón no típico), no incluidos en el TC abdominal previo.
+Persiste leve cantidad de líquido libre perihepático, periesplénico y en gotieras paracólicas.
+Hígado de tamaño, morfología y coeficiente de atenuación normales sin lesiones focales aparentes en el estudio basal actual. Vesícula biliar distendida, hidrópica, con leve edema parietal, sin cambios. No se observan signos de inflamación perivesiculares. Colédoco de calibre normal. Se aprecia una ligera dilatación de vía biliar intrahepática, de difícil valoración en el estudio actual. Edema periportal.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad, sin cambios.
+Riñones de tamaño y morfología normal. Nódulo cortical de 25 mm en valva posterior de tercio medio/inferior de RD, sugestivo de quiste complicado, sin cambios. Sin dilatación de la vía excretora.
+Signos de paniculitis mesentérica.
+No se observan adenopatías retroperitoneales de tamaño significativo.
+Edema difuso de partes blandas.
+
+conclusiones:
+Hidroneumotórax bilateral. Tubo de drenaje pleural izquierdo. Extenso enfisema subcutáneo en el hemitórax izquierdo.
+Disminución de las opacidades centrolobulillares en vidrio deslustrado bilaterales asociado a discretos engrosamientos septales, en probable relación con la hemorragia alveolar en resolución.
+Aparición de imágenes sugestivas de neumatoceles en LLSS, algunas de ellas subpleurales, no presentes en el PET-TC de [**03/2017**] (origen del neumotórax?). Se aconseja valorar la posibilidad de neumatoceles secundarios a infección por PCP, o a su enfermedad de base (vasculitis).
+Se observan algunos focos consolidativos y en vidrio deslustrado peribroncovasculares, que podrían estar en relación a la neumonía por COVID-19 (patrón no típico).
+Leve cantidad de líquido libre intraabdominal. Vesícula biliar hidrópica. Ligera dilatación de vía biliar intrahepática, de difícil valoración en el estudio actual. Edema periportal.
+
+descrip:
+TC TORAX Y HEMIABDOMEN SUPERIOR

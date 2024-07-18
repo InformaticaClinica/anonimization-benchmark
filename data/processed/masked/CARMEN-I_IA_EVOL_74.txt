@@ -1,0 +1,78 @@
+
+**EVOLUCIÓN EN SALA [**S923**] (1)
+1. NEUMONÍA POR SARS-CoV2
+**Fecha inicio de síntomas: [**31/08**]
+**Fecha ingreso: [**4/09**]
+**PCR positiva: [**4/09**]
+**Tratamiento: No tto específico para COVID. HBPM sc profiláctica
+**Datos importantes: 2a dosis vacuna COVID el [**25/08**]. En tto con Influximab (última dosis el [**1/09**])
+2. HIDROSADENITIS SUPURATIVA en tratamiento con Infliximab. Mamaria y axilar intervenida (no activa), en región inguinal y perianal con supuración activa (estaba pendiente de Cirugía el [**9/09**].
+piperacilina/tazobactam 4g/6h desde el [**4/09**] al [**10/09**]
+3. SEPSIS SIN FOCO CLARO (RESPIRATORIO VS IPPB). tto: Piperacilina/Tazobactam 4G/6H ([**4/09**]-[**10/09**])
+4. TRASTORNO BIPOLAR. POLIMEDICACIÓN PSICOACTIVA
+5. DESNUTRICIÓN SECUNDARIA A CUADRO MALABSORTIVO POR Cx BARIÁTRICA
+------------
+Paciente de [**44 años**], con antecedentes de cirugía bariátrica en [**2020**] (pérdida de 100 Kg con peso actual 47 Kg y déficits nutricionales asociados, sin clínica diarreica), tr bipolar en tto con Litio y antipsicóticos e hidrosadenitis supurativa en tratamiento con Infliximab (última dosis [**1/09**]). Trabaja como [**Profesional de la salud**] y recibió la segunda dosis de vacuna el [**25/08**]. Contacto con [**cuñado**] e [**hijos**] positivos
+Acude el [**3/09**] a Urgencias por cuadro de inicio el [**31/Feb/2023**] consistente en artromialgias, cefalea, malestar general, tos no productiva y fiebre de hasta 39.5oC. Se ha realizado PCR SARS-CoV2 en el CAP que ha resultado positiva y radiografía de tórax en la que se objetiva infiltrado pulmonar izquierdo. A la anamnesis dirigida, la paciente no refiere ni expectoración, ni disnea, ni dolor torácico. No anosmia ni ageusia. No clínica digestiva. No otra clínica acompañante.
+En Urgencias, fiebre persistente, tendencia a hipotensión arterial y taquicardia, pero eupneica en reposo con SatO2 97% sin O2. Se repite PCR para SARS-CoV2 que resulta positiva y analíticamente destaca elevación franca de reactantes de fase aguda con PCR 17, procalcitonina 0.54, ferritina 286, con 17000 leucocitos a expensas de neutrófilos. Se extraen HCx2 y antigenuria para neumococo y legionela que salen en todos los casos negativos. Se inicia tratamiento empírico con ceftriaxona y azitromicina y se decide ingreso en sala COVID.
+.
+1,2 Y 3.
+En sala, persiste fiebre con tiritona, quebrantamiento del estado general con ligera somnolencia, tendencia a hipotensión arterial y taquicardia, eupneica en reposo con SatO2>95% sin requerimientos de O2.
+Destaca flogosis, dolor y supuración activa a nivel de hidrosadenitis en región inguinal y perianal. Sustituyo ceftriaxona por piperacilina- tazobactam durante 7 días y solicito interconsulta a Dermatología para valoración, que no sugieren que haya ningún foco de infección cutánea pero recomiendan mantener antibioterapia pautada, con seguimiento del caso y reprogramación de intervención.
+Desde el punto de vista infeccioso, la paciente presenta mejoría clínica y analítica con normalización de reactantes de fase aguda, aunque persiste en la radiografía de tórax un aumento de consolidación, más limitada en LSI, por lo que se pide TC de tórax para estudio que informa de la presencia de consolidación heterogenea con broncograma aéreo en LSI con vidrio deslustrado periférico y pequeños focos consolidativos o en vidrio delsustrado todo ello compatible con neumonia COVID que ha ido mejorando y posible coinfección bacteriana en LSI.
+    
+**EVOLUCIÓN SALA [**S923**] (2)
+4.
+El [**5/9**] se hace interconsulta con psiquiatria por valores de litemia de 0.26 que puede ser en contexto de ingreso y demora de inicio de pauta psicofarmacológica habitual. En seguimientos posteriores por parte de psiquiatria se ajusta el tratamiento con quetiapina por somnolencia e hipotensión excesiva, controles de la litemia y disminución de clotiapina a comprimido de 0.5.
+Durante el ingreso la paciente se levanta en repetidas ocasiones por la noche para ir al baño. En dichas ocasiones presenta cierta desorientación nocturna con descenso de cifras tensionales, presentando cuadros presincopales, con caídas. Por el lado de la desorientación se ajusta el tratamiento psiquiatrico. Por el lado de la poliuria, se recoge orina de 24 horas principalmente para cuantificar diuresis para descartar diabetes insipida nefrogénica secundaria a tratamiento con litio, recogiéndose diuresis de 1100cc en 24 horas.
+.
+5.
+En diferentes analíticas de control se objetiva deficit de zinc, lo que podria podría favorecer clínica neuro-psiquiátrica, por lo que se ajustan los suplementos vitamínicos y se realiza IC a nutrición hospitalaria que pautan suplementos dietéticos. También destaca una pancitopenia, que podría ser carencial o farmacológica, dado el cuadro de desnutrición (perfil nutricional con per-albúmina por debajo del corte, déficit de Zn...) añade al tratamiento Optovite y ácido fólico, con mejoría progresiva.
+.
+----------
+Dada la buena evolución clínica de la paciente se decide el alta a domicilio, con seguimiento por médico de atención primaria, Dermatología, Endocrinología y Psiquiatría como venía haciendo.
+Adicionalmente se solicita control con Salud Internacional con Rx de tórax en 1 mes.
+.
+.
+    
+**VALORACIÓN POR DERMATOLOGÍA
+Se valora paciente en seguimiento por Hidrosadenitis grave (Hurley 3, PGA muy grave, IH4 >11) que está en tratamiento con Infliximab a dosis altas con buena respuesta de la hidrosadenitis aunque persistencia de lesiones muy organizadas (fístulas/colecciones superficiales) actualmente en nalgas (sin afectar perianal).
+La paciente refiere estabilidad en las lesiones de hidrosadenitis en los días previos y durante el ingreso, no ha notado más dolor, o más supuración de lo habitual.
+A la exploración la paciente presenta las lesiones ya conocidas en nalgas con mínima inflamación, sin nódulos inflamatorios palpables y con algún punto de supuración mínima.
+Conclusiones / Conclusions
+La clínica referida por la paciente así como la exploración física al momento, tras 24h de AB de amplio espectro (P/T), no sugiere foco infeccioso cutáneo.
+.
+.
+    
+**INTERCONSULTA PSIQUIATRÍA (Dr. [**Azofra**]/ Dr. [**Cansino**])
+Paciente de [**44 años**] ingresada por neumonía COVID y sepsis, realizaninterconsulta con psiquiatría para valoración de tratamiento psicofarmacológico.
+ANTECEDENTES SOMÁTICOS
+Sin alergias medicamentosas conocidas.
+Hidradenitis supurativa autoinmunitaria en tratamiento con Infliximab.
+ANTECEDENTES QUIRÚRGICOS: Bypass gástrico [**2020**]. Antecedente de Obesidad Mórbida con Peso máximo 147 años, BPG [**07/2020**] actualmente 47kg)
+ANTECEDENTES PSIQUIÁTRICOS: Diagnosticada de Tr. bipolar en seguimientoen [**Centro privado**].
+Tratamiento habitual: Olanzapina 10-10-10, Quetipina 300 mg 2/24h, Clotiapina 40 mg 0.5/24h, Litio 400-0-400, Escitalopram 10 mg 2-0-0, Duloxetina 60 mg 2-0-0, Clonazepam 2 mg 0-0-2, Oxcarbazepina 300-0-300.
+Paciente de [**44 años**] diagnosticada de Tr. bipolar que realiza Seguimiento en el [**Centro privado**]. Durante el ingreso realizan litemia con valores de 0.26. La paciente refiere realizar el tratamiento psicofarmacológico de forma correcta y presentar variaciones frecuentes en litemia. En el momento actual se encuentra con doble tratamiento eutimizante y antipsicótico.
+.
+[**8/09**]: INTERCONSULTA PSIQUIATRÍA (Dra. [**Encinas**]/ Dr. [**Cansino**]) Paciente de [**44 años**] diagnosticada de Tr. bipolar que realiza seguimientoen [**HOSPITAL MONTSERRAT**]. Durante el actual ingreso realizan litemia con valores de 0.26 que puede ser en contexto de ingreso ydemora de inicio de pauta psicofarmacológica habitual.
+Contactamos con Dra. [**Castellvi**] quien confirma diagnóstico y tratamientoactual de la paciente. Estuvo eutímica durante años con doble eutimizante (litio + valproato), hasta que se le realiza la cirugía bariátrica. Por alteraciones de absorción, se realizó cambio de eutimizante con mejoría posterior. Último ingreso en [**mayo de 2023**] por descompensación de tipo depresiva con ideas deliroides e ideación suicida por lo que se instaura tratamiento antipsicótico con buena respuesta. Buena adherencia al tratamiento y seguimiento, buena conciencia de enfermedad. Última litemiael [**16 de junio de 2023**] convalores de 0.75.
+Visita presencial.
+EPP: Discreta somnolencia, consciente y bien
+orientada en las 3 esferas.Contacto sintónico. Euprosódica. Actitud abordable y colaboradora. Lenguaje coherente, con prosodia conservada y tono normal. Discurso inducido, algo enlentecido. Pensamiento de curso normal. Sin ideación  suicida en el momento de la entrevista. Sin ideación delirante de ningúntipo. Afecto reactivo, aparente eutimia, niega ansiedad, deseo de mejoría presente. Sin alteraciones de la sensopercepción. Biorritmos conservados. Juicio derealidad conservado.
+Buen insight.
+PLAN:
+-Recomendamos ajuste de quetiapina por somnolencia excesiva. 0-0-200 + 100 en mañana PRN.
+-Solicitamos nueva litemia para valoración
+.
+[**9/09**]: Litemia 0.76. Persiste somnolencia nocturna con cuadros de desorientación, por lo que se reduce Clotiapina a 0.5
+[**11/09**]: NOTA AL ALTA (Se aconseja transcribir esta nota en el informe de alta)
+Paciente de [**44 años**] diagnosticada de Tr. bipolar que realiza seguimientoen [**HOSPITAL MONTSERRAT**]. Durante el ingreso se ajusta pautapsicofarmacológica, permaneciendo eutímica, estable psicopatológicamentey con buen descanso nocturno. Se realizó A/S con litemia de 0.73 y niveles de Hidroxioxcarbazepina de 13.7, ambosdentro del margen terapéutico.
+En el momento actual, realiza tratamiento con:
+Olanzapina 10-10-20,  Quetiapina 0-0-200, Clotiapina 0-0-20, Litio 400-0-400, Oxcarbazepina  600-0-900, Clitalopram 20-0-0, Duloxetina90- 0-0, Elontril 300-0-0, Clonazepam 0-0-2.
+Recomendaciones:
+-Mantener tratamiento psicofarmacológico pautado.
+-Se recomienda seguimiento con psiquiatra habitual al alta.
+.
+Se nos informa que paciente sufre caida ayer por la noche. Es pocoprobable que se deba a Quetiapina nocturna. De todas formas recomendamosbajar dosis de Quetiapina nocturna a 150 mg por la noche.
+Asimismo es  conveniente que paciente tome dicha medicacion una vez que ya este en  cama. Asimismo es importante controlar tensión arterial, poniendo    enfasis en que esta no baje de 90/60.
+    
