@@ -1,0 +1,32 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Cirrosis hepática en evaluació preTOH. Neumonia COVID. Derrame pleural derecho masivo pese a drenaje toracico.
+TAC toracico
+para caractedrizar cambios en parenquima pumonar y descartar componente de NCC
+COVID
+CIRROSIS HEPATICA CHILD C
+
+protocolo:
+TC TORAX
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides con inyección de contraste e.v. para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con TC previo del [**17/2/2023**].
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Severa ateromatosis calcificada en arterias coronarias.
+Calcificaciones en válvula aórtica.
+Marcado aumento del severo derrame pleural derecho, que condiciona atelectasia pasiva completa del pulmón derecho (sin áreas hipocaptantes sugestivas de sobreinfección) y desplazamiento de las estructuras mediastínicas hacia el hemitórax izquierdo. Catéter de drenaje pleural derecho con extremo distal adyacente a parénquima pulmonar derecho atelectásico.
+Ausencia de derrame pleural izquierdo, ni pericárdico.
+Mejoría de la afectación del parénquima pulmonar izquierdo con disminución de las opacidades en vidrio deslustrado con engrosamiento de septos interlobulillares (patrón en empedrado), de localización peribroncovascular y subpleural de predominio en LSI. No se visualizan focos consolidativos en el estudio actual. Presencia de algunas bandas perilobulares, en relación a cambios organizativos. Estos hallazgos son sugestivos de neumonía vírica por COVID-19 con cambios organizativos, en evolución, que ha mejorado respecto estudio previo.
+En cortes de hemiabdomen superior se observa hígado de bordes irregulares con estigmas de hepatopatía crónica. Abudante circulación venosa varicosa en zona del lig. gastrohepático. Repermeabilización de la vena umbilical. Leve cantidad de líquido libre perihepático y periesplénico.
+Ginecomastia bilateral.
+
+conclusiones:
+- Aumento del severo derrame pleural derecho, que condiciona atelectasia completa de pulmón derecho y desplazamiento de estructuras mediastínicas hacia hemitórax izquierdo.
+- Mejoría de la neumonía por COVID de extensión moderada y con cambios organizativos asociados, de predominio en LSI.
+- Estigmas de daño hepático crónico.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

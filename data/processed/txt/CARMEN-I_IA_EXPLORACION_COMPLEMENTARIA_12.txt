@@ -1,0 +1,32 @@
+
+- ANTIGENURIA (23/01/21): Ag. Legionella pneumophila - antigen Negatiu, Ag. S. pneumoniae antigen Negatiu.
+- VIROLOGÍA (23/01/21): Antigen superficie v.hepatitis B Negatiu, IgG antigen core v.hepatitis B Negatiu, VIH 1/2 Anticossos + Antígen p24 Combo Negatiu.
+- HEMOCULTIVOS (23/01/21): Negativo.
+- COPROCULTIVO (23/01/21): S'aïlla flora habitual o sapròfita.
+- CULTIVO DE ESPUTO (24/01/21): mala calidad.
+- FROTIS DE MICROORGANISMOS MULTIRRESISTENTES (30/01/21):
+* Frotis rectal. Detecció BGNs multiresistents cultiu: 1.- S'aïllen abundants colònies de: Escherichia coli, Soca productora de betalactamasa d´espectre ampliat (BLEA). 2.- S'aïllen escasses colònies de: Enterobacter cloacae complex, Soca productora de metalocarbapenemasa VIM, aplicar mesures d'aïllament.
+* Frotis nasal Detecció/Control S. aureus (MRSA/MSSA) en cultiu: S'aïlla flora habitual o sapròfita.
+* INTERCONSULTA ENDOCRINO:
+Hombre de 62 años, natural de República de Mauricio con antecedente de DLP y DT2 diagnósticada en a sus 35-35 años a raiz de analítica casual por lo que inicio tratamiento con metformina, posteriomente ante mal control se asocian 2 ADOs más. Actualmente en tratamiento con Metformina 850/12H, Glibenclamida 5mg/12h y Sitagliptina 100mg/24h. Con mal control crónico con HbA1C 9.7% (2019). C. crónicas: ND con MAU + 41 mg/g crea, no RD (FO 2019), disfunción eréctil, no IAM, no CI. C. agudas no refiere.
+Asistencia irregular al CAP.
+AF: Padre con diagnósitco de DT2 a sus 52 años, en tratamiento con ADOs.
+1 Hermano con DT2 diagnósticado a sus 38 años en tratamiento con insulina.
+** ENFERMEDAD ACTUAL: Paciente ingresado por Neumonia por SARS-COV-2 por lo que inicia tratamiento con 6 mg Dexamenasona el 23/01 con mal control glucémico posterior hasta valores de 387 mg/dl con múltiples dosis de insulina a 0.7 UI/kg/d. Además en un angioTC torácico (22/01) se evidencia bocio multinodular expensas del lobulo tiroideo izquierdo, amplian estudio con analítica el 23/01 evidenciando hipertiroidismo subclínico motivo por el que solicitan IC. En Historia clínica electrónica se evidencia TSH normal (1.17 mU/L VR 0.550 - 4.780) en 2019.
+** EF: Peso 86kg, IMC 29.8kg/m2. FC: 75lpm, TA 131/72mmhg. A/S PCR 10 mg/dl, glucosa 257 mg/dl, creatinina 0.43 mg/dl, FG >90 ml/min, CT 137 mg/dl, TG 128 mg/dl, HbA1c 10.9%. TSH 0.25 mUI/L, T4 1.47 ng/dl.
+** OD:
+- DT2 con mal control crónico descompensada en forma de hiperglucemia en cotexto de patología aguda y tratamiento con corticoides.
+- Bocio multinodular.
+- Hipertiroidismo subclínico en contexto de efecto de efecto Jod- Basedow.
+** PLAN:
+- Ajustamos pauta de insulina a Insulina Glargina 30 UI/AM + lispro 8-9- 9 UI con FSI de 30. Iremos ajustando hasta estabilidad.
+- De cara al alta probablemente vaya a requerir insulina basal VS MDI, recomendamos iniciar educación diabetológica por parte de enfermería de sala.
+- Recomendamos repetir perfil tiroidal en 4-6 semanas con ecografía tiroidea y control por CAP.
+Paciente valorado por el servicio por cuadro de DT2 con mal control crónico descompensada en forma de hiperglucemia en contexto neumonia por Sars-CoV-2 y tratamiento con corticoides, bocio multinodular e hipertiroidismo subclínico en contexto de efecto de efecto Jod- Basedow.
+Solicitan IC para pauta al alta
+** PLAN AL ALTA:
+- De cara al alta ajustamos pauta de insulina con Insulina Glargina 28 UI/AM + lispro 7-9-7 UI con FSI de 40 +
+metformina 850 mg c/12h. Control por hospital de Día en dos semanas y posteriormente en Endocrinoloigia
+de zona.
+- Recomendamos repetir perfil tiroidal en 4-6 semanas con ecografía tiroidea y control por CAP.
+ 

@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente mujer de 103 años, anticoagulada por FA con Sintrom, en convalescencia de fx femoral que presenta ictus isquémico con cclusión de top basilar con TICI 3 tras trombectomía mecánica. Solicito TC DUAL a las 6 horas. Gracias.
+
+protocolo:
+TC CRANEAL DUAL URGENTE
+
+resultados:
+Se compara con TC previo de ayer 18/01/22.
+No se observan signos de complicación hemorrágica.
+No se visualizan claras hipodensidades em fosa posterior que sugieran isquemia subaguda valorables por TC.
+Estructuras de línea media centradas. Cisternas basales libres.
+Resto del estudio (enfermedad de pequeño vaso y atrofia global) sin cambios significativos.
+
+conclusiones:
+No hay signos de complicación hemorrágica ni de isquemia establecida intracraneal.
+Resto, sin cambios.
+
+descrip:
+TC CEREBRAL

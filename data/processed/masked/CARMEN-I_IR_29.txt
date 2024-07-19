@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+sospitas covid19, control en pac cardiopatia
+Cardiopatia no especificada
+
+conclusiones:
+RX TORAX PORTATIL
+Comparativamente con la exploración del [**11/07/2012**], persisten las imagenes de condensación en tercio medio e inferior del hemitorax derecho y en base pulmonar izquierda, pero ha aumentado la densidad de los infiltrados en base pulmonar derecha.
+
+descrip:
+RX  PORTATIL  TORAX

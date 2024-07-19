@@ -1,0 +1,16 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+[**Hombre**] de [**61 años**] con múltiples factores de riesgo cardiovascular, ingresado por ictus en territorio de la ACMD, probablemente cardioembólico (FA + no cumplimiento del tratamiento anticoagulante), solicito RM para completar estudio.
+ICTUS ACMD
+
+protocolo:
+RM Y ANGIORM CRANEOENCEFALICA
+
+conclusiones:
+lesión isquémica citotóxica aguda de pequeño tamaño , en territorio superficial de ACm derecha , en insula y sustancia blanca subcortical frontal derecha . Permeabilidad de vasos intracraneales de mediano y gran calibre . Estenosis del 50% en carótida interna supraclinoidea derecha . Leucoencefalopatia cronica , Fazekas grado 3
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

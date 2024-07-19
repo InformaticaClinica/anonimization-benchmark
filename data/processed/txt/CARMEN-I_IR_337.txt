@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Mujer de 61 a con neumonia bilat por covid que ha requerido de IOT, actualmente traqueostomizada. Destaca taquicardia mantenida sin otro agente etiológico con DD persistentemente elevado. Rogamso angioTc para descaratr TEP gracias.
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+Estudio de angio-TC pulmonar.
+
+resultados:
+No se observan defectos de repleción evidentes en arterias pulmonares que sugieran TEP.
+Tronco de la arteria pulmonar de calibre normal. Sin signos de sobrecarga cardiaca derecha.
+TET a 3 cm de carina.
+Via venosa central yugular izquierda con extremos distal en VCS.
+Ganglios mediastinicos no valorables por tamaño radiologico bilaterales, probablemente reactivos.
+Espacios pleurales libres.
+Importante disminución de las opacidades en vidrio deslustrado y de las consolidaciones peribroncovasculares. Persiste bandas subpleurales de distribución periférica en LLSS y LLII.
+Colelitiasis.
+
+conclusiones:
+No se observan signos de TEP.
+Importante mejoria radiologica de las opacidades parenquimatosas bilaterales 2º a covid 19.
+
+descrip:
+ANGIO TC PULMONAR

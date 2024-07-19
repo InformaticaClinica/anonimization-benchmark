@@ -1,0 +1,22 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN RESPIRATORIA VÍAS ALTAS COVID19
+
+protocolo:
+RX DE TÓRAX PORTATIL
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: NO
+Distribución: Periférica
+Campos pulmonares: Pulmón derecho: medio. Pulmón izquierdo: medio
+Opacidades perifericas en campo medio de ambos pulmones (si bien coinciden parcialmente con la silueta mamaria, han progresado respecto a RX previas, lo que va en contra de que se trate de superposicion de partes blandas). * Otros hallazgos relevantes: Port/a/cath en hemitorax derecho y extremo en union cavoatrial.
+EVOLUCION: Progresion respecto RX previa del [**2/11/2026**] a expensas de mayor extension.
+CONCLUSION: Afectación pulmonar por COVID que muestra progresion de la afectacion radiologica en comparacion con RX previa de hace 2 dias.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,10 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Rx per 1/03, gràcies!
+COVID +
+
+descrip:
+RX  PORTATIL  TORAX

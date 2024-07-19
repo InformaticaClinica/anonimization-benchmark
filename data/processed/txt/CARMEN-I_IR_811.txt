@@ -1,0 +1,33 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Pancreatitis aguda con bilirrubina de 11 (en ascenso los últimos días).
+Eco al ingreso no detecto colelitiasis ni diltación de la vía biliar.
+Solicito TAC para completar estudio, descartar complicaciones y describir si existe diltación de la via biliar de cara a decidir abordaje en caso de sepsis. COVID positivo. Gracias.
+
+protocolo:
+TC abdominal  en condiciones basales con posterior administración de contraste e.v. y adquisición de imágenes en fases pancreatográfica y portal.
+
+resultados:
+Hígado de tamaño y morfología normales, sin lesiones focales valorables.
+Realce precoz difuso del LHI respecto el LHD en la fase pancreatográfica. Origen de la arteria hepática izquierda en la arteria gástrica izquierda (variante).
+Colección laminar que asciende desde el lóbulo caudado siguiendo la VCI hasta el espacio subfrénico derecho, donde presenta unos diámetros de 7.6 x 3 x 2.8 cm (AP x TR x CC). Condiciona un efecto masa sobre la propia VCI y las venas suprahepáticas media e izquierda, que se hallan parcialmente colapsadas. Asocia un aumento de la densidad de la grasa periesofágica del mediastino visceral y la presencia de algún ganglio paraesofágico, todo ello sugestivo de cambios flemonosos.
+Trombosis completa de la porta izquierda y de sus ramas. Vena porta principal, porta derecha y eje espleno-mesentérico permeables.
+Vesícula biliar distendida y de paredes engrosadas (6 mm) con trabeculación de la grasa adyacente, sugestivo de una colecistitis aguda. Leve dilatación de la vía biliar intrahepática y moderada del colédoco (10 mm), que presenta una litiasis de 10 mm en su porció yuxtapapilar, todo ello asociado a hipercaptación parietal por colangitis.
+Páncreas de tamaño y morfología normales, sin signos de pancreatitis por TC. Dilatación del conducto de Wirsung de hasta 7 mm secundaria a la litiasis descrita. Pequeñas calcificaciones en la cabeza pancreática que no permiten descartar una pancreatitis crónica. Bazo y glándulas suprarrenales sin alteraciones. No se aprecian adenopatías retroperitoneales ni pélvicas valorables. Múltiples ganglios de hasta 10 mm en región celíaca, de aspecto reactivo.
+Riñones de tamaño y morfología normales con una correcta captación de contraste. Múltiples quistes corticales simples. Pequeña área hipocaptante de 11 mm y morfología triangular en la valva anterior del RI, sugestiva de un pequeño infarto renal. No hay dilatación de la vía excretora.
+Diverticulosis colónica sin signos de complicación. Discreto engrosamiento parietal del sigma sin cambios inflamatorios asociados en la grasa adyacente, sin cambios respecto la TC previa del 25/07/2002, inespecífico. Resto del marco colónico y asas intestinales de calibre normal con adecuado realce de sus paredes.
+Leve cantidad de líquido libre perihepático, en ambas gotieras parietocólicas y en pelvis. No se aprecia neumoperitoneo.
+Cambios degenerativos en la columna torácica baja y lumbar.
+Leve derrame pleural bilateral de predominio derecho que condiciona atelectasia del parénquima adyacente. Atelectasias subsegmentarias basales derechas. Engrosamiento de las paredes bronquiales.
+
+conclusiones:
+- Colección laminar que asciende desde el lóbulo caudado siguiendo la VCI hasta el espacio subfrénico derecho y que asocia cambios flemonosos en la grasa mediastínica periesofágica.
+- Trombosis total de la vena porta izquierda y sus ramas.
+- Signos sugestivos de una colecistitis aguda. Dilatación de la vía biliar intra y extrahepática y del conducto de Wirsung secundaria a una litiasis yuxtapapilar, con signos de colangitis.
+- Leve cantidad de líquido libre intraabdominal.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

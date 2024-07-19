@@ -1,0 +1,33 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Episodio de desaturación. Taquicardia sinusal. Ddimero >3000. Profilaxis estandar.
+Interesa descartar TEP.
+nemonía organizativa
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Se compara con TC previo del [**11/06/11**].
+Exploración muy artefactada por movimientos respiratorios del paciente y contraste subóptimo, que dificulta la valoración de los segmentos distales de las arterias segmentarias y las subsegmentarias. En estas condiciones:
+Dudoso defecto de repleción en la arteria para la pirámide basal derecha que podría corresponder a TEP agudo de nueva aparición. Tronco de arteria pulmonar de calibre normal. No se observan signos de sobrecarga derecha.
+Adenopatías en situación paratraqueal alta y baja e hiliar derecha, siendo esta última la de mayor tamaño (11 mm), No se evidencian adenopatías axilares.
+Leve neumotórax derecho de predominio basal anterior de nueva aparición.
+No se observa derrame pleural ni pericárdico.
+Extensas opacidades en vidrio deslustrado bilaterales, de predominio periférico, con tendencia a la consolidación, imágenes en halo reverso, bandas subpleurales y algunas dilataciones bronquiales de predominio en bases y ápices. Los hallazgos descritos son compatibles con neumonía COVID19 con cambios organizativos. Respecto a TC previo, se observa discreto aumento de las áreas consolidativas, con discreta disminución de las áreas en vidrio deslustrado.
+Tubo de traqueostomía con extremo distal a 32 mm de la carina.
+En los cortes de hemiabdomen superior, se observan múltiples imágenes hipodensas hepáticas sugestivas de quistes simples (densidad líquido).
+No se observan otros hallazgos significativos.
+
+conclusiones:
+Exploración muy artefactada por movimientos respiratorios del paciente y contraste subóptimo, que dificulta la valoración de los segmentos distales de las arterias segmentarias y las subsegmentarias. En estas condiciones:
+Dudoso defecto de repleción en la arteria para la pirámide basal derecha que podría corresponder a TEP agudo de nueva aparición.
+Leve neumotórax derecho de nueva aparición.
+Hallazgos compatibles con neumonía COVID19 conocida con cambios organizativos que, respecto a TC previo, muestra mayor tendencia a la consolidación y discreta disminución de las opacidades en vidrio deslustrado.
+*Caso comentado con Dr. [**Posadas**] (radiología de tórax).
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Varon de 41 años con neumonía COVID19 (fecha comienzo sintomas 04/04) con confirmacion por test antigénico y PCr. Posterior entrada en fase inflamatoria con necesidad de tto dual REMDE y DEXA. Mejoría clinica y de RFA pero persistencia de infiltrados bilaterales. solicitamos valoracion para descartar cambios organizativos. Muchas gracias
+NEUMONIA BILATERAL COVID19
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC de alta resplución.
+
+resultados:
+Artreia pulmonar dilatada de 36mm sugestivo de hipertensión pulmonar.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Consolidaciones periféricas y peribroncovasculares con morfología perilobular y halos reversos asociado a bandas subpleurales y dilataciones bronquiales todo ello compatible con neumonia COVID en resolución con cambios organizativos.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

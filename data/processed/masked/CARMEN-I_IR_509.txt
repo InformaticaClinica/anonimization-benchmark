@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Varón**] de [**45a**] sin AP. NEumonia por COVID19. En día +12d. Persiste con fiebre y requerimientos de oxigenoterapia con RFA en descenso. Interesa descartar NO. Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC de tórax sin contraste EV.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Ganglios mediastínicos aumentados de tamaño, reactivos.
+Restos tímicos en mediastino anterior.
+Discreto derrame pleural laminar derecho. Ausencia de derrame pleural izquierdo.
+Opacidades parcheadas en vidrio deslustrado peribroncovasculares y de distribución periférica bilaterales, algunas con tendencia a la consolidación, en relación a neumonía bilateral por COVID-19. Se observan algunas opacidades lineales periféricas de distribución perilobular, de predominio en LLII, sugestivo de cambios organizativos incipientes.
+Sin alteraciones valorables en los cortes de abdomen superior.
+
+conclusiones:
+Neumonía bilateral por COVID-19 de las características descritas, con cambios organizativos incipientes de predominio en LLII.
+Discreto derrame pleural laminar derecho.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

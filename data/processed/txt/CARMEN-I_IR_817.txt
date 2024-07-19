@@ -1,0 +1,25 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con antecedentes de NINE, presentó además insuficiencia renal aguda (FG 60 ml/min), actualmente con progresión radiológica. Solicito TACAR de tórax URGENTE. Comentado con Dr. Pariente. Gracias
+COVID-19 POSITIU
+
+protocolo:
+TACAR URGENTE
+
+resultados:
+Se compara con estudio previo TC TORACOABDOMINAL del 18/7/2026.
+Estructuras mediastínicas de aspecto normal.
+Varios ganglios mediastínicos paratraqueales de tamaño en el límite de la normalidad, probablemente reactivos a la patología infecciosa. No se observan adenopatías axilares de tamaño patológico.
+Espacios pleurales libres, sin evidencia de derrame pleural ni pericárdico.
+En parénquima pulmonar se aprecian opacidades en vídrio deslustrado periféricas y bilaterales, de predominio en ambos LLII, con algunos focos consolidativos periféricos asociados, compatible con infección por el virus de COVID-19. Afecta especialmente las zonas de pulmón donde en estudios previos se veia una afectación en forma de patrón reticular subpleural y algunas bronquiolectasias de tracción, en relación a pneumopatía intertisticial difusa con patrón de NINE. En este estudio parece que la afectación por NINE haya progresado pero probablemente sea por la infección viral concomitante, aunque no podemos descartar fibrosis progresiva.
+Cambios postquirúrgicos apicales derechos, en relación con segmentectomía atípica del LSD.
+En los cortes abdominales incluidos en el estudio no se visualizan hallazgos significativos. Colecistectomía.
+
+conclusiones:
+Hallazgos compatibles con neumonía por virus del COVID-19, que afecta especialmente las zonas de pulmón donde en estudios previos se veia una afectación por pneumopatía intertisticial difusa con patrón de NINE. En este estudio parece que la afectación por NINE haya progresado pero probablemente sea por la infección viral concomitante, aunque no podemos descartar fibrosis progresiva.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

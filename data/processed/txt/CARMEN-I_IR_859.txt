@@ -1,0 +1,32 @@
+
+prueba:
+RM COLUMNA LUMBAR
+
+clinica:
+Paciente de 76 años ingresada actualmente en planta COVID que presenta desde hace semanas cuadro clínico de dolor lumbar intenso. Valorada por traumatología 15/11/23 en Urgencias, se evidencia importante dolor a la palpación de apófisis espinosas a nivel L1-L3 con discopatía a estos niveles en la RX realizada.
+Analíticamente presenta una procalcitonina de 3 y aumento de reactates de fase. Se inicia antibioterapia empírica ante posible espondilodiscitis.
+Comentada con vosotros telemáticamente, se recomienda realización de RM Urgente previo a realización TAC con punción para diagnóstico.
+Un saludo.
+dolor lumbar
+
+protocolo:
+RM de columna lumbar en plano axial y sagital  con secuencias T1TSE, T2TSE, T2tirm y T1FS postcontraste. No se adquieres secuencias T1TSE postcontraste por indisposición de la pacinte.
+
+resultados:
+No se dispone de estudio previo para comparar.
+Cambios postquirúrgicos con artrodesisi instrumentada de L2 a L5, con artefactos paramagnéticos que impiden ópticam visualización.
+Rectificación de la lordosis lumbar. Cono medular en T12.
+Cambios degenerativos Modic tipo 2 en algunos cuerpos vertebrales y pérdida de altura T12.
+A nivel L1-L2 se observa, pese a artefactos, alteración de señal discal, con irregularidad de plataformas vertebrales adyacentes e hiposeñal T1 e hiperseñal T2/STIR en dichos cuerpos vertebrales sugestivos de edema. Se observa realce en secuencia con contraste, así como hiperseñal T2 y realce en psoas de predominio izquierdo que sugiere cambios inflamatorios, sin colecciones aparentes. Los hallazgos sugieren posible espondilodiscitis a este nivel.
+Hernias discales de base amplia desde L2-L3 a L4-L5. también con protrusión sobre canal central de componente discal y/o inflamatorio en L1-L2.
+Estenosis de canal central en L1-L2-L3 con alteración de trayecto de las raices, que se encuentran densamente yuxtapuestas debido al compromiso de espacio.
+Agujeros de conjunción difícilmente valorables por los artefactos descritos.
+Atrofia y cambios postquirúrgicos en partes blandas y musculatura paravertebral.
+
+conclusiones:
+Artefactos por artrodesisis instrumentada de L2 a L5 que disminuyen calidad de la exploración.
+Posible espondildiscitis en L1-L2, sin colecciones valorables.
+Cambios degenertivos y discopatía.
+
+descrip:
+RM COLUMNA LUMBAR

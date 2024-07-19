@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL
+
+protocolo:
+RX Tórax portatil
+
+conclusiones:
+Placa rotada
+Se observan opacidades bilaterales de distribución periférica y una condensacion en el campos superior de pulmon derecho. Comparado con la RX previa del [**20-7-2013**] se observa un discreto aumento de la condensacion el campos superior derecho y de la opacidades en el campos superior izquierdo
+Cardiomegalia.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,24 @@
+1. NEUMONÍA LID POR SARS-CoV-2
+2. DOLOR ABDOMINAL EN ESTUDIO
+3. ABSTINENCIA A NICOTINA
+Inicio síntomas: 21/02 (?)
+TAR+: 24/02 - PCR+ 25/02 CT 28 y 29
+Ingreso: 25/02
+Tto: 25/02 Ceftriaxona + 26/02 Metronidazol + 27/02 Dexametasona
+Mujer de 44 años quien acude a urgencias por presentar dolor abdominal agudo. A su llegada a urgenicas paciente hemodinámicamente estable, normotensa, no taquicárdica, eupneica en basal y afebril. Me la encuentro dormida, con mano en posición antiálgica; a la exploración destaca abdomen blando y depresible, realiza defensa a la palpación profunda de flanco e hipocondrio derecho, signo de Bloomberg y Rovsing negativo, psoas dudoso, no se palpan masas ni megalias, PPRB negativa, no se objetivan lesiones cutáneas, no meralgia.
+Se administra tratamiento con analgesia (metasedin 5 mg SC x2 y buscapina), con persistencia del dolor pero con discreta mejoría según refiere, posibilitando el descanso. Refiere dolor de inicio de hipocondrio derecho coincidente con inicio de tos no expectorante, con migración posterior a flanco derecho.
+Se realiza analítica sanguínea donde destaca PCR de 11.64 mg/dL con leucocitosis de 11500 (Neu 9900, Lin 600); función renal, perfil hepático, pancreático e ionograma sin alteraciones signficativas. Hb 11.3 g/dL de características normocíticas, sin otras alteraciones del hemograma.
+Rx de tórax con ICT < 0.5, infiltrado en base derecha sin otras alteraciones significativas. Rx de abdomen con heces en marco cólico con discreta dilatación de asas, no impresiona de neumoperitoneo.
+Se realiza TC abdominal que no objetiva signos de patología aguda intraabdominal aunque objetiva opacidades en vidrio deslustrado subpleurales en base pulmonar derecha en relación a neumonía COVID19 en evolución.
+En vista de persistir con dolor abdominal se ingreso hospitalario.
+A su llegada a sala de hospitalización persiste con dolor abdominal. Al examen físico se encuentra eupneica sin requemientos de oxigenoterapia con destacando unicamente dolor a la palpación de hipocondrio derecho y flanco derecho.
+Se solicita valoración por CGI, quienes no objetivan datos compatibles con patología abdominal aguda.
+Se repite nueva ecografía abdominal: Vesícula biliar de paredes finas, no litiásica, con dos pequeños pólipos parietales de 4 mm. Vía biliar no dilatada. No hay líquido libre intra-abdominal.
+Asimismo, se realiza serologia de virus hepatotropos (VIH, VHC y VHB) resultado negativa, antigenuria para S. pneumoniae y legionella negatva y se realiza estudio de esputo sin BAAR, en curso cultivo.
+Durante su estandia en sala de hospitalización presenta resolución del dolor abdominal permaneciendo sin dolor, hemodinámicamente (TA 94/63 mm de Hg -sus habituales-, FC 65 lpm), eupneica sin embargo se evidencia desaturación de O2 hasta 90% por lo que inicia oxigenoterapia con lentillas (LN) a  2Lt/min con mejoría de la SatO2 a 96% FR 20x' y afebril (36oC). Auscultación pulmonar sin ruidos sobreañadidos. Adecuado patrón ventilatorio. Abdomen sin dolor a la palpación en hipocondrio derecho sin signos de irritación peritoneal.
+En la analítica sanguinea control con PCR 3.8 mg/dL (en descenso), ferritina 110 ng/mL, DDimero 2200 ng/mL (previo 1750) FG 90 ml/min, perfil hepatico dentro de la normalidad salvo ALT 42 , linfopenia de 0.6 ·10*9/L.
+Se orienta como neumonia por SARS-CoV-2 en posible día +7 con requerimiento de O2, dolor abdominal en el que se ha descartado patología quirúrgica y ginecológica, de momento lo más plausible parece dolor referido de neumonía en base derecha.
+Se inicia dexametasona y se solicita angioTC por requerir oxigenoterapia con disminución de reactantes de fase aguda y aumento de d-dimero (indice D-dimero/ferritina = 20).
+Por otra parte se torna ansiosa, presenta discurso incoherente, se retira el oxígeno y expresa que se quiere marchar, se viste, dice que tieneque trabajar. Es valorada por PSI, quienes consideran impresiona abstinencia de nicotina y rasgos de personalidad cluster B. Se inicia parches de nicotina + quetiapina  25mg/12h si precisa.
+Progresivamente la paciente realiza intento de fuga, se le detiene de forma verbal y se acompañana a su habitación. Se le explica que por su salud no se recomienda alta y se le explica el riesgo vital que el alta hospitalaria supondria (tiene requerimientos de oxigenoterapia y sospecha de TEP pendiente de angioTC). Además, por infección por SARS- CoV-2 se encuentraen el día +8 por lo que debe realizar aislamiento y al encontrarse en  situación de calle no lo podría realizar lo que condicionaria un  problema de salud publica (previamente comentado con CAP de guardia). Durante la conversación la paciente permanece atenta y comprende toda lainformación sumistrada.
+Finalmente la paciente resulta fuga hospitalaria el día 28/02/2018.

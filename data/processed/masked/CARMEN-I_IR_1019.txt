@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**69 a**]. Ingresado por COVID con inicio de síntomas el [**7/02**] (fiebre), [**9/02**] (tos, mialgias,astenia) Fecha diagnóstico PCR + [**20/1**]. Ha requerido ingreso en [**SalaUCI**] con LAF.
+Desde el [**27/02**] elevación franca de DD hasta 17000 el [**27/02**]. Persisten requerimientos de O2 con VMK 35-40%
+RUEGO ANGIO TC PARA VALORAR TEP
+Infecció per coronavirus no especificada
+
+protocolo:
+Angio-TC de arterias pulmonares URGENTE
+
+resultados:
+No se observan defectos de replección de las arterias pulmonares ni de sus ramas principales sugestivos de TEP. Tronco de la arteria pulmonar de calibre normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado de predominio subpleural bilateral, con tendencia a la consolidación y algunas imágenes de banda subpleural, todo ello en relación a su neumonía COVID19, con cambios organizativos.
+Respecto al estudio previo se observa mejoría radiológica.
+Colecistectomía.
+
+conclusiones:
+No se observa TEP.
+Mejoría radiológica de su neumonía bilateral COVID19 con cambios organizativos.
+
+descrip:
+ANGIO TC PULMONAR

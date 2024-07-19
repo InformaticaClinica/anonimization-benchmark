@@ -1,0 +1,47 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+varon de 76 ingresado en SalaUCI por neumonía grave por COVID19 que requirió IOT+VM. Actualmente con LAF. Presenta candidemia persistente per C.
+glabrata a pesar de tratamiento antifungico adecuado. Rogamos TC toracoabdominal para descartar embolos sépticos. Graciaas.
+candidemia
+
+protocolo:
+TC TORACOABDOMINAL
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta sínfisis púbica tras la administración de contraste e.v. en fase arterial para estudio torácico y fase portal para estudio abdominal.
+
+resultados:
+Se compara con estudio previo del 15/9/19.
+TÓRAX:
+Traqueostomía. CVC subclavio derecho con extremo distal en VCS. SNG en camara gástrica. Retiro de catéter de entrada subxifoidea.
+Defecto de repleción endovascular en rama lobar de LSD y en algunas pequeñas ramas distales del LID, compatible con TEP agudo. Tronco de arteria pulmonar dilatado de 34 mm, estable. No se observan signos de sobrecarga derecha.
+Persisten adenopatías mediastínicas inespecífica. No se observan adenopatías axilares de tamaño patológico. Extensa ateromatosis coronaria calcificada. Stent en arteria descendente anterior.
+Discreto aumento del derrame pleural bilateral, actualmente moderado.
+Discreto derrame pericárdico que ha aumentado levemente respecto al previo. Pequeño engrosamiento pericárdico anterior retroesternal en probable relación a retiro de catéter subxifoideo.
+Mejoría radiológica de la afectación pulmonar difusa en forma de vidrio deslustrado periférico y peribroncovascular y de las consolidaciones peribroncovasculares en relación a neumonía bilateral por COVID-19 con signos de organización. No se observan nuevos focos de consolidación del espacio aéreo.
+Mejoría de las atelectasias bibasales de aspecto pasivo. Persisten algunas atelectasias subsegmentarias en LM.
+Fracturas costales no desplazadas del arco anterior de la 3ª y 4ª costillas derechas. Fractura del arco anterior de la 5ª costilla derecha con desplazamiento posterior de 3 mm. Se mantienen estables los pequeños hematomas de partes blandas adyacentes.
+ABDOMEN:
+Hígado de tamaño y morfología dentro de los límites de la normalidad.
+Lesión hipodensa en el s. VII, de 17 mm, indeterminada, sin cambios.
+Pequeño nódulo hipodenso de 7 mm en caudado inespecífico, estable.
+Vesícula biliar de tamaño y morfología normal. No se observa dilatación de la vía biliar intra o extrahepática.
+Vena porta y eje esplenomesentérico permeable.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología normales.
+Asas intestinales de calibre normal. Imagen nodular parcialmente calcificada que parece depender de una asa de ileon distal en FID, indeterminada.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Riñones de situación, tamaño y morfología dentro de los límites de la normalidad. No hay evidencia de dilatación de la vía excretora.
+Microlitiasis no obstructiva en riñón derecho.
+Resolución del líquido libre en gotiera parietocólica derecha, perihepático y periesplénico. No se observa líquido libre pélvico.
+Se aprecia líquido en pelvis presacro.
+Vejiga parcialmente distendida con sonda Foley. Ligero engrosamiento de la pared vesical derecha, inespecífico.
+
+conclusiones:
+No se observan lesiones sugestivas de embolia séptica.
+TEP agudo sin signos de sobrecarga derecha.
+Ligero aumento del derrame pleural y pericárdico.
+Mejoría de la afectación pulmonar difusa en relación a neumonía bilateral por COVID-19.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

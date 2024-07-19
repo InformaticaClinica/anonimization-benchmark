@@ -1,0 +1,20 @@
+
+prueba:
+PARED TORACICA (ESPECIFICAR LOCLIZACION)
+
+clinica:
+[**Mujer**] de [**68 años**] ingresa da en E. Infecciosas por: 1.NEUMONÍA BILATERAL POR SARS-COV-2
+2. INSUFICIENCIA RESPIRATORIA HIPOXÉMICA secundaria a 1.
+En TACAR ([**02/12/10**]) para descartar NOC, se objetiva: nódulos subcutáneos subcentimétricos en pared torácica inferolateral izquierda de los que recomiendo ampliación de estudio con ecografía.
+Ante tales hallazgos, rogamos ampliar estudio mediante eco partes blandas.
+Muchas gracias.
+PNEUMÒNIA BILATERAL per SARS-CoV2
+
+resultados:
+Se identifican al menos tres nódulos hipoecogénicos en la pared torácica lateral derecha que muestran leve halo pierpecogénico. Se recomienda biopsia del nódulo de mayor tamaño una vez solucionado el cuadro agudo actual.
+
+conclusiones:
+.
+
+descrip:
+PARED TORACICA (ESPECIFICAR LOCLIZACION)

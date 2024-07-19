@@ -1,0 +1,42 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**Hombre**] de [**64 años**], ingreso prolongado por Neumonia bilateral por SARS COV-2 que en su momento requirio ECMO V-V, actualmente TQT alternando PC/PS con FiO2 35%, con ultimas complicaciones por Bacteriemia por S.epidermidis y Enterococo faecalis, Traqueobronquitis por P.aeruginosa, y Neumotorax derecho. La semana anterior presenta deterioro clínico a raiz de probable broncoaspiración. Esta semana presenta febricula persistente hasta llegar a pico febril de 38ºC, de momento sin aislamientos en HC, BAS, UC tomados. Además se suspende nutrición enteral a raiz de retención abundante que condiciono probable broncoaspiaración, al examen físico abdomen distendido, sin Ruidos hidroaereos, perfil hepático con alteración de GGT y FA. En su momento el paciente presentó gran hematoma abdominal a raiz de sangrado de foco arteria iliaca externa que requirio colocación de balon telescopado.
+Actualmente hemodinamicamente inestable precisando dosis NAD X(4) a 3ml/hr.
+Solicito TACAR para valorar parenquima pulmonar/sobreinfección, al igual que TC abdominal
+FIEBRE
+
+protocolo:
+Se realiza TC abominopélvico tras administración de contraste ev. con adquisición de imágenes en fases basal, arterial y portal.
+
+resultados:
+Se compara con TCs previos de los días [**22/01/15**] y [**15/01/15**].
+Portador de SNG con extremo en antro gástrico.
+Hígado de tamaño, morfología y coeficiente de atenuación normales. No se observan lesiones focales.
+Vesícula biliar litiásica y muy distendida (posiblemente hidrópica). Se aprecia trabeculación de la grasa perivesicular, especialmente la adyacente al ángulo hepático del colon e hilio hepático, no obstante las paredes vesiculares son lisas. Es muy probable que se trate de una colecistitis aguda. Se recomienda correlación clínica, pudiendo realizarse una ecografía dirigida si procede.
+Vía biliar intra y extrahepática no dilatada, con realce de las paredes del colédoco.
+Pequeña cantidad de líquido libre de predominio perihepático, menor que en TC previo.
+Porta y eje espleno-mesentérico permeables, si bien la porta común presenta una disminución de calibre que parece estar condicionada por los cambios inflamatorios hiliares.
+Aorta abdominal y sus principales ramas (tronco celíaco, AMS, a. renales y AMI) permeables.
+Páncreas y glándulas suprarrenales sin alteraciones significativas.
+Bazo de pequeño tamaño sin lesiones focales.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Asas intestinales y colon sin alteraciones evidentes.
+Riñones de situación, tamaño y morfología dentro de los límites de la normalidad. Quistes renal simples bilaterales, el mayor de los cuales derecho de 6cm. No hay evidencia de dilatación de la vía excretora.
+Hematoma retroperitoneal heterogéneo en fase basal que ocupa gran parte del hemiabdomen derecho y que presenta unas dimensiones aproximadas de 14 x 16 x 22cm (AP x LL x CC). Ha disminuído levemente respecto al TC previo ([**22/01**]). En la exploración actual no se objetivan fugas de contraste que sugieran sangrado activo. Material de embolización anterior al ms. ilíaco derecho.
+En la arteria ilíaca externa izquierda se identifica un flap que correspondería a una disección focal, presente en estudios previos, estable. Stent recubierto en a. ilíaca externa derecha, permeable.
+Trombosis de la vena ilíaca externa derecha, de aprox. 50% de la luz del vaso.
+Cambios degenerativos en columna lumbosacra.
+Sondaje vesical.
+Pequeño hematoma en la porción anterior y proximal del muslo derecho (4 x 2 cm), en relación a la presencia de un pseudoaneurisma en esta localización, en la actualidad ya resuelto. La zona del segundo pseudoaneurisma que presentaba el paciente no esta abarcada en el estudio actual.
+
+conclusiones:
+- Vesícula biliar muy distendida y posiblemente hidrópica, litiásica y con algunos cambios inflamatorios perivesiculares. Es muy sugestiva de una colecistitis aguda. Se recomienda valorar la presencia de clínica local, pudiendo realizarse una ecografía dirigida si se considera oportuno.
+- Hematoma retroperitoneal derecho, levemente menor que en el TC previo del [**22/1/2015**] (pre-embolización), sin signos de sangrado activo en la actualidad
+- Trombosis parcial de la vena ilíaca externa derecha (aprox. un 50% del vaso). Pequeños TEP segmentarios en LII.
+Para los hallazgos del tórax ver el informe correspondiente.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

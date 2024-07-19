@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN COVID-19
+
+conclusiones:
+Respecto a RX de tórax previa de 29/10/2012 se observa mejoría de las opacidades alveolo-intersticiales en campos pulmonares inferiores y medios, asociado a engrosamientos bronquiales y a atelectasias.
+
+descrip:
+RX  PORTATIL  TORAX

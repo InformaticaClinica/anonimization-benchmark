@@ -1,0 +1,31 @@
+
+prueba:
+TC ABDOMINOPELVICO (GU)
+
+clinica:
+Paciente de [**43 años**] con antecedente de 2 PCRs, embolia líquido amniótico, CID y fallo multiorgánico tras parto vaginal éxitus fetal intrautero de 40 seamanas, con requerimiento de IOT, drogas vasoactivas, histerectomía total por laparotomía, packing
+abdominal y vaginal, embolización arterial, politransfusiones, colocación catéteres doble J ureterales. Ante buena evolución se traslada a [**H Virgen del Carmen**]. El [**día 13/5**] inicia picos febriles y se inicia cobertura ATB ev. El [**día 25/5**] es trasladada de nuevo a nuestro centro por sospecha de fístula rectovaginal.
+TC [**25/5**]: Se identifica una gran solución de continuidad de la cúpula vaginal que se comunica con una gran colecciónhidroaérea, de morfología anfractuosa y dimensiones difícilmente delimitables (aprox 31 x 56 mm en el plano axial). Esta se loccaliza a nivel central de la pelvis y se comunica con otra coleccion de menor tamaño situada en la FII Acúmulo de líquido y trabeculación de la grasa a nivel presacro, sin una clara colección formada. En el estudio actual no se identifica una clara comunicación entre el recto y la vagina, no obstante no se puede descartar por completo ya que no se ha administrado contraste por via rectal por presencia de fecaloma en ampolla rectal que impediría la normal progresión de este.
+IQ [**26/5**]: fístula rectovaginal a 3-4 cm del margen anal, de menos de 1cm de diámetro, síndrome adherencial muy intenso con adherencias del sigma y una asa de intestino delgado a la colporrafia previa, escaso líquido libre intraabdominal, no se envidencia una clara colección. Se realiza adhesiolisis dificultosa y colostomía lateral sin incidencias.
+Dada no mejoría clínica-analítica significativa, se solicita TC abdomino-pélvico de control.
+FISTULA RECTOVAGINAL
+
+protocolo:
+TC ABDOMINAL: estudi en fases venosa i excretora.
+
+resultados:
+Col.lecció centrepèlvica de 12x4.5 cm, situada per sobre de la bufeta urinària i en contacte amb el fons vaginal, en contacte també amb la paret abdominal anterior. La col.lecció presenta paret marcadament engruixida i captant, i contingut dens; és portadora de drenatge amb sortida a fossa iliaca dreta, i presenta algunes bombolles de gas, sobretot pericatèter (poc valorables per la presència del drenatge).
+El greix pèlvic presenta important trabeculació difusa per canvis inflamatoris. Hi ha una petita quantitat de líquid a Douglas.
+Adjacent a la col.lecció hi ha una nansa de budell prim que presenta paret marcadament engruixida, atribuible a canvis reactius però que no permet excloure lesió a la seva paret.
+És difícil delimitar el fons vaginal però sembla existir una comunicació amb la col.lecció.
+En la fase excretora de l'estudi s'observa contrast a la bufeta sense extravasació. Bufeta portadora de sonda. Ronyó dret amb doble sistema excretor, ambdós portadors de catèters. Urèter esquerre també portador de catèter. No hi ha dilatació de la via excretora. Discreta hipocaptació dreta i també focalment esquerra (pot ser residual però obliga a descartar procés infecciós).
+No pneumoperitoneu ni col.leccions o líquid en altres localitzacions de l'abdomen.
+Colostomia en el buit esquerre.
+Fetge, melsa, pàncrees i suprarenals sense canvis evidents.
+
+conclusiones:
+Importants canvis inflamatoris a la pelvis, amb una col.lecció centrepèlvica que sembla comunicar amb la vagina i contacta amb una nansa intestinal de paret engruixida. S'identifica catèter en l'interior de la col.lecció.
+No hi ha evidència de fistulització amb la nansa de prim ni amb la via excretora en aquest estudi, si se sospita per les característiques del contingut de la col.lecció, es podria ampliar estudi amb contrast oral.
+
+descrip:
+TC ABDOMINOPELVICO (GU)

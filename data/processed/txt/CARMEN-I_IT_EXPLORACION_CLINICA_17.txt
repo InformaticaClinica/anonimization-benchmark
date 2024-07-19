@@ -1,0 +1,6 @@
+23/6/2025-21:19:00: Frecuencia respiratoria (rpm) 22. 23/6/2025-21:20: 00 : PAS (mm Hg) 113, PAD (mm Hg) 65, Pulsioximetría (%) 96. 23/6/2025- 21:23:00 : Ta axilar (oC) 36.4. 24/6/2025-01:00:00 : Glicemia capilar ( mg/dl) 204. 24/6/2025-13:02:12 : Peso (Kg) 55, Talla (cm) 155.
+25/6/25 20-08:00:00 : FiO2 (%) 40.
+Ta: 36.4oC, TA: 113/65 mmHg, FC 104 lpm SatO2 90% con FiO2 21%, 94% con FiO2 24%.Hemodinamicamente estable. Afebril. Buen estado general, normocoloreada y normohidratada. Polipneica, sin otros signos de dificultad respiratoria.
+AP: mv conservado, conm crepitantes dispersos bilateralmente, involucrando la totalidad de los campos pulmonares.
+AC: tonos rítmicos, no ausculto soplos.
+Abdómen blando, depresible y indolor a la palpación EEII sin edemas.

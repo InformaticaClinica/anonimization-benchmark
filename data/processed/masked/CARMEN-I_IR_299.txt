@@ -1,0 +1,26 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de [**72 años**] IOT por SDRA por Sars cov2 y sobreinfeccióin respiratoria por P. aeruginosa, anticaogulado por TEP.
+Se evidencia sangrado por sitio de punción arterial femoral derecho, sin palparse hematoma externamente, anemización (Hb 73 g/L), e imágen dudosa de hematoma por ecoscopia a pie de cama. No signos de hipoperfusión distal.
+Solicitamos TC para valorar si hematoma y sangrado activo.
+Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC pélvico URGENTE sin y con contraste e.v en fases arterial y venosa.
+
+resultados:
+Catéter arterial femoral derecho con extremo distal en arteria ilíaca externa derecha. No se identifican hematomas, imágenes de pseudoaneurisma ni signos de sangrado activo.
+Trombosis de la vena pudenda interna izquierda.
+Diverticulosis colónica sin signos de diverticulitis aguda. Sondaje vesical. Edema escrotal. Prótesis coxofemoral izquierda que artefacta las imágenes pélvicas.
+Edema subcutáneo difuso.
+
+conclusiones:
+No se identifican hematomas, imágenes de pseudoaneurisma ni signos de sangrado activo.
+Trombosis de la vena pudenda interna izquierda.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

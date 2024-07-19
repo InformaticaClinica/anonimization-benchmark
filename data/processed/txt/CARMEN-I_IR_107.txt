@@ -1,0 +1,16 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+hombre 57 años intubado por neumonía COVID, anticoagulado por TEP, que presenta anisocoria y no despierta con retirada de sedació. Rogamos TC craneal urgente, gracias.
+anisocoria, no despierta
+
+protocolo:
+TC CEREBRAL en condiciones basales.
+
+conclusiones:
+Se identifican 3 focos de sangrado parenquimatoso (frontal derecho, frontal izquierdo y parietal izquierdo), todos con un tamaño en torno a los 2 cm en su eje axial máximo y con una pequeña área hipodensa de edema circundante. Asímismo existe un foco de sangrado milimétrico (4 mm) frontal parasagital izquierdo. Ninguno de estos sangrados condiciona un efecto masa significativo permaneciendo las estructuras de la linea media centradas. Sin signos de herniación. Sistema ventricular de morfología y tamaño normales. Cisternas basales y peritronculares no colapsadas.
+
+descrip:
+TC CEREBRAL

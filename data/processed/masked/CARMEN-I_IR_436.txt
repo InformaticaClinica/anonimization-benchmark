@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**Mujer**] de [**52 años**] sin antecedentes de interés que ayer salió de la UCI tras ingreso por neumonía covid-19 bilateral grave. A las 48h de la extubación persiste con ideación delirante. Solicitamos por favor TC craneal urgente. Gracias
+SDE CONFUSIONAL
+
+protocolo:
+TC CRANEAL BASAL Y ANGIO-TC ARTERIAL Y VENOSO
+
+conclusiones:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+Arterias carótidas internas y principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+Venas yugulares internas y principales senos de drenaje cerebral permeables.
+
+descrip:
+TC CEREBRAL

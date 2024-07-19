@@ -1,0 +1,5 @@
+
+Acude a urgencias derivado del CAP el [**06/08**] por presentar cuadro de fiebre y tos seca iniciado el [**1/09**]. Se había iniciado azitromicina des del CAP sin mejoría clínica y se realizó radiografia de tórax que mostró infiltrados alveolares bilaterales sugestivos de neumonía bilateral (LID + LSI + LII).
+El [**06/08**] ingresó y se inició tratamiento COVID con hidroxicloroquina y azitromicina (no se inicio Kaletra por QT largo e interacciones con su pauta medicamentosa psiquiátrica). En el contexto de elevación de reactantes de fase aguda el dia [**7/09**] se administró tocilizumab y bolus de metilprednisolona. Por persistencia de insuficiencia respiratoria y evolución analítica requirió barcitinib. Debido a sospecha de patrón radiográfico de NOC se decide mantener pauta de corticoterapia (0.5mg/dia). Durante el ingreso hospitalario requirió ajuste de tratamiento con quetipina.
+Posteriormente, ante la mejoría clínica y analítica se decide alta a [**Clinica COVID**] el [**dia 19/09**] para finalizar periodo de aislamiento.
+ 

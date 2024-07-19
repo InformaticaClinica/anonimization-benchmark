@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**Hombre**] [**70años**], ingresado por neumonia covid19 por 20d en UCI, traquesotomizado y sin sedoanalgesia desde hace una semana. Se mantiene con GCS enrtorno a 9-10 tras despertar. Descartar patologia intracraneal (paciente anticoagulado por TEP). Gracias!
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+TC CRANEAL URGENTE sin contraste ev.
+
+resultados:
+Se compara con TC previa del [**01/03/2020**].
+No se observan signos de sangrado intra o extraaxial.
+Diferenciación cortico-subcortical conservada, sin alteraciones densitométricas encefálicas destacables mediante TC.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas. Cisternas basales libres.
+Resto del estudio sin cambios.
+
+conclusiones:
+No se evidencian signos de patología intracraneal aguda, estudio sin cambios respecto TC previa del [**14/06/2018**].
+
+descrip:
+TC CEREBRAL

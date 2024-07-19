@@ -1,0 +1,30 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+Paciente con antecedentes de RTUv el 3/11/25 por hematuria. Resección de lesiones sospechosas. AP: Amiloidosis vesical. En tratamiento con terapia CAR-T.
+Se solicita ecografía para valorar presencia de coágulos y presencia de líquido intraabdominal.
+Actualmente con infección por COVID-19.
+Gracias. Un saludo
+AL CON AFECTACIÓN RENAL Y VESICAL
+
+protocolo:
+ECO RENO-VESICAL URGENT
+
+resultados:
+Ronyons de mida normal, amb alguns quists corticals bialterals. Quist pièlic esquerre. No s'observa dilatació de la via excretora.
+Aparició d'abundant ascitis difusa de predomini perihepàtic, periesplènic i entre nanses intestinals (intraperitoneal). Presenta algun septe fi en FID.
+Bufecta col·lapsada, poc valorable, tot i que s'observen unes parets heterogènies, inespecífiques. Sonda vesical amb material hiperecogènic circumdant, suggestiu de coàguls intravesicals.
+Fetge de mida i ecostructura normal, sense lesions focals evidents.
+Vesícula biliar alitiàsica, de parets fines. Via biliar no dilatada.
+Porta permeable amb flux hepatopetal.
+Melsa homogènia de mida normal.
+Pàncrees no visualitzat.
+
+conclusiones:
+Aparició d'abundant ascitis difusa.
+No s'observa dilatació de la via excretora. Bufeta col·lapsada, poc valorable, tot i que s'observen unes parets heterogènies, inespecífiques. Sonda vesical amb material hiperecogènic circumdant, suggestiu de coàguls intravesicals.
+
+descrip:
+ECO RENO-VESICAL

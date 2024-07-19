@@ -1,0 +1,39 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varón de 52 años de edad ingresado por cuadro de neumonía bilateral por Covid-19 ocn i. resp hipoxémica grave que requiere de IOT desde el 5/03.
+Como complicaciones presenta cuadro de pancreatitis en contexto de hipertrigliceridemia por propofol y lopinavir/ritonavir (ECO abdominal 08/03 sin hallazgos patológicos) y fiebre persistente de nueva aparición y foco no aclarado pese a antibioterapia de amplio espectro, sin aislamientos microbiológicos pese a toma repetida de cultivos.
+Interesa Angio-TC torax + TC toraco-abdominal para descartar TEP y/o complicación infecciosa tóraco/abdominal que justifique la fiebre persistente y el estancamiento desde el punto de vista respiratorio.
+Gracias!
+COVID-19
+
+protocolo:
+ANGIO-TC PULMONAR mediante energia dual + TC ABDOMINOPELVICO.
+
+resultados:
+* Importantes artefactos de imagen que limitan la sensibilidad del estudio.
+Cateter venoso central yugular izquierdo con trayecto por vena inominada y extremo distal en vena yugular derecha.
+IOT con extremo distal a 1 cm de la carina.
+SNG.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Afectación del parenquima pulmonar en forma de opacidades en vidrio deslustrado difusas de predominio en lóbulos superiores así como consolidaciones subpleurales de disposición en banda. Globalmente estos hallazgos son compatibles con los presentes en una neumonia viral por COVID-19. Leve enfisema centrolobulillar de predominio en ambós lóbulos superiores.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Leve derrame pleural bilateral y leve derrame pericárdico.
+Hígado sin alteraciones. Vesícula biliar de paredes finas, sin dilatación de la vía biliar. Vena porta permeable.
+Páncreas, bazo, glándulas suprarrenales y riñones sin alteraciones. No se observa dilatación de la vía excretora.
+Asas de intestino delgado y marco colonico sin alteraciones relevantes.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se observa líquido libre intraabdominal.
+Pequeña hernia umbilical de contenido graso.
+
+conclusiones:
+- No se observa TEP
+- Cateter venoso central yugular izquierdo con trayecto por vena inominada y extremo distal en vena yugular derecha.
+- Hallazgos compatibles con neumonía vírica por COVID-19.
+- Leve derrame pleural bilateral y leve derrame pericárdico.
+- Estudio abdominal sin hallazgos patológicos relevantes.
+
+descrip:
+ANGIO TC PULMONAR

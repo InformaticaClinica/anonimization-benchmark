@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varón 85 años ingresado en la UVIR (probablemente porque previo al ingreso tenía vida activa sin antecedentes salvo sordera severa) que ha presentado un cuadro de covid-19 grave con altos requerimientos de O2 y neumotórax como principal complicación que se dreno mediante tubo torácico. Tiene un CT tórax en la fase aguda de la enfermedad el 20/06.
+Impresiona por la evolución clínica y radiológica además de la IR persistente, que podría presentar neumonía organizativa, DD elevado.
+Solicito angioCT tórax, para descartar complicaciones..
+2. INSUFICIENCIA RESPIRATORIA GRAVE SECUNDARIA.
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD
+**Exploración subóptima por artefacto por movimiento respiratorio**
+
+resultados:
+Se compara con TC previa realizada el 30/05/18:
+Catéter con entrada yugular derecha y extremo en vena cava superior.
+Moderadas calcificaciones coronarias (de predominio en arteria descendente anterior).
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Arterias subsegmentarias no valorables por artefacto.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de hipertensión pulmonar. No se observan signos de sobrecarga ventricular derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglios mediastínicos infracentimétricos de aspecto reactivo.
+No se observa derrame pericárdico. Leve derrame pleural bilateral con atelectasia pasiva del parénquima adyacente (de predomiino derecho).
+No se identifican las opacidades en vidrio deslustrado subpleurales observadas en el estudio previo. Persiste el tenue patrón reticular periférico con marcada disminución del volumen pulmonar derecho y a bronquiectasias de predominio bibasal. Aisladas atelectasias laminares bibasales. Los hallazgos sugieren afectación por neumopatía crónica. No se observa afectación clásica por COVID-19 ni cambios organizativos.
+Cortes abdominales sin hallazgos a destacar.
+
+conclusiones:
+No se observa TEP.
+Afectación pulmonar que sugiere neumopatía crónica. No se observan cambios típicos por neumonía COVID-19 ni tampoco cambios organizativos.
+Leve derrame pleural bilateral con atelectasia pasiva del parénquima adyacente (de predominio derecho)
+
+descrip:
+ANGIO TC PULMONAR

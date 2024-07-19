@@ -1,0 +1,49 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**78 años**]. Mazacote adenopático pulmonar, solicitamos TAC toraco-abdominal para completar estudio de extensión y descartar que pueda tratarse de una metastasis,
+Muchas Gracias.
+NEUMONIA BILATERAL COVID19
+
+protocolo:
+Estudio multifasico toraco-abdominal.
+
+resultados:
+Pequeño nodulo tiroideo derecho sin cambios.
+Tronco pulmonar común no dilatado (29 mm).
+Cardiomegalia a expensas de la auricula izquierda. Ateroesclerosis coronaria. Calcificación valvular mitral.
+Leve derrame pleural izquierdo sin cambios significativos. Mínimo derrame pleural derecho con extensión cisural.
+Disminución del tamaño de las adenopatías mediastínicas paratraqueales bilaterales, en ventana aortopulmonar, subcarina e hiliares bilaterales (hiliar izquierda de 16mm). No se observan adenopatías axilares ni otras mediastínicas de tamaño patológico.
+Leve enfisema pulmonar centrolobulillar de predominio en LLSS.
+Patrón pulmonar con ténues opacidades en vidrio delustrado bilaterales que han disminuido de tamaño.
+Resolución de la consolidación en LSI.
+No se observan cambios en la consolidación lateral con amplio contacto pleural izquierdo ni en las consolidaciones focales en LII.
+Patron reticular periferico subpleural de predominkio en bases sin cambios significativos.
+Patrón pulmonar sugestivo de afectación por COVID19 con cambios fibrosos
+Leve hernia de hiato.
+Mínima cantidad de liquido perihepatico y a nivel del espacio paracolico izquierdo.
+Trabeculación de la grasa a nivel del espacio paracolico derecho y tambien trabeculación a nivel del epiplon mayor.
+Pequeño nodulo de 9mm en la grasa adyacente al apendice cecal.
+Pequeño nodulo de 10mm por detras del musculo recto mayor izquierdo del abdomen ( serie 6 ima 39)
+Hígado, bazo y  glándulas suprarrenales de morfología tamaño y densidad normal.
+Cabeza pancreatica ligeramente heterogenea.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Utero y anejos aumentados de tamaño por la edad de la paciente.
+Diverticulosis colica.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+
+conclusiones:
+Adenopatías mediastinicas que han disminuido de tamaño. Persiste de tamaño patologico la probable adenopatia hiliar izquierda.
+Mejoria del patron en vidrio deslustrado y de la consolidación en LSI.
+No hay cambios significativos en las consolidaciones focales, nodulares en el LII.
+No hay cambios significativos en las opacidades reticulares difusas y bilaterales que sugiere neumopatía intersticial, a caracterizar tras proceso agudo actual. Patrón pulmonar sugestivo de afectación por COVID19 con cambios fibrosos de predominio en lóbulos inferiores.
+Leve derrame pleural izquierdo sin cambios.
+Utero y anexos aumentados por la edad de la paciente.
+Discreta cantidad de liquido perihepatico y en gotiera paracolica izquierda. Trabecualción de la grasa en la gotiera paracolica derecha y a nivel del epiplon mayor. Presencia de algun nodulo de pequeño tamaño.
+Todo ello sospechoso de corresponder a una carcinomatosis peritoneal.
+Se aconseja ampliar estudio mediante PET-TC tras proceso agudo actual para descartar proceso neoformativo pulmonar y/o abdominal.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+paciente de [**28 años**] que ingresa por neumonía covid-19, esta mañana síncope y progresión franca de insuficiencia respiratoria, por favor descartar TEP. Gracias.
+neumonía covid-19, descartar TEP
+
+protocolo:
+ANGIO TC PULMONAR URGENTE:Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Estudio artefactado por movimientos del paciente:
+No se visualizan aparentes defectos de repleción intraluminal sugestivas de TEP en las arterias pulmonares principales ni en sus ramas lobares.
+Ramas segmentarias de difícil valoración por movimientos del paciente.
+Tronco de la arteria pulmonar permeable de calibre normal. Sin signos de sobrecarga ventricular derecha.
+Se observan opacidades en vidrio deslustrado y pequeños focos consolidativos bilaterales, de distribución peribroncovascular y periférica en ambos hemitórax. Se evidencian cambios organizativos incipientes en el estudio actual. Tractos fibrosos pleuroparenquimatosos con engrosamiento subpleural posterobasal de ambos hemitórax, con engrosamientos peribronquiales. Todos estos hallazgos son compatibles con neumonía bilateral por COVID-19 en extensión leve-moderada.
+Adenopatías axilares bilaterales, la mayor de ellas de hasta 15 mm derecha.
+Resto de estructuras mediastínicas sin alteraciones significativas.
+No hay derrame pleural ni pericárdico.
+En los cortes de hemiabdomen superior incluidos no se visualizan alteraciones (estudio en fase arterial).
+
+conclusiones:
+Sin signos de TEP. Hallazgos radiológicos de neumonía bilateral por COVID en grado leve/moderado, con signos incipientes de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

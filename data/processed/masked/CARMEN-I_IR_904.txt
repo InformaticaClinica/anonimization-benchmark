@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neumonía bilateral por Covid-19
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Tenues opacidades alveolares bilateales a nivel de LLII, que han mejorado con respecto a control previo de   [**24/06/2012**], sugestivo de afectación pulmonar por COVID.
+
+descrip:
+RX  PORTATIL  TORAX

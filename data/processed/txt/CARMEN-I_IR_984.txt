@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Neumonía bilatearl por SARS-Cov-2, estancia prolongada, traqueostomía del 5/11/23. Destaca al examen físico anisocoria de reciente aparición que ha empeorado en últimas horas, no aparenta de compromiso de otros pares cranealese, valoración difícil en paciente con sedoanalgesia hasta hayer y actualmente traqueostomizado sin cánula fonatoria. Se agradecería TC cerebral simple para descartar lesiones. GRacias.
+COVID-19
+
+protocolo:
+TC craneal basal URGENTE
+
+resultados:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+
+conclusiones:
+Exploración sin alteraciones significativas evidentes por TC.
+
+descrip:
+TC CEREBRAL

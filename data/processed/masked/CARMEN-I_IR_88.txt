@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**67 años**], COVID día 6, empeoramiento gasometrico rápido en las ultimas 36 horas, pte traslado UCI. Ruego TC torax descartar TEP. Gracias.
+
+protocolo:
+ANGIO-TC PULMONAR mediante energia dual. URGENTE.
+
+resultados:
+Estudio angioTC subóptimo con opacificación deficiente del arbol vascular, en estas condiciones: Arterias pulmonares principales, ramas lobares y segmentarias proximales permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha. No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Calcificaciones pericardicas. No se observa derrame pericárdico ni pleural.
+Afectación parenquimatosa bilateral y difusa consistente en consolidaciones de distribución peribroncovascular y periférica que en el agunos puntos tienen morfología de banda. Asociado a lo anterior existe reticulacion subpleural, dilataciones bronquiales irregulares y alguna imágen de atolón. Globalmente en el contexto los hallazgos son coherentes con una neumonía virica por COVID-19 en fase evolucionada con signos organizativos. En cortes de hemiabdomen superior (estudio no contrastado), no se aprecian hallazgos patológicos relevantes.
+
+conclusiones:
+No se observa TEP. Calcificaciones pericardicas.  Hallazgos coherentes con una neumonía bilateral por COVID-19 en fase evolucionada con signos organizativos.
+
+descrip:
+TC TORAX
+
+descrip:
+ANGIO TC PULMONAR

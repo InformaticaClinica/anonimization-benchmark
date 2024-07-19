@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA POR COVID-19
+
+protocolo:
+RX TORAX PORTÁTIL
+
+conclusiones:
+Con respecto a Rx de 21.5.15, se objetiva clara mejoría de los hallazgos radiológicos, con la práctica desaparición de los infiltrados detectados en ese momento.
+
+descrip:
+RX  PORTATIL  TORAX

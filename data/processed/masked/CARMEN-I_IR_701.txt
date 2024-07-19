@@ -1,0 +1,45 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+[**Varón**] de [**71 años**] ingresado por IAM con by-pass cardiaco, además infección por coronavirus por neumonia bilateral (IOT+VM) Presenta hematomas en ambos flancos con anemización requiriendo varios concentrados de hematies y plaquetas.
+Solicitamos TC torax por infección COVID y TC abdomen para descartar sangrado debido a los hematomas en ambos flancos y anemización. Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio TC sobre el tórax en condiciones basales y en fase arterial y sobre el abdomen en condiciones basales y luego en fase arterial y portal tras administrar contraste iv.
+URGENTE
+
+resultados:
+Se compara con TC de tórax previo del [**14/5/13**].
+No se observan signos de sangrado activo evidente por TC en las secciones corporales incluidas en el estudio.
+TC de Tórax:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar discretamente aumentado de calibre de 34 mm. No se observan otros signos de sobrecarga cardiaca derecha.
+Cambios posquirúrgicos secundarios esternotomía media. Electrodos con entrada subxifoidea y extremo distal en ventrículos.
+Calcificación del anillo valvular aórtico. Leve cardiomegalia. Severa ateromatosis calcificada de arterias coronarias con afectación de tres vasos. Stent en arteria descendente anterior.
+Algunos ganglios mediastínicos infracentimétricos en situación prevascular y paratraqueales bajas, el mayor de ellos de 15 mm subcarinal, sin cambios significativos. No se observan adenopatías axilares de tamaño patológico.
+Leve/moderado derrame pleural derecho y leve derrame pleural izquierdo, discretamente hiperdenso, hecho que no permite descartar componente hemático. Leve derrame pericárdico basalmente hiperdenso en relación con hemopericardio (antecedente qirúrgico). Estos hallazgos son de nueva aparición respecto a TC previo.
+Extensas consolidaciones peribroncovasculares bilaterales en ambos pulmones, asociadas a algunas imagenes en vidrio deslustrado; se observan además algunas imágenes en halo reverso. Los hallazgos descritos, en el contexto clínico y epidemiológico del paciente, son compatibles con neumonía COVID19, con incipientes cambios organizativos.
+Algunas ocupaciones bronquiales hipodensas en bronquios segmentarios de ambos LLII.
+Fracturas costales no desplazadas del arco anterior de la 3ª y 4ª costillas derechas. Fractura del arco anterior de la 5ª costilla derecha con desplazamiento posterior de 3 mm. Se asocian a leve trabeculación de la grasa en mediastino anterior, todo esto sin cambios significativos.
+SNG con extremo distal en cámara gástrica.
+TC de abdomen:
+Hígado de tamaño y morfología dentro de los límites de la normalidad.
+Lesión hipodensa en el s. VII, de 17 mm, indeterminada, a valorar RM. No se observan otras lesiones focales.
+Colelitiasis. No se observa dilatación de la vía biliar.
+Bazo, páncreas, glándulas suprarrenales y riñones sin alteraciones.
+Eje porto-espleno-mesentérico permeable.
+No se observan adenopatías retroperitoneaeles ni iliacas de tamaño significativo.
+Imagen nodular parcialmente calcificada que parece depender de una asa de ileon distal en FID, indeterminada.
+Discreta cantidad de líquido libre subhepático, periesplénico, anterior a ambas fascias conales y en el espacio retroperitoneal infrarenal bilateral.
+
+conclusiones:
+No se observan signos de sangrado activo evidente por TC en las secciones corporales incluidas en el estudio.
+No se observa TEP. Tronco de la arteria pulmonar discretamente aumentado de calibre de 34 mm. No se observan otros signos de sobrecarga cardiaca derecha.
+Los hallazgos son compatibles con neumonía COVID19, con incipientes cambios organizativos. Leve/moderado derrame pleural derecho y leve derrame pleural izquierdo, discretamente hiperdenso, hecho que no permite descartar componente hemático. Leve derrame pericárdico basalmente hiperdenso en relación con hemopericardio (antecedente qirúrgico). Estos hallazgos son de nueva aparición.
+Discreta cantidad de líquido libre subhepático, periesplénico, anterior a ambas fascias conales y en el espacio retroperitoneal infrarenal bilateral.
+Resto del estudio, sin cambios significativos.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Mujer 35 años con linfoma folicular en respuesta parcial. Ingresa por infección por Covid-19 positivo. Presenta persistencia de la fiebre a pesar de tratamiento ya completado para Covid y a pesar de tratamiento con corticoides (para supuesta progresión de linfoma). Interesa TACAR para descartar infección fúngica pulmonar.
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Port-a-Cath con extremo distal entre la aurícula derecha y la vena cava inferior.
+Hipodensidad de cavidades cardíacas en relación al miocardio (signo indirecto de anemia).
+Ganglio subcarinal de tamaño en el límite superior de la normalidad.
+Adenopatía paratraqueal izquierda alta (10 mm). Múltiples ganglios paratraqueales y supraclaviculares de pequeño tamaño (<10 mm). No se observan adenopatías axilares de tamaño patológico.
+Derrame pericárdico anterior (12 mm). No se observa derrame pleural.
+Opacidades en vidrio deslustrado subpleurales con engrosamientos septales de predominio en lóbulos inferiores (patrón en crazy-paving), estando en relación con afectación pulmonar por COVID. No se identifican signos en el parénquima pulmonar que sean sospechosos de una coinfección por hongos.
+Esplenomegalia. Mínima lámina de líquido periesplénico. No se identifican otros hallazgos relevantes en el hemiabdomen superior.
+
+conclusiones:
+Patrón de afectación pulmonar compatible con infección por COVID conocida. No se identifican signos que sugieran una co-infección por hongos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

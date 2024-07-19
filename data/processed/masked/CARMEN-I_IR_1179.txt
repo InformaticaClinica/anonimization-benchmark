@@ -1,0 +1,23 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+[**Hombre**] de [**51 años**] con AP de obesidad, hipertrigliceridemia, MCD con disfunción grave VI con implantación del DAI. Actualmente continúa con hiperTg, aumento de ferritina con empeoramiento del perfil hepático.
+PCR/LDH normal y ausencia de otros datos que sugieran activación macrofágica, además de que el paciente respiratoriamente ha evolucionado hasta limpiar radiografía de tórax y retirar soporte de O2. Podría tratarse de una esteatohepatitis más patente por efecto sobreañadido tóxico farmacológico: ceftriaxona + tocilizumab ([**26/1**]).
+Solicito valoración. Muchas gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+US abdominal
+
+conclusiones:
+Augment difús de la ecogenicitat del parènquima hepàtic compatible amb esteatosis marcada, que difuclta valorar el fetge i els vasos.
+Via biliar no dilatada. Bufeta biliar alitiàsica.
+Pàncrees (cap i cos) normal.
+Melsa de mida normal (12 cm).
+Ronyons de mida i morfologia dintre de la normalitat, sense signes d'uropatia obstructiva.
+Absència de líquid lliure abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

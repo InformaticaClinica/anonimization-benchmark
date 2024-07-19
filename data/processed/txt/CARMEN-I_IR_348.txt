@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varón de 51 años que ingresa por COVID-19 en día +12 con dímero D >35000 mantenido
+Descartar TEP
+COVID-19: Neumonía intersticial bilateral
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+Extensos defectos de repleción en arterias pulmonares bilaterales, con defecto de repleción con morfología "en silla de montar" en el tronco de la arteria pulmonar y defectos de repleción en arterias lobares del LM, LSI y LLII que se extienden a arterias segmentarias y subgmentarias, de predominio en LLII, todo ello compatible con TEP agudo bilateral. Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad (30 mm). Sin signos de sobrecarga cardíaca derecha.
+Discretas calcificaciones coronarias.
+Ausencia de derrame pleural.
+Opacidades en vidrio deslustrado y consolidativas peribroncovasculares y parcheadas, bilaterales, en relación a neumonía por COVID-19 de extensión moderada. Se observan mínimos cambios organizativos incipientes en LLII y LM.
+Pequeño foco consolidativo subpleural en el segmento basal lateral del LID, de morfología triangular, sugestivo de pequeño infarto pulmonar en el contexto del paciente.
+Pequeña hernia de hiato.
+Discretos cambios degenerativos en columna vertebral.
+Disminución difusa del coeficiente de atenuación hepático en relación a esteatosis hepática.
+
+conclusiones:
+Signos de TEP agudo bilateral, central y periférico. Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad. Sin signos de sobrecarga cardíaca derecha.
+Hallazgos sugestivos de neumonía por COVID-19 de extensión moderada.
+Mínimos cambios organizativos incipientes basales.
+Pequeño foco consolidativo subpleural en el LID, de morfología triangular, sugestivo de pequeño infarto pulmonar en el contexto del paciente.
+
+descrip:
+ANGIO TC PULMONAR

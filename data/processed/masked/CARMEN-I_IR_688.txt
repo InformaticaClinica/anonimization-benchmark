@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+*** PACIENTE COVID ***
+Paciente con neumonía intersticial bilateral por Covid-19 que presenta empeoramiento respiratorio agudo en lapasada madrugada (FiO2 35 --> hasta FiO2 60% para mantener Sat. O2 >94%).
+Analítica de control con mejoría franca de los parñámetros inflamatorios, sin embargo D dímero de >10000 (añl ingreso 1600). Se comenta con equipo de Enf. infecciosas que recomienda AngioTC pulmonar para descartar TEP (predisposición en estos paceintes a padecer fenómenos tromóticos).
+1. INSUFICIENCIA RESPIRATORIA HIPOXÉMICA
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Exploración artefactada por movimientos del paciente. En estas condiciones.
+Defecto de repleción en rama segmentaria del segmento basal anterior del LID, compatible con TEP agudo. Tronco de arteria pulmonar de calibre normal de 28 mm. No se observan signos de sobrecarga cardíaca derecha.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Extensas opacidades en vidrio deslustrado bilaterales de distribución periférica, algunas con patrón de "crazy paving", de predominio en LLII, LM y língula. Estas opacidades tienden a confluir formando consolidaciones peribroncovasculares en los segmentos posteriores de ambos LLII. Todo esto compatible con infección COVID19 conocida.
+Comparativamente con RX de tórax de [**28/08/2022**] se observa leve aumento de las opacidades en campo pulmonar medio-inferior izquierdo, ya informado en RX de tórax portátil de hoy.
+En cortes de hemiabdomen superior, no se observan hallazgos significativos.
+
+conclusiones:
+Hallazgos compatibles con TEP segmentario en rama del segmento basal anterior del LID. Sin signos de sobrecarga cardíaca derecha.
+En parénquima pulmonar, hallazgos compatibles con infección por COVID-19 conocida, de las características descritas.
+
+descrip:
+ANGIO TC PULMONAR

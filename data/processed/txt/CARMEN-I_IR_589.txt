@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+protocolo:
+RX tórax portatil. Se compara con el estudio previo del 21/1/2023
+
+conclusiones:
+Disminución de la extensión y densidad de las opacidades alveolares de predominio periférico en todo los campos del pulmón derecho.
+Opacidades alveolares en campos inferiores del pulmón izquierdo.
+PICC en ESD con extremo distal en VCS.
+
+descrip:
+RX  PORTATIL  TORAX

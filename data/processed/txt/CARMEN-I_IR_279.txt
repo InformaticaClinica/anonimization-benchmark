@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Tx hepàtic amb rebuig llarga evolució, COVID mala evolució cap a forma organitzativa en aquest context i IOT la setmana passada, pulmó rígid i alts requeriments O2. Avui presenta emfisema cervical i facial de nova aparició, interessa TC per descartar lesió traquel evident, pneumo, etc.
+Gràcies.
+
+protocolo:
+TC CERVICO-TORÁCICO URGENTE adquirido en condiciones basales.
+
+resultados:
+Se compara con estudio previo del 30/03/2020.
+Catéter venoso central con acceso yugular derecho y extremo distal en unión cavoatrial. Sonda nasogástrica. Intubación orotraqueal con extremo del tubo a aproximadamente 3 cm de la carina.
+Tronco de la arteria pulmonar de diámetro normal. Cardiomegalia.
+Calcificaciones coronarias.
+Escasas adenopatías mediastínicas prevasculares (11 mm), de probable carácter reactivo, que han aumentado de tamaño respecto al estudio previo. No se observan adenopatías axilares de tamaño patológico.
+Aumento del derrame pleural izquierdo, y aparición de derrame pleural derecho, ambos en grado leve en el estudio actual.
+Discreto engrosamiento de las paredes traqueales a nivel de la pared traqueal posterior, donde aproximadamente a 20 mm de la carina traqueal (altura del cuerpo vertebral T4, a la altura del extremo distal del tubo endotraqueal) se observa un defecto de 1 mm a este nivel; que asocia de forma secundaria un extenso neumomediastino que se extiende desde el espacio masticador derecho, bilateral y caudalmente hasta el espacio retrocrural.
+No se observa neumotórax secundario ni signos valorables de mediastinitis en el momento actual.
+Aumento de la afectación parenquimatosa pulmonar, destacando el aumento del componente consolidativo, con aparición de opacidades de distribución peribroncovascular, y predominio en ambos LLII y segementos declives. Se observa también un aumento del vidrio deslustrado de fondo, con persistencia de los signos de organización. Hallazgos todos ellos compatibles con neumonía por COVID-19 en evolución, con probable componente de distress respiratorio asociado.
+Discreto aumento de cantidad de líquido periesplénico respecto al estudio previo.
+
+conclusiones:
+Defecto milimétrico (1 mm) en pared posterior traqueal, a aproximadamente 20 mm de la carina. Se asocia extenso neumomediastino, así como enfisema cervical profundo y subcutáneo. No se observa neumotórax secundario ni signos valorables de mediastinitis en el momento actual.
+Aumento de la afectación parenquimatosa pulmonar en relación a la neumonía por COVID-19, con probable componente de distress respiratorio asociado. Destaca también el aumento del componente consolidativo en ambas bases pulmonares, hallazgos que no permiten descartar una sobreinfección bacteriana.
+
+descrip:
+TC TORAX

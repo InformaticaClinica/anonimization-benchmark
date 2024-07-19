@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+notepsospecha de TEP en paciente de 78 años, hospitalizado por neumonia por COVID, con requerimientos elevados de 02 (60%) pese a mejoría radiológica; presenta D dimero en ascenso >2000. gracias
+NEUMONIA INTERSTICIAL BILATERAL COVID-19 +
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Trónco de la arteria pulmonar de calibre normal.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Extensas opacidades en vidrio deslustrado bilaterales de predominio periférico compatibles con infección COVID19 conocida. Moderado enfisema paraseptal y centrolobulillar de predominio en LLSS.  Parénquima pulmonar sin hallazgos significativos.
+
+conclusiones:
+No se observan signos de TEP agudo en el momento actual.
+Hallazgos compatibles con infección COVID19 conocida. Moderado enfisema paraseptal y centrolobulillar de predominio en LLSS.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,32 @@
+
+1. NEUMONÍA BILATERAL COVID-19. (Resuelto)
+2. INSUFICIENCIA RESPIRATORIA AGUDA. (Resuelto)
+3. TRAQUEOBRONQUITIS ASOCIADA A VM (Resuelto)
+4. ITU POR PSEUDOMONAS AERUGINOSA. (Resuelto)
+5. ANEMIA NN DE TRASTORNOS CRÓNICOS.
+6. MIOPATÍA ENFERMO CRÍTICO.
+.
+- Fecha de inicio de síntomas: 12/04
+- Fecha de frotis COVID resultado externo 12/04
+- Fecha de ingreso hospital (SalaUCI): 22/04/23 (IOT). Fracaso IOT, reIOT30/04.
+- Fecha de alta a hospitalización: 31/05
+.
+TRATAMIENTOS RECIBIDOS:
+** Antivirales: Kaletra stop 27/04, Hidroxicloroquina stop 01/05,Azitromicina stop 01/05.
+** Inmunomoduladores: Tocilizumab (dosis única 23/04) Metilprednisolona 250 mg x 3 días
+** Antibioterapia: Ceftriaxona stop 01/05, Teicoplanina stop 25/04 - 02/05: Meropenem stop 10/05
+-16/05: Piperacilina/Tazobactam (7 días)
+.
+1. NEUMONÍA BILATERAL POR COVID-19.
+2. INSUFIENCIA RESPIRATORIA AGUDA
+A su llegada a la SalaUCI mal estado general con taquipnea y disnea de mínimos esfuerzos, LAF al 100% con saturación del 90%. Estable hemodinámicamente, normotenso y sin taquicardia. En la exploración física destacan crepitantes bibasales en la auscultación respiratoria.
+Se realiza ecoscopia pulmonar a pie de cama con evidencia de lineas B más acentuadas en campos posteriores, junto con áreas de infiltrados parenquimatosos. Durante la primera hora en la SalaUCI, mala evolución respiratoria con altos requerimientos de oxigenoterapia, se decide IOT + VM. Se pauta modo VC con VT de 380, PEEP de 14 y FiO2 100% que se disminuye hasta 55% en las próximas horas. En contexto de sedonalgesia (remifentanilo, propofol) presenta hipotensión. En los primeros días de hospitalización el paciente evoluciona de forma favorable desde el punto de vista respiratorio, mientras que para el deterioro de la función renal requiere de perfusión de furosemida para evitar sobrecarga hídrica.
+Finalmente tras proceso de weaning progresivo el día 29/4/2023 se procede a extubación orotraqueal, fracasando a las 24h por broncoplejía y miopatía, por lo que se realiza nueva intubación el día 30/4/2023.
+El 1/5/2023 se lleva a cabo una traquestomía sin incidencias, tras lo cual se puede reiniciar el proceso de weaning de forma muy progresiva con retirada de la sedación. En el momento actual el paciente alterna periodos de tiempo en ventilación mecánica modalidad presión soporte con respiración espontánea. Ha empezado fisioterapia.
+3. FIEBRE. TRAQUEOBRONQUITIS ASOCIADA A LA VENTILACIÓN MECÁNICA sin aislamiento microbiológico.
+Durante su estancia en la SalaUCI el paciente presentó fiebre y secreciones respiratorias, asociado a deterioro respiratorio transitorio. Ha completado tratamiento con meropenem durante 1 semana sin aislamientos microbiológicos con desaparición de la fiebre, mejoría de las secreciones y de las gasometrías arteriales.
+4. ITU POR PAER. Presenta cuadro subfebril con aislamiento de Pseudomona, resitente a Imipenem , recibiendo tratamiento antibiótico con piperacilian Tazobactam con favorable evolución clínica.
+6. MIOPATÍA DEL ENFERMO CRÍTICO
+Durante su estancia en sala de hospitalización demuestra una respuesta lentamente favorable a la rehabilitación motora, siendo capaz de la deambulación con ayuda y necesidad de soporte. Marcha con aumento de base de sustentación y temerosa, ha presentado una caída sin repercusiones clínicas, se decide traslado a Hospital Universitario Catalunya por zona para completar convalescencia.
+   
+   

@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Varón**] de [**60 años**] con neumonia por COVID-19, actualmente traquoestomizado y conectado al ventilador.
+Presenta empeoramiento respiratororio en las últiams 24 horas, con AcxFA rápida de novo y D-dimero > 10000.
+Interesa descartar TEP.
+Muchas gracias
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Presenta varios defectos de repleción subsegmentarios localizados en ramas de la arteria pulmonar para los segmentos apical y anterior del lóbulo superior derecho, apicoposterior del culmen y superior de la língula. No se observan defectos de repleción en otras localizaciones, si bien debe indicarse que existen artefactos de movimiento respiratorio que disminuyen la sensibilidad de la prueba. Tronco de la arteria pulmonar de calibre normal. Reflujo de contraste a venas suprahepáticas, asociada aumento de tamaño el ventrículo derecho y rectificación del tabique interventricular, todo esto sugestivo de sobrecarga cardiaca derecha. Cardiomegalia.
+Nódulo tiroideo izquierdo de 13 mm.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Extensas áreas en vidrio deslustrado bilaterales, de predominio periférico, con tendencia a confluir en ambos LLII y algunas bandas subpleurales. Presenta ocupación mucosa de ambos bronquios principales así como de todo el árbol bronquial del lóbulo inferior derecho.
+Tubo por tequeostomía a 3,5 cmm de la carina. CVC con entrada yugular derecha y extremo distal en unión cavo-atrial. Sonda nasogástrica con extemo distal en cámara gástrica. En los cortes de hemiabdomen superior, no se observan hallazgos significativos.
+
+conclusiones:
+Hallazgos compatibles con TEP agudo subsegmentario múltiple. Signos sugestivos de sobrecarga cardiaca derecha.
+Hallazgos compatibles con infección COVID19.
+Abundantes secreciones endobronquiales que ocluyen a los bronquios principales y todo el lóbulo inferior derecho.
+
+descrip:
+ANGIO TC PULMONAR

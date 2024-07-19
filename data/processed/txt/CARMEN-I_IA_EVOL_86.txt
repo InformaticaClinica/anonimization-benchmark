@@ -1,0 +1,22 @@
+1.  NEUMONIA POR SARS-COV2 (TAR+ 9/04)(PCR + 10/04)
+2.  INSUFICIENCIA RESPIRATORIA NORMOCÁPNICA
+Inicio síntomas 26/03/2015
+TAR (+) 9/04/2015
+Inicio tratamiento Barcitinib + dexametasona 9/04/2015
+Paciente con antecedentes a destacar de cardiopatía isquémica revascularizada quirúrgicamente. Seguimiento ambulatorio en clínica privada donde se realizó cateterismo en 2012 que informan como enfermedad de dos vasos y sin tratamiento necesidad de nuevo tratamiento percutaneo según informa el paciente. Último ecocardiograma normal informado también por el paciente.
+Acude a urgncias por cuadro de fiebre y tos de 2 semanas de evolución.
+Refiere no estar vacunado de COVID. Le han realizado TAR hoy en CAP que ha sido positivo.
+A su llegada sat 94% con taquipnea basal, a la exploración física destacan crepitantes bibasales importantes.
+Gasomentría basal con pH 7.44 pO2 60.9 pCO2 32 bicarbonato 21.6 A/S: PCR 5.52 cr 1.38 FG 50(última analítica 2012 función renal normal) ionograma normal, Perfil hepático normal, lDH 373, 3230 leucocitos  hb 16.5 htc 50% 154000 plaquetas. DD 2730
+Radiografía torax infiltrados intersticiales bilaterales
+Se inicia oxigenoterapia con LN a 2L con mejoría y saturación del 96% con ligera taquipnea. Se orienta como infección por SARS-COV2, con radiografia con infiltrados intersticiales con insuficiencia respiratoria por lo que se decide ingreso en sala COVID.
+Evolución: Tras inicio de manejo con O2 suplementario GFN a 2L mantiene SP de 95-96% con discreta taquipnea FR: 18 x min.
+Persisten crepitantes en ambas bases.
+Buen aspecto general y se encuentra asintomatico cardiológico solo con ligera disnea con el esfuerzo.
+Analitica con leucopenia L 2890 con DD en descenso 860 Hb: 13.3 Plq: 142.000 coagulación normal. Iones normales. LDH: 2.92 Creatinina: 1.04 PCR: 4.94 Procalcitonina: 0.08
+Durante este ingreso se retira clopidogrel, el paciente no tiene claro porque lo toma y actualmente sin indicación (último evento agudo en 2012), igualmente se retira Atorvastatina que lleva a dosis alta y en el que se va a iniciar tratamiento con 3 farmacos. Se inicia tratamiento con Baricitinib + dexametasona ajustado a función renal dado inicio del cuadro hace dos semanas, CT (informe telefonico por laboratorio de 19), por lo que se inicia Remdesivir a valorar duración según evolución.
+Al no tener Procalcitonina y PCR elevadas,no se añade tratamiento antibitico.
+Paciente con favorable evolución, buena respuesta al tratamiento, con mejoría en analítica presentando PCR en descenso (3.81 mg/dL), recuperando una función renal adecuada con creatinina de 0.96 mg/dL, con FG de 78 mL/min/1.73 m2, manteniendose hemodinámicamente estable, cumple criterios para alta a HDOM con oxígeno y a terminar su tratamiento con Remdesivir.
+En casa se mantuvo afebril y hemodinámicamente estable. Buena evolución clínica y analítica con disminución de reactantes de fase aguda. Sin embargo persitía hipoxemia (saturaciones basales 92-93%) sin disnea.
+El paciente ha realizado 5 días de tratamiento con remdesivir y está recibiendo baricitinib (que deberá completar 10 días, hasta 49/1).
+Dada la persistencia de hipoxemia pero la estabilidad clínica, se decide alta, iniciando prednisona 30 mg/d en pauta descendente hasta mantener 10 mg/d y TACAR ambulatorio (descartar neurmonía organizativa). Se deja oxígeno a demanda.

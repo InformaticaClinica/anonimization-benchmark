@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+1. PNEUMÒNIA INTERSTICIAL BILATERAL COVID-19
+2. INSUFICIENCIA RESPIRATORIA AGUDA GRAVE
+3. PROBABLE MIOCARDITIS VÍRICA vs TEP
+Paciente que a pesar de todo el tratamiento persiste con requerimiento alto de oxígeno: SatO2 93% con VMK 60%. Por sospecha de TEP se descoaguló con Clexane 70mg c/12h. DD inicialmente en >10000 que persiste en 6000. RX con mayor organización en las bases.
+Agradecemos realización de TAC para descartar TEP (vs. NOC por COVID).
+Sospecha de COVID-19
+
+protocolo:
+Angio-TC pulmonar URGENTE (Dr. Lirio)
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+Discreta dilatación del tronco pulmonar común (31 mm). Dilatación aneurimástica de la aorta torácica ascendente (4,9 cm). Aumento del grosor de las paredes del ventrículo izquierdo
+Adenopatías paratraqueal derecha baja (10 mm) y subcarinal (13 mm). No se observan otras adenopatías mediastínicas de tamaño valorable.
+No se observa derrame pleural o pericárdico.
+Patrón pulmonar con opacidades en vídrio deslustrado y engrosamientos septales (empedrado) bilaterales en todos los lóbulos pulmonares y de distribución periférica y algunas consolidaciones parcheadas periféricas,  sobredo en ambos LLII. Se acompaña de bandas subpleurales, leve alteración de la arquitectura pulmonar y bronquiectasias de tracción. Hallazgos compatibles con afectación pulmonar por COVID bilateral, con componente de neumonía organizativa de predominio en LLII.
+
+conclusiones:
+No se observan signos que sugieran TEP.
+Patrón pulmonar compatible con afectación por COVID bilateral, con signos de neumonía organizativa en ambos LLII.
+
+descrip:
+ANGIO TC PULMONAR

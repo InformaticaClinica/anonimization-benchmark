@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Mujer de 95 años ingresada en M. Interna por bronquitis aguda. Inicio de deterioro cognitivo hace 6 meses, posible E. Alzheimer Vs D. Cuerpos de Lewy con temblor de reposo, alucinaciones visuales y trastorno del sueño REM. Solicitamos TC para completar estudio. Muchas gracias.
+DETERIORO COGNITIVO
+
+resultados:
+Leves signos de atrofia bifrontal.
+Desmielinización de la sustancia blanca periventricular.
+Estructuras de la línea media centradas.
+Cisternas basales libres.
+Sistema ventricular de tamaño normal.
+
+conclusiones:
+Leves signos de atrofia bifrontal.
+Desmielinización de la sustancia blanca periventricular.
+
+descrip:
+TC CEREBRAL

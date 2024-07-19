@@ -1,0 +1,24 @@
+
+* NOTA INGRESO S. INTERNACIONAL:
+Valoración COVID19 de paciente de 54 a con AP de HTA que acude por cuadro de 6 días de evolución de dinea progresiva, tos y febrícula,ydeposiciones diarreicas.
+En la Rx de tórax se aprecia un infiltrado intersticial bilateral con imagen de condensación en LM. Sat b O2 93%, del 95% con 2lx' en GN En la analítica se evindencian parámetros compatibles con COVID19(elevación de PCR, LDH y DD).
+Valorado el paciente, se decide ingreso en la 9.9 (comentado con el responsable de planta y gestor de camas COVID)
+    
+* EVOL. EN SALA DE ENF. INFECCIOSAS:
+1. NEUMONIA BILATERAL POR SARS-COV2
+- Inicio síntomas: 21/1
+- Ingreso: 26/1
+- Tratamiento: Ivermectina 12mg 27/1; Remdesivir 27/1 + Siltuximab (SILCOR) 27/1; DXM 6 mg/d 28/1.
+A su llegada a Ucias. Paciente con estado general conservado, eupneico con Sat basal del 93% que se corrige hasta el 95% con LN2L.
+En la Rx de tórax se aprecia un infiltrado intersticial bilateral con imagen de condensación en LM. Analíticamente destaca PCR 13.88/A mg/dL, LDH 558/A U/L, Ferritina 4361/AA ng/mL, Dimer D quantitatiu, sèrum 700/A ng/mL
+Por neumonia bilateral con i. respiratoria y elevación de parametros inflamatorios se decide ingreso en sala O201 a cargo de Enf. Infecciosas y el mismo 27/1, previa firma de consentimiento informado, se inicia remdesivir y se aleatoriza dentro del ensayo a siltuximab.
+Por progresión clínica (aumento de los requerimientos de oxigenoterapia hasta VMSK 40% para Sat. O2 >95% con discreto trabajo respiratorio) y radiológica (progresión franca de los infiltrados intersticiales bilaterales de predominio periférico) el 28/1 se agrega terapia con dexametasona 6mg/d.
+Tras inicio de dexametasona mejoría clínica evidente. Ahora sin disnea en reposo, ni con los esfuerzos (Sat O2 96% sin O2 en reposo. Sat O2 94% tras deambulación por la habitación).
+Estable hemodinamicamente. Afebril.
+Analíticamente mejoría con todos los parámetros inflamatorios en descenso así como en la Rx de tórax mejoría del infiltrado de forma considerable en hemicampo derecho.
+P).
+-Se decide alta a domicilio.
+-Dejamos pauta de oxigenoterapia con 1-1,5 ltsx' durante 1 semana con descenso progresivo hasta stop. Seguir control en el CAP.
+-Mañana 1 dosis de dexametasona de 6 mgs vo (completara 10 días según estudio SILCOR y stop).
+- Durante la siguiente semana se contactara telefónicamente para programacación de TACAR de pulmon de control.
+    

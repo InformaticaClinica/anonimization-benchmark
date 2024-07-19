@@ -1,0 +1,37 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Infecció per coronavirus no especificada
+
+protocolo:
+TC de tórax basal sin contraste EV
+
+resultados:
+Se compara con estudios TC previos, último TC de [**27/08/2011**].
+No se observan adenopatías mediastínicas de tamaño significativo.
+Pequeño ganglio supraclavicular derecho de 6 mm, no presente en el TC previo
+Aumento de tamaño de adenopatía axilar derecha de 8 mm (previo de 5 mm).
+No se observan otras adenopatías axilares de tamaño patológico.
+Aparición de nódulo subcutáneo de 13 mm, de aspecto patológico, en la región subaxilar derecha/cuadrante inferoexterno de la mama derecha, a valorar clínicamente.
+Nódulos tiroideos izquierdos, sin cambios.
+Ausencia de derrame pleural.
+Masa pulmonar hipodensa de bordes lobulados de 30 mm, de localización paraaórtica en el LSI, contactando ampliamente con la pleura mediastínica a nivel del arco aórtico. Contacta con la división broquial segmentaria anterior y apicoposterior. Comparativamente al TC previo de [**08/2011**] ha aumentado de tamaño, lo que obliga a descartar proceso neoformativo pulmonar. Se aconseja ampliar estudio mediante PET-TC.
+Aparición de múltiples nódulos pulmonares de pequeño tamaño subsólidos en vidrio deslustrado y sólidos, destacando nódulo pulmonar sólido de 5 mm en el segmento basal posterior del LID, nódulo pulmonar 4 mm en el segmento apical del LII y nódulo de 6 mm en el segmento apical del LSD, indeterminados.
+Discretas bronquiectasias cilíndricas en LLII.
+Práctica resolución de las opacidades en vidrio deslustrado en el LSD, persitiendo tenues opacidades aisladas peribronquiales.
+Aparición de algunas opacidades en vidrio deslustrado peribronquiales en el LID asociado a tractos lineales, en probable relación con infección por COVID-19 con afectación leve, probablemente en resolución/residual, a valorar clínicamente la evolución.
+Aparición de trabeculación de la grasa peripancreática sugestivo de cambios inflamatorios asociado a múltiples adenopatías en la región celíaca y paraaórticas parcialmente incluidas en el estudio. Valorar clínicamente posibilidad de pancreatitis aguda/patología intraabdominal según antecedentes.
+Aparición de múltiples adenopatías retrocrurales derechas, la mayor de 15 mm.
+Hígado parcialmente visualizado con quistes. Colecistectomía.
+
+conclusiones:
+Masa pulmonar de 30 mm en el LSI de localización paraaórtica, de las características descritas, que ha aumentado de tamaño respecto al TC previo de [**27/08/2011**], lo que obliga a descartar proceso neoformativo pulmonar. Se aconseja ampliar estudio mediante PET-TC.
+Aparición de múltiples nódulos pulmonares subsólidos y sólidos de pequeño tamaño, bilaterales, indeterminados.
+Práctica resolución de las opacidades en vidrio deslustrado en el LSD con aparición de opacidades en vidrio deslustrado peribronquiales en el LID asociado a tractos lineales, en probable relación con infección por COVID-19 con afectación leve, probablemente en resolución/residual, a valorar clínicamente la evolución.
+Aparición de trabeculación de la grasa peripancreática sugestivo de cambios inflamatorios asociado a múltiples ganglios en la región celíaca y paraaórticos parcialmente incluidos en el estudio. Valorar clínicamente posibilidad de pancreatitis aguda/patología intraabdominal según antecedentes.
+Aparición de nódulo subcutáneo de 13 mm, de aspecto patológico, en la región subaxilar derecha/cuadrante inferoexterno de la mama derecha, a valorar clínicamente. Aumento de tamaño de adenopatía axilar derecha de 8 mm y aparición de pequeño ganglio supraclavicular derecho de 6 mm.
+
+descrip:
+TC TORAX

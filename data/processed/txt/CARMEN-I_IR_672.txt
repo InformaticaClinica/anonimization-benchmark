@@ -1,0 +1,19 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Hombre de 56 años ingresado en SalaUCI por neumonía bilateral por covid19, que presenta flebitis con cordón indurado de brazo derecho y fiebre con crecimiento de S. epidermidis.
+Ante sospecha de tromboflebitis, se ruega ecografía doppler de brazo derecho.
+Gracias
+tromboflebitis
+
+protocolo:
+Ecografía doppler urgente de la extremidad superior derecha.
+
+conclusiones:
+Trombosis de la vena cefálica que se extiende desde el tercio medio del antebrazo hasta el tercio medio del brazo derecho, asociada a hiperecogenicidad de la grasa adyacente, en probable relación con una tromboflebitis de la misma.
+La porción proximal de la vena cefálica no muestra otros signos de trombosis. Tampoco se evidencia trombosis en la vena basílica, vena humeral, vena axilar, vena subclavia ni en la vena yugular derechas.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

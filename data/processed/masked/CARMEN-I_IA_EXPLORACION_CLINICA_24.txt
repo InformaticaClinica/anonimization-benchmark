@@ -1,0 +1,21 @@
+
+[**3/12/2017**]-21:00:00: PAS (mm Hg) 105, PAD (mm Hg) 73, Pulsioximetría (%) 97, Tª axilar (ºC) 36.5. [**3/12/2017**]-21:31:00 : Frecuencia respiratoria (rpm) 18.
+* EXPLORACIÓN FÍSICA EN URGENCIAS:
+- ESTADO GENERAL: Buen estado general, hemodinámicamente estable y afebril, buena perfusión periférica, sin alteraciones en la coloración ni hidratación de piel y mucosas.
+- EXPLORACIÓN CARDIOVASCULAR: Ruidos cardíacos rítmicos sin soplos ni roces añadidos, sin edemas en miembros inferiores, sin signos de trombosis venosa profunda, pulsos pedios presentes y simétricos.
+- EXPLORACIÓN RESPIRATORIA: Eupneica, murmullo vesicular conservado sin ruidos añadidos.
+- EXPLORACIÓN ABDOMINAL: Ruidos hidroaéreos conservados, no doloroso a la palpación sin signos de irritación peritoneal.
+- EXPLORACIÓN NEUROLÓGICA: Consciente y orientada, sin signos de focalidad neurológica.
+* EXPLORACIÓN FÍSICA AL INGRESO A PLANTA DE INFECCIONES:
+Paciente hemodinámicamente estable. Normohidratada, con relleno capilar normal, normocoloreada. Colaboradora.
+CARDIOVASCULAR: rítmica sin soplos a la auscultación cardiaca. Perfusión periférica conservada con pulsos radiales y pedios presentes y simétricos. Sin edemas ni signos de trombosis venosa profunda en extremidades inferiores.
+RESPIRATORIO: murmullo vesicular conservado con hipofonesis generalizada, mala mecánica ventilatoria dada tos a la inspiración profunda. Eupneica en reposo, sin uso de la musculatura accesoria. SatO2 96% con lentillas nasales a 2 L/min.
+ABDOMEN: peristaltismo conservado, dolor a la palpación profunda en epigastrio (vómito en los 30 minutos previos) sin otro foco de dolor a la palpación, sin masas ni megalias, sin signos de peritonismo. Signos de Blumberg y Murphy negativos.
+NEUROLÓGICO: consciente y orientada en las tres esferas, lenguaje conservado y fluente. Nominación 5/5. Obedece órdenes simples y complejas. Pares craneales conservados sin focalidad neurológica, incluyendo: campimetría por confrontación, musculatura ocular extrínseca, sensibilidad y motilidad faciales, motilidad trapecios y esternocleidomastoideos, motilidad y sensibilidad en extremidades. No dismetría en maniobra dedo-nariz. No meningismo.
+OSTEOMUSCULAR: dolor a la palpación de la musculatura paravertebral cervical y base occipital.
+* EXAMEN FISICO AL ALTA:
+NRL: Consciente, orientada.
+GRAL: normocoloreada, euhidratada, afebril.
+CV: hemodinámicamente estable, normotensa, rítmica, R1 y R2 normofonéticos silencios libres. Pulsos radiales presentes simétricos rítmicos. No edemas en MMII.
+Resp: Eupneica, SatO2 98% basal con MV conservado sin ruidos agregados.
+ 

@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+protocolo:
+RX Tórax Portatil
+
+conclusiones:
+Persisten las consolidaciones presentes en la RX previa del 5-4-2021, observandose una progresion en la localizada en el LID.
+
+descrip:
+RX  PORTATIL  TORAX

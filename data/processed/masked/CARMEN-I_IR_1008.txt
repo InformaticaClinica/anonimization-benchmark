@@ -1,0 +1,32 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con SDRA COVID grave que requiere intubación y ventilación mecánica. Evolución tórpida con altos requerimientos de oxigenoterapia, elevación de d-dimero y reactantes de fase aguda. Solicitamos TAC urgente para valorar posible TEP, progresión a organización o sobreinfección bacteriana. Gracias!
+2. INSUFICIENCIA RESPIRATORIA HIPOXÉMICA.
+
+protocolo:
+ANGIOTC PULMONAR + TC TORAX ALTA RESOLUCION
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales y tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares y el parénquima pulmonar para su valoración.
+
+resultados:
+Se revisan estudios previos; última RX del [**23/4/2016**].
+CVC yugular izquierdo con extremo distal en vena innominada. TET a 4.5 cms de carina. SNG con extremo distal en camara gástrica.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP agudo.
+No se observan adenopatías mediastínicas y axilares de tamaño valorable.
+Ateromatosis calcificada en arco aórtico y en coronarias. Tronco de arteria pulmonar de calibre en el límite alto de la normalidad (31 mm).
+Ausencia de derrame pleural ni pericárdico.
+Afectación parenquimatosa pulmonar con opacidades consolidativas peribroncovasculares, de predominio en LM y en ambos LLII, asociadas a dilataciones bronquiales. Algunas de estas consolidaciones son de distribución perilobular, en relación a cambios organizativos. Los hallazgos descritos están en relación a proceso neumónico bilateral por COVID-19.
+Así mismo, se visualizan opacidades difusas en vidrio deslutrado en los lóbulos superiores y língula, que son sugestivas como primera posibilidad de sobreinfección por pneumocystis jirovecii. No se observan quistes.
+Signos de enfisema centrolobulillar, de predominio en LLSS.
+Discretos cambios degenerativos en columna torácica.
+Múltiples lesiones focales hepáticas de aspecto quístico, la mayor tamaño de 66 mm en sg VI/V.
+
+conclusiones:
+- No se observan signos de TEP.
+- Neumonía bilateral por COVID-19 con opacidades consolidativas en LM y LLII y con cambios organizativos asociados.
+- Opacidades en vidrio deslutrado difusas en LLSS y língula, sugestivas como primera posibilidad de sobreinfección por pneumocystis jirovecii.
+
+descrip:
+TC TORAX

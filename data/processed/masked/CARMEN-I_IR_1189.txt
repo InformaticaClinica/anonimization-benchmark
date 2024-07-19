@@ -1,0 +1,30 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Neumonia bilateral por COVID - Distress. Sospecha de Sd hemofagocitico y Hemorragia alveolar difusa.
+Ha recibido 3ra dosis de tocilizumab [**5/06**], reinicio de anakinra y corticoides a raiz de empeoramiento respiratorio.
+Interesa TC para valorar respuesta a tratamiento y decisión terapeutica.
+Gracias
+covid 19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+Se realiza examen comparativo con TC previo dfe [**30-5-15**].
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Hiperdensidad relativa del miocardio que sugiere la existencia de anemia.
+No se evidencia derrame pleural derecho o pericárdico. Aparición de un moderado derrame pleural izquierdo.
+Persiste, sin cambios significativos, respecto al control anterior, una afectación pulmonar generalizada con vidrio deslustrado y áreas de consolidación, con preservación parcheada de lobulillos secundarios.
+Enfisema centrolobulillar de predominio superior. Llama la atención la aparición de una masa ovoidea localizada entre los segmentos basales medial y posterior del lóbulo inferior derecho, con una porción anterior hipodensa y una posterior hiperdensa que sugiere un hematoma pulmonar.
+Dada la heterogeneidad del contenido, considero necesario realizar TC con contraste para valorar sangrado activo.
+Presenta un moderado neumotórax derecho con tubo de drenaje con acceso lateral y extremo distal que discurre por la cisura mayor derecha.
+Discretos cambios degenerativos en la columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

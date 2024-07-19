@@ -1,0 +1,9 @@
+
+21/08/2013-11:00:00: FiO2 (%) 24, PAS (mm Hg) 96, PAD (mm Hg) 70, Pulsio ximetría (%) 97, Tª axilar (ºC) 36. 21/08/2013-18:00:00 : Frecuencia res piratoria (rpm) 18.
+En la exploración general paciente con buen estado general, hemodinámicamente estable, febril, normohidratada y normocoloreada.
+Neurológicamente, paciente consciente y orientado en persona, tiempo y espacio. Sin focalidades neurológicas. Sin signos de meningismo.
+Auscultación cardíaca con tonos cardíacos arítmicos, sin soplos audibles.
+Respiratoriamente eupneica, auscultación respiratoria con buena ventilación, crepitantes secos abundantes de predominio en campos medios y bases.
+Abdomen blando, voluminoso, depresible, no doloroso a palpación superficial ni profunda.
+Extremidades inferiores sin edemas ni signos de trombosis venosa profunda.
+ 

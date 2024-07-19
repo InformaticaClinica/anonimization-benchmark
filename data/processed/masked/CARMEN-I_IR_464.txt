@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19 PENDIENTE
+
+conclusiones:
+Patrón alveolo-intersticial bilateral en campos pulmonares medios e inferiores bilaterales con áreas consolidativas periféricas en el campo pulmonar medio e inferior izquierdo y campo pulmonar medio derecho.
+Presenta leve mejoría respecto a RX previa de [**20/06/2015**] con disminuución de la densidad y extensión de las áreas consolidativas.
+
+descrip:
+RX  PORTATIL  TORAX

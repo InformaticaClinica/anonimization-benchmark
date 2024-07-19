@@ -1,0 +1,26 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de 56 años ingresado por COVID, que requiere ingreso en UCI con GAF y VMNI. Ha recibido plasma, tocilizumab y corticoides, rogamos valorar neumonía organizativa. GRacias
+Infecció per coronavirus no especificada
+
+protocolo:
+TC de tórax sin contraste EV
+
+resultados:
+Ganglios mediastínicos paratraqueales, prevasculares y subcarinal aumentados de tamaño, probablemente reactivos. No se observan adenopatías axilares de tamaño significativo.
+Divertículo traqueal posterolateral superior derecho.
+Vía venosa yugular derecha con extremo distal en VCS.
+Discreto derrame pleural bilateral.
+Extensas áreas en vidrio deslustrado con engrosamientos septales (patrón en "crazy paving") y focos consolidativos peribroncovasculares y periféricos, asociado a dilataciones bronquiales, de predominio en LLII.
+Discretos engrosamientos parietales bronquiales difusos. La afectación parenquimatosa periférica condiciona retracción pleural. Los focos consolidativos de predominio basal presentan una morfología de halo reverso, sugestivo neumonía organizativa. Hallazgos en relación a neumonía bilateral por COVID-19 con afectación extensa.
+Bronquiectasias focales varicosas en el segmento posterior del LSD.
+Granuloma calcificado en la língula.
+
+conclusiones:
+Neumonía bilateral por COVID-19 con afectación extensa. Áreas de neumonía organizativa de predominio basal.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

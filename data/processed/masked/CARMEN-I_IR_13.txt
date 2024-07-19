@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+TC cranial urgent en pacient amb COVID parlat amb els radiòlegs. Amb atòmica.
+INSUFICIÈNCIA RESPIRATÒRIA HIPOXÈMICA.
+
+protocolo:
+TC CRANEAL URGENTE realizada en condiciones basales
+
+conclusiones:
+Se compara con TC cerebral previa realizada el [**11/08/11**]:
+Zona de encefalomalacia parietal izquierda. Muy tenues restos hemáticos a nivel occipital izquierdo en relación a hematoma antiguo.
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Hipodensidades en sustancia blanca periventricular, en relación a enfermedad de pequeño vaso en grado leve. Sin otras alteraciones densitométricas.
+Sistema ventricular simétrico y no dilatado.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+
+descrip:
+TC CEREBRAL

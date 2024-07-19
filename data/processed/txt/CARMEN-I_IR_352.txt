@@ -1,0 +1,20 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+87 años, neumonia covid pasada, aspergilosis pulmonar en vías de curación y lesión ocupante de espacio con diagnóstico de hematoma vs abceso cerebral, tras mejoría inicial y pareceer más sangrado, se retiró antibioterapia, hoy febril, glasgow 13/15 e hipotenso, descartar complicaciones-empeoramiento de lesión en ganglios basales.
+
+protocolo:
+Se realizan cortes axiales desde la base del cráneo hasta vértice de calota craneal sin contraste intravenoso.
+
+resultados:
+Lesión focal en ganglios de la base del lado derecho,edema y efecto de masa sobre el ventrículo lateral derecho y restos hemáticos.
+Comparado el estudio con estudios previos de RM del día 22/12/2026 no ha variado significativamente el edema y el efecto de masa sobre el ventrículo.
+Atrofia cerebral global grado 2, dilatación de surcos y ventrículos.
+
+conclusiones:
+Lesión focal en ganglios de la base del lado derecho,edema y efecto de masa sobre el ventrículo lateral derecho y restos hemáticos sin cambios significativos respecto a estudio de RM previo.
+
+descrip:
+TC CEREBRAL

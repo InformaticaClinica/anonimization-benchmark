@@ -1,0 +1,5 @@
+
+Paciente de [**50 años**] que el día [**21/08/2014**] es derivado a urgencias del [**Hosp Santa Eulalia**] desde su CAP, dónde había consultado por cuadro de fiebre y tos desde el día [**12/08**], tras no presentar mejoría con Augmentine.
+A su ingreso la analítica muestra parámetros de inflamación (PCR 24) y el frotis para COVID resulta positivo, por lo que se inicia tratamiento con lopinavir/r + hidroxicloroquina + azitromicina + ceftriaxona + teicoplanina.
+En lo relativo a la neumonía por COVID, tras un inicial empeoramiento clínico, analítico y radiológico, el paciente presenta mejoría, siendo tributario de traslado al [**Centro COVID**].
+ 

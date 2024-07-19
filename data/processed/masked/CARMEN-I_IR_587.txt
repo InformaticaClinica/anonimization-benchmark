@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Mujer**] [**39 años**]. Insuff respiratoria asociada a neumonia por COVID (inicio sintomas [**09/11/21**]) con franco emperoamento de Sp02 y de suporte de oxygeno (VMK 40%).
+Dada la sospecha de oneumonia organizativa, interesa practicar TC torax Gracias
+COVID
+
+protocolo:
+TC TORAX URGENTE sin contraste yodado E.V.
+
+resultados:
+Múltiples opacidades en vidrio delustrado con tendencia a la condesación bilaterales de distribución periférica y de predominio en bases pulmonares, donde han progresado a extensas consolidaciones peribroncovasculares con bandas subpleurales y leve desestructuración del parénquima pulmonar adyacente. Estos hallazgos son compatibles con afectación pulmonar por COVID, con signos incipientes de neumonía organizativa en bases pulmonares.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+Afectación pulmonar por COVID con signos incipientes de neumonía organizativa en ambas bases pulmonares.
+
+descrip:
+TC TORAX

@@ -1,0 +1,43 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Control lesiones esplenicas (comentado con radiologo) Sospecha de infartos esplenicos?
+Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+TC toraco-abdominal amb contrast oral i ev.
+Es compara amb l'estudi previ del [**88/1/2014**]
+
+resultados:
+TÓRAX
+Traqueotomia.
+Tronc de l'artèria pulmonar de calibre normal.
+Disminució de mida dels ganglis mediastínics i hiliar dret, que actualment son infracentimètrics.
+No hi ha adenopaties axil.lars de mida valorable.
+Resolució del neumotòrax dret.
+Important disminució de les àrees en vidre desllustrat descrites a estudi previ, en relació a neumonia bilateral per covid-19. Persisteixen bandes subpleurals amb bronquiectàsies de tracció.
+Espais pleurals lliures.
+ABDOMEN.
+Fetge homogeni de mida i morfologia normals, sense lesions focals.
+Vesícula biliar de parets fines. No hi ha dilatació de la via biliar.
+Eix porto.espleno.mesentéric permeable.
+TC (artèria esplènica - hepàtica), AMS i AMI, permeables.
+Important disminució de l'esplenomegàlia (actual 13'4cm, previ 17'3cm) Persisteixen les múltiples imatges hipodenses esplèniques (la major de 15mm), sense canvis.
+Pàncrees i suprarrenals, sense alteracions.
+Ronyons funcionants de mida i morfologia normal, sense dilatació de la via excretora. Bombolla de gas intravesical, en probable relació a maniobres instrumentals prèvies.
+No hi ha adenopaties retroperitoneals, mesentèriques o ilíaques de mida significativa.
+Còlon i intestí prim de calibre i localització normal, amb correcta captació mural de contrast ev.
+No hi ha líquid lliure intraabdominal.
+Canvis ossis degeneratius de columna dorso-lumbar.
+
+conclusiones:
+Resolució del neumotòrax dret.
+Important disminució de les àrees en vidre desllustrat descrites a estudi previ, en relació a neumonia bilateral per covid-19. Persisteixen bandes subpleurals amb bronquiectàsies de tracció.
+Disminució de mida dels ganglis mediastínics i hiliar dret, que actualment son infracentimètrics.
+Important disminució de l'esplenomegàlia (actual 13'4cm, previ 17'3cm) Persisteixen les múltiples imatges hipodenses esplèniques (la major de 15mm), sense canvis. Son indeterminades.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

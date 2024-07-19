@@ -1,0 +1,31 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de 77 a con neumonia bilateral por covid-19 a día +21. En IOT+VM con evolución tórpida con requerimiento de aumento de PEEP y febrícular pese adecuada cobertura ATB en base a aislamientos. Rx de tórax con infiltrados de predomineo en hemicampo D que estan estables.
+Rogamos TC para valorar componente organizativo que pudiera justificar en parte la fiebre.
+NEUMONÍA BILATERAL POR SARS-CoV2
+
+protocolo:
+TC de tórax adquirido en condiciones basales y tras la administración de contraste EV (angio-TC pulmonar).
+
+resultados:
+Se compara con angio-TC pulmonar de 9/12/2015.
+Traqueostomía. SNG.
+Enfisema subcutáneo de localización supraesternal y en regiones supraclaviculares en probable relación con procedimiento reciente.
+No se identifican defectos de repleción evidentes en las arterias pulmonares. Las arterias pulmonares distales subsegmentarias no son valorables en el estudio actual. Tronco de la arteria pulmonar de calibre aumentado (32 mm).
+Ateromatosis calcificada aórtica y coronaria.
+Aumento de tamaño de adenopatías paratraqueales bilaterales y subcarinal, reactivas. No se observan adenopatías axilares de tamaño valorable.
+Aparición de leve derrame pleural bilateral.
+En el estudio actual se observan focos consolidativos y en vidrio deslustrado de distribución periférica de predominio superior, en relación a cambios organizativos incipientes secundarios a la evolución de la infección por COVID-19.
+Se observa marcado aumento de la extensa consolidación hipodensa con broncograma aéreo en el LID, así como de los focos consolidativos peribronquiales posterobasales en el LII y en las porciones posteriores de los LLSS. Los hallazgos sugieren sobreinfección bacteriana.
+Cortes abdominales altos sin alteraciones destacables. Permeabilidad del tronco celíaco y del origen de la arterai mesentérica superior.
+
+conclusiones:
+Empeoramiento radiológico respecto al angio-TC pulmonar de 9/12/2015.
+Cambios organizativos incipientes de predominio superior en relación a evolución de la infección por COVID-19.
+Aumento de la extensa consolidación en el LID, así como de los focos consolidativos posterobasales en el LII y en las porciones posteriores de los LLSS. Los hallazgos sugieren sobreinfección bacteriana.
+
+descrip:
+TC TORAX

@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR COVID - 19
+
+protocolo:
+RX tórax PA
+
+resultados:
+Opacidades bilaterales en campos pulmonares inferiores y superior derecho, estables en relación con la RX del [**9/9/2012**] (hay diferencias técnicas entre ambas RX siendo la actual menos penetrada),
+
+conclusiones:
+Afectación pulmonar por COVID que muestra estabilidad respecto a Rx previa
+
+descrip:
+RX  PORTATIL  TORAX

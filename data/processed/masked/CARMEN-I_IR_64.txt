@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+RX tòrax anteroposterior portàtil.
+
+resultados:
+Veure conclusions.
+
+conclusiones:
+L´exploració es compara amb la realitzada el [**7/7**]:
+Franca milloria radiològica de totes les consolidacions que afectaven els tres camps pulmonars d´ambdós pulmons, persistint en l'actualitat petites consolidacions a bases pulmonars de predomini esquerre.
+
+descrip:
+RX  PORTATIL  TORAX

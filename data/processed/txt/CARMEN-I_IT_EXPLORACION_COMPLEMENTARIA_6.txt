@@ -1,0 +1,41 @@
+27/06/2025.
+GASOMETRIA POC (FiO2 desconocida)
+pH, 7.402
+pCO2,  33.4/B mmHg
+pO2, 41.6/B mmHg
+Bicarbonat actual 20.3/B mmol/L]
+CO2 total, 21.3/B mmol/L
+Excés de base  -3.70/B mmol/L
+26/01/2022.
+*MICROBIOLOGIA
+-PCR DE SARS CoV-2 (19/06): positiva
+-Esputo: aislamiento sólo de flora habitual.
+-Influenzavirus B: Indetectable
+-Influenzavirus C: Indetectable
+-Influenzavirus A: Indetectable
+-Virus respiratorio sincitial: Indetectable
+-Enterovirus: Indetectable
+-Adenovirus: Indetectable
+-Metapneumovirus humano: Indetectable
+-Bocavirus humano: Indetectable
+-Rinovirus: Indetectable
+-Virus parainfluenza (1,2,3,4): indetectable.
+-Antigenurias Legionella y S.pneumoniae: negativo.
+19/06/2025.
+*PRUEBAS DE IMAGEN
+-Rx de torax (19/06): infiltrados intersticiales bilaterales
+- angio-TC abdominal (68/2): Gran hematoma de la beina del recte abdominal dret, amb un nivell hemàtic i d'una extensió aproximada de 55 x 95 x mm (AP x TR x CC), que arriba fins a la pelvis, on hi ha lleu hemoperitoni. S'identifica extravassació de contrast en fase arterial que augmenta significativament en fase venosa, en relació amb sagnat actiu, el qual s'origina a nivell medial de l'espessor muscular. Fetge de morfologia, contorns i atenuació normals. No s'observen lesions focals. Colecistectomia. Via biliar intrahepàtica ectàsica. Colèdoc de 8 mm. Vena porta i eix espleno-mesentèric permeables. Pàncrees i melsa sense alteracions significatives. Nòdul suprarrenal dret de 10 mm de densitat greix, probable mielolipoma. Glàndula suprarrenal esquerra sense alteracions significatives.
+Ronyons de mida i morfologia normal, captació bilateral i simètrica de contrast. Litiasi no obstructiva de 3-4 mm a GCM de RE. Quists corticals simples. Lesió quística amb contingut dens a pol renal inferior esquerre, de mm de diàmetre No s'observa dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica. Talls toràcics amb opacitats en vidre esmerilat parxejades a nivell bilateral, de distribució subpleural i peribroncovascular, en relació a neumònia per COVID-19 coneguda. Múltiples lesions òssies conegudes: lesió lítica expensiva a branca ilíaca esquerra, a branca púbica esquerra i a acètabul esquerre. Lesió litica a T11 i a S1, amb vores escleroses. Lesió lítica explansiva a 7a costilla dreta.
+Conclusiones: Gran hematoma de la beina del recte abdominal dret amb signes de sagnat actiu.
+19/06/2025.
+*Analíticas de sangre:
+INGRESO 19/06
+-BIOQUÍMICA GENERAL: PCR 30.74 mg/dL Glucosa 113 mg/dL Troponina I 4.1 ng/L  Creatinina 1.35 mg/dL FG 39.25 mL/min ASAT 33 U/L ALAT 44 U/L GGT 26 U/L Bilirrubina total 1.20 mg/dL Bilirrubina conjugada 0.40 mg/dL Fosfatasa alcalina 65 U/L LDH 259 U/L Proteïnes totals 69 g/L Sodio 144 mEq/L Potasio 3.6 mEq/L Procalcitonina 4.55 ng/mL Calcio 9.00 mg/dL Magnesio 1.2/B mg/dL
+-PROTEÏNAS: Ferritina 1589 ng/mL
+-HEMOGRAMA: Leucòcitos 4.88 10^9/L Hematies 4.02 10^12/L Hemoglobina 119/B g/L Hematòcrito 0.360 L/L VCM 89.1fl HCM  29.6pg CCMH 332 g/L ADE  15.6% Plaquetas 129 10^9/L Neutròfilos 4.4 10^9/L Eosinòfilos 0.0 10^9/L Basòfilos 0.0 10^9/L Linfòcitos 0.3 10^9/L Monòcitos 0.1 10^9/L LUC 0.0 10^9/L
+-HEMOSTÀSIA GENERAL Dimer D  540 ng/mL
+ALTA SalaUCI 26/06:
+-BIOQUÍMICA: Proteïna C reactiva (PCR) 1.04/A mg/dL, Glucosa 89 mg/dL, Creatinina 0.96 mg/dL, Filtrat glomerular calculat [CKD-EPI] 59.27 mL/min/1,73m2, Aspartat aminotransferasa (ASAT) 36 U/L, Alanin aminotransferasa (ALAT) 64/A U/L, Gamma glutamil transpeptidasa (GGT) 25 U/L, Bilirrubina total 1.00 mg/dL, Bilirrubina conjugada 0.30 mg/dL, Fosfatasa alcalina 54 U/L, Lactat deshidrogenasa (LDH) 255/A U/L, Proteïnes totals 54/B g/L, Sodi 141 mEq/L, Potasi 4.1 mEq/L, Procalcitonina, plasma 0.11 ng/mL, Calci 8.90 mg/dL, Magnesi 1.7/B mg/dL
+-PROTEÏNES: Ferritina 1576/AA ng/mL
+-HEMOGRAMA: Leucòcits 2.58/B 10^9/L, Hematies 3.58/B 10^12/L, Hemoglobina 108/B g/L, Hematòcrit 0.330/B L/L, VCM (Volum eritrocitari mig) 91.8fl, HCM (Hemoglobina eritrocitària mitja) 30.2pg, CCMH (Concentr. corpusc. mitja Hb) 329 g/L, ADE (Amplada de la distribució eritrocit 15.9%, Plaquetes 167 10^9/L

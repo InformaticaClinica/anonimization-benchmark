@@ -1,0 +1,31 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Varón de 59 años con neumonía covid-19 y neumonía necrotizante por S.aureus en soporte con terapia ECMO. Neumonía de larga evolución con apertura del pulmón paulatina. Ultimamente ventila más en als radiografías. Interesa TC torácico para valorar el estado del pulmón en el momento actual y valorar la posibilidad de aparición de fibrosis o lesioens que compliquen la ventilación de cara a retirar la ECMO. Muchas gracias!!
+atelectasia pulmon derecho.
+
+protocolo:
+TCAR
+
+resultados:
+Se compara con TC previo del 27/06/2025.
+Adenopatías mediastínicas en espacios prevascular, paratraqueal izquierdo, subcarinales e hiliares bilaterales, aumentadas de tamaño, probablemente reactivas, estables. No se observan adenopatías axilares de tamaño patológico.
+Elevación del hemidiafragma derecho, sin cambios. Ausencia de derrame pleural. Mínimo neumotórax laminar drecho. Tubo de drenaje pleural derecho con entrada lateral. Tubo de drenaje pleural izquierdo con entrada anterior y extremo distal paramediastínico. No se observa derrame pericárdico.
+Marcadas bronquiectasias cilíndricas de predominio en LM y en LLII con imágenes de ocupación endobronquial en LLII.
+Mejoría radiológica respecto al TC previo con disminución de las consolidaciones de predominio posterobasales y en el LID. Disminución de las opacidades en vidrio deslustrado difusas. Aumento de los engrosamientos periobronquiales periféricos asociado a bandas parenquimatosas y a bronquiectasias, en relación a cambios organizativos incipientes.
+Se observa un discreto aumento de tamaño de las lesiones quísticas residuales bilaterales. Destaca por su tamaño la lesión quística anterior del LSD con menor engrosamiento de sus paredes y disminución del contenido sólido en su interior en el estudio actual. Aparición de lesión cavitada de localización subpleural posterior en el segmento apical del LID en el seno del parénquima colapsado (no presente en el TC previo en donde presentaba una consolidación lobar).
+Destaca el aumento de tamaño de nódulo pulmonar paramediastínico en el LSI de 16 mm (previo de 10 mm), de probable origen infeccioso en el contexto actual. Valorar sobreinfección por hongos.
+Traquestomía. SNG con extremo distal en camara gástrica. TOT con extremo distal a 25 mm de la carina. Catéter de hemodiálisis de acceso yugular derecho y dos catéteres venosos centrales de acceso yugular y subclavio izquierdo con extremo distal en VCS. Catéter venoso en la VCI.
+
+conclusiones:
+Mejoría radiológica respecto al TC previo.
+Ausencia de derrame pleural. Mínimo neumotórax laminar drecho.
+Disminución de las consolidaciones de predominio posterobasales y en el LID. Cambios organizativos incipientes. Marcadas bronquiectasias cilíndricas con imágenes de ocupación endobronquial en LLII.
+Aumento de tamaño de las lesiones quísticas pulmonares residuales bilaterales. Lesión quística anterior del LSD con menor engrosamiento de sus paredes y disminución del contenido sólido en su interior en el estudio actual.
+Destaca el aumento de tamaño de nódulo pulmonar paramediastínico en el LSI, de probable origen infeccioso en el contexto actual. Valorar sobreinfección por hongos.
+Se aconseja TC de control evolutivos para valorar lesiones fibróticas residuales al proceso actual.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

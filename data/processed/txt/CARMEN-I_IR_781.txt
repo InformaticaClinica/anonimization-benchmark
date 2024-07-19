@@ -1,0 +1,39 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de 48 años ingresado en J925 por neumonía bilateral por COVID- 19 bajo soporte respiratorio con ECMO-VV e IOT+VM. Como complicaciones ha presentado:
+1-. Neumonía necrotizante por pseudomonas aeruginosa en contexto de VM.
+2-. Hemotórax derecho en relación a anticoagulación por ECMO: 2 drenajes pleurales D.
+3-. Sangrado arterial por 6º arteria intercostal D en relación a colocación de tubo pleural.
+4-. Absceso hepático visto en angio-Tc de tórax de forma casual probablemente en relación a Pseudomonas aeruginosa y bacteriemia.
+.
+Interesa:
+- TC TORÁCICO CON CONTRASTE (NO ANGIO-TC) comentado con Leonardo, para ver evolución de la neumonía necrotizante y hemotórax (no sospechamos de tromboembolia pulmonar).
+- TC ABDOMINAL CON CONTRASTE (ver 3 fases) para mayor caracterización del absceso. Se comentó con equipo de TC de abdomen y ecografía de cara a ofrecer el seguimiento del mismo. .
+Gracias.
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+TC abdominal amb contrast ev multifàsic
+
+resultados:
+Artefactes sobre el fetge per interposició d'EESS i/o aparells mèdics.
+Portados de dos catéteres venosos amb entrada per femoral esquerra i extrem distal a ilíaca primitiva esquerra, i femoral dreta amb extrem a VCI.
+Sonda nasogàstrica amb extram a fundus.
+Fetge de mida, densitat i morfologia dintre de la normalitat. Lesió hipodensa en s VII de 3.2 cm (previ 4.8 cm) amb algun petit focus de realçament perifèric en fase arterial, més evident en fase portal. En la fase d'equilibri la lesió pràcticament no és visible (artefactes o bé isocaptació). La lesió mostra una disminucio de la mida respecte l'anterior TC. És compatible amb àrea d'hepatitis
+infecciosa/microabscessos confluents.
+Via biliar no dilatada.
+Vena porta permeable.
+Pàncrees, melsa  i glàndules suprarrenals sense alteracions valorables.
+Ronyons de mida i morfologia dintre de la normalitat i presenten un nefrograma bilateral i simètric.
+No s'observen adenopaties retroperitoneals o pèlviques de mida significativa.
+Petita quantitat de líquid lliure perihepàtic i a gotiera dreta.
+
+conclusiones:
+Estudi amb limitacions per artefactes.
+Lesió que per les seves catacterístiques i evolució és compatible amb infecció focal hepàtica, que ha disminuit de mida respecte l'anterior TC del dia 1 d'agost.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,34 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Se solicita TCAR post neumonía por covid, sospecha de NO.
+TAc abdominal, control de hematoma retropoeironeal embolizado.
+Gracias
+INFECCION COVID-19
+
+protocolo:
+Se realiza estudio abdonino-pélvico en fase venosa portal.
+
+resultados:
+Se compara con TC previo del 22/05/2015:
+Importante hematoma retroperitoneal izquierdo que se ha disminuido mínimamente de volumen con respecto al estudio del pasado día 22/5/2015 (18 x 19 x 23 cm), aunque las mediciones obtenidas muestran una práctica estabilidad de sus dimensiones máximas.
+Aunque presenta zónas discretamente hiperintensas que traducen el antecedente de un sangrado reciente, se aprecia una notable disminución de la densidad en extensas áreas del hematoma como signo de tendencia a la resolución. Se observan múltiples puntos e imágenes lineales que muy probablemente siguen la anatomía de múltiples finas ramas vasulares lumbares izquierdas y que podrían corresponder a material hiperdenso de las embolzaciones previas dada la buena evolución del hematoma. No obstante, el hecho de no disponer de un estudio abdominal basal dificulta la interpretación de estas imágenes y podría mantener la duda de si alguna de ellas pudiera corresponder a una zona de sangrado activo.  La revisión del estudio torácico realizado en fase arterial precoz no resuelve la duda ya que no abarca la localización anatómica donde se observan estas imágenes en la fase portal.
+Persiste sin grandes cambios el desplazamiento de las  estructuras retroperitoneales hacia la linea media ya descrto en la TC previa, destacando el gran desplazamiento del riñón izquierdo que se encuentra elevado y desplazado anteriormente.
+Ha desaparecido el líquido perihepático y periesplénico, persistiendo únicamente una pequeña colección periesplénica de resto hemático de 30 x 18 mm de tamaño. Ausencia de líquido libre en fondo de saco peritoneal.
+Hígado de morfología y tamaño normal. No se observan lesiones focales.
+Vena porta y eje espleno-portal permables.
+Vesícula biliar de tamaño normal y paredes finas. Vía biliar no dilatada. Hernia de hiato (SNG).
+Páncreas, bazo y glándulas suprarenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. No se observa dilatación de la vía excretora. No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Diverticulosis de sigma sin signos de diverticulitis.
+
+conclusiones:
+Persiste el voluminoso hematoma retroperitoneal izquierdo que no obstante muestra signos de resolución como es la disminución de su densidad en amplias áreas.
+No obstante se observan múltiples imágenes puntiformes y otras lineales hiperdensas en la fase portal en la zona paralumbar izqierda que podrían plantear la duda de si existe alguna zona de sangrado activo, aunque dada la evolución del hematoma, me inclino a interpretarlas como restos de material de embolzación.
+Se debería evaluar la situación clínica del paciente por si también apoya esta interpretación. En caso contrario, se debería ampliar la TC obtenida con un estudio basal y dinámico multifásico incluyendo una fase arterial.
+Hernia de hiato.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

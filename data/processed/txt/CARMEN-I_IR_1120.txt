@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 44 años, natural de Islas Turcas y Caicos.
+Ingresa hoy por COVID19 en día 10 de síntomas. Requerimientos hasta el 60%. Destaca PCR 35, PCT 1, DD 4000
+RUEGO TC PARA DESCARTAR TEP +- SOBREINFECCIÓN BACTERIANA
+COVID 19
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal. No se observan signos de sobrecarga ventricular derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglios mediastínicos e hiliares bilaterales infracentimétricos de aspecto reactivo.
+No se observa derrame pleural ni pericárdico.
+Afectación parenquimatosa pulmonar bilateral en forma de ténues opacidades en vidrio deslustrado de distribución parcheada, en relación a afectación por COVID-19 leve.
+Se observa además una afectación de lóbulo inferior izquierdo con opacidades en vidrio deslustrado y consolidaciones peribroncovasculares, lo cual sugiere sobreinfección respiratoria, de probable etiología bacteriana.
+Atelectasias laminares bibasales.
+Esplenomegalia homogénea.
+
+conclusiones:
+No se observa TEP.
+Afectación parenquimatosa leve por COVID-19.
+Hallazgos que sugieren sobreinfección respiratoria de LII, probablemente de etiología bacteriana.
+Esplenomegalia homogénea.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,14 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**81 años**] conantecedentes de IRC en HD, neumonía bilateral por SARS-CoV-2 y TBC ganglionar en tratamiento desde hace 5 días.
+Empeoramiento clínico en las últimas 48h con aumento de requerimientos de FiO2 y de reactantes de fase aguda. Agradeceríamos valoración de forma preferente.
+NEUMONÍA BILATERAL POR SARS-COV2
+
+conclusiones:
+Petición duplicada.
+
+descrip:
+TC TORAX

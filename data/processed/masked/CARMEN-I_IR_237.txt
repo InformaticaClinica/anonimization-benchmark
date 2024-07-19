@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Dona**] de [**68 anys**] amb neuomonia bilateral greu per SARS CoV 2.
+Dia 10 ingres en UCI. Inicialment bona evolució, des de fa 48 hores, empitjorament clinic i radiologic. D dimer de 8000.
+Es comenta amb companys d'infeccioses->es considera angio-TAC per valorar TEP +/- NOC.
+Moltes grácies
+(comentat amb Dra [**Vilardell**])
+SOSPITA COVID-19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Estudio limitado por artefactos de movimiento.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha
+Tubo de traqueostomia a 3 cm de carina. Catéter venoso central con extremo distal en VCS.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos consolidativos y vidrio deslustrado subpleural, bilaterales y con distribución periférica, de predominio en lóbulos inferiores. Se acompañan de dilataciones bronquiales irregulares y áreas de distorsión parenquimatosa con algunas imágenes en halo inverso. Los hallazgos descritos son compatibles con infección pulmonar por COVID-19 con patrón de neumonía organizativa y fibrosis de predominio en LLII.
+SNG con extremo dista en antro gástrico. Colelitiasis.  Bazo accesorio de 17 mm.
+
+conclusiones:
+No se observa signos sugestivos de TEP.
+Hallazgos compatibles con infección pulmonar extensa por COVID-19 con patrón de neumonía organizativa y fibrosis de predominio en LLII.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+protocolo:
+RX TX
+
+conclusiones:
+Opacidades alveolares bilaterales de predominio en campos inf. y medios, que han progresado respecto RX previa 16/11. con la aparición de un patrón fibroso
+
+descrip:
+RX  PORTATIL  TORAX

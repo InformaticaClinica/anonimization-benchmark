@@ -1,0 +1,16 @@
+
+   
+*EVOLUCION EN ENFERMEDADES INFECCIOSAS:
+1. INFECCION POR COVID19
+2. LEVE NEUMONIA POR COVID19
+3. TRASPLANTE RENAL - INSUFICIENCIA RENAL AGUDA
+A su llegada a urgencias, saturación de oxígeno al 97% en aire ambiente, normotenso, afebril. En la exploración física se auscultan discretos crepitantes en lóbulo inferior derecho.
+Analítica general PCR 3.15mg/dl, Cr 1.87mg/dl, FG 27.44ml/min, LDH 255 ferritina 303ng/ml, leucos 3300 (linfocitos 600), Ddimero 600.
+Radiografia con discreto infiltrado intersticial en lóbulo inferior derecho.
+Dada la clínica, pruebas complementarias y situación epidemiológica se realiza determinación de SARS-CoV-2 que resulta positiva el 18.08.14.
+La paciente ingresa en sala de hospitalización y tras firmar consemiento de uso de medicación compasiva y realización de electrocardiograma dónde no se objetivan hallazgos llamativos (ritmo sinusal, QT 388 msg).
+Se inicia tratamiento con lopinavir/ritonavir, azitromicina y hidroxicloroquina con buena tolerancia.
+Durante el ingreso hospitalario la paciente presenta buena evolución clínica sin precisar de requerimientos de oxigenoterapia y con los parámetros de inflamación en descenso.
+No obstante, el filtrado glomerular ha presentado un moderado deterioro probablemente en relación a la infección vírica y el cambio de la inmunosupresión. Comentado con UTR (Dr. Pazos - ver nota adjunta en pruebas complementarias) se decide administrar según los últimos niveles de tacrolimus (23.08.14 de 2ng/ml) administrar dosis única de tacrolimus de 0.5mg via oral y continuar con prednisona de 15mg cada 24h. Se solicita nueva determinación analítica para el 27 de agosto de 2014.
+Dada la estabilidad clínica, se decide traslado a Clinica COVID.
+   

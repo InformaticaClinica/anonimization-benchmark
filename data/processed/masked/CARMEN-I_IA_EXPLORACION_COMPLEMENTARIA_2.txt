@@ -1,0 +1,29 @@
+
+* ANALITICA [**H. COVID**]
+-INGRESO [**08/05**]:
+BIOQUÍMICA GENERAL: PCR 3.73/A mg/dL Glucosa 92 mg/dL BUN 15 mg/dL Creatinina 0.50 mg/dL FG >90* Colesterol total 277/A mg/dL Triglicèrids 204/A mg/dL ASAT 64 U/L ALAT 173 U/L GGT 458 U/L Bilirrubina total 0.3 mg/dL Bilirrubina directa 0.1 mg/dL Bilirrubina indirecta 0.2 mg/dL Fosfatasa alcalina 276 U/L Lactat deshidrogenasa 208 U/L Proteïnes totals 60/B g/L Albúmina 39 g/L Sodi 145 mEq/L Potasi 3.7 mEq/L Calci 9.6 mg/dL Fósfor 4.8/A mg/dL Magnesi 1.9 mg/dL Ferro 39/B µg/dL
+PROTEÏNAS Ferritina 106 ng/mL
+AMINOÀCIDS, VITAMINES I NUCLEÒTIDS Acid fòlic sèric 10.98 ng/mL
+HEMOSTÀSIA GENERAL: Temps de protrombina 100.0% Temps de protrombina 11.0 seg Temps de protrombina, rati 0.92 INR 0.96
+-AL ALTA [**10/08**]
+BIOQUÍMICA GENERAL: PCR <0.40 mg/dL Glucosa 72 mg/dL Creatinina 0.48 mg/dL FG >90* ASAT 116 U/L ALAT 244/A U/L GGT 789 U/L Bilirrubina total 0.3 mg/dL Bilirrubina directa 0.1 mg/dL Bilirrubina indirecta 0.2 mg/dL Fosfatasa alcalina 309 U/L LDH 286 U/L Proteïnes totals 68 g/L Sodio 142 mEq/L Potasio 4.0 mEq/L Calcio 9.7 mg/dL Magnesi1.8 mg/dL
+PROTEÏNES: Albúmina prot. 59.8% Alfa 1 glob. prot. 5.1% Alfa 2 glob.
+prot. 12.8% Beta glob. prot. 12.7% Gamma glob. prot. 9.6% Cocient Albúmina/Globulines sèrum 1.49 Alfa 1 Anti-Tripsina 1.48 g/L Ceruloplasmina sèrum 0.32 g/L
+HEMOGRAMA: Leucòcits 13.54 10^9/L Hematies 3.83 10^12/L Hemoglobina 111/B g/L Hematòcrit 0.350/B L/L VCM 92.7 fl HCM 29.0 pg CCMH 313 g/L CHCM 317 g/L ADE 17.3/A% HDW 26.6 g/L Macròcits 4.2% Micròcits 1.3% Plaquetes 337 10^9/L Volum plaquetari mig 10.2 fl Neutròfils 7.3 10^9/L Eosinòfils 0.2 10^9/L Basòfils 0.1 10^9/L Limfòcits 4.8 10^9/L Monòcits 0.6 10^9/L LUC 0.5 10^9/L
+HEMOSTÀSIA GENERAL: Temps de protrombina 100.0% Temps de protrombina 10.5 seg Temps de protrombina 0.88 Temps de tromboplastina parcial activat 23.4 seg Temps de tromboplastina parcial activat, 0.9 INR 0.92
+VIROLOGIA: IgG antigen core v.hepatitis B Negatiu. IgM antigen core v.hepatitis B Negatiu.RNA v.hepatitis C. Quantitatiu No detectado IgG citomegalovirus (EIA) Positiu IgM citomegalovirus Negatiu
+IMMUNOQUÍMICA: Immunoglobulina IgA en sèrum 1.82 g/L Immunoglobulina IgM en sèrum 0.83 g/L Dosificació IgG en sèrum 6.3/B g/L AUTOIMMUNITAT: Anticossos antinuclears; sèrum Negatiu Anticossos antimitocondrials; sèrum Negatiu Anticossos anticèl·lula parietal gàstric Negatiu Anticossoso antimúscul llis; sèrum Negatiu Anticossos anti-LKM; sèrum Negatiu Ac IgG anti-Ro52 (DotBlot) En curs Ac IgG anti- SLA (DotBlot) En curs Ac IgG anti-LC1(DotBlot) En curs Ac IgG anti-LKM1 (DotBlot) En curs Ac IgG anti-gp-210 (DotBlot) En curs Ac IgG anti-PML (DotBlot) En curs Ac IgG anti-SP100 (DotBlot) En curs Ac IgG anti-3E (BPO) En curs Ac IgG anti-M2 (Dot-Blot) En curs
+*MICROBIOLOGÍA
+- Ag. Legionella y Ag. Pneumococo ([**30/6**]): negativos
+- Galactomanano aspergillus ([**8/7**] y [**15/7**]): negativo
+- Detecció molecular, virus Covid-19 ([**31/07**]): Indetectable
+- Urinocultivo ([**08/05**]): flora mixta
+- Esput ([**06/08**]): flora habitual o sapròfita
+*TAC PULMONAR ([**03/08/2019**]): Vía central yugular derecho con extremo en unión en vena cava superior. No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Estructuras mediastínicas sin alteraciones significativas. No se observa derrame pleural ni pericárdico. Escasa afectación en vidrio deslustrado periférica bilateral en relación a infección por COVID19. Destaca la reticulación subpleural difusa bilateral y distorsión parenquimatosa asociada a muy leve dilatación bronquial en relación a cambios organizativos. Los hallazgos sugieren evolución de la enfermedad de base.
+*ECOGRAFÍA ABDOMINAL ([**11/08/2019**]): Hígado de tamaño normal con coestructura homogénea. Quiste simple de 22 mm en el segmento VII. No se observan lesiones focales hepáticas sólidas evidentes. Vena porta permeable de calibre normal y flujo hepatopetal. Vesícula biliar normodistendida y de paredes finas, con abundante barro biliar en su interior. Vía biliar no dilatada. Páncreas parcialmente visualizado (cuerpo) sin alteraciones evidentes. Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. No se observa líquido libre intraabdominal.
+*INTERCONSULTA REHABILITACIÓN
+Paciente ingresada por neumonía bilateral por POR SARS-COV2 [+ SOBREINFECCIÓN POR NEUMOCOCO].
+.
+Fecha de inicio de los síntomas: [**12/6**] Fecha de ingreso: [**25/6**] [**H Virgen del Carmen**], [**30/6**] ([**H.Isabel II**]) Fecha de [**frotis:*26/02**] Positivo ([**HOSPITAL MONTSERRAT**]) * [**31/07**]: negativo Fecha de inicio tratamiento: [**26/6**] Fecha intubación: [**26/06/19**] Fecha de traqueostomía: [**06/07/19**] Fecha de extubación: [**17/4/19**] cierre de traqueostomía Asoicia miopatía del enfermo crítico con buena evolución. Actualmente ingresada en [**Centro COVID**]. Desde el punto de vista de rehabilitación paciente de "perfil A" según protocolo, tributaria de continuar tratamiento de fisioterapia con los objetivos de estimulación cogni
+ 

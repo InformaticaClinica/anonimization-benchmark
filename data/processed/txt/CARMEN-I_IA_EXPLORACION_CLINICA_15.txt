@@ -1,0 +1,19 @@
+
+13/10/2012-11:30:00: PAS (mm Hg) 164, PAD (mm Hg) 86, Pulsioximetría (%) 96, Tª axilar (ºC) 36.4. 13/10/2012-13:30:00 : Glicemia capilar (mg/dl)
+130. 14/10/2012-00:00:00 : Frecuencia respiratoria (rpm) 18.
+BEG. Normohidratado y normocoloreado. Bien perfundido.
+PIEL Y MUCOSAS: Boca sin úlceras, placas ni otras lesiones, Faringe eritematosa sin exudados amigdalares. No adenopatías palpables a nivel cervical, supraclavicular, axilar ni inguinal. Lesiones cutáneas eritematosas en dorso de mano derecha y región anterior de brazo izquierdo. Son <1cm no sobreelevadas, no dolorosas a la palpación.
+CARD: tonos rítmicos sin soplos. No IY. No RHY. No edemas en EEII.
+Pulsos pedios bilaterales y simétricos.
+RESP: MVB sin ruidos patológicos.
+ABD: blando, depresible, no doloroso a la palpación. Sin signos de peritonismo.
+MRL: consciente y orientado. No signos meníngeos. No signos de focalidad neurológica.
+*EXPLORACIÓN FISICA EN SALA DE HOSPITALIZACIÓN:
+PIEL: Normocoloreado y normohidratado. Llenado capilar conservado. No palpo adenopatías cervicales, ni axilares, ni inguinales. Lesiones eritematosas en dorso de mano <1cm y antebrazo derecho, sin signos inflamatorios, no dolorosas, sin secreciones.
+ORL: Orofaringe eritematosa, sin hipertrofias ni exudados amigdalares, sin aftas, ni muguet.
+CARDIO: Hemodinamicamente estable. Tonos rítmicos, sin soplos. No edema en extremidades inferiores. No signos de trombosis venosa profunda.
+Pulsos periféricos presentes y simétricos. No ingurgitacion yugular, no reflujo hepatoyugular.
+RESPI: Eupneico en reposo, con SatO2 correctas sin requerimientos de oxigenoterapia. Murmullo vesicular conservado, sin ruidos sobreañadidos.
+ABDOMEN: Blando y depresible, no doloroso a la palpación. No se aprecian masas ni visceromegalias. Ruidos peristalticos presentes. Sin peritonismo. Puñopercusión lumbar negativa.
+NEURO: Consciente y orientado en las 3 esferas. Pares craneales conservados. Moviliza las cuatro extremidades. Fuerza y sensibilidad conservada y simetricas. Dorsiflexión de pie izquierdo disminuida (ya conocido). No signos de irritación meníngea. Reflejos osteotendinosos presentes y simétricos. Romberg negativo. Marcha en tandem conservada. Lenguage normofluente. No dismetrías. No flapping. No se aprecia focalidad neurológica.
+ 

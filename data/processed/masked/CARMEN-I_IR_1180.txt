@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Mujer**] de [**83 años**] con diagnostico de Neumonitis por hipersensibilidad con progresión de EPId en [**12/2016**] en forma de NINE para lo cual estábamos en tto con MYF a dosis plenas que ingresa por clinica respiratoria, progresión de afectacion pulmonar intersticial en placa y PCR COVID +.
+Solicitamos valoracion con TCAR para definir mejor la afectacion pulmonar. Muchas gracias
+
+protocolo:
+TC TORAX ALTA RESOLUCION sin administración de contraste e.v.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad (32 mm). Aurícula izquierda dilatada.
+Dilatación esofágica. No se observa derrame pleural ni pericárdico.
+Parénquima pulmonar basalmente patologico con presencia de vidrio deslustrado, engrosamiento de septos interlobulillares, reticulación con presencia de bronquiectasias por tracción y zonas sospechosas de atrapamoento áereo, todo ello en relación a su neumonitis por hipersensibilidad con fibrosis de base.
+En comparación con el previo de [**Marzo de 2015**] existe un ténue aumento del componente de vidrio deslustrado. Es díficil de establecer si esto se debe a un componente de neumonía por COVID-19 o a progresión de su proceso de base, a evaluar una vez resuelto el episodio agudo.
+Moderada hernia de hiato que contiene a fundus. Pequeñas hernias de Bochdalek bilaterales. Puente oseo en tercio medio de 5º y 6º costillas derechas. Cortes de hemiabdomen superior sin otros hallazgos de interes.
+
+conclusiones:
+Parenquima pulmonar con hallazgos coherentes con neumonitis por hipersensibilidad con fibrosis de base conocida. Ténue aumento del componente de vidrio deslustrado. Es díficil de establecer si esto se debe a un componente de neumonía por COVID-19 sobreañadido o a progresión de su proceso de base, a evaluar una vez resuelto el episodio agudo.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente [**varón**] de [**60 años**] ingresado desde ayer a sala COVID ([**p567**]), tras haber estado ingresado en la UCI 6 día por neumonía por SARS-COV2.
+Inicio síntomas. [**9/09**]. PCR [**15/09**].
+Ingreso UCI: [**15/09**].
+Tto COVID. Dexametasona, 1 dosis Tocilizumab, Baricitinib, Remdesivir, Anakinra. Enoxaparina dosis ampliadas.
+Dado que se trata de una neumonía grave que ha precisado ingreso en UCI y altos requerimientos de oxigenoterapia, agradeceríamos realización de angioTAC.
+NEUMONÍA BILATERAL POR COVID
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+Se compara con estudios previos, última RX del [**21/09/2012**]
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la pulmonar de calibre normal. No se observan signos de sobrecarga derecha.
+Vía central con extremo distal en VCS.
+Estructuras mediastínicas de aspecto normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Afectación parenquimatosa en forma de opacidades en vidrio deslustrado bilaterales y multilobares de predominio periférico. Asocia pequeñas opacidades consolidativas en segmentos posterobasales de ambos LLII y algunas dilataciones bronquiales. Atelectasias laminares en ambas bases pulmonares. Hallazgos en relación a neumonía bilateral por COVID-19 sin signos de organización que, respecto a RXs previas, muestra mejoría radiológica.
+Pequeña hernia de hiato. Estructuras del hemiabdomen superior sin hallazgos patológicos relevantes.
+
+conclusiones:
+- Sin signos de TEP.
+- Hallazgos en relación a neumonía bilateral por  COVID-19 sin signos de organización. Respecto a RXs previas, muestra mejoría radiológica.
+
+descrip:
+ANGIO TC PULMONAR

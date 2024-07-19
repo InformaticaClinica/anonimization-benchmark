@@ -1,0 +1,42 @@
+
+* NOTA DE TRASLLAT DE LA J119 A SALA CONVENCIONAL
+1. OCLUSIÓ INTESTINAL. IQ 01/08/2025: RESECCIÓ ANASTOMOSIS PREVIA + RECONFECCIÓ LT, MALLA DE SUBSTITUCIÓ A APONEUROSI POSTERIOR.
+# NPT inicio 29/7/2025
+2. INFECCIÓ PER SARS-CoV-2 + BRONQUIOLITIS INFECCIOSA *Fecha inicio de síntomas: asintomática
+*Fecha de frotis positivo: 15/7/2025
+*Tratamiento finalizado: HDQ inicio 8/5/2025 - 10/8/2025, Azitromicina8/5/2025 - 10/8/2025, No kaletra per patologia abdominal.
+3. SAGNAT ARTÈRIA EPIGÀSTRICA 4/8/2025 -> embolització 4/8/2025
+4. HEMATOMA DE LA VAINA DEL RECTE ANTERIOR DRET
+5. SHOCK SÈPTIC DE PROBABLE FOCUS ABDOMINAL + HIPOVOLÈMIC SECUNDARI A 3
+Tt actual: Meropenem 5/08 (dia 7), Linezolid 4/08 (día 8), Anidalafungina 7/08 (dia 5), Enoxaparina profilàctica 40mg/24h
+Pacient de 62 anys sense antecedents rellevants, independent per a ABVD, que el 18/5/2025 arrel d'una histeroscòpia electiva realitzada per pòlip endometrial presenta perforació uterina i intestinal jejunal i ileal que requereix de resecció de zones perforades i anastòmosi L-T. Com a consequència es complica amb col·leccions perihepàtiques (amb aïllament de C albicans i C tropicalis) drenada i tractada amb antibiòtic amb pràctica resolució en darreres proves d'imatge. A banda fístula enterocutània sense dèbit, resolta.
+Consulta el 15/7/2025 per quadre de suboclusió intestinal, tractat de forma conservadora. No obstant, en aquest moment es realitza frotis de COVID-19, que resulta positiu, així com TC de tòrax prequirúrgic (tot i que finalment es tracta conservadorament), que no mostra infiltrats ni altres alteracions compatibles amb COVID-19. Alta el 21/07/2025, sense tractament específic.
+Ingressa ara el 27/4/2025 per oclusió intestinal per aplastronament d'anastòmosi i que requereix d'intervenció quirúrgica per laparotomia el 2/8/2025 amb resecció intestinal (en torn a 15 cm d'intestí prim) i col· locació de malla per imposibilitat de tancament total de paret posterior. Inici de NPT el 29/7/2025, retirada de SNG el 3/8/2025. Des de postoperatori immediat, presenta deteriorament clínic amb febre de fins a 38oC, fins que el 4/8/2025 inicia quadre de taquicàrdia, desaturació amb necessitat de FiO2 60% i hipotensió. Es realitza en aquest moment angioTC abdominal que únicament evidencia signes compatibles amb enteritis postobstructiva i col·lecció postquirúrgica de 5 x 2 cm. No obstant, es realitza angioTC pulmonar per descartar TEP que constata opacitats bilaterals en vidre desllustrat compatibles amb COVID19, així com signes de bronquiolitis infecciosa suggestiu de sobreinfecció bacteriana. Es realitza frotis de COVID19 el 04/08, que resulta negatiu.
+Hores més tard, presenta inestabilitat hemodinàmica marcada amb augment del dèbit pel drenatge, francament hemàtic i caiguda de l'Hb de fins a 6.7. A banda, PCR 27.8 (3.6), Cr 0.24, AST/ALT 43/45, GGT 158, LDH 217, Na 133, K 4.2, PCT 0.45. DD 1800, neutros 7700, limfos 1200. Es realitza angioTC que evidencia hematoma de recte anterior dret 11x6x14 en context de sagnat d'artèria epigàstrica, que s'embolitza. Posteriorment es trasllada a J119.
+Durant la seva estada a Intermitjos, ha requerit de sueroteràpia, transfusió de 4 hemoconcentrats d'hematies així com suport vasoactiu per mantenir tensions arterials correctes. Posteriorment a l'embolització s'ha pogut disminuir paulatinament la noradrenalina (x2) fins a retirar- se el dia 9/08. Ha mantingut Hb enorn a 8g/dl, sense nous episodis de sagnat. Últim TC abdominal 07/08 confirma l'estabilitat de l'hematoma sense nous punts de sagnat actiu. S'ha reintroduit enoxaparina profilàctica sense incidències.
+Funció renal normal. Diuresi preservada.
+Amb la recuperació hemodinàmica, s'ha pogut descendir de manera progressiva l'oxigen fins mantenir bona SatO2 sense requeriments d'O2.
+Per la part infecciosa, s'ha mantingut tractament amb Meropenem, Linezolid i Anidulafungina d'acord amb l'aillament en líquid peritoneal i de la ferida quirúrgica d'E.Coli BLEA, E.faecium, C.albicans i tropicalis, sensibles al tractament instaurat segons antibiograma.
+Analítica amb reactants de fase aguda en descens: PCR 5mg/dl, sense leucocitosi. Les últimes 48h s'ha evidenciat febrícula de fins a 37.5oC sense focus evident pel que s'ha decidit retirar PICC (via des de l'inici de l'ingrés) i deixar amb via central jugular de fa 1 setmana.
+Revisada ferida quirúrgica per part de CGI refereixen bon aspecte i seguir amb la mateixa pauta de cures. No signes d'evisceració ara per ara. Drenatge peritoneal 15ml en 24h de coloració fosca. Pendent bilirrubina solicitada per CGI.
+A nivell abdominal sense dolor. Tolera ingesta oral pel que s'ha reduit nutrició parenteral. Analítica amb alteració del perfil hepàtic amb colestasi dissociada en descens. Ha realitzat una deposició diarreica amb T. difficile negativa. Tolera sedestació.
+Degut a la milloria clínica, sense precisar monitorització, es decideix trasllat a una sala convencional per a continuar amb l'evolució.
+    
+* SALA DE HOSPITALIZACIÓN DE CIRUGÍA
+Se trata de paciente con antecedentes de perforación intestinal iatrogénica durante histeroscopia, que requirió cirugía urgente por peritonitis fecaloidea de cuatro cuadrantes, realizándose 2 resecciones intestinales con anastomosis LL. La paciente presentó postoperatorio prolongado con ileo paralítico persistente, dándose de alta sin incidencias.
+Posteriormente ha presentado múltiples cuadros suboclusivos que han requerido ingreso hospitalario y manejo conservador. Ingresa ahora desde urgencias por nuevo episodio de suboclusión intestinal. Teniendo en cuenta reincidencia del cuadro, se decide revisón quirúrgica el 01/08/2025. Se realiza resección de anastomosis previa y confección de nueva anastomosis, presentando como complicación en postoperatorio mediato un hematoma de la vaina de los rectos, que precisó embolización de arteria epigástrica derecha. En vista de la gravedad del cuadro es trasladada a cuidados intermedios de la Z897 (VER NOTA DE EVOLUCIÓN).
+Tras una evolución favorable aunque de evolución lenta, es posible reintroducir dieta oral con tolerancia adecuada. A nivel abdominal presenta dehiscencia de la herida quirúrgica con drenaje espontáneo de hematoma, siendo tratada con curas tópicas diarias.
+Se realiza TAC abdominopélvico de control el 24/08:
+Cambios postquirúrgicos por resección intestinal con dos suturas metálicas latero-terminales ileales. No se observa líquido libre ni colecciones en la vecindad de las anastomosis mencionadas. Drenaje quirúrgico con entrada en FID con un trayecto que discurre por el interior del hematoma derecho y con extremo distal en vació izquierdo adyacente a la pared abdominal y sutura quirurgica.
+Disminución del tamaño del hematoma de la vaina de los rectos izquierdo, actual de 19 x 78 mm ( TC previo24x91x115mm ) previo. Este presenta material de embolización y burbujas de aire en el seno del mismo.
+Disminucion de tamaño de la colección adyacente al ángulo hepático de 22 x 13 mm ( TC previo 33x 17 mm)
+Casi desaparición de la colección fusiforme en pared abdominal derecha Coleccion de gasa en en la sutura de la linea media en la pared abdominal. Ulceración en tejido subcutáneo periumbilical.
+Resto sin cambios.
+La paciente se mantiene con tratamiento con VAC para su evisceración contenida. Posteriormente, se realiza nuevo TAC de control el 03.08.2025 en la que se evidencia práctica resolución del hematoma.
+La paciente permanece hemodinámicamente estable y afebril, sin dolor abdominal, con evolución correcta de la herida quirúrgica. Se retira drenaje intraabdominal por débito escaso.
+Analíticamente muestra mejoría de reactantes de fase aguda, con leucocitos normales y hemoglobina mantenida.
+Ante la buena evolución de la herida se decide retirar terapia VAC y mantener curas tópicas cada 24h ambulatorias hasta resolución.
+Ante la correcta evolución clínica, se procede a dar alta hospitalaria a día de hoy.
+    
+.
+    

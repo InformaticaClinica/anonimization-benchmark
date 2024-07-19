@@ -1,0 +1,16 @@
+
+prueba:
+PARED ABDOMINAL (ESPECIFICAR LOCLIZACION )
+
+clinica:
+Paciente con antecedente de hernia umbilical complicada que requirio hernioplastia con malla el [**26.08**]. Actualmente ingresada por colangitis y colecistitis biliar cronificada, sin embargo comienza con dolor en zona de hernioplastia junto con zona indurada a la palpación. Se solicita ecografía de pared abdominal en zona umbilical.
+
+protocolo:
+ECOGRAFÍA DE PARED ABDOMINAL ANTERIOR
+
+conclusiones:
+*OBSERVACIONES: Estudio ecográfico no realizado (paciente en aislamiento y con TC reciente que permite la valoración de esta zona).
+La paciente se realizó un TC abdominal el [**1/11/2014**] en el que se observa cambios post-quirúrgicos (fibrosis) subcutánea por colocación de malla periumbilical, observándose una fina lámina de líquido en la zona de la malla (afecta a una superficie de 5.7 x 1.3 cm pero con un grosor máximo de 5 mm). Existe también un leve engrosamiento cutáneo periumbilical, pudiendo corresponder a infección de la malla asociada a celulitis periumbilical leve, a correlacionar con exploración física. El líquido laminar identificado es demasiado escaso para drenaje percutáneo y parece exteriorizarse por el ombligo de dónde podría obtenerse un frotis para análisis de ser preciso.
+
+descrip:
+PARED ABDOMINAL (ESPECIFICAR LOCLIZACION)

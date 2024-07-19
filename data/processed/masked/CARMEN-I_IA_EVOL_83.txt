@@ -1,0 +1,43 @@
+
+   
+** EVOLUCIÓN EN [**Clinica COVID**]**
+1. NEUMONÍA BILATERAL POR PROBABLE SARS-CoV-2. TECHO TERAPÉUTICO GRADO I (SCORE 2).
+--
+Fecha inicio síntomas: [**20/10/2018**]
+Fecha ingreso sala convencional: [**29/10/2018**]
+Fecha de ingreso intermedios: [**02/11/2018**]
+Fecha frotis positivo: no realizado.
+Fecha ingreso [**Clinica COVID**]: [**14/11/2018**]
+Fecha fin aislamiento: [**10/11/2018**]
+--
+Medicación COVID:
+- Kaletra: inicio [**29/10**] - fin [**11/04**]
+- Hidroxicloroquina: inicio [**30/10**] - fin [**02/11**]
+- Azitromicina: inicio [**30/10**] - fin [**02/11**]
+- Tocilizumab 1 dosis: [**30/10**]
+- Ceftriaxona + Teicoplanina: inicio [**02/11**] - [**7/11**]
+- Metilprednisolona EV 250 mg/24h: inicio [**02/11**] - [**04/12**]
+--
+Oxigenoterapia durante ingreso: LAF a 60%/50L.
+Oxigenoterapia en [**Clinica COVID**]: LN 2L.
+--
+Analítica alta [**Hospital Marítimo de La Isla**]/ingreso [**Clinica COVID**]: PCR<0.40, AST/ALT 49/80, GGT 73, LDH 336, Ferritina, 688, Leu 6240/L, Neutro 4300/L, Linf 1200/L, D-Dímero 1000.
+--
+ECG: RS 85x', QTc 415 ms. No alteraciones de la repolarización
+--
+Rx tórax [**10/11**]: Opacidades alveolares bilaterales de predominio periférico sugestivo de afectación pulmonar por COVID que sin cambios significativos con respecto a control previo de [**9/11/2018**].
+TC tórax [**11/11**]: Imágenes compatibles con neumonia COVID sin imágenes radiológicas de neumonía organizativa.
+--
+[**Mujer**] de [**70 años**], sin alergias medicamentosas conocidas, independiente para las ABVD y con antecedente de HTA en tratamiento que ingresa para retirada gradual de oxigenoterapia (VMK al 24%) tras ingreso en H.
+[**Hosp Santa Eulalia**] por neumonía bilateral por probable covid.
+A su llegada a [**Clinica COVID**], se pauta medicación habitual indicada al alta (Omeprazol 20mg/24h, Ipratropio inh 2inh/8h, Enoxaparina 60mg/24h, Alprazolam 0.25mg/24h, Acetilcisteina 200mg/8h). Presenta SatO2 LN 2L 95%, TA 134/89, Tª 36.8ºC.
+Durante su ingreso en [**Clinica COVID**] la paciente presenta se mantiene afebril y hemodinamicamente estable.
+En la evolución analítica destaca una ligera elevación de los parámetros de perfil hepático, con posterior mejoría. También presentó leve neutropenia (mínimos de 1.2 10^9/L). Se cita para control de la neutropenia en CCEE con el Dr. [**Aiara**] una semana después del alta ( se entragan citas ).
+Radiológicamente destaca una disminución de los infiltrados pulmonares.
+Dada la mejoría de las saturaciones de oxígeno se intenta retirada de la oxigenoterapia intermitente con buena tolerancia. Mantiene saturaciones basales a medias del 95%.
+Durante el ingreso presenta algunos episodios de estreñimiento que mejoran con Movicol.
+El día [**27/11/18**] refiere un dolor retroesternal de 1 hora de duración, de características opresivas, no irradiado, sin vegetatismo en reposo, que no aumenta con la movilización, ni con la inspiración ni tampoco a la palpación. Se realiza un electrocardiograma que no detecta alteraciones y troponinas en curva negativas, lo que descarta un probable origen coronario del dolor.
+Dada la buena evolución clinica, habiendo cumplido el periodo de aislamiento se decide el alta del [**Clinica COVID**]
+Se le indica signos de alarma para reconsulta inmediata a urgencias
+Se le recomienda seguimiento por su medico de CAP
+   

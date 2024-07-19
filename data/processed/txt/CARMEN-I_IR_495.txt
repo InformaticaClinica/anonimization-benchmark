@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN POR COVID-19
+
+protocolo:
+Rx portátil torácica. Se compara con previa del 27/11/2013.
+
+resultados:
+Comparativamente, se aprecia mejoría radiológica de las opacidades de predominio en campo pulmonar inferior izquierdo.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

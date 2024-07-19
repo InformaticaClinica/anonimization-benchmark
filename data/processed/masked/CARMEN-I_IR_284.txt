@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Infección por COVID-19
+
+protocolo:
+RX de tórax portátil. Se compara con RX del [**3/04/2025**].
+
+conclusiones:
+Tènues opacitats alveolointersticials al camp mig dret i ambdos camps inferiors, sense imatges de consolidacions.
+Elongació aórtica.
+
+descrip:
+RX  PORTATIL  TORAX

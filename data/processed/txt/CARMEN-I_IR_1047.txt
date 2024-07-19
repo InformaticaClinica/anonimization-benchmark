@@ -1,0 +1,27 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Mujer de 68 años, con ingreso prolongado por neumonía con Covid.
+Imposibilidad de progresar en el weaning por deterioro del nivel de conciencia, por lo que se realiza TC craneal que objetiva área hipodensa en región parieto-occipital izquierda, que tras la administración de contraste se identifica una lesión cortico-subcortical con márgenes irregulares, captación en anillo y diámetro máximo de 25 x 35 mm. Leve edema perilesional asociado sin efecto masa destacable. Los hallazgos descritos son sugestivos de neoplasia cerebral primaria sin poder descartar posible M1.
+Interesa RMN cerebral para completar estudio. Gracias.
+COVID 19
+
+protocolo:
+RM craneal Exploración RM craneal multiplanar con secuencias potenciadas en T2 , T1,GE-T2, FLAIR y DWI.Se repiten secuencias potenciadas en T1 tras la administracion de contraste.
+
+resultados:
+Lesión  parietooccipital izquierda con centro hiperintenso en secuencias potenciadas en T1 con  captación periférica de contraste de aproximadamente 30 x 18 mm de diámetros transversos máximos y que presenta focos hipointensos en las secuencias de SWI en su interior, traduciendo la presencia de restos hemáticos.Se asociada moderada alteración de la señal en la sustancia blanca adyacente que se extiende hasta el atrio del ventrículo lateral homolateral compatible con edema vasogénico. Todo ello condiciona discreto efecto de masa con borramiento parcial de los surcos corticales adyacentes.
+Foco de alteración de la señal a nivel de las sustancia blanca yuxtacortical temporal  izquierda, hipercaptante de contraste de 5 mm de diámetro máximo sin edema vasogénico asociado.
+Foco de alteración de la señal a nivel de sustancia blanca yuxtaventricular frontal posterior derecha de 3 mm de diámetro máximo, hipercaptante de contraste, sin edema vasogénico asociado.
+Mínimo foco hipercaptante de contraste de 3 mm en la sustancia blanca yuxtacortical parietal derecha sin edema vasogénico asociado.
+Alguno de los focos descritos presentan alteracion de la señal en DWI.
+Moderados signos de leucoaraiosis.
+Discreta prominencia de espacios subaracnoideos y del sistema ventricular en relación con cambios involutivos crónicos.
+
+conclusiones:
+Los hallazgos descritos son sugestivos de traducir la existencia de abscesos cerebrales, de probable  origen embolico. Valorar clinicamente la posibilidad de una endocarditis.
+
+descrip:
+RM CEREBRAL

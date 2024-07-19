@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID-19
+
+protocolo:
+RX tòrax anteroposterior portàtil.
+
+conclusiones:
+L´exploració es compara amb la realitzada el 25/02/2013.
+Persisteixen canvis fibrotics pleuropulmonars biapicals, sense canvis.
+Asimetria de densitat de parènquima pulmonar per mastectomia dreta i placa rotada.
+No evidenciem opacitats pulmonars suggestives de COVID19 ni canvis respecte estudi previ.
+
+descrip:
+RX  PORTATIL  TORAX

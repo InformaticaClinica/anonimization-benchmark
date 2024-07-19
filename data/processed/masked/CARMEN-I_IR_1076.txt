@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Control ictus ACMD +transformacion hemorragica post- TM.
+Ictus ACMD
+
+protocolo:
+TC craneal basal urgente
+
+resultados:
+Se compara con TC previa de [**22/1/2016**].
+Leve diminución de la extensión y densidad de las imágenes hiperdensas en cisura de Silvio y surcos de la convexidad fronto-parietal derecha.
+Aumento de la extensión del infarto en territorio superficical y profundo de la ACMd respecto al estudio previo, con mayor hipodensidad de territorio afecto en relación a infarto instaurado.
+Persiste la leve rectificación del asta lateral derecha ya presente en estudio previo, sin desviación de las estructuras de la línea media ni ocupación de las cisternas basales.
+Resto de la exploración, sin cambios significativos.
+
+conclusiones:
+.
+
+descrip:
+TC CEREBRAL

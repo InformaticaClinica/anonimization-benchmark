@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Hombre**] de [**83 a**] con antecedentes de HTA, HBP. Ingresado por neumonía bilateral por COVID-19. Soporte respiratorio con LAF a 70/50L min con PAFI 90-100. Emperoamiento en las últimas 24h, DD en ascenso de 400 a
+12500. Descartar TEP.
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+Angio-TC pulmonar urgente
+
+resultados:
+Se identifica defecto de repleción en el origen de la arteria segmentaria lateral del LM, compatible con TEP segmentario agudo.
+Tronco de la arteria pulmonar dilatado de 33 mm con marcada dilatación de las arterias pulmonares principales (derecha de 38 mm, izquierda de 32 mm), sugestivo de hipertensión pulmonar. Leve dilatación de cavidades cardiacas derechas con ligera rectificación del tabique interventricular, en relación a signos de sobrecarga cardiaca derecha.
+Dilatación auricular izquierda.
+Arterias bronquiales hipertróficas.
+Aorta torácica ascendente ectásica (39 mm). Calcificaciones coronarias.
+Múltiples adenopatías mediastínicas de pequeño tamaño de localización paratraqueal bilateral, la mayor izquierda de 10 mm y prevasculares infracentimétricas, indeterminadas. Adenopatía supraclavicular derecha de 9 mm, indeterminada. Adenopatía calcificadas hiliares derechas.
+Ausencia de derrame pleural.
+Enfisema pulmonar de predominio paraseptal en LLSS con presencia de bullas apicales bilaterales.
+Extensas áreas en vidrio deslustrado bilaterales de distribución periférica y peribroncovascular con tendencia a la consolidación subpleural en LLSS. No se observan imágenes de neumonía organizativa en el estudio actual. Los hallazgos descritos corresponden a neumonía bilateral por COVID-19 en evolución.
+Atelectasia subsegmentaria posterobasal en el LII.
+Sin alteraciones valorables en los cortes de abdomen superior incluidos en el estudio.
+
+conclusiones:
+TEP segmentario agudo en la arteria segmentaria lateral del LM. Signos de hipertensión pulmonar. Leve dilatación de cavidades cardiacas derechas.
+Hallazgos radiológicos en relación a neumonía bilateral por COVID-19 en evolución de las características descritas. No se observan imágenes de neumonía organizativa en el estudio actual. Enfisema pulmonar.
+Adenopatías mediastínicas y supraclavicular derecha, indeterminadas.
+
+descrip:
+ANGIO TC PULMONAR
