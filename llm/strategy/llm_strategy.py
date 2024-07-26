@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 class LLMStrategy(ABC):
     def __init__(self):
         self._temperature = 0.1
-        self._max_gen_len = 2000
+        self._max_gen_len = 2048
         self._top_p = 0.9
 
     @abstractmethod
