@@ -9,9 +9,6 @@ class SmallLlamaModel(LLMStrategy):
         self._model_id = "meta.llama3-8b-instruct-v1:0"
         self._client = boto3.client(service_name='bedrock-runtime', region_name='eu-west-2')
         self._prompt_handler = Llama3PromptHandler()
-        self._temperature = 0.1
-        self._max_gen_len = 2000
-        self._top_p = 0.9
 
     def create_body(self, prompt: str) -> str:
         return json.dumps({
