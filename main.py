@@ -1,8 +1,11 @@
-# MODELS
+# Models
 from llm import LLMContext
-from llm import BigLlamaModel, BigLlama3_1Model, SmallLlamaModel, BigMistralModel
-from llm import Haiku3Model, Sonet3Model, OpusModel, Sonet3_5Model
+from llm import BigLlamaModel, BigLlama3_1Model, ChatGPTModel
+from llm import Haiku3Model, Sonet3Model, OpusModel
+from llm import BigMistralModel, Sonet3_5Model, SmallLlamaModel
 import os
+
+
 
 def anonimized_loop(llm, name_model, data):
     counter = 0
@@ -14,7 +17,6 @@ def anonimized_loop(llm, name_model, data):
 
 def main():
     print("Hello world")
-
 
 if __name__ == "__main__":
     main()

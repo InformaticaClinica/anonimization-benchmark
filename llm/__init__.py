@@ -7,9 +7,11 @@ from .strategy.haiku3_model import Haiku3Model
 from .strategy.sonet3_model import Sonet3Model
 from .strategy.opus3_model import OpusModel
 from .strategy.sonet3_5_model import Sonet3_5Model
+from .strategy.chatgpt_model import ChatGPTModel
 
 __all__ = [
     "LLMContext",
+    "ChatGPTModel",
     "BigLlamaModel",
     "BigLlama3_1Model",
     "SmallLlamaModel",
