@@ -1,3 +1,6 @@
 data/*
 .DS_Store
 \__MACOSX
+.env
+__pycache__/
+*.pyc
