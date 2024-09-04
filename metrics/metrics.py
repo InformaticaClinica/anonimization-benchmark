@@ -8,7 +8,6 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-warnings.filterwarnings("ignore", message="\[W008\] Evaluating Doc.similarity based on empty vectors")
 
 class Metrics:
     def __init__(self, name_model = "Unassigned"):
@@ -106,7 +105,7 @@ class Metrics:
         # Determinar falsos positivos
         predicted_matches = np.any(matches, axis=0)
         false_positives = len(predictions) - np.sum(predicted_matches)
-        
+
         # Determinar verdaderos negativos
         true_negatives = None
         return true_positives, true_negatives, false_positives, false_negatives
