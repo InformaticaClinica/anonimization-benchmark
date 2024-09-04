@@ -13,6 +13,7 @@ The LLMContext interface has been designed using the Strategy design pattern. Th
 To use the LLMContext interface, simply instantiate it with a specific language model (llm). You can then generate a response by calling the generate_response method with the desired input data:
 
 > context = LLMContext(llm)
+
 > text_generated = context.generate_response(data)
 
 ### Handling Design Pattern
@@ -30,6 +31,7 @@ To initialize the Metrics class, you need to provide the name of the model:
 ### Public functions
 The Metrics class includes several public functions for calculating performance metrics:
 > metrics.calculate(ground_truth, text_generated)
+
 This method is responsible for calculating the following metrics:
 - Precision: The ratio of correctly predicted positive observations to the total predicted positives.
 - Recall: The ratio of correctly predicted positive observations to all actual positives.
