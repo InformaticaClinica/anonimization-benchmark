@@ -65,15 +65,23 @@ class Metrics:
     def get_cos_sim(self, text_hoped, text_generated):
         vectorizer = TfidfVectorizer(token_pattern=r"(?u)\b\w[\w\-/]*\b")
         tfidf_matrix = vectorizer.fit_transform([text_hoped, text_generated])
-
         try:
             cosine_sim = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])
             self._metrics_data["cosine_sim"] = cosine_sim[0][0]
         except: 
             self._metrics_data["cosine_sim"] = 0.0
         return self._metrics_data["cosine_sim"]
+
+    def get_precison(self, true_positives, false_positives):
+        self._metrics_data["precision"] = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
+
+    def get_recall(self, true_positives, false_negatives):
+        self._metrics_data["recall"] = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
     
-    def calc_metrics(self, ground_truth, predictions):
+    def get_f1(self, precision, recall):
+        self._metrics_data["f1"] = 2 * (precision * recall) / (precision + recall)
+
+    def get_classification_metrics(self, ground_truth, predictions):
         # Convertir arrays de ground_truth y predictions a listas de str
         ground_truth_processed = np.array([self.erase_adverbs_determinants(str(item)) for item in ground_truth])
         predictions_processed = np.array([self.erase_adverbs_determinants(str(item)) for item in predictions])
@@ -98,22 +106,28 @@ class Metrics:
         # Determinar falsos positivos
         predicted_matches = np.any(matches, axis=0)
         false_positives = len(predictions) - np.sum(predicted_matches)
-    
-        # Cálculo de métricas
-        precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0
-        recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0
-        f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
-        return [precision, recall, f1]
+        
+        # Determinar verdaderos negativos
+        true_negatives = None
+        return true_positives, true_negatives, false_positives, false_negatives
+
+    def calc_metrics(self, ground_truth, predictions):
+        (
+            true_positives,
+            _, 
+            false_positives, 
+            false_negatives 
+        ) = self.get_classification_metrics(ground_truth, predictions)
+
+        self.get_precison(true_positives, false_positives)
+        self.get_recall(true_positives, false_negatives)
+        self.get_f1(self._metrics_data["precision"], self._metrics_data["recall"])
 
     def evaluate(self, masked, generated):
         ground_truth = re.findall(r'\[\*\*(.*?)\*\*\]', masked)
         predictions = re.findall(r'\[\*\*(.*?)\*\*\]', generated)
         self._metrics_data["labels"] = [ground_truth, predictions]
-        (
-            self._metrics_data["precision"], 
-            self._metrics_data["recall"], 
-            self._metrics_data["f1"]
-        ) = self.calc_metrics(ground_truth, predictions)
+        self.calc_metrics(ground_truth, predictions) # Calculates precision, recall, f1
 
     def calculate_inv_levenshtein(self):
         if int(self._metrics_data["levenshtein_distance"]) == 0:
@@ -144,6 +158,9 @@ class Metrics:
             "inv_levenshtein":      None,
             "overall":              None,
         }
+
+    def get_metrics(self):
+        return self._metrics_data
 
     def save_metrics(self):
         df = pd.DataFrame(self._list_metrics)
