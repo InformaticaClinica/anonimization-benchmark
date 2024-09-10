@@ -3,7 +3,7 @@ from llm import LLMContext
 from llm import BigLlamaModel, BigLlama3_1Model
 from llm import Haiku3Model, Sonet3Model, OpusModel
 from llm import BigMistralModel, Sonet3_5Model, SmallLlamaModel
-from llm import ChatGPTModel
+from llm import ChatGPTModel, ChatGPTminiModel
 from metrics import Metrics
 import os
 
