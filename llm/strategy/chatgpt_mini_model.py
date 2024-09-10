@@ -12,7 +12,7 @@ class ChatGPTminiModel(LLMStrategy):
         self._client = OpenAI()
         self._prompt_handler = ChatGPTPromptHandler()
 
-    def invoke_model(self, model_ver="gpt-4o", numbers=1, temperature_setting=1.0, messages=[]):
+    def invoke_model(self, model_ver="gpt-4o-mini", numbers=1, temperature_setting=1.0, messages=[]):
         #print(messages)
         response = self._client.chat.completions.create(
             model=model_ver,
