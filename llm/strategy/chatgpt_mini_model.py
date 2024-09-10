@@ -4,7 +4,7 @@ from openai import OpenAI
 from .llm_strategy import LLMStrategy
 from llm.prompt_handling.chatgpt_prompt_handler import ChatGPTPromptHandler
 
-class ChatGPTModel(LLMStrategy):
+class ChatGPTminiModel(LLMStrategy):
     def __init__(self):
         super().__init__()
         #self._apikey = os.getenv("OPENAI_API_KEY")
