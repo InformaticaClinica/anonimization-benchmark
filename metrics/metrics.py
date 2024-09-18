@@ -8,7 +8,6 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
 class Metrics:
     def __init__(self, name_model = "Unassigned"):
         self._nlp = spacy.load("es_core_news_md")
@@ -111,10 +110,9 @@ class Metrics:
 
         return df
 
-
-    def trace_path(matrix, str1, str2):
-        m, n = len(str1), len(str2)
-        i, j = m, n
+    #TODO: Refactorizar
+    def trace_path(self, matrix, str1, str2):
+        i, j= len(str1), len(str2)
 
         deleted = []
         added = []
@@ -142,36 +140,29 @@ class Metrics:
         return deleted[::-1], added[::-1], unchanged[::-1]  # Reverse the lists to have the correct order
 
 
-    def calc_positives_and_negatives(self, ground_truth, predictions):
-        list_of_ground_truth_labels = re.findall(r'\[\*\*(.*?)\*\*\]', ground_truth)
-        list_of_generated_labels = re.findall(r'\[\*\*(.*?)\*\*\]', predictions)
-
+    def calc_positives_and_negatives(self, list_of_ground_truth_labels, list_of_generated_labels):
         # Check if inputs are lists
         if not isinstance(list_of_ground_truth_labels, list) or not isinstance(list_of_generated_labels, list):
             raise TypeError("Both inputs must be lists")
 
         str1 = ' '.join(list_of_ground_truth_labels)
         str2 = ' '.join(list_of_generated_labels)
-
         # Create the distance matrix
         matrix = self.create_distance_matrix(str1, str2)
+
         # Trace the minimum path and get the operations
         added_words, deleted_words, unchanged_words = self.trace_path(matrix, str1.split(' '), str2.split(' '))
-
         FN = len(added_words)
         FP = len(deleted_words)
         TP = len(unchanged_words)
-
         return TP, FP, FN
 
 
     def calc_metrics(self, ground_truth, predictions):
-
         (   true_positives,
-            false_positives, 
-            false_negatives 
+            false_positives,
+            false_negatives
         ) = self.calc_positives_and_negatives(ground_truth, predictions)
-
         self.get_precison(true_positives, false_positives)
         self.get_recall(true_positives, false_negatives)
         self.get_f1(self._metrics_data["precision"], self._metrics_data["recall"])
