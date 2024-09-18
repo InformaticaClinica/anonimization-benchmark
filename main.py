@@ -36,7 +36,6 @@ def anonimized_loop(llm, name_model, data):
     context = LLMContext(llm)
     metrics = Metrics(name_model)
     for filename in sorted(os.listdir(f'{PATH}txt/replaced/')):
-        print(filename)
         metrics.set_filename(filename)
         try:
             data["user"] = read_text(f'{PATH}txt/replaced/{filename}')
