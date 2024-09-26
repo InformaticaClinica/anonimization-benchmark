@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**38**] ingreso previo por neumonia.
+Ingresa por dolor pleurtico, acompañada de palpitaciones.
+En rx derrame pleural derecha , Analitica sin parametros infecciosos.
+Dimero D 1300.
+solicitamos AngioTc
+muchas gracias.
+derrame pleural.
+
+protocolo:
+Se realiza Angio-TC pulmonar URGENTE
+
+conclusiones:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre normal. Aorta ascendente torácica permeable de calibre normal.
+Adenopatía hiliar derecha de 9 mm, inespecífica.
+No se observan otras adenopatías axilares o mediastínicas de tamaño valorable.
+Leve derrame pleural derecho que se extiende a cisura y condiciona atelectasia pasiva subyacente. Atelectasias subsegmentarias en lóbulo inferior derecho.
+Discretas engrosamientos de las paredes bronquiales a nivel bibasal.
+Sin evidencia de derrame pericárdico.
+Prótesis mamarias bilaterales.
+En cortes abdominales no se observan hallazgos patológicos.
+
+descrip:
+ANGIO TC PULMONAR

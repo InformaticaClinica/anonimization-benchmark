@@ -1,0 +1,21 @@
+
+prueba:
+ANGIOGRAFIA CEREBRAL
+
+clinica:
+MAV cerebral frontal derecha operada
+HEMATOMA INTRAPARENQUIMATOSO FRONTAL DER
+
+protocolo:
+Arteriografia cerebral
+
+resultados:
+Bajo anestesia local , mediante la técnica de Seldinger, por punción femoral der con catéter Hinck 5.
+Se cateterizan de forma selectiva los cuatro troncos cerebrales y Se hace un estudio de los carótidas internas, externas y vertebrales, en todas las proyecciones necesarias,sin incidencias.
+En la exploración actual, no apreciamos imágenes de aneurismas o malformaciones vasculares.
+
+conclusiones:
+En la exploración actual, no apreciamos imágenes de aneurismas o malformaciones vasculares.
+
+descrip:
+ANGIOGRAFIA CEREBRAL

@@ -1,0 +1,28 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Mujer**] de [**54 años**] ingresada en AVI por neumonía bilateral por COVID.
+Desde ayer presenta un empeoramiento tanto analítico como radiológico (empeoramiento del infiltrado y condensación vs. atelectasia en campo pulmonar inferior drecho).
+Muchas gracias!
+NUEMONIA COVID+
+
+protocolo:
+TC TORAX URGENTE
+
+resultados:
+Se revisan estudios previos; última RX del [**20**] y [**17/10/2017**].
+Tubo endotraqueal con extremo distal a 2 cm aprox. de carina. CVC yugular derecho con extremo distal en tronco braquiocefálico venoso derecho. Sonda nasogástrica normoposicionada en cámara gástrica (extremo distal no incluido).
+No se observan adenopatías axilares o mediastínicas de tamaño valorable.
+No se evidencia derrame pleural ni pericárdico.
+Afectación parenquimatosa pulmonar bilateral, en forma de opacidades en vidrio deslustrado de distribución peribroncovascular y subpleural, engrosamientos parietales bronquiales y con atelectasia de la práctica totalidad de los LLII. No se pueden valorar la presencia de focos neumónicos dado que no se ha administrado contraste ev. Los hallazgos son compatibles con proceso neumónico bilateral por COVID-19, sin cambios organizativos evidentes.
+Discretos cambios degenerativos en columna torácica.
+Hemiabdomen superior incluido, sin alteraciones.
+
+conclusiones:
+Proceso neumónico bilateral por COVID-19, con atelectasias de los LLII.
+No se visualizan cambios organizativos.
+
+descrip:
+TC TORAX

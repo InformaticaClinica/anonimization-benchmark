@@ -1,0 +1,25 @@
+
+* EVOLUCIÓN [**C546**]
+1. NEUMONÍA BILATERAL por PROBABLE COVID-19. Inicio de los síntomas [**29/6**]. Ingreso [**3/7**].
+A su llegada a Urgencias, normotensa, taquicárdica. Febricular.
+Taquipneica con SatO2 95% basal. Desorientada en tiempo y espacio. En la exploración física destacan con crepitantes en ambas bases pulmonares.
+Resto sin alteraciones.
+Analíticamente presenta elevación de los reactantes de fase aguda (PCR 20mg/dL, Ferritina 1410 ng/mL, Procalcitonina 0,7ng/mL) y de LDH (293U/L). Hiperglucemia (311mg/dL). Linfopenia (600/ml) y Dímero D elevado (1300ng/mL). Alteración del perfil hepático (GGT/FA 73/122).
+Alteración de la función renal (Creatinina 2.59mg/dL y filtrado glomerular 18ml/min) con alteración del ionograma (Sodio 128mEq/L, Potasio 5.2mEq/L, magnesio 2,9mg/dL). Sedimento de orina con L 5-10, resto normal.
+Radiografía de tórax con infiltrados pulmonares bilaterales, de distribución periférica.
+Electrocardiograma con taquicardia sinusal, PR normal, QRS estrecho, QTc normal sin alteraciones de la repolarización.
+Dada la clínica, hallazgos radiográficos y analíticos se orienta como neumonía bilateral por probable SARS-CoV-2 y se inicia tratamiento con Ritonavir/Lopinavir, Hidroxicloroquina y Azitromicina el [**día 3/7**].
+Además, se inicia cobertura antibiótica empírica con Ceftriaxona y Teicoplanina.
+A su llegada a Sala, la paciente presenta deterioro respiratorio con aumento de los requerimientos de O2 y analítica con elevación de los reactantes de fase aguda, coincidiendo con el día +6 del inicio de los síntomas, por lo que se decide tratamiento con Tocilizumab 400 mg ev dosis única. Además, por presentar débito líquido por la ileostomía se suspende el tratamiento con Ritonavir/Lopinavir el [**7/4**].
+Tras el tratamiento instaurado la paciente evoluciona favorablemente, pudiéndose disminuir progresivamente los requerimientos de oxígeno manteniéndose eupneica con satO2 >95% sin oxigenoterapia. Presenta deterioro funcional por lo que se realiza rehabilitación con mejoría. El [**día 15/7**] presenta elevación del dímero D hasta 3200 por lo que se realiza angioTC pulmonar que descarta TEP.
+Radiológicamente presenta mejoría de los infiltrados bilaterales y analíticamente mejoría de los parámetros inflamatorios (PCR 0.4, LDH 207, ferritina 598, linfopenia 700).
+Dada la estabilidad clínica, se decide alta hospitalaria (día +18 de inicio de síntomas), sin embargo la paciente no puede mantener aislamiento en domicilio. Dado que según la anamnesis el inicio de los síntomas fue hace >15 días se realiza frotis nasofaríngeo para SARS-CoV- 2 que es positivo, por lo que se deriva a [**Clinica COVID**] para mantener aislamiento. Al alta la paciente ha completado el tratamiento con azitromicina e hidroxicloroquina.
+2. INSUFICIENCIA RENAL AGUDA AKI 2 DE PROBABLE ORIGEN PRE-RENAL:
+A su llegada, destaca analítica con Creatinina 2.59 mg/dL y Filtrado Glomerular 18 ml/min (previamente 1.12 mg/dL y 50 ml/min, respectivamente). Dados los antecedentes de la paciente, se orienta como insuficiencia renal aguda de etiología pre-renal y se inicia hidratación endovenosa y oral con mejoría progresiva. Al alta, creat 1.1 y FG 52 ml/min.
+3. DIARREAS POR ILEOSTOMÍA y DISELECTROLITEMIA
+La paciente presenta débito líquido por ileostomía (aproximadamente 700- 800cc al día) y desarrolla alteraciones electrolíticas con hipopotasemia (3.3mEq/L), hipomagnesemia (1.2mg/dL) e hipocalcemia (calcio corregido 7.75mg/dL). Se inicia tratamiento con Loperamida y Plantago ovata (Plantaben), así como sueroterapia y reposición endovenosa de magnesio, calcio y potasio con mejoría progresiva. A alta, K 4, calcio corregido 9.6, magnesio 1.7.
+4. NEUTROPENIA probablemente secundaria al tratamiento farmacológico
+En analíticas realizadas durante el ingreso destaca descenso progresivo de las cifras de leucocitos (al alta, Leucos 2700, neutros 1300, linfocitos 700). La paciente se mantiene afebril durante el ingreso. Se orienta como secundario al tratamiento farmacológico recibido (Tocilizumab +/- azitromicina +/- hidroxicloroquina +/- teicoplanina) y se recomienda realizar analítica para control.
+5. DM2 con mal control
+En analítica a su llegada destaca glucosa 311mg/dL. Se inicia tratamiento con insulina (0.3 UI/Kg/d) durante el ingreso, consiguiendo buen control glicémico. Última HbA1c 9.2 ([**marzo/19**]). Se revisa historia clínica donde consta mala adherencia al tratamiento farmacológico. Al alta, seguir metformina 850 1-0-1 y añadir linagliptina 5 mg/d. Se recomienda control por su Médico de Atención Primaria con analítica en 3 meses para ajuste de tratamiento.
+    

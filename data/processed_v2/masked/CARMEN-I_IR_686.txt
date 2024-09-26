@@ -1,0 +1,17 @@
+
+prueba:
+CATETER CON TRACTO SUBCUTANEO PARA HEMOD IALISIS
+
+clinica:
+[**67 a**], TRDC [**2004**] CON DISFUNCIÓN CRÓNICA CON CUADRO DIARREICO QUE PRECIPITA INICIO DE HEMODIÁLISIS. Actualmente creat 8,4 mg/dl con manejo aceptable iones por el momento. Solicitamos colocación catéter para hemodiálisis. Gracias
+Fallida renal aguda no especificada
+
+conclusiones:
+Infiltraciòn de anestesia local (Mepivacaína 10ml) en sitio de punciòn yugular, trayecto de tunelizaciòn y acceso de cateter infraclavicular.
+Se realiza punción vena yugular interna derecha bajo control ecográfico y confirmaciòn por escopia.
+Se coloca cateter central tunelizado tipo HemoStar de 2 luces 14.5 Fr y 24 cm de longitud.
+Se situa el extremo del cateter en cava superior bajo control radioscópico.
+Sin incidentes durante el procedimiento.
+
+descrip:
+CATETER CON TRACTO SUBCUTANEO PARA HEMODIALISIS

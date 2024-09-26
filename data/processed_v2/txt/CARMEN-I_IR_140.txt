@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 43 años con neumonía bilateral por covid-19, extubada hace 24h. Presenta febrícula persistente a pesar de tratamiento antibiótico, sin clara elevación de los reactantes de fase aguda (ha recibido tocilizumab). Se solicita TC para descartar posible NOC, sobreinfección o TEP. Gracias. 0
+NEUMONÍA BILATERAL POR COVID
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Defecto de repleción en rama segmentaria basal posterior derecha sugestiva del tromboembolismo pulmonar.
+Lesiones consolidativas en el LID y língula de morfología triangular y base periférica que podrían estar en relación a infartos pulmonares.
+Opacidades en vidrio deslustrado bilaterales de predominio periférico y focos consolidativos en lóbulos inferiores, en relación a afectación pulmonar por COVID-19.
+Pequeño derrame pleural izquierdo. No se observa derrame pericárdico.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

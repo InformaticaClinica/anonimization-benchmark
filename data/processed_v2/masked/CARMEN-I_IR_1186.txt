@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+Pacient infecció COVID, intubat, portador de ECMO, que presenta sagnat important per punt d'entrada venos femoral dret, amb hematoma que progressa i amb requeriment transfusional de 10 CH. Per altra banda, es demana també TC pulmonar aprofitant el desplaçament, per valorar lesions cotonoses al pulmó i descartar sospita de TEP sobreafegit.
+
+protocolo:
+AngioTC de aorta abdominal infrarrenal y de extremidades inferiores.
+*OBS: adquiere el hemiabdomen inferior y la porción proximal (muslos) de ambas extremidades inferiores.
+
+resultados:
+Cánula en vena ilíaca externa derecha. Catéter de acceso venoso en vena femoral común izquierda.
+Extenso hematoma de márgenes mal delimitados en tejido celular subcutáneo de la pared abdominal anterior, a nivel de flanco y fosa ilíaca derechas. Se localiza en su parte profunda, adyacente a la musculatura abdominal anterior, extendiéndose caudalmente por el canal inguinal hasta nivel escrotal. En el estudio angiográfico no logran evidenciarse imágenes de extravasación de contraste que sugieran sagrado activo. Únicamente se observa en fase venosa un vaso más prominente de localización periumbilical y parasagital, sin claros signos de sangrado activo.
+Aorta abdominal infrarrenal y arterias ilíacas, femorales y sus principales ramas permeables, aunque de pequeño calibre (suponemos que debido a la situación hemodinámica del paciente). Trabeculación de la grasa perivascular a nivel ilíaco y femoral derechos y presacros en probable relación a cambios por sangrado antiguo por colocación de cánula venosa ilíaca derecha. Tampoco se observan signos de sangrado activo a este nivel
+En las secciones abdominales incluidas en el estudio se identifica una mínima cantidad de líquido libre en gotiera parietocólica derecha, adyacente al músculo psoas derecho y en pelvis. Sonda vesical normoposicionada. Vejiga colapsada, de paredes no valorables.
+Trabeculación difusa del tejido celular subcutáneo que sugiere edema del mismo. Aumento de tamaño del músculo recto anterior izquierdo proximal, sugestivo de un hematoma intramuscular, sin signos de sangrado activo.
+Trombosis venosa parcial en ambas venas femorales profundas.
+
+conclusiones:
+- Extenso hematoma del tejido celular subcutáneo de pared hemiabdominal anterior derecha con extensión caudal a través del canal inguinal hasta nivel escrotal.
+- Hematoma intramuscular en músculo recto anterior izquierdo.
+- En el momento actual NO se aprecian imágenes sugestivas de sangrado activo.
+-Trombosis venosa parcial de ambas venas femorales profundas.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de 28 años, sin patologia previa, con neumonia bilateral por COVID-19 grave que requirió tratamiento con tozilizumab con mejoria clinica aunque no radiologica ni analitica. Solicito TAC de torax para evaluar neumonia viruica en resolucion vs progresion a Neumonia organizativa.
+COVID-19
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Múltiples ganglios mediastínicos de pequeño tamaño.
+No se observa derrame pleural ni pericárdico.
+Pequeños nódulos con periferia en vidro deslustrado y ténues opacidades en vidrio deslustrado peribroncovasculares que ha mejorado respecto a Rx del 01/03/2020 compatible con neumonia COVID en resolución
+No se observan imágenes de fibrosis ni NO.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

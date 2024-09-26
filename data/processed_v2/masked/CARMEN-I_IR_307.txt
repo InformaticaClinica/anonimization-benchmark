@@ -1,0 +1,34 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**Hombre**] de [**94 años**], con probable neoplasia de próstata, ecografía renal y de vías urinarias con presencia de hidronefrosis bilateral. Se solicita TC abdominopelvico para completar estudio.
+Gracias.
+3. SÍNDROME CONSTITUCIONAL EN PROBABLE RELACIÓN CO
+
+protocolo:
+TC ABDOMEN:
+Se realizan secciones transversas desde diafragmas hasta sínfisis púbica después de la administración de contraste oral y ev en fase portal.
+
+resultados:
+TC ABDOMINAL:
+En bases pulmonares destaca un aplanamiento de predominio subpleural en ambas bases con engrosamientos septales y bronquiectasias que es menor en campos superiores. No se identifican imágenes de M1 parenquimatosas pulmonares.
+Esternotomía. Discreta cardiomegalia a expensas de ambas aurículas.
+Hígado de densidad, tamaño y morfología dentro de la normalidad. No se evidencian lesiones hepáticas focales.
+Vesícula biliar de tamaño normal, litiásica. Vía biliar no dilatada.
+Bazo, páncreas y glándulas suprarrenales de morfología, tamaño y densidad normal.
+Riñones con severa hidronefrosis con dilatación ureteral bilateral hasta vejiga. Quiste de 7 cm en riñón, simple. Vejiga de paredes engrosadas de manera difusa difíciles de valorar puesto que se encuentra colapsada con globo de sonda vesical en su interior.
+Próstata de difícil valoración por TC discreto aumento de la captación del lóbulo derecho, difuso que podría estar en relación con lesión primaria.
+Aórtica en relación a ateromatosis parcialmente calcificada.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+A nivel óseo destaca una esclerosis probablemente metastásica que afecta a huesos sacros, iliacos bilaterales, isquión y pubis derechos con discreta reacción perióstica a nivel del hueso ilíaco izquierdo y en región acetabular derecha.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+No sale adenopatías pélvicas, retroperitoneales mediastínicas de tamaño patológico.
+Lesiones esclerosas óseas patológicas extensas en huesos pélvicos, algunas con reacción perióstica que podrían estar en relación con M1.
+Severa hidronefrosis bilateral en relación a engrosamiento parietal vesical difuso. Próstata no valorable por TC.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

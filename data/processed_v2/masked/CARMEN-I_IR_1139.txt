@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**65a**], fumador, HTA, DLP, DM, CI, trastorno bipolar, ingresa por neumonía por covid 19, requiere IOT + VM. Solicitamos descartar TEP y valoración de patrón parenquimatoso.
+Gracias
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+IOT. Vía yugular izq con extremo en unión atriocava.SNG.
+Lipomatosis del septo interauricular.
+Tiroides aumentado de tamaño con imágenes focals hipodensas compatible con bocio multinodular.
+No se observan imágenes de TEP.
+Consolidaciones parenquimatosas periféricas , con morfología perilbular en LLSS y bandas parenquimatosas compatible con neumonia COVID con neuumonia organizativa.
+Mínimo derram epleural bilateral.
+vesícula biliar litiásica.
+
+conclusiones:
+Neumonia covid con cambios organizativos.
+Bocio multinodular. Colelitasis.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Descomnensación ascítico-edematosa
+
+conclusiones:
+RX TORAX PORTATIL
+Prótesis mitral.
+Engrosamiento pleural costofrénico derecho con imágenes lineales en LID ya visibles en exploraciones previas.
+Aumento de densidad en tercio inferior del hemitórax derecho que parece haber aumentado discretamente de densidad en comparación con la exploración previa del día [**7/09/2012**].
+
+descrip:
+RX  PORTATIL  TORAX

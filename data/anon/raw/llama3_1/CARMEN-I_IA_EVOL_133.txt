@@ -1,0 +1,16 @@
+ 1. ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI). OCLUSIÓN M2 DISTAL.
+2. FIBRILACIÓN AURICULAR.
+3. INFECCIÓN PULMONAR POR COVID-19.
+- Fecha de inicio síntomas: Desconocido. Pero todos los convivientes de su domicilio presentaban sintomatología desde hace 7-10 días y su [**cuñado**] está ingresado en [**C. La Salud**].
+- Fecha de ingreso: [**31/10/2020**].
+- Fecha de frotis nasofaríngeo para Covid-19: No realizado.
+- Fecha de inicio tratamiento: [**31/10/2020**].
+* Tipo de Tratamiento:
+- 31.10: LPV/r + HCQ + azitromicina.
+- 11.04-10.11: piperacilina-tazobactam.
+Se trata de una paciente de [**92 años**] con fibrilación auricular ya conocida que ha presentado un ictus isquémico en territorio de ACMI, de etiología cardioembólica por infradescoagulación (INR 1.8). No se realizó tratamiento en fase aguda del ictus por INR >1.7 que contraindica trombólisis endovenosa y trombectomía mecánica por oclusión distal no accesible. Además, en contexto de antecedente reciente de infección por pneumococo y Coronavirus OC43 presenta TC de tórax en [**Bellvitge**] sugestivo en contexto epidemiológico de infección por SARS- coV-2.
+A su llegada al [**Cl. Costa de la Luz**], se decide ingreso en sala de NRL para iniciar tratamiento antitrombótico con enoxaparina a dosis terapéuticas. La paciente está vigil y alerta pero sin poder valorar orientación por afasia mixta de predominio de expresión (NIHSS 5). Por sospecha de infección COVID-19, se traslada a sala hospitalización [**H279 (Enfermedades Infecciosas)**] para correcto aislamiento.
+A su valoración en [**H279**], la paciente se encontraba hemodinámicamente estable, con afasia mixta con predominio de expresión, aparente buena compresión del lenguaje sin nominación ni repetición; Moviliza las 4 extremidades de forma simétrica. Se inició tratamiento con Lopinavir/Ritonavir + Azitromicina + Hidroxicloroquina como tratamiento antiviral.
+Durante el ingreso se mantiene asintomática desde el punto de vista digestivo y respiratorio, con disminución progresiva de los requerimientos de oxígeno hasta saturación de oxígeno de 96% con FiO2 de 21%. No episodios de fiebre durante su estancia hospitalaria. Desde el punto de vista neurológico, persiste con afasia mixta de predominio motor, con fuerza y sensibilidad conservadas en las 4 extremidades.
+Dada la correcta evolución clínica se decide alta a domicilio familiar el día [**13/11/2020**]. Al alta ha completado 7 días de tratamiento con Lopinavir/Ritonavir, 5 días de Hidroxicloroquina y 4 días de Azitromicina. Se cambia el tratamiento anticoagulante al alta por Edoxabán 30 mg al día.
+Para seguimiento por parte de Neurología, contactaré en los próximos días con el servicio de Neurología del [**Cl. Costa de la Luz**] para concretar citas de control en los próximos meses.

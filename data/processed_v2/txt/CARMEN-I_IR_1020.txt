@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente ingresado por neumonia bilateral secundaria a COVID19, ya ha cumplido tratramiento según protocolo con mejoría clínica y analítica.
+Sin embargo persisten infiltrado bilaterales en la Rx de torax. Rogamos realizar TAC de torax
+NEUMONIA BILATERAL COVID +
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante TCMD.
+
+resultados:
+Patrón en vidrio deslustrado bilateral difuso de predominio periférico, con áreas de patrón en empedrado y focos alveolares. Se observa engrosamiento de paredes bronquiales, bronquiectasias de tracción, signo del halo reverso, imágenes de atelectasias subsegmentarias y distorsión de la arquitectura parenquimatosa pulmonar sugestivo de afectación por COVID con neumonía organizativa.
+Pequeñas adenopatías mediastínicas algunas de tamaño significativo, la mayor de 13 mm a nivel subcarinal.
+Pequeño derrame pleural bilateral de predominio izquierdo.
+Glándula tiroidea aumentada de tamaño con imágenes nodulares y calcificaciones sugestiva de bocio.
+
+conclusiones:
+Afectación pulmonar por COVID con patrón de neumonía organizativa.
+
+descrip:
+TC TORAX

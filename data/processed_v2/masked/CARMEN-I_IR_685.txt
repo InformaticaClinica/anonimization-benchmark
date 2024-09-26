@@ -1,0 +1,34 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**75 años**], con AP de HTA + Obesidad. Ingresado por SDRA severo secundario a neumonía por COVID-19. Actualmente IOT desde el [**24/12**] + sesión de 2 sesiones de prono.
+Desde el punto de vista analítico D dímero persistentemente elevado hasta 29.000 con sobrecarga de cavidades derechas con perisistencia de infiltrados e imposibilidad de progresar en weaning.
+Interesa descartar TEP y cambios organizativos.
+Muchas gracias.
+SDRA GRAVE POR COVID
+
+protocolo:
+Estudio TCAR y estudio angiográfico de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; última RX del [**05/1/2016**].
+IOT con extremo distal a 2.5 cm de la carina. SNG. Vía central izquierda, con extremo distal en vena innominada.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP. La exploración es subóptima para valorar la permeabilidad de arterias subsegmentarias.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Pequeño ganglio calcificado hiliar derecho.
+Ateromatosis calcificada en arco aórtico y en coronarias.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación parenquimatosa pulmonar bilateral, de predominio inferior, con múltiples opacidades reticulares y en vidrio deslustrado subpleurales y peribroncovasculares, algunas de ellas en lóbulos inferiores con cambios organizativos. Se visualizan también algunas bronquiectasias asociadas. Los hallagzos descritos están en relación a proceso neumónico bilateral por COVID-19, en evolución.
+En hemiabdomen superior incluido, se visualiza un aumento de tamaño de la cabeza pancreática, con márgenes desdibujados y realce parenquimatoso conservado, asociado a cambios inflamatorios de la grasa peripancreática adyacente (parcialmente incluidos); hallazgos en relación con pancreatitis edematosa intersticial. No se visualizan colecciones organizadas en el estudio actual.
+
+conclusiones:
+- Ausencia de signos de TEP proximales.
+- Proceso infeccioso neumónico bilateral por COVID, con cambios organizativos bibasales asociados.
+- Signos inflamatorios adyacentes a la cabeza pancreática, en relación a signos de pancreatitis edematosa intersticial.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

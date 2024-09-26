@@ -1,0 +1,21 @@
+
+prueba:
+ESTUDIO DEGLUCION
+
+clinica:
+Paciente traqueostomizado. Solicitamos valoración de deglución con videofluoroscopia. Gracias.
+Isquèmia difusa aguda (reversible) d'intestí prim
+
+protocolo:
+ESTUDIO DE LA DEGLUCIÓN
+
+resultados:
+Movimientos deglutorios lentos en la fase oral.
+Moderada hipotonía de la hipofaringe.
+Salida del contraste por el orificio de la traqueostonmía (imagen 6).
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

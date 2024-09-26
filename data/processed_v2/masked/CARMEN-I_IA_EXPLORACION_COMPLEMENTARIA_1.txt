@@ -1,0 +1,40 @@
+
+* MICROBIOLOGÍA
+- HEMOCULTIVO ([**11/3**]): Positiu per Staphylococcus epidermidis. Probable contaminació.
+- HEMOCULTIVO ([**11/3**]): Positiu per Staphylococcus hominis. Probable contaminació
+- URINOCULTIVO ([**11/3**]): S'aïllen entre 10.000 i 100.000 UFC/mL. Flora mixta. Orina contaminada o mal recollida
+- ANTIGENURIA ([**11/3**]): negativa para neumococo y L. pneumophila.
+- FROTIS NASOFARÍNGEO ([**11/3**]): positivo para Covid-19.
+- HEMOCULTIVO ([**18/3**]): Positiu per Streptococcus oralis. Probable contaminació. Positiu per Staphylococcus epidermidis. Probable contaminació
+- ASPIRADO TRAQUEAL ([**18/3**]): S'aïlla flora habitual o sapròfita
+- UROCULTIVO ([**18/3**]): Negatiu
+- HEMOCULTIVO ([**18/3**]): Positiu per Staphylococcus epidermidis. Probable contaminació
+- FROTIS NASAL ([**19/3**]): S'aïlla flora habitual o sapròfita
+- FROTIS RECTAL ([**19/3**]): S'aïllen un nombre moderat de colònies de: Enterobacter cloacae complex Soca hiperproductora de betalactamasa cromosómica AMP C. S'aïllen abundants colònies de: Pseudomonas aeruginosa
+- BRONCOASPIRADO ([**19/3**]): Negativo
+- PCR COVID BAL ([**19/3**]): Positivo
+- GALACTOMANANO BAL ([**19/3**]): Negativo
+- TINCIÓN P JIROVECII ([**19/3**]): Negativa
+- HEMOCULTIVO X2 ([**21/3**]): Negativos
+- ASPIRADO TRAQUEAL ([**21/3**]): Negativo
+- UROCULTIVO ([**21/3**]): Negativo
+- HEMOCULTIVO ([**26/3**]): Negativo
+- BRONCOASPIRADO ([**26/3**]): Negativo
+- HEMOCULTIVO ([**26/3**]): Negativo
+- FROTIS RECTAL ([**26/3**]): Pseudomonas aeruginosa
+- FROTIS NASAL ([**26/3**]): En curso
+- UROCULTIVO ([**26/3**]): Negativo
+- HEMOCULTIVO ([**29/3**]): Estafilococo coagulasa negativo. Probable contaminación.
+- HEMOCULTIVO ([**29/3**]): En curso
+- URINOCULTIVO ([**29/3**]): Negativo
+- ASPIRADO TRAQUEAL ([**30/3**]): Negativo
+- CULTIVO CATÉTER ARTERIAL ([**31/3**]): Negativo
+- HEMOCULTIVO ([**31/3**]): Negativo
+- CMV ([**1/4**]): Negativo
+- AGA ([**1/4**]): Negativo
+- ASPIRADO TRAQUEAL ([**1/4**]): Pseudomonas aeruginosa multi-S
+- FROTIS RECTAL ([**1/4**]): Pseudomonas aeruginosa
+- FROTIS NASAL ([**1/4**]): Negativo
+- FROTIS RECTAL ([**9/4**]): En curso
+- FROTIS NASAL ([**9/4**]) : En curso
+ 

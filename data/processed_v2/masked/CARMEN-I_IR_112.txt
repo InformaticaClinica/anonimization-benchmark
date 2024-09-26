@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+DM2, HTA, Pneumonia COVID.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Rx tòrax anteroposterior portàtil.
+
+resultados:
+Veure conclusions.
+
+conclusiones:
+Respecte estudi previ del [**2-11-2020**] s'observa augment de mida de la consolidació de camp mig pulmonar dret.
+Resta de parènquima pulmonar sense imatges suggestives d'afectació pulmonar.
+Tot i que el pacient es COVID19 positiu donada l´afectació predominentment lobar aconsellem descartar pneumonia bacteriana.
+
+descrip:
+RX  PORTATIL  TORAX
+
+descrip:
+RX  PORTATIL  TORAX

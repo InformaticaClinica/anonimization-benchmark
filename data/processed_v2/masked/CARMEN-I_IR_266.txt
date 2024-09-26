@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con persistencia de opacidades bilaterales, ya completó el tto farmacologico.
+Por sospecha de NO se dolisita TCAR.
+Gracias
+neumonia intersticial bilateral
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Áreas en vidrio deslustrado y alveolares bilaterales de predominio periférico con signo del halo reverso, bronquiectasias y atelectasias subsegmentarias sugestivo de afectación pulmonar por COVID, que presenta signos de evolución a neumonía organizada.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

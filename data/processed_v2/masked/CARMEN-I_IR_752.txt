@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Hombre**] de [**años 73**], con AP de HTA, DL, cardiopatia isquemica, EPOC; ingresado en la [**SalaUCI**] por neumonía bilateral por COVID19. Actualemente intubado con ventilación mecánica, esta en proceso de weaning. Pero presenta desde el día de ayer aumento progresivo de la FiO2 y de la PEEP, con D-dímero de >10.000. Solicitamos angio-tc para descartar TEP.
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Tubo endotraqueal con extremo distal a 4 cm de la carina. Sonda nasogástrica normoposicionada. Catéter de acceso venoso yugular derecho con extremo distal en VCS.
+Defectos de repleción en el árbol arterial pulmonar con afectación de ramas segmentarias del lóbulo inferior izquierdo, hallazgos compatibles con TEP agudo segmentario. No se identifica dilatación de la arteria pulmonar ni signos de sobrecarga del ventrículo derecho evidentes por TC en este momento.
+Ateromatosis calcificada aórtica y de arterias coronarias. Hipocaptación subendocárdica del ventrículo izquierdo que afecta a cara anterior, lateral y septo, pudiendo corresponder una zona hipoperfundida (quizás crónico, a valorar clínicamente la presencia sintomatología coronaria).
+No se observa derrame pleural ni pericárdico. Ausencia de adenopatías axilares o mediastínicas valorables.
+Severo enfisema centrolobulillar y paraseptal de predominio en ambos lóbulos superiores, conocido.
+Tenues opacidades en vidrio deslustrado bilaterales de predominio periférico en ambos lóbulos inferiores, LM y língula, pudiendo estar en relación con afectación por COVID-19 (es difícil la valoración dado la severa afectación pulmonar por enfisema del paciente).
+Atelectasias en ambos lóbulos inferiores, observándose una zona hipocaptante en LII compatible con infarto pulmonar.
+Parcialmente incluida en el estudio se aprecia endoprotesis de aorta abdominal infrarrenal. Riñón derecho de aspecto atrófico con hipertrofia vicariante del riñón izquierdo. Secciones abdominales incluidas en el estudio sin otros hallazgos valorables.
+
+conclusiones:
+- Hallazgos compatibles con TEP agudo segmentario en LII con una zona de infarto pulmonar asociado. No se identifican signos de sobrecarga del ventrículo derecho ni hipertensión pulmonar evidentes por TC.
+- Severo enfisema pulmonar con zonas de atenuación en vidrio deslustrado bilaterales y de predominio inferior, en probable relación con afectación pulmonar por COVID-19.
+- Calcificación de arterias coronarias. Hipocaptación subendocárdica del ventrículo izquierdo en caras anterior, lateral y septal (puede tratarse de una zona crónicamente hipoperfundida a valorar clínicamente la presencia de sintomatología coronaria).
+
+descrip:
+ANGIO TC PULMONAR

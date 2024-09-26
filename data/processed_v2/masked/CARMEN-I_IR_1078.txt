@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**71 años**], ingreso por sme confusional, rx de tórax compatible con infección por COVID, rápido deterioro gasométrico, dímero D 3400.
+SOlicito AngioTAC para descartar TEP. Gracias.
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+No se observan adenopatías axilares. Pequeños ganglios mediastínicos de tamaño no significativo. Adenopatías subcarinales.
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos consolidativos bilaterales y con distribución periférica, que se acompañan de imágenes periféricas en vidrio deslustrado, dilataciones bronquiolares y áreas de distorsión parenquimatosa, todo ello compatible con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+Quistes hepáticos en LHI.
+
+conclusiones:
+Sin signos radiológicos de TEP. Patrón pulmonar compatible con COVID-19 con áreas de fibrosis (neumonía organizativa).
+
+descrip:
+ANGIO TC PULMONAR

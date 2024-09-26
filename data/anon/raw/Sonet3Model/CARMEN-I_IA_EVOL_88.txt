@@ -1,0 +1,18 @@
+1. NEUMONÍA [**SSARS-CoV-2**]
+2. DEMENCIA CUERPOS DE LEWY
+3. [**ACXFA**] DE DEBUT
+.
+Fecha síntomas: [**19.5.2023**]
+Fecha ingreso: [**22.5.2023**]
+.
+Paciente de [**78 años**], dependiete para las actividades básicas. Como antencedentes médicos cabe destacar parkinsonismo con demencia cuerpos de Lewy.
+Presenta desde el martes [**19.5**] deterioro funcional brusco, con debilidad, astenia y anorexia. No fiebre ni tos. Refiere el [**hijo**] que estuvo con cuadro catarral hace una semana pero que había mejorado.
+El [**hijo**] (telefónicamente) refiere que la paciente era continente, comía sola y podía mantener conversación más o menos fluida.
+En urgencias la paciente presenta correcta saturación O2.
+Analíticametne: PCR 2 mg/dl, LDH 244 mg7Dl, ferritina 364 ng/ml, hemograma con 5540 leucos y linfopenia 800. Ddímero 1200. Sedimento de orina no patológico.
+[**TC creaneal**] sin patología aguda. [**Rx tórax**] ICT<0.5, con intiltrado intersticial de predominio izquierdo y aumento de trama bronquial derecha.
+[**PCR SARS-CoV-2**] positiva ([**22.5.23**] y [**3.6.23**])
+Ingresa en [**sala u625**] para manejo y tratamiento, la paciente presenta febrícula, saturación O2 95% basal. En analíticas posteriores presenta empeoramiento con aumento de los parámetros inflamatorios y de los requerimientos de oxígeno por lo que se le inicia tratamiento con [**plasma hiperinmune**] y [**tocilizumab**] el [**25/5**], presentando durante su estancia una mejoria de los parametros inflamatorios manteniendo la necesidad de oxigenoterapia con GN a 2L para alcanzar saturacion >95%.
+El día [**27.5**] presentó episodio de hipotensión con [**fibrilación auricular**] con respuesta ventricular media de 120 lpm, se inicia anticoagulación con [**HBPM**] a dosis terapéuticas, y [**amiodarona**]. La paciente se ha mantenido en [**ACXFA**] con frecuencias ventriculares de 80-90 lpm, estable bajo tratamiento con amiodarona y se decidió suspender [**HBPM**] a dosis altas, por el alto riesgo de sangrado.
+Durante el ingreso la paciente presenta un importante deterioro funcional, con desorientacion, agitacion y negación a la ingesta que deriva en la colocacion de [**sonda nasogastrica**] que se ha de retirar en dos ocasiones por obstruccion de la misma. Ante la imposibiliad de ingesta oral por parte de la paciente y tras el fracaso de la alimentacion por [**SNG**], se plantea a la [**familia**] la opcion de colocar una [**PEG**], pero en el contexto actual de la paciente y de forma consensuada con la [**familia**], se decide desestimar la colocacion de [**PEG**] y se propone un cambio de orientacion terapeutica.
+La paciente presenta una [**PCR para SARS-CoV-2**] en frotis nasofaringeo es negativa, por lo que comenta a [**UFISS**] traslado a [**centro de larga estancia**] para cuidados paliativos.

@@ -1,0 +1,19 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+ICTUS ISQUÉMICO DE ACMI
+
+conclusiones:
+Lesión isquémica características agudas cortical temporal anterior, insula e hipocampo izquierdos, con signos de transformacion hemorragica tipo IH2 a nivel hipocampal.
+Múltiples lesiones isquémicas de características agudas, puntiformes corticales en el hemisferio izquierdo, sin otras alteraciones asociadas.
+Escasos focos de hiperseñal en sustancia blanca supratentorial, tanto periventicular como subcortical, en relacion con angiopatia microvascular.
+Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas.
+Cisternas de la base libres.
+Estructuras de linea media centradas.
+Estudio de Angio-RM arterial intracraneal sin alteraciones significativas.
+Resto del estudio sin otras alteraciones significativas.
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

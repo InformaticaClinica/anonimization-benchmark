@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+SDRA por neumonía bilateral por COVID que requiere IOT. Persiste hipóxemico. Analítica con troponitis y elevación persisitente del Dímero D. Descartar TEP.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+Importante artefactos por movimientos respiratorios del paciente y por endurecimiento del haz, que dificulta la correcta evaluación de la técnica.
+No se observan defectos claros de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+Tronco pulmonar común de calibre normal (30 mm). No se observan signos que sugieran sobrecarga de cavidades cardíacas derechas.
+Leve cantidad de derrame pleural izquierdo. No se observa derrame pleural derecho ni pericárdico.
+Adenopatía paraaórtica torácica izquierda (11 mm). No se observan adenopatías axilares ni otras mediastínicas de tamaño patológico.
+Patrón pulmonar con opacidades difusas bilaterales y múltiples pequeñas consolidaciones de predomonio periférico, sugestivo de afectación severa por COVID en el contexto actual. Colapso normocaptante con brongrama aéreo de ambos LLII, indeterminado.
+Cáteter de vía central, con entrada en v. yugular interna derecha y extremo distal en VCS.
+Tubo endotraqueal con extremo distal a 4.9 cm de la carina.
+Portador de SNG.
+
+conclusiones:
+No se observan signos claros de TEP.
+Patrón compatible en el contexto con afectación pulmonar severa por COVID.
+Colapso nomocaptante y con brongrama aéreo de ambos LLII, indeterminado.
+
+descrip:
+ANGIO TC PULMONAR

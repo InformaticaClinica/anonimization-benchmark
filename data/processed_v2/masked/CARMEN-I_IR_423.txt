@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+TRAQUEOBRONQUITIS POR E.COLI.
+
+resultados:
+Persiste aumento de densidad basal derecho.
+
+conclusiones:
+Sin cambios aparentes.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,28 @@
+
+prueba:
+TC TORAX
+
+clinica:
+sospecha covid19 con PCR negativa. valorar afectac
+PTE RES COVID-19
+
+protocolo:
+TC torácica URGENTE realizada en condiciones basales
+
+resultados:
+Ganglios mediastínicos paratraqueales derechos de tamaño borderline (10- 12mm- eje corto). Otros ganglios paratraqueales e hiliares infracentimétricos, inespecíficos. No se observan adenopatías axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades parcheadas subpleurales y peribroncovasculares bilaterales en todos los lóbulos pulmonares, con alguna pequeña área más consolidativa en segmentos postero-inferiores de ambas bases pulmonares.
+Se observan incipientes bandas lineales subpleurales bilaterales con patrón perilobular, que sugieren probable fibrosis incipiente.
+El patrón es de PROBABLE infección por COVID19, dado el contexto epidemiológico actual.
+En los cortes del hemiabdomen superior:
+Quistes corticales simples, el mayor de 6 cm en riñón izquierdo.
+Microlitiasis en GCS del riñón izquierdo, no obstructiva.
+Se observa un nódulo intracortical de 25 mm más hiperdenso que el parénquima renal adyacente, en el tercio superior del riñón derecho.
+Podría corresponder a un quiste cortical complicado (hemorrágico). Se aconseja estudiar por ecografía una vez solucionada la patología respiratoria.
+
+conclusiones:
+ver informe.
+
+descrip:
+TC TORAX

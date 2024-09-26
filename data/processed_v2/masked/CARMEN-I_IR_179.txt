@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+sospita TEP- pacient pneumonia SARS COV2
+infeccion COVID
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Arteria pulmonar dilatada de 33mm. valorar Hipertención pulmonar.d
+No se observa derrame pericárdico.
+Leve derrame pleural bilateral de predominio izquierdo.
+Opacidades parcheadas en vidrio deslustrado bilaterales de disposición subpleural y peribroncovasculares, de predominio en lóbulos inferiores, en contexto de neumonía por COVID-19. Se observan algunas bandas perilobulares con bronquiolectasias de tracción sugestivo de leves cambios fibróticos en relación con proceso neumónico en resolución.
+Hernia de hiato.
+
+conclusiones:
+-No se observa TEP
+-Neumonía bilateral por COVID19 con leves cambios fibróticos en relación con proceso neumónico en resolución
+
+descrip:
+ANGIO TC PULMONAR

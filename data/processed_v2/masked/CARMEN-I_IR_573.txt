@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Hombre**] de [**35 años**] natural de [**Cabo Verde**] y sin antecedentes de interés que inicia cuadro de fiebre, MEG, tos y lumbalgia el [**16/04**], por lo que el [**18/04**] se realiza PCR para SARS-CoV-2 en frotis nasofaríngeo que resulta positivo. Se añade disnea de moderados esfuerzos por lo que consulta el [**25/04**] en urgencias, donde la radiografía de tórax muestra infiltrados alveolo-intersticiales, diagnosticando neumonía bilateral por SARS-CoV-
+2. Se ingresa y se trata con remdesivir, dexametasona y una dosis de tocilizumab. Actualmente persiste con saturaciones subóptimas sin oxigenoterapia (93-95%) pese a tratamiento así como ausencia de mejoría radiológica, por lo que se solicita Angio-TC para descartar TEPs subsegmentarios / neumonía organizativa. Muchas gracias.
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP. Tronco de la arteria pulmonar de calibre conservado.
+Cardiomegalia. Leve dilatación de cavidades cardíacas derechas con rectificación del tabique interventricular, sugestivo de sobrecarga cardíaca derecha. Valorar miocardiopatía.
+Ausencia de lóbulo tiroideo izquierdo.
+Leve dilatación del tercio inferior del esófago.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Adenopatía hiliar derecha, probablemente reactiva.
+Ausencia de derrame pleural ni pericárdico.
+Áreas en vidrio deslustrado y consolidativas peribroncovasculares bilaterales de distribución periférica, de predominio en LLSS, LM y segmento basal posterior del LID. Algunos focos consolidativos presentan morfología de neumonía organizativa incipiente. Los hallazgos corresponden a neumonía bilateral por COVID-19 en evolución.
+Parénquima pulmonar sin otras imágenes patológicas.
+
+conclusiones:
+No se observan signos de TEP.
+Cardiomegalia. Leve dilatación de cavidades cardíacas derechas con rectificación del tabique interventricular, sugestivo de sobrecarga cardíaca derecha. Valorar miocardiopatía.
+Hallazgos sugestivos de neumonía bilateral por COVID-19 en evolución de las características descritas con algunos focos de neumonía organizativa incipiente.
+
+descrip:
+ANGIO TC PULMONAR

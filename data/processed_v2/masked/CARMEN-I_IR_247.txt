@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Pacient que ingressa intubada amb neumonia bilateral per covid-19, destaca en les darreres 24 hores major hipoxèmia i d-dímer que augmenta a 4.500. Solicito angioTC per descartar TEP. D'altra banda destaca escassa conexió en el medi desprès de 24 hores sense sedació . Solicito tc cerebral. Gràcies
+PNEUMÒNIA BILATERAL SARS-COV2
+
+protocolo:
+TC CRANEAL BASAL URGENTE
+
+resultados:
+No se observan signos de sangrado agudo tanto intra como extra-axial.
+Adecuada diferenciación cortico-subcortical, sin alteraciones densitométricas valorables por TC.
+Sistema ventricular de tamaño y situación conservadas.
+Estructuras de la línea media centradas.
+Cisternas basales libres.
+Ocupación mucosa de senos paranasales.
+
+conclusiones:
+Estudio sin signos de patología intracraneal aguda.
+
+descrip:
+TC CEREBRAL

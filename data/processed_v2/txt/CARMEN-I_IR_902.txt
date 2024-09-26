@@ -1,0 +1,23 @@
+
+prueba:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+clinica:
+Shock séptico con sospecha de foco urinario, se ruega descartar colecciones o complicaciones. Gracias.
+SHOCK SÉPTICO DE PROBABLE FOCO URINARIO
+
+protocolo:
+Estudio basal.
+
+resultados:
+Riñones de tamaño y ecoestructura normal.  No se observan litiasis renales evidentes. No se observa dilatación de la vía excretora. Se observan quistes simples bilaterales, el mayor izquierdo de casi 13 cm.
+Vejiga urinaria de morfología normal y paredes engrosadas de forma difusa.
+Próstata de morfología normal y difícil valoración por vía suprapúbica de unos 40 gr de peso.
+No se observa líquido perirrenal ni libre en pelvis.
+
+conclusiones:
+Engrosamiento parietal vesical difuso (cistitis?).
+Riñones con quistes simples.
+
+descrip:
+ECOGRAFIA RENOVESICOPROSTATICA

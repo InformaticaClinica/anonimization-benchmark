@@ -1,0 +1,34 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con antecedente de neoplasia renal intervenida recientemente con nefrectomía. Ingresa por fiebre con infección por Covid-19 + ITU tratadas correctamente. Pese al tratamiento fiebre persistente, con importante dolor a nivel lumbar y fosa ilíaca izquierda con irradiación a sacro-ilíacas. Solicitamos TAC para descartar complicación infecciosa/tumoral.
+
+protocolo:
+TC TORACOABDOMINAL: adquisición tras la administración de contraste ev (tórax basal y abdomen en fases arterial y portal).
+
+resultados:
+TÓRAX:
+PICC derecho con extremo en unión cavoatrial.
+Adenopatías subcarinales, retrocrurales y paraesofágicas de nueva aparición. No se observan adenopatías axilares de tamaño sospechoso.
+Calcificaciones coronarias severas.
+Aparición de leve derrame pleural bilateral. No se evidencia derrame pericárdico.
+Aparición de múltiples nódulos pulmonares bilaterales, no presentes en TC abdominal previo, sugestivos de M1. El mayor de ellos en segmento medial del LII (3.5 cm).
+Se observan algunos focos en vidrio deslustrado de distribución periférica y bilateral, compatible con afectación pulmonar por COVID-19.
+ABDOMEN (se compara con TC postquirúrgico del /[**12/2017**]):
+En el lecho quirúrgico de la nefrectomía izquierda, se observa la aparición de un manguito de partes blandas, que contacta ámpliamente (180º) con el margen lateral izquierdo de la aorta abdominal, y se extiende al especio retrocrural. Mide 3.2 x 2.2 x 5.7 (AP x TRA x LONG).
+Aparición de nódulo hipercaptante intramuscular en margen craneal del m.
+iliopsoas izquierdo, de 3.6 cm, compatible con implante tumoral.
+Aumento de tamaño de los ganglios interaortocavales y portocavales previos, ahora de tamaño patológico.
+Hígado, vía biliar, páncreas, riñón derecho y glándula suprarrenal derecha sin alteraciones a destacar. Colecistectomía. Esplenomegalia (15 cm). Eje portoesplenomesentérico permeable. Persiste sin cambios significativos respecto al estudio previo el engrosamiento parietal de densidad grasa de los ultimos 20 cm de ileon distal con fístula compleja asociada que afecta hasta 3 segmentos del íleon terminal y distal y retrae discretamente el sigma, todo ello de aspecto crónico, en relación a su enfermedad de Crohn.
+Leve cantidad de líquido en pelvis y gotiera paracólica derecha.
+Discreta trabeculación difusa de la grasa mesentérica.
+
+conclusiones:
+Hallazgos sugestivos de recidiva en lecho quirúrgico, con diseminación ganglionar y a distancia (pulmonar y en m. iliopsoas izquierdo).
+Leve cantidad del líquido libre intraabdominal.
+Pequeños focos de vidrio deslustrado periféricos y bilaterales, compatibles con infección pulmonar por COVID-19.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

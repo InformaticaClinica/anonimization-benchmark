@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Respecto a RX de tórax de [**08/01/2011**] se observa aumento de las opacidades alveolares en la base pulmonar derecha.
+Hallazgos sugestivos de PROBABLE COVID-19.
+
+descrip:
+RX  PORTATIL  TORAX

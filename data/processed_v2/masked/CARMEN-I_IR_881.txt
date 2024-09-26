@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**56 años**], con AP de obesidad, HTA y TVP [**2023**], que ingresa hace 1 mes aproximadamente por neumonía por SARS-CoV2 ingreso que requiere altas dosis de oxigenoterapia, actualmente persisten requerimientos de oxigeno con D-Dímeros persistentemente elevados.
+Ante la persistencia de sintomatología respiratoria y D-dímeros persistentemente elevados en paciente con AP de TVP, solicitamos Angio- TAC para descartar posible TEP.
+Muchas gracias.
+PNEUMONIA PER COVID
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Bronquio traqueal para el segmento apical del LSD
+Focos consolidativos peribroncovasculares y bandas parenquimatosa subpleurales y perilobulares asociadas a dilatación y distorsión bronquial, compatible con neumonia COVID en fase de resolución con cambios organizativos.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

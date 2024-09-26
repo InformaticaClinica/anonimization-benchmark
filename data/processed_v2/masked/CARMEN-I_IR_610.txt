@@ -1,0 +1,28 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Hombre**], [**54a**]. CH por OH con neumonia izq y altos requerimientos O2. Con dos PCR negativas Covid negativas, aunque sospecha covid por lo que solicitamos tac torax. gracias
+NEUMONIA LOBAR IZQUIERDA
+
+protocolo:
+TC TORAX tras administración de contraste e.v. (fase arterial)
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Severa ateromatosis calcificada en arterias coronarias.
+Calcificaciones en válvula aórtica. Lámina de derrame pericardico.
+Severo derrame pleural derecho que condiciona la atelectasia pasiva total de lobulo inferior y superior y subtotal de lóbulo medio, la zona atelectasica es mayor que en el estudio previo del [**19/2/20**]. No se aprecian zonas hipocaptantes sugestivas de sobreinfección en la zona atelectasica.
+No se observa derrame pleural izquierdo.
+Afectación difusa del parénquima pulmonar izquierdo por vidrio deslustrado difuso con mayor predominio en lóbulo superior de distribución peribroncovascular y periférica con engrosamiento de septos interlobulillares confomando un patrón en empedrado. En ciertos puntos existe tendencia a la confluencia conformando pequeñas consolidaciones.
+Presencia de alguna dilatación bronquiolar aislada. En el poco parénquima expandido restante de lóbul medio se aprecia algún pequeño foco de vidrio deslustrado subpleural. En el estudio previo del [**19/2**] tan sólo se apreciaba algun ténue foco de vidrio deslustrado subpleural en parénquima pulmonar izquierdo. Globalmente estos hallazgos son sugestivos de neumonía vírica por COVID-19 existiendo muy incipientes signos de organización.
+Ginecomastia bilateral. En cortes de hemiabdomen superior (fase arterial precoz) se aprecia higado irregular con estigmas de hepatopatía crónica.
+Abudante circulación venosa varicosa en zona del lig. gastrohepático.
+Repermeabilización de la vena umbilical. Esplenomegalia. Leve cantidad de líquido libre periesplénico y perihepatico.
+
+conclusiones:
+Hallazgos sugestivos de neumonía por COVID-19 con incipientes signos organizativos.
+Severo derrame pleural derecho que condiciona la atelectasia pasiva total de LID, LID y subtotal LM. La zona atelectasiada es mayor que en TC previo de [**19/2**]. Sin signos de sobreinfeccion en la zona atelectasiada.
+
+descrip:
+TC TORAX

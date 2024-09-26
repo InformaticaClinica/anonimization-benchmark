@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL COVID-19
+
+protocolo:
+Rx tórax portátil
+
+conclusiones:
+Presencia de opacidades bilaterales y patrón intersticial bilateral, con evidencia de cierta disminución de la condensación en el pulmón derecho y desaparición de unos de los pequeños focos evidentes en el pulmón izquierdo, con respecto a [**15.6.24**].
+CONCLUSIÓN
+Afectación pulmonar por COVID que muestra estabilidad con ligera mejoría en algunos focos con respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

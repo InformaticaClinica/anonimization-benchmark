@@ -1,0 +1,27 @@
+
+* EVOLUCIÓN EN SALA DE ONCOLOGÍA MÉDICA:
+1. DOLOR ABDOMINAL MAL CONTROLADO secundario a 2 y 3.
+2. OCLUSIÓN INTESTINAL ALTA POR INFILTRACIÓN TUMORAL-DUODENAL Y BAJA POR CARCINOMATOSIS PERITONEAL.
+3. ASCITIS MALIGNA. COLOCACIÓN DE DRENAJE PERITONEAL (18/6) > HEMOPERITONEO Y HEMATOMA SUBCAPSULAR ESPLÉNICO.
+4. DESNUTRICIÓN PROTEICO-CALÓRICA secundario a 3.
+5. ESOFAGITIS GRADO C
+6. ADK PÁNCREAS INICIALMENTE LOCALMENTE AVANZADO, ACTUALMENTE E.IV (CP, hepática). Inicio 1L FOLFIRINOX (23/5/2025).
+A su llegada a urgencias, paciente hemodinamicamente estable, eupneica en reposo, afebril. A la exploración física, ascitis G2, sin signos de peritonismo, RH disminuidos. Sin signos de NIO. ACR anodinas.
+Analíticamente, PCR 14, Cr 1.35, Na/K 132/4.4. 17.000 leucocitos, Hb 13.8, 655.000 plaquetas/mm3. Sedimento de orina con 5-10 leucocitos.
+Líquido ascítico gluc 175, 24 proteinas. Rx tórax sin infiltrados ni condensaciones, senos costofrénicos libres.
+Se inicia titulación con fentanilo ev, realizamos paracentesis evacuadora y se decide ingreso en oncología médica para continuar manejo.
+Durante su estancia en sala de hospitalización, la paciente requiere de paracentesis evacuadoras pericodicas c/72h. Presenta adecuado control del dolor abdominal pudiéndose rotar a FNT TD 25mcg + coadyuvantes.
+Sin embargo, inicia cuadro de vómitos asociado a estreñimiento con RX de abdomen con niveles hidroaéreos. Completamos estudio con TC TA que evidencia neoplasia de cabeza de pancreas en progresión, especialmente a nivel peritoneal, pero también duodenal, vascular esplácnica y hepática.
+Dilatación de asas de yeyuno que sugieren oclusión/suboclusión intestinal en relación a carcinomatosis peritoneal.
+Se inicia tratamiento procinetico y corticoterapia a altas dosis con buena respuesta clínica, tolerando dieta líquida e iniciado hábito deposicional regular. Se ha suplementado nutricionalmente mediante NPT por importante desnutrición analítica (prealb <0.15). Ha iniciado esquema quimioterapia de 1L con FOLFIRINOX C1D1 23/5/2025.
+Como incidencia, presenta reaparición de cuadro de vómitos asociado a estreñimiento. En TC de control se evidencia oclusión intestinal alta por infiltración del tumor pancreático a nivel de la 2º porción duodenal. Valorado por cirugía, paciente no candidata a bypass quirúrgico dada la presencia de importante carcinomatosis peritoneal por lo que se decide colocación de endoprotesis duodenal, la cual se colcoca el día 07/6. Reinicia dieta oral con buena tolerancia pudiéndose retirar nutrición parenteral.
+Dada el alto requerimiento de paracentesis, se coloca tubo de drenaje peritoneal tunelizado por parte de angiorradiología el 18/6. A las 12 h del procedimiento, presenta cuadro de hipotensión y taquicardia con dolor abdominal por lo que se realiza angio-TC abdominal que evidencia hematoma subcapsular esplénico y datos de hemoperitoneo. De acuerdo con Cirugía y con Angiorradiología, por dificultad técnica y contexto comórbido, se opta por manejo conservador.
+La paciente presenta importante deterioro funcional asociado a edemas en EEII, patrón de desnutrición proteica en analíticas pese a NPT con hiponatremia dilucional asociada. Por todo ello, se decide no continuar con tratamiento oncoespecífico durante el ingreso.
+Ante el deterioro franco, se informa a la familia del mal pronóstico a corto plazo. Tras reunión conjunta, se acuerda alta a domicilio con soporte por parte de PADES, tras ajustar tratamiento sintomático por vía subcutánea.
+5. SÍNDROME FEBRIL SIN FOCO CLARO
+6. INFECCIÓN POR CLOSTRIDIUM DIFFICILE
+7. INFECCIÓN POR SARS-COVID-2
+A su llegada a sala, la paciente presenta fiebre de hasta 38ºC, con elevación de RFA sin claro foco clínico y sin aislamientos microbiológicos, realiza tratamiento con ceftriaxona con resolución del cuadro. Posteriormente, inicia deposiciones pastosas y dolor cólico abdominal para lo que se extrae coprocultivo que demuestra positividad para toxina C.difficile. Se realiza tratamiento por 5 días con vancomicina VO con posterior paso a metronidazol ev + tigeciclina, por intolerancia a la vía oral.
+Como control sanitario, se realiza frotis COVID 19 el día 31/5/25 el cual resulta positivo. Rx tórax sin neumonía asociada ni clínica respiratoria. Consensuado con s. enfermedades infecciosas, se decide realizar controles sin tratamiento específico.
+   
+   

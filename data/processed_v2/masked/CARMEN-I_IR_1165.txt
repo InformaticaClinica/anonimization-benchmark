@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**42 anys**] amb AP d'asma ingressat per pneumònia greu per COVID amb bona evolució. Persisteix febrícula i condensació a base dreta.
+Interessa angioTC per descartar TEP i valorar patró NOC.
+
+protocolo:
+ANGIOTC TORACOABDOMINAL (tórax en fase arterial mediante energía dual, abdomen hasta regiones poplíteas en fase portal).
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP. No se observan signos radiológicos de insuficiencia de cavidades cardíacas derechas.
+Catéter central con entrada por v. yugular derecha y extremo en v. cava superior.
+Adenopatías paratraqueales derechas (altas y bajas, 2R y 4R) y subcarinal-hiliar derecho (16 mm, 7) e hiliar izquierda de tamaño límite. No se observan adenopatías axilares de tamaño significativo.
+No se evidencia derrame pleural ni pericárdico.
+Atelectasias en ambos LLII.
+Múltiples áreas en vidrio deslustrado bilaterales y difusas, de predominio en LSD. Se observan áreas de distorsión parenquimatosa en ambas bases con áreas de aspecto fibroso y engrosamiento de las paredes bronquiales.
+ABDOMEN:
+Arteria hepática izquierda accesoria del TC.
+Hígado, vesicula biliar, vía biliar, bazo, páncreas, glándulas suprarenales y riñones sin alteraciones a destacar. No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.No se observa líquido libre intraabdominal. Sondaje vesical.
+Venas femorales y poplítea permeables.
+De forma incidental se observa a nivel de la metáfisis femoral distal derecha, se observa lesión lítica de márgenes esclerosos bien definicos y contenido de densidad grasa. Es excéntrica a nivel lateral (sin contacto con la cortical) de 1.3 x 1.3 cm. La presentcia de grasa intralesional sugiere etiología benigna (lipoma intraóseo, quiste oseo involucionado...?). No precisa más estudios.
+
+conclusiones:
+No se observan signos de TEP.
+Adenopatías mediastínicas.
+Atelectasias bibasales, con vidrio deslustrado bilateral y difuso que predomina en LSD, asociado a distorsión de la arquitectura en LLII, lo que sugiere afectación por COVID-19.
+
+descrip:
+ANGIO TC PULMONAR

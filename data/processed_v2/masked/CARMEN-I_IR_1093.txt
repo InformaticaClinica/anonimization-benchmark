@@ -1,0 +1,33 @@
+
+prueba:
+TC LITIASIS
+
+clinica:
+INSUFICIENIA RENAL AGUDA
+
+protocolo:
+TC abdominopélvico basal urgente con energía dual.
+
+resultados:
+Se compara con exploración TC previo del [**28/09/2014**]
+Riñones de morfología y tamaño normal, el derecho con una cicatriz cortical. Microlitiasis calicial de 2 mm en el riñón izquierdo, aparentemente no obstructiva. que tras el procesado de las imágenes con energía dual se determina que la composición de la litiasis es de ácido úrico.
+No se observan el resto de litiasis que se veian en la exploración previas. No se observa dilatación de la via excretora izquierda.
+No se identifican litiasis renales derechas. Leve ectasia pieloureteral derecha, más evidente que en el estudio previo, sin causa obstructiva valorable.
+Voluminosa hipertrofia prostática con impronta en suelo vesical.
+Hígado de tamaño y morfología, intuyendo algunas de las lesiones focales conocidas (M1), poco valorable al tratarse de una exploración sin contraste.
+Vesícula biliar colapsada, con contenido hiperdenso ya visualizado en estudio previo (litiasis vs contraste). Vía biliar no dilatada.
+Bazo, páncreas y glándulas suprarrenales de morfología dentro de la normalidad.
+Hemicolectomía derecha. Ileostomía en fosa ilíaca derecha.
+Múltiples nódulos en hojas peritoneales de ambas fosas ilíacas y en mesenterio comnpatibles con implantes conocidos, sin cambios significativos respecto a estudio previo. Implante sólido en fosa ilíaca izquierda sin cambios respecto a estudio previo. Resolución de los cambios inflamatorios en grasa mesentérica compatibles con paniculitis.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Pequeña banda de líquido libre subhepático derecho. No se observa líquido libre intraabdominal en otras localizaciones.
+En los cortes torácicos incluidos en el estudio se observan opacidades en vidrio deslustrado bibasales y consolidación basal izquierda con broncograma aéreo en relación a su infección por COVID19.
+Área de sustitución grasa en la región apical del ventrículo izquierdo, compatible con un infarto de miocardio antiguo.
+
+conclusiones:
+- Litiasis calicilar izquierda de ácido úrico ya presente en estudio previo, no obstructiva. Ya no se visualizan las otras litiasis descritas en el estudio previo.
+- Leve dilatación pieloureteral derecha sin causa obstructiva valorable.
+- Opacidades bibasales en vidrio deslustrado y consolidación basl izquierda en relación a infección por COVID 19 conocida.
+
+descrip:
+TC LITIASIS

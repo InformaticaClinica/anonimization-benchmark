@@ -1,0 +1,39 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**Mujer**] de [**71 años**] ingresada por neumonía por covid-19 que presentó la madrugada del [**09 septiembre**] shock hemorrágico secundario a hematoma retroperitoneal en contexto de anticoagulación con heparina y que se embolizó satisfactoriamente.
+En las últimas 24 horas presenta anemización con caída de 9 puntos de hematocrito e inestabilidad hemodinámica con requerimietno de soporte vqasoactivo. Abdomen muy patológico a la exploracion física con dolor, distensión y peritonismo.
+Interesa descartar resangrado y/o perforación intestinal.
+Gracias
+NEUMONÍA POR COVID-19
+
+protocolo:
+ANGIO TC REGION ESPLACNICA URGENTE
+
+resultados:
+Se compara con TC previo del [**09/09/2022**]
+Cambios por embolización en retroperitoneo derecho.
+Aumento de tamaño del gran hematoma retroperitoneal derecho, que se extiende cranealmente hacia espacio perirrenal y fascia pararrenal ipsilaterales y caudalmente avanza por la gotiera paracólica derecha hasta pelvis.
+En el momento actual presenta unos diámetros de 203 x 158 x 139 mm (Previo de 135 x 137 x 111 mm). No se observan imágenes sugestivas de sangrado activo.
+Moderado hemoperitoneo en pelvis Sin cambios significativos respecto a TC previo. No se observa neumoperitoneo.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Vesicula biliar distendida, sin alteraciones evidentes. Via biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Sondaje vesical. Sonda nasogástrico con extremo distal en cuerpo gástrico.
+Sutura metálica en recto.
+Leve derrame pleural bilateral que condiciona colapso pasivo del parénquima pulmonar adyacente.
+Múltiples focos consolidativos difusos identificados en paréqnuima pulmonar incluido en el estudio, en relación a COVID
+
+conclusiones:
+Aumento de tamaño del gran hematoma retroperitoneal derecho repecto estudio previo, sin signos de sangrado activo.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+descrip:
+ANGIO TC REGION ESPLACNICA (TC, AMS)

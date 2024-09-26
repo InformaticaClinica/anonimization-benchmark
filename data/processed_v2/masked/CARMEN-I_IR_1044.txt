@@ -1,0 +1,21 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+[**Mujer**] de [**63 años**], con antecedente de Vasculitis ANCA-MPO de años de evolución en remisión y sin tratamiento actual. Ingresada por Neumonía bilateral por COVID. Destaca empeoramiento progresivo de la función renal, asociado a proteinuria y hematuria. Solicitamos ecografía renal para estudio y de cara a valorar si es posible realizar biopsia.
+Gracias.
+Vasculitis ANCA-MPO en remisión.
+
+protocolo:
+Ecografía renovesical
+
+resultados:
+Riñones de tamaño y ecoestructura normales . No se observa dilatación de vías excretoras.  No se aprecian masas ni litiasis. No se observa líquido libre intrabdominal.
+Vejiga urinaria distendida y sin lesiones parietales valorables por ecografía. Presenta contenido ecogénico en su porción posterior (detritus).
+
+conclusiones:
+Vejiga urinaria con contenido ecogénico en su porción posterior, probable detritus.
+
+descrip:
+ECO RENO-VESICAL

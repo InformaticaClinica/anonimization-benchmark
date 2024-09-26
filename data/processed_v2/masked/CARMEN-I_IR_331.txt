@@ -1,0 +1,38 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+PACIENTE PLURIPATOLÓGICO --> ASA IV
+a.p EPOC IV, ICC, DM II, INSUFICIENCIA RESPIRATORIA, SAHOS; NEO VEJIGA --> neovewjiga en [**2000**].
+Polipo con Displasia de ALto grado (no resecable por FCS)--> hemicolectomía derecha + anastomosis L-L
+Paciente presenta mucha distensión este fin de semana, reactantes de fase aguda persisten elevados.
+
+protocolo:
+Se realiza TC abdominopélvico tras tradministración de contraste e.v. en fase portal.
+
+resultados:
+Hemicolectomía derecha y anastosmosis ileo-cólica latero-lateral, con mínimo aumento de densidad de la grasa adyacente, en relación a la cirugía reciente. Una gota de líquido libre en pelvis.
+Leve dilatación de asas ileales, sin cambios de bruscos de calibres.
+Yeyuno y duodeno, de calibre normal.
+Drenaje percutáneo con extremo distal en hemipelvis derecha.
+No se observan colecciones intraabdominales ni neumoperitoneo.
+Hígado de tamaño y morfología normales, con disminución difusa del coefinicente de atenuación, que sugiere eteatosis. Debido a la fase de adquisición del estudio (arterial tardia) no podemos delimitar las lesiones hepáticas descritas previamente (hemangiomas). Pequeños realces hiperdensos en segmento VIII, indeterminados, pero que parecen en relación a fenómenos vasculares.
+Vesícula biliar de tamaño y morfología normal. No se visualiza dilatación de la vía biliar intra y extrahepática.
+Vena porta y eje espleno-mesentérico permeables.
+Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Quiste de 10 mm en polo superior del bazo. Páncreas y glándulas suprarrenales de tamaño y morfología dentro de la normalidad.
+Riñones de situación y tamaño, normales. Cicatrices corticales bilaterales. No hay evidencia de dilatación de la vía excretora. Cisto- prostatectomía. Neovejiga ileal.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Cortes torácicos basales con enfisema centrolobulillar, bronquiectasias y atelectasias bibasales.
+Cambios óseos degenerativos en columna dorso-lumbar.
+
+conclusiones:
+Leve dilatación de asas ileales, sin cambios de bruscos de calibres.
+Yeyuno y duodeno, de calibre normal.
+No se observa líquido libre ni colecciones intraabdominales.
+No signos de pneuomoperitoneo.
+Neovejiga.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

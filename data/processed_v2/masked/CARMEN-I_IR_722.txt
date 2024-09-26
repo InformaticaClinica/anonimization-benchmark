@@ -1,0 +1,39 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Home de [**76 anys**] ingressat a la [**SalaUCI**] per insuficiencia respiratòria hipoxèmica en context de pneumonia per COVID-19.
+A l'aspirat traqueal s'observen hifes suggestives d'aspergillus pel que sol·licitem TACAR. A més, durant l'ingrés ha presentat FA de debut amb D-dímer 1700 pel que també interessaria angio-TC per a descartar TEP i valorar altres opcions de maneig terapèutic ja que es va haver de suspendre anticoagulació per hematúria.
+COVID- + aspergillus
+
+protocolo:
+ANGIO-TC PULMONAR + TC DE PIERNAS
+
+resultados:
+Catéter yugular izquierdo con extremo en VCS. Sonda nasogástrica.
+Portador de traqueostomía.
+Defecto de repleción en rama segmentaria posterior de la arteria pulmonar derecha en probable relación a trombosis pulmonar.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+Derrame pleural bilateral leve de predominio derecho.
+No se observa derrame pericárdico.
+Áreas de vidrio deslustrado periféricas sobretodo en hemitórax derecho.
+Hematoma del músculo psoas derecho asociado a líquido libre intraabdominal de predominio perirrenal derecho y periesplénico. No se observan claros signos de sangrado activo en la fase portal del estudio.
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales.
+Vesícula biliar de tamaño normal y paredes finas. Vía biliar no dilatada.
+Vena porta y eje espleno-portal permables.
+Páncreas, bazo y glándulas suprarenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. No se observa dilatación de la vía excretora.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se observan defectos de repleción en las venas ilíacas, femorales o poplíteas sugestivas de TVP.
+
+conclusiones:
+Trombosis de arteria pulmonar en  rama segmentaria posterior del lóbulo superior derecho. No se observan signos de TVP ilíaco, femoral o poplíteo.
+Hematoma del músculo psoas derecho.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

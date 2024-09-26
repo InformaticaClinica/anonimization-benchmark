@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 57 años con Neumonía por SARS-COV2, ahora con LAF 40/40, que no termina de progresar. Se solicita AngioTC no urgente para filiar diagnostico y descartar NOC o TEP (Pequeño trombo adherido al catéter en la vena yugular derecha en el TAC del 5.12. No ACO, solo Enoxaparina profiláctica).
+NEUMONÍA BILATERAL POR SARS-COV2
+
+protocolo:
+Estudio TC de arterias pulmonares.
+NOTA: Estudio de calidad subóptima por artefactos de movimiento respiratorio.
+
+resultados:
+Se revisan estudios previos; último TC del 11/5/2019.
+Traqueostomía. SNG con extremo distal en primera porción duodenal. Vía central derecha con extremo distal en VCS.
+No se evidencian defectos de repleción endovasculares en las ramas principales de la arteria pulmonar, ni en las ramas lobares que sugieran la existencia de TEP. Ramas segmentarias y subsegmentaris poco valorables.
+No se observan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable.
+Ausencia de derrame pleural, ni pericárdico.
+Discretas opacidades en vidrio deslustrado peribroncovasculares y periféricas bilaterales, en relación a proceso neumónico por COVID-19.
+Práctica resolución de las atelectasias de ambos lóbulos inferiores, visualizándose ahora discretas atelectasias subpleurales posterobasales.
+Granuloma calcificado en el segmento lateral del LM. Resto del parénquima pulmonar sin alteraciones valorables.
+Colelitiasis.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

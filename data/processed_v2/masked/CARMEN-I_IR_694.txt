@@ -1,0 +1,10 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Pacidente en HD, positiva para COVID, control
+FIEBRE
+
+descrip:
+RX  PORTATIL  TORAX

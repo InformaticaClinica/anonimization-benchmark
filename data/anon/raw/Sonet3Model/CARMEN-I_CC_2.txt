@@ -1,0 +1,84 @@
+Realizo llamada telefónica. Refiere buen descanso nocturno, sin incidencias. BEGLlamada:
+Buen estado general, no tos, no disnea, no fiebre, no diarrea.
+Alta el [**20/05**], cumpliéndose 3 semanas desde el incio de los síntomas.Visita a pacient
+Tos: No
+Dispnea: poc
+SAt=2:97% basal
+Ritme deposicional: normal
+Temperatura: 36,4
+EVA: 5/10 dolor pit
+Deambula per l' habitacióPacient bon estat general.
+Sense àlgies.
+No diarrees.
+Tarda sense incidències.Trucada de control:
+Refereix bon descans nocturn.
+No àlgies. No sensació distèrimica. No tos. No díspnea. No deposicions.EVOLUCIÓN [**Centro COVID**]
+1. Probable neumonía bilateral Covid19
+2.Síndrome ansioso
+Situación social: vive con sus [**suegros**] que son mayores.
+----
+FECHA INICIO SÍNTOMAS: [**27/04/2011**]
+FECHA INGRESO URGENCIAS: [**29/04/2011**]
+FECHA INGRESO [**Hospital COVID**]: [**3/05/2011**]
+---
+MEDICACIÓN COVID:
+[**30/04**]: Azitromicina
+---
+OXÍGENO DURANTE LA ESTANCIA HOSPITALARIA: no
+OXÍGENO AL ALTA/INGRESO HDOM: no
+---
+Analítica [**7/05**]: PCR 0.40, LDH 177, d dimero 200, linfocitos 2100.
+---
+RX ([**7/05**]): Tenue aumento de densidad en las bases pulmonares de localización periférica, de dudoso significado patológico debido a la superposición de partes blandas y escápulas. Patrón indeterminado para COVID-19. Se aconseja RX de tórax lateral si fuera posible y/o controlevolutivo.
+---
+VISITA PRESENCIAL:
+Paciente consciente y orientado, buen estado general. Afebril. No disnea, tos ni otros síntomas. No diarrea.
+---
+Plan: Alta [**18/05**] una vez cumplido aislamiento.Consciente y orientada.
+No refiere disnea.
+Tos: no refiere
+No refiere molestias.
+Dps: dentro de la normalidad.Visita al paciente:
+C y O, eupneico, afebril.
+No refiere tos ni diarreas.
+Repasamos medicación.Trucada de control:
+Refereix bon descans nocturn.
+No àlgies. No sensació distèrimica. No tos. No díspnea. No deposicions.Pciente consciente y orientada.
+Tos: no refiere
+No refiere dolor.
+No refiere disnea.
+Dps: dentro de la normalidad.Visita al paciente:
+C y O, eupneico, sin tos.
+Afebril.
+No algias ni diarreas.
+Repasamos medicación.Buen descanso nocturno. Sin incidencias
+No refiere algias ni molestias durante la noche.EVOLUCIÓN [**Centro COVID**]
+1. Probable neumonía bilateral Covid19
+2.Síndrome ansioso
+Situación social: vive con sus [**suegros**] que son mayores.
+----
+FECHA INICIO SÍNTOMAS: [**27/04/2011**]
+FECHA INGRESO URGENCIAS: [**29/04/2011**]
+FECHA INGRESO [**Hospital Salut**]: [**3/05/2011**]
+---
+MEDICACIÓN COVID:
+[**30/04**]: Azitromicina
+---
+OXÍGENO DURANTE LA ESTANCIA HOSPITALARIA: no
+OXÍGENO AL ALTA/INGRESO HDOM: no
+---
+Analítica [**7/05**]: PCR 0.40, LDH 177, d dimero 200, linfocitos 2100.
+---
+RX ([**7/05**]): Tenue aumento de densidad en las bases pulmonares de localización periférica, de dudoso significado patológico debido a la superposición de partes blandas y escápulas. Patrón indeterminado para COVID-19. Se aconseja RX de tórax lateral si fuera posible y/ocontrolevolutivo.
+---
+VISITA PRESENCIAL:
+Paciente consciente y orientado, buen estado general. Afebril. Nodisnea, tos ni otros síntomas. No diarrea.
+---
+Plan: Alta hoy con ambulanciaVisita a pacient
+Tos: no
+Dispnea: no
+SAt=2:98% basal
+Ritme deposicional: normal
+Temperatura: 35,8
+EVA: 0/10
+Deambula per l' habitació. Alta avuí a les 17 h amb ambulànciaEl paciente, tras disponer del tiempo suficiente, acepta y otorga de manera verbal su consentimiento informado para participar del estudio del protocolo [**WYX/8408/5545**]. Se entrega de igual manera la información en escrito al paciente

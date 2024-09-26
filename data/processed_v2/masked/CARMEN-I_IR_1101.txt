@@ -1,0 +1,23 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de [**43 años**] diagnosticado de Leucemia Linfoblástica aguda, en tratamiento de induccion quimioterapica. Se solicita ecografía basal de abdomen/higado previo a administración de Pegasparaginasa (potencialmente hepatotóxico) con el fin de descartar patologia estructural, esteatosis y así matizar dosis de ser necesario. Gracias.
+LLA B comun, Phi negativo
+
+protocolo:
+Ecografia basal de abdomen
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin signos de esteatosis hepática y sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica.
+Vía biliar no dilatada.
+Vena porta permeable de calibre normal y con flujo hepatopetal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño normal, sin dilatación de la vía excretora. Se visualiza don dificultad la lesión parcialmente calcificada de aproximadamente 19 mm en polo inferior del riñón derecho, correspondiendo con la lesión descrita por TC.
+No líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

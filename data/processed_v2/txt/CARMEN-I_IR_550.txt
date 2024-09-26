@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neumonia bilat
+NEUMONIA BILATERAL probable COVID-19
+
+conclusiones:
+RX TóRAX PORTÁTIL
+Condensaciones alveolares periféricas en tercio medio de ambos hemitórax compatibles con Covid que han mejorado en relación al control previo efectuado el 9/05/2025
+
+descrip:
+RX  PORTATIL  TORAX

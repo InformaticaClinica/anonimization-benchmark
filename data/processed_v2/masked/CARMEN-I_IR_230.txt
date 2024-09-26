@@ -1,0 +1,41 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente con absceso hepático secundario a diverticulitis, complciada con Derrame pleural derecho. Actualmente estable, en tratamiento antibiótico. Se solcita estudio de imágen control para evaluar conducta a seguir.
+ABSCESO HEPÁTICO
+
+protocolo:
+TC abdominal tras administrar contraste e.v. Se adquieren las imágenes en fase portal. Se compara con el estudio previo del [**12/9/2024**]
+
+resultados:
+Disminución de tamaño de la lesión hepática multitabicada, de bordes bien delimitados, en cúpula del lóbulo hepático derecho (segmento VIII). Actualmente mide 7 cm de diámetro (previo 9 cm).
+Es compatible con absceso hepático.
+Higado de tamaño normal, homogéneo y de bordes lisos.
+Quiste hepático adyacente al ligamento falciforme.
+No observamos otras lesiones focales hepáticas.
+Vesícula biliar de tamaño normal y paredes finas.
+Vía biliar no dilatada.
+Bazo de tamaño normal homogéneo sin evidencia de abscesos.
+Páncreas y glándulas suprarrenales sin alteraciones.
+Vena porta permeable en tronco y ramas principales.
+Riñones de tamaño y morfología conservados con algunos pequeños quistes.
+No se obervan signos de uropatia obstructiva.
+No se objetivan adenopatías retroperitoneales ni ilíacas de tamaño significativo.
+Múltiples divertículos en todo el marco cólico. La diverticulosis es especialmente severa a nivel del colon descendente distal y de sigma proximal apreciando a dicho nivel un engrosamiento de la hoja peritoneal y cierta trabeculación grasa, siendo sgestivo de presentar asociada una diverticulitis Hinchey Ia.
+Marcada atrofia del músculo psoas-ilíaco izquierdo.
+Utero miomatoso.
+Derrame pleural derecho, sin cambios respecto estudio previo.
+
+conclusiones:
+Disminución de tamaño de la lesión hepática multitabicada, de bordes bien delimitados, en cúpula del lóbulo hepático derecho (segmento VIII). Actualmente mide 7 cm de diámetro (previo 9 cm).
+Es compatible con absceso hepático.
+Se aconseja próximo control por ecografía, según evolución, valorar colocación de drenaje.
+Probable diverticulitis Hinchey Ia en colon descendente distal/sigma proximal, sin cambios significativo.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

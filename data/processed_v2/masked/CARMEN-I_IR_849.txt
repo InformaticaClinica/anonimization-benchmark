@@ -1,0 +1,33 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**79 años**] IABVD, no vacunada, DLP, poliartrosis, osteoporosis y no vacunada de COVID.
+Ingresada por Neumonía por SARS-CoV-2 con día +10 de síntomas.
+Empeoramiento con VMK al 35% saturando al 97%. Empeoramiento radiológico con respecto a la rx de tórax de hace dos días.
+Se solicita TACAR para descartar neumonía organizativa.
+NEUMONIA POR SARS COV 2
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP. Tronco de la arteria pulmonar de calibre conservado. Sin signos de
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Espacios pleurales libres.
+Mínimo enfisema centrolobulillar de predominio en LLSS.
+Discretas bronquiectasias cilíndricas difusas.
+Opacidades bilaterales en vidrio deslustrado parcheadas peribroncovasculares y periféricas de predominio posterior, en LLII y LSD, algunos con morfología perilobular, en relación a neumonía bilateral por neumonía por COVID-19 de extensión leve. Mínimos e incipientes cambios organizativos en el estudio actual.
+Esteatosis hepática.
+Aplastamiento con acuñamiento anterior del cuerpo vertebral de T11.
+
+conclusiones:
+Sin signos de TEP.
+Hallazgos en relación a neumonía bilateral por COVID-19 de extensión leve. Mínimos e incipientes cambios organizativos en el estudio actual.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,25 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+SHOCK SÉPTICO. COLANGITIS AGUDA
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en condiciones basales y en fase arterial, fase portal, tras administrar contraste iv.
+URGENTE
+
+resultados:
+Solución de continuidad de la pared de la segunda porción del duodeno de unos 33 mm compatible con perforación a este nivel, asociado a una gran colección retroperioneal anfractuosa, heterogénea, con contenido hidroaéreo y algunas áreas hiperdensas sugestivas de coágulos en su interior, de aprox 120 x 73 x  mm (APxTxCC). No se observan signos de sangrado activo. Esta colección se distribuye caudalmente hasta FID por el retroperitoneo, desplazando el colon ascendente hacia anterior, el riñón derecho hacia medial. A medial contacta con la vena cava inferior y cranealmente contacta con el s. VI hepático. Engrosamiento parietal de probable origen reactivo del colon ascendente en contacto con la colección. Trabeculación de la grasa en hemiabdomen superior. Leve cantidad de líquido libre perihepático, periesplénico, en pélvis y ambas gotieras parietocólicas.
+Moderada dilatación de la vía biliar intrahepática, la cual se encuentra dilatada hasta el hilio hepático, sin objetivar clara causa obtructiva.
+El colédoco se encuentra desplazado por la colección hacia medial y craneal, pero es de calibre normal. La vesícula biliar se observa de tamaño normal, con múltiples litiasis en su interior. Llama la atención la presencia de aire en su interior, y una dudosa discontinuidad de su pared en contacto con la colección descrita. Estos hallazgos son sugestivos de fístula colecisto-duodenal a este nivel.
+Hígado de tamaño normal, de bordes irregulares, sugestivo de hepatopatía crónica conocida. No se obervan lesiones focales evidentes.
+Bazo, páncreas, glándulas suprarrenales y riñones sin alteraciones significativas. Quiste renales corticales simples bilaterales. Eje porto-espleno-mesentérico permeable. No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+
+conclusiones:
+Perforación de la segunda porción del duodeno, asociado a una gran colección retroperioneal de las características descritas. Engrosamiento parietal de probable origen reactivo del colon ascendente en contacto con la colección. Leve cantidad de líquido libre perihepático, periesplénico, en pélvis y ambas gotieras parietocólicas.
+Moderada dilatación de la vía biliar intrahepática, la cual se encuentra dilatada hasta el hilio hepático, sin objetivar clara causa obtructivapor TC. Colelitiasis. Dudosa discontinuidad de la pared vesicular en contacto con la colección que podría corresponder a fístula colecisto-duodenal.
+Signos de hepatopatía crónica.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

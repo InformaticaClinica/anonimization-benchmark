@@ -1,0 +1,25 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Agitación y clonias
+
+protocolo:
+TC CRANEAL URGENTE: adquisición basal.
+
+resultados:
+Estudio artefactado por movimientos del paciente durante la adquisición.
+Se compara con TC previa de [**10/04/2019**].
+Sin signos de sangrado intra o extraaxial.
+Las lesiones lacunares descritas previamente (hemiprotuberancia izq, periventricular D y en s. blanca frontal Izq), no se visualizan tan claramente, probablemente por el artefacto de movimiento.
+Atrofia cortical parietal y atrofia más evidente a nivel temporal.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas.
+Cisternas basales no ocupadas.
+
+conclusiones:
+Sin cambios significativos respecto TC de [**marzo de 2019**].
+
+descrip:
+TC CEREBRAL

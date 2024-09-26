@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+COVID postuci IOT -> Descartar NOC por persistencia de req de O2
+NEUMONIA BILATERAL POR SARS-COV2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta una afectación parenquimatosa difusa parcheada bilateral de vidrio deslustrado. No identifico claras imágenes que sugieran un patrón de neumonía organizativa. Presenta atelectasias bibasales. Resto del parénquima pulmonar sin alteraciones valorables.
+Discretos cambios degenerativos en la columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

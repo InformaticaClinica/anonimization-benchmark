@@ -1,0 +1,30 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Pacient de [**74a**] amb antecedent de Pneumònia per SARS-CoV2 greu que va requerir IOT + VMI amb TEP associat marxant d'alta a [**Clinica COVID**] el [**17/03**]. El [**20/03**] reingressa per shock hemodinàmic en context de hematoma retroperitoneal secundari a anticoagulació que va querir d'embolització.
+A més, eco amb TVP a MMII pel que es col·loca també filtre de vena cava.
+Posteriorment estable amb recuperació dels nivells d'Hb pel que d'acord amb NMO es reinicia enoxa a dosis profilàctiques. Interessa TC de control precoç per veure evolució de l'hematoma i plantejar reinici dosis anticoagulants. Moltes gràcies!
+
+protocolo:
+S'ha realitzat estudi de l'abdomen i de la pelvis directament amb contrast ev obtenint imatges en fase portal i excretora. Es compara amb TC prèvia del [**20/03/2015**].
+
+resultados:
+Embassament pleural esquerre amb àrres de col·lapse pulmonar subjacent.
+Voluminós hematoma retroperitonial esquerre que afecta al ms posasilíac i desplaça anteriorment el ronyó esquerre. Mesura 15 x 13 x 24 cm (APxTxL) i comparativament amb el TC del [**20/03**] ha augmentat de mides (previ 11 x 10 x 20 cm). En l'estudi actual no es veuen signes de sagnat actiu.
+Filtre a VCI.
+Fetge, melsa, pàncrees i glàndules suprarenals sense alteracions.
+Via biliar no dilatada. Vena porta i eix esplenomesentèric permeables.
+Ronyons de mida i morfologia dins de la normalitat amb nefrogarma bilateral i simètric, sense signes d'uropatia obstructiva.
+No es veuen ganglis limfàtics augmentats de mida ni al retroperitoni ni en altres territoris abdominals o pèlvics.
+Diverticles al còlon de predomini al sigma, no complicats.
+Estructures pèlviques dins de la normalitat.
+No es veu líquid lliure intrabdominal.
+Hèrnia inguinal bilateral.
+
+conclusiones:
+Voluminós hematoma retroperitonial esquerre que ha augmentat de mides respecte la TC del [**17/03**], sense signes de sagnat actiu.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

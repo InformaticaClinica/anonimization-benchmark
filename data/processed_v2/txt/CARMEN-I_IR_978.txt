@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+Paciente ingresada en intermedios. Presenta pérdida pulsos EID + disminución del relleno capilar y estigmas congestivos. Se agradecería valorar possible detención de flujo vascular en contexto de COVID
+INSUFICIENCIA RESPIRATORIA HIPOXÉMICA
+
+protocolo:
+Angio-TC aorta i EEII
+
+resultados:
+Ateromatosis difusa en l'eix aortoilíac sense imatges d'estenosis significatives. Troncs viscerals digestius i artèries renals permeables, sense estenosis significaitves.
+EI dreta:
+Artèria femoral comú profona i superficial permeables sense estenosis significaitves.
+Imatge suggestiva de trombosi a 3a porció poplítea amb repermeabilització a primer segment de tibials i peronea, que són fil.liformes.
+EI esquerra:
+Artèria femoral comú profona i superficial permeables sense estenosis significaitves.
+Artèria poplítea permeable , ateromatosa, sense estenosis significatives.
+Permeabilitat a la sortida de tibial anterior, tronc tibio-peroneo.
+En l'estudi intraabdominal, afectació parenquimatosa a bases pulmonars ja coneguda.  Adenoma suprarrenal dret ja conegut.
+Fetge, pàncrees, glàndules suprarenals i melsa sense alteracions significatives.
+Ronyons de mida i morfologia normal amb nefrograma bilateral i simètric.
+
+conclusiones:
+Trombosi artèria poplítea dreta.
+Afectació parenquimatosa a bases pulmonrs.
+Sense altres troballes valorables.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

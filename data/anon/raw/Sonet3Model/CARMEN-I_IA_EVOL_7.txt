@@ -1,0 +1,44 @@
+1.- I. [**RESP. AGUDA EN CONTEXTO DE INFECCIÓN POR COVID-19**] Y VGA.
+2.- BRONCOESPASMO
+3.- EAP + HIPERPOTASEMIA
+4.- ABSITINENCIA TABACO Y POSIBLES OTOS TOXICOS.
+5.- RASGOS DESADAPTATIVOS
+6.- HIPERPOTASEMIA
+Paciente con ERC en hemodiálisis, última sesión viernes y programada lunes, acude a ucias con un cuadro de dificultad respiratoria que se ha iniciado hoy y fiebre. Además refiere mucosidad blanquecina los días anteriores. 
+Hemodinámicamente estable, afebril, taquicardico y taquipneico que en EF destaca AC TCR con soplo sistólico. No edemas en EEII ni signos de TVP.
+Pulsos periféricos bilatereales presentes y simétrico. Presenta IY. AR Hipofonesis generalizada con sibilantes difusos. Sin otra focalidad.
+Se inicia tto con 5 puffs Salbutamol + 10 puffs Ipatropio con mejoría clinica.
+Se realiza ECG presenta ritmo sinusal a 100 lpm con eje a -30o c0n T picudas.
+- A/S: pH 7.362 PCR 4.31 Cr 7.86 Cr 7.07 K 6.6 No leucocitosis ni neutrofilia Anemia TP 52.6%
+- Rx tórax no alteraciones de partes blandas, no signos de pneumotórax, no pinzamiento de senos costofrénicos ni cardiofrénicos, índice cardiotorácico normal, no masas ni condensaciones parenquimatosas.
+- Serologias [**10/04/2027**]: HBsAg Negatiu, VIH1-2 - Anticossos + p24 VIH1 Negatiu, [**Virus Hepatitis C Positiu**].
+Se inicia Glucosado con insulina 10 UI.
+Mientras se realiza frotis virus respiratorios + covid-19 el paciente inicia cuadro d e desaturación, taquipnea, con trabajo respiratorio. Se administra Hidrocortisona 200mg y se inicia Bipap. Se contacta con nefrología para dialisis urgente.
+Finalmente el paciente presenta mejoría respiratoria con el tratamiento a pesar de no tolerar BIPAP, que se suspende.
+[**Influenza A positivo**] en frotis. Ante la persistencia de la taquipnea con FiO2 al 40% y uso de musculatoria accesoria se traslada a intermedios de Nefrología y se realiza hemodiálisis de urgencia con mejoría de la clínica respiratoria tras 2,5 litros de ultrafiltración.
+Manteniendo tensiones 110/60 mmHg, habituales en torno a 150/130 de sistólicas.
+Se recibe resultado confirmatorio de infección por Covid19.
+Se comunica al paciente que se trasladara a [**xrgt X405**] y el resultado del frotis tras lo cual presenta episodio de agitación con insultos al personal médico, finalmente se reconduce verbalmente, permaneciendo relativamente tranquilo y aceptando el traslado.
+Durante su estancia en sala de medicina [**X473**] el paciente muestra episodio de agresividad con intento de fuga que se reconduce verbalmente. Posteriormenete el paciente persite hetero y auto agresivo.  
+Con nuevo intento de fuga, negandose a cumplir la pauta terapeutica, a la exploracion fisica o cualquier colaboracion. Se comenta con psiquiatria (Nota adjunta) y se inicia contencion mecanica, requirendo contencion farmacologica pautada y de rescate. Ante la persitencia y falta de respuesta a la medicacion (persite agresivo y completa ausencia de colaboracion) se decide retener al paciente por su salud y por suponer un riego para la sociedad. Se comenta con asistente social para comunicar al juzgado la incapacitacion, dados los ingresos previo por incumplimiento terapeutico que ponen en riesgo la vida del paciente requiriendo de cuidados criticos.
+
+Nota Psiquiatría 25/06 (Dr [**Schneider**])
+Paciente con estado de inquietud y heteroagresividad episódica, con incumplimiento de pautas en el momento actual, a pesar de las recomendaciones médicas sobre los cuidados que debe seguir en relación asu salud.
+Dado su estado médico actual (fragilidad médica global e infección activa por COVID19) y la falta de competencia para la toma de decisiones sobre su salud, el equipo de psiquiatría de consulta y enlace del hospital (Dr [**Schneider**]), aconseja que se suprima temporalmente la autonomía del paciente y se tomen las medidas técnicas y médicas más adecuadas para la salud del paciente y la de terceras personas.
+
+PLAN
+1. Elevar el caso a asesoría jurídica para tener la pertinente autorización judicial sobre el proceso.  
+2. Realizar contención mecánica del paciente para favorecer el cumplimiento de pautas médicas.
+3. Tratamiento con olanzapina 10 mg/IM 1-0-1. Si fuese preciso, añadir haloperidol 5 mg/amp/im, 1/2 -0-1/2.
+4. Consulta al equipo de psiquiatría según evolución del caso.
+
+Por lo que compete a la situación clínica respiratoria del paciente, presenta mejoría considerable. Se mantiene afebril, HD estable, con saturaciones de O2 del 94% basal. Mejoría de los parámetros analíticos con PCR de 1.7, LDH 170, persiste linfopenia. Se cursan dos frotis para COVID19 que resultan negativos ([**1/07**] y [**3/07**]) motivo por el cual se considera en condiciones de ser alta.
+Se comenta con Asistente Social para planificar opciones de destino al alta. Así también, se gestiona localización de la dialisis.
+Se solicita valoración por Psiquiatría y se procede a contactar con autoridad judicial para recapacitar al paciente en la toma de sus decisiones.
+Des de Asistente social se posibilita la opción de plaza en un [**Albergue**] el [**lunes 7/07**]. Se le propone permanecer en el hospital, reubicandolo en zona no-COVID. El paciente declina la opción, ya que desea marchar ya.
+Se le explica que no es la recomendación médica más adecuada, lo entiende. Dicho este, el paciente no reune criterios de ingreso hospitalario de agudos.
+Dada la valoración por Psiquiatría favorable a que es apto para tomar decisiones de manera consciente y orientada, el paciente es alta el dia [**4/07/2027**] de manera voluntaria.
+
+Valoración por parte de Psiquiatría (Dr. [**Schneider**])
+Paciente con mejoría clínica significativa, con negativización de test covid19. Por este motivo no sería candidato a continuar el ingreso hospitalario. 
+Derivado de sus rasgos de personalidad desadaptativos (probable [**trastorno de la personalidad**]), que indican una patología psiquiátrica crónica, apenas modificable sin terapia psicológica crónica ambulatoria,y la adecuada competencia que estas personas presentan respecto a la  toma de decisiones (capacidad para vida autónoma), se decide el alta  hospitalaria, para que el paciente prosiga su seguimiento y tratamiento psiquiátrico actual en su [**CSMA**]

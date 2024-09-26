@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neumonía basal derecha. Probable COVID19
+
+conclusiones:
+Sin cambios radiologicos significativos en la opacidad focal en LSI y la pequeña consolidación en LID
+
+descrip:
+RX  PORTATIL  TORAX

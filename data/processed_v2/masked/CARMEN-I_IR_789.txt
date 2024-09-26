@@ -1,0 +1,26 @@
+
+prueba:
+RM CONTRAST
+
+clinica:
+PACIENTE DE [**44 AÑOS**] QUE SE ENCUENTRA INGRESADO POR FIEBRE SIN CLARO FOCO Y QUE DURANTE EL INGRESO HA PRESENTADO ELEVACIÓN DE TRASNSAMINASAS A EXPENSAS DE GGT Y FA SIN ELEVACION DE BILIRRUBINA (GGT DE 1060) Y CON REALIZACION DE ECO DE ABDOMEN Y TAC ABDOMINAL SIN ALTERACIONES. VALROAR REALIZAR COLANGIORMN PARA DESCRATAR COMPLICACIONES DE VIA BILIAR, ASI COMO LITIASIS O PILEFLEBITIS
+
+protocolo:
+RM PANCREÀTICA: adquisicions en pla axial i coronal amb seqüències potenciades en T1, T2 i difusió. Adquisicions dinàmiques després d'administrar contrast ev.
+
+resultados:
+Fetge de mida i morfologia normal, sense lesions focals evidents.
+Vesícula biliar de mida normal i parets fines, alitiàsica. Via biliar no dilatada, sense identificar colelitiasis ni masses aparents.
+Eix portoesplenomesenteric permeable.
+Pàncrees de mida i morfologia conservades, conducte pancreàtic principal de calibre normal), sense evidenciar lesions focals.
+Melsa homogènia de mida normal (12.4 cm).
+Glàndules suprarenals i ronyó dret sense alteracions evidents. Ronyó esquerre de mida normal, amb alguna cicatriu cortical als terços inferior i superior. No s'observa dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals de mida significativa.
+No s'observa líquid lliure intraabdominal.
+A les bases pulmonars s'observen unes opacitats bilaterals ja conegudes.
+
+conclusiones:
+Sense troballes a destacar.
+
+descrip:
+RM PANCREATICA (INCLUYE COLANGIOPANCREATOGRAFIA RM)

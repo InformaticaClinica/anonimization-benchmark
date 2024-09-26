@@ -1,0 +1,20 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Dona**] de [**51 anys**] antecedent de trasplant hepatic el [**1999**] per VHB i VHD, ara ingressa per infecció respiratoria, en úlitm mes 3 ingressos per infecció respiratória , actualment cobert amb meropenem tecio, Rx torax condensació base esquerre anterior.
+FIEBRE
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Discreto derrame pleural laminar derecho. No se observa derrame pleural izquierdo.
+Focos consolidativos y en vidrio deslustrado bilaterales, de distribución periférica y de predominio en porciones posteriores LLII y en la língula en donde presenta áreas consolidativas peribroncovasculares en forma de bandas periféricas.
+Los hallazgos descritos son compatibles con neumonía bilateral, correspondiente a los hallazgos en las RX de tórax de [**29/11/2014**] y [**1/04/20/2020**] y son sospechosos de probable COVID-19.
+Cambios postquirúrgicos hepáticos. Leve aerobilia de predominio en el LHI.
+
+conclusiones:
+Hallazgos compatibles con neumonía bilateral con patrón de probable COVID-19.
+
+descrip:
+TC TORAX

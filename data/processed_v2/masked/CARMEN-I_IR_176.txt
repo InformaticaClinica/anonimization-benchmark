@@ -1,0 +1,33 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Interesa control en paciente de [**84 a**] con neo urotelial con carcinomatosis peritoneal ingresado por suboclusión intestinal con mala evolución, con cambio de calibre previamente descrito en sigma. Gracias
+Neoplàsia maligna, localització no especificada de la bufeta urinària
+
+protocolo:
+TC ABDOMEN:
+Se realizan secciones transversas desde diafragmas hasta sínfisis púbica en fase portal y excretora después de la administración de contraste ev y de agua como contraste oral.
+
+resultados:
+Se compara con estudio previo del [**7 de octubre**].
+Presencia de sonda nasogástrica y marcada disminución de la distensión de las asas de delgado y colon sin identificarse un cambio de calibre ni signos de obstrucción evidentes.
+Resto de la exploración sin cambios.
+Persiste moderada ascitis con signos de carcinomatosis y estabilidad en el derrame pleural bilateral (moderado en el lado derecho y leve en el lado izquierdo) . Atelectasia pasiva parcial de ambos lóbulos nferiores.
+Signos de enfisema pulmonar en las bases pulmonares no atelectasiadas.
+Hígado de tamaño normal y contornos lisos, con algunos quistes simples, el mayor de ellos de 9 mm en s.II.
+Persiste una zona heterogénea e hipocaptante en s.VII. Vesícula de morfología normal. Vía biliar intra y extrahepática no dilatada. Vena porta y eje esplenomesentérico permeables. Bazo de tamaño normal.
+Páncreas de morfología normal, con nódulo hipodenso de 14 mm en cola, similar al TC previo. Adenomas suprarrenales bilaterales (derecho de 2 cm, izquierdo de 3.6 cm), estables.
+Riñones levemente atróficos. Quiste simple de 5 cm en riñón izquierdo.
+Pelvis extrarrenal bilateral.
+Moderada dilatación urétero-pielocalicilar bilateral, similar a TC previo.
+Cambios post-quirúrgicos por RTU y por una ureterectomía distal con reimplante ureteral izq.
+Persiste estable la imagen nodular de 3 cm en base de la vejiga correspondiente a neoplasia conocida que condiciona dilatación de la vía excretora derecha y retraso funcional.
+Oclusión crónica de la arteria ilíaca externa izquierda, estando la arteria femoral izquierda repermeabilizada a través de colaterales.
+
+conclusiones:
+No se aprecia dilatación de asas de intestino en la actualidad.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Infección por COVID-19
+
+conclusiones:
+Se compara con exploración previa del [**19 de octubre**].
+Persiste el tenue infiltrado intersticial bilateral más evidente a nivel de las bases.
+Disminución del tamaño del nódulo pulmonar en LSI que corresponde a M1.
+
+descrip:
+RX  PORTATIL  TORAX

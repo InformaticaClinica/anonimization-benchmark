@@ -1,0 +1,26 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente [**87 años**] en día +16 neumonía COVID con empeoramiento clínico y de función respiratoria en contexto de aumento de reactantes de fase aguda. Diagnóstico de TEP segmentario en TC [**8/6**]. Agradecería nueva prueba para descartar posible desarrollo de neumonía organizativa, muchas gracias
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+TACAR
+
+resultados:
+Se compara con TC previo del [**8/06/27**].
+Cardiomegalia. Marcapasos.
+Tronco de la arteria pulmonar dilatada (36 mm), estable.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Aumento del derrame pleural derecho conocido, actualmente discreta cuantía. No se observa derrame pleural izquierdo ni pericárdico.
+Opacidades bilaterales en vidrio deslustrado de predominio peribroncovascular y periférico, actualmente asociadas a engrosamientos septales y tendencia a la consolidación, de predominio en LLSS. Algunas imágenes en halo reverso, bandas subpleurales, dilataciones bronquiales y distorción arquitectural, todo esto compatible con neumonía COVID19 con cambios organizativos. Respecto a TC previo, se observa empeoramiento radiológico.
+Pequeña hernia de hiato. Pequeño nódulo suprarrenal izquierdo, estable.
+
+conclusiones:
+Afectación parenquimatosa compatible con neumonía COVID19 conocida, actualmente con cambios organizativos. Respecto a TC previo, se observa empeoramiento radiológico.
+Resto, sin cambios significativos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

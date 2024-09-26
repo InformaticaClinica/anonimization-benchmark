@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente 53 años con cuadro infeccioso similar a COVID-19 pasado en domicilio que consulta en fase evolutiva por insuficiencia respiratoria con infiltrados parcheados en Rx. El dímero D se encuentra elevado.
+Solicitamos AngioTC para descartar TEP vs NOS. Muchas graciaS!!
+DISNEA
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre normal. Cardiomegalia.
+Múltiples adenopatías mediastínicas aumentadas de tamaño en localización prevascular, paratraqueal bilateral y subcarinal, la mayor de ellos paratraqual alta derecha (2 cm eje corto). No se observan adenopatías axilares de tamaño valorable.
+Leve derrame pleural bilateral. No se observa derrame pericárdico.
+Múltiples opacidades en vídrio deslustrado bilaterales y de distribución peribroncovascular y periférica, con tendencia a la consolidación y alguno con signo de halo periférico. Algunas bandas subpleurales. Todo ellos es compatible con una infección por COVID con componente organizativo asociado, sin signos claros de fibrosis.
+Cortes abdominales parcialmente incluidos en el estudio sin hallazgos de interés. Colecistectomía.
+
+conclusiones:
+No se observan signos de TEP agudo. Imagen compatible con afectación por COVID-19 con componente organizativo asociado, sin claras áreas de fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

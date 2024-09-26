@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19 + MM
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Opacidades alveolares bilaterales sugestivo de afectación pulmonar por COVID que han  disminuido ligeramente con respecto a control previo de [**06/09/2022**].
+
+descrip:
+RX  PORTATIL  TORAX

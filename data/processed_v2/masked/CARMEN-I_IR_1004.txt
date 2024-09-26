@@ -1,0 +1,25 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Control a las 24 h de hematoma temporoparietooccipital derecho. Gracias.
+NEUMONÍA BILATERAL POR COVID19
+
+protocolo:
+TC cerebral basal + AngioTC arterial y venoso de arterias intracraneales y troncos supraaorticos URGENTE
+
+resultados:
+Se compara con TC previo del [**12/11/2020**]
+Aumento de tamaño del hematoma lobar témporo-parieto-occipital derecho que mide aproximadamente 97 cc, con edema perilesional. También se aprecia un aumento del efecto de masa sobre las estructuras adyacentes, con colapso de surcos, compresión del asta posterior del ventrículo lateral derecho y desviación de la línea media de 10 mm (previo de 6 mm) hacia la izquierda.
+El hematoma presenta extensión al sistema ventricular, con contaminación hemática tetraventricular. También se acompaña de hemorragia subarcanoidea (HSA) en los surcos de la región parietal derecha, y hematoma subdural laminar en el hemitentorio derecho y hoz cerebral posterior.
+Sistema ventricular prominente (destaca la asta temporal derecha), similar al estudio previo y sin signos de edema transependimario valorables en el momenot actual.
+Cisternas basales no colapsadas.
+Engrosamientos mucoso del seño esfenoidal, asociado a ocupación de aspecto mucoso celdillas etmoidales, seno esfenoidal y senos maxilares.
+
+conclusiones:
+Aumento de tamaño del hematoma parenquimatoso derecho conocido, con mayor efecto de masa y desviación de la línea media de 10 mm hacia la izquierda.
+HSA tetraventricular ligeramente mayor que en el previo. HSA en surcos y subdural laminar en hoz cerebral posterior y hemitentorio derecho sin cambios.
+
+descrip:
+TC CEREBRAL

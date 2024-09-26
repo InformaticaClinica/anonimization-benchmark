@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Dudoso infiltrado base derecha. Frotis negativo (x2) pero antec de contacto.
+
+protocolo:
+TC TORAX URGENTE: adquisición basal
+
+resultados:
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Discretas bronquiectasias cilíndricas difusas.
+Marcados engrosamientos parietales bronquiales de predominio en LM y LLII con imágenes de impactaciones mucosas endobronquiales.
+En segmento lateral del LM se observa pequeño foco en vidrio desluatrado peribroncovascular asociado a la presencia denódulos centrolobulliares en vidrio deslustrado de localización distal.
+Se observa también una pequeña opacidad en vidrio deslustrado aislada en segmento basal lateral del LID asociado a ocupación bronquial proximal.
+Los hallazgos descritos son sugestivos de proceso infeccioso de la vía aérea con patrón indeterminado para COVID-19.
+Granuloma calcificado en el LSI.
+
+conclusiones:
+Discretas bronquiectasias cilíndricas difusas.
+Hallazgos sugestivos de proceso infeccioso de la vía aérea de las características descritas, de predominio en LM y LID.
+Patrón TC indeterminado para COVID-19.
+
+descrip:
+TC TORAX

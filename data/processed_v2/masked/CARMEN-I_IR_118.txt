@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+pacinet ingressada per neumonia per COVID (dia 15 de simptomes). Segueix amb requeriments d'oxigen amb GN 2l i analiticament destaca DD de 16500 (previ de 500). Sol·licito angioTC urgent per descartar TEP. Gràcies
+NEUMONIA POR COVID-19
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Estudio subóptimo debido a adquisición en espiración con artefactos por movimiento respiratorio.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de 25mm. No se observan signos de sobrecarga derecha.
+Calcificación valvular mitral. Discretas calcificaciones coronarias por
+No se observan adenopatías axilares o mediastínicas de aspecto patológico.
+Elevación del hemidiafragma izquierdo, a valorar parálisis diafragmática tras el proceso agudo actual, mediante radioescopia diafragmática.
+No se observa derrame pleural o pericárdico.
+Discretos engrosamientos parietales bronquiales difusos.
+Se identifican algunas tenues opacidades en vidrio deslustrado peribroncovasculares de predominio en LLSS asociado a áreas de atrapamiento aéreo, en probable relación con adquisición en espiración.
+Atelectasias posterobasales subsegmentarias en el LII. Atelectasias laminares en LLII y LSD.
+Se observa mejoría radiológica respecto a RX de tórax inicial del [**1/10/2011**].
+Pequeña de hiato.
+Fractura por aplastamiento de T12 con acuñamiento y fragmento anterior.
+
+conclusiones:
+No se observan signos de TEP.
+Mejoría radiológica respecto a RX de tórax inicial del [**1/10/2011**].
+Escasas opacidades en vidrio deslustrado peribroncovasculares de predominio en LLSS, en relación a neumonía bilateral por COVID-19 en proceso de resolución. Atelectasias posterobasales en el LII.
+Discretos engrosamientos parietales bronquiales difusos.
+Elevación del hemidiafragma izquierdo, a valorar parálisis diafragmática tras el proceso agudo actual, mediante radioescopia diafragmática.
+
+descrip:
+ANGIO TC PULMONAR

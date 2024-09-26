@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Rx de tórax portátil. Se compara con Rx previa del 10/07/2025.
+
+resultados:
+Afectación del parénquima pulmonar bilateral con sutiles opacidades de tipo alveolar de localización central en campo pulmonar inferior derecho (menos evidente que en estudio previo) y en periferia del campo pulmonar derecho medio (más evidente que en estudio previo).
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

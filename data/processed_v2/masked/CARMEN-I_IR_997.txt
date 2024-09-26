@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN RESPIRATORIA - CVID19
+
+protocolo:
+RX de tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el [**23/8/2018**].
+Peristeixen opacitats bipulmonars amb aparició d'àrees de consolidació pulmonars mitges dretes i mitges i inferiors esquerres.
+
+conclusiones:
+Empitjorament radiològic amb aparició de consolidacions no presents a estudi previ.
+
+descrip:
+RX  PORTATIL  TORAX

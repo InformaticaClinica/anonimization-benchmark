@@ -1,0 +1,13 @@
+
+   
+1. INFECCIÓN RESPIRATORIA POR POSIBLE COVID19
+2. HIPO Na + K 2ª a diuréticos
+[**Mujer**] de [**77 años**] que acude a urgencias el [**4/09**] por empeoramiento de su clínica respiratoria que presenta desde el [**28/08**]. A la EF presenta buen estado general, febril (39ºC),taquipnea con SatO2 94% basal, 97% LN a 2l/min, FR 16rpm. Refiere ser autónoma para ABVD, con antecedentes a destacar de HTA y limitación de movilidad por IQ protesis rodilla derecha con complicación infecciosa.
+Rx tórax urgencias: infiltrados intersticiales bilaterales de predominio en ambas bases.
+A/S urgencias: PCR 9,85 mg/dl, glucemia 129 mg/dl, AST 43, ALT 27, GGT 56, LDH 377, Na K 3.0, Mg 1,6mg/dl, Ca 8,3mg/dl, Ferritina 709ng/ml.
+ECG con fibrilación auricular con conducción ventricular a 112 lpm, QRS 100ms, QTc 400ms.
+Se orienta el caso como posible infección por COVID19, dada la clínica, analítica, radiología y el contexto epidemiológico.
+Dada la afectación (clínica, radiológica y analítica) se propone ingreso hospitalario. Se inicia tratamiento con ceftriaxona + lopinavir/ritonavir + hidroxicloroquina + azitromicina. Se explican la situación experimental del tratamiento a la paciente, que comprende y acepta, firma consentimiento informado.
+La paciente presenta buena evolución, manteniéndose afebril desde el día [**5/9**] y con saturaciones > 96% basal sin sensación de dísnea.
+Dada la mejoría dentro del contexto de la infección, se propone como candidata a hospitalización domiciliaria en hotel, siendo alta el día [**10/09/2020**].
+   

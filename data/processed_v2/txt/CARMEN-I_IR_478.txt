@@ -1,0 +1,27 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con neumonia por sars-cov2 con empeoramiento radiológico con aparicion de nuevas opacidades. d-d en aumento y deterioro gasometrico.
+Valorar TEP/NO/otros. gracias! saludos!
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+IOT.SNG.Vía yugular D con extremo en VCS
+No se observan imágenes de TEP
+Extensa neumonia COVID con afectación en vidrio deslustrado, consolidación y "crazy paving" con cambios organizativos de predominio en LLII.
+Consolidación alveolar segmnetaria en LID que aconseja descartar sobreinfección bacteriana.
+
+conclusiones:
+Extensa neumonia COVID con cambios organizativos,
+Consolidación alveolar en LID, Valorar sobreinfección bacteriana.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,31 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Mujer**] de [**70 años**], con antecedente de EPID, último TC en [**abril 2014**].
+Ingresada por neumonía bilateral por SARS-COV-2 con mejoría inicial pero posterior deterioro respiratorio con taquipnea y empeoramiento radiológico. Solicitamos TC de tórax para valorar complicaciones (NOC?, exacerbación EPID?), gracias.
+NEUMONÍA POR SARS-COV-2
+
+protocolo:
+TC TORAX ALTA RESOLUCION
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con angio-TC previo de [**20/04/2014**].
+Múltiples adenopatías mediastínicas prevasculares, paratraqueales bilaterales y subcarinales que han aumentado levemente de tamaño respecto al TC previo, probablemente reactivas.
+Dilatación del tronco de la arteria pulmonar de 38 mm que sugiere hipertensión pulmonar.
+Cambios posquirúrgicos con esternotomía media y recambio valvular mitral. Calcificación caseosa del anillo valvular mitral. Ateromatosis calcificada aórtica. Calcificación parietal de las arterias pulmonares principales. Calcificación parietal de la AI.
+Discreto aumento del leve derrame pleural bilateral.
+Presencia de secreciones endotraqueales.
+Neumopatía intersticial fibrosante con bronquiectasias de tracción, sin imágenes de panal, con mayor afectación de pulmón izquierdo y en regiones anteriores de LLSS. Leve patrón de atenuación en mosaico asociado.
+Comparativamente con el TC previo se observa aumento de áreas en vidrio deslustrado asociado a pequeños focos consolidativos de localización periférica y subpleural predominantemente en las zonas del parénquima pulmonar con afectación fibrótica conocida. Estos hallazgos sugieren la posibilidad de una exacerbación aguda de su proceso de base.
+Riñones atróficos.
+Extensas calcificaciones vasculares en los ramas viscerales de la aorta abdominal.
+Elastofibromas dorsi bilaterales.
+
+conclusiones:
+Comparativamente con el TC previo se observa aumento de áreas en vidrio deslustrado asociado a pequeños focos consolidativos de localización periférica y subpleural predominantemente en las zonas del parénquima pulmonar con afectación fibrótica conocida. Estos hallazgos sugieren la posibilidad de una exacerbación aguda de su proceso de base.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

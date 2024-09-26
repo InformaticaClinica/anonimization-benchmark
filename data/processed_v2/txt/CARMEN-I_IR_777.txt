@@ -1,0 +1,23 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial:No
+Distribución
+- Periférica
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho:  medio
+- Pulmón izquierdo: medio / inferior
+Otros hallazgos relevantes:
+Chilaiditi.
+CONCLUSION:
+Probable COVID.
+
+descrip:
+RX  PORTATIL  TORAX

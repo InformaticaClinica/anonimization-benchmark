@@ -1,0 +1,30 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+[**55a**]. Obesidad. Cuadro de 48h de evolución de dolor en HCD y epigástrio con elevación de transaminasas y enzimas pancreaticos. EcoABD vesicula biliar con paredes engrosada y líquido perivesicular sin observar litiasis con via biliar no dilatada. Presenta dolor mal controlado incluso con opiacios, febricular y taquicárdica. Solicitamos TAC para descartar complicaciones (espcialmente relacionada con vesículo, murphy positivo).
+
+protocolo:
+TC ABDOMINAL adquirido en condiciones basales y tras la administración de contraste en fase arterial tardía y portal.
+
+resultados:
+Hígado de tamaño y morfología normal, con disminución difusa de su atenuación en relación a esteatosis hepática. Imagen hipodensa subcapsular de 1 cm a nivel del segmento VII, compatible con quiste simple.
+Vesícula biliar con múltiples pequeña litiasis infundibulares, y paredes discretamente engrosadas, con mínima cantidad de líquido perivesicular asociado, todo ello de aspecto reactivo. Vía biliar no dilatada. No se identifican signos de complicación a este nivel.
+Páncreas de aspecto globuloso con ausencia de captación de la mayor parte de su parénquima a excepción de algunas zonas a nivel de la cabeza, cuello y cuerpo del páncreas. Trabeculación de la grasa peripancreática, con alguna pequeña adenopatía asociada, de aspecto reactivo. Hallazgos correspondientes a una pancreatitis aguda necrotizante con necrosis pancreática (70-80% del parénquima).
+Moderada cantidad de líquido libre de predominio peripancreático que se extiende a nivel perihepático, lecho vesicular, saco menor y periesplénico, y caudalmente por ambos espacios pararrenales anteriores y gotieras parietocólicas hacia pelvis.
+A nivel periesplénico se identifica alguna zona donde el líquido presenta un aspecto levemente heterogéneo con alguna imagen de densidad grasa en su interior, que podría corresponder a pequeños focos de necrosis grasa. No se identifica neumoperitoneo ni claras colecciones intraabdominales organizadas en este momento.
+Vena porta y confluente esplenomesentérico permeable. Se identifica una imagen compatible con trombo mural, no oclusivo, a nivel del tercio medio de la vena esplénica (de 5 mm, afectando a <50% de la luz del vaso).
+Tronco celíaco, arteria mesentérica superior e inferior permeables, sin alteraciones valorables. Arteria renal derecha de morfología arrosariada y sin ateromatosis ni calcificaciones, permeable (posible displasia fibrosmuscular), con imagen de aneurisma sacular yuxtahiliar de 14 mm.
+Arteria renal izq de morfología normal, con diminuto aneurisma hiliar de 4 mm.
+Bazo en el límite superior de la normalidad (12.6 cm). Glándulas suprarrenales de tamaño y morfología normal.
+Riñones de tamaño y morfología normal, con quistes corticales bilaterales. No se observa dilatación de la vía excretora.
+No se observan otras adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Asas intestinales de calibre normal con adecuado realce de sus paredes.
+Leve derrame pleural bilateral.
+
+conclusiones:
+Hallazgos correspondientes a una pancreatitis aguda necrotizante con necrosis pancreática (aprox 70-80% del parénquima). Asocia una moderada cantidad de líquido libre intraabdominal, no coleccionado en el momento actual, así como una trombosis focal de la vena esplénica (de <50% de la luz del vaso). Colelitiasis. Vía biliar no dilatada. Leve derrame pleural bilateral. Arteria renal derecha con signos de posible displasia fibromuscular y un aneurisma sacular hiliar de 14 mm.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

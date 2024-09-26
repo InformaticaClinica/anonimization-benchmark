@@ -1,0 +1,26 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+empitjorament funció hepàtica en pacient COVID19. Sol·licitem ecografia abd. Gràcies.
+INSUFICIENCIA RESPIRATORIA
+
+protocolo:
+ecografia abdominal URGENT portàtil.
+
+conclusiones:
+Fetge de mida, ecogenicitat i ecostructura normals, sense lesions focals evidents. Contorns hepàtics regulars.
+Vena porta permeable, de diàmetre normal amb fluxe hepatopetal (vel mitja 18 cm/s).
+Venes suprahepàtiques permeables i de calibres normals.
+Vesícula biliar força distesa, amb parets fines i abundant fang biliar.
+Via biliar no dilatada.
+Melsa homogènia de mida normal.
+Pàncrees (cap.cos) de morfologia i ecogenicitat normal. Wirsung visible de 3mm de calibre.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No hi ha dilatació de la via excretora.
+Quists corticals al ronyó dret, el de major mida al pol inferior de 7 cm.
+No hi ha ascites
+
+descrip:
+ECO BASAL (ABDOMEN)

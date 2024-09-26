@@ -1,0 +1,43 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Solicito reprogramar ANGIOTC/TACAR.
+Paciente de [**57 años**]. AP: TBC hace 18 años, tratada. Ingresado por distrés grave secundario a covid, esta mañana supinado tras su 5ta sesión de prono. IOT desde [**17/11**]. Rx con progresión de infiltrados bilaterales, cobertura ABT sin aislamientos microbiológicios, secreciones abundantes purulentas. Isquemia radial por trombosis, anticoagulado a dosis plenas.
+D dímero que llegó a >35.000, actualmente en descenso, hoy en 4940.
+Interesa valorar parénquima +/- TEP. Tenia estudio programado para el [**martes 27/11**] pero al no tolerar el supino no se realiza.
+Muchas Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan RX previas.
+TOT con extremo distal en 4.8 cm de la carina. CVC yugular derecha con extremo distal en unión atriocaval. SNG normoposicionada.
+PICC izquierda con extremo distal fuera de la luz del tronco braquiocefálico venoso, localizado en región mediastínica prevascular.
+Valorar retirar 20 mm.
+Se visualizan discretos defectos de repleción en la bifurcación de la arteria lobar superior derecha, en arteria segmentaria posterobasal del LID y en arteria lingular y en sus subsegmentarias; hallazgos en relación a TEP agudo bilateral.
+Tronco de la arteria pulmonar ligeramente dilatado de 33 mm y ventrículo derecho ligeramente dilatado con rectificación del TIV; hallazgos susgestivos de sobrecarga cardíaca derecha.
+Ganglios mediastínicos paratraqueales bilaterales, subcarinales e hiliares bilaterales aumentados de tamaño, de aspecto reactivo. No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable.
+Leve derrame pleural bilateral. Ausencia de derrame pericárdico.
+Extensa afectación parenquimatosa pulmonar en forma de opacidades consolidativas y en vidrio desslutrado peribroncovasculares y subpleurales bilaterales, asociadas a dilataciones bronquiales y bandas parenquimatosas de morfología perilobular; hallazgos sugestivos de proceso infeccioso por COVID-19, con cambios organizativos incipientes en lóbulos superiores.
+Discretos cambios degenerativos en columna torácica.
+En hemiabdomen superior incluido, se visualizan discretos cambios edematosos de la cola pancreática, con aumento de densidad de la grasa peripancreática y discreta cantidad de líquido en fascia pararrenal anterior izquierda. Los hallazgos descritos podrían estar en relación con leve pancreatitis aguda edematosa intersticial.
+Leve cantidad de líquido libre perihepático.
+Aumento de densidad de la grasa subcutánea en pared torácica anterior, en relación a maniobras de prono.
+
+conclusiones:
+- Discreto TEP agudo bilateral, con signos de sobrecarga cardíaca derecha.
+- Neumonía bilateral por COVID-19, de extensión moderada-severa, con focos consolidativos bilaterales y con cambios organizativos incipientes en lóbulos superiores. No se visualizan claras imágenes de sobreinfección.
+- Leve derrame pleural bilateral.
+- Discretos signos sugestivos de pancreatitis aguda edematosa intersticial de la cola pancreática.
+- PICC izquierda con extremo distal fuera de la luz del tronco braquiocefálico venoso, localizado en región mediastínica prevascular.
+Valorar retirar 20 mm.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

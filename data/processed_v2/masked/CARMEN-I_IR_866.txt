@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**79 años**], EPOC, ingreso por COVID con mala evolución clínica.
+Actualmente tras >10 días de ingreso necesidad de LAF FiO2 80%, 60L/m.
+Auscultación con roncus/sibilancias ya con tratamiento broncodilatador, corticoides y antibioterapia amplio espectro. prótesis mamaria que dificultd interpretación Rx Tórax. Solicitamos AngioTC para descartar proceso consolidativo/NOC/TEP.
+INFECCIÓN SARS-COV-2
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+conclusiones:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar permeable, de calibre normal. Refluoj de contraste a VCI.
+Estructuras mediastínicas centradas. Origen de la arteria vertebral izquierda directamente del arco aórtico como variante anatómica de la normalidad.
+No se observan adenopatías mediastínicas, hiliares ni axilares de tamaño patológico.
+Parénquima pulmonar con opacidades en vidrio deslustrado con tendencia a la confluencia conformando pequeñas consolidaciones de predominio bibasal, así como tractos reticulares bilaterales y difusos de distribución subpleural, con signo del halo invertido.
+Dichos hallazgos son coherentes con una infección por COVID19 de extensión moderada con signos de neumonía organizativa.
+Engrosamientos de las paredes bronquiales con algunas ocupaciones endobronquiales. Dilataciones bronquiales bilaterales.
+Espacios pleurales libres.
+
+descrip:
+ANGIO TC PULMONAR

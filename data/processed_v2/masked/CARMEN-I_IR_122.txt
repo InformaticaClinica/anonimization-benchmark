@@ -1,0 +1,26 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con neumonía basal izquierda
+Covid negativo el [**16-2-17**].
+Interesa TAC torácico para descarte patrón Covid
+Telef sala paciente: [**2982**]
+NEUMONÍA BASAL IZQUIERDA
+
+protocolo:
+TACAR
+
+resultados:
+Restos tímicos en mediastino anterior.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Mínimo derrame pleural izquierdo. No se observa derrame pleural derecho ni derrame pericárdico.
+Se observa consolidación bilobar asociada a opacidades en vidrio deslustrado adyacente en LII y língula. Se observan un pequeño foco de vidrio deslustrado peribroncovascular en LSD. Los hallazgos no son sugestivos COVID-19, pudiendo corresponder a proceso neumónico bilobar de otro origen, a valorar etiología bacteriana.
+Cateter central con extremo distal en VCS.
+
+conclusiones:
+Los hallazgos descritos no son sugestivos COVID-19, pudiendo corresponder a proceso neumónico bilobar de otro origen, a valorar etiología bacteriana.
+
+descrip:
+TC TORAX

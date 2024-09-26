@@ -1,0 +1,25 @@
+
+prueba:
+RM COLUMNA LUMBAR
+
+clinica:
+Paciente IQ artrodesis L5-S1 + caja intersomática el [**07/3/2019**], quien refiere dolor atraumático de aparición hace menos de 2 semanas. Rx de columna donde se sospecha osteolisis alrededor de tornillo de L5 izquierdo. Analítica que reporta aumento de reactantes de fase aguda + leucocitosis. Por favor valorar. Gracias.
+
+protocolo:
+Adquisición de imágenes sagitales T1, T2,  y axiales T1 y T2. Además de secuencias T1 postcontraste.
+
+resultados:
+Se compara con imágenes de estudio RM previode [**marzo de 2018**].
+Cambios anatómicos relacionados con antecedente quirúrgico de artrodesis L5-S1 con caja intersomática. La orientación de los tornillos es adecuada, sin signos de osteolisis ni de ocupación foraminal-vertebral.
+Altura de cuerpos vertebrales conservada.
+Se aprecia una pequeña imagen redondeada que sigue la intensidad de señal del liquido, de unos 16 x 16 x 19 mm (T, Ap, Cc) en localización profunda de los tejidos musculares paravertebrales, adyacente a la lamina izquierda del nivel L5-S1, en cercania del trayecto del tornillo S1 (el acumulo liquido se situa por encima del tornillo), sin que se observe captación que sugiera sobreinfección, asi como tampoco alteración en la intensidad del complejo discovertebral que sugiera afectación infecciosa.
+Continúa visualizándose protrusión discal posterior y lateral izquierda L5-S1 en estrecha relación con la raiz S1 izquierda, no descartando radiculopatia. Reducción del diámetro foraminal L5-S1 derecho, sin aparente contacto radicular.
+Reducción del diámetro AP del canal lumbar en el nivel L5-S1 (10 mm).
+Protrusión discal postero lateral izquierda L1-L2 sin aparente contacto con estructuras nerviosas.
+Sin colecciones en tejidos blandos y musculares superficiales paravertebrales lumbares.
+
+conclusiones:
+vr
+
+descrip:
+RM COLUMNA LUMBAR

@@ -1,0 +1,13 @@
+
+prueba:
+RX TORAX PA L
+
+clinica:
+NEUMONIA X COVID
+
+conclusiones:
+PA y L de tórax.
+Comparativamente con Rx previas de observa una mejoria radiologica con presencia  de alguna opacidad lineal en el 1/3 superior del pulmon derecho que podria corresponder a atelectasia residual.
+
+descrip:
+RX TORAX PA L

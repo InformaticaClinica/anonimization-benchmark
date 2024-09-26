@@ -1,0 +1,28 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID 19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Consolidación: SI
+Patrón intersticial: SI
+Distribución: difusa de predominio periférico.
+Campos pulmonares:
+-Derecho: superior / medio / inferior.
+-Izquierdo: medio / inferior.
+EVOLUCION (se compara con RX previa de hace 2 dias)
+Extensión opacidades: progresión en campos inferiores.
+Consolidación: estabilidad.
+Patrón intersticial: aumento en campos superiores, principalmente derecho.
+CONCLUSION:
+Afectación pulmonar por COVID que muestra progresión respecto a la RX previa.
+
+descrip:
+RX  PORTATIL  TORAX

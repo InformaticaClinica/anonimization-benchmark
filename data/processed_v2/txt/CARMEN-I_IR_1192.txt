@@ -1,0 +1,22 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Neumonúia por COVID + Bacteriemia por Pseudomonas + Imagen hepática sospechosa de absceso. Interesa control ecográfico del probable absceso hepático.
+Sospecha de absceso hepático
+
+protocolo:
+Ecografía abdominal URGENTE PORTÁTIL.
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea. Imagen nodular heterogénea de predominio hipodenso, de aspecto sólido y de bordes lobulados ubicada en seg. VII-VI. Mide 3 x 3.3 x 3.9 cm y presenta señal doppler en su interior. Podría corresponder a un a un área flemonosa intrahepática. A valorar en siguientes controles. No se observan otras lesiones focales.
+Vesícula biliar de paredes finas, con abundante barro biliar en su interior. Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+Leve cantidad de líquido libre intraabdominal, de predominio perihepático derecho.
+
+descrip:
+ECO BASAL (ABDOMEN)

@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+NEUMONÍA BILATERAL POR COVID
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual.
+
+resultados:
+Se compara con la TC previa de [**25/05/2011**].
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tronco común de la arteria pulmonar de calibre normal.
+Leve dilatación de las dos ramas principales (derecha e izquierda) de la arteria pulmonar, que miden unos 29 mm, sin cambios.
+Catéter con reservorio subcutáneo port-a-cath en el hemitórax derecho y extremo distal en la vena cava superior.
+Imágenes ganglionares mediastínicas e hiliares bilaterales, conocidas y sin cambios.
+Moderado derrame pleural derecho de nueva aparición, con colapso del parénquima pulmonar subyacente. Cambios post-talcaje pleural izquierdo con leve derrame pleural izquierdo sin cambios.
+Engrosamientos pleurales nodulares visibles en la cúpula diafragmática derecha, sugestivos de M1 pleurales.
+Lesión en mediastino prevascular que rodea los vasos mamarios internos izquierdos, sin cambios significativos. Discreto aumento de tamaño del implante paracardíaco izquierdo yuxtafrénico anterior.
+Leve aumento de tamaño del nódulo pulmonar sólido en el lóbulo inferior derecho (en el parénquima colapsado por el derrame), que ha pasado de 16 a 19 mm.
+Persistencia de múltiples micronódulos bilaterales con morfología de árbol en brote que plantean diagnóstico diferencial de proceso infeccioso vs M1.
+Cambios cicatriciales biapicales con engrosamientos pleuroparenquimatosos, bronquiectasias de tracción y múltiples nódulos pulmonares de predominio en el lóbulo superior derecho y segmento apical del lóbulo superior izquierdo, la mayoría calcificados, sin cambios.
+No se identifican claros signos de infección pulmonar por COVID-19 valorables mediante TC en el momento actual.
+M1 óseas conocidas.
+
+conclusiones:
+- No se observa TEP ni signos sugestivos de infección pulmoanar por COVID-19 valorables mediante TC en el momento actual.
+- Moderado derrame pleural derecho de nueva aparición.
+- Discreto aumento de tamaño de las lesiones conocidas sospechosas de M1. Probables M1 pleurales derechas.
+
+descrip:
+ANGIO TC PULMONAR

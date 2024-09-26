@@ -1,0 +1,23 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+[**mujer**] de [**49 años**] obesa mórbida, con antecedente de colecistitis aguda litiásica por la que estuvo ingresada hasta hace 2 semanas en otro centor, que se trató con ATB y estaba pendiente de IQ diferida, con una litiasis de tamaño destacado.
+Ingresa ahora intubada por neumonía COVID19, desarrollando alteración del perfil hepático en forma de colestasis. Probablemente tóxico pero dado el antecedente reciente de colecistitis y colelitiasis interesa ecografía abdominal preferente
+gracias!!1
+descartar colecistitis
+
+protocolo:
+Ecografía portátil urgente.
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.Vena porta permeable de calibre normal y flujo hepatopetal.
+Vesícula biliar de paredes finas, con alguna calcificacón mural y litiasis en su interior. No muestra colecciones perivesiculares ni otros signos que sugieran una colecistitis aguda en el momento actual. Vía biliar no dilatada.
+Páncreas parcialmente visualizado (cabeza) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal. Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+Leve cantidad de líquido libre perihepático, periesplénico en la gotiera paracólica derecha y en pelvis.
+
+conclusiones:
+Colelitiasis, sin signos de colecistitis aguda.
+Leve cantidad de líquido libre intraabdominal.

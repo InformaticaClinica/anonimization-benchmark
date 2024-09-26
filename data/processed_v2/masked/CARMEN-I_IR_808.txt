@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA DE NEUMONÍA POR SARS-COV-2
+
+protocolo:
+RX DE TÓRAX PA
+
+conclusiones:
+Pérdida de volumen del pulmón derecho correspondiente a cambios post- quirúrgicos por resección atípica del lóbulo inferior derecho. Acceso venoso con entrada por extremidad superior izq y extremo en tercio medio de la vena cava superior.
+Opacidades alveolo-intersticiales que afectan a la periferia de los campos medios de ambos pulmones, sin cambios significativos respecto a la RX previa del [**13/6/2023**].
+
+descrip:
+RX  PORTATIL  TORAX

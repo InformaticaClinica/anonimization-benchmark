@@ -1,0 +1,40 @@
+
+NOTA EXITUS
+.
+1. NEUMONÍA BILATERAL POR SARS-CoV-2.
+2. INSUFICIENCIA RESPIRATORIA HIPOXEMICA
+3. EPOC GOLD 2 PORTADOR DE OCD 2LT - 16h. No exacerbador, solo 2 ingresos,
+ultimo en [**julio del 2023**].
+4. HEMATOMAS TORÁCICOS, HEMATOMA LUMBAR
+5. PROBABLE INFECCIÓN RESPIRATORIA EN TRATAMIENTO CON MEROPENEM
+6. ROTURA DEL TENDON SUPRAESPINOSO.
+7. INSUFICIENCIA RENAL AGUDA - NEFRITIS INTERSTICIAL
+8. PLAQUETOPENIA
+9. SD CONFUSIONAL/AGITACIÓN desde el [**26/11**]
+.
+CRONOLOGÍA:
+Fecha de inicio de los síntomas: [**14.10.2023**]
+Fecha de ingreso: [**17.10.2023**]
+Fecha de frotis positivo (primera PCR): [**16.10.2023**] Fecha de inicio tratamiento: [**16.10.2023**] .
+.
+TRATAMIENTO COMPLETADO:
+Piperacilina/tazobactam (6 días), ceftriaxona (1día), azitromicina (7 días), lopinavir/ritonavir (4 días), hidroxicloroquina (13 días), siltuximab 800 mg (dosis única),metilprednisolona 250 mg/día (3 días) --> 20 mg/día (5días),enoxaparina40 mg/día (10 días).
+TRATAMIENTO ACTUAL: Meropenem (7d), metilprednisolona 70 mg.
+.
+Paciente EPOC portador de OCD VEMS 45%, no exacerbador frecuente, vive con su [**cuñado**]. Ingresado desde el [**14 de octubre del 2023**] por neumonía por SARS- COV2 en sala de hospitalización ([**I946**]), recibiendo tratamiento con azitromicina, hidroxicloroquina y kaletra según protocolo Covid-19.
+Durante su estancia en sala empeoramiento clínico y radiológico con infiltrados pulmonares bilaterales, se administró dosis única de siltuximab 800mg el [**19/10**]. Se inició tratamiento con ceftriaxona y MPDN 20mg cada 24h. Dado la persistencia de empeoramiento clínico y requerimientos de oxígeno hasta VMK 60% se inicia bolus de MPDN 250mg cada 24h durante 3 días y se escala la cobertura antibiótica a piperacilina/tazobactam 4g cada 6h. Es trasladado a Intermedios [**S046**] para monitorización.
+.
+En intermedios requiere LAF 60% 60LT; procalcitonina de control negativa, ferritina elevada y linfopenia, por lo que se decide con Infectología iniciar anakinra. Por persistencia en la Rx de tórax de infiltrados bilaterales, se comenta con Dr. [**Marques**] ante sospecha de neumonía organizativa se decide iniciar bolus de 125mg/d x 3 días de corticoides --- luego 1mg/kg/d. Con esta pauta mejora analíticamente y radiológicamente con disminución del Dímero D y de la ferritina. Se traslada a sala convencional el [**13/11/23**] ([**Q406**]) con VMK 35%.
+.
+En la sala convencional presenta por rotura del tendón del m. supraespinoso derecho con impotencia funcional; valorado por traumatología se decide tratamiento conservador y analgésico. El [**20/11**] presenta deterioro respiratorio con aumento de los requerimientos de FiO2 (VK 40%) y analiticamente aumento de los RFA con procalcitonina elevada, empeoramiento de la función renal con Cr 3.5 (previa 0.7), plaquetas 70.000 con orina oscura (hematúrica). Se decide iniciar meropenem por sospecha de sobreinfección respiratoria. Se realiza Angio- TC el [**20/11**] que descarta TEP y NO, pero muestra hematomas torácicos de 9 y 5 cm, y leve deterioro de la infección por COVID.
+.
+Se revisa analíticas, con caída de hematocrito que es progresivo desde hace una semana de 42 a 35%. Mantuvo tratamiento con heparina profiláctica (previamente terapautica ante sospecha de TEP previo descartado). Dado los hallazgo se suspende enoxaparina. Reingresa a la unidad de cuidados intermedios de neumología para evolución.
+.
+En Intermedios se comenta con Nefrología que orienta como insuficiencia renal aguda prerenal (creatininas de 1.3 a 3.5 mg/dl) debido a ausencia de ingesta por anorexia intensa y diarreas secundaria al tratamiento con Kaletra. Se decide suspender el tratamiento con Kaletra tras completar 3 días de tratamiento e iniciar sueroterapia con corrección de la insuficiencia renal. Presenta deterioro de la función renal con hiperpotasemia, revalorado por nefrología se orienta como nefritis intersticial. Actualmente creatinina en descenso, hiperpotasemia, diuresis justas con balances positivos, en tto con furosemida 40/6h (dificultad para deglutir resincalcio por dependencia de la BIPAP).
+.
+Durante las últimas 48 horas presenta agitación y delirium. El [**26/11**] sufre caída desde su cama por agitación con presencia de hematoma a nivel lumbar derecho. A partir de lo cual se evidencia caída de Hb y Hematocrito, palidez cutánea, se transfunden 2 CH el 4/5 con Hb de control de 9mg/dl( previa 7).
+.
+En resumen se trata de un paciente EPOC GOLD D con ingreso prolongado hospitalario por neumonía COVID, con hematomas (retrotraqueal y toracico) y con Insuficiencia respiratoria severa dependiente de LAF y de VNI alterna y nefritis intersticial. Gasometricamente con acidosis metabolica dias previos, episodios de desaturación brusca coincidiendo con periodos de agitacion. Mantiene tratamiento con meropenem por sospecha de sobreinfección respiratoria sin aislamiento microbiológico.
+Hace 24 horas presenta descenso de Hcto probablemente en contexto de sangrado activo abdominal o retroperitoneal, taquicardico, hipertenso con nitroglicerina 18ml/h. Se solicita angioTC urgente el cual no se ha podido realizar de momento por inestabilidad del paciente. Se alterna VNI (18/8 con FiO2 70%) con LAF 70% - 60LT. Dada la necesidad organizativa se traslada a [**SalaUCI**] para continuar manejo.
+.
+A su llegada a la [**SalaUCI**] el paciente presenta mala evolución respiratoria siendo exitus el [**día 29/11/2023**] a las 16.42.

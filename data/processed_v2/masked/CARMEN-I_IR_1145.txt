@@ -1,0 +1,33 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con diagnóstico de ABSCESO HEPÁTICO CON RUPTURA CAPSULAR CON NEUMOPERITONEO.
+se solicta TC de control
+Abscés hepàtic
+
+protocolo:
+TC abdominal con contraste ev. en fase portal.
+
+resultados:
+Se compara con la TC previa del [**28/7/2023**].
+Hígado de tamaño y morfología normal. Se identifican las siguientes colecciones:
+- Colección hidroaérea conocida en el s. VI-VII subcapsular posterior, que ha aumentado de tamaño y mide 3 x 2,5 x 2,6 cm (Laterolateral x Anteroposterior x Craneocaudal). Actualmente presenta mayor componente líquido.
+- Colección hidroaérea subcapsular en el s. VI posteroinferior de 3,1 x 2,2 x 2 cm (LL x AP x CC). En el estudio previo correspondía a líquido libre perihepático por rotura del absceso descrito anteriormente.
+- Colección hidroaérea polilobulada centrada en el hilio hepático, que rodea a la vena porta hasta el confluente porto-mesentérico. En el estudio previo también correspondía a líquido libre originado del absceso hepático roto. Es difícil de delimitar, pero mide aproximadamente 3 x 4,5 x 5 cm (LL x AP x CC).
+- Colección alargada en el ligamento falciforme , de 1 cm de grosor máximo.
+Todas las colecciones mencionadas anteriormente parecen estar comunicadas entre sí.
+Adicionalmente se identifican algunas pequeñas imágenes hepáticas hipodensas y en relación con algunos radicales biliares distales ligeramente ectásicos en el s. VII y en el s. III, que no permiten descartar pequeños focos de abscesificación, menos evidentes que en el estudio previo.
+No se observa líquido libre intraabdominal ni tampoco otras colecciones intraabdominales.
+Vena porta y eje esplenomesentérico permeables.
+Colelitiasis. Vía biliar no dilatada (a excepción de los pequeños radicales distales mencionados). Páncreas, bazo y glándulas suprarrenales sin alteraciones. Riñones de tamaño y morfología normal, con quistes corticales simples bilaterales. Vía excretora no dilatada.
+Próstata de tamaño aumentado. Sondaje vesical. Diverticulosis colónica sin signos de complicación. No se observan ganglios retroperitoneales ni ilíacos de tamaño valorable.
+Mínimo derrame pleural derecho. Mínimo derrame pericárdico.
+
+conclusiones:
+Aumento de tamaño del absceso hepático conocido. Aparición de nuevas colecciones en las localizaciones descritas, que coinciden con los acúmulos líquidos perihepáticos descritos en el estudio previo secundarios a la rotura del absceso.
+Persisten algunas hipodensidades hepáticas asociadasa a radicales biliares distales ectásicos, sugestivos de focos de abscesificación, menos evidentes que en el estudio previo.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

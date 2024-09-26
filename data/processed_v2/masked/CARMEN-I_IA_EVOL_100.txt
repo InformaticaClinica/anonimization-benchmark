@@ -1,0 +1,27 @@
+
+EVOLUCIÓN UCIQ:
+1.- TRAUMATISMO CRANEOENCEFÁLICO.
+2.- HEMORRAGIA SUBARACONOIDEA TRAUMÁTICA.
+3.- CRISIS COMICIALES SECUNDARIAS A 2.
+A su ingreso en UCIQc, el paciente se encuentra bajo sedoanalgesia con propofol + remifentanilo. En la explroación se objetiva leve anisocoria a expesnas de midriasis leve izqueirda. PIC 0-5. PPC 65-70 mmHg.
+Reflejos tronco preservados. Resto no valorable. Desde el pundo de vista hemnodinámico con perfusión continua de NA a 0.2-0.3 mcg/kg/min para mantener PAM 90-100 mmHg. El ECG en ritsmo sinusal. Rx tórax sin condensaciones, objetivand fractura desplazada de claviula izquierda. Se realiza nueva neuroimagen de control (TC Craneal y RM cerebral) que muestra hemorragia subaranoidea de la convexidad bilateral sin otras alteracones relevantes y el estudio vascular (angio-TC y arteriografia) no muestran aneurismas ni malformaciones vascular.
+Se orienta como hemorragia subaranoidea no aneurismática secundaria a TCE tras caída en bicicleta que ha presentado crisis epilépticas secundarias. El motivo del mareo con inestabilidad que condicionó el TCE esta por definir, el ECG es normal y durante la monitorización no se han registrado arritmias ni alteraciones electrocardiográficas, no obstante se recomienda estudio con Holter y Ecocardiograma para descartar origen cardiaco.
+El [**3/4**] se realiza EEG que no muestra actividad epileptiforme, por lo que se decide suspender Lacosamida y mantener tratamiento anticomicial con Levetiracetam. El [**6/6**] se retira sedoanalgesia y se consigue extubación del paciente sin incidencias. No obstante en la exploración neurológica el paciente se encuentra confuso, desorientado y presenta tetraparesia por paresia braquial 0/5 izquierda, paresia braquial derecha proximal 0/5, distal 3/5, paresia crural (4/5) izquierda y crural (0/5) derecha. Sensibilidad no valorable por falta de colaboración del paciente, no se puede valorar nivel sensitivo.
+Hiperreflexia de predominio en extremidades superiors. Hoffman en ESI.
+RCP extensor bilateral sin clonus. Esta exploración no está justificado por los focos de HSA, ni tampoco por la fractura clavicular izquierda (presenta hiperreflexia con hoffman, por lo que no es atribuible a lesión del plexo braquial), por dicho motivo se comenta con radiologia que se revisa el TC body del [**Clínica del Sur**] y no objetivan, lesión a nivel cervical, no obstante el [**9/6**] se realiza RM cervical (pendiente de realizar antes del traslado a sala de NRC). Según resultados de RM cervical y evolución valorar necesidad de ampliar estudio medular a dorsal y lumbar. Al traslado a sala el paciente ha tolerado via oral sin incidencias.
+4.- FRACTURA DIAFISARIA DESPLAZADA DEL TERCIO MEDIO CLAVÍCULA IZQUIERDA.
+En la exploración se observa hematoma supraescapular con signo de la tecla y la Rx de tórax muestra fractura desplazada de clavicula izquierda. En la exploraión presenta plejia de extremidad superior izquierdo con hiperreflexia y hoffman, por lo que la exploración no sugiere que la plejia braquial izquierda sea secundaria a lesión del plexo braquial. El [**9/6**] por la tarde se realizará RM cervical. Valorado por COT, recomienda cabestrillo para inmovilización y programarán intervención quirúrgica con reducción avierta y osteosíntesis con placa de forma diferida durante el ingreso cuando el estado del paciente lo permita. Contactar nuevamente con traumatología cuando se pueda realizar la intervención quirúrgica.
+5.- INFECCIÓN RESPIRATORIO POR S. aures Oxasensible.
+En el BAS se aisla S. aureus Oxasensible y el paciente presenta picos febriles de hasta 38o, por lo que se inicia tratamiento con Cloxacilina con resolución de la fiebre. Se recomienda mantener Cloxcilina hasta el [**60/1**].
+6.- INFECCIÓN COVID ASIMTOMÁTICA
+En el contexto de cribado por contacto intrahospitalario, la PCR para SARS-COV2 resulta positiva. El paciente permanece aíslado en una sala covid durante 15 días. No desarrolla fiebre ni clínica respiratoria/digestiva/cutánea. Se repite la PCR al cabo de una semana (postiva) y al cabo de 15 días, dos pruebas con resultado negativo.
+    
+EVOLUCIÓN EN SALA DE HOSPITALIZACIÓN:
+Durante su estancia en sala de hospitalización el paciente presenta mejoría clínica progresiva hasta encontrarse consciente, con orientación fluctuante y con mejoría de la tetraparesia hasta 5/5 en ESD, ESI y EII aunque persiste paresia 3/5 en EID.
+La RM cervical muestra únicamente cambios uncartrósicos C5-C7 con protrusiones discales posteriores sin relación clínica con el cuadro actual. Sin signos de mielopatía radiológica.
+La RM lumbar muestra rotura del anillo posterior de L4-L5 junto con cambios degenerativos de columna lumbar.
+En el EMG hay datos sugestivos de lesión preganglionar aguda a nivel de la raíz S1 derecha. Existe una disociación entre los hallazgos del estudio neurofisiológico y la clínica del paciente (que sugiere una afectació de la vía piramidal).
+Se interconsulta con traumatología, que lleva a cabo el tratamiento quirúrgico de la la fractura de clavícula izquierda sin incidencias.
+Presenta mejoría hasta estar consciente y orientado en las tres esferas.
+Persiste paresia en EID 4/5 por lo que se decide alta a [**Centro privado**].
+    

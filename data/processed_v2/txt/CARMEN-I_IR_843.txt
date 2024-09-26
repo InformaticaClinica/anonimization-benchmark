@@ -1,0 +1,26 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Neumonía bilateral por SARS-CoV-2, neumotórax derecho como complicación, paciente traqueostomizado. En últimas 48 horas distensión abdominal con débito bilioso. Interesa valorar: 1. Parénquima pulmonar (por neumotórax y para valorar evolución de N.O.) y 2. Abdomen (distensión abdominal).
+Gracias.
+NEUMONÍA BILATERAL POR SARS-CoV-2.
+
+protocolo:
+TC abdominal amb contrast ev
+
+resultados:
+No hi ha distensió de nanses ni del colon.
+Fetge de mida, densitat i morfologia dintre de la normalitat, amb algun petit quist simple. Via biliar no dilatada. Colecistectomitzat.
+Vena porta permeable.
+Pàncrees, melsa  i glàndules suprarrenals sense alteracions valorables.
+Ronyons de mida i morfologia dintre de la normalitat i presenten un nefrograma bilateral i simètric.
+No s'observen adenopaties retroperitoneals o pèlviques de mida significativa.
+Emfisema subcutani de paret abdominal secundari al pneumotorax i/o traquestomia complicada.
+
+conclusiones:
+No hi ha distensió abdominal. Sense alteracions.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,28 @@
+
+prueba:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+clinica:
+IMPLANTE MITRACLIP
+
+protocolo:
+TC CODIGO ICTUS (BASAL + PERFUSION CEREBRAL + ANGIOTC TSA E INTRACRANEAL + PARENQUIMATOSA)
+
+resultados:
+TC CRANEAL BASAL: No se observa hemorragia intra ni extraaxial.
+No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas. Leve hipodensidad de la sustancia blanca periventricular en probable relación a microangiopatía crónica.
+Craniotomía frontal derecha con área de encefalomalacia adyacente, en relación a resección de tumoración. En el margen caudal del lecho quirúrgico se observa una ténue captación nodular de 10 mm, compatible con recidiva de su proceso de base (oligodendroglioma). Mínima hipodensidad perilesional, que podría corresponder a edema vs cambios glióticos.
+Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología normal. Cisternas basales libres.
+TC PERFUSIÓN: Dudoso aumento del CBV en territorio proximal de PICA derecha, sin probable relevancia clínica. Resto de los mapas sin alteraciones.
+ANGIO-TC EXTRA E INTRACRANEAL: Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Origen fetal de ambas ACPs. Arteria vertebral izquierda acabada en PICA y permeable. Arteria vertebral derecha dominante, con arteria basilar permeable. PICA derecha con origen muy distal, permeable. SCAs permeables. AICAs no visibles (probalemente de calibre inferior a la resolución de la angioTC).
+Ateromatosis difusa en arco aórtico. Placa de ateroma calcificada en origen de ambas ICAs, que condicionan una estenosis <20% de la luz, permeables. Ateromatosis difusa en segmentos intracraneales (intracavernoso y supraclinoideo) de ambas ICAS, permeables.
+Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.
+Ocupaciones endobronquiales y endotraqueales en probable relación a mucosidades.
+MCP con generador prepectoral derecho.
+
+conclusiones:
+No se observa hemorragia intracraneal. Principales arterias intracraneales permeables. PICAs permeables.
+Probable recidiva del oligodendroglioma frontal derecho ya conocido. Se recomienda ampliar estudio mediante RM contrastada (valorar compatiblidad del MCP del paciente).
+
+descrip:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)

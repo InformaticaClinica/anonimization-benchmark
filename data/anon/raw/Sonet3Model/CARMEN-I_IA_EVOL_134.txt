@@ -1,0 +1,39 @@
+Aquí está el texto con la información personal anonimizada:
+
+1. INSUFICIENCIA RESPIRATORIA HIPOXÉMICA SECUNDARIA A 2 Y 3.
+2. NEUMONÍA ORGANIZATIVA EN CONTEXTO DE 3. 
+3. INFECCIÓN POR SARS-CoV2.
+4. QT ALARGADO (EKG EN URGENCIAS, PREINGRESO)
+5. SÍNDROME CONFUSIONAL RESUELTO.
+Paciente [**mujer**] de [**66 años**], alergia medicamentosa a AAS. Acude por clínica que inicia el día [**13-04**] en forma de febrícula. Radiografía de tórax con hallazgos sugestivos de neumonía por COVID 19. Previo al inicio de tratamiento se solicitó ECG que muestra un QTc alargado [**480ms**] (no conocido).
+Durante la evolución en planta permanece febricular con tendencia a la hipotensión, presentando también diarreas. El día [**21/04**], ante el empeoramiento de parámetros clínicos, analíticos (elevación de RFA) y radiológicos, se inicia tratamiento con Tocilizumab y pulsos de metilprednisolona ([**250mg c/24h durante 3 días + 30 mg/3 dias**]). Se añade tratamiento profiláctico con entecavir, que se puede detener el día [**21.04**] por serologías de VHB negativas. 
+Ingresa en [**UCI (A208)**] el día [**21.04**] por empeoramiento respiratorio (SatO2 92% con monagan, FR entorno a 22-25rpm). Se inicia soporte respiratorio con LAF 60%/6lts con buena tolerancia, que posteriormente se puede disminuir progresivamente hasta poder suspenderse (FiO2). Se detiene el tratamiento con lopinavir/ritonavir ([**d4**]) por efectos adversos gastrointestinales. Se observa QTc de [**500mseg**] en EKG control, por lo que se suspende tratamiento con hidroxicloroquina ([**d5**]). La paciente ha realizado tratamiento antibiótico con azitromicnia ([**d5**]), ceftriaxona y teicoplanina hasta completar 5 días. Primer frotis COVID ([**21.04**]) negativo por lo que se repite el día [**23.04**] (positivo). Ha iniciado ingesta oral con correcta tolerancia.
+Presenta una evolución correcta, pudiendose realizar deteste de LAF, ultimas 24 horas ha permanecido estable respiratoriamente con VMK al 40%. Analiticamente presenta mejoria con diminución de reactantes de fase aguda (PCR menor a 0,4, Ferritina [**470**], leucocitos [**4400**]), DD [**7300**].
+Sin otras disfunciones. Tolera dieta oral y sedestación.  
+El día [**28/04**] se traslada a sala de hospitalización convencional. A su llegada, disminución progresiva de las necesidade de oxígeno, quedando con saturación del 94% con VMK al 28%.
+Durante su ingreso presenta síndrome confusional, por lo que teniendo en cuenta el tratamiento corticoideo y los antecedentes patológicos, se realiza interconsulta a psiquiatría que recomienda retirar lorazepam e inicio con aumento paulatino de la quetiapina, hasta una dosis final de [**200mg vo**]. También se pautan rescates farmacológicos con haloperidol [**2.5mg vo y 5mg IV**] que se utilizan puntualmente ante episodios de agitación. Progresivamente la paciente presenta una mejoría clínica ofreciendo un discurso más coherente, una mayor orientación en todas las esferas, y una atención y fijación de memoria basales.
+A la vez, se solicita fisioterapia para evitar miopatía del paciente encamado.
+Progresivamente, durante su ingreso en sala la paciente presenta mejoria, reduciendo las necesidades de oxígeno hasta encontrarse eupneica basal, sin trabajo ventilatorio accesorio, afebril, orientada en las 3 esferas, abordable y colaboradora, euproxeica, con discurso espontaneo y coherente. También se encuentra eutímica, reactiva, sin ideaciones tanatosuicidas, ni alteración del juicio crítico de la realidad.  
+Analiticamente se ha producido una mejoria de los reactantes de fase agudo (PCR <0,4 y LDH [**227**]), perfil renal e inograma correctos ( filtrado glomerular [**89,28**], creatinina [**0,7**], potasio [**3,7**], sodio [**142**], calcio [**8,9**]), perfil hepatico ligeramente elevado (ASA/ALAT [**72/170**], GGT/FA [**196/65**]), ferritina ([**202**]), linfocitos ([**1300**]), neutrofilos ([**5800**]), D dímero ([**2000**]).
+El [**9/05**] se realiza nuevo TC de tórax, que muestra mejoría radiológica de las imágenes de neumonía organizativam, no se observa TEP. De forma incidental, se observan lesiones hepáticas compatibles con hemangiomas.  
+Por ello deberá realizarse TC toracoabdominal de control el [**1-2 meses**] y deberá continuar tratamiento con prednisona hasta nuevo control, así como tratamiento profiláctico de osteoporosis con calcio, vitamina D y ácido alendrónico. Al alta hará seguimiento en la consulta de Neumología con el Dr. [**Alexa**].
+Dada su buena evolucion se plantea alta a [**Clinica COVID**].
+
+*NOTA PSIQUIATRÍA DE INTERCONSULTA (DR. [**El Amrani/DR. Soldado**]):**
+
+MC: Realizan interconsulta por paciente de [**66 años**], ingresada por infección covid, que va a recibir tratamiento con corticoides, ysolicitan valoración por antecedente de trastorno bipolar.
+
+*ANTECEDENTES MEDICOQUIRÚRGICOS: 
+-Alergia a AAS.
+-Dislipemia sin tratamiento.
+-Obesidad.
+
+*ANTECEDENTES TOXICOLÓGICOS:
+-Fumadora de [**20 cigarros/día**] hasta hace 2 años, que disminuye a [**2- 3cigarros/día**].
+-Alcohol esporádico. 
+-No otras sustancias.
+
+*ANTECEDENTES PSIQUIÁTRICOS PERSONALES:
+-Trastorno bipolar tipo 1. Primer episodio depresivo con síntomas psicóticos que requirió ingreso en [**1987**]. La hija refiere que desde entonces ha tenido otros ingresos en los [**5-10 años**] posteriores, con fases depresivas y maniacas. Había tomado litio en el pasado. Se describe baja adherencia terapéutica y nulo insight; había acudido a diferentes psiquiatras de ámbito privado, el último el Dr. [**Zamfir**] en [**2011**] que le pauta lamotrigina y quetiapina, y abandona completamente tto. hace más de 1 año. Refiere estabilidad, sin descompensaciones enlos últimos [**3-4 años**].
+
+*PSICOBIOGRAFÍA: Separada, tiene dos sobrinas independizadas, que viven fuera de [**Cortos de la Sierra**] (una en [**Kazán**] y otra en [**Rusia**]). Vive en domicilio que comparte con compañeros de piso. Prejubilada a los [**52 años**], había sido portera de discoteca. Independiente

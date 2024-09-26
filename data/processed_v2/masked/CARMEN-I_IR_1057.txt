@@ -1,0 +1,20 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**57 años**], con antecedente patológico de asma, diagnosticada de NEUMONIA INTERSTICIAL BILATERAL por INFECCIÓN SARS-CoV-2 (frotis + [**24/11/2011**], inicio de síntomas [**19/11/2011**], ingreso [**27/11**]) trasladada al [**Clinica COVID**] el [**04/12**]. Se solicita TAC torácico por sospecha de NOC.
+COVID 19
+
+protocolo:
+TC TÓRACICO: basal
+
+conclusiones:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Áreas de vidrio deslustrado periféricas subpleurales de predominio posterobasal bilateral asociado a escasa reticulación también de predominio subpleural en relación a cambios organizativos. Los hallazgos son sugestivos de evolución natural de la infección por COVID19.
+Múltiples quistes hepáticos bilobares.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

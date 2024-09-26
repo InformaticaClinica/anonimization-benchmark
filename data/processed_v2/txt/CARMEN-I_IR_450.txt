@@ -1,0 +1,30 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con neumonía pro sars-cov 2. Interesa descartar componente organizativo.
+Durante ingreso presenta pancreatitis de 48h de evolución. interesa descartar complicaciones asociadas.
+Gracias
+pancreatitis
+
+protocolo:
+TC abdominal tras administrar contraste e.v.
+
+resultados:
+Hepatomegalia homogénea con esteatosis difusa. No identificamos lesiones focales.
+Vena porta permeable. Vena esplénica permeable.
+Vesícula biliar de tamaño normal, . Vía biliar no dilatada.
+Glándula pancreática con correcta captación de contraste en sin signos de necrosis. Leve trabeculación de la grasa peripancreática en relación con pancreatitis, con mínima cantidad de líquido peripancreático retrogástrico y en fascias pararrenales.
+Trabeculación de la grasa del hilio hepático por extensión de los cambios inflamatorios.
+Bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología conservados.
+No se observan adenopatía retroperitoneales ni ilíacas patológicas.
+Mínima cantidad de líquido en receso rectovesical.
+Las secciones pélvicas no muestran imágenes patológicas.
+
+conclusiones:
+Hallazgos compatibles con pancreatitis edemato-intersticial, sin signos de necrosis. Leve trabeculación de la grasa peripancreática con discreta cantidad de líquido periférico. Trabeculación a nivel del hilio hepático secundaria a extensión a los cambios inflamatorios
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

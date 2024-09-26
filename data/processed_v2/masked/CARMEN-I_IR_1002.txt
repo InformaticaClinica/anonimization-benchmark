@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN RESPIRATORIA POR POSIBLE SARS-CoV-2
+
+protocolo:
+RX DE TÓRAX PA
+
+conclusiones:
+RX poco penetrada, no identificándose claras opacidades ni consolidaciones pulmonares. (Se observa un ténue aumento de densidad de todo el pulmón derecho respecto al izquierdo pero creo que no es real sino por la posición de la RX). No presenta signos sospechosos de COVID en este momento.
+
+descrip:
+RX  PORTATIL  TORAX

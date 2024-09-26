@@ -1,0 +1,22 @@
+MICROBIOLOGIA:
+- Detecció PCR Covid-19 urgent ([**04/1/2024**]): Positiu
+- Orina. Ag. Legionella ([**5/1/2024**]): Negatiu
+- Orina. Ag. S. pneumoniae ([**5/1/2024**]): Negatiu
+* INTERCONSULTA ENDOCRINOLOGÍA:
+[**Mujer**] de [**60 años**] sin AMC con antecedentes patológicos de DM-2 y sobrepeso (IMC: 29,7 kg/m2). Consumo 2 UBE de alcohol a la semana.
+Historia DM: diagnosticada en [**02/2020**] en controles con HbA1c inicial de 11.5%, inicialmente recibió metformina que se sustituyó por molestias GI a Vildagliptina en [**09/20**] (tratamiento actual 50mg/12h).
+Ausencia de seguimiento posterior en CAP.
+**EPISODIO ACTUAL: ingresada por neumonía bilateral por SARS-CoV-2, durante el ingreso se objetiva HbA1c ([**5/1/24**]) 13.9%. Actualmente en tratamiento corticoideo con dexametasona 6mg/d y con pauta bolus-basal (glargina 10 UI + lispro 4-10-4 UI/d), presentando un mal control glucémico durante el ingreso. Nos interconsultan para valorar tratamiento hipoglucemiante y seguimiento al alta.
+**EF: Peso 73,1 kg Talla 158 cm IMC: 29,3 kg/m2
+**AS ([**5/1**]): Glucosa 297 mg/dL, Creatinina 0.61 mg/dL con FG >90 mL/min, colesterol total 261 mg/dL, triglicéridos 270 mg/dL, Proteínas totales 66 g/L, Albúmina 41 g/L. Ionograma, hemograma y hemostasia sin alteraciones. HbA1C 13.9%.
+**OD: DM2 con mal control crónico, descompensada por glucocorticoides **PLAN:
+- Se ajusta insulinoterapia durante el ingreso (glargina 20 + lispro 8- 10-8 y FSI 30). Recomiendo ajustar pauta durante el fin de semana.
+- De cara al alta requerirá insulinoterapia, por lo que recomiendo iniciar educación diabetológica por parte de enfermería.
+- Avisar con antelación previo al alta para ajuste de tratamiento hipoglucemiante ambulatorio, variable según pauta de glucocorticoides al alta y evolución durante el ingreso.
+SEGUIMIENTO POR ENDOCRINOLOGÍA:
+Paciente valorada previamente (Ver IC [**6/1**]) por DT2 con mal control crónico, descompensada en forma de hiperglucemia en contexto de patología actual + uso de corticoides. Ingresada por neumonia bilateral por SarsCoV2 y sindrome de hiperactivación de citocinas. Durante su estancia se evidencia alto requermiento de insulina a dosis de 1.2 UI/kg/d con regular control glucemico.  Solicitan IC para ajuste de tratamiento de cara al alta a domicilio. Mantendra corticoterapia enpauta descendente cada 3er dia, 60-30-20-10-5-2.5.
+.
+PLAN
+- De cara al alta mantener (PDN 60-30) Insulina Lantus 40 UI/BT+ Lispro 15-17-15UI con FSI 30, con reduccion progresiva según se disminuya CE (Se entregara pautas impresas). (PDN 20-10) Insulina Lantus 34 UI/BT+Lispro 12-14-12UI con FSI 30.
+- Solicitamos cita telefónica en Hdía para ajuste de tratamiento en 1 semana (se enviará correo electrónico), según controles se valorará necesidad de cita presencial o controles por Endocrinología del CAP ([**CAP Santo Domingo**]).
+- Entregamos Numero de Hdía Endocrinología al paciente: [**641814367**].

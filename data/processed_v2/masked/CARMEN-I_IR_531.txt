@@ -1,0 +1,31 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+paciente trasplantado renal, con cardiopatia isquemica, FE 30º, que a su ingreso se observa abdomen globuloso, batracoide, no palpable el borde hepático por la distension. Agradezcvo eco abdominal y descartar ascitis +/- hepatomegalia.
+CARDIOPATÍA ISQUÉMICA
+
+protocolo:
+US abdominal
+
+resultados:
+Embassament pleural dret.
+Fetge de mida, ecogenicitat i morfologia dintre de la normalitat.
+Presència de quists simples de 15-17 mm en s VII, IV i VIII. Nòdul ecogènic de 5 mm en s V sospitós d'hemangioma.
+Dilatació de suprahepàtiques per probable refluxe (ICC).
+Via biliar no dilatada. Bufeta biliar amb fang.
+Vena porta permeable, de mida normal i fluxe hepatopetal.
+Pàncrees (cap i cos) normal.
+Melsa de mida normal.
+Ronyons atròfics. Injert renal a FID de mida normal, IR de 0.79 i absència de dilatació de via.
+Lleu quantitat d'ascitis difusa.
+Abundant gas en colon.
+
+conclusiones:
+Canvis hepàtics per insuficiència cardiaca. Possible hemangioma hepàtic.
+Injert renala FID.
+Ascitis lleu.
+
+descrip:
+ECO BASAL (ABDOMEN)

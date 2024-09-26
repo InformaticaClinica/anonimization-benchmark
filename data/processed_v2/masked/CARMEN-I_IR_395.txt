@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID+
+
+protocolo:
+RX de tórax porta
+
+conclusiones:
+RX levemente rotada hacia la derecha.
+Consolidación en base pulmonar derecha y opacidades alveolo- intersticiales periféricas en campo medio del pulmón derecho y campos inferior y medio del pulmón izquierdo, estando en relación con afectación pulmonar por COVID.
+Comparativamente con RX previa del [**26/3/2014**] existe progresión a expensas un leve aumento de la densidad y de la extensión de las zonas afectas.
+Otros hallazgos: Enfisema pulmonar en lóbulos superiores de predominio izquierdo. Pinzamiento del seno costofrénico derecho y leve engrosamiento de la cisura menor (antecedentes de resección pulmonar y talcaje) y engrosamiento de la región hiliar derecha (similar a estudios previos en relación con adenopatías hiliares conocidas en contexto de neoplasia de pulmón).
+
+descrip:
+RX  PORTATIL  TORAX

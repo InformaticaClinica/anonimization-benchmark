@@ -1,0 +1,25 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+SS tc control evolutivo hidrocefalia.
+Hidrocefàlia obstructiva
+
+protocolo:
+Se realizan secciones axiales desde la base del cráneo hasta el vértice.
+
+resultados:
+Se compara con estudios previos, último TC del 28/4/2014 Cambios postquirúrgicos por craneotomía fronto-parieto-temporal derecha resección y clipaje de MAV. No se observan restos hemáticos agudos actualmente en el lecho quirúrgico
+Persiste la hipodensidad residual así como el edema vasogénico.
+Craneostomía occipital derecha con inserción de DVE con trayecto intraventricular. Estabilidad del tamaño del  sistema ventricular. No se observa contaminación hemática aguda en el sistema ventricular.
+Encefalomalacia fronto-temporal inferior derecha en relación a isquemia establecida.
+No hay desplazamiento valorable de la línea media. Cisternas basales libres.
+
+conclusiones:
+Se compara con estudios previos, último TC del 28/4/2014 Cambios postquirúrgicos por resección y clipaje de MAV.Persiste la hipodensidad residual así como el edema vasogénico. Craneostomía occipital derecha con inserción de DVE con trayecto intraventricular.
+Estabilidad del tamaño del  sistema ventricular.
+Encefalomalacia fronto-temporal inferior derecha en relación a isquemia establecida.
+
+descrip:
+TC CEREBRAL

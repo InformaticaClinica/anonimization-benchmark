@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Mujer**] de [**63 años**] con antecedentes de divertilutitis e IQ hernia lumbar, de atrapamiento del cubital bilateral, y de reduccion mamaria, ingresada en [**d323**] por neumonía covid+. Presenta empeoramiento clínico con aumento de sensación disneica, dolor centro torácico y dorsal interescapular, conjuntamente con incremento de DDímero (1900) sin empeoramiento de otros parámetros inflamatorios. Agradeceríamos angio- tac para descartar TEP (comentado telefónicamente). Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Angio-TC pulmonar urgente adquirido mediante energía dual.
+
+resultados:
+No se aprecian defectos de repleción en el árbol arterial pulmonar ni alteraciones en los mapas de yodo que sugieran TEP agudo en el momento actual.
+Tronco común de la arteria pulmonar de calibre prominente (31mm).
+Aurícula y ventrículo derechos aumentados de calibre. No se observa derrame pericárdico.
+Ganglios de tamaño borderline a nivel hiliar derecho y mediastínicos paratraqueal bajo derecho, subcarinal y en ventana aortopulmonar, inespecíficos.
+Mínimo derrame pleural laminar bilateral que asocia atelectasia pasiva del parénquima subyacente.
+Opacidades nodulares en vidrio deslustrado bilaterales de distribución difusa (periféricas y peribroncovasculares) asociadas a un leve engrosamiento difuso de las paredes bronquiales. En LSD y ambos LLII presenta focos consolidativos de predominio periférico que asocian alguna dilatación bronquial y una discreta alteración de la arquitectura parenquimatosa. Estos hallazgos son compatibles con afectación pulmonar por COVID-19 con cambios organizativos y sin claros signos de fibrosis.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- Sin signos de TEP agudo en el momento actual.
+- Mínimo derrame pleural laminar bilateral.
+- Parénquima pulmonar con hallazgos compatibles con afectación por COVID-19 con cambios organizativos y sin claros signos de fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,31 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+Paciente de 73 años con antecedentes de ADK de Colon operado en Diciembre 2015 con resección anterior baja, anastomosis término-terminal e ileostomía de protección en FID. Además en HD por IRC no filiada.
+Presenta desde hace 5 días fiebre elevada (39ºC) con tiritonas, con aumento de RFA y procalcitonina, que no mejora a pesar de tratamiento antibiótico con Meropenema y Ciprofloxacino. Paciente además Covid positivo aunque sin clara neumonía y sin insuficiencia respiratoria.
+Ruego valoración para detectar eventual foco infeccioso.
+Gracias.
+COVID 19 (+)
+
+protocolo:
+TC de tórax
+
+resultados:
+Se compara con TC previo de 28/3/2015.
+Marcados artefactos por movimiento respiratorio que dificultan la valoración.
+Catéter venoso yugular derecho con extremo distal en la VCS.
+Dilatación esofágica difusa.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Ausencia de derrame pleural.
+Leve enfisema paraseptal y centrolobulillar de predominio en LLSS.
+Aparición de opacidades en vidrio deslustrado bilaterales de localización periférica y de predominio basal asociado a algunas bandas parenquimatosas subpleurales, todo ello sugestivo de neumonía bilateral por COVID-19 (extensión leve-moderada).
+Atelectasias laminares en LM y LLII de predominio derecho.
+
+conclusiones:
+Hallazgos sugestivos de neumonía bilateral por COVID-19 (extensión leve- moderada) de predominio basal.
+Leve enfisema pulmonar.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

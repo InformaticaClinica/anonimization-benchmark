@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Intubación prolongada
+
+descrip:
+RX  PORTATIL  TORAX

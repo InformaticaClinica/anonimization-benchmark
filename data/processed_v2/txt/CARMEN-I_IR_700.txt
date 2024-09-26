@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Nuemonía por COVID. Deterioro respiratorio. D-dímeor > 10000. Interesa Angio-TC pulmonar por sospecha de TEP.
+PX COVID-19
+
+protocolo:
+Angio-TC pulmonar URGENTE
+
+resultados:
+Arterias pulmonares principales y ramas lobares y segmentarias permeables. Tronco de la arteria pulmonar permeable de calibre normal.
+Artefactos respiratorios que dificultan la valoración de las ramas subsegmentarias, existiéndose una rama basal derecha hipodensa que se interpreta como artefacto de movimiento.
+No se observan adenopatías mediastínicas de tamaño valorable.
+Sin evidencia de derrame pleural o pericárdico. CVC yugular derecha con extremo distal en VCS. Posible hipertrofia del VI, a correlacionar con ecocardiografía.
+Parénquima pulmonar con imágenes de opacidades bilaterales difusas y consolidaciones periféricas de predominio en LLII, sugestivas de afectación por COVID-19.
+En cortes abdominales incluidos en el estudio no se observan hallazgos patológicos.
+
+conclusiones:
+No se aprecian TEP agudo. Patrón en parénquima pulmonar compatible con afectación por COVID-19 bilateral.
+Probable hipertrofia del VI, a correlacionar con ecocardio reglado.
+
+descrip:
+ANGIO TC PULMONAR

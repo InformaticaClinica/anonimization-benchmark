@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+PANCREATITIS AGUDA GRAVE
+
+descrip:
+RX  PORTATIL  TORAX

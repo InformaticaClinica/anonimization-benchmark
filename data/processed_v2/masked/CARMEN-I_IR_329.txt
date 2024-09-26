@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**55 años**] sin antecedentes de interes ingresa en UCI por neumonía por Sars-Cov2 con insuficiencia respiratoria severa requiere IOT 01 # [**29/08**]. Solicitamos descartar TEP y patrón de NOC.
+Gracias.
+NEUMONIA BILATERAL COVID-19
+
+protocolo:
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+No se identifican defectos de repleción en arterias pulmonares centrales que sugiera TEP. Las arterias pulmonares segmentarias distales y subsegmentarias no son valorables en el estudio actual debido a artefactos de movimiento respiratorio.
+Tronco de la arteria pulmonar de diámetro normal (23 mm), sin signos de fallo ventricular derecho.
+Tubo endotraqueal con extremo distal a 3 cm de la carina. Vía venosa central yugular derecha con extremo distal en unión cavoatrial. SNG con extremo distal en antro gástrico.
+Ganglios mediastínicos pretraqueales y paratraqueales derechos, el mayor de ellos de 12 mm, inespecíficos, de probable carácter reactivo. No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Opacidades parcheadas en vidrio deslustrado bilaterales asociado a focos consolidativos peribroncovasculares de predominio basal, asociado a bandas perilobulares. Los hallazgos son sugestivos de neumonía bilateral por COVID-19 con cambios organizativos incipientes en las bases pulmonares. Se observa empeoramiento radiológico respecto a Rx inicial de [**27/08/2021**] en donde la afectación era de predominio basal.
+Material de artrodesis a nivel de C6-C7. Discretos signos osteodegenerativos de columna torácica.
+Hígado de bordes ligeramente irregulares parcialmente incluido en el estudio.
+
+conclusiones:
+No se observan signos de TEP central.
+Hallazgos sugestivos de neumonía bilateral por COVID-19 con cambios organizativos incipientes en las bases pulmonares. Se observa empeoramiento radiológico respecto a Rx inicial de [**27/08/2021**] en donde la afectación era de predominio basal.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,14 @@
+1. INFECCIÓN POR SARS-CoV-2
+Inicio de síntomas [**20/11**] (+10)
+PCR + [**20/11**]. PCR + [**30/11**] CT 23.
+Vacunación completa MODERNA (2a dosis [**18/10**]). Serología SARS-CoV-2 post vacunación negativa.
+Tratamientos: Remdesivir ([**1/12**]-actualidad)
+Diagnosticado de infección por SARS-CoV-2 el día [**20/11/2026**]. Refiere contacto estrecho con caso confirmado de COVID-19 el día [**16/11/2026**].
+Refiere que persiste con tos seca, febricula, astenia y mialgias desde hace 48 horas presenta disnea a grandes esfuerzos.
+A su llegada a Urgencias, paciente hemodinamicamente estable con tendencia a la hipertensión arterial, afebril y eupneico con Sat O2 a 97% basal. Auscultación respiratoria con crepitantes bibasales de predominio en la base derecha. Resto de la exploración física dentro de la normalidad.
+En la radiografía de tórax se evidencia un neumonia intersticial bilateral de predominio en la base derecha.
+En la analítica destaca PCR 1.74 mg/dL con leucopenia (2.83 10^9/L) con linfopenia (18.4%). Troponina I 31.0 ng/L. Creatinina 2.17 mg/dL y FG 31.67 ml/min/1,73m2. ALAT 47 U/L. GGT 24 U/L. FA 68 U/L. Proteinas totales 67 g/L. Sodio 134 mEq/L. Calci 8.50 mg/dL. Magnesio 1.5 mg/dL.
+Procalcitonina 0.11 ng/mL. Ferritina 158 ng/mL. DD 1000 ng/mL.
+Durante el ingreso en la planta, presenta muy buena evolución clínica, con mínimos requerimientos de oxigeno durante la noche. Analítica a las 24 horas sin grandes cambios, con mínima elevación de reactantes.
+Contactamos con Cardiología (Dra [**Tarin**]) y se decide suspender MMF durante fase aguda infección.
+Se comenta con HDOM para ingreso.

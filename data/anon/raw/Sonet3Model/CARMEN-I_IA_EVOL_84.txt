@@ -1,0 +1,46 @@
+EVOLUCIÓN (1ª PARTE):
+
+1. SDRA por SARS-CoV-2. con intubación el [**01/08**], extubado el [**19/01**].
+
+2. Aspergilosis pulmonar.
+
+3. Neumonía organizada post-covid.  
+
+4. Bacteriemia por Staphylococcus epidermidis y Escherichia coli BLEA.
+
+5. Trombosis parcial de la vena basilica izquierda.
+
+6. Monocitosis, anemia y plaquetopenia a estudio.
+
+7. Hematoma en ganglios basales derechos.
+
+8. Hematuria traumática con sonda vesical, resuelta.
+
+9. Colonización nasal por S.aureus oxacilín sensible, y rectal por E.coli multiresistente y P.aeruginosa.
+
+1. 
+Inicio de síntomas: primera semana de [**diciembre**].
+Ingreso: [**01/03/2020**].
+Frotis positivo: [**5/01**].
+UCI [**1/8**] --> Intubación orotraqueal [**8/01**] --> Extubación [**19/01**].
+
+Tratamiento recibido: remdesivir, anakinra, tocilizumab, dexametasona, metilprednisolona, enoxaparina profiláctica, ceftriaxona,teicoplanina,ceftarolina, meropenem.
+
+1-4. [**Varón**] de [**87 años**], con los antecedentes descritos, ingresó en la [**J325**] en contexto de un SDRA secundario a neumonía bilateral por SARS- CoV- 2, ha sido intubado para ventilación mecánica y soporte vasoactivo con noradrenalina a dosis bajas con hipoxemia refractaria, requiriendo pronación. Presentó evolucionó favorable, pudiendo progresar en el weaning, siendo extubado el [**19/1**]. Recibió tratamiento con remdesivir, anakinra, tocilizumab y dexametasona.
+
+Como complicaciones presentó bacteriemia (aislamiento en hemocultivos [**1/8**]: S.epidermidis 2/2, hemocultivos [**10/1**]: E.coli BLEA 1/2, que también se aisló en BAS del [**13/1**], hemocultivos de control negativos), tratado ampliamente con meropenem. Además se detectaron cambios organizativos post- covid por lo que se sustituyó tratamiento corticoideo por metilprednisolona (0.5 mg/kg/día) sobre el [**15/01**], que se suspendió posteriormente por aspergilosis broncopulmonar (aislamiento de Aspergillus flavus en aspirado traqueal del [**13/01**] con signos radiológicos sugestivos en TAC de [**20/01**]). Se inició tratamiento con voriconazol (niveles semanales), anfotericina B liposomal endovenosa y nebulizada.
+
+Dada la estabilidad se trasladó a unidad de semicríticos ([**N539**]) para continuar manejo y posteriormente a sala de hospitalización.
+Desde el punto de vista respiratorio se ha podido ir descendiendo oxigenoterapia hasta retirada los últimos días de [**enero**], manteniendo tras ello saturaciones correctas.
+
+El [**24/02**] se realiza TAC pulmonar de control que Lesión focal en ganglios de la base del lado derecho, edema y efecto de masa sobre el ventrículo lateral derecho y restos hemáticos sin cambios significativos respecto a estudio de RM previo.
+
+Se trata de un paciente de edad avanzada, con infección fúngica invasiva, miopático y con enfermedad hematológica de reciente diagnóstico. En consenso con la familia, se decide que NO sería tributario de reintubación. Si presenta evolución clínica desfavorable, priorizar medidas de confort.
+
+5. A partir del [**18/01**] presenta aumento de volumen con signos flogóticos y limitación funcional en extremidad superior izquierda, se ha retirado cateter arterial humeral. Se realizó ecografía doppler con hallazgos de trombosis parcial de la vena basílica izquierda. Pulsos conservados y buena perfusión distal. Valorado por cirugía vascular se decide manejo conservador y vendaje compresivo. Se ha mantenido anticoagulación profiláctica ampliada (enoxaparina 60 mg/24h). Ha presentado mejoría progresiva con disminución del dolor/edema hasta resolución.
+
+6. Durante el ingreso se realizó estudio de monocitosis y plaquetopenia con hemograma compatible con una leucemia mielomonocítica crónica que no se ha confirmado en el análisis de poblaciones de monocitos, además de que no se detecta reordenamiento genético BCR/ABL ni mutación del JAK-2. 
+Se plantea diagnóstico diferencial con efecto secundario de antibioterapia, a la espera de ver evolución de hemograma tras retirada de los mismos.
+Se ha contactado con [**Hematología**], de momento no precisa tratamiento específico,y aconsejan completar estudio con mielograma.
+
+7. Desde la extubación el paciente presenta desorientacion y dificultad de expresión, además de pico febril diario bien tolerado. Los primeros días de [**febrero**] presenta empeoramiento franco con disminución de nivel de conciencia hasta Glasgow de 9, por lo que se realiza TC cerebral el [**05/02**] que describe lesión ocupante de espacio con diagnóstico diferencial entre hematoma y abceso, con gran edema circundante que desplaza línea media. Por tanto se inicia dexametasona, meropenem a dosis altas y anfotericina B, así como levetiracetam que se retira una semana después tras comprobar por EEG que no tiene actividad epiléptica.

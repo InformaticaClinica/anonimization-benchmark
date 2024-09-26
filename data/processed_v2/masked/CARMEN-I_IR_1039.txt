@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+A VALORAR CONTRAST SEGONS BASAL (DESCARTAR M1)
+Covid greu, IOT + VM, traquestomia setmana passada. Troballa possible neo pulmo a TC amb possibles M1 suprarrenals. Despertar agitat sense connectar en cap moment, patró bradi-taqui respiratori. Interessa descartar afectació/complicació cerebral
+
+protocolo:
+TC CRANEAL URGENTE
+Mediante técnica helicoidal se realizan cortes axiales de la bóveda craneal hasta la base del cráneo en condiciones basales y tras la administración de contraste i.v. para estudio del parénquima cerebral.
+
+conclusiones:
+Moderada dilatación del sistema ventricular y de los surcos cerebrales y cerebelosos en relación a cambios involutivos.
+No hay signos de hemorragia aguda intra ni extra-axial.
+No hay evidencia de realces patológicos de contraste.
+No se observan desplazamientos valorables de las estructuras de línea media.
+Cisternas basales y peritronculares libres.
+Ocupación mucosa del seno esfenoidal y de ambos senos maxilares.
+
+descrip:
+TC CEREBRAL

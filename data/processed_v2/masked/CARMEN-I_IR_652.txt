@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**56 años**] sin antecedentes y con covid grave intubada y con SDRA grave. Presenta elevación de dímero de 4000 a 32'000. SOlicitamos descartar TEP. Gracias!
+NEUMONÍA GRAVE COVID
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+OBS: Dr [**Boullosa**]
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Algunos ganglios mediastínicos, pretraqueales y subcarinal de aspecto reactivo. La mayor de ellas (de 17 x 13 mm) es de localización paratraqueal derecha alta.
+Extensos focos consolidativos bilaterales de predominio en LLII, con distribución periférica,
+que se acompañan de imágenes periféricas en vidrio deslustrado, dilataciones bronquiolares y engrosamientos parieteles, con incipientes signos de organización, todo
+ello compatible con infección pulmonar por COVID-19.
+No se observa derrame pleural ni pericárdico.
+Prótesis mamarias bilaterales.
+Hemiabdomen superior sin alteraciones patológicas relevantes.
+TOT con extremo distal a 4 cm de carina. SNG con extremo distal en curvatura mayor gástrica. Catéter venoso central D con extremo distal en unión atrio-caval.
+
+conclusiones:
+Sin signos de TEP.
+Extensa afectación pulmonar por infección por COVID-19 con incipientes signos de organización.
+
+descrip:
+ANGIO TC PULMONAR

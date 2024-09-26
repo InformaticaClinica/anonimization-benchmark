@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Importante mejoria radiologica de las opacidades bibasales.
+
+descrip:
+RX  PORTATIL  TORAX

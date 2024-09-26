@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de 57 a con AP de DM y trombocitopenia esencial, ingresado en 10 décimo día de evolución por COVID con empeoramiento a nivel respiratorio. Rx con progresión lesiones y aparición de atelectasia D e imagen de triangulo pulmonar (infarto pulmonar?). Dd 200. FG>90. Rogamos prueba de imagen para descartar complicaciones. Comentado con radiologos de guardia.
+NEUMONIA COVID
+
+protocolo:
+Angio-TC Pulmonar URGENTE (Dr. Radalov)
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre normal.
+No se observan adenopatías axilares. Algunos ganglios infracentimétricos paratraqueales bajos.
+Sin evidencia de derrame pleural o pericárdico.
+Opacidades bilaterales en vídrio deslustrado con patrón de "crazy paving", de predominio periférico, asociado a algunas consolidaciones en los segmentos posteriores de los LLII, y del LSD. Quiste pulmonar de 13 mm en LII. No se aprecia un patrón radiológico que sugiera componente fibrótico significativo.
+En los cortes de hemiabdomen superior, pequeña hernia hiatal. Noo se observan otros hallazgos significativos.
+
+conclusiones:
+No se aprecian TEP agudo en el momento actual.
+Patrón pulmonar radiológico compatible con afectación por COVID-19.
+
+descrip:
+ANGIO TC PULMONAR

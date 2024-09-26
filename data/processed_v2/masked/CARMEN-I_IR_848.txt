@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**HOmbre**] de [**62 años**]. Neumonía por COVID. Empeoramiento radiológico y clínico. Interesa descartar sobreinfección Vs progreisón neumonía organizativa. D-dímero 1500. Valorar TEP. Gracias.
+SDRA GRAVE
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+
+resultados:
+No se visualizan defectos de repleción intraluminal sugestivas de TEP en las arterias pulmonares principales, en sus ramas lobares ni segmentarias proximales. Tronco de la arteria pulmonar de calibre conservado.
+Parénquima pulmonar con patrón en vidrio deslustrado bilateral difuso de distribución subpleural y peribroncovascular, de predominio en hemicampos pulmonares y con cierta tendencia a la consolidación en zonas posteriores, discretos engrosamiento septales interlobulillares, engrosamientos bronquiolares centrales y signos del halo invertido. Los hallazgos son compatibles con neumonía por COVID19 con componente organizativo. Sin signos de sobreinfección. Colapso atelectásico parcial de ambos lóbulos inferiores, de aspecto pasivo, en relación a leve derrame pleural bilateral.
+No se visualizan adenopatías de tamaño patológico a nivel mediastínico, hiliar ni axilar.
+Cardiomegalia. Sin derrame pericárdico.
+TOT normoposicionado con extremo distal en luz traqueal. CVC con extremo distal en aurícula derecha.
+En los cortes de hemiabdomen superior incluidos no se visualizan alteraciones valorables.
+
+conclusiones:
+Sin TEP en la actualidad.
+Parénquima pulmonar con neumonía por COVID19 con componente organizativo, sin signos de sobreinfección.
+Leve derrame pleural bilateral.
+
+descrip:
+ANGIO TC PULMONAR

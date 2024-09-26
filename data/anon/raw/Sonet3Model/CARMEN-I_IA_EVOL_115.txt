@@ -1,0 +1,14 @@
+**EVOLUCIÓN EN SALA [**J035**]**
+.
+1.- NEUMONÍA BILATERAL POR SARS CoV2 CON INSUFICIENCIA RESPIRATORIA LEVE
+**Fecha de inicio de síntomas: [**22/3**]**
+**Fecha prueba positica: TAR [**22/3**]**
+**Fecha de ingreso: [**30/03**]**
+**Tratamiento: Dexametasona 6mg/24h. HBPM 40 sc/24h
+.
+2.- HIPONATREMIA ASINTOMÁTICA (124) EN RESOLUCIÓN (131 AL ALTA)
+.
+Paciente de [**63 años**], con antecedentes de extabaquismo, EPOC moderado, posible SAHS, HTA y poliglobiulia en estudio Inició fiebre y afonía el [**22/3**], con prueba rápida de  antígeno positiva ese mismo día. Refiere además tos sin expectoración. Fue visitado en nuestro centro el día [**27/3**], se realizó Rx y analítica y se recomendó Rx de control a las 48hrs. El paciente se la hizo el [**30/03**] en [**Centre Salut Mental Paseo Imperial**] en la cual se observa progresión de los infiltrados principalmente en en base derecha, y empeoramiento de parámetros analíticos, por lo que lo derivan de nuevo a Urgencias el [**30/03**].
+En Urgencias, se encuentra estable hemodinámicamente, SatO2 99% con GN a 2L, niega disnea ni dolor torácico, a la auscultación presenta crepitantes en base derecha y  disfonía. Se realiza analítica en la que se observa empeoramiento de RFA (PCR 15, previa de 11, elevación transaminasas, Sodio 124, Ferrtina 1600 previa 1245, Dimero:1800 previo 2300, persistencia de linfopenia). Asímismo, progresión radiológica con aumento de infiltrados bilaterales de predominio derecho.
+En sala, afebril y hemodinámicamente estabel, bien estado general, destaca afonía. Eupneico en reposo con SatO2 en torno a 96-97% con ln a 3 lpm. A la exploración, destacan crepitantes bilaterales de predominio derecho. Ante la insuficiencia respiratoria en día +10, se inicia tratamiento con Dexametasona y HBPM profiláctica. Se inicia fluidoterapia con suero fisiológico por hiponatremia de 124 al ingreso (posiblemente secundaria a fármacos + síndrome diarreico) que remonta a 131 en 8 horas. Se realiza analítica de control con reactantes de fase aguda en descenso (PCR 12, ferritina 1485)
+Dado que se trata de una paciente de [**63 años**], autónomo, que vive en domicilio con [**mujer**] e [**yerno**] ([**COVID+**]) y requiere flujos bajos de O2, comento con HDOM para valorar traslado.

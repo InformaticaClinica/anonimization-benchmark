@@ -1,0 +1,29 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Varon**] con neumonia grave por COVID mala evolucion. TC del [**7/9**] con signos de neumonia organizativa. Sospecha de componente fibrótico vs sobreinfección.
+
+protocolo:
+TC torácica de alta resolución.
+
+resultados:
+Se compara con el estudio previo del [**09/06/2011**].
+Traqueostomía con TET a 3,7 cm de la carina. CVC yugular izquierdo con extremo distal en la confluencia de ambos troncos innominados. SNG con loop en cuerpo gástrico y extremo distal en fundus.
+Estabilidad de los ganglios mediastínicos (prevasculares, paratraqueales y subcarinal) aumentados de tamaño descritos en el estudio previo, probablemente reactivos. No se evidencian adenopatías axilares o mediastínicas valorables.
+Leve dilatación del tronco de la arteria pulmonar de nueva aparición (actualmente de 34 mm, previo de 29 mm). Práctica resolución del leve derrame pleural bilateral presente en el estudio previo. No se observa derrame pericárdico.
+Extensos focos consolidativos peribroncovasculares de localización posterior en LLSS, LM y LLII que asocian algunas opacidades en vidrio deslustrado de predominio en LLSS y dilataciones bronquiales con algunas bandas subpleurales difusas, todo ello en relación a cambios organizativos secundarios a la neumonía bilateral por COVID-19 conocida.
+Respecto el estudio previo destaca una disminución de las opacidades en vidrio deslustrado en LLSS, donde se aprecia un discreto aumento del componente organizativo, y un menor componente de colapso pulmonar.
+Persiste una distensión de la vesícula biliar, que presenta un contenido denso en probable relación a contraste yodado de exploraciones previas.
+Microlitiasis no obstructiva en el grupo calicial medio del riñón derecho.
+
+conclusiones:
+- Neumonía bilateral por COVID-19 conocida con cambios organizativos.
+Respecto el estudio previo destaca una disminución de las opacidades en vidrio deslustrado en LLSS a expensas de un discreto aumento del componente organizativo. Disminución del componente de colapso pulmonar.
+No hay signos que sugieran sobreinfección.
+- Discreta dilatación del tronco de la arteria pulmonar no presente en el estudio previo.
+- Práctica resolución del leve derrame pleural bilateral presente en el estudio previo.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

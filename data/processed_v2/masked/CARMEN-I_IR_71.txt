@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**53 años**], hospitalizado por neumonía por covid, que requirió intubación orotraqueal, actualmente ya en sala de hospitalización, persiste insuficneica respiratoria y D dimero eleva, sin Rx tórax que justifique insufiencia respiratoria
+Solicitamos angioTC para descartar TEP
+Gracias
+neumonía covid
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Ténues opacidades reticulares y en vidrio delsutrado peribroncovasculares difusas y focos consolidativos con diltación bronquial irregular de predominio en LID compatible con neumonia COVID en resolución.
+Opacificación subóptimas de vasoso pulmonares pero se observa un TEP segmnetario posterobasal izq
+No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+Neumonia COVID en resolución.
+TEP segmnetario posterobasal izq.
+
+descrip:
+ANGIO TC PULMONAR

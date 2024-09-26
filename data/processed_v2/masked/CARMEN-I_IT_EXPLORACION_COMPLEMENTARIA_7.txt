@@ -1,0 +1,37 @@
+* INFORME FIBROBRONCOSCOPIA ([**26/5**]): Tubo orotraqueal normoposicionado.
+Inflamación generalizada de la mucosa  bronquial con presencia de secreciones mucopurulentas adheridas de predominio basal derecho que se aspiran tras institación de solución salina. Se realiza BAS para estudio microbiológico.
+Estudio realizado bajo ventilación mecánica FiO2 100%, PEEP 5. SpO2 mantenida 98% durante todo el procedimiento.
+* EEG ([**7/06**]):
+1) alentiment theta difús irregular asimètric, de menor voltatge o amplitud focal temporo-parietal dret, reactiu a estímuls.
+2) brots d'activitat delta intermitent de predomini anterior bilateral o de lateralitat alternant amb alguna onda aguda de morfologia trifàsica i predomini anterior, induït sobretot amb mínims estímuls verbals o tàctils. No s'enregistra activitat epileptiforme valorable. Aquestes dades suggereixen una disfunció cerebral difusa moderada de predomini temporo-parietal dreta. Es descarta estatus epilèptic en aquest moment
+* EEG ([**19/06**]): EEG anormal debido a un enletecimiento de la actividad de base disfusa con ondas trifásica compatible con encefalopatía. No hay asimetrias ni actividad epileptiforme.
+** MICROBIOLOGÍA:
+FROTIS PARA SARS-CoV-2 ([**23/5**]): positivo.
+HEMOCULTIVOS x2 ([**23/5**]): negativos
+ASPIRADO TRAQUEAL ([**23/5**]): flora habitual.
+URINOCULTIVO ([**23/5**]): negativo
+FROTIS RECTAL Y NASAL ([**25/5**]): no se objetivan microorganismos multirresistentes.
+ASPIRADO TRAQUEAL ([**25/5**]): flora habitual.
+HEMOCULTIVOS x3 ([**25/5**]): negativos
+URINOCULTIVO ([**25/5**]): negativo.
+ASPIRADO BRONQUIAL ([**26/5**]): flora habitual.
+ANTIGENURIAS ([**28/05**]): negativas.
+HEMOCULTIVOS ([**28/05**]): negativo.
+AGA y BETAGLUCANO ([**29/05**]): negativa
+HEMOCULTIVOS x2 ([**31/05**]): negativos
+ASPIRADO TRAQUEAL ([**31/05**]): 60.000 UFC/mL de Achromobacter xylosoxidans (R a ciprofloxacino y colistina).
+URINOCULTIVO ([**31/05**]): negativo.
+FROTIS RECTAL Y NASAL ([**25/5**]): no se objetivan microorganismos multirresistentes.
+URINOCULTIVO ([**5/06**]): negativo.
+HEMOCULTIVOS x3 ([**5/06**]): negativos
+ASPIRADO TRAQUEAL ([**5/06**]): 10.000 UFC/mL de Achromobacter xylosoxidans (R a ciprofloxacino y colistina).
+FROTIS RECTAL Y NASAL ([**6/06**]): no se objetivan microorganismos multirresistentes.
+COPROCULTIVO ([**7/06**]): PCR positivo para Blastocystis, resto negativo.
+Toxina C. difficile negativa.
+HEMOCULTIVOS ([**8/06**]): negativo
+CULTIVO DE PICC ([**8/06**]): negativo
+ASPIRADO BRONQUIAL ([**8/06**]): 20.000 UFC/mL de Pseudomonas aeruginosa
+HEMOCULTIVOS x2 ([**12/06**]): negativo.
+ASPIRADO TRAQUEAL ([**12/06**]): 80.000 UFC/mL de Pseudomonas aeruginosa
+FROTIS RECTAL Y NASAL ([**13/06**]): no se objetivan microorganismos multirresistentes.
+FROTIS PARA SARS-CoV-2 ([**23/5**]): positivo.

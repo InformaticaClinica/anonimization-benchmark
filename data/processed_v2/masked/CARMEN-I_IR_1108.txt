@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Hombre**] de [**62 años**] obeso. Neumonía por COVID-19. Plaquetopenia y dimero D de 9000. Solicitamos AngioTC para descartar TEP.
+Muchas gracias!!
+COVID
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+ADDENDUM (Radiología torácica- [**Donato**]).
+Se identifica defecto de repleción lineal en la bifurcación de las ramas segmentarias basales del LID y defectos subsegmentarios en ramas posterobasales del LII, sugestivo de TEP periférico bilatetal.
+Focos consolidativos y en vidrio deslustrado bilaterales, con disposición periférica y formando bandas subpleurales predominantemente en campos inferiores, compatibles con infección pulmonar por COVID-19.
+Sin signos de fibrosis en el estudio actual.
+No se observa derrame pleural. Mínimo derrame pericárdico.
+Adenopatías paratraqueales bajas, prevasculares y subcarinales (la mayor de 11 mm), de aspecto reactivo.
+
+conclusiones:
+Hallazgos sugestivos de TEP periférico bilatetal.
+Afectación pulmonar bilateral por COVID-19. Sin signos de fibrosis en el estudio actual.
+
+descrip:
+ANGIO TC PULMONAR

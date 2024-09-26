@@ -1,0 +1,31 @@
+
+prueba:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+clinica:
+Paciente con COVID incidental, presenta HSA fisher 4. 2 ventanas neurológicas con Glasgow 8-9. Interesa descartar complicaciones (sangrado o vasoespasmo). Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC craneal basal + TC perfusión cerebral + Angio-TC de troncos supraaórticos intra y extracraneal.
+
+conclusiones:
+TC CRANEAL BASAL:
+Se compara con TC previo del [**26/03/2021**]:
+Cambios postquirúrgicos en relación a creneotomía frontotemporal izquierda. Craneostomía frontal derecha con drenaje que presenta su extremo distal en agujero de Monro contralateral. Disminución de tamaño del sistema ventricular, así como disminución de la contaminación hemática en ambas astas occipitales y III ventrículo. No se observan signos de hidrocefalia activa.
+Clipaje de aneurisma en topografía de bifurcación de AMC izquierda.
+Estabilidad del hematoma intraparenquimatoso temporobasal con áreas de hipodensidad periférico asociado. Hipodensidad con pérdida de diferenciación corticosubcortical a nivel frontotemporo basal, periinsular y región frontal izquierda, en relación a área de infarto agudo establecido, ya conocido y que está estable.
+Estos hallazgos condicionan efecto de masa con distorsión del VL ipsilateral. Leve desviación de las estructuras de la línea media 3 mm hacia la derecha.
+Estabilidad del edema cerebral difuso, con colapso asociado de ambas cisternas ambiens, que ha disminuído respecto al estudio previo.
+Extensa HSA que afecta surcos de ambas convexidades (Izq > Der), valles silvianos bilateralmente (izq > der), hoz cerebral y surcos parasagitales con extensión hacia cisternas basales. Respecto al TC previo ha disminuido levemente el componente cisternal y perisilviano derecho.
+TC PERFUSIÓN:
+Estabilidad de las dos áreas focales de retraso en los mapas de tiempo, flujo y volumen a nivel frontal y frontobasal izquierdos coincidiendo con las áreas de hipodensidad visualizadas en TC previo (áreas de infarto establecido).
+Resto del estudio sin signos sugestivos de vasoespasmo ni otras alteraciones significativas.
+ANGIO-TC EXTRA E INTRACRANEAL:
+Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+Discreta tortuosidad del segmento M1 de la ACMi, sin signos evidentes de vasoespasmo. La valoración de la ACM en su segmento M1 distal / M2 proximal es dificultosa debido al artefacto por el clip metálico.
+Nódulo de 20 mm en hemitiroides derecho, ya conocido.
+Resto del estudio sin cambios ni alteraciones significativas.
+
+descrip:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)

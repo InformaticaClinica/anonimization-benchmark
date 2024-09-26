@@ -1,0 +1,9 @@
+
+Paciente de [**65 años**], trasladado desde [**Hospital Mediterráneo**] a UCI de H.
+[**Hospital Sierra Nevada**] (por falta de camas de UCI) con diagnóstico de Neumonía bilateral COVID19+. Ha requerido intubación orotraqueal (Cormack II) para soporte respiratorio al presentar empeoramiento progresivo, con hipoxemia marcada (PAFI 85), sin inestabilidad hemodinámica ni otro fallo orgánico.
+Se mantiene con IOT hasta el [**07/11/2024**], que es extubado sin indencias, manteniendo SatO2 98% con VK 40%. A la espera de hemo/urinocultivos, BAS y PCR para Legionella, S. pneumonia, se realiza cobertura antibiótica secuencial con ceftriaxona, teicoplanina, piperacilina-tazobactam y levofloxacino, sin aislamientos microbiológicos, y con disminución progresiva de los reactantes de fase aguda.
+Ha recibido tratamiento con Hidroxicloroquina (5 días), Ceftriaxona (5 días), Azitromicina (5 días), Kaletra (7 días), Tocilizumab (1 dosis), Anakinra (2 dosis) y Dexametasona.
+Progresivamente el paciente presenta buena evolución clínica y se decide traslado a sala de hospitalización convencional.
+En sala, el paciente ha presentado mejoria progresiva pudiéndose descender oxigenoterapia hasta lentillas nasales a 3 litros y con mejoria progesiva de los reactantes de fase aguda. A pesar de ello, persiste con requerimientos de oxigenoterapia llegando a presentar en ocasiones desaturación al 87% bien tolerada tras el esfuerzo y con persistencia de infiltrados radiológicos en la radiogradia simple sugestivos de neumonia organizativa por lo que se decide solicitar TC tórax para completar estudio (pendiente de su realización). No obstante se ha iniciado corticoides a dosis de 0,5mg/kg a la espera de los resultados del TC.
+Dada su mejoría se decide derivar al [**Clinica COVID**] para continuar con periodo de convalescencia.
+ 

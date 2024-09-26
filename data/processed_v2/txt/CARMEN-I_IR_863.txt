@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID-19
+
+protocolo:
+Rx de tòrax
+
+conclusiones:
+Placa rotada.
+Elevació de l'hemidiafragma esquerre.
+Petit embassament pleural dret.
+No identifico clares opacitats alveolars. Aquestes troballes no exclouen infecció per covid-19.
+
+descrip:
+RX  PORTATIL  TORAX

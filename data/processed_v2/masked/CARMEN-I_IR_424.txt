@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Mujer**] con infección covid-19 a día +12, sin necesidad de O2 pero con radiografía con infitlrados bilaterales en progresión y analítica con elevación de parámetros inflamatorios. Ruego Tc tórax para descartar NOC. PAciente altable. Gracias.
+COVID19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta varios focos parcheados de vidrio deslustrado y pequeñas zonas de consolidación, compatibles con afectación por COVID-19. Se evidencia semiología de halo invertido en alguno de ellos lo que sugeriría la existencia de un patrón de neumonía organizativa.
+Discretos cambios degenerativos en columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

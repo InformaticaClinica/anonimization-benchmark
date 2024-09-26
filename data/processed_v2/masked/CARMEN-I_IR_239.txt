@@ -1,0 +1,27 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con N. bilateral SARS-CoV-2, IOT-VM, weaning prolongado, traqueostomizado, buena evolución respiratoria pudiendose decanular y en respiración espontánea basal.
+Ha presentado varioas complicaciones trombóticas y hemorrágicas: INFARTO PULMONAR PEQUEÑO DE LID (disminución de tamaño
+en AngioTC[**14/07**]. NO TEP, TROMBOSIS COMPLETA VENA CEFÁLICA DE ESD y T.PARCIAL DE SUBCLAVIA DERECHA y recinete HEMATOMA DE MÚSCULO ILÍACO Y PSOAS IZQUIERDO con último Angio TC [**14/07**] sin focos de sangrado activo por lo quue tras se introdujo enoxarina en dosis lentamente crecientes, actualmente 60mg/12h en paciente con [**110 kg**]. Refiere hipoestesia residual en cara anterior del muslo izdo desde el dx del hematoma, pero esta tarde se hace descendente con hipoestesia de la cara anterior de la rodilla y tibial anterior sin focalidad motora en esa extremidad ni en ninguna otra ubicación, Hb de esta mña estable 9, he solicito Hto urgente e interesa descartar progresión del hematoma ilíaco ya conocido.
+
+protocolo:
+S'ha realitzat estudi de l'abdomen i de la pelvis directament amb contrast ev obtenint imatges en fase portal. Es compara amb TC prèvia del [**14/07/2014**].
+
+resultados:
+Hematoma retroperironel esquerre que afecta al ms ilíac de 7 x 9 x 14 mm, ha disminuit discretament de mides respecte el control anterior.
+El fetge és de mida i morfologia dins de la normalitat, homogeni, no apreciant-se lesions focals. Via biliar no dilatada. Bufeta biliar distesa.
+Vena porta i eix esplenomesentèric permeables.
+Melsa, pàncrees i glàndules suprarenals sense alteracions.
+Ronyons de mida i morfologia dins de la normalitat amb nefrogarma bilateral i simètric, sense signes d'uropatia obstructiva. Litiasis caliciliars no obtructives bilaterals. Quist cortical de 2 cm al RD. SF a la bufeta de l'orina.
+No es veuen ganglis limfàtics augmentats de mida ni al retroperitoni ni en altres territoris abdominals o pèlvics.
+Estructures pèlviques dins de la normalitat.
+No es veu líquid lliure intrabdominal.
+
+conclusiones:
+Hematoma retroperironel esquerre que afecta al ms ilíac que ha disminuit discretament de mides respecte el control anterior.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

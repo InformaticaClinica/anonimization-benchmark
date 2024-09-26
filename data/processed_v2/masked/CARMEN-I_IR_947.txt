@@ -1,0 +1,44 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente con neoplasia de páncreas obstructiva y CO-INFECCIÓN POR COVID ACTUALMENTE. Ingresado por ictericia obstructiva e intolerancia alimentaria. Cuando se diagnosticó en [**06/2023**], paciente Borderline, propuesto para neoadyuvancia. Actualmente presenta clara progresión clínica de la enfermedad (Bilirrubina de 13 siendo la previa normal, e intolerancia a la dieta). Está pendiente de colocación de sonda nasoyeyunal para alimentación. Se ha realizado CTPH para drenaje IE de la vía biliar.
+Agradecería TC TORACOABDOMINAl para re-estadiaje puesto que clínicamente impresiona clara progresión de la enfermedad, y en ese caso el paciente no sería candidato a neoadyuvancia y requeriría colocación de endoprótesis biliar definitiva.
+ICTERICIA OBSTRUCTIVA
+
+protocolo:
+TC de tórax y abdomen tras administración de contraste e.v. (tórax en fase arterial y abdomen en fase venosa)
+
+resultados:
+Estudio comaprativo con TC del [**23/7/20**]
+TÓRAX
+Estructuras mediastínicas de aspecto normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Ganglios paratraqueal infracentimétricas, inespecífica y estable respecto a TC previo.
+Atelectasias laminares bibasales.No se observan imágenes sugestivas de M1 pulmonares. Resto de parénquima sin alteraciones patológicas
+Leve derrame pleural derecho. No se observa derrame pericárdico.
+ABDOMEN
+Lesión focal en la cabeza pancreática mal delimitada compatible con proceso neoformativo primario ya conocido. Condiciona dilatación del conducto de Wirsung de hasta 13 mm (previo (9 mm)) en cuerpo y cola.
+Se observa una ocupacion de la grasa del surco pancreático-duodenal.
+Se identifica una colección de 45 x 23 mm adyacente al ligamento falciforme, no presente en TC previo y una marcada trabeculacion y area de coleccion en la grasa mesenterica anterior a la cabeza del pancreas y adyacente a la vesicula biliar
+Los hallazgos podrian estar en relacion a cambios inflamatorios secuandarios a manipulacion ( CPRE y CTPH) que condiciona la valoracion del estadije local.
+Vía biliar intrahepatica dilatada y drenaje interno-externo con entrada por el LHD y  extremo distal en segunda porción duodenal.
+Signos de invasión de la grasa anterior a la lesión, en mesenterio, que rodea una rama de la a. cólica derecha.
+La tumoración invade la arteria gastroduodenal. No se observa invasión de tronco celíaco, arteria hepática ni AMS.
+La tumoración infiltra el confluente venoso porto-espleno-mesentérico, que se muestra estenosado, pero ambas venas permanecen permeables.
+Invasión de la porción adayacente al confluente de la VMS.
+Se observa leve cantidad de líquido libre intra-abdominal perihepático, FID, FII y pelvis.
+Hígado de tamaño, morfologia y coeficiente de atenuación normales.
+Quistes hepáticos simples en segmentos II y IV, estables. No se observan imágenes sospechosas de M1.
+Vesícula biliar de tamaño y morfología normales con contraste en su interior. Se identifican algunas burbujas de aerobilia.
+Bazo homogéneo de 14 cm. Glándulas suprarrenales de tamaño y morfología sin alteraciones.
+Riñones y vía excretora sin alteraciones
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico. Se observan algunos ganglios en hilio hepático, el mayor de 9 mm, estables respecto a TC previo.
+Masa inguinal izda redondeada y homogénea, de aspecto adenopático, de 5x4cm con otras pequeñas adenopatías alrededor de ella, la mayor de 1cm, parcialmente evaluada en el estudio actual.
+Sonda nasogástrica con extremo distal en tercera porción duodenal.
+
+conclusiones:
+vr
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+paciente de 42 años, lobectomía izquierda por neo de pulmón, aspergiloma intervenido con fístula broncopleural que se cerró en noviembre con exéresis de parilla costal y toracoplastia, portadora de VAC habiendo recibido antibioterapia en febrero por crecimiento de pseudomonas. Ingresa por covid-19 que parece leve clínicamente, con hemitórax izquierdo colapsado, a descartar por favor complicación de toracoplastia( empiema). Gracias!
+COVID +
+
+protocolo:
+TC de tórax tras adminsitración de contraste e.v.
+
+resultados:
+Se compara con los estudios previos, última TC del 16/01/2026
+No se observa derrame pleural ni pericárdico.
+Discreto aumento de los ganglios axilares bilaterales, el mayor de 8 mm en cadena axilar izquierda y de 6 mm en cadena axilar derecha.Adenopatía hiliar izquierda de 14 mm, estable.
+Resolución del defecto de repleción en rama subsegmentaria de la arteria segmentaria posterobasal del LID. Calcificaciones coronarias.
+Cambios postquirúrgicos hemitórax izquierdo en relación a lobectomía inferior y secundarios a reparación de fístula broncopleural del bronquio lobar inferior izquierdo con resección de arcos costales y toracoplastia omental.
+Aparición de colapso subtotal de pulmón izquierdo secundario a obstrucción total de bronquio principal izquierdo por mas de partes blandas en el lecho quirúrgico sugestivo de recidiva tumoral Asimismo de observa substitución de la densidad grada omental por densidad de partes blandas que podrí acorresponder  también a componente tumoral.
+Afectación parenquimatosa en forma de opacidades en vidrio desluestrado multilobares derechas de predominio periférico en relación a neumonía por COVID-19.
+Enfisema centrolobulillar derecho multilobar. Hiperinsuflación compensatoria de pulmón derecho. Estabilidad de los ganglios intrapulmonares derechos conocidos. Atelectasias subsegmentarias en LID, sin cambios.
+
+conclusiones:
+_ Colapsos subtotal del pulmón izq con obstrucción bronquial por componente de  partes blandas probablemente tumoral-- Aparición de una masa de densidad heterogénea en espacio extrepleural izquierdo, probbalemente del mismo origen
+-Se aconseja realización de PET en cuanto las condiciones del paciente lo permitan.
+- Opacidades en vidrio deslustrado que sugieren neumonía por COVID-19.
+- Resolución del TEP agudo subsegmentario en LID.
+
+descrip:
+TC TORAX

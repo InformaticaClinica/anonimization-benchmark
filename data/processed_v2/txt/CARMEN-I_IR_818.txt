@@ -1,0 +1,32 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Pacient de 45 anys ingressada en sala Covid (J746) per completar estudi de lesions hepàtiques i messentèriques com a troballa estudi ecogràfic abdominal.
+Té antecedent de Sd limfoproliferativa post-trasplant (tipus LDCG) i va completar tractmaent amb 5 cicles de R-CHOP presentant múltiples complicacions.
+Va patir una pneumònia bilateral per Covid19 (ingrés de Nov 2012 a Febrer 2012) amb TEP associat. Darrera PCR 22/10 positiva dèbil.
+Actualment sospita de probable recidiva LDCG. Valorada per HEMATO, recomanen realitzación de PET corporal (de baixa dosi) per completar estadiatge
+sd linfoproliferativo
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero 60 min después de la inyección endovenosa de 10.46 mCi de FDG. Se obtienen imágenes tomográficas PET transversales, coronales y sagitales sin corrección de atenuación y corregidas.
+Glucemia en el momento de la inyección: 160 mg/dL.
+
+resultados:
+Se compara con PET/TC previo del 18/05/2012.
+Las imágenes tomográficas ponen de manifiesto la distribución fisiológica de la FDG en el organismo.
+Catéter de reservorio subcutáneo que muestra, en su porción externa, focos de actividad por acumulación de radiofármaco. Se observa también contaminación cutánea en hemitórax izquierdo y región inguinal izquierda.
+Disminución de las áreas de condensación en vidrio deslustrado de ambas bases pulmonares, así como de su captación de FDG, atribuidas a proceso inflamatorio/infeccioso.
+No se observan ganglios hipermetabólicos en territorios supra- ni infradiafragmáticos.
+Se observan focos hipermetabólicos hepáticos, los mayores en segmento VI-VII (SUVmáx:14,67) y IV (SUVmáx:5,34).
+Visualizamos también otros aumentos de captación de FDG. Uno localizado adyacente a asa ileal (SUVmáx:13,22), implante en pared abdominal umbilical y en epiplon mayor (caudal a la previamente descrita).
+Injerto renal atrófico en fosa ilíaca derecha. Injerto renal en fosa ilíaca izquierda.
+Bazo y médula osea con captación difusa normal de FDG.
+
+conclusiones:
+PET/TC que muestra lesiones hipermetabólicas hepáticas y peritoneales de nueva aparición, sugestivas de recidiva de su proceso linfoproliferativo.
+
+descrip:
+PET TC COS SENCER FDG

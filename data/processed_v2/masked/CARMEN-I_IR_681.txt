@@ -1,0 +1,12 @@
+
+prueba:
+RX TORAX PA L
+
+clinica:
+COVID-19
+
+conclusiones:
+Consolidaciónen base pulmonar izquierda (lingula/LII).
+
+descrip:
+RX TORAX PA L

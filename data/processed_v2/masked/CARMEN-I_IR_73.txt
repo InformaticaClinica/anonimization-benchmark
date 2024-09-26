@@ -1,0 +1,28 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Pciente [**79 a**] ingresado por fiebre post-covid orientada como neumonía organizativa vs infección en ID con buena respuesta a corticodes y ATB.
+Se solicitó PET-TC para completar estudio que muestra una captación patológica de FDG en lo que parece corresponder con cola de pancreas e irregularidad en la captación hepática, a descartar patología infiltrativa en la zona por lo que recomiendan ampliar estudio mediante Tc abdominal con contraste. Rogamos realización del mismo, gracias.
+SOSPECHA NEO PANCREAS
+
+protocolo:
+TC abdominal tras administración de contraste e.v. con adquisición multifásica.
+
+resultados:
+Hígado de tamaño normal sin lesiones focales.
+Vesícula biliar de tamaño preservado. Vía biliar no dilatada.
+Bazo homogéneo de tamaño normal.
+Glándula pancreática de tamaño morfología y captación preservados. No identificamos lesiones focales en la cola pancreática o en otras partes del parénquima. No dilatación del conducto de Wirsung.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Riñones funcionantes, de morfología y tamaño normal.
+Discreto aneurisma de aorta abdominal infrarrenal con un máximo diámetro de 25 mm. Ateromatosis aortoilíaca.
+Hipertrofia prostática.
+Sin otras alteraciones en pelvis.
+
+conclusiones:
+No identificamos lesiones focales en la cola pancreática ni en el resto del parénquima.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

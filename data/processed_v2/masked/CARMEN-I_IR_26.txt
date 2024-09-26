@@ -1,0 +1,32 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Pacient amb pneumònia bilateral per covid que es trasllada a UCI per insuficiència respiratòria hipoxèmica, que en radiografies de l'ingrés presenta eixamplament mediastí a expenses de massa retrocardíaca dreta, i al realitzar ecografia pulmonar s'observa vessament pleural dret amb lòbul pulmonar posterior dret atelectasiat. A més, vessament pericàrdic moderat-greu que comprimeix aurícula dreta. Sol·licitem TAC per estudi de les troballes de Rx i eco i descartar TEP. IRC amb Cr 4 habitual, realitzariem protecció renal. Gràcies!!
+NEUMONIA BILATERAL POR SARS-CoV-2
+
+protocolo:
+Estudio TC torácico de arterias pulmonares.
+NOTA: Estudio subóptimo para la valoración de TEP dado que no se ha conseguido una correcta opacificación de las arterias pulmonares lo que disminuye la sensbilidad diagnóstica de la prueba.
+
+resultados:
+Se revisan estudios previos; última RX del [**06/12/2013**].
+PICC derecha con extremo distal en VCS.
+Aumento de tamaño de la glándula tiroides con nódulos, compatible con bocio con extensión endotorácica paratraqueal derecha.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar valorables en esta exploración que sugieran la existencia de TEP.
+Adenopatías mediastínicas paratraqueales, en ventana aortopulmonar, hiliares bilaterales y subcarinales, siendo la de mayor tamaño de 20 mm subcarinal; de probable carácter reactivo. No se visualizan adenopatías de tamaño valorable en regiones axilares.
+Tronco de la arteria pulmonar aumentao de calibre (35 mm).
+Calcificaciones coronarias y caclcificación del anillo valvular mitral.
+Marcado derrame pericárdico, de predominio en saco anterior y lateral derecho, con un grosor de 20 mm, que produce efecto masa en la aurícula derecha. Mínimo derrame pleural bilateral.
+Afectación parenquimatosa pulmonar bilateral en forma de opacidades en vidrio deslustrado con engrosamiento de septos interlobulillares, en forma de crazy paving, de distribución periférica y peribroncovascular y de predominio izquierdo, con pequeños focos consolidativos posterobasales bilaterales, con mínimos cambios organizativos incipientes posterobasales izquierdos; hallazgos en relación a proceso neumónico bilateral por COVID-19.
+Cambios degenerativos en columna torácica.
+En hemiabdomen superior, se visualiza discreta cantidad de líquido libre perihepático y periepslénico. Engrosamiento de ambas glándulas suprarrenales, de aspecto hiperplásico.
+
+conclusiones:
+- No se visualizan claros signos de TEP en la exploración realizada.
+- Neumonía bilateral por COVID-19 de extensión moderada-severa, con mínimos cambios organizativos incipientes posterobasales izquierdos.
+- Marcado derrame pericárdico (20 mm), que produce efecto masa sobre la aurícula derecha.
+
+descrip:
+TC TORAX

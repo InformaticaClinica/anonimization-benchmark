@@ -1,0 +1,20 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+[**Hombre**] de [**91 años**] ingresado por hemoptisis que luego de embolizacion de art. pulmonar presenta paresia crural derecha. Rogamos RM cerebral para descartar lesiones isquemicas.
+Paresia EID
+
+conclusiones:
+No se observan lesiones isquémicas de características agudas.
+Multiples focos de hiperseñal en sustancia blanca supratentorial, tanto periventicular como subcortical, en relacion con angiopatia microvascular.
+Anomalía del desarrollo venoso en cerebelo derecho sin otras alteraciones asociadas.
+Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas.
+Cisternas de la base libres.
+Estructuras de linea media centradas.
+Estudio de Angio-RM arterial intracraneal sin alteraciones significativas.
+Resto del estudio sin otras alteraciones significativas.
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

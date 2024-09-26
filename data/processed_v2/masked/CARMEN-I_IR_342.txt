@@ -1,0 +1,32 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**hombre**] [**62 años**] por neumonía COVID19 y anticoagulado por TEP que presenta choque séptico refractario y leucocitosis 70000. Sospechamos foco abdominal. Rogamos TC abdominal urgente para descartar complicaciones intraabdominales (perforación, colecciones,etc). gracias
+choque séptico refractario
+
+protocolo:
+TC abdominal urgent amb contrast ev. i estudi multifase.
+
+resultados:
+Fetge de mida normal i captació heterogènia de contrast, identificant àrees hipodeneses a totes les fases (especialment al segment VI), suggestives d'infarts hepàtics donat el context del pacient. L'artèria hepàtica és permeable. Vena porta i eix esplenomesentèric permeables.
+Melsa amb mida normal, amb múltiples àrees hipocaptants compatibles amb infarts esplènics. L'artèria esplènica és permeable.
+Aspecte globulós del procés uncinat del pàncrees, amb lleu trabecul· lació del greix adjacent i del solc duodenopancreàtic. Aquestes troballes suggereixen una pancreatitis focal aguda edematosa intersticial, sense col·leccions. La resta del pàncrees és d'aspecte normal.
+Vesícula biliar distesa, sense complicacions valorables. Via biliar no dilatada. Glàndules suprarenals sense alteracions. Ronyons amb mida i morfologia normal, sense dilatació de la via excretora. Quist simple al ronyo dret. Sondatge vesical. Apèndix cecal de característiques normals.
+Sonda nasogàstrica amb extrem distal a l'antre gàstric.
+Augment de densitat del greix mesentèric associat a algunes adenopaties d'aspecte reactiu, suggestiu d'una panniculitis mesentèrica. No s'observen altres ganglis retroperitoneals ni pèlvics de mida significativa.
+No s'observa líquid lliure, col·leccions intraabdominals ni pneumoperitoneu.
+Hematoma a la musculatura adductora dreta, parcialment inclòs a l'estudi, que mesura aproximadament 9 x 6 cm (pla axial). No s'identifiquen focus d'extravasació de contrast a les seccions estudiades.
+Catéter vascular a vena iliaca comú dreta.
+Alteració de la transició lumbosacra amb megapòfisis transversa esquerra pseudoarticulada.
+Opacitats en vidre esmerilat amb tendència a la consolidació a ambdues bases pulmonars en relació amb l'afectació pulmonar coneguda per COVID-19. Col·lapses pulmonars bibasals. No s'observa vessament pleural.
+
+conclusiones:
+- Infarts hepàtics i esplènics.
+- Hematoma a la musculatura adductora dreta, parcialment visualitzat.
+- Pancreatitis focal edematosa intersticial al procés uncinat del pàncrees, sense col·leccions.
+- Afectació pulmonar coneguda per COVID-19.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

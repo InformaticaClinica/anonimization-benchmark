@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR Y EXTREMIDADES
+
+clinica:
+Hombre de 55 años ingresado por neumonia por COVID-19 (dia +14 de sintomas) y +2 de ingreso. Desde ayer sensación disneica, aunque con saturación 94-95% basal (previa 98%) con tendecia a taquicardia (87-90 lpm, previas alrededor de 60). Auscultación con MVC, afebril, parametros pronosticos de infección por COVID-19 en descenso, destavando DDmero de 5.600 (previo 1300). Interesa descartar TEP.
+COVID19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Consolidaciones parcheadas con broncograma aéreo de distribución periférica de predominio en ambos LLI y en LSD. Las consolidaciones de mayor tamaño en LSD y en LID presentan bandas subpleurales, con algunos lobulillos pulmonares conservados y en LID presenta discreta desestrucración del parénquima adyacente. Estos hallazgos son compatibles con afectación por COVID con signos incipientes de neumonía organizativa en LSD y en LID.
+Esteatosis hepática.
+
+conclusiones:
+No se observan signos de TEP.
+Patrón pulmonar compatible con afectación bilateral por COVID, de predominio derecho, con signos incipientes de neumonía organizativa en LSD y LID.
+
+descrip:
+ANGIO TC PULMONAR Y EXTREMIDADES

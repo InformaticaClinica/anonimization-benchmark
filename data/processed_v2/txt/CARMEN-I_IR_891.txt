@@ -1,0 +1,25 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Pacient de 93 anys dependent per a ABVD igressada per infecció per SARS- CoV-2. Presenta anemització progressiva amb caiguda de 5 punts d'hemoglobina en els últims 5 dies (avui Hb 71). També empitjorament respiratori, sense traducció semiològica ni radiològica, probablement en context d'anemització. EF sense signes evidents de sagnat (SV amb orina clara, no presenta hemoatomes, TR sense melenes ni sang). Molèstia difusa a la palpació abdominal, destaca empastament de regió proximal d'ESD, sense signes de cel·lulitis, amb dolor a la pressió i impotència funcional. Sol·licito TC abdomino-pèlvic i d'ESD urgent per a descartar possible sagnat com a origen de l'anemització.
+
+protocolo:
+TC abdominal en condiciones basales con posterior administración de contraste ev y adquisición de imágenes en fases arterial, portal y de equilibrio.
+
+resultados:
+Importante hernia de hiato. Hígado de tamaño y morfología normales, sin lesiones focales valorables. Vena porta y eje espleno-mesentérico permeables. Vesícula biliar litiásica y colapsada, de aspecto escleroatrófico. Moderada dilatación de la vía biliar intrahepática asociada a una marcada dilatación de los conductos hepáticos y del cístico (de hasta 14 y 9 mm respectivamente), disminuyendo progresivamente la vía biliar hasta el colédoco, de calibre normal (7 mm) en todo su trayecto hasta a nivel yuxtapapilar. No se identifican claras masas ni litiasis valorables por TC.
+Páncreas de tamaño y morfología normales, con un conducto de Wirsung prominente (4 mm) sin claras causas obstructivas. Imagen quística de 14 mm en cuello-cuerpo pancreático muy sugestivo de un pequeño NMPI de rama secundaria. Adenoma suprarrenal izquierdo de 22 mm. Bazo y glándula suprarrenal derecha sin alteraciones. No se aprecian adenopatías retroperitoneales ni pélvicas valorables. Riñones de tamaño morfología normales con algunos quistes corticales y sinusales bilaterales. No hay dilatación de la vía excretora.
+Imagen nodular bilobulada de unos 14 x 14 x 30 mm (AP x TR x CC) que parece depender de la pared gástrica, con crecimiento exofítico. Tiene unos márgenes bien definidos, densidad de partes blandas homogénea y sin una captación de contraste significativa. Estos hallazgos pueden corresponder a un leiomioma gastrico vs schwannoma.
+Sutura metálica en recto-sigma, a correlacionar con los antecedentes quirúrgicos. Fecaloma de 7 x 6 cm en ampolla rectal sin asociar claros cambios inflamatorios en la pared rectal. Resto del marco colónico y asas intestinales de calibre normal con adecuado realce de sus paredes.
+Vejiga urinaria parcialmente replecionada con sonda vesical en su interior.
+No se identifica líquido libre, colecciones intraabdominales ni neumoperitoneo.
+Colección heterogénea de aproximadamente 5 x 4.8 x 15 cm (AP x TR x CC) localizada en el compartimento femoral anterior derecho (topografia del recto medial del músculo cuádriceps) compatible con hematoma intramuscular. En su aspecto craneal presenta un mínimo de 3 focos extravasación de contraste en la fase de equilibrio (en las fases previas el hematoma no queda incluido) que progresa en la fase sucesiva, sugestivo de sangrado activo. Marcada trabeculación del tejido celular subcutáneo en el tercio proximal de la EID que condiciona un importante aumento de su perímetro.
+Bases pulmonares: ténues zonas de atenuación en vidrio deslustrado en língula, LII y LM, probablemente en relación con infección pulmonar por COVID-19. Atelectasias laminares.
+
+conclusiones:
+Hematoma intramuscular de 5 x 15 cm en el compartimento femoral anterior derecho con un mínimo de tres focos de sangrado activo (no se puede discernir si es arterial o bien venoso al quedar únicamente incluido en las fases de equilibrio). Fecaloma en recto.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

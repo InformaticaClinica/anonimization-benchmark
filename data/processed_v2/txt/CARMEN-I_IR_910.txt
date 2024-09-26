@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+DESCARTAR NO
+COVID-19
+
+protocolo:
+Se realiza TC torácica con técnica de alta resolución.
+
+resultados:
+Divertículo traqueal posterolateral superior derecho de 17mm.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades bilaterales en vidrio deslustrado de predominio subplaural y periférico compatibl econ neumonia COVID. Asocia en LLII  bandas parenquimatosas, diltaciones bronnquiales y consolidaciones perilobulares compatible con acmbiso organizativos.
+Poliquistosis hepatorenal.
+
+conclusiones:
+Neumonia COVID con cambios organizativos en LLII.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

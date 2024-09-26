@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+PAciente con antecedntes de nefrectomia y esplenectomia y multiples episodios de pseudopstruccion intestinal. Que ingresa por neumonia SARS COv19. Actualmente IOT bajo sedoanalgesia. Presenta tras mejoria respiratoria incial en contexto de pronacion, episodios de desaturacion que no mejoran pese a miorelajacion y aspiracion de secrecciones mediuante fibrobroncoscopia. Pese a anticoagulacion se apreci uncremento progresivo de dimero D hasta 20000. Awsi como aumento de LDH y alteracion de perfil hepatico con colestasis y citolisis progresiva con reaccion pancreatica. Se ruega descartar TEP, asi como valoracion abdominal. Gracias.
+NEUMONIA BILATERAL COVID +
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Se compara con TC previo del [**6/10/23**]. TC con contraste subóptimo para evaluación de segmentos distales, en estas condiciones:
+Defecto de repleción en los segmentos proximales de las arterias para el segmento posterior y lateral basal derechos, compatibles con TEP agudo segmentario a estos niveles. Tronco de la arteria pulmonar de calibre normal. Dilatación del ventrículo derecho y rectificación del tabique interventricular, sugestivo de sobrecarga cardiaca derecha.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Mínimo derrame pleural bilateral de predominio derecho, sin cambios significativos. No se observa derrame pericárdico.
+Mejoría de las áreas áreas bilaterales en vidrio deslustrado y de las áreas consolidativas hipodensas bilaterales, actualmente de predominio en LSD, todo esto en relación a neumonía COVID19. Se observa alguna imagen de halo reverso, sugestiva de cambios organizativos incipientes, estable. Respecto a radiografías previas desde el [**3/10/23**], se observa mejoría radiológica. Atelectasias bibasales, actualmente con ocupaciones endobronquiales en ambas bases de predominio derecho; las atelectasias son probablemente de origen obstructivo.
+SNG con extremo distal en cámara gástrica. TOT normoposicionado. CVC con entrada yugular derecha y extremo distal en unión atro-cava.
+
+conclusiones:
+TEP agudo segmentario de nueva aparición en rama arterial para el segmento basal lateral y posterior del LID.
+Signos sugestivos de sobrecarga cardiaca derecha.
+Mínimo derrame pleural bilateral de predominio derecho, estable.
+Mejoría radiológica de la afectación parenquimatosa descrita secundaria a neumonía COVID19 con signos incipientes de organicidad. Ocupaciones bronaquiales en ambas bases de predominio derecho, con atelectasias obstructivas secundarias. Respecto a radiografías previas desde el [**3/10/23**], se observa mejoría radiológica.
+
+descrip:
+ANGIO TC PULMONAR

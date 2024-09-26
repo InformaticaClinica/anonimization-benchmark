@@ -1,0 +1,31 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Pcte con tumor de klatskin irresecable.
+Portadora de prótesis biliar
+Ingresa con fiebre alta y dolor abdominal orientado como colnagitis.
+Descartar abscesos
+Gracias
+TUMOR DE KLASKIN
+
+protocolo:
+ECOGRAFIA ABDOMINAL
+
+resultados:
+Higado homogéneo de tamaño normal. Moderada dialtacion de la via biliar intrahepática en LHI (10 mm)  con pared edematosa a descartar una colangitis, además se observa imagen hipoecocia de 2 cm adyacente a la misma que podria corresponder a una M1 /absceso.
+Coledoco de 10 mm de calibre.
+Pancreas con c.wirsung evidente de 3 mm.
+Vena porta permeable de calibre normal.
+Vesícula biliar alitiásica, de paredes finas.
+Bazo homogéneo de tamaño normal (11,7 cm).
+Páncreas (cabeza-cuerpo) sin alteraciones.
+Riñones ecogenicos y con cortical adelgazada de IRC. No dilatación de la vía renal. Se observa algun quiste.
+No líquido libre intraabdominal.
+
+conclusiones:
+Ver resultados
+
+descrip:
+ECO BASAL (ABDOMEN)

@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**58a**], caquèctic, amb esofaguectomia distal i tubulització gàstrica que ingressa per neumonia amb insuficiència respitòria que requereix IOT, sospita de broncoaspiració +/- covid i d-dímer-4000.
+Solicito angioTC per descartar TEP. Gràcies
+COVID-19
+
+protocolo:
+Angio-TC pulmonar URGENTE
+
+resultados:
+Se compara con estudios previos, última TC del [**12/11/2018**].
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de calibre conservado.
+Ateromatosis cálcica de arteria coronaria izquierda, aorta ascendente, arco aórtico y aorta descendente.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Leve derrame pleural bilateral. Cambios fibrocicatriciales en ápex izquierdo, sin cambios.
+Extenso enfisema paraseptal y centrolobulillar bilateral moderado/grave.
+Bronquiectasias cilíndricas difusas.
+Persisten extensas ocupaciones endobronquiales mucosas bilaterales con afectación de todos los lóbulos, de predominio basal, particularmente en el LII con ocupación del bronquio lobar y segmentarios y de los bronquios segmentarios basales del LID y de la língula. Se observa aumento de los focos consolidativos peribroncovasculares posterobasales en LLII con componente de atelectasia subpleural asociado a aumento de focos de micronódulos centrolobulilares con morfología en árbol en brote en relación a bronquiolitis infecciosa. Hallazgos en relación a sobreinfección bacteriana con bronconeumonía bilateral y afectación de la pequeña vía aérea.
+Cambios postquirúrgicos secundarios a esofaguectomía distal con tubulización gástrica torácica.
+TOT con extremo distal a 7 cm de carina. SNG con extremo distal en cámara gástrica.
+Cateter venoso central yugular derecho con extremo distal en unión atriocaval.
+Práctica resolución del enfisema subcutáneo cervical derecho.
+
+conclusiones:
+No se observa TEP.
+Empeoramiento de los signos de sobreinfección bacteriana en paciente EPOC con severo enfisema y bronquiectasias. Extensas ocupaciones mucosas endobronquiales de predominio basal e izquierdo con signos de bronconeumonía bilateral y bronquiolitis infecciosa.
+
+descrip:
+ANGIO TC PULMONAR

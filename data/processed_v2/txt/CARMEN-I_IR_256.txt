@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA COVID19
+
+protocolo:
+Se realiza rx portátil de tórax AP. Se compara con RX previa del 24/10/2022.
+
+resultados:
+Comparativamente, se aprecia progresión de las opacidades de patrón alveolo-intersticial en relación con probable COVID, que siguen mostrandose bilaterales aunque de claro predominio derecho donde tienden a confluir conformando un patrón de aspecto condolidativo.
+Resto sin cambios remarcables.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,19 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**72 años**], ingresada con diagnóstico de neumonía bilateral por SARS COV2 en su día 15º de enfermedad, persiste con requerimiento de oxígeno suplementario y empeoramiento Rx de tórax. Solicito TC para descartar NOC post COVID.
+NEUMONÍA BILATERAL POR SARS COV2
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+conclusiones:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Hernia de hiato. Cambios por cirugia gastrica.
+Multiples focos y areas en vidrio deslustrado y otros mas consolidativos de distribución periferica y bilateral. Engrosamientos septales y algunos signos de neumonia organizativa.
+
+descrip:
+TC TORAX

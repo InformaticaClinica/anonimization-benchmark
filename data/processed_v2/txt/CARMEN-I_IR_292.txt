@@ -1,0 +1,18 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Neumonía x SARS-COV-2. Larga estancia. Miopatía del paciente crítico y delirium hipoactivo. Destaca persistencia de somnolencia pese a benzodiacepinas negativas. Valorada por NRL se realiza EEG con enlentecimiento difuso. Se solicita RM cerebral para completar estudio.
+Gracias.
+COVID-19
+
+protocolo:
+RM CRANEOENCEFALICA
+
+conclusiones:
+LESIONES CITOTÓXICAS PROBABLEMENTE ISQUÉMICAS SUBAGUDAS, en lóbulo occipital izquierdo y en territorio frontera carotideo bilateral en circunvoluciones frontales superiores , parcheadas, de pequeño tamaño y con mínimo petequiado hemorrágico .
+Signos de leucoencefalopatía cronica Fazekas tipo 2 No se identifican otras lesiones
+
+descrip:
+RM CEREBRAL

@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+DESCARTAR CEREBRITIS
+COmentado TELF
+HEMORRAGIA INTRACRANEAL
+
+protocolo:
+TC CRANEAL URGENTE en condiciones basales y tras la administración de contraste ev.
+
+resultados:
+Se compara con TC previa del 16/09/2024.
+Extenso hematoma intraparenquimatoso agudo que ocupa todo el temporal derecho, con leve edema perilesional asociado. Además persisten las áres hipodensas, probablemente residuales, en hemisferio cerebral derecho ya descritas en estudio previo. El hematoma descrito ejerce efecto masa sobre las estructuras adyacentes, el asta occipital y temporal del VLD, además de condicionar una marcada protrusión del parénquima cerebral derecho a través de la craniectomía ipsilateral. Estructuras de la línea media centradas. Cisternas basales libres.
+Sistema ventricular promintente, estable.
+Calcificación intraparenquimatosa frontal izquierda, inespecífica. Resto del estudio sin cambios significativos
+
+conclusiones:
+Extenso hematoma intraparenquimatoso agudo a nivel temporal derecho de las características descritas.
+
+descrip:
+TC CEREBRAL

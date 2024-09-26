@@ -1,0 +1,21 @@
+
+prueba:
+ECO DOPPLER ARTERIAL EXTREMIDADES
+
+clinica:
+Pseudoaneurisma de arteria radial izda.
+Infecció per coronavirus no especificada
+
+protocolo:
+Ecografia doppler arterial ESD. Injecció trombina.
+
+resultados:
+Es confirma petit pseudoaneurisma de la cara anterior d'artèria radial.
+S'administra trombina dins del sac aneurismàtic (0,5 cc) aconseguint trombosi del mateix.
+Es deixa embenat compressiu que es retirarà en 24 hores previ control ecogràfic.
+
+conclusiones:
+.
+
+descrip:
+ECO DOPPLER ARTERIAL EXTREMIDADES

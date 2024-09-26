@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente COVID+ dia 10 de sintomas. Presenta empeoramiento respiratorio con DDImero elevado. Interesa descartar TEP vs NOC
+COVID
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+No se observan signos sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Se observan algunas adenopatías hiliares derechas de tamaño borderline.
+No se observa derrame pleural ni pericárdico.
+No se observa neumotórax ni neumomediastino.
+Extensa afectación pulmonar de focos de vidrio deslustrado periféricos y de predominio basal que en algún punto presenta mayor consolidación (muy pequeños focos). Estos hallazgos son compatibles con infección por COVID-19.
+
+conclusiones:
+Signos de neumonía por COVID19.
+No se observan signos de TEP.
+
+descrip:
+ANGIO TC PULMONAR

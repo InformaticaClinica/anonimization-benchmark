@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL MALUC
+
+clinica:
+control intraIQ
+
+descrip:
+RX  PORTATIL MALUC

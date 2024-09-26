@@ -1,0 +1,26 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+Paciente con los antecedentes descritos ingresada por hepatitis colestásica (probable DILI) y infección por COVID-19 que presenta persistencia de fiebre de más de 38ºC con aislamientos negativos y pese a tratamiento con antibioterapia de amplio espectro.
+Además, empeoramiento respiratorio con mayor condensación de infiltrados periféricos.
+Solicito TC tóracoabdominal de manera preferente para descartar complicaciones infecciosas vs asociadas a infección por COVID.
+INFECCIÓN POR SARS-CoV-2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+Se realiza examen comparativo con TC previo de [**2-3-12**].
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Nódulos tiroideos bilaterales.
+No se evidencia derrame pleural izquierdo o pericárdico. Muy discreto derrame pleural derecho que ha disminuido respecto al control anterior.
+Presenta un empeoramiento radiológico de la afectación pulmonar presente en el control anterior con aumento de la extensión de las áreas de vidrio deslustrado. En el seno de dichas áreas se objetivan dilataciones vasculares. Todos estos hallazgos son coherentes con infección por SARC- CoV-2.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Afectación pulmonar por COVID-19 con empeoramiento radiológico pero sin claras imágenes que sugieran neumonía organizativa (aunque no puede descartarse).
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

@@ -1,0 +1,24 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+FIEBRE PUERPERAL COVID
+
+protocolo:
+TC abdominal amb contrast.
+
+resultados:
+Consolidacions alveolars pulmonars perifèriques bilaterals compatibles amb pneumònia COVID.
+Petits vessaments pleurals bilaterals.
+Fetge i melsa homogenis.
+Glàndules suprarenals i àrea pancreàtica sense alteracions.
+Ronyons de mida i morfologia normal amb retard en la captació i eliminació de contrast.
+No s´observen adenopaties mesentèriques, retroperitoneals ni pèlviques de mida gran.
+Úter puerperal amb canvis postquirúrgics de cesàrea sense signes radiològics de col.leccions o sobreinfecció postquirúrgica.
+
+conclusiones:
+Veure resultats.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,20 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente con sepsis sin foco . Clinica de dolor abdominal y analitica con elevación de Bi directa + Fosfatasa alcalina.
+Descartar colecistitis aguda.-
+
+protocolo:
+ECO ABDOMEN PORTATIL
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. V. Porta permeable de calibre normal con flujo hepatopetal. Vesícula biliar distendida de paredes finas, alitiasica. No se observa líquido libre ni colecciones perivesiculares. Signo de Murphy negativo. Vía biliar no dilatada. Los hallazgos NO son sugestivos de colecistitis aguda.
+Páncreas (cabeza y cuerpo) sin alteraciones. Bazo homogéneo de tamaño normal. Riñones de tamaño y grosor cortical preservado, sin dilatación de la vía excretora. No se observa líquido libre intra-abdominal.
+
+conclusiones:
+Vía biliar no dilatada, sin signos de colecistitis.
+
+descrip:
+ECO BASAL (ABDOMEN)

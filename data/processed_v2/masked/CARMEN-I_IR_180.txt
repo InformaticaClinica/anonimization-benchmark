@@ -1,0 +1,36 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+[**Hombre**] de [**43 años**], en su día 10 de ingreso por Neumonía bilateral por COVID-19, alteración del perfil hepático tras administración de tocilizumab, amilasas y lipasas aumentadas.
+DOlor abdominal, distensión abdominal. Empeoramiento respiratorio.
+Solicito TAC abdominal para descartar perforación intestinal.
+
+protocolo:
+TC TORACOABDOMINAL URGENTE: adquisición tras la administración de contraste ev (tórax en fase arterial y abdomen en fase portal) mediante energía dual.
+
+resultados:
+TÓRAX:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+No se observan adenopatías axilares. Ganglios en mediastinicos difusos, de mayor tamaño a nivel subcarinal, inespecíficos.
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos consolidativos bilaterales y con distribución periférica, de predominio en LLII, que se acompañan de imágenes periféricas en crazy paving y dilataciones bronquiolares, todo ello compatible con infección pulmonar por COVID-19.
+ABDOMEN:
+Hígado de tamaño y morfología normal. Se observa pequeña área triangular subcapsular hipodensa, en seg IVa, adyacente a lig. falciforme, en probable relación a esteatosis focal.
+Vesícula y via biliar, páncreas, riñones y glándulas suprarrenales sin hallazgos a destacar. Bazo de tamaño en el límite alto de la normalidad (13 cm). Eje portoesplenomesentérico permeable.
+Ganglios infracentimétricos interaortocavas y paraaórticos, inespecíficos. No se observan adenopatías ilíacas de tamaño significativo.
+No se observa neumoperitoneo, colecciones o líquido intraabdominal.
+Pequeña burbuja de enfisema subcutáneo en región periumbilical inferior, en probable relación a inyectables.
+Fusión de ambas articulaciones sacroilíacas, por probable sacroileitis crónica (valorar antecedentes).
+
+conclusiones:
+No se observan signos radiológicos de TEP. Extensos cambios en parénquima pulmonar en relación a infección por COVID-19, que han aumentado en extensión respecto Rx de días previos.
+No se observan signos de perforación intraabdominal. Pequeña área de esteatosis focal hepática.
+Cambios por sacroileitis crónica (fusión de ambas articulaciones).
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+ANGIO TC PULMONAR

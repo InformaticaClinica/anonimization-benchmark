@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Dolor torácico, DD 4.000, LDH 380.
+Ruego angioTAC, gracias.
+COVID-19
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado periféricas con claro predominio derecho con focos consolidativos en LID compatible con neumonia COVID.
+No se observan imágenes de TEP.
+
+conclusiones:
+Neumonia COVID sin imágenes de TEP.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,30 @@
+
+prueba:
+TC UROGRAFIA
+
+clinica:
+Paciente portador de JJ tras cirugía reimplante ureteral por estenosis que en la AP se trata de estenosis maligna.
+Ha ingresado dos veces por ITU febril. Actualmente es covid positivo.
+Solicito TC para valorar si el JJ es desfuncionante/ valorar ureter distal de cara a plantear la retirada del jj.
+ITU en monorreno COVID19 positivo
+
+protocolo:
+TC UROGRAFIA: basal y en fases nefrográfica y excretora.
+
+resultados:
+Se compara exploración con TC del [**15/6/2015**] (postquirúrgico reciente):
+Cambios posquirúgicos relación con reimplante ureteral derecho. No se identifica líquido libre intraabdominal en el estudio actual.
+Riñón derecho de tamaño y grosor cortical conservado con catéter doble J normposicionado. Nefrograma y excreción de contraste conservadas. Quiste cortical de 3,5 cm en tercio medio. No dilatación de la vía excretora.
+No se identifica fuga ureteral derecha en el estudio actual.
+Riñón izquierdo de muy pequeño tamaño con adelgazamiento difuso de la cortical. No dilatación de la vía excretora. Se aprecia excreción de contraste durante la exploración.
+Vejiga urinaria colapsada con extremo del doble J en su interior, no valorable.
+Diverticulosis sigmoidea y en colon descendente.
+En las secciones torácicas basales se aprecia aparición de opacidades en vidrio deslustrado bilaterales, en la base derecha con algún área de consolidación, en relación con infección por COVID- 19.
+Resto del estudio sin hallazgos a destacar ni cambios significativos en comparación al TC previo.
+
+conclusiones:
+Respecto exploración del [**15/6/2015**] se aprecia resolución de la pequeña fuga urinaria en uréter distal derecho. No dilatación de la vía excretora. No se aprecia líquido libre intraabdominal.
+En las secciones torácicas basales se aprecia aparición de opacidades en vidrio deslustrado bilaterales, en la base derecha asociada a alguna pequeña área de consolidación, en relación con infección por COVID- 19.
+
+descrip:
+TC UROGRAFIA

@@ -1,0 +1,39 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Varón**] de [**58 años**] ingresado por neumonía COVID-19 y neumonía necrotizante por S.aureus así como hematoma pélvico durante el ingreso. Hace una semana presenta parada cardiorespiratoria así como atelectasias completas de ambos pulmones. Interesa TC body para valorar evolutivamente. Muchas gracias!!
+HEMATOMA PÉLVICO POR SANGRADO ARTERIA ILÍACA
+
+protocolo:
+TCMD torácico tras la administración de contraste ev.
+
+resultados:
+Se compara con TC previo del [**17/08/2017**].
+Práctica resolución del TEP agudo conocido en rama lobar superior derecha y segmentarias, ahora persisten mínimos defectos laminares endovasculares.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin otros defectos de repleción sugestivos de TEP.
+Adenopatías mediastínicas a nivel de los espacios prevascular, paratraqueal izquierdo, subcarinal e hiliares bilaterales, estables.
+No se observan adenopatías axilares de tamaño patológico.
+Elevación del hemidiafragma derecho, similar al previo.
+Disminución del derrame pleural bilateral, ahora persiste en el lado izquierdo en leve cuantía de localización posterolateral y en el lado derecho en mínima cuantía de localización apical.
+Tubos de drenaje pleural bilaterales.
+No se observa derrame pericárdico.
+En la actualidad se observa discreta mejoría con disminución de las áreas de atelectasia y reexpansión parcial pulmonar, más evidente en el pulmón izdo. Destaca una persistencia del colapso completo del LID con áreas hipodensas en su interior y desaparición del broncograma aéreo con aparición de broncograma líquido secundario a mayor ocupación bronquial por secreciones desde el origen del bronquio lobar inferior derecho.
+Discreta mejoría global de las extensas consolidaciones y áreas en vidrio deslustradode, de predominio periférico y peribroncovascular, asociadas a importantes dilataciones bronquiales y distorción arquitectural, todo esto en relación a neumonía bilateral por COVID19 conocida con importantes cambios organizativos.
+Persistencia de las cavidades aéreas secundarias observadas en TCs previos en relación a sobreinfección conocida con (S. Aureus), alguna muestra nivel hidroaéreo, y destaca discreta mayor ocupación de una localizada en LSD respecto previo.
+Los hallazgos parenquimatosos descritos, en su conjunto, presentan mejoría radiológica respecto a TC previo.
+Resolución de la colección líquida intrarticular en la articulación glenohumeral derecha, presente en previo.
+TOT con extremo distal a 25 mm de la carina.
+Catéter de hemodiálisis de acceso yugular derecho y dos catéteres venosos centrales de acceso yugular y subclavio izquierdo con extremo distal en VCS.
+SNG con extremo distal en camara gástrica.
+
+conclusiones:
+Los hallazgos parenquimatosos descritos, en su conjunto, presentan mejoría radiológica respecto a TC previo (ver resultados).
+Destaca persistencia del colapso completo del LID con mayor ocupación bronquial por secreciones desde el origen del bronquio lobar inferior.
+Práctica resolución del TEP agudo conocido en rama lobar superior derecha y segmentarias.
+Disminución del derrame pleural bilateral persiste en leve cuantía de predominio izdo.
+Elevación del hemidiafragma derecho.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Síndrome confusional mixto
+
+conclusiones:
+Ténues opacidades pulmonares en campos superior e inferior derechos y medio izquierdo.
+La afectación del pulmón izquierdo ha disminuido respecto al estudio del [**día 18**]. Afectación derecha sin cambio evidente.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,27 @@
+
+prueba:
+ECO CON BIOPSIA DE PARÉNQUIMA HEPÁTICO
+
+clinica:
+Paciente de [**85 años**] presenta cuadro de dos semanas de evolución de ictericia, coluria y acolia, sin dolor abdominal. Con bilirruinas de hasta 18 durante el ingreso, con FAlc 1358 y AST/ALT que llegan a 400.
+Se realiza ecografía y colangio RM que informa vías biliares intra y extra hepática no dilatadas,con evidencia de aparente microlitiasis <4mm en colédoco sin LOEs pancreáticas. El [**17/2**] realiza CPRE: Colédoco no dilatado sin evidenciar litiasis ni estenosis, con mínima cantidad de barro biliar. Persiste empeoramiento del estado general y perfil hepático de la paciente. Solicitamos biopsia hepática para filiar cuadro.
+COLESTASIS A ESTUDIO
+
+protocolo:
+BAG parènquima del segment VI
+
+conclusiones:
+BAG (18G - 33mm) de parènquima hepàtic (segment VI) guiada per ecografia, sota anestesia local i mesures antisèpsia S'obté un cilindre que s'envia per estudi AP.
+Sense incidències durant el procediment.
+Fetge de mida i ecostructura normal, sense lesions focals evidents.
+Vena porta permeable, de diàmetre normal amb fluxe hepatopetal.
+Vesícula biliar alitiàsica, de paret fina. Via biliar no dilatada.
+Melsa homogènia de mida normal.
+Pàncrees (cap.cos) sense alteracions.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No hi ha dilatació de la via excretora.
+Aorta abdominal de calibre normal.
+No hi ha ascites.
+
+descrip:
+ECO CON BIOPSIA DE PARÉNQUIMA HEPÁTICO

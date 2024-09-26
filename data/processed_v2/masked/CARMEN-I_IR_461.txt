@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Dona**] de [**51 anys**] sense AP d'interès, ingressada a la AVI per COVID-19 greu que va requerir IOT + VMI. En context de col·locació de CVC jugular dret presenta pneumotòrax a tensió que va requerir col·locar pigtail sense millora i posteriorment tròcar lateral dret. Per persistència de la hipoxèmia refractària es va pronar, actualment supinada des d'aquest matí. Sol·licitem TAC toràcic per valorar parènquima i si cal recol· locació dels tubs, gràcies.
+NEUMOTÓRAX DERECHO
+
+protocolo:
+TC de tórax sin contraste EV. Urgente
+
+resultados:
+No se dispone de estudios previos para comparar.
+CVC yugular derecho con extremo distal en VCS. Intubación orotraqueal con extremo distal a 1 cm de carina. Catéter de drenaje pleural tipo "pig-tail" con entrada en pared torácica anterior derecha en línea medioclavicular y extremo distal yuxtafrénico lateral derecho. Tubo de drenaje pleural con entrada en 6º espacio IC lateral derecho con recorrido anteroposterior por la cisura mayor ipsilateral.
+No se observan adenopatías axilares o mediastinicas de tamaño patológico.
+Leve neumotórax derecho de hasta 23 mm de espesor (basal), que contiene ambos tubos de drenaje descritos. Ausencia de derrame pleural. Derrame pericárdico laminar.
+Extensa afectación parenquimatosa pulmonar con opacidades en vidrio deslustrado de distribución difusa. Se observan pequeños focos consolidativos peribronquiales y dilataciones bronquiales, de predominio en LLII y língula. Los hallazgos son compatibles con neumonía bilateral por COVID-19 con signos incipientes de organización de localización basal.
+Consolidación con componente de colapso en el LII de localización posterobasal y apical, de difícil valoración dada la ausencia de contraste EV. Se asocia a ocupaciones mucosas endobronquiales segmentarias. Se aconseja valorar sobreinfección y control radiológico de resolución.
+Sonda nasogástrica con extremo distal en antro gástrico.
+
+conclusiones:
+Leve neumotórax derecho con ambos drenajes pleurales en su interior.
+Neumonía bilateral por COVID-19 de extensión severa y difusa, con signos incipientes de organización de predominio basal.
+Consolidación con componente de colapso en el LII, de difícil valoración dada la ausencia de contraste EV con ocupación mucosa endobronquial segmentaria. Se aconseja valorar sobreinfección y control radiológico de resolución.
+
+descrip:
+TC TORAX

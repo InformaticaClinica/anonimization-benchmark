@@ -1,0 +1,45 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente con antecedentes de ADK GÁSTRICO METASTÁSICO: Qx+QT en [**2014**].
+Recidiva adenopática en [**2015**] (adenopatías abdominales) con QT (FOLFOX, [**4/2016**] # [**10/2016**]) y Qx ([**29/12/2016**]). Progresión con deterioro del estado general.
+Ingresa por INFECCIÓN POR SARS-CoV2
+**Inicio de síntomas: [**3/2**] (deterioro de estado general) **Ingreso: [**6/2**]
+**PCR SARS-CoV2 positiva [**5/2**]
+**Tratamiento: Remdesivir ([**5/2**])
+**Vacunado
+POSIBLE SEPSIS SIN FOCO CLARO (COMPLICACIÓN POSTQUIRÚRGICA INTRAABDOMINAL VS URINARIA) EN PACIENTE INMUNODEPRIMIDO E INTERVENIDO EL [**29/12/16**]
+**Meropenem 2 g iv (después 1g/8h) + Teicoplanina 400 ** RUEGO TC T-A para descartar complicación postquirúrgica vs foco pulmonar (nuemonia covid)
+MALESTAR GENERAL
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio TC sobre el tórax en fase arterial y sobre el abdomen en fase portal, tras administrar contraste oral.
+
+resultados:
+El estudio actual se compara con el examen realizado hace una semana, el pasado [**3/02/2017**].
+No se observan adenopatías axilares ni mediastínicas de tamaño significativo.
+Mínimo derrame pleural izquierdo, de nueva aparición. No se observa derrame pleural derecho ni pericárdico.
+Bronquiectasias en LSD, LM y ambos LI.
+Múltiples opacidades en vidrio deslustrado que tienen una distribución difusa y que predominan en ambos LS que por su morfología sugieren afectación pulmonar por SARS-CoV-2. Persisten múltiples nodulillos centrolobulillares con morfología de árbol en brote que predominana en el LSD. Son relativamente estables con respecto al TC previo.
+Han reaparecido nuevos focos de atelaectasia y consolidación en el LII.
+Hígado de tamaño y morfología conservados, con múltiples quistes bilobares, estables. Bazo y glándulas suprarrenales sin alteraciones a destacar.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada. Vena porta y VMS permeable.
+Gastrectomía y esófagoyeyunoanastomosis con reconstrucción en Y de Roux.
+Páncreas atrófico con múltiples calcificaciones parenquimatosas y dilatación del conducto pancreático, en relación con pancreatitis crónica. Reducción en el calibre de la porción distal de la vena esplénica que permanece permeable, sin cambios con relación a estudios previos.
+Imagen nodular de densidad sólida interpuesta entre el TC y la AMS, en el lecho quirúrgico. Presenta menor tamaño que la observada en el estudio TC de [**octubre**] pasado, previo a la resección practicada sobre la recidiva tumoral en esta zona. Debe ser valorada de forma evolutiva para distinguir entre hematoma o fibrosis posquirúrgica o persistencia tumoral. Puede también realizarse estudio con PET/TC para intentar su caracterización.
+Riñones de tamaño conservado, homogéneos, sin dilatación de la vía excretora. Litiasis puntiformes bilaterales, no obstructivas.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo. Filtro en la VCI.
+Diverticulosis colónica de predominio en sigma.
+No se observa ascitis.
+Acuñamientos de los cuerpos vertebrales de D8, L1, L4 y L5, estables
+
+conclusiones:
+Infiltrados en vidrio deslustrado en relación con infección vírica, sin cambios.
+Bronquiectasias y bronquiolectasias. Reaparición de pequeñas áreas de colapso con consolidación parenquimatosa en el LII.
+Signos de pancreatitis crónica.
+Lesión nodular sólida en la vecindad del TC que plantea el DD mencionado.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

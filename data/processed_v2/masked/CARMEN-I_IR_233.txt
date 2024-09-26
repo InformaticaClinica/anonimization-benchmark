@@ -1,0 +1,38 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente intervenido hace tres dias de ADK sigma con carcinomatosis peritoneal.
+Se hizo: OMENTECTOMÍA + APENDICECTOMÍA +
+PELVIPERITONECTOMÍA PÉLVICA COMPLETA + RESECCIÓN ANTERIOR ALTA DE RECTO + ANASTOMOSIS COLO-RECTAL T-T CON CEEA 31mm + RESECCIÓN IMPLANTES EN MESENTERIO DE INTESTINO DELGADO + HIPEC ((IRINOTECÁN + 5FU + LEUCOVORIN30min)
+Desde ayer presenta distensión y dolor abdominal,. junto con vómitos. Rx abdomen se ve intestino delgado dilatado. Analitica aumento PCR 23.
+Solciito TAC toracoabdominal urgente para valorar fallo de sutura colorrectal u otras complicaicones postquirurgicas. Gracias!!
+Neoplàsia maligna disseminada, localització no especificada
+
+protocolo:
+TC abdominopélvico tras la administración de contraste intrarrectal y e.v. en fase portal
+
+resultados:
+Cambios postquirúrgicos recientes por sigmoidectomía anastomosis colorrectal terminoterminal, múltiples resecciones peritoneales, apendicectomia y colecistectomia.
+Drenaje con entrada en fosa ilíaca derecha, trayecto intraabdominal pélvico rodeando posteriormente a la sutura colorrectal y con extremo distal en fosa lilíaca izquierda, entre asas intestinales.
+Importante neumoperitoneo difuso pero con disposición predominantemente anterior. No se observa líquido libre ni colecciones intraabdomiales.
+Ante los hallazgos descritos se administra contraste por vía rectal y se realizan dos adquisiciones (decúbito supino y decúbito lateral derecho), sin evidenciar imágenes de fuga de contraste.
+También se visualizan burbujas de gas en la fosa isquiorrectal e isquioanal, gas preperitoneal y enfisema subcutáneo en la pared abdominopélvica derecha, ambos canales inguinales. Probablemente sea atribuible a la intervención reciente.
+Las asas intestinales y el marco cólico son normocaptantes, sin signos de complicación.
+Vías biliares, páncreas, bazo y glándulas suprarenales sin alteraciones significativas. Vena porta y eje espleno-portal permables. Ateromatosis calcificada del eje aortoilíaco.
+Riñones de tamaño y morfología normal, con correcta captación y excreción de contraste. Litiasis de 7 mm en el grupo calicial inferior del riñón izquierdo con atrofia cortical asociada, de aspecto obstructivo crónico. Se visualiza una segunda litiasis de 4, aparentemente no obstructiva, en el grupo calicial inferior del riñón drecho. Quistes corticales simples bilaterales. No se observa dilatación de la vía excretora.
+Adenopatia retrocrural derecha de 10 mm, indespecífica. No se observan otras adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Cambios posquirúrgicos con esternotomía media y prótesis valvular mitral metálica.
+Catéter con reservorio subcutáneo port-a-cath en el hemitórax derecho y catéter venoso central con acceso yugular derecho; ambos con extremo distal en la aurícula derecha.
+Extensas opacidades en vidrio deslustrado bilaterales, asociadas a engrosamientos septales (patrón de crazy paving), que dado el contexto epidemiológico son compatibles con infección por COVID-19.
+No se observa derrame pleural ni pericárdico. Leve engrosamieto difuso de paredes bronquiales y bronquioloectasias difusas.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Cambios degenerativos de columna vertebral toracolumbar con fractura- aplastamiento de L1.
+
+conclusiones:
+- Importante neumoperitoneo y enfisema subcutáneo, sin identificar líquido libre, colecciones intraabdominales ni fugas de contraste valorables en el momento actual.
+- Patrón en "crazy paving" bilateral que dado el contexto epidemiológico es compatible con infección por COVID-19.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

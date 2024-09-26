@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Condensaciones alveolares bilaterales de predominio periférico y en LLII sugestivo de afectación pulmonar por COVID, que han disminuido en extensión y densidad con respecto a control previo de   [**7/07/2019**].
+Pinzamiento del seno costofrénico lateral derecho.
+Port-a-cath con extremo distal en VCS.
+
+descrip:
+RX  PORTATIL  TORAX

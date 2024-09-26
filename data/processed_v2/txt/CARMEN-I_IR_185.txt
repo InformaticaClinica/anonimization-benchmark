@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+COVID-19
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Estudio de baja calidad debido a movimientos respiratorios Y la deficiente opacificación de los vasos pulmonares. No se observan signos de tromboembolismo pulmonar a nivel central ni de arterias lobares . Las ramas segmentarias y subsegmentarias no son evaluables.
+Tronco de la arteria pulmonar de calibre normal. No se observan signos de sobrecarga cardíaca derecha.
+Áreas de opacificación alveolar bilateral de predominio periférico y en lóbulos inferiores compatible con afectación pulmonar por COVID.
+No se observa derrame pleural ni pericárdico.
+Adenopatías mediastínicas de tamaño significativo, la mayor de 19 mm en su eje corto a nivel subcarinal. No se observan otras adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Cambios postquirúrgicos en relación a cirugía de revascularización coronaria.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

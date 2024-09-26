@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SÍNDROME FEBRIL
+
+descrip:
+RX  PORTATIL  TORAX

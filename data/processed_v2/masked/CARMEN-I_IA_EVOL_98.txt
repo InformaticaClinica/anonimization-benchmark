@@ -1,0 +1,67 @@
+
+NOTA DE INGRESO EN UCIQ:
+1. AAA INFRARENAL CON RUPTURA CONTENIDA
+2. HTA
+[**Varón**] de [**60 años**] con los antecedentes previamente descritos que inicia cuadro de dolor lumbar bajo irradiado a hipogastrio en cinturón el [**26/11**], sin otra clínica asociada, por lo que consulta en ucias [**Centro Médico Aspasia**] administrándose analgesia y alta. Posteriormente el [**día 29/11**] el paciente reconsulta por persistencia de la clínica, asociando fiebre de hasta 37.8oC con clínica de temblor generalzado e HTA (157/74). Se orienta como bacteriemia y se cursan HC, iniciando ingreso.
+Dado el antecedente de discopatía lumbar se solicita RMN lumbar para descartar espondilolistesis, donde se evidencia a nivel de L3-L4 aumento del diámetro de la aorta (35 mm), la cual medía según informe previo ([**ago 2010**]) 29 mm, presentando en la actualidad dilatación sacular aneurismática de 12 x 27 mm y edema de las partes blandas adyacentes, sin áreas de realce significativo. Se orienta como dilatación sacular aneurismática aortica a nivel de L3-L4, de probable origen infeccioso y se inicia piperacilina/tazobactam.
+A las 48h el paciente presenta nuevo episodio de dolor abdominal de difícil control analgésico por lo que se solicita angioTC de control que informa de: Aorta abdominal infrarenal con un segmento de paredes engrosadas e irregulares y con aparición de posible solución de continuidad en su pared posterior, des de donde se observa imagen sacular de unos 27 mm de diámetro máximo, localizada entre la cara posterior de la aorta y el cuerpo vertebral (se llena de contraste y no cambia de morfología en la fase venosa). Acusada trabeculación de la grasa periaórtica. Hallazgos no presentes en el TC previo hace 2 días.
+Aquestes troballes no es veien en el TC previ de fa 2 dies. En el momento actual no hay hemoperitoneo ni retrohemoperitoneo difuso.
+Hallazgos sugestivos de corresponder a signos de ruptura aórtica inminente vs ruptura contenida.
+Dados los hallazgos descritos se comenta con cirugía vascular del [**Hospital Marítimo de La Isla**] y se consensúa traslado para ingreso y valoración.
+A su llegada a UCIQ el paciente se encuentra con BEG, hemodinámicamente estable sin soporte vasoactivo, con tendencia a la hipertensión (TA 150/100). Eupneico sin requerimiento de soporte respiratorio. Dolor controlado con morfina sc. Abdomen blando y depresible, no doloroso.
+Se cursa analítica sanguinea y reserva de sangre. Se revisa el caso con equipo de cirugía vascular orientándose como probable aneurisma sacular micótico indicándose ingreso en UCIQ en observación. Se inicia tratamiento con daptomicina y se mantiene tazocel. Labetalol si precisa para control tensional.
+    
+Pacient de [**63 anys**] que arriba derivat de l'[**H. Virxe da Regla**] per quadre de dolor lumbar y febre d'una setmana d'evolució, pel que porat ingressat des del cap de setmana.
+Expl amb polsos distals conservats.
+TAC [**119/2**] amb lleu dilatació aortica infrarrenal amb probable inflamacio peiaortica.
+TAC [**1/12**] aneurisme sacular 36mm amb halo inflamatori periaortic suggestiu d'aneurisme sacular micòtic sense ruptura actualment.
+El paciente es manté estable HDM, amb lleu dolor lumbar.
+Es decideix trasllat a intermitjos i revaloación terapèutica.
+    
+NOTA DE EVOLUCIÓN POSTOPERATORIA EN UCIQ:
+1.1- POP: PSEUDOANEURISMA MICÓTICO DE AORTA ABDOMINAL INFRARRENAL: RESECCIÓN DEL PSEUDOANEURISMA Y SUSTITUCIÓN POR INJERTO DACRON ([**2/12/2010**])
+1.2.- FUGA PERIPROTÉSICA -> [**08/12**]: DOBLE STENT ENDOPROTÉSICO 1.3.- REIQx (HEMOPERITONEO) -> [**09/12**]: BYPASS AXILO-BIFEMORAL 1.4.- REIQx (SD COMPARTIMENTAL) -> [**10/12**]: BOLSA DE BOGOTÁ -> [**12/12**]: CIERRE CON VAC -> [**17/12**]: CIERRE DE PARED ABDOMINAL
+2.- COMPLICACIONES POSTOP -> resueltas
+2.1.- IRA AKIN III
+2.2.- DISFUNCIÓN CCVV
+3.- SD FEBRIL 2ario a BACTERIEMIA POR STAFILOCOCCUS AUREUS SENSIBLE A OXACILINA (HC+ [**119/2**] de [**Hospital de Alta Resolución de Marbella**])
+4.- TROMBOSIS VENA CAVA INFERIOR (16x11mm) + TEP PEQUEÑO EN LII
+5.- HIPERNATREMIA
+6.- DELIRIO HIPERACTIVO
+[**Varón**] de [**60 años**] derivado de [**HOSPITAL MONTSERRAT**] por halalzgo de aneurisma de aorta infrarrenal con signos de rotura inminente vs rotura contenida. Derivan a nuestro centro para valoración e ingreso.
+A su llegada a UCIQ el paciente se encuentra con BEG, hemodinámicamente estable sin soporte vasoactivo, con tendencia a la hipertensión (TA 150/100). Eupneico sin requerimiento de soporte respiratorio. Dolor controlado con morfina sc. Abdomen blando y depresible, no doloroso.
+Se cursa analítica sanguinea y reserva de sangre. Se revisa el caso con equipo de cirugía vascular orientándose como probable aneurisma sacular micótico indicándose ingreso en UCIQ en observación. Se inicia tratamiento con daptomicina y se mantiene tazocel. Se contacta con [**HOSPITAL MONTSERRAT**] que informa de HC del [**29/11**] positivos para S Aureus OxaS por lo que se modifica antibioterapia a Cloxacilina y Daptomicina.
+Durante sus primeras horas en nuestra unidad se mantiene con dolor abdominal de difícil control con tendencia a la hipertensión. Se recomenta el caso con cirugía vascular y se indica cirugía evidenciándose aneurisma sacular micótico de aorta abdominal infrarrenal con ruptura contenida de pared posterior.
+--> Se realiza intervención quirúrgica urgente el [**12/2/10**]: RESECCIÓN DE ANEURISMA INFECCIOSO DE AORTA ABDOMINAL INFRARENAL, Y REVASCULARIZACIÓN MEDIANTE INJERTO RECTO DE SILVER DACRON BAÑADO EN RIFAMPICINA, AORTO- AÓRTICO, DE 18MM. Se toman cultivos de lecho aórtico, que resultan positivos para S Aureus OxaS.
+Tras la intervención el paciente presenta una correcta evolución postoperatoria pudiendo ser extubado a las pocas horas de la cirugía. Se mantiene febril con analíticas seriadas que muestran RFA elevados estables. Hemocultivos de control cada 48h.
+A nivel abdominal el paciente se muestra con distensión marcada con percusión timpánica por lo que se orienta como ileo paralítico y se inicia nutrición parenteral. A nivel analítico, los días posteriores a la intervención el paciente presenta una anemización progresiva por lo que se realiza angioTC abdominal ([**06/12**]) que descarta sangrado activo.
+No obstante el TC informa de imagen sugestiva de trombosis parcial en vena cava inferior + pequeño TEP en lóbulo inferior izquierdo, por lo que se inicia perfusión de heparina sódica. Asimismo se realiza ecocardiografía transtorácica ([**08/12**]) para descartar endocarditis, que resulta normal.
+El [**día 08/12**] el paciente inicia cuadro de dolor abdominal súbito de difícil control a pesar de múltiples analgésicos. Se solicita de nuevo angioTC abdominal que evidencia fuga periprotésica. Se comenta con equipo de cirugía vascular y DIVAs que indican colocación de endoprótesis que se realiza el mismo día.
+    
+--> Se realiza nueva intervención quirúrgica urgente el [**8/12/10**]: COLOCACIÓN DE STENT AÓRTICO BEGRAFT 18X38 Y 24X38 EN ANASTOMOSIS AÓRTICA PROXIMAL por sospecha de sangrado en este punto.
+Sin embargo, posteriormente el paciente presenta una evolución tórpida persistiendo con dolor abdominal intenso y dosis crecientes de soporte vasoactivo. Ante la sospecha de sangrado persistente y síndrome compartimental abdominal (anuria y requerimiento de drogas vasoactivas crecientes, asociado a abdomen muy distentdido), se decide reintervención quirúrgica urgente
+--> Se realiza el [**9/12/10**] REVISIÓN ABDOMINAL CONSTATANDO SANGRADO DIFUSO DE LAS ANASTOMOSIS. Ante la sospecha de infección protésica, se decide RETIRADA DE PRÓTESIS AÓRTICA, LIGADURA DEL MUÑÓN AÓRTICO, Y REVASCULARIZACIÓN MEDIANTE BYPASS AXILOBIFEMORAL DERECHO CON PRÓTESIS ANILLADA DACRON.
+A pesar de una mejoría inicial significativa y retirada de drogas vasoactivas, con inicio de diuresis, el paciente vuelve a presentar altos requerimientos de NAD a dosis decrecientes. Lactatos mantenidos <20. Empeoramiento progresivo de función renal con tendencia a la oligoanuria y elevación de creatinina de hasta 5.7 que requiere de una única sesión de HDFFVC.
+Persistencia de dolor abdominal intenso de difícil control con mal estado general y evidencia de líquido libre intraabdominal en ecografía de control.
+--> Ante la sospehca de nuevo síndrome compartimental abdominal, se realiza nueva intervención quirúrgica urgente el [**10/12**]: APERTURA DE LA HERIDA ABDOMINAL Y CIERRE CON BOLSA DE BOGOTÁ, que se recambia por VAC a las 48h, y cierre definitivo de pared abdominal el [**día 17/12**] sin incidencias.
+Posteriormente el paciente presenta una correcta evolución clínica, con mejoría de función renal y recuperación progresiva de diuresis espontánea, con normalización de la creatinina al traslado. Tendencia a la hipernatremia que mejora con aumento del agua libre. Drenajes abdominales serohemáticos poco productivos. Dolor controlado con perfusión de dexmetomidina. Nutrición administrada via parenteral, pendiente de iniciar tolerancia oral. Delirio hiperactivo durante el ingreso que requiere de inicio de quetiapina y risperidona con adecuado control
+A nivel infeccioso, múltiples HC de control negativos (HC [**2/12**], [**4/12**], [**07/12**], [**08/12**], [**11/12**]). Antibioterapia mantenida con cloxacilina y daptomicina, suspendiéndose esta última el [**13/12**]. Mejoría analítica de RFA con PCR en descenso progresivo siendo de 7 al traslado (pico de 40), con leucocitos normales. Último pico febricular de 37.6 el [**17/12**] por lo que se realizan HC y UC [**17/12**], en curso al traslado. Frotis rectal [**09/12**] EColi BLEA. Tratamiento ATB con Cloxacilina al traslado.
+Dada la buena evolución clínica, paciente afebril desde hace mas de 48 horas, resultados de cultivos sin aislamiento microbiologico excepto el cutlivo de sitio de traslado con S aurueus en tto con cloxacilina a completar 21 dias ( [**hoy día 7**]), analitica del dia de traslado sin lecucotiosis, hb: 8.9 post trasfusion de 1 CH ayer, continua con NTP, dada la estabilidad clinica, se decide traslado a sala convencional para proseguir manejo.
+    
+EVOLUCIÓN EN PLANTA:
+Se constata una correcta evolución clínica. Durante el ingreso el paciente es positivo para Covid + (contacto de un familiar con clínica respiratoria de vías altas), pero sin desarrollar dificultad respiratoria ni clínica disneica. Pasa a planta de infecciosas, completando tripe tratamiento para Covid:
+Fecha de ingreso: [**1.12**].
+Fecha de frotis positivo: [**30.12**].
+Fecha de inicio tratamiento: [**31.12**].
+Tipo de tratamiento:
+[**28/12**]: piperacilina/tazobactam (FIN [**07/01**]).
+[**31/12**]: azitromicina (5 días), hidoxicloroquina (5 días), kaletra (7 días)
+Se inició el [**121/3**] tratamiento empírico con Piper/Tazo por infección de herida abdominal, cambiando a Augmentine según antibiograma (Proteus mirabilis multisensible) y evolución clínica.
+.
+Analítica [**07/01**]: PCR 13.58 (leve ascenso), Tropos - , GGT y transas en descenso, LDH 319 (estable), Ferritina 3418 (leve asacenso) , Hcto 29%, Ca coregido 7.78 (ascenso), linfos 1400, Dimer D 2200 (descenso).
+QT corregido [**5/01**]: 404 ms.
+.
+Serologias VHB y VIH negativa.
+Se realiza cura instrumental de herida abdominal, constatando apertura de la misma e iniciando cura con presión negativa (VAC), con buena evolución de la misma.
+Dada la buena evolución clínica, paciente que se mantiene afebril durante la última semana, y buena evolución de la herida quirúrgica y rehabilitación física, se decide el alta a domicilio y seguir curas tópicas de la herida abdominal.
+    

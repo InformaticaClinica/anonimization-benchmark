@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**46 anys**] que ha presentat infecció greu per Covid amb necessitat d'ingrés a UCI i ventilació mecànica perllongada. Ha presentat bona evolució, actualment decanulat amb LN2L. Analíticament persisteixen dímersD elevats >5000. Interessa angioTC per descartar TEP.
+Gràcies!
+COVID-19
+
+protocolo:
+ANGIO-TC PULMONAR + TC DE ABDOMEN Y PIERNAS EN FASE VENOSA
+
+resultados:
+Catéter yugular izquierdo con extremo en vena cava superior (algo retirado). Trayecto de traqueostomía.
+No se observan defectos de repleción en las arterias pulmonares que sugieran TEP.
+Tronco de la arteria pulmonar de calibre normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Áreas de vidrio deslustrado periféricas en ambos hemitórax en relación a su infección por COVID19. Se observan algunas bronquiectasias en lóbulo inferior derecho.
+Cortes abdominales sin hallazgos valorables.
+No se observan defectos de repleción en las venas femorales o poplíteas que sugiera la presencia de TVP.
+
+conclusiones:
+No se observan signos de TEP ni de TVP.
+Afetación parenquimatosa pulmonar por COVID19.
+
+descrip:
+ANGIO TC PULMONAR

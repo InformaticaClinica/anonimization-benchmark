@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente en tratamiento anticoagulante por TEP masivo, presenta disminución súbita del nivel de conciencia con Glasgow 9 puntos + rigidez de nuca
+Se solicita TAC para descartar comlpicación intracraneal aguda
+TEP BILATERAL MASIVO
+
+protocolo:
+TC craneal basal urgente
+
+conclusiones:
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en relación con cambios involutivos.
+Pequeñas hipodensidades capsuoganglionares bilaterales sugestivas de infartos lacunares vs espacios de Virchow Robin.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso valorables por TC en el momento actual.
+Hiperostosis bifrontal.
+
+descrip:
+TC CEREBRAL

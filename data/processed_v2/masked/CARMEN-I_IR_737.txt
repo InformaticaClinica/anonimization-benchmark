@@ -1,0 +1,23 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+[**Mujer**], ingreso por neumonia bilateral covid19 con evolución lenta, presenta colestasis disociada con hiperbilirrubinemia, sin causa tóxica apartente. Solicitmos eco abdominal.
+
+protocolo:
+ECOGRAFÍA ABDOMINAL PORTATIL
+
+conclusiones:
+Hígado de tamaño y morfología normal, de contornos lisos. Presenta un aumento difuso de la ecogeneicidad sugestivo de esteatosis en grado leve. No se observan lesiones focales.
+Vesícula biliar replecionada, alitiásica, de paredes finas.
+Vía biliar intra y extrahepática no dilatada.
+Vena porta permeable y hepatopetal.
+Páncreas (cabeza y cuerpo) de morfología normal.
+Bazo de morfología normal.
+Riñones de tamaño y morfología normal, sin dilatación de la vía excretora.
+Vejiga urinaria colapsada, con sondaje en su interior.
+No hay líquido libre intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

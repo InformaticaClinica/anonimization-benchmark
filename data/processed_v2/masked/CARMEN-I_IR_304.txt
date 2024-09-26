@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL
+
+clinica:
+[**Varón**], con antecedente de recambio valvular mecánico y aorta ascerndente en [**2003**]. Ingresado en UCI cardiaca por neumonía COVID. Anticoagulado con HepNa por prótesis mecánica.
+Presenta en las ultimas 5h inestabilidad hemodinámica con tendencia a hipotensión y bajo gasto. Responde al volumen pero poco a vasoactivos.
+Anemización de 12 a 7 de Hb. Cobertura atb amplia y recambio vías por si hubiese componente septico. Rx normal.
+Solicitamos TAC para descartar foco de sangrado activo.
+Gracias
+NEUMONIA BILATERAL INTERSTICIAL
+
+protocolo:
+TC abdominopélvic urgent basal i amb contrast e.v en fases arterial y portal.
+
+resultados:
+Gran hematoma de psoas ilíaca esquerre amb obertura a l'espai retroperitoneal esquerre, de 20 x 11 x 12 cm amb nivell líquid-sang. Al seu interior s'observen diversos focus ( un mínim de 7) extravasació de contrast en fase arterial, el major a nivell L3-L4, que augmentem de mida en fase vensoa, compatible amb sagnat acctiu arterial d'alt debit.
+Abundant quantitat de líquid lliure en espais prerrenals esquerres, perihepátic i en pelvis en relació a l'hematoma descrit.
+Fetge de morfologia, marges i atenuació normals. No s'observen lesions focals.
+Vesícula de mida normal i de parets fines . Via biliar no dilatada.
+Vena porta i eix espleno-portal permeables.
+Pàncrees, melsa i glàndules suprarenals sense alteracions significatives.
+Diverticulosis de sigma sense signes de diverticulitis.
+Ronyons de mida i morfologia normal, captació bilateral i simètrica de contrast. No s'observa dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica.
+Als talls torácics inclosos a l'estudi s'observen consolidacions bibasals d'aspecte arrodonit i distribució central en relació a la seva pneumònia per COVID19. Lleu vessament pleural bilateral.  Protesis v
+
+conclusiones:
+Hematoma retroperitoneal esquerre amb diversos focus de sagnat actiu arterial d'alt debit.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL
+
+descrip:
+ANGIO TC AORTA TORACICA

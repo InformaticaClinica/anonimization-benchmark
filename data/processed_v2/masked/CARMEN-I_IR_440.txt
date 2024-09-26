@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**Hombre**] de [**66 años**]. IOT por por SDRA secundario a neumonía por COVID-19.
+Presenta mala evolución con aumento de Dímero-D. Se solicita Angio-TC pulmonar.
+Gracias.
+NEUMONIA COVID 19
+
+protocolo:
+Se realiza estudio angioTC
+
+resultados:
+Lóbulo tiroideo izq e istmo aumnetados de tamano.
+Colapso y consolidaciones  posteriores y posterobasales bilateral, con extenso vidrio delustrado y diltaciones bronquiales irregulares en bases compatibl etodo ello con ARDS.
+Tubo endotraqueal justo ore encima de carina.
+Adenopatías hiliares de aspecto reactivo.
+Mínimo derrame pleural bilateral.
+Sin imágenes evidentes de TEP.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

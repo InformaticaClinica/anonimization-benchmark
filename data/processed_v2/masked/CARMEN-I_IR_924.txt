@@ -1,0 +1,28 @@
+
+prueba:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDAD ORAL/ FARINGE/LARINGE/TIROIDES)
+
+clinica:
+Paciente con pneumonia por COVID que ha requerido ingreso en UCI e IOT.
+Portadora de traqueostomia. Tratamiento antibiotico por microabcesos peritraqueostomia. Agradeceríamos ver evolucion. TAC [**31 de marzo**]: La mucosa de la hipofaringe desde el margen inferior epiglótico en craneal hasta la cánula de traqueostomía en caudal presenta un engrosamiento hipodenso con hipercaptación de sus paredes en relación a zonas edematosas/flemonosas. Esta afectación inflamatoria comrpomete también la topografía de las cuerdas vocales falsas y disminuye (oblitera) el espacio aéreo a esta altura. Se observa alguna pequeña área algo más hipodensa que no permite descartar la presencia de algún microabsceso dentro del magma inflamatorio. La pared posterior de la hipofaringe (espacio retrofaríngeo) presenta también un engrosamiento hipodenso de hasta 8 mm.
+Intubación prolongada
+
+protocolo:
+Exploración TC de cuello mediante secciones axiales durante la administración de un bolus de contraste endovenoso, con posteriores reconstrucciones.
+
+resultados:
+Se realiza estudio comparativo respecto al TC de cuello previo, realizado el [**dia 15 de Marzo del 2028**].
+Traqueostomia con canula.
+Al control evolutivo se aprecia una mejoria radiologica de los hallazgos a nivel retrohipofaringeo, actualmente con un aspecto menos engrosado pero se aprecia un engrosamiento de la comisura posterior y una aparente estenosis glotica.
+Pequeña burbuja de gas inespecifica retrocricoidea izquierda.
+Fosas infratemporales, cavum, pilares amigdalinos, planos grasos parafaringeos y glandulas salivares sin alteraciones destacables.
+No se aprecian adenopatías aumentadas significativamente de tamaño.
+Mediante TC no se aprecian alteraciones destacables en la glandula tiroides.
+En las secciones realizadas en los apex pulmonares se aprecia persistencia cambios residuales bilaterales a neumonia COVD.
+
+conclusiones:
+Mejoria radiologica de los hallazgos a nivel retrohipofaringeo, actualmente con un aspecto menos engrosado pero se aprecia un engrosamiento de la comisura posterior y una aparente estenosis glotica.
+Pequeña burbuja de gas inespecifica retrocricoidea izquierda.
+
+descrip:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDADORAL/ FARINGE/LARINGE/TIROIDES)

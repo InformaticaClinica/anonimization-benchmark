@@ -1,0 +1,20 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+HALLAZGOS:
+Opacidades: NO
+Consolidación: NO
+Patrón intersticial: NO
+CONCLUSION:
+Normal
+
+descrip:
+RX  PORTATIL  TORAX

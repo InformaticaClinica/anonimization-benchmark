@@ -1,0 +1,19 @@
+
+prueba:
+RADIOESCOPIA DE TORAX
+
+clinica:
+Elevación persistente de hemidiafragma derecho,ultima evidencia en TAC torax que se realiza en contexto de COVID.
+Se solicita la prueba ante posible intervención quirurgica por compromiso valvular.
+covid19
+
+conclusiones:
+radio-escopia.
+Elevación del hemidiafragma derecho.
+Marcada paresia del hemidiafragma derecho.
+Atelectasias laminares bibasales.
+cardiomegalia
+Hernia de hiato.
+
+descrip:
+RADIOESCOPIA DE TORAX

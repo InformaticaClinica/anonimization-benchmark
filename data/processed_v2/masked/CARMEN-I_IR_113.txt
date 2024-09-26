@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**hombre**] de [**56 años**] ingresado en AVI por neumonia bilateral por COVID19 con insuficiencia respiratoria grave que requiere IOT + VM + pronación.
+Interesa angioTC esta tarde para descartar TEP/NOC y consensuar hora de realización para supinar. gracias!.
+Neumonia Bilateral SARS COV 2
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Sonda nasogástrica. CVC con entrada yugular derecha y extremo distal en aurícula derecha. Tubo endotraqueal con extremo distal a 45 mm de la carina.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal. No se observan signos de se sobrecarga ventricular derecha.
+No se observan adenopatías axilares de tamaño patológico. Ganglios mediastínicos de aspecto reactivo.
+No se observa derrame pleural ni pericárdico.
+Afectación parenquimatosa pulmonar bilateral en forma de extensas opacidades en vidrio deslustrado peribroncovasculares y subpleurales, de predominio en lóbulos superiores, asociados a pequeños focos consolidativos posterobasales bilaterales y a algunas bandas de disposición perilobular que sugieren cambios organizativos incipientes; todo ello en relación a neumonía por COVID-19.
+
+conclusiones:
+No se observan signos sugestivos de TEP. Neumonía bilateral por COVID-19 de extensión moderada con extensas opacidades en vidrio deslustrado y cambios organizativas incipientes.
+
+descrip:
+ANGIO TC PULMONAR

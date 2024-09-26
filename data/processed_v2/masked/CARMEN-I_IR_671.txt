@@ -1,0 +1,38 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**Mujer**] de [**55 a**] con ca de mama con M1 óseas y hepáticas que ingresa por shock séptico en contexto de neutropenia febril, con Rx compatible con insuf. cardíaca y foco séptico no aclarado. Interesa TC toracoabdominal.
+Gracias.
+SHOCK SEPTICO PROBABLE FOCO RESPIRATORIO
+
+protocolo:
+TC TORACOABDOMINAL: Se realiza adquisición mediante hélice tras la administración de c.e.v. y oral.
+
+resultados:
+Se realiza examen comparativo con TC previo de [**28-10-25**].
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+Presenta derrame pleural bilateral, notable derecho y moderado izquierdo, ambos de nueva aparición.
+Presenta colapso pasivo en ambos lóbulos inferiores condicionado por el derrame pleural. Presenta múltiples áreas parcheadas de vidrio deslustrado de distribución bilateral aunque más evidentes en el culmen.
+Estos hallazgos sugieren como primera opción diagnóstica un proceso infeccioso, incluyendo la infección por SARS-CoV-2 entre las opciones.
+Resto del parénquima pulmonar sin alteraciones valorables.
+Cambios degenerativos en la columna toracolumbar. Presenta múltiples lesiones óseas metastásicas.
+Cambios posquirúrgicos con linfadenectomía axilar izquierda y mastectomía izquierda. Reconstrucción protésica de la mama izquierda.
+Hepatomegalia con contornos festoenados que sugeriría una seudocirrosis.
+Los nódulos hepáticos de pequeño tamaño presentes en el control anterior no son visualizables en el presente estudio pero globalmente el hígado se muestra más heteogéneo y distorsionado. Recomiendo valoración con RM hepática. No se observa dilatación de vías biliares intra- o extrahepáticas. Vesícula biliar sin alteraciones significativas.
+Páncreas y bazo homogéneos de morfología conservadas. Bazo accesorio de disposición posterior.
+Suprarrenales sin alteraciones significativas.
+Riñones de morfología conservada. Nefrogramas simétricos y conservados.
+No evidencia de dilatación de vías excretoras.
+Presenta una discreta cantidad de líquido intraabdominal, llamando la atención la presencia de un nivel hiperdenso en el fondo de saco de Douglas que podría corresponder a contenido hemático.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

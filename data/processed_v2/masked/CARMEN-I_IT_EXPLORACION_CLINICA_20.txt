@@ -1,0 +1,15 @@
+[**3/4/2027**]-18:44:00: Frecuencia respiratoria (rpm) 25. [**3/4/2027**]-18:45: 00 : PAS (mm Hg) 154, PAD (mm Hg) 96, Pulsioximetría (%) 94. [**3/4/2027-**] 18:47:00 : Ta axilar (oC) 35.5. [**3/4/2027**]-21:00:00 : Glicemia capilar ( mg/dl) 124. [**4/4/2027**]-20:00:00 : FiO2 (%) 35.
+EXPLORACIÓN FÍSICA EN URGENCIAS
+REG. NC. NH. CyO. Colaborador. Taquipneico. Hemodinámicamente estable.
+Afebril.
+ACP: RsCsAs sin soplos ni extratonos. MVC con crepitantes bibasales.
+Trabajo respiratorio con tiraje abdominal.
+Abdomen blando depresible, globuloso, no doloroso. No masas ni megalias.
+No signos de irritación peritoneal. Blumberg y Murphy negativos.
+No edemas en MMII. Pulsos presentes fuertes plenos y simétricos. No signos de TVP.
+EXPLORACIÓN FÍSICA EN SALA [**R455**]
+GRAL: afebril, normocoloreado, colaborador a la exploración.
+NEURO: vigil, orientado en 3 esferas, no focalización neurológica
+TyP: taquipneico a 25 rpm, satO2 95% con VMK a 35%, MV con crepitantes en ambas bases y tercios medios, sibilantes en hemitórax izquierdo
+CV: FC 85 lpm, ruidos cardíacos arrítmicos sin soplos. Edemas en zonas de declive. ESD aumentada de volumen, pulsos radiales presentes y simétricos.
+ABDOMEN: ruidos hidroaéreos presentes, blando, depresible, no doloroso.

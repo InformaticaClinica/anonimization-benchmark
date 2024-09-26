@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**82 años**] con antecedente LCGDB en RC con neumonía bilateral por COVID19 a más de 10 días de inicio de síntomas y con persistencia de insuficiencia respiratoria. Agradeceríamos descartar neumonía organizativa.
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+Port-a-cath en región pectoral derecha con extremo distal en vena cava superior.
+Leves calcificaciones coronarias y discretas parcheadas en aorta torácica.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+Afectación parenquimatosa pulmonar difusa bilateral por la presencia de opacidades en vidrio deslustrado y reticulares, de distribución periférica y peribroncovascular, morfología perilobular asociado algún foco consolidativo irregular, ectasia bronquial difusa y bandas parenquimatosas. Hallazgos en relación con neumonia bilateral por COVID19 en fase organizativa.
+Granuloma calcificado en LII.
+No se observa derrame pleural ni pericárdico.
+Cambios degenerativos en columna torácica.
+
+conclusiones:
+Afectación parenquimatosa pulmonar bilateral descrita en relación con neumonia bilateral por COVID19 en fase organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

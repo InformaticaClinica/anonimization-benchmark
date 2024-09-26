@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Ruego AngioTC urgente por alta sospecha de TEP en paciente ingreasdo por neumonía COVID y antecedente quirúrgico reciente. Ddímero 3200, en ascenso, LDH y PCR en ascenso. Disnea de inicio súbito con taquipnea, ECG sin datos de isquemia miocárdica y troponinas negativas.
+COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco común de la arteria pulmonar.
+Catéter con reservorio subcutáneo port-a-cath en el hemitórax derecho con extremo distal en la vena cava superior.
+Catéter venoso central con acceso yugular derecho y extremo distal en la aurícula derecha.
+Esternotomía media y prótesis valvular mitral metálica. Ateromatosis calcificada aortocoronaria. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Enfisema predominantemente paraseptal con predominio en campos superiores. Bronquiectasias cilíndricas de distribución difusa.
+Ténues opacidades en vidrio deslustrado bilaterales y con disposición periférica, más evidentes en campos pulmonares medio y superiores, que dado el contexto del paciente sugieren afectación pulmonar por COVID-19, sin signos de neumonía organizativa valorables en el momento actual.
+Engrosamiento de paredes bronquiales con imágenes de impactación mucosa y micronódulos peribroncovasculares con disposición de árbol en brote en el lóbulo inferior izquierdo, en relación con bronquiolitis infecciosa (valorar broncoaspiración).
+Colecistectomía.
+
+conclusiones:
+- No se observa TEP.
+- Afectación por COVID-19 en grado leve, sin signos de neumonía organizativa.
+- Engrosamientos bronquiales con imágenes de impactación bronquial y signos de bronquiolitis infecciosa en la base pulmonar izquierda (valorar broncoaspiración).
+
+descrip:
+ANGIO TC PULMONAR

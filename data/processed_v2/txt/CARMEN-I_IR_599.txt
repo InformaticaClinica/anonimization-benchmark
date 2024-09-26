@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+AngioTc urgent per FiO2 100% i deteriorament respiratori agut. Gràcies.
+I X SINT
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+No se observan defectos de repleción sospechosos de tromboembolismo pulmonar.
+Tronco de la arteria pulmonar de calibre normal. No se observan signos de fallo cardíaco derecho.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Patrón en vidrio deslustrado con engrosamientos septales (patrón en empedrado)y focos alveolares, bilateral y difuso, de predominio periférico, asocado a discretas broqnuiectasias, compatible con un neumonía por COVID con afectación pulmonar de grado severo severo.
+
+conclusiones:
+Patrón de afectación pulmonar por COVID de grado severo.
+
+descrip:
+ANGIO TC PULMONAR

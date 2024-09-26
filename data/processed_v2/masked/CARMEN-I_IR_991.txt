@@ -1,0 +1,34 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**Varón**] de [**67 años**] con antecedentes de IRC en HD y colecistectomía, con neumonía bilateral por COVID-19 que requirió IOT y traqueostomía por weaning lento + derrame pleural bilateral por mala tolerancia a sesiones de diálisis, que requirió de drenajes pleurales bilaterales.
+Último TC tórax ([**10/10**]): TÓRAX: Moderado-severo derrame pleural bilateral asociado a leve neumotórax izquierdo. Parénquima
+pulmonar con zonas de atenuación en vidrio deslustrado con tendencia a la consolidación en ambos lóbulos superiores y focos consolidativos peribroncovasculares en lóbulos inferiores, correspondientes a afectación por COVID. Signos de enfisema paraseptal en ambos lóbulos superiores. Traqueostomía. Catéter de 2 luces yugular derecho con extremo en aurícula derecha, con pequeños defectos de repleción en contacto con su tercio distal, en su periferia, sugestivos de pequeños focos de trombosis. Acceso venoso subclavio izquierdo con extremo en tronco braquiocefálico izquierdo. Leve dilatación del tronco de la arteria pulmonar (33 mm), no identificándose imágenes sospechosas de TEP. No hay derrame pericárdico. Sonda
+nasogástrica con extremo en cuerpo gástrico.
+Solicitamos TC torácico de control, gracias.
+covid19
+
+protocolo:
+TC TÒRAX ALTA RESOLUCIO
+
+resultados:
+Se compara con TC torácica previa realizada el [**10/10/13**]:
+Calcificaciones coronarias. Calcificación valvular mitral.
+Sonda nasogástrica. Tubo endotraqueal a 50 mm de la carina.
+Catéter yugular derecho con extremo en vena cava superior. Catéter yugular izquiero en unión cavoatrial. Catéter yugular derecho con extremo distal en contacto con la pared vascular de la confluencia de la vena cava superior.
+Drenaje torácico con entrada por pared torácica lateral derecha y extremo en espacio pleural craneal al segmento superior del lóbulo inferior derecho (LID).Drenaje torácico con entrada por pared torácica lateral izquierda y extremo en segmento superior de LII.
+Importante disminución del derrame pleural izquierdo, quedando solo una fina lámina de líquido subpleural izquierdo.También se observa disminución del derrame pleural derecho, quedando aún moderada cantidad de líquido subpleural derecho y en cisura.
+Discreta mejoría radiológica de las  opacidades en vidrio deslustrado de predominio en lóbulos superiores con algunas áreas con tendencia a la consolidación y dilataciones bronquiales, por afectación pulmonar por COVID-19
+Impactaciones bronquiales en LII.
+Colecistectomía.
+
+conclusiones:
+Respecto estudio previo se observa:
+-Resolución del neumotórax izquierdo.-Importante disminución del derrame pleural izquierdo, -Disminución del derrame pleural derecho,
+-Discreta mejoría radiológica de la afectación pulmonar por COVID-19
+-Impactaciones bronquiales en LII.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

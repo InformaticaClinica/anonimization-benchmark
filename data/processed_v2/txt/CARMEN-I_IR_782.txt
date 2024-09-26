@@ -1,0 +1,28 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Varón de 49 años ingresado en la UCI por insuficiencia respirtoria grave secndario a neumonía poc SARS-CoV-2. Actualmente con IOT + VMI. En las últimas 24 horas presenta empeoramiento respiratorio franco con mayor hipoxemia. Interesa descartar TEP. Muchas gracias!
+
+protocolo:
+ANGIO-TC PULMONAR mediante energia dual. URGENTE.
+
+resultados:
+Vía venosa central yugular derecha con extremo distal en unión cavo- atrial. Via venosa central basílica izquierda con extremo distal en vena subclavia izquierda. Sonda nasogástrica con extremo distal en antro gástrico. Intubación endotraqueal con extremo distal en el ostium del bronquio principal derecho, a retirar levemente.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de calibre aumentado (hasta 38 mm) como signo de hipertensión pulmonar. No se observan adenopatías mediastínicas ni axilares de tamaño patológico. No se observa derrame pericárdico. Leve derrame pleural bilateral.
+Mínimo enfisema paraseptal. Muy ténues áreas en vidrio deslustrado bilaterales y périfericas coherentes con una leve neumonía por COVID-19.
+Sin signos de organización. Atelectasia de casi la totalidad de ambos lóbulos inferiores. Existe alguna imágen de broncograma líquido en ramas subsegmentarias para ambos segmentos posterobasales de predominio derecho. No se aprecian imágenes que sugieran sobreinfección.
+En cortes de hemiabdomen superior no se aprecian hallazgos patológicos relevantes.
+
+conclusiones:
+Intubación endotraqueal con extremo distal en el ostium del bronquio principal derecho, a retirar levemente.
+No se observa TEP. Tronco de la arteria pulmonar dilatado.
+Leve neumonía por COVID-19, sin signos de organización.
+Atelectasia de casi la totalidad de ambos LLII, sin signos de sobreinfección.
+
+descrip:
+TC TORAX
+
+descrip:
+ANGIO TC PULMONAR

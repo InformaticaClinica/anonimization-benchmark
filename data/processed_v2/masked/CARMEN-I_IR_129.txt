@@ -1,0 +1,27 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con parada cardiorespiratoria( tiempo desconocido). Actualmente intubado en la [**SalaUCI**], hemos retirado sedoanalgesia pero no conecta con el medio .
+Valoración de posible encefalopatía hipóxico-isquémica.
+TEP MASIVO
+
+protocolo:
+TC craneal basal de URGENCIA
+
+resultados:
+Diferenciación córtico-subcortical conservada, sin signos de encefalopatía hipóxico-isquémica valorables por TC.
+Sin signos de hemorragia aguda intra/extraxial.
+Moderadas áreas de hipodensidad en sustancia blanca periventricular en relación a enfermedad de pequeño vaso.
+Sistema ventricular libre, de situación y morfología normal.
+Línea media centrada.
+Cisternas de la base libres.
+Tabique nasal torcido hacia la izquierda.
+Intubación orotraqueal.
+
+conclusiones:
+Sin signos de encefalopatía hipóxico-isquémica valorables por TC.
+
+descrip:
+TC CEREBRAL

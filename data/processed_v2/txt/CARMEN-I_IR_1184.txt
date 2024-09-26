@@ -1,0 +1,48 @@
+
+prueba:
+TC TORAX
+
+clinica:
+PNEUMÒNIA BILATERAL PER SAR-COV2-ECMO
+
+protocolo:
+TC TORACOABDOMINAL y CUELLO MULTIFÁSICO + CRANEAL basal URGENTES
+
+resultados:
+TORACOABDOMINAL:
+Tubo endotraqueal con extremo distal en carina, que se insinúa en bronquio principal derecho.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+Leve derrame pericárdico. Leve derrame pleural bilateral, de predominio derecho.
+Afectación parenquimatosa pulmonar difusa en forma de extensas opacidades en vidrio deslustrado, con tendencia a la consolidación, de distribución peribroncovascular y subpleural. Dilataciones bronquiales asociada en las zonas con mayor consolidación. Hallazgos compatibles con infección pulmonar por COVID-19 de extensión severa y predominio de los cambios inflamatorios.
+Colelitiasis. Resto del estudio abdominal sin alteraciones destacables.
+SNG y sondaje vesical. Principales troncos arteriales permeables.
+Paciente portadora de ECMO. Canulación de la vena femoral derecha con extremo distal en cava inferior, en su porción intrahepática. Canulación de la vena yugular derecha con extremo distal en AD.
+Catéter venoso femoral y yugular izquierdos normoposicionados.
+CRÁNEO y CUELLO:
+No se observan signos de sangrado intra o extraaxial.
+Hipodensidad occipital y parietal derechas sugestivas de lesiones isquémicas establecidas (no disponemos de estudio previos comparativos).
+Sin otras alteraciones densitométricas encefálicas destacables mediante TC.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas. Cisternas basales libres.
+Ocupación de aspecto mucoso de senos maxilares, esfenoidales y celdillas etmoidales.
+Se observa un hematoma de 9 x 3 cm (diámetros máximos TxAP), localizado anterior a la glándula tiroides, que se extiende desde el hueso hioides hasta la altura del manubrio esternal. En su componente derecho se identifica al menos un foco de extravasación de contraste, solo visualizado en fases tardías, lo que sugiere origen venoso/bajo débito.
+Difícil valoración de su compromiso sobre vía aérea al ser portadora de tubo endotraqueal, aunque no impresiona desplazamiento de la misma.
+Engrosamiento del m.esternocleidomastoideo derecho, adaycente al hematoma descrito. Todo ello en probable relación con manipulación reciente.
+
+conclusiones:
+- No se observa TEP.
+- Hallazgos compatibles con infección pulmonar por COVID-19 de extensión severa y predominio de los cambios inflamatorios. Leve derrame pericárdico. Leve derrame pleural bilateral, de predominio derecho.
+- Lesiones isquémicas establecidas en región occipital y parietal derechas (no disponemos de estudio previos comparativos).
+- Hematoma localizado anterior a la glándula tiroides, que se extiende desde el hueso hioides hasta la altura del manubrio esternal. En su componente derecho se identifica al menos un foco de extravasación de contraste, solo visualizado en fases tardías, lo que sugiere origen venoso/bajo débito.
+*Estudio comentado con adjunto de guardia de radiodiagnóstico.
+
+descrip:
+TC TORAX
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+descrip:
+TC CEREBRAL

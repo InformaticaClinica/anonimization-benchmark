@@ -1,0 +1,26 @@
+
+   
+* Clinica COVID
+1. NEUMONÍA INTERSTICIAL BILATERAL POR COVID-19
+2. POSIBLE NOC POR IMAGEN RX
+- Situación social al alta: Vive con su mujer, puede realizar aislamiento correcto.
+- Fecha inicio de los síntomas: 15/12
+- Fecha de ingreso: 19/12
+- Fecha de frotis positivo: 19/12
+- Fecha de ingreso Centro COVID: 11/01
+- Tratamiento:
+* Azitromicina + Hidroxicloroquina: 19/12-23/12
+* Kaletra: 19/12-25/12
+* Tocilizumab: 20/12 dosis única
+* Metilprednisolona: 21/12-23/12 (250mg). Posteriormente prednisona 30mg/día.
+* Anakinra 100mg/12h (2 dosis): 23/12
+* Baricitinib 4 mg: 26/12-28/12.
+---
+Paciente de 76 años derivado des del Hospital Mediterráneo por convalescencia de su neumonía por Covid-19. A su llegada al Clinica COVID requiere oxigenoterapia 2L, presentando SpO2 96%. Está en tratamiento con Prednisona 30mg por posible NOC secundaria a Covid, requerirá al alta repetición de TC y visita con neumología.
+Analítica al ingreso Clinica COVID (11/01): PCR<0.4, AST/ALT 69/138, LDH 292, ferritina 1008, DD 600.
+Durante su estancia presenta Rx tórax (11/01) con opacidades alveolares bilaterales y difusas, de predominio periférico, sugestivo de afectación pulmonar por COVID. Aparición de signos de fibrosis.
+El paciente requirió tratamiento hipotensor, y administración de Calcio por hipocalcemia y tratamiento corticoideo, con posterior buen control.
+El paciente presenta progresiva mejoría clínica y analítica, con retirada intermitente de la oxigenoterapia, manteniendose eupneico con saturaciones de 94% basal, por lo cual se decide el alta del Cl. COVID con oxigenoterapia domiciliara, se realizara controles en Consultas Externas de Neumologia en 1 mes ( Lo llamaran), al alta mantendra el tratamiento corticoideo asociado a calcio y vitamina D hasta control con Neumologia.
+Se le recomienda seguimiento por medico de CAP
+Se le indica signos de alarma para reconsulta inmediata a urgencias
+   

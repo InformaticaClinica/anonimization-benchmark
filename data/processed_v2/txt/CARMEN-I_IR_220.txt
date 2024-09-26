@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Descartar TEP, gracias
+Pneumonia bilateral per SARS-CoV-2
+
+protocolo:
+Angio-TC pulmonar urgente
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP. Tronco de la arteria pulmonar de calibre conservado. No se observan signos de sobrecarga cardíaca derecha.
+Aumento de tamaño de adenopatías mediastínicas paratraqueales bilaterales de predominio izquierdo, prevasculares y subcarinales, la mayor de 10 mm. No se observan adenopatías axilares de tamaño significativo.
+Calcificación valvular aórtica. Discretas calcificaciones coronarias.
+Ausencia de derrame pleural.
+Extensas opacidades en vidrio deslustrado peribroncovasculares y de distribución periférica, bilaterales, de predominio en LLII, asociado a discretas dilataciones bronquiales y vasculares en las áreas afectadas.
+En el LID y segmento posterior de LSD y língula se observan pequeños focos consolidativos periféricos y opacidades lineales de distribución perilobular, sugestivo de mínimos e incipientes cambios organizativos.
+Colelitiasis.
+
+conclusiones:
+No se observan signos de TEP.
+Neumonía bilateral por COVID-19 (afectación extensa con patrón predominante en vidrio deslustrado). Mínimos e incipientes cambios organizativos de predominio en el pulmón derecho.
+Nódulo suprarrenal derecho hipodenso, parcialmente incluido en el estudio, indeterminado. Colelitiasis.
+
+descrip:
+ANGIO TC PULMONAR

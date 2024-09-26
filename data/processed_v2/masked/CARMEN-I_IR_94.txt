@@ -1,0 +1,15 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente postoperada de resección intestinal (2 anastomosis), por perforación posthisteroscopia, complicada con hematoma de la vaina de los rectos. Actualmente con dehiscencia de la herida y salida de líquido oscuro por drenaje IA. Amilasa drenaje 9mil. Ayer TC que no permite descartar fallo de sutura, solicitamos nuevo TC con contraste oral.
+
+protocolo:
+TC ABDOMINAL CON CONTRASTE VO URGENTE (AMPLIACIÓN DE ESTUDIO TC REALIZADO AYER)
+
+conclusiones:
+Se administra contraste oral (2 vasos) y se adquiere TC a las 6h. El contraste progresa adecuadamente hasta el recto, no identificándose fugas de contraste que sugieran una perforación intestinal. Resto del estudio sin cambios respecto al TC realizado ayer.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

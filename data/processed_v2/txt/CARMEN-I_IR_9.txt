@@ -1,0 +1,29 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+COVID19.
+Mujer de 73a con inmunodeficiencia comun variable y bronquiectasias.
+Ingresa por COVID19 a 10d. Presenta empeorameinto respiratorio y radiologico sin empeoramiento analítico. Sospecha de NO, interesa descartar. Gracias.
+NEUMONÍA SARS COV 2
+
+protocolo:
+TC TORAX ALTA RESOLUCION
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se revisan estudios previos; último TC de tórax del 25/02/2018.
+Pequeños ganglios mediastínicos paratraqueales bilaterales y en ventana aortopumonar, de aspecto reactivo. No se observan adenopatías axilares o mediastínicas de tamaño valorable.
+Ausencia de derrame pleural, ni pericárdico significativo.
+Afctación pulmonar bilateral en forma de opacidades en vidrio deslustrado bilaterales y de distribución periférica, con discretos engrosamientos septales asociados (patrón de crazy paving), de predominio en lóbulos superiores. En lóbulos inferiores se visualizan algunas bandas parenquimatosas perilobulares en relación a cambios organizativos incipientes. Los hallazgos descritos están en relación a proceso neumónico bilateral por COVID-19 de extensión moderada, con signos de organización.
+Bronquiectasias cilíndricas en LLII, ya conocidas, que presentan impactaciones mucosas y focos consolidativos distales.
+Cambios degenerativos en columna toracolumbar y escoliosis de convexidad izquierda.
+Esplenomegalia de 14 cm.
+
+conclusiones:
+Neumonía bilateral por COVID-19 de extensión moderada, con discretos cambios organizativos en bases pulmonares.
+Bronquiectasias cilíndricas en LLII, con impactaciones mucosas y focos consolidativos distales.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

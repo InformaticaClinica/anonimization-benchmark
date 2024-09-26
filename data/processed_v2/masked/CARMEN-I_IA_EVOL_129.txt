@@ -1,0 +1,16 @@
+* SALA DE INFECCIOSAS *
+1. INFECCIÓN POR SARS-CoV-2
+2. TRASPLANTE RENAL ([**2008**])
+VACUNA SARS-CoV-2: 2da dosis [**29/04**] (moderna)
+Inicio de síntomas: Dudoso. Apróx [**20/05**], con empeoramiento progresivo desde el [**14/06**].
+Ingreso: [**15/06**]. Dx PCR: [**15/06**]. Ct 22.
+Tratamiento: [**15/06**] Remdesivir + Baricitinib.
+Paciente vacunada de dos dosis de Moderna que refiere tos, inicialmente con expectoración desde finales de [**abril**]. Se realiza test antigénico el [**28/05**] que resulta negativo. Ha recibido dos tandas de tratamiento antibiótico, con mejoría solo parcial y aquejando persistencia de astenia marcada. Además inicialmente pérdida de gusto y olfato, con mejoría posterior, pero desde hace una semana ([**8/06**]), ageusia y anosmia, sin recuperación. El [**15/06**] comienza con fiebre hasta 38oC, por lo que acude a urgencias.
+A su llegada a urgencias afebril, HD estable. Spo2 99% (basal).
+Crepitantes leves en base derecha.
+Analítica con PCR 1.24 mg/dL, Cr 1.37 mg/dL, FG 41 mL/min. Ferritina 1237 ng/mL. Procalcitonina 0.06 ng/mL. Leucopenia (3550), Plaquetas 126000 y linfopenia (800). Rx de tórax: infiltrados bibasales tenues.
+Frotis SARS-CoV-2 positivo, con Ct 22. Ingresa en sala de infecicosas.
+Dado que presenta un Ct de 22, con inicio incierto, en paciente trasplantada renal, se inicia tratamiento con remdesivir + baricitinib.
+De acuerdo con Nefrología, ajustamos pauta de inmunosupresor (se suspender micofenolato, se mantiene tacrolimus y se aumenta prednisona a 10 mg/d).
+A su llegada en sala la paciente presneta un buen estado general, eupneica en basal con SpO2 98% sin disnea a la movilización, hemodinamicamente etsable y afebril, a la exploración presenta leves crepitantes en base derecha. Se realiza mesura de niveles de tacrolimus en rango, así como serologia Covid-19 que resulta negativa. Se realiza consuta a UTR para ajustar medicación immunosupresora al alta, recomiendan 10mg de prednisona, reintroducir micofenolato y mantener tacrolimus.
+Tras completar tratamiento con remdesivir y debido al excelente estado de la paciente junto con una correcta evolución analítica la paciente es dada de alta a su domicilio, la paciente debera permanecer en aislamiento hasta el [**viernes 27/06**] Se remite a control con sus médicos habituales.

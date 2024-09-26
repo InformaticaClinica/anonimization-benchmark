@@ -1,0 +1,46 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente de [**67 años**] Diagnosticada de Tumor de Klatskin Bismuth 4, irresecable portadora de stentbiliardesde [**12/25**] y prótesis biliar desde [**5/26**].Que ingresa por Fiebre de foco biliar con bacteremia por E.coli, probable microabscesos hepáticos
+Eco abdominal : Higado homogéneo de tamaño normal. Moderada dialtacion de la via biliar intrahepática en LHI (10 mm) con pared edematosa a descartar una colangitis, además se observa imagen hipoecocia de 2 cm adyacente a la misma que podria corresponder a una M1 /absceso.
+Coledoco de 10 mm de calibre. Pancreas con c.wirsung evidente de 3 mm
+Ruego TAC abdominal para filiar fiebre actual, presencia de abscesos que podrian ser tributarios de drenaje .
+Gracias
+TUMOR DE KLASKIN
+
+protocolo:
+TC TORACOABDOMINAL tras administración de contraste e.v., con posterior adquisición en fases arterial precoz, pancreatográfica, portal y equilibrio.
+
+resultados:
+Se compara el abdomen con última prueba de imágen, TC ABDOMINAL de otro centro del [**17/08/2026**]. Se compara el tórax con imágenes del TC TORACOABDOMINAL del [**25/04/2026**].
+TÓRAX:
+Catéter ev con extremo distal en VCS.
+Dilatación del tronco principal de la arteria pulmonar (actual 40 mm, previo 38 mm).
+No se observan adenopatías axilares o mediastínicas de tamaño patológico.
+Espacios pleurales libres, sin evidencia de derrame pleural ni pericárdico.
+Nódulo semi-sólido en ápice del LSI de aprox 12 mm (componente sólido), sin cambios significativos. Varias opacidades en vídrio deslustrado de pequeño tamaño en LLSS, estables.
+Estabilidad del foco consolidativo con bronquiecstasias de tracción en segmento posterior del LSD, sugestivo de cambios post-radioterapia.
+Atelectasias laminares basales.
+No se identifican imágenes de M1.
+Nódulo mamario izquierdo de 14 mm, estable. Calcificaciones mamarias derechas.
+ABDOMEN:
+Hígado homogéneo de morfología conservada. Se identifican al menos tres lesiones focales hipocaptantes con realce periférico, la mayor de 17 mm en segmento lateral del LHI, que no estaban presentes en el estudio previo de emero.
+Lesión hipodensa mal definida en hilio hepático compatible con tumor de Klatskin conocido, que se extiende hacia ambos lóbulos predominantemente en el segmento IV (Bismuth IV) y que presenta leve crecimento respecto al cotnrol anterior. Engloba y estenosa la rama portal izquierda. Doble prótesis biliar. Dilatación de la vía biliar intrahepática de marcado predominio en LHI, identificándose varios radicales biliares amputados.
+No se observa aerobilia.
+Vesícula biliar de tamaño y morfología normal. Litiasis en conducto cístico.
+Vena porta principal y eje espleno-mesentérico permeables. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Páncreas de tamaño y morfología dentro de la normalidad. Bazo homogéneo de tamaño normal con algunas imágenes hipodensas estables, inespecíficas. Glándulas suprarrenales hipertróficas.
+Riñones atróficos. No hay evidencia de dilatación de la vía excretora.
+Adenopatías en hilio hepático de 12 mm estable respecto a estudio previo. Aparición de varios ganglios para-aórticas infracentimétricos, inespecíficos.
+Diverticulosis sigmoidea.
+No líquido libre abdominal.
+
+conclusiones:
+- Tres lesions focales hepáticas en el segmento alteral del LHI, la mayor de aprox 17 mm, hipocaptantes con realce periférco, de nueva aparición. Sugieren en primer lugar metástasis, sin poder descartar con seguridad que sean abscesos dada la clínica de la paciente.
+- Tumor de Klatskin conocido, que se extiende hacia ambos lóbulos predominantemente en el segmento IV (Bismuth IV) y que presenta leve crecimento respecto al cotnrol anterior.
+- Dilatación de la vía biliar intrahepática de predominio en LHI, estable respecto a estudio previo, identificandose amputación de varios radicales bilares. Doble protesis biliar. No se observa aerobilia.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
