@@ -32,21 +32,53 @@ def store_text(text, filename, name_model):
     with open(file_path, 'w') as file:
         file.write(text)
 
-def post_processing_replace_text(text, json_strings):
-    # Merge all dictionaries parsed from JSON strings
-    merged_dict = {}
-    
-    for json_string in json_strings:
-        dictionary = json.loads(json_string)  # Parse JSON string to dictionary
-        merged_dict.update(dictionary)
-    
+def post_processing_replace_text(text, dictionary_list):
+    combined_dictionary = {}
+    for d in dictionary_list:
+            combined_dictionary.update(d)
     def replacement_match(match):
         keyword = match.group(1)
-        return merged_dict.get(keyword, keyword)
+        return combined_dictionary.get(keyword, keyword)
     
-    # Using a regular expression to find texts inside [**]
     modified_text = re.sub(r'\[\*\*(.*?)\*\*\]', replacement_match, text)
     return modified_text
+
+
+def first_iteration(metrics, filename, context, name_model):
+    data = {}
+    data["system"] = read_text("prompts/system_prompt1.txt")
+    data["user"] = read_text(f'{PATH}txt/replaced/{filename}')
+    ground_truth = read_text(f'{PATH}txt/masked/{filename}')
+    text_generated = context.generate_response(data)
+    metrics.calculate(ground_truth, text_generated)
+    metrics.store_metrics()
+    store_text(text_generated, filename, name_model)
+    return metrics, text_generated
+
+def second_iteration(metrics, text_generated, dictionary, name_model, filename):
+    data = {}
+    #!!!!! Mirar la forma de hacer esto.
+    data["system"] = read_text("prompts/system_prompt2_beta.txt")
+    data["user"] = text_generated
+    context = LLMContext(llm)
+    dictionary = context.generate_response(data)
+    dictionary = json.loads(dictionary)
+    print(dictionary)
+    return dictionary
+
+def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename):
+    #!!!!! Mirar la forma de hacer esto.
+    ground_truth = read_text(f'{PATH}txt/masked/{filename}')
+    text_generated = post_processing_replace_text(text_generated, dictionary)
+    print(text_generated)
+    metrics_thrid.calculate(
+        ground_truth, 
+        text_generated, 
+        classification_bool = False
+        )
+    metrics_thrid.store_metrics()
+    store_text(text_generated, filename, name_model+"_3rd")
+    return metrics_thrid
 
 
 def anonimized_loop(llm, name_model):
@@ -55,25 +87,14 @@ def anonimized_loop(llm, name_model):
     counter = 0
     context = LLMContext(llm)
     metrics = Metrics(name_model)
+    metrics_thrid = Metrics(name_model+"_3rd")
     for filename in sorted(os.listdir(f'{PATH}txt/replaced/')):
         metrics.set_filename(filename)
+        metrics_thrid.set_filename(filename)
         try:
-            data["system"] = read_text("prompts/system_prompt1.txt")
-            data["user"] = read_text(f'{PATH}txt/replaced/{filename}')
-            ground_truth = read_text(f'{PATH}txt/masked/{filename}')
-            # First iteration
-            text_generated = context.generate_response(data)
-            # Second iteration
-            data["system"] = read_text("prompts/system_prompt2_beta.txt")
-            data["user"] = text_generated
-            context = LLMContext(llm)
-            dictionary = context.generate_response(data)
-            #dictionary = json.load(dictionary)
-            text_generated = post_processing_replace_text(text_generated, dictionary)
-            print(text_generated)
-            #metrics.calculate(ground_truth, text_generated)
-            #metrics.store_metrics()
-            #store_text(text_generated, filename, name_model)
+            metrics, text_generated = first_iteration(metrics, filename, context, name_model)
+            dictionary = second_iteration(metrics, text_generated, data, name_model, filename)
+            metrics_thrid = third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename)
             counter += 1
             if counter >= 100:
                 break

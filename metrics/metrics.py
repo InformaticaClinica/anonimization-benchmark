@@ -184,11 +184,16 @@ class Metrics:
     def calculate_overall(self):
         self._metrics_data["overall"] = self._metrics_data["precision"] + self._metrics_data["recall"] +  self._metrics_data["f1"] + self._metrics_data["cosine_sim"] + self._metrics_data["inv_levenshtein"]
 
-    def calculate(self, ground_truth, generated):
-        self.evaluate(ground_truth, generated)
-        self.get_cos_sim(ground_truth, generated)
-        self.levenshtein_distance(ground_truth, generated)
-        self.calculate_inv_levenshtein()
+    def calculate(self, 
+                  ground_truth, 
+                  generated, 
+                  classification_bool = True, 
+                  cosine_sim_bool = True, 
+                  levenshtein_bool = True):
+        if classification_bool: self.evaluate(ground_truth, generated)
+        if cosine_sim_bool: self.get_cos_sim(ground_truth, generated)
+        if levenshtein_bool: self.levenshtein_distance(ground_truth, generated)
+        if levenshtein_bool: self.calculate_inv_levenshtein()
         self.calculate_overall()
         self.add_language()
 
