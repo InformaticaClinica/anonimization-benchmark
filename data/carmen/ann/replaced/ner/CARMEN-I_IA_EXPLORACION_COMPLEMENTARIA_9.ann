@@ -1,0 +1,86 @@
+T10	SINTOMA 116 139	Alteración del lenguaje
+T11	SINTOMA 173 186	ojos abiertos
+T12	SINTOMA 208 235	obedece 1/4 órdenes simples
+T13	SINTOMA 439 458	asimetrías faciales
+T14	SINTOMA 1557 1580	alteración del lenguaje
+T15	SINTOMA 2771 2777	afasia
+T16	SINTOMA 1 47	PCR SARS-COV-2 (Frotis nasofaringeo): POSITIVO
+T17	SINTOMA 48 75	HEMOCULTIVO 11/3: NEGATIVOS
+T18	SINTOMA 166 171	vigil
+T19	SINTOMA 188 206	Afasia mixta grave
+T20	SINTOMA 240 246	nomina
+T21	SINTOMA 250 256	repite
+T22	SINTOMA 258 305	emite palabras estereotipadas con contaminación
+T23	SINTOMA 315 349	Reflejo de amenaza derecho ausente
+T24	SINTOMA 358 388	desviación de la mirada tónica
+T25	SINTOMA 460 490	Balance motor sin alteraciones
+T26	SINTOMA 506 516	dismetrías
+T27	SINTOMA 932 944	PCR positiva
+T28	SINTOMA 1318 1328	normotensa
+T29	SINTOMA 1653 1672	hemianopsia derecha
+T30	SINTOMA 1757 1778	lesiones hemorrágicas
+T31	SINTOMA 1782 1800	signos de isquemia
+T32	SINTOMA 2580 2606	transformación hemorrágica
+T33	SINTOMA 2738 2760	paresia crural derecha
+T34	SINTOMA 1627 1648	afasia mixta moderada
+T35	SINTOMA 492 504	Sensibilidad
+T36	SINTOMA 530 542	negligencias
+T37	ENFERMEDAD 603 611	alergias
+T38	ENFERMEDAD 623 634	ex-fumadora
+T39	ENFERMEDAD 667 670	LES
+T40	ENFERMEDAD 697 737	síndrome antifosfolípido triple positivo
+T41	ENFERMEDAD 742 761	eventos trombóticos
+T42	ENFERMEDAD 869 899	neumonía bilateral por Covid19
+T43	ENFERMEDAD 1055 1079	enfermedades autoinmunes
+T44	ENFERMEDAD 1701 1706	ictus
+T45	ENFERMEDAD 1857 1960	oclusión distal/suboclusión distal en rama inferior M2 izquierda de la arteria cerebral media izquierda
+T46	ENFERMEDAD 2099 2104	ictus
+T47	ENFERMEDAD 2115 2130	oclusión distal
+T48	ENFERMEDAD 2408 2485	ICTUS ISQUÉMICO AGUDO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUIERDA
+T49	ENFERMEDAD 2497 2521	SÍNDROME ANTIFOSFOLÍPIDO
+T50	ENFERMEDAD 2794 2843	ictus isquémico agudo en el territorio de la ACMI
+T51	ENFERMEDAD 2876 2913	estado procoagulante secundario a SAF
+T52	ENFERMEDAD 2928 2965	infección concomitante por SARS-CoV-2
+T53	ENFERMEDAD 3079 3101	trombos intracardíacos
+T54	ENFERMEDAD 3365 3388	enfermedades sistémicas
+T55	FARMACO 803 806	AAS
+T56	PROCEDIMIENTO 972 990	plasma hiperinmune
+T57	FARMACO 993 1005	dexametasona
+T58	FARMACO 1024 1035	metotrexate
+T59	FARMACO 1038 1046	anakinra
+T60	FARMACO 1399 1402	AAS
+T61	FARMACO 2370 2385	heparina sódica
+T62	FARMACO 2650 2665	heparina sódica
+T63	FARMACO 3143 3158	heparina sódica
+T64	PROCEDIMIENTO 141 160	Exploración clínica
+T65	PROCEDIMIENTO 1081 1100	Analítica sanguínea
+T66	PROCEDIMIENTO 1302 1316	oxigenoterapia
+T67	PROCEDIMIENTO 1353 1370	HBPM profiláctica
+T68	PROCEDIMIENTO 1719 1735	TC craneal basal
+T69	PROCEDIMIENTO 1827 1835	angio-TC
+T70	PROCEDIMIENTO 2020 2045	tratamiento fibrinolítico
+T71	PROCEDIMIENTO 2070 2094	tratamiento endovascular
+T72	PROCEDIMIENTO 2191 2201	TC craneal
+T73	PROCEDIMIENTO 2339 2365	tratamiento anticoagulante
+T74	PROCEDIMIENTO 2542 2544	TC
+T75	PROCEDIMIENTO 3011 3022	RM cerebral
+T76	PROCEDIMIENTO 3025 3046	angio-RM intracraneal
+T77	PROCEDIMIENTO 3049 3063	ecocardiograma
+T78	PROCEDIMIENTO 3123 3138	anticoagulación
+T79	HUMANO 581 586	Mujer
+T80	HUMANO 847 853	adulto
+T81	HUMANO 1434 1442	paciente
+T82	PROCEDIMIENTO 1 37	PCR SARS-COV-2 (Frotis nasofaringeo)
+T83	SPECIES 5 15	SARS-COV-2
+T84	PROCEDIMIENTO 48 59	HEMOCULTIVO
+T85	ENFERMEDAD 823 853	enfermedad de Still del adulto
+T86	PROCEDIMIENTO 932 935	PCR
+T87	ENFERMEDAD 1010 1017	Covid19
+T88	SINTOMA 1166 1186	ferritina en ascenso
+T89	SINTOMA 1105 1125	dímero-d en descenso
+T90	SINTOMA 1272 1316	estable respiratoriamente con oxigenoterapia
+T91	FARMACO 1353 1357	HBPM
+T92	PROCEDIMIENTO 1694 1706	código ictus
+T93	FARMACO 2050 2054	rtpa
+T95	PROCEDIMIENTO 3298 3314	antiacoagulación
+T1	SPECIES 2955 2965	SARS-CoV-2

@@ -1,0 +1,3 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**]. No AMC. No hàbits tòxics. [**PROFESION**]. Viu amb [**FAMILIARES_SUJETO_ASISTENCIA**] i [**FAMILIARES_SUJETO_ASISTENCIA**] a domicili.
+ANTECEDENTS PATOLÒGICS:
+1. DISPLÀSIA ARRITMOGÉNICA DEL VENTRICLE DRET sense afectació de ventrícle esquerre. Debut en forma de presíncope amb TV que va requerir CVE i es portador de DAI com a prevenció secundaria. Tractament amb sotalol 40 mg/12h i seguiment a [**HOSPITAL**].

@@ -1,0 +1,12 @@
+
+prueba:
+TC TORAX
+
+clinica:
+COVID+
+
+conclusiones:
+informe duplicado
+
+descrip:
+TC TORAX

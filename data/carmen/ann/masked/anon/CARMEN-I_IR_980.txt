@@ -1,0 +1,23 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+paciente con infección por COVID-19 asintomática.
+cuadro de dolor abdominal desde el sábado; en hipocondrio y flanco derecho; se realizó tac de abdomen informado como sin signos de p atología aguda intraabdominal; sin embargo paciente persiste con dolor en hipocondrio derecho y murphy positivo a la exploración. Se solicita ecografia abdominal para revaloración.
+Abdomen agut
+
+protocolo:
+ECOGRAFIA ABDOMINAL (paciente con infección por Covid-19).
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica, con dos pequeños pólipos parietales de 4 mm. Vía biliar no dilatada.
+V. Porta permeable de calibre normal, hepatopetal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No hay líquido libre intra-abdominal
+
+descrip:
+ECO BASAL (ABDOMEN)

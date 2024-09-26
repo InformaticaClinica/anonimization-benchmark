@@ -1,0 +1,14 @@
+
+Prednisona 20mg dia hasta próxima analítica [**FECHAS**].
+Lopinavir/ritonavir 200/50mg cada 12h hasta [**FECHAS**] (inclusive).
+Hidroxicloroquina 200mg cada 12h hasta [**FECHAS**] (inclusive).
+Azitromicina 250mg cada 24h hasta [**FECHAS**] (inclusive).
+Magnesio 53mg cada 8h hasta [**FECHAS**] (inclusive).
+Doxazosina 4mg cada 12h indefinida.
+Amlodipino 2,5mg cada 12h si presión arterial con sistólica por encima de 150mmHG y diastólica 90 mmHg.
+Omeprazol 20mg cada 24h indefinida.
+UTR- TRASPLANTE RENAL: Tratamiento al alta
+1-Prednisona 20mg/dia
+2-NO ADMINISTRAR NI ADVAGRAF NI EVEROLIMUS
+3-Dia [**FECHAS**]: analitica con niveles de Tacrolimus / everolimus (dejo la petición en [**OTROS_SUJETO_ASISTENCIA**]). Llamar a UTR ([**NUMERO_IDENTIF**] para confirmar que debe hacer a continuación)
+ 

@@ -1,0 +1,21 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Varón de 53 años que ingresa por neumonía bilateral COVID19 en día +15 con persistencia de infiltrados pulmonares extensos e insuficiencia respiratoria leve. Interesa descartar patrón organizativo. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta diafragmas empleando técnica  de alta resolución.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Consolidaciones y vidrio deslustrado de distribución perilobular y peribroncovascular, con imágenes de halo reverso, compatible con neumoni aCOVID en fase de neumonia organizativa.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

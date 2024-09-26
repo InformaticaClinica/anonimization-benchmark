@@ -1,0 +1,34 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+COMENTADO TELEFÓNICAMENTE
+[**EDAD_SUJETO_ASISTENCIA**] sin AP a destacar.
+.
+Neumonía bilateral por COVID, exIOT hace 3 días, IR post exIOT con progresión de los infiltrados en RX.
+.
+Recibió esquema habitual + tocilizumab y corticoides a mg/Kg.
+.
+Eco pulmonar patrón intersticial inflamatorio bilateral sin imágenes de consolidación.
+.
+Interesa prueba de imagen para guiar conducta. Gracias.
+NEUMONIA COVID 19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Defecto de repleción compatible con un tromboembolismo pulmonar (TEP) agudo en una de las ramas subsegmentarias para el segmento basal posterior del lóbulo inferior derecho. No se observan otros TEP, dilatación del tronco común de la arteria pulmonar ni signos de sobrecarga cardíaca derecha.
+Catéter venoso central derecho con extremo distal en la aurícula derecha. Adenopatía subcarinal y en el hilio pulmonar derecho (13 mm), de aspecto reactivo. No se observan otros ganglios axilares ni mediastínicos de tamaño valorable. No se observa derrame pericárdico.
+Extensas áreas con patrón en "crazy paving" (vidrio deslustrado+ engrosamientos septales) con distribución bilateral, difusa y con cierto gradiente anteroposterior, que en las bases pulmonares tienden a la consolidación con dilataciones bronquiales en su interior. También existe un leve derrame pleural bilateral. Globalmente los hallazgos son compatibles con una infección pulmonar por COVID-19 con probable componente de neumonía organizativa. Por la disposición de los hallazgos también se debería valorar la posibilidad de un distrés respiratorio asociado.
+
+conclusiones:
+TEP subsegmentario en la base pulmonar derecha, sin signos de sobrecarga cardíaca derecha.
+Infección pulmonar por COVID-19, con probable neumonía organizativa asociada. Los hallazgos no permiten descartar cierto componente de distrés respiratorio asociado.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TORAX

@@ -1,0 +1,24 @@
+T4	HUMANO 26 54	[**SEXO_SUJETO_ASISTENCIA**]
+T5	HUMANO 188 203	[**PROFESION**]
+T6	ENFERMEDAD 99 122	alergias medicamentosas
+T8	ENFERMEDAD 350 356	tabaco
+T9	ENFERMEDAD 358 366	enolismo
+T10	ENFERMEDAD 408 411	HTA
+T11	ENFERMEDAD 416 424	diabetes
+T12	ENFERMEDAD 428 438	dislipemia
+T13	ENFERMEDAD 443 472	enfermedades cardiovasculares
+T14	ENFERMEDAD 512 527	bronquiectasias
+T15	ENFERMEDAD 588 623	bronquiectasias cilíndricas difusas
+T16	ENFERMEDAD 713 725	atelectasias
+T17	ENFERMEDAD 862 877	Hernia de hiato
+T18	FARMACO 920 926	Foster
+T19	FARMACO 942 948	aerius
+T20	FARMACO 971 980	singulair
+T21	PROCEDIMIENTO 582 586	TCAR
+T22	PROCEDIMIENTO 777 782	prono
+T23	PROCEDIMIENTO 787 790	PFR
+T25	SINTOMA 540 560	broncorrea purulenta
+T26	SINTOMA 632 699	opacidades en vidriodeslustrado en segmentos posterobasales de LLII
+T27	ENFERMEDAD 882 898	Prolapso uterino
+T1	SINTOMA 252 272	contacto con amianto
+T2	SINTOMA 276 325	exposición laboral/ambiental a tóxicos pulmonares

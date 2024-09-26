@@ -1,0 +1,86 @@
+T3	SPECIES 669 690	virus de Epstein-Barr
+T4	HUMANO 875 883	paciente
+T5	SPECIES 1058 1061	EBV
+T6	SPECIES 1255 1268	micobacterias
+T7	SPECIES 2761 2776	microorganismos
+T8	SPECIES 3942 3961	virus herpes I y II
+T9	SPECIES 3963 3978	citomegalovirus
+T10	SPECIES 3980 3994	parvovirus B19
+T11	SPECIES 3996 3999	VIH
+T12	SPECIES 4007 4017	toxoplasma
+T13	SPECIES 4048 4070	virus del Epstein Barr
+T14	SPECIES 4094 4106	poliomavirus
+T15	SPECIES 4108 4112	SV40
+T16	HUMANO 4582 4591	pacientes
+T17	SPECIES 5274 5287	micobacterias
+T18	SPECIES 5289 5300	T. whipplei
+T19	SPECIES 5303 5313	toxoplasma
+T20	SPECIES 5766 5778	poliomavirus
+T21	SPECIES 5780 5784	SV40
+T22	SPECIES 6204 6211	víricas
+T23	SINTOMA 2382 2412	nucleolos aumentados de tamaño
+T24	SINTOMA 2955 2998	gliosis difusa moderada de aspecto reactivo
+T25	SINTOMA 3481 3529	infiltrados inflamatorios en la sustancia blanca
+T26	SINTOMA 4526 4542	reordenamiento B
+T27	SINTOMA 5474 5504	nucleolos aumentados de tamaño
+T28	PROCEDIMIENTO 1312 1327	BIÒPSIA ENCÈFAL
+T29	ENFERMEDAD 1656 1710	encefalitis de predominio linfocitario e histiocitario
+T30	ENFERMEDAD 2870 2886	desmielinización
+T31	ENFERMEDAD 4648 4660	neoplásico B
+T32	ENFERMEDAD 5069 5101	proceso neoplásico histiocitario
+T33	ENFERMEDAD 5833 5873	leucoencefalopatía multifocal progresiva
+T34	PROCEDIMIENTO 1 14	BIÒPSIA GLUTI
+T35	PROCEDIMIENTO 39 51	MICROSCOPICA
+T36	PROCEDIMIENTO 261 290	tinciones inmunohistoquímicas
+T37	PROCEDIMIENTO 848 855	biopsia
+T38	PROCEDIMIENTO 1502 1521	citometría de flujo
+T39	PROCEDIMIENTO 1586 1598	MICROSCOPICA
+T40	SINTOMA 2196 2216	gliosis astrocitaria
+T41	PROCEDIMIENTO 2793 2797	Gram
+T42	PROCEDIMIENTO 4596 4619	tratamiento corticoideo
+T43	SPECIES 692 696	EBER
+T44	ENFERMEDAD 6312 6328	ENCÉFALO, LESIÓN
+T45	PROCEDIMIENTO 6312 6338	ENCÉFALO, LESIÓN (BIOPSIA)
+T46	ENFERMEDAD 6342 6360	Meningoencefalitis
+T47	SINTOMA 6342 6414	Meningoencefalitis con marcado componente linfocitario T e histiocitario
+T48	SINTOMA 261 337	tinciones inmunohistoquímicas muestran una positividad difusa para CD5 y CD3
+T49	PROCEDIMIENTO 633 690	hibridación in situ para el RNA del virus de Epstein-Barr
+T50	SINTOMA 633 709	hibridación in situ para el RNA del virus de Epstein-Barr (EBER) es negativa
+T51	PROCEDIMIENTO 1104 1126	estudios de clonalidad
+T52	PROCEDIMIENTO 1248 1268	PCR de micobacterias
+T53	SINTOMA 1248 1283	PCR de micobacterias que no detecta
+T54	PROCEDIMIENTO 1470 1549	Se toma material en fresco para citometría de flujo y se realizan 5 extensiones
+T55	SINTOMA 1724 1761	abundantes infiltrados perivasculares
+T56	SINTOMA 1817 1838	histiocitos espumosos
+T57	SINTOMA 1997 2052	células inflamatorias infiltrantes intraparenquimatosas
+T58	SINTOMA 2327 2356	células de Creutzfeldt-Peters
+T59	SINTOMA 2417 2458	células de aspecto glial y/o linfocitario
+T60	SINTOMA 2560 2679	leptomeninges se observa un moderado a abundante infiltrado linfocitario, con restos de fibrina, fibrosis e histiocitos
+T61	PROCEDIMIENTO 2753 2756	PAS
+T62	SINTOMA 2709 2736	inclusiones citoplasmáticas
+T63	PROCEDIMIENTO 2799 2815	plata metenamina
+T64	PROCEDIMIENTO 2818 2832	Ziehl- Neelsen
+T65	PROCEDIMIENTO 2891 2906	luxol fast blue
+T66	PROCEDIMIENTO 2937 2941	GFAP
+T67	SINTOMA 3124 3157	componente histiocitario espumoso
+T68	SINTOMA 3174 3223	infiltrados perivasculares e intraparenquimatosos
+T69	SINTOMA 3272 3293	activación microglial
+T70	SINTOMA 3296 3328	histiocitos intraparenquimatosos
+T71	SINTOMA 3018 3044	infiltrados perivasculares
+T72	SINTOMA 3745 3815	infiltrado linfocitario T es el que también infiltra las leptomeninges
+T73	PROCEDIMIENTO 4023 4070	hibridación in situ para virus del Epstein Barr
+T74	PROCEDIMIENTO 3907 4017	tinciones inmunohistoquímicas para virus herpes I y II, citomegalovirus, parvovirus B19, VIH (P24), toxoplasma
+T75	SINTOMA 4324 4437	fragmentos de parénquima encefálico con un marcado infiltrado inflamatorio de predominio T así como histiocitario
+T76	SINTOMA 4467 4492	infiltrado linfocitario B
+T77	SINTOMA 4758 4799	células multinucleadas de aspecto morular
+T78	SINTOMA 4883 4917	abundante infiltrado histiocitario
+T79	PROCEDIMIENTO 5198 5201	PAS
+T80	SINTOMA 5213 5247	inclusiones claras citoplasmáticas
+T81	PROCEDIMIENTO 5255 5313	estudios de PCR de micobacterias, T. whipplei y toxoplasma
+T82	SINTOMA 5267 5337	PCR de micobacterias, T. whipplei y toxoplasma han resultado negativas
+T83	SINTOMA 5342 5349	gliosis
+T84	PROCEDIMIENTO 5741 5760	inmunohistoquímicas
+T85	ENFERMEDAD 5875 5878	LMP
+T86	SINTOMA 5727 5785	positividades inmunohistoquímicas para poliomavirus (SV40)
+T87	ENFERMEDAD 5951 5954	LMP
+T88	ENFERMEDAD 6028 6031	LMP

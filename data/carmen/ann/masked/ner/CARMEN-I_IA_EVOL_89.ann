@@ -1,0 +1,153 @@
+T17	SINTOMA 549 557	anorexia
+T18	SINTOMA 559 581	pérdida de 7kg de peso
+T19	SINTOMA 583 612	dolor abdominal post-prandial
+T20	SINTOMA 615 622	náuseas
+T21	SINTOMA 707 718	taquicardia
+T22	SINTOMA 757 808	abdomen aplastronado a nivel epigástrico y doloroso
+T23	SINTOMA 823 844	irritación peritoneal
+T24	SINTOMA 922 957	aumento de reactantes de fase aguda
+T25	SINTOMA 976 988	leucocitosis
+T26	SINTOMA 1132 1143	pico febril
+T27	SINTOMA 1505 1525	leve dolor abdominal
+T28	SINTOMA 3560 3566	fiebre
+T29	SINTOMA 3569 3606	elevación de reactantes de fase aguda
+T30	SINTOMA 4120 4125	dolor
+T31	SINTOMA 4127 4134	afebril
+T32	SINTOMA 4180 4193	sd. diarreico
+T33	SINTOMA 5238 5244	fiebre
+T34	ENFERMEDAD 6150 6202	exantema cutaneo en tronco y extremidades inferiores
+T35	SINTOMA 675 686	hipotensión
+T36	SINTOMA 691 704	TAM correctas
+T37	SINTOMA 854 889	paroxismos de fibrilación auricular
+T38	SINTOMA 1014 1026	hiponatremia
+T39	SINTOMA 1032 1054	función renal correcta
+T40	SINTOMA 1068 1089	plaquetas y TP normal
+T41	SINTOMA 1201 1212	taquicardia
+T42	SINTOMA 1241 1257	tensiones justas
+T43	SINTOMA 1578 1602	función renal conservada
+T44	SINTOMA 1652 1675	colecciones organizadas
+T45	SINTOMA 1759 1803	nivel epigástrico se encuentra una colección
+T46	SINTOMA 1992 2032	colección presente en FID/flanco derecho
+T47	SINTOMA 2718 2753	estenosis de todo el marco dudoenal
+T48	SINTOMA 2856 2874	retención gástrica
+T49	SINTOMA 3002 3025	colección en flanco/FID
+T50	SINTOMA 3121 3149	colecciones peripancreáticas
+T51	SINTOMA 3980 3991	colecciones
+T52	ENFERMEDAD 4450 4474	colecciones pancreáticas
+T53	SINTOMA 4575 4586	FC correcta
+T54	SINTOMA 5256 5289	PCR de covid que resulta positiva
+T55	SINTOMA 5324 5344	clíncia respiratoria
+T56	SINTOMA 5465 5493	vidrio deslustrado bilateral
+T57	SINTOMA 5588 5600	asintomático
+T58	SINTOMA 5880 5892	asintomático
+T59	SINTOMA 6207 6218	pruriginoso
+T60	SINTOMA 6453 6465	asintomático
+T61	ENFERMEDAD 1428 1439	hipotensión
+T62	SINTOMA 3200 3251	cultivo de la colección, donde se aisla citrobacter
+T63	SINTOMA 6045 6083	frotis covid [**FECHAS**] aún positivo
+T64	PROCEDIMIENTO 352 375	tratamiento antibiótico
+T65	PROCEDIMIENTO 846 849	ECG
+T66	PROCEDIMIENTO 1268 1280	sueroterapia
+T67	PROCEDIMIENTO 1386 1398	TC abdominal
+T68	PROCEDIMIENTO 1561 1575	oxigenoterapia
+T69	PROCEDIMIENTO 1616 1628	TC abdominal
+T70	PROCEDIMIENTO 2298 2316	drenaje quirúrgico
+T71	PROCEDIMIENTO 2392 2406	eco-endoscopia
+T72	PROCEDIMIENTO 2420 2441	drenaje transgástrico
+T73	PROCEDIMIENTO 2446 2474	colocación de prótesis áxios
+T74	PROCEDIMIENTO 2901 2948	se coloca sonda nasoyeyunal por vía endoscópica
+T75	PROCEDIMIENTO 2977 3043	drenaje percutáneo de la colección en flanco/FID mediante pig-tail
+T76	PROCEDIMIENTO 3284 3304	pauta antimicrobiana
+T77	PROCEDIMIENTO 3328 3345	nutrición enteral
+T78	PROCEDIMIENTO 3409 3429	nutrición parenteral
+T79	PROCEDIMIENTO 3479 3502	tratamiento antibiótico
+T80	PROCEDIMIENTO 3922 3936	TC abdominales
+T81	PROCEDIMIENTO 4001 4039	se retira drenaje abdominal percutàneo
+T82	PROCEDIMIENTO 4876 4891	anticoagulación
+T83	PROCEDIMIENTO 4913 4926	cardioversión
+T84	PROCEDIMIENTO 5056 5071	anticoagulación
+T85	PROCEDIMIENTO 5140 5166	tratamiento anticoagulante
+T86	PROCEDIMIENTO 5427 5429	TC
+T87	PROCEDIMIENTO 5756 5767	corticoides
+T88	PROCEDIMIENTO 6338 6361	tratamiento antibiótico
+T89	PROCEDIMIENTO 933 957	reactantes de fase aguda
+T90	PROCEDIMIENTO 1165 1178	se pancultiva
+T91	PROCEDIMIENTO 1366 1380	monitorización
+T92	PROCEDIMIENTO 2157 2178	cobertura antibiótica
+T93	PROCEDIMIENTO 2500 2511	exploración
+T94	PROCEDIMIENTO 3106 3149	drenaje de las colecciones peripancreáticas
+T95	PROCEDIMIENTO 3608 3620	Se recultiva
+T96	PROCEDIMIENTO 3724 3732	cultivos
+T97	PROCEDIMIENTO 4639 4664	optimización de la anemia
+T98	PROCEDIMIENTO 5256 5268	PCR de covid
+T99	PROCEDIMIENTO 5359 5376	suplementos de O2
+T100	PROCEDIMIENTO 5676 5713	antibioticoteràpia de amplio espectro
+T101	PROCEDIMIENTO 5859 5870	aislamiento
+T102	PROCEDIMIENTO 6045 6057	frotis covid
+T103	PROCEDIMIENTO 6399 6418	tratamiento tópico,
+T104	PROCEDIMIENTO 1302 1307	FAMIS
+T105	PROCEDIMIENTO 1578 1591	función renal
+T106	PROCEDIMIENTO 2656 2678	abordaje transgástrico
+T107	PROCEDIMIENTO 3582 3606	reactantes de fase aguda
+T108	PROCEDIMIENTO 6025 6036	aislamiento
+T109	ENFERMEDAD 4 36	PANCREATITIS AGUDA NECTROTIZANTE
+T110	ENFERMEDAD 74 97	SEPSIS ORIGEN ABDOMINAL
+T111	ENFERMEDAD 183 197	FA paroxística
+T112	ENFERMEDAD 266 303	pancreatitis aguda necrotizante grave
+T113	ENFERMEDAD 447 488	infecciones por gérmenes multiresistentes
+T114	ENFERMEDAD 1929 1943	sobreinfectada
+T115	ENFERMEDAD 2119 2145	sepsis de origen abdominal
+T116	ENFERMEDAD 2557 2577	necrosis pancreática
+T117	ENFERMEDAD 4295 4328	FIBRILACIÓN AURICULAR PAROXÍSTICA
+T118	ENFERMEDAD 4345 4366	fibrilación auricular
+T119	ENFERMEDAD 4591 4622	ANEMIA POR PROCESO INFLAMATORIO
+T120	ENFERMEDAD 4996 5002	anemia
+T121	ENFERMEDAD 5199 5222	INFECCIÓN POR SARS-COV2
+T122	ENFERMEDAD 5458 5463	covid
+T123	ENFERMEDAD 5534 5555	neumonía organizativa
+T124	ENFERMEDAD 5659 5671	pancreatitis
+T125	ENFERMEDAD 5802 5819	infección fúngica
+T127	ENFERMEDAD 6298 6323	toxicodermia probablement
+T128	FARMACO 207 217	amiodarona
+T129	FARMACO 220 228	apixabán
+T130	FARMACO 377 386	meropenem
+T131	FARMACO 388 399	ceftriaxona
+T132	FARMACO 402 412	fluconazol
+T133	FARMACO 1224 1234	amiodarona
+T134	FARMACO 2181 2206	piperacil·lina/tazobactam
+T135	FARMACO 2209 2223	ciprofloxacino
+T136	FARMACO 3635 3644	meropenem
+T137	FARMACO 3647 3657	fluconazol
+T138	FARMACO 3766 3780	ciprofloxacino
+T139	FARMACO 4378 4386	apixaban
+T140	FARMACO 4497 4507	amiodarona
+T141	FARMACO 4520 4528	digoxina
+T142	FARMACO 6378 6387	meropenem
+T143	PROCEDIMIENTO 4164 4174	dieta oral
+T144	HUMANO 123 131	Paciente
+T145	HUMANO 2325 2333	paciente
+T146	HUMANO 3532 3540	paciente
+T147	HUMANO 4934 4942	paciente
+T148	HUMANO 5569 5577	paciente
+T149	HUMANO 5824 5832	paciente
+T150	HUMANO 5937 5939	Dr
+T151	ENFERMEDAD 41 69	COLECCIONES PERIPANCREÁTICAS
+T152	ENFERMEDAD 99 121	COLECCIONES INFECTADAS
+T153	SPECIES 463 488	gérmenes multiresistentes
+T154	SPECIES 3240 3251	citrobacter
+T155	PROCEDIMIENTO 3185 3223	gram urgente y cultivo de la colección
+T156	ENFERMEDAD 3837 3859	colecciones infectadas
+T157	PROCEDIMIENTO 3863 3871	drenadas
+T158	PROCEDIMIENTO 4069 4076	dreanje
+T159	PROCEDIMIENTO 4239 4244	Kreon
+T160	ENFERMEDAD 4658 4664	anemia
+T161	FARMACO 4796 4802	hierro
+T162	FARMACO 4805 4808	EPO
+T163	SPECIES 5213 5222	SARS-COV2
+T164	ENFERMEDAD 6052 6057	covid
+T165	ENFERMEDAD 6097 6123	TOXICODERMIA MEDICAMENTOSA
+T166	HUMANO 6567 6569	dr
+T167	SINTOMA 6491 6510	estabilidad clínica
+T168	PROCEDIMIENTO 5404 5415	radiológico
+T1	ENFERMEDAD 5263 5268	covid
+T2	SINTOMA 5350 5376	requerir suplementos de O2

@@ -1,0 +1,10 @@
+ ANTECEDENTES PERSONALES: mujer de [**EDAD_SUJETO_ASISTENCIA**] de edad sin alergias medicamentosas conocidas. Independiente para las actividades de la vida diaria, personal de enfermería de profesión. Divorciada. Vive sola. No refiere contacto con amianto ni exposición laboral/ambiental a tóxicos pulmonares.
+HABITOS TÓXICOS: niega tabaco, enolismo u otros.
+ANTECEDENTES PATOLÓGICOS:
+1. No HTA, no diabetes ni dislipemia. No enfermedades cardiovasculares conocidas.
+2. Seguimiento por NEUM por bronquiectasias. Clínica de broncorrea purulenta desde hace 6 años.
+**TCAR: bronquiectasias cilíndricas difusas+ ténues opacidades en vidriodeslustrado en segmentos posterobasales de LLII sugestivo de atelectasias atribuidas a decúbito supino, no se ha valorado en prono.
+** PFR I [**VALOR_PFR_I**], FEV1 [**VALOR_FEV1**] (post BD: +16%), FVC 100%, TLC 96%, DLCO80%, KCO 90%
+3. Hernia de hiato.
+4. Prolapso uterino
+MEDICACIÓN HABITUAL: [**MEDICACION_HABITUAL**]

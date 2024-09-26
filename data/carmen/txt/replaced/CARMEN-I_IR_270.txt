@@ -1,0 +1,21 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+Elevación de BT en paciente ingresado por COVID . Solicito ECO abdominal.
+COVID-19
+
+protocolo:
+Ecografía abdominal PORTÁTIL urgente.
+
+conclusiones:
+Exploración muy limitada por condiciones del paciente.
+Hígado de tamaño normal y ecoestructura homogénea, de bordes lisos. No se observan lesiones focales evidentes.
+Se observa una gran imagen quística de situación subhepática, con nivel hidro-hidro hiperecogénico, no quedando clara su dependencia. Se recomienda TC abdominopélvica para correcta caracterización.
+Vesícula biliar de paredes finas, litiásica.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal, con flujo hepatopetal.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No se aprecia líquido libre intraabdominal.

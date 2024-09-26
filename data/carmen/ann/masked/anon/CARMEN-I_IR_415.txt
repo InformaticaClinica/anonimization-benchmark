@@ -1,0 +1,36 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient amb antecedent de cirrosi per OH en llista d'espera per transplantament hepàtic. Ingressat acutalment per COVID amb mala evolució respiratòria i PBE nosocomial amb descompensació hepàtica molt significativa i mala evolució a nivell infecciós malgrat cobertura antibiòtica d'ampli espectre. Avui traslladarem a UCI. Interessa TC toràcic per descartar TEP donada la mala evolució respiratòria del COVID així com abdominal per descartar secundarismes en context de la mala evolució de la PBE previ al trasllat a la UCI. Moltes gràcies!
+
+protocolo:
+ANGIO-TC PULMONAR + TC ABDOMINAL (fase portal)
+
+resultados:
+ANGIO-TC TORAX
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro aumentado (31 mm), sin signos de sobrecarga ventricular derecha. No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Calcificaciones ateromatosas coronarias (topografía de DA y Cx). No se observa derrame pericardico.
+Afectación parenquimatosa bilateral y de distribución subpleural por áreas de vidrio deslustrado asociadas a engrosamiento de septos interlobulillares conformando un patrón en "empedrado". Los hallazgos son coherentes con una neumonía vírica por COVID-19 de extensión leve SIN signos organizativos.
+Asímismo destaca la ocupación mucosa del bronquio intermediario distal y bronquios lobares inferior y medio así como segmentarios más distales que condicionan la atelectasia de prácticamente todo el lóbulo inferior derecho y subtotal (un 50%) del lóbulo medio. Las zonas atelectasicas son normocaptantes. Todo ello condiciona una pérdida de volumen de pulmón derecho. Atelectasias subsegmentarias en lóbulo inferior izquierdo probablemente por hipoeventilación y lámina de derrame pleural izquierdo.
+TC ABDOMINAL
+Hígado con estigmas de hepatopatía crónica avanzada (atrófia de segmentos anteriores de LHD, hipertrófia del caudado y contornos nodulares). Área de hipodensidad subcapsular en s. VII-VIII de unos 2 cm, correspondiente al CHC tratado con TACE, sin signos de actividad evidente (aunque no se trata de un estudio dirigido para evaluarlo). No se observan otras lesiones focales evidentes. Vesícula biliar colapsada con abundantes litiasis en su interior. No se observa dilatación de la vía biliar.
+Cavernomatosis portal tanto en porta hiliar como en ramas portales intrahepáticas. Neoporta (vaso dominante) de unos 8 mm de diámetro. TIPS normoposicionado y permeable. Trombosis residual a nivel de confluente espleno-mesentérico, en vena mesentérica superior proximal y en vena esplénica. A nivel de la v. esplenica ocupa un 50% aprox. de la luz. En el resto de vasos mencionados previamente la ocupación es laminar <25%.
+Todo ello en grado similar al estudio previo.
+Circulación venosa colateral peripancreatica, mesentérica, perigástrica y en área espleno-renal con presencia de shunt esplenorrenal de gran calibre (hasta 2.3 cm).
+Esplenomegalia homogénea de 20 cm. Material de embolización en polo inferior esplénico. Bazo accesorio adyacente. Páncreas, glándulas suprarrenales y riñones sin alteraciones. No se observa dilatación de la vía excretora. Vejiga urinaria colapsada con balón de sonda en su interior. Asas de intestino delgado sin alteraciones relevantes.
+Colopatía portal en sigma y colon descendente. No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Abundante asicitis difusa por los 4 cuadrantes. Engrosamiento de las hojas peritoneales, sobretodo a nivel pélvico, hallazgo coherente en el contexto de peritonitis. No se observan colecciones. Heria umbilical e inguinales bilaterales. Tanto la umbilical como la inguinal izquierda presentan liquido en su interior.
+
+conclusiones:
+- No se observa TEP.
+- Neumonía vírica por COVID-19 de extensión leve sin signos organizativos.
+- Ocupación mucosa del bronquio intermediario distal y bronquios lobares inferior y medio que condicionan la atelectasia de prácticamente todo el LID y subtotal del LM. las zonas atelectasicas son normocaptantes.
+- Hepatopatía crónica con hipertensión portal. Cavernomatosis portal y trombosis conocida en confluente espleno-mesentérico, VMS y vena esplénica. Abundante circulacion venosa colateral. TIPS permeable.
+- Abundante asicitis difusa. Engrosamiento de las hojas peritoneales coherente en el contexto de peritonitis.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

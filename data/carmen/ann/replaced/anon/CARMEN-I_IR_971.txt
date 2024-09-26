@@ -1,0 +1,20 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con infiltrado extenso estable tras triple terapia, Toci y Cortis en bolus. Día +16. Valorar NOC. Gracias.
+COVID-19
+
+protocolo:
+TC TORAX URGENTE realizado en condiciones basales
+
+conclusiones:
+Ateromatosis calcificada aórtica y de arterias coronarias.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías mediastínicas ni axilares.
+Reticulación subpeural y distorsión parenquimatosa de de predominio izquierdo y en base derecha, asociado a dilataciones bronquiales por tracción. Hallazgos en probable relación a afectación pulmonar por COVID-19 con signos de fibrosis asociados en probable relación a evolución de la enfermedad (se revisan Rx previas).
+Secciones abdominales incluidas en el estudio sin alteraciones valorables.
+
+descrip:
+TC TORAX

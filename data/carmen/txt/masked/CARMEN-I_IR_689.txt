@@ -1,0 +1,20 @@
+
+prueba:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO
+
+clinica:
+Trasplante hepático del [**FECHAS**] imteresa control ecográfico Gracias
+CIRROSIS HEPATICA OH.
+
+protocolo:
+Ecografía doppler abdominal
+
+conclusiones:
+Hígado trasplantado de tamaño normal con ecoestructura homogénea, sin lesiones focales. Vía biliar no dilatada.
+Arteria hepática permeable con morfología de onda normal e IR arteriales: 0,64 (Hilio), 0,65(LHD) y 0.73 (LHI).
+Vena porta permeable de calibre normal y flujo hepatopetal (VM = 32-44 cm/s). Venas suprahepáticas permeables.
+Discreta cantidad de líquido libre intraabdominal perihepático, de aspecto pseudocoleccionado en la región hiliar.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+
+descrip:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO

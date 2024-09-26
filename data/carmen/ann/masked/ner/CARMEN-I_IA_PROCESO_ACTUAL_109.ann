@@ -1,0 +1,15 @@
+T5	PROCEDIMIENTO 279 290	Rx de tórax
+T6	SINTOMA 70 86	febricula diaria
+T7	SINTOMA 95 101	febril
+T8	SINTOMA 104 134	dolor osteomuscular generalizo
+T9	SINTOMA 162 169	anosmia
+T10	SINTOMA 598 617	estabilidad clínica
+T11	ENFERMEDAD 441 459	neumonia por COVID
+T12	ENFERMEDAD 245 250	COVID
+T13	HUMANO 4 12	paciente
+T14	HUMANO 203 237	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T15	HUMANO 674 682	paciente
+T16	SINTOMA 296 317	Opacidades alveolares
+T17	SINTOMA 375 420	Engrosamientos difusos de paredes bronquiales
+T18	PROCEDIMIENTO 486 495	analítica
+T1	SINTOMA 245 251	COVID+

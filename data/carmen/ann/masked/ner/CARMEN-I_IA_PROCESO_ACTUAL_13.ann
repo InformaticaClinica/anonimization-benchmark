@@ -1,0 +1,16 @@
+T1	SINTOMA 60 102	dolor centrotorácico opresivo no irradiado
+T2	SINTOMA 249 255	disnea
+T3	SINTOMA 257 270	palpitaciones
+T4	SINTOMA 272 282	diaforesis
+T5	SINTOMA 285 300	dolor abdominal
+T6	SINTOMA 326 340	dolor torácico
+T7	SINTOMA 395 400	dolor
+T8	SINTOMA 505 513	ortopnea
+T9	SINTOMA 515 540	claudicación intermitente
+T10	SINTOMA 542 548	fiebre
+T11	SINTOMA 550 553	tos
+T12	SINTOMA 575 582	vómitos
+T13	SINTOMA 584 617	alteración del ritmo deposicional
+T14	SINTOMA 555 573	síndrome miccional
+T15	HUMANO 1 9	Paciente
+T16	HUMANO 371 379	paciente

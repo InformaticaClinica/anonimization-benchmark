@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPITA COVID 19
+
+protocolo:
+RX TÓRAX PORTATIL
+
+resultados:
+EVOLUCION
+Extensión:
+- Estabilidad
+Consolidación:
+- Estabilidad
+Aparición de fibrosis:
+- No
+
+conclusiones:
+Afectación pulmonar por COVID que muestra estabilidad respecto a Rx previa (leves opacidades basales periféricos bilaterales).
+
+descrip:
+RX  PORTATIL  TORAX

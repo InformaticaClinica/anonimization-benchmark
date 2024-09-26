@@ -1,0 +1,14 @@
+T5	PROCEDIMIENTO 11 20	TAC TÓRAX
+T6	PROCEDIMIENTO 341 349	RX TORAX
+T7	PROCEDIMIENTO 443 451	RX TORAX
+T8	PROCEDIMIENTO 376 384	RX TORAX
+T9	ENFERMEDAD 118 143	derrame pleural bilateral
+T10	ENFERMEDAD 145 179	Aterosclerosis aortica y coronaria
+T11	SINTOMA 397 418	Infiltrados bibasales
+T12	SINTOMA 464 487	Infiltrados bilaterales
+T13	ENFERMEDAD 50 87	adenopatías mediastínicas ni axilares
+T14	ENFERMEDAD 318 339	neumonia organizativa
+T15	PROCEDIMIENTO 541 553	radiografías
+T16	SINTOMA 191 218	consolidaciones bilaterales
+T17	SINTOMA 364 375	infiltrados
+T18	SINTOMA 498 517	aumento de densidad

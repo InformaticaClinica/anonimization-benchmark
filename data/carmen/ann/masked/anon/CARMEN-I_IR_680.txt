@@ -1,0 +1,21 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] sin antecedentes en día 12 de síntomatología por neumonía COVID que persiste con fiebre, elevación de reactantes de fase aguda y requerimiento de oxigenoterapia. Agradecería descartar neumonía organizativa asociada, muchas gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Múltiples adenopatías mediastínicas de 12 mm de diámetro corto máximo a nivel subcatinal. de aspecto recativo.
+No se observa derrame pleural ni pericárdico.
+Bandas consolidativas subpleurales en LLII y focos parcheados en vidrio deslustrado compatible con neumonia COVID con mínimos cambios organizativos.
+
+conclusiones:
+Neumonia COVID con mínimos cambios organizativos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

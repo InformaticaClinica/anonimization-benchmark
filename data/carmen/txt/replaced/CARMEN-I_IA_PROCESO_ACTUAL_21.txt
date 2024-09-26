@@ -1,0 +1,8 @@
+
+Acude por cuadro clínico se inició el día 20 de noviembre de 2027, presentando el paciente fiebre de 38ºC controlado parcialmente con paracetamol asociado a tos seca con expectoración ocasional y malestar general.
+El día 24/11 acudió a UCIAs valorando que estaba eupneico, SpO2 97% basal, destaca crepitantes de predominio en base pulmonar derecha con Rx tórax revisada por radiólogo informada como normal, sin embargo se aprecia leve infiltrado intersticial bilateral, A/S con PCR 10mg/dL, función renal preservada, leve aumento de GGT con resto de función hepática normal, hemograma sin leucocitosis, con linfopenia de 500. D dimero 400, dada la estabilidad clínica se dió alta hospitalaria con tratamiento sintomático con paracetamol, codeína y salbutamol.
+Acude al CAP nuevamente por fiebre persistente de 39.9ºC y empeoramiento de la sensación disneica de esfuerzo hasta hacerse de reposo, se realiza Rx de tórax en el CAP que muestra infiltrados bilaterales e infiltrado posterior en Rx lateral.
+A su llegada a UCIAs, Sat 93% basal, FR 22 rpm. GSA (basal) pO2 67, pCO2 28, pH 7.5, Sat 94%. Analítica: PCR 20mg/dL (prev el jueves 11), LDH 367 U/L (180), Ferritina 810 ng/dL, PCT 0.33 ng/dL, Leucos 7700, Linfos 500, DD 900.
+Se orienta como neumonía bilateral por SARS-CoV-2 en paciente con hipoxemia grave con spO2 93% basal e intensa disnea que mejora con VK con FiO2 24%, mejorando la spO2 a 96%. Se cursa gasometría arterial con hipoxemia severa y alcalemia por alcalosis respiratoria (pH de 7.5, PaCO2 28 mmHg, pO2 67.8 mmHg, HCO3 22.1 mmol/L, satO2 94.7%)
+Ingresa en sala de infecciones para tratamiento.
+ 

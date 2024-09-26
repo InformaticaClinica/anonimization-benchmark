@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Hombre de 41 a sin AP. Ingresado por insuficiencia respiratoria por neumonia bilat por COVID-19. Soporte respiratorio con IOT+VM y ECMO.
+Evolución tórpida dependiente 100% del soporte con membrana. Rogamos TC de tórax, gracias-
+3. SOBREINFECCIÓN BACTERIANA
+
+protocolo:
+Se realiza estudio angio-TC pulmonar y mapa de iodo mediante energía dual.
+
+resultados:
+Discreto derrame pleural derecho.
+Severa neumonia COVID con vidrio delsutrado, empedrado y consolidación que afecta gran parte del parenquima pulmonar,
+Consolidaciones y pérdida de volumen de ambos LLII. Se observa hipocatación del aprenquima pulmonar de segmnentos posterolateral D y parte del psoetraolateral con ausencia de visualización de sus ramas segmnetarias arteriales compatible con infarto pulmonar.
+
+conclusiones:
+Severa neumonia COVID con  distress. Infarto pulmonar en LID.
+
+descrip:
+TC TORAX

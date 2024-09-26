@@ -1,0 +1,18 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Infecció per coronavirus no especificada
+
+resultados:
+EEII:
+Venas femoral común, superficial y profunda, poplítea, peroneas y tibiales posteriores compresibles, permeables, sin signos eco - Doppler de TVP.
+No se observan imágenes de trombosis superficial.
+Venas musculares de la pantorrilla permeables.
+
+conclusiones:
+Sin evidencia de trombosis.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

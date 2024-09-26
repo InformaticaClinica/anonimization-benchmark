@@ -1,0 +1,11 @@
+EVOLUCIÓN EN SALA [**NUMERO_IDENTIF**] INFECCIONES:
+1. NEUMONÍA BILATERAL POR SARS-CoV-2
+2. ALCALOSIS RESPIRATORIA HIPOXÉMICA
+3. SÍNDROME DIARREICO AGUDO en posible relación con infección por SARS- COV2
+Fecha de inicio de los síntomas: [**FECHAS**]
+Fecha de ingreso: [**FECHAS**]
+Fecha de frotis positivo: [**FECHAS**] ([**CENTRO_SALUD**]) Fecha de inicio tratamiento: [**FECHAS**]
+Tipo de Tratamiento:
+[**FECHAS**]: Remdesivir
+Durante el ingreso al persistir con requerimiento de oxígeno se decide iniciar tratamiento específico con Remdesivir que completa con buena evolución clínica y estabilidad radiológica, pudiéndose suspender oxigenoterapia 72 horas antes del alta hospitalaria.
+Se recomiendan medidas de aislamiento en domicilio (se entrega hoja informativa) y realizar controles con médico de cabecera.

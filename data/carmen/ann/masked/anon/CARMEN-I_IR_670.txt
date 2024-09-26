@@ -1,0 +1,42 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente con covid crítico y sepsis de nueva aparición. Sospecha de foco abdominal con TC que muestra vesícula distendiadd con líquido perivesicular. Gracias!
+DISNEA CON FIEBRE
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio AngioTC de arteria pulmonar + TC de abdomen en fase arterial y portal URGENTE
+
+resultados:
+Se compara con TC previo dle [**FECHAS**].
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal (28 mm), sin claros signos de sobrecarga ventricular derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado bilaterales y difusas de distribución periférica con tendencia a la confluencia focalmente conformando consolidaciones de tamaño variable, todo esto en relación a neumonía por COVID-19 que ha aumentado su extensión respecto a TC previo. Se observa aparición de bandas subpleurales respecto a TC previo, sugestivo de cambios organizativos incipientes. Consolidación en el s. apical del LII y en menor medida en base izquierda, actualmente con ocupaciones bronquiales, sugestiva de atelecasia obstructiva.
+Tubo de traqueostomía con extremo distal a 6 cm de la carina. Vía venosa central yugular derecha con extremo distal en unión cavoatrial. SNG con extremo distal en fundus gástrico.
+TC de Abdomen:
+Hígado de tamaño normal. No se observan lesiones focales.
+Eje porto- espleno-mesentérico permeable.
+No se observa dilatación de la vía biliar. Vesícula distendida, de paredesfinas, con dudosa trabeculación de la grasa adyacente, sin cambios respecto a TC de tórax previo reciente. Ante los hallazgos descritos, se decide completar estudio con ecografía dirigida, observandose vesícula distendida, no hidrópica, con abundante barro biliar en su interior, sin litiasis, sin líquido perivesicular. Los hallazgos descritos no sugieren colecistitis aguda en el momento actual.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño normal, sin dilatación de la vía excretora. Lesión nodular con captación heterogénea de contraste y centro hipodenso, discretamente exofítico, de 22 mm en la valva anterior del tercio superior del riñón derecho, sugestiva de proceso neoplásico primario de riñón a este nivel. Quiste simple cortical izquierdo.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+No se observa líquido libre ni colecciones. Edema presacro.
+
+conclusiones:
+No se observan signos de TEP.
+Afectación parenquimatosa bilateral y difusa en relación a neumonía por COVID-19 que ha aumentado su extensión respecto a TC previo y con bandas supleurales de nueva aparición, probablemente en relación a cambios organizativos incipientes.
+Consolidación en el s. apical del LII y en menor medida en base izquierda, actualmente con ocupaciones bronquiales, sugestiva de atelecasia obstructiva.
+No se observa dilatación de la vía biliar. No se observan signos de colecistitis aguda en el momento actual.
+Hallazgos sugestivos de proceso neoplásico primario renal en la valva anterior del tercio superior del riñón derecho.
+
+descrip:
+ECO BASAL (ABDOMEN)
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORAX

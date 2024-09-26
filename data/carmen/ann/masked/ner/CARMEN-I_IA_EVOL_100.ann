@@ -1,0 +1,133 @@
+T8	SINTOMA 259 274	leve anisocoria
+T9	SINTOMA 289 303	midriasis leve
+T10	SINTOMA 1042 1047	mareo
+T11	SINTOMA 1052 1065	inestabilidad
+T12	SINTOMA 1185 1219	alteraciones electrocardiográficas
+T13	SINTOMA 1645 1652	confuso
+T14	SINTOMA 1654 1666	desorientado
+T15	SINTOMA 1695 1725	paresia braquial 0/5 izquierda
+T16	SINTOMA 1936 1989	Hiperreflexia de predominio en extremidades superiors
+T17	SINTOMA 2159 2184	hiperreflexia con hoffman
+T18	SINTOMA 2945 2958	hiperreflexia
+T19	SINTOMA 2961 2968	hoffman
+T20	SINTOMA 3574 3588	picos febriles
+T21	SINTOMA 3673 3679	fiebre
+T22	SINTOMA 3832 3867	PCR para SARS-COV2 resulta positiva
+T23	SINTOMA 3948 3954	fiebre
+T24	SINTOMA 5105 5134	orientado en las tres esferas
+T25	SINTOMA 97 114	CRISIS COMICIALES
+T26	SINTOMA 340 367	Reflejos tronco preservados
+T27	SINTOMA 518 532	ritsmo sinusal
+T28	SINTOMA 547 561	condensaciones
+T29	SINTOMA 996 1014	crisis epilépticas
+T30	SINTOMA 1109 1122	ECG es normal
+T31	SINTOMA 1361 1384	actividad epileptiforme
+T32	SINTOMA 1727 1772	paresia braquial derecha proximal 0/5, distal
+T33	SINTOMA 1778 1792	paresia crural
+T34	SINTOMA 1991 2005	Hoffman en ESI
+T35	SINTOMA 2007 2040	RCP extensor bilateral sin clonus
+T36	SINTOMA 2788 2805	signo de la tecla
+T37	SINTOMA 2901 2930	plejia de extremidad superior
+T38	SINTOMA 3014 3029	plejia braquial
+T39	SINTOMA 3516 3550	BAS se aisla S. aureus Oxasensible
+T40	SINTOMA 3958 3996	clínica respiratoria/digestiva/cutánea
+T41	SINTOMA 4011 4046	PCR al cabo de una semana (postiva)
+T42	SINTOMA 4261 4271	consciente
+T43	SINTOMA 4277 4299	orientación fluctuante
+T44	SINTOMA 4431 4458	cambios uncartrósicos C5-C7
+T45	SINTOMA 4599 4635	rotura del anillo posterior de L4-L5
+T46	SINTOMA 4646 4685	cambios degenerativos de columna lumbar
+T47	SINTOMA 4693 4769	EMG hay datos sugestivos de lesión preganglionar aguda a nivel de la raíz S1
+T48	SINTOMA 4894 4923	afectació de la vía piramidal
+T49	SINTOMA 5092 5102	consciente
+T50	SINTOMA 5145 5159	paresia en EID
+T51	SINTOMA 4377 4395	paresia 3/5 en EID
+T52	ENFERMEDAD 55 91	HEMORRAGIA SUBARACONOIDEA TRAUMÁTICA
+T53	ENFERMEDAD 574 605	fractura desplazada de claviula
+T54	ENFERMEDAD 696 746	hemorragia subaranoidea de la convexidad bilateral
+T55	ENFERMEDAD 841 851	aneurismas
+T56	ENFERMEDAD 855 878	malformaciones vascular
+T57	ENFERMEDAD 896 953	hemorragia subaranoidea no aneurismática secundaria a TCE
+T58	ENFERMEDAD 1084 1087	TCE
+T59	ENFERMEDAD 1172 1181	arritmias
+T60	ENFERMEDAD 2096 2099	HSA
+T61	ENFERMEDAD 2119 2138	fractura clavicular
+T62	ENFERMEDAD 2216 2241	lesión del plexo braquial
+T63	ENFERMEDAD 2347 2370	lesión a nivel cervical
+T64	ENFERMEDAD 2760 2783	hematoma supraescapular
+T65	ENFERMEDAD 2831 2863	fractura desplazada de clavicula
+T66	ENFERMEDAD 3057 3082	lesión del plexo braquial
+T67	ENFERMEDAD 3461 3508	INFECCIÓN RESPIRATORIO POR S. aures Oxasensible
+T68	ENFERMEDAD 3742 3757	INFECCIÓN COVID
+T70	ENFERMEDAD 4554 4564	mielopatía
+T71	ENFERMEDAD 5014 5035	fractura de clavícula
+T72	PROCEDIMIENTO 185 198	sedoanalgesia
+T73	FARMACO 203 211	propofol
+T74	FARMACO 214 227	remifentanilo
+T75	FARMACO 453 455	NA
+T76	PROCEDIMIENTO 1509 1522	sedoanalgesia
+T77	FARMACO 3640 3651	Cloxacilina
+T78	ENFERMEDAD 21 49	TRAUMATISMO CRANEOENCEFÁLICO
+T79	PROCEDIMIENTO 235 246	explroación
+T80	PROCEDIMIENTO 511 514	ECG
+T81	PROCEDIMIENTO 534 542	Rx tórax
+T82	PROCEDIMIENTO 634 645	neuroimagen
+T83	PROCEDIMIENTO 658 668	TC Craneal
+T84	PROCEDIMIENTO 785 801	estudio vascular
+T85	PROCEDIMIENTO 803 811	angio-TC
+T86	PROCEDIMIENTO 814 827	arteriografia
+T87	PROCEDIMIENTO 1136 1150	monitorización
+T88	PROCEDIMIENTO 1247 1265	estudio con Holter
+T89	PROCEDIMIENTO 1268 1282	Ecocardiograma
+T90	FARMACO 1417 1427	Lacosamida
+T91	PROCEDIMIENTO 1525 1547	se consigue extubación
+T92	PROCEDIMIENTO 1596 1619	exploración neurológica
+T93	PROCEDIMIENTO 2304 2311	TC body
+T94	PROCEDIMIENTO 2411 2422	RM cervical
+T95	PROCEDIMIENTO 2501 2512	RM cervical
+T96	PROCEDIMIENTO 2554 2587	estudio medular a dorsal y lumbar
+T97	ENFERMEDAD 2662 2729	FRACTURA DIAFISARIA DESPLAZADA DEL TERCIO MEDIO CLAVÍCULA IZQUIERDA
+T98	PROCEDIMIENTO 2811 2822	Rx de tórax
+T99	PROCEDIMIENTO 3126 3137	RM cervical
+T100	PROCEDIMIENTO 3242 3285	reducción avierta y osteosíntesis con placa
+T101	PROCEDIMIENTO 4400 4411	RM cervical
+T102	PROCEDIMIENTO 4581 4590	RM lumbar
+T103	PROCEDIMIENTO 4826 4850	estudio neurofisiológico
+T104	HUMANO 158 166	paciente
+T105	HUMANO 1552 1560	paciente
+T106	HUMANO 1623 1631	paciente
+T107	HUMANO 1889 1897	paciente
+T108	HUMANO 2611 2619	paciente
+T109	HUMANO 3344 3352	paciente
+T110	HUMANO 3556 3564	paciente
+T111	HUMANO 3872 3880	paciente
+T112	HUMANO 4198 4206	paciente
+T113	HUMANO 4868 4876	paciente
+T114	ENFERMEDAD 97 114	CRISIS COMICIALES
+T115	PROCEDIMIENTO 431 455	perfusión continua de NA
+T116	PROCEDIMIENTO 671 682	RM cerebral
+T117	ENFERMEDAD 996 1014	crisis epilépticas
+T118	PROCEDIMIENTO 1109 1112	ECG
+T119	PROCEDIMIENTO 1342 1345	EEG
+T120	FARMACO 1468 1481	Levetiracetam
+T121	PROCEDIMIENTO 1439 1463	tratamiento anticomicial
+T122	SINTOMA 1678 1690	tetraparesia
+T123	PROCEDIMIENTO 2177 2184	hoffman
+T124	SPECIES 3488 3508	S. aures Oxasensible
+T125	PROCEDIMIENTO 3516 3528	BAS se aisla
+T126	SPECIES 3529 3550	S. aureus Oxasensible
+T127	FARMACO 3704 3714	Cloxcilina
+T128	SINTOMA 3752 3770	COVID ASIMTOMÁTICA
+T129	PROCEDIMIENTO 3832 3850	PCR para SARS-COV2
+T130	SPECIES 3841 3850	SARS-COV2
+T131	PROCEDIMIENTO 4011 4014	PCR
+T132	SINTOMA 4320 4332	tetraparesia
+T133	SINTOMA 4463 4496	protrusiones discales posteriores
+T134	SINTOMA 4544 4576	signos de mielopatía radiológica
+T135	PROCEDIMIENTO 4693 4696	EMG
+T136	PROCEDIMIENTO 3168 3199	cabestrillo para inmovilización
+T137	PROCEDIMIENTO 3214 3237	intervención quirúrgica
+T138	PROCEDIMIENTO 3432 3455	intervención quirúrgica
+T140	PROCEDIMIENTO 4982 5045	tratamiento quirúrgico de la la fractura de clavícula izquierda
+T1	SINTOMA 4216 4242	mejoría clínica progresiva
+T2	SINTOMA 5072 5079	mejoría

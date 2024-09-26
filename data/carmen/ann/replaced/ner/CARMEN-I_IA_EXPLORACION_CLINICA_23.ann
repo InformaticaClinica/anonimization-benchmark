@@ -1,0 +1,41 @@
+T2	SINTOMA 328 361	edemas en extremidades inferiores
+T3	SINTOMA 539 549	Consciente
+T4	SINTOMA 552 578	orientada en las 3 esferas
+T5	SINTOMA 793 826	edemas en extremidades inferiores
+T6	SINTOMA 834 848	Leve taquipnea
+T7	SINTOMA 1080 1090	consciente
+T8	SINTOMA 1093 1119	orientada en las 3 esferas
+T9	SINTOMA 210 213	BEG
+T10	SINTOMA 215 229	normohidratada
+T11	SINTOMA 232 247	normoperfundida
+T12	SINTOMA 253 277	Tonos cardíacos rítmicos
+T13	SINTOMA 302 323	Ingurgitación yugular
+T14	SINTOMA 369 390	Crepitantes bibasales
+T15	SINTOMA 396 408	sibiliancias
+T16	SINTOMA 410 483	ABD: blando y depresible sin dolor a la palpación profunda ni superficial
+T17	SINTOMA 489 510	signos de peritonismo
+T18	SINTOMA 524 532	megalias
+T19	SINTOMA 701 704	BEG
+T20	SINTOMA 706 720	normohidratada
+T21	SINTOMA 723 738	normoperfundida
+T22	SINTOMA 853 884	uso de la musculatura accesoria
+T23	SINTOMA 895 918	crepitantes bilaterales
+T24	SINTOMA 944 1017	ABD: blando y depresible sin dolor a la palpación profunda ni superficial
+T25	SINTOMA 1023 1044	signos de peritonismo
+T26	SINTOMA 1058 1066	megalias
+T27	SINTOMA 1073 1078	Vigil
+T28	SINTOMA 515 520	masas
+T29	SINTOMA 744 768	Tonos cardíacos rítmicos
+T30	SINTOMA 1049 1054	masas
+T31	SINTOMA 580 590	Glasgow 15
+T32	SINTOMA 1121 1131	Glasgow 15
+T33	SINTOMA 1136 1151	focalidad aguda
+T34	PROCEDIMIENTO 101 119	EXPLORACION FISICA
+T35	PROCEDIMIENTO 249 251	CV
+T36	PROCEDIMIENTO 363 367	RESP
+T37	PROCEDIMIENTO 594 612	EXPLORACIÓN FÍSICA
+T38	PROCEDIMIENTO 740 742	CV
+T39	PROCEDIMIENTO 828 832	RESP
+T40	PROCEDIMIENTO 55 69	Pulsioximetría
+T41	SINTOMA 282 288	soplos
+T42	SINTOMA 773 779	soplos

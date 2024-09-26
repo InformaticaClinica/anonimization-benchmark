@@ -1,0 +1,39 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con carcinoma renal con M1 adenopáticas y pulmonares y cardiopatía dilatada. Usuario de corticoterapia crónica. Actualemente cursando con infección por COVID con inicial mejoría. Actualmente con fiebre persistente, aumento de RFA y procalcitonina positiva.
+Solicitamos TC de tórax para descartar complicaciones u otra causa de la fiebre (cavitación? Aspergillus?..). Gracias.
+CARCINOMA RENAL E-IV
+
+protocolo:
+Se realiza angio TC torácico tras la administración de contraste ev.
+
+resultados:
+Se compara con estudios previos, los últimos la PET-TC previa del [**FECHAS**] y la TC del [**FECHAS**].
+No se observan signos de TEP en tronco de la arteria pulmonar, arterias lobares ni primeras segmentarias.
+Múltiples adenopatías supraclaviculares bilaterales, mediastínicas, con formación de conglomerados, a nivel paratraqueal bilateral (en el lado derecho de aprox 43mm vs previo de 51mm), prevascular derecho, subaórtico y subcarinal. Asimismo se observan adenopatías hiliares bilaterales, costofrénica posterior derecha y cardiofrénica izda.
+Comparativamente con la PET/TC previa algunas han disminuido de tamaño, siendo el resto de tamaño similar.
+En parénquima pulmonar se observan múltiples opacidades de densidad vidrio deslustrado con una distribución de predominio central y una afectación bilateral de predominio en LLSS. En su interior parece identificarse pequeños quistes. Hallazgos sugestivos de proceso infeccioso, que no muestran una distribución típica de COVID 19 y sugieren otros gérmenes atípicos, valorar posible PCP.
+Extensas áreas de consolidación confluentes en ambos LLII y región posterior de ambos LLSS, que sugieren probable sobreinfección bacteriana.
+Múltiples lesiones nodulares pulmonares bilaterales y multilobares, de diferentes tamaños, las mayores de hasta 19mm (vs previo de 15mm)en relación con M1, ya presentes en previo. Comparativamente y de forma global la mayoría han aumentado discretamente de tamaño.
+Discreto derrame pleural bilateral de predominio izdo, que ha aumentado ligeramente.
+Cardiomegalia con aurícula izquierda de tamaño marcadamente aumentado.
+Leve derrame pericárdico similar al estudio previo.
+Dilatación aneurismática focal del cayado aórtico sin cambios.
+Múltiples adenopatías y conglomerados adenopáticos retrocrurales y retroperitoneales conocidos, parcialmente estudiados.
+M1 suprarrenal izda, estable.
+Colelitiasis.
+
+conclusiones:
+Afectación pulmonar bilateral descrita que sugiere proceso infeccioso, que no muestra una semiología típica de COVID 19 y sugiere otros gérmenes atípicos, valorar posible PCP.
+Las áreas de consolidación pulmonar descritas de predomninio bibasal sugieren probable sobreinfección bacteriana.
+Discreto aumento de forma global de las múltiples M1 pulmonares bilaterales y multilobares.
+Estabilidad/discreta disminución de tamaño de las adenopatías mediastínicas.
+Ligero aumento del derrame pleural bilateral, de predominio izdo.
+M1 suprarrenal izda, sin cambios.
+Múltiples adenopatías rerocrutales y retroperitoneales, parcialmente estudiadas.
+
+descrip:
+TC TORAX

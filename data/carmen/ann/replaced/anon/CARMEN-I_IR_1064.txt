@@ -1,0 +1,19 @@
+
+prueba:
+TC RODILLA
+
+clinica:
+Fractura periprotètica al voltant de lapròtesi d'articulació interna, genoll dret, A
+
+protocolo:
+TC PRÓTESIS RODILLA DERECHA
+
+conclusiones:
+Cambios postquirúrgicos por prótesis total de rodilla derecha y  placa- tornillos de osteosíntesis visualizada parcialmente en fémur izquierdo.
+RODILLA DERECHA:
+Fractura compleja periprotésica supra-intercondílea, con impactación y desplazamiento anteromedial del segmento femoral proximal, con marcado acabalgamiento de fragmentos e impactación en valgo. Se observan múltiples fragmento óseos desplazados y fragmentos óseos libres, con desplazamiento de hasta 3 cm. Hay trazos de fractura que parecen alcanzar la interfase con el componente protésico femoral.
+No se observan signos de fractura en tibia y peroné.
+Moderado hematoma muscular adyacente en m. cuádriceps.
+
+descrip:
+TC RODILLA

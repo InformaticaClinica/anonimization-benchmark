@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Infección por covid-19
+
+protocolo:
+RX TÓRAX PORTÁTIL
+
+conclusiones:
+Ténue patrón intersticial bilateral, de predominio periférico.
+Presencia de nódulo pulmonar en LSI, ya visible en estudios previos y que probablemente está en relación a enfermedad de base (M1).
+CONCLUSION:
+Patrón indeterminado, con signos de estabilidad respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

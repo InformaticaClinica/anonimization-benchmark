@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente neumopata cronica, con COVID pasado hace dias y posterior ingreso con insuficiencia respiratoria en contexto de neumopatia cronica agudizada. Presenta evolucion respiratoria torpida con requerimientos de O2 pese a mejoria de reactantes fase aguda analiticos. Y progresiva elevacion de Dimero D. Se ruega descartar TEP. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Discretas opacidades reticulares y en vidrio deslustrado de predominio en LLSS compatible con neumonia COVID en resolución.
+No se observa TEP.
+
+conclusiones:
+.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] de edad, inmunosuprimido por Tx renal, con neumonía bilateral por Covid con insuf. respiratoria hipoxémica (PaFi 85).
+Febricular pese a antibioterapia ocn meopenem y linezolid. D-dímero en ascenso de 5000.
+Interesa descartar TEP +/- infección por germen oportunista (TCAR códi Aspergillus).
+NEUMONIA COVID-19
+
+protocolo:
+ANGIO TC PULMONAR  URGENTE
+
+resultados:
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Permeabilidad del tronco pulmonar principal,de calibre normal.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+Moderadas calcificaciones coronarias.
+Minnimos focos de opacidad en vidrio deslustrado periféricos en ápices pulmonares que conflyen fofmando focos consolidativos. Extensas áreas consolidativas subpleurales que afectamn ambos hemitórax, todo ello en relación a infección por COVID en evolución.
+Leve derrame pleural bilateral. No se observa derrame pericárdico.
+
+conclusiones:
+NO hay signos de TEP.
+Signos de infección por COVID en evolución.
+
+descrip:
+ANGIO TC PULMONAR

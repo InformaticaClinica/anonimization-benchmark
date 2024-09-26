@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+ADENOCARCINOMA DE COLON BRAFmut E-IV
+
+protocolo:
+RX DE TÓRAX PORTATIL
+
+conclusiones:
+RX poco penetrada. Dudosa opacidad pulmonar en ambos campos inferiores (es de difícil valoración dada la superposición de partes blandas del paciente), no descartando que pudiera corresponder a afectación pulmonar por COVID conocido. En todo caso en comparación con RX previa del [**FECHAS**] no presenta cambios significativos y no se identifican claras consolidaciones. Port-a-Cath en hemitórax derecho con extremo en tercio proximal de la vena cava superior. No identifico otros hallazgos relevantes.
+
+descrip:
+RX  PORTATIL  TORAX

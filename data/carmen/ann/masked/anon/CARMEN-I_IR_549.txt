@@ -1,0 +1,13 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Comentado con radiología
+PANHIPOPITUITARISMO
+
+conclusiones:
+.
+
+descrip:
+TC CEREBRAL

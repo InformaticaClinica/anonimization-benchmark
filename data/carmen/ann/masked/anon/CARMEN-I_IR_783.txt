@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+ANGIOTC TORÁCICA: adquisición mediante energía dual.
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar (ramas principales, lobares y mayoría de ramas segmentarias) que sugieran TEP. Algunas de las ramas segmentarias y las subsegmentarias no son valorables por falta de replección por el contraste y artefacto de endurecimiento de la haz.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+Restos tímicos en mediastino anterior.
+Leve derrame pleural izquierdo (2 cm de grosor). No se evidencia derrame pleural derecho ni pericárdico.
+Se observan zonas con aumento de densidad en ambas bases (izq>dcho), de distribución periférica y posterior con captación de contraste conservada lo que sugieren atelectasias subsegmentarias, asociadas a áreas en vidrio deslustrado periféricas.
+En la base izquierda existe además una área con hipocaptación de contraste lo que sugiere consolidación neumónica. Asimismo, existen focos aislados en vidrio deslustrado periféricos en língula y segmentos superiores de ambos lóbulos inferiores que junto con el derrame pleural y consolidación basal segmentaria corresponde a un patrón indeterminado para COVID- 19.
+
+conclusiones:
+Se observan algunos focos en vidrio periférico bilaterales y subpleurales, asociado a consolidación segmentara basal izquierda y leve derrame pleural I, patrón indeterminado para COVID-19 en este momento.
+No se visualizan imágenes de TEP proximal.
+
+descrip:
+ANGIO TC PULMONAR

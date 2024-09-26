@@ -1,0 +1,86 @@
+T16	ENFERMEDAD 111 122	ex- fumador
+T17	ENFERMEDAD 248 269	hipertensión arterial
+T18	ENFERMEDAD 274 282	diabetes
+T19	ENFERMEDAD 287 297	dislipemia
+T20	ENFERMEDAD 649 703	hemorragia digestiva alta (HDA) por varices esofágicas
+T21	ENFERMEDAD 685 703	varices esofágicas
+T22	ENFERMEDAD 765 790	Hemorragia digestiva alta
+T23	ENFERMEDAD 976 986	hemorragia
+T24	ENFERMEDAD 1019 1061	Gastropatía de la hipertensión portal leve
+T25	SINTOMA 1231 1246	atrofia del LHD
+T26	ENFERMEDAD 1272 1291	hepatopatía crónica
+T27	ENFERMEDAD 1310 1320	esteatosis
+T28	SINTOMA 1621 1670	circulación colateral celíaca y en hilio hepático
+T29	ENFERMEDAD 1808 1815	ascitis
+T30	ENFERMEDAD 1910 1934	síndrome porto- pulmonar
+T31	ENFERMEDAD 2194 2219	insuficiencia tricuspidea
+T32	SINTOMA 2279 2314	temps de aceleración pulmonar curta
+T33	ENFERMEDAD 2317 2342	arteria pulmonar dilatada
+T34	ENFERMEDAD 2587 2607	insuficiencia mitral
+T35	ENFERMEDAD 2981 2985	EPOC
+T36	ENFERMEDAD 3059 3062	AKI
+T37	FARMACO 2129 2139	macicentan
+T38	FARMACO 2142 2152	tadalafilo
+T39	FARMACO 3114 3123	Omeprazol
+T40	FARMACO 3133 3143	Furosemida
+T41	FARMACO 3154 3169	Espironolactona
+T42	FARMACO 3181 3196	Sulfato ferroso
+T43	HUMANO 0 28	[**SEXO_SUJETO_ASISTENCIA**]
+T44	HUMANO 377 385	Jubilado
+T45	HUMANO 400 415	[**PROFESION**]
+T46	HUMANO 430 464	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T47	HUMANO 476 484	cuidador
+T49	ENFERMEDAD 744 761	DESCOMPENSACIONES
+T50	PROCEDIMIENTO 810 834	colocación de early TIPS
+T51	PROCEDIMIENTO 853 867	cierre de TIPS
+T52	PROCEDIMIENTO 905 917	GASTROSCOPIA
+T53	PROCEDIMIENTO 1066 1085	ECOGRAFÍA ABDOMINAL
+T54	PROCEDIMIENTO 1820 1841	HEMODINÁMICA HEPÁTICA
+T55	PROCEDIMIENTO 2157 2171	ECOCARDIOGRAMA
+T56	PROCEDIMIENTO 2776 2807	PRUEBAS DE FUNCIÓN RESPIRATORIA
+T57	SINTOMA 976 986	hemorragia
+T58	SINTOMA 1100 1130	Hígado de contornos iregulares
+T59	SINTOMA 1132 1169	alteración difusa de la ecoestructura
+T60	SINTOMA 1172 1198	aumento de la ecogenicidad
+T61	SINTOMA 1340 1356	lesiones focales
+T62	SINTOMA 1371 1393	Porta hiliar permeable
+T63	SINTOMA 1398 1435	flujo hepatopetal y velocidades bajas
+T64	SINTOMA 1554 1582	Vena cava inferior permeable
+T65	SINTOMA 1717 1734	TIPS no permeable
+T66	SINTOMA 1758 1782	Esplenomegalia homogénea
+T67	ENFERMEDAD 2383 2437	hipertrofia moderada-grave del septum interventricular
+T68	SINTOMA 2446 2492	motilidad global preservada sin segmentarismos
+T69	ENFERMEDAD 2609 2648	Aurícula izquierda ligeramente dilatada
+T70	ENFERMEDAD 2650 2689	Ventrículo derecho ligeramente dilatado
+T71	SINTOMA 2707 2737	Vena cava inferior no dilatada
+T72	SINTOMA 2740 2771	colapso inspiratorio preservado
+T73	SINTOMA 2822 2863	alteración obstructiva de leve intensidad
+T74	SINTOMA 2887 2954	capacidad de transferencia de CO disminución de moderada intensidad
+T75	ENFERMEDAD 158 170	ex- enolismo
+T76	ENFERMEDAD 560 585	CIRROSIS HEPÁTICA ENÓLICA
+T77	ENFERMEDAD 676 679	HDA
+T78	ENFERMEDAD 934 950	Varices fúndicas
+T79	ENFERMEDAD 956 959	VG1
+T80	PROCEDIMIENTO 804 807	EBL
+T81	SINTOMA 1001 1017	restos hemáticos
+T82	SINTOMA 1209 1228	hipertrofia del LHI
+T83	SINTOMA 1461 1499	flujo portal intrahepático hepatofugal
+T84	SINTOMA 1501 1533	VSH media y izquierda permeables
+T85	SINTOMA 1584 1606	V. esplenica permeable
+T86	SINTOMA 1680 1715	circulación colateral periesplénica
+T87	SINTOMA 1860 1895	Presiones cardiopulmonares elevadas
+T88	ENFERMEDAD 2032 2059	HIPERTENSIÓN PORTO-PULMONAR
+T89	SINTOMA 2537 2578	Válvula aórtica trivalva normofuncionante
+T90	SINTOMA 2650 2705	Ventrículo derecho ligeramente dilatado normocontráctil
+T91	SINTOMA 2865 2885	PBD no significativa
+T92	PROCEDIMIENTO 2865 2868	PBD
+T93	PROCEDIMIENTO 2887 2919	capacidad de transferencia de CO
+T94	ENFERMEDAD 2998 3022	ENFERMEDAD RENAL CRÓNICA
+T95	ENFERMEDAD 3067 3088	ANEMIA MULTIFACTORIAL
+T96	FARMACO 3197 3209	Ácido fólico
+T97	FARMACO 3210 3220	Alopurinol
+T98	ENFERMEDAD 1340 1356	lesiones focales
+T99	ENFERMEDAD 66 74	alergias
+T100	HUMANO 493 527	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T1	SINTOMA 2346 2378	Ventrículo izquierdo no dilatado
+T2	ENFERMEDAD 94 109	Hábitos tóxicos

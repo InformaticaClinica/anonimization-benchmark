@@ -1,0 +1,10 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Rx per [**FECHAS**], gràcies!
+COVID +
+
+descrip:
+RX  PORTATIL  TORAX

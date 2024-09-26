@@ -1,0 +1,21 @@
+INGRESO [**NUMERO_IDENTIF**].
+1. INFECCIÓN SARS-COV-2.
+2. INSUFICIENCIA RENAL CRÓNICA EN DIÁLISIS.
+Vacunación correcta tres dosis, [**FECHAS**] y [**FECHAS**] con moderna.
+Inicio síntomas [**FECHAS**]: síndrome diarreico, rinorrea y sensación distérmica.
+Primera PCR positiva [**FECHAS**].
+PCR [**FECHAS**]: 26 CTs
+Inicio tratamiento [**FECHAS**]: Remdesivir.
+PCR [**FECHAS**]: 29 CTS
+A su llegada a nuestro centro el paciente se encuentra hemodinámicamente estable y afebril. En la exploración no se aprecian alteraciones en la auscultación pulmonar. El electrocardiograma muestra ritmo sinusal. La analítica sanguínea muestra una elevación discreta de reactantes de fase aguda con PCR de 2.5mg/dl y leucocitosis leve de 12.57 19^9; ferritina elevada de 932 ng/ml; D-dímero de 840 ng/ml; alteración del perfi hepático con colestasis asociada con FA de 397 U/L y ggt de 218 u/L sin hiperbilirrubinemia; anemia macrocítica leve, estable con respecto a previas con hemoglobina de 125 g/L; troponinas negativas. Filtrado de 10ml7min (en diálisis); no alteraciones iónicas. La radiografía de tórax no presenta claros infiltrados comparando con las previas.
+Se trata de una infección COVID en paciente con factores de riesgo y comorbilidad. Se comenta el caso con infecciones y se inicia remdesivir con dosis habituales y enoxaparina profiláctica a dosis ajustadas tras consultar con nefrología (20mg/24h. En cuanto a la diálisis se comenta con nefrología que realizará hoy a la noche (a partir de las 22h).
+Evolución ingreso:
+Durante su ingreso el paciente ha realizado las sesiones de diálisis según pautado por nefrología los lunes-miércoeles-viernes.
+Se pautó desde el [**FECHAS**] Remdesivir 5 días.
+A nivel respiratorio se mantuvo estable durante la primera semana, realizando un pico febril el [**FECHAS**] tras regresar de diálisis.
+Este pico febril se acompañó de un empeoramiento de los parámetros inflamatorios a nivel analítico: PCR de 4,5mg/dl; leucocitosis leve de 22x19 ^9; ferritina de 890ng/ml; D-dímero de 2350ng/ml.
+Además, también se observó un infiltrado basal izquierdo en Rx tórax que no estaba presente en la Rx tórax del ingreso.
+Por todo ello, en consenso con infecciones, se pautó Dexametasona 8mg/d y meropenem + daptomicina.
+En la PCR de control tras fin Remdesivir [**FECHAS**], CTs de 29.
+A raíz de tratamiento, el paciente presenta mejoría clínica y analítica, disminuyendo los parametros analíticos de forma progresiva.
+El día [**FECHAS**] se decide cambio de medicación a oral, desescalando la dexametasona a 6mg/d y cambiando el antibiótico a Levolfloxacino 500g/48h.Por buena evolución se decide alta a domicilio con próxima visita en Consultas Externas de Enfermedades Infecciosas.

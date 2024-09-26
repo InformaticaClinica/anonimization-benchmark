@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+HDA. ÚLCERAS GÁSTRICAS
+
+protocolo:
+TC craneal basal de URGENCIA
+
+resultados:
+Se compara con estudio realizado hace aproximadamente 12h:
+Cambios posquirúrgicos por craniectomía fronto-parieto-temporal derecha reciente, con herniación extracraneal del parénquima. A nivel del lecho quirúrgico se observa importante contenido hemático, con presencia de aire, material de hemostasia y clips quirúrgicos.  En el trayecto del drenaje se observan signos de neumoencéfalo y restos hemáticos en cuantía similar al estudio previo. El hematoma ejerce efecto de masa que desvía la línea media de 9 mm (sin cambios) y oblitera parcialmente el III ventrículo. Sin signos de herniación intracraneal.
+En el estudio actual se observa también extensión hemática a nivel del tentorio cerebeloso y hoz interhemisférica, así como una colección subdural que se extiende desde la base del tentorio a la base del lóbulo temporal derecho.
+Craneostomía frontal izquierda con catéter sensor de PIC cuyo extremo se encuentra en la profundidad del lóbulo frontal izquierdo.
+Persiste área de hipodensidad parieto-temporal derecha, que dados los antecedentes del paciente y la distribución de la lesión, sería sugestivos de lesión isquémica establecida en el territorio superficial de la ACMi.
+Extensión hemática a sistema ventricular, ocupando VLD y asta occipital izquierda.
+Signos incipientes de distensión ventricular, sin hidrocefalia activa.
+
+conclusiones:
+ver resultados
+
+descrip:
+TC CEREBRAL

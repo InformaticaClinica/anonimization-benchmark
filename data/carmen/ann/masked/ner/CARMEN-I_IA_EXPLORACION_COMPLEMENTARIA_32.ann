@@ -1,0 +1,104 @@
+T29	FARMACO 1559 1568	Amikacina
+T30	FARMACO 1570 1584	ciprofloaxicno
+T31	FARMACO 1586 1598	cotrimozazol
+T32	FARMACO 1600 1611	gentamicina
+T33	FARMACO 1613 1621	imipenem
+T34	FARMACO 1623 1632	meropenem
+T35	FARMACO 1634 1646	tobramiciina
+T36	FARMACO 1661 1671	ampicilina
+T37	FARMACO 1673 1683	cefotaxima
+T38	FARMACO 1685 1696	ceftazidima
+T39	FARMACO 1698 1708	cefuroxima
+T40	FARMACO 1710 1719	ertapenem
+T41	FARMACO 1858 1867	Amikacina
+T42	FARMACO 1869 1880	Fosfomicina
+T43	FARMACO 1881 1889	Imipenem
+T44	FARMACO 1891 1900	Meropenem
+T45	FARMACO 1902 1913	Tigeciclina
+T46	FARMACO 1952 1962	Cefotaxima
+T47	FARMACO 1965 1976	Ceftazidima
+T48	FARMACO 1979 1990	Ceftolozano
+T49	FARMACO 1991 2001	tazobactam
+T50	FARMACO 2004 2014	Cefuroxima
+T51	FARMACO 2016 2030	Ciprofloxacina
+T52	FARMACO 2032 2044	Cotrimoxazol
+T53	FARMACO 2046 2055	Ertapenem
+T54	FARMACO 2058 2069	Gentamicina
+T55	FARMACO 2073 2090	Pipera/tazobactam
+T56	FARMACO 2093 2104	Tobramicina
+T57	FARMACO 1650 1659	amox/clav
+T58	FARMACO 1721 1730	pipe/tazo
+T59	FARMACO 1939 1951	Ampicil.lina
+T60	FARMACO 1928 1938	clavulànic
+T61	SPECIES 1336 1347	Aspergillus
+T62	SPECIES 1426 1456	Staphylococcus hominis hominis
+T63	SPECIES 1478 1511	Enterobacter cloacae complex BLEE
+T64	SPECIES 1514 1540	Staphylococcus epidermidis
+T65	SPECIES 1808 1854	Klebsiella pneumoniae BLEA + Carbapenemasa VIM
+T66	SPECIES 2211 2281	colonias de Enterobacter cloacae productora de metalocarbapenemasa VIM
+T67	SPECIES 698 710	S.pneumoniae
+T68	SPECIES 748 762	L.pneumophilia
+T69	ENFERMEDAD 795 803	Covid-19
+T70	SPECIES 1063 1074	Aspergillus
+T72	SPECIES 1737 1750	micobacterias
+T73	SPECIES 2149 2198	K.pneumonia productora de BLEA+ Carbapenemasa VIM
+T74	SPECIES 2325 2355	K.pneumonia productora de BLEA
+T75	SPECIES 2223 2281	Enterobacter cloacae productora de metalocarbapenemasa VIM
+T76	SINTOMA 394 405	EEG anormal
+T77	SINTOMA 418 495	enltentecieminto difuso de la actividad de fondo de claro predominio anterior
+T78	SINTOMA 599 643	Frotis rectal + nasal [**FECHAS**]: negativo
+T79	SINTOMA 1011 1034	Frotis rectal: negativo
+T80	PROCEDIMIENTO 1375 1409	Cultivo cateter vascular yugular D
+T81	PROCEDIMIENTO 2283 2296	Frotis rectal
+T82	PROCEDIMIENTO 1 24	ENDOSCOPIA RESPIRATORIA
+T83	PROCEDIMIENTO 38 54	Tubo orotraqueal
+T84	PROCEDIMIENTO 202 260	instilación de suero salino hipertónico para su aspiración
+T85	PROCEDIMIENTO 327 358	BAS para estudio microbiológico
+T86	PROCEDIMIENTO 646 658	Urinocultivo
+T87	PROCEDIMIENTO 829 840	Hemocultivo
+T88	PROCEDIMIENTO 866 887	Frotis rectal + nasal
+T89	PROCEDIMIENTO 914 925	Hemocultivo
+T90	PROCEDIMIENTO 951 954	BAS
+T91	PROCEDIMIENTO 1101 1122	Frotis rectal + nasal
+T92	PROCEDIMIENTO 1247 1250	BAS
+T93	PROCEDIMIENTO 1278 1281	BAS
+T94	PROCEDIMIENTO 1778 1790	Urinocultivo
+T95	PROCEDIMIENTO 2107 2120	Frotis rectal
+T96	SINTOMA 38 71	Tubo orotraqueal normoposicionado
+T97	PROCEDIMIENTO 360 380	ELECTROENCEFALOGRAMA
+T98	SINTOMA 86 184	abundantes secreciones con restos hemáticos de predominio en ambos bronquios de lóbulos inferiores
+T99	PROCEDIMIENTO 394 397	EEG
+T100	SINTOMA 544 554	asimetroas
+T101	SINTOMA 558 581	actividad epileptiforme
+T102	SINTOMA 646 683	Urinocultivo ([**FECHAS**]): negativo
+T103	PROCEDIMIENTO 686 710	Antigenuria S.pneumoniae
+T104	SINTOMA 686 733	Antigenuria S.pneumoniae [**FECHAS**]: positivo
+T105	PROCEDIMIENTO 736 762	Antigenuria L.pneumophilia
+T106	SINTOMA 736 785	Antigenuria L.pneumophilia [**FECHAS**]: negativo
+T107	PROCEDIMIENTO 788 803	Frotis Covid-19
+T108	SINTOMA 788 826	Frotis Covid-19 [**FECHAS**]: positivo
+T109	SINTOMA 829 863	Hemocultivo [**FECHAS**]: negativo
+T110	SINTOMA 866 911	Frotis rectal + nasal [**FECHAS**] : negativo
+T111	SINTOMA 914 948	Hemocultivo [**FECHAS**]: negativo
+T112	PROCEDIMIENTO 1011 1024	Frotis rectal
+T113	PROCEDIMIENTO 1037 1074	Deteteccion galactomanano Aspergillus
+T114	SINTOMA 1063 1098	Aspergillus([**FECHAS**]): negativo
+T115	PROCEDIMIENTO 1178 1193	Frotis Covid-19
+T116	ENFERMEDAD 1185 1193	Covid-19
+T117	SINTOMA 1178 1218	Frotis Covid-19 ([**FECHAS**]): negativo
+T118	SINTOMA 1247 1274	BAS ([**FECHAS**]) negativo
+T119	SINTOMA 1278 1306	BAS ([**FECHAS**]): negativo
+T120	PROCEDIMIENTO 1310 1347	Deteteccion galactomanano Aspergillus
+T121	SINTOMA 1336 1372	Aspergillus ([**FECHAS**]): negativo
+T122	SINTOMA 1383 1456	cateter vascular yugular D ([**FECHAS**]): Staphylococcus hominis hominis
+T123	PROCEDIMIENTO 1458 1461	BAS
+T124	SINTOMA 1458 1540	BAS ([**FECHAS**]): Enterobacter cloacae complex BLEE + Staphylococcus epidermidis
+T125	PROCEDIMIENTO 1733 1750	BAS micobacterias
+T126	SINTOMA 1733 1775	BAS micobacterias ([**FECHAS**]): negativo
+T127	SINTOMA 1778 1829	Urinocultivo ( [**FECHAS**]): Klebsiella pneumoniae
+T128	FARMACO 1918 1927	Amox./àc.
+T129	SINTOMA 2107 2160	Frotis rectal ([**FECHAS**]): aislamiento K.pneumonia
+T130	SINTOMA 2283 2336	Frotis rectal ([**FECHAS**]): aislamiento K.pneumonia
+T131	PROCEDIMIENTO 1542 1554	Antibiograma
+T132	PROCEDIMIENTO 583 596	MICROBIOLOGIA
+T133	PROCEDIMIENTO 303 314	exploración

@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con infección por COVID19 con alta demanda de oxígenoterapia a pesar de tratamiento. Solicitamos TC para valorar infección activa vs fibrosis. Gracias
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+TC TÓRACICO: se adquieren imágenes del tórax sin contraste endovenoso.
+
+resultados:
+No se dispone de imágenes TC previas para comparar la evolución del patrón radiológico del paciente.
+Se observan áreas consolidativas de distribución peribroncovascular en los lóbulos inferiores con patrón de neumonía organizativa asociado a bronquiectasias y distorsión parenquimatosa en relación con fibrosis.
+Destacan dos pequeñas consolidaciones subpleurales en segmento basal lateral del lóbulo inferior izquierdo.
+Por otro lado en los lóbulos superiores se observan áreas de vidrio deslustrado subpleurales de aspecto NO fibrótico.
+Catéter yugular derecho con extremo en unión atriocaval.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Quistes simples hepáticos.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

@@ -1,0 +1,32 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+Reestadiatge en pacient amb neoplàsia del si piriforme amb recidiva locorregional. Gràcies.
+Icterícia no especificada
+
+protocolo:
+Se realiza estudio dinámico torácico durante la inyección de contraste ev. desde vértices pulmonares hasta diafragmas empleando técnica TC espiral. Se realizan secciones transversas a nivel hepático con técnica TC espiral en fase portal y tras la administración de contraste oral. A continuación se explora desde polos superiores renales hasta sínfisis púbica mediante nueva adquisición espiral.
+
+resultados:
+Se compara con el TC previo de [**FECHAS**] y del [**FECHAS**]:
+Portador de PICC derecho.Traqueostomía con tubo traqueal.
+En los cortes torácicos altos se identifican cambios posquirúrgicos en región laterocervical izquierda. Se incluye parcialmente la masa heterogénea laterocerical baja izquierda ya conocida. Dicha lesión presenta ulceraciones superficiales y alcanza el espacio subclavio izquierdo caudalmente, contacta con con el ápex pulmonar ipsilateral e infiltra la musculatura laterocervical. A su vez, también tiene un componente de extensión contralateral cervical derecho.
+Engloba totalmente a la carotida primitiva, arteria vertebral y al lobulo tiroideo izquierdos. Trombosis yugular izquierda.
+Adenopatias paratraqueales y paraesofagicas altas y supra e infraclaviculares  bilaterales que han aumentado de tamaño respecto al TC del [**FECHAS**]. No se observan otras adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Atelectasias laminares en LID, pequeña consolidación subpleural posterobasal en LII, algo menor que en el estudio previo. Resto del parénquima sin alteraciones destacables.
+PEG.
+Hígado, bazo, páncreas y glándulas suprarrenales de morfología tamaño y densidad normal. Vesícula biliar litiásica. Vía biliar no dilatada.
+Riñones de tamaño conservado, homogéneos, sin dilatación de la vía excretora ni imágenes sospechosas de litiasis.
+No se observan adenopatías iliacas de tamaño significativo. Se aprecian varios ganglios de tamaño borderline retroperitoneales que impresionan en número y algunas adenopatías en cadena ilíaca común derecha, no visibles en el estudio previo.
+Fecaloma. Trabeculación de la grasa y discreta cantidad de líquido libre en espacio presacro, en probable relación a proctitis.
+
+conclusiones:
+Aumento del tamaño de la masa laterocervical izquierda ya conocida respecto al TC del [**FECHAS**].
+Aumento de tamaño de las adenopatías mediastínicas altas.
+Abundantes ganglios retroperitoneales y aparición de dos adenopatías en cadena ilíaca común derecha, no visibles previamente.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

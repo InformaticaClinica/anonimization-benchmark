@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+79a, polimialgia reumatica, neumobila bilateral por covid (frotis positivo [**FECHAS**]), en UCI hasta el [**FECHAS**] requiriendo LAF. Persiste con altos requerimientos de O2 pese a mejoría analítica. Ddímero >10.000, descartar TEP.
+
+protocolo:
+TC TÓRAX URGENTE: adquisición tras la administración de contraste ev.
+Estudio artefactado por respiración del paciente durante la adquisición.
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP. No se observan signos de sobrecarga de cavidades derechas.
+PICC con entrada por extremidad superior izquierda y extremo en auricula derecha.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Se observan múltiples áreas difusas y bilaterales en vidrio deslustrado de distribución subpleural y de predominio izquierdo. Presenten bronquioloectasias en su interior, y en región apical izquierda presenta zonas con "crazy paving" y componente fibrótico incipiente en segmento apical de lóbulo inferior derecho y base izquierda. Hallazgos compatibles con infección por COVID- 19.
+Quiste hepático en s. III (1 cm). Cambios degenerativos en columna torácica.
+
+conclusiones:
+No se observan signos de TEP.
+Parénquima pulmonar con hallazgos compatibles con extensa afectación por COVID- 19 con componente fibrótico incipiente en las bases pulmonares.
+PICC izquierdo con extremo en AD.
+
+descrip:
+ANGIO TC PULMONAR

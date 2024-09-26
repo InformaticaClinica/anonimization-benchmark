@@ -1,0 +1,102 @@
+T32	PROCEDIMIENTO 551 555	CPRE
+T33	PROCEDIMIENTO 1428 1441	Frotis rectal
+T34	PROCEDIMIENTO 1497 1510	Frotis rectal
+T35	PROCEDIMIENTO 1701 1764	CPRE en [**FECHAS**] con esfinterotomia endoscopica y cepillado
+T37	PROCEDIMIENTO 1796 1800	CPRE
+T38	PROCEDIMIENTO 2023 2042	Ecografía abdominal
+T39	PROCEDIMIENTO 3034 3036	RM
+T40	PROCEDIMIENTO 3426 3438	Gastroscopia
+T41	PROCEDIMIENTO 3849 3889	tratamiento con corticoides o biológicos
+T42	PROCEDIMIENTO 4068 4080	Colonoscopia
+T43	PROCEDIMIENTO 4191 4210	polipectomía simple
+T44	PROCEDIMIENTO 4428 4460	Herniorrafia umbilical, inguinal
+T45	PROCEDIMIENTO 4462 4476	apendicectomia
+T46	PROCEDIMIENTO 1944 1954	colagioRMN
+T47	PROCEDIMIENTO 2828 2839	ColangioRMN
+T48	PROCEDIMIENTO 3898 3901	FCS
+T49	PROCEDIMIENTO 1661 1672	ColangioRMN
+T50	PROCEDIMIENTO 3751 3753	HP
+T51	PROCEDIMIENTO 4212 4214	Bx
+T52	SINTOMA 263 278	edema palpebral
+T53	SINTOMA 3963 3969	brotes
+T54	ENFERMEDAD 210 229	Fumador de cannabis
+T55	ENFERMEDAD 347 367	enfermedad de Wilson
+T56	ENFERMEDAD 431 463	COLANGITIS ESCLEROSANTE PRIMARIA
+T57	ENFERMEDAD 514 538	colestasis intrahepática
+T58	ENFERMEDAD 756 759	HAI
+T59	ENFERMEDAD 847 864	COLANGITIS AGUDAS
+T60	ENFERMEDAD 1536 1553	Colangiocarcinoma
+T61	ENFERMEDAD 2182 2201	hepatopatía crónica
+T62	ENFERMEDAD 2458 2484	microlitiasis infundibular
+T63	ENFERMEDAD 3349 3400	proceso neoformativo sobreañadido primario hepático
+T64	ENFERMEDAD 3538 3553	hernia de hiato
+T65	ENFERMEDAD 3758 3776	PROCTITIS ULCEROSA
+T66	ENFERMEDAD 3838 3841	CEP
+T67	ENFERMEDAD 4123 4159	CU activa con afectación pancolónica
+T68	ENFERMEDAD 4241 4256	PRURIGO NODULAR
+T69	ENFERMEDAD 4305 4340	Eczema dishidrótico en manos y pies
+T70	ENFERMEDAD 4345 4371	PROLAPSO DE VÁLVULA MITRAL
+T71	ENFERMEDAD 4376 4383	SIFILIS
+T72	ENFERMEDAD 231 252	Alergia al ibuprofeno
+T73	ENFERMEDAD 839 842	CEP
+T74	ENFERMEDAD 2894 2897	CEP
+T75	SINTOMA 2670 2701	Bazo homogéneo de tamaño normal
+T76	SINTOMA 3669 3681	signos rojos
+T77	ENFERMEDAD 2561 2601	Hipertrofia de la arteria hepática común
+T78	ENFERMEDAD 3154 3176	estenosis predominante
+T79	ENFERMEDAD 4227 4236	displasia
+T80	FARMACO 959 982	Piperacilina/Tazobactam
+T81	FARMACO 992 1006	Ciprofloxacina
+T82	FARMACO 1045 1056	Ceftriaxona
+T83	FARMACO 1058 1068	Ampicilina
+T84	FARMACO 1071 1083	Metronidazol
+T85	FARMACO 1112 1135	Piperacilina/Tazobactam
+T86	FARMACO 1157 1171	Ciprofloxacino
+T87	FARMACO 1247 1255	Cefixima
+T88	FARMACO 1322 1345	Piperacilina/Tazobactam
+T89	FARMACO 1403 1426	Piperacilina/Tazobactam
+T90	FARMACO 1486 1495	Ertapenem
+T91	FARMACO 4009 4019	mesalazina
+T92	FARMACO 4515 4533	Resincolestiramina
+T93	FARMACO 4543 4553	Mesalazina
+T94	FARMACO 4565 4575	Ursobilane
+T95	FARMACO 4587 4596	Omeprazol
+T96	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T97	HUMANO 132 139	Soltero
+T98	HUMANO 146 180	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T99	HUMANO 193 208	[**PROFESION**]
+T101	SPECIES 883 911	aislamientos microbiológicos
+T102	SPECIES 1446 1456	EColi BLEA
+T103	SINTOMA 591 629	defectos de repleción de la vía biliar
+T104	SINTOMA 619 684	vía biliar con dilatación e irregularidades a nivel intrahepático
+T105	FARMACO 720 724	UDCA
+T106	SINTOMA 1428 1456	Frotis rectal con EColi BLEA
+T107	SINTOMA 1497 1519	Frotis rectal negativo
+T108	ENFERMEDAD 1558 1589	dilatación biliar intrahepática
+T109	SINTOMA 1871 1889	retraccion papilar
+T110	ENFERMEDAD 2059 2089	Hígado con hipertrofia del LHI
+T111	SINTOMA 2091 2130	ecoestructura discretamente heterogénea
+T112	SINTOMA 2137 2156	contornos nodulares
+T113	ENFERMEDAD 2246 2293	Vía biliar intrahepática discretamente dilatada
+T114	SINTOMA 2336 2372	Via biliar extrahepática no dilatada
+T115	SINTOMA 2374 2405	Vesícula biliar normodistendida
+T116	SINTOMA 2487 2502	barro en fundus
+T117	SINTOMA 2504 2524	Vena porta permeable
+T118	SINTOMA 2529 2546	flujo hepatopetal
+T119	SINTOMA 2615 2668	Páncreas (cabeza y cuerpo) sin alteraciones evidentes
+T120	SINTOMA 2703 2743	Riñones de tamaño y ecoestructura normal
+T121	ENFERMEDAD 2749 2779	dilatación de la vía excretora
+T122	SINTOMA 2795 2823	líquido libre intraabdominal
+T123	ENFERMEDAD 3201 3256	distensión de la vesícula biliar y del conducto cístico
+T124	SINTOMA 2935 2971	irregularidad de contornos hepáticos
+T125	SINTOMA 2986 3015	heterogeneidad parenquimatosa
+T126	SINTOMA 3585 3600	cordón varicoso
+T127	SINTOMA 3682 3725	Estomago: eritema en fornix, cuerpo y antro
+T128	SINTOMA 3921 3958	mucosa de ciego granular inespecífica
+T129	ENFERMEDAD 2218 2234	lesiones focales
+T130	HUMANO 1905 1918	equipo medico
+T1	HUMANO 308 342	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T2	HUMANO 296 306	FAMILIARES
+T3	FARMACO 242 252	ibuprofeno
+T5	SPECIES 221 229	cannabis
+T4	SINTOMA 1701 1786	CPRE en [**FECHAS**] con esfinterotomia endoscopica y cepillado insuficiente negativo

@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Descartar complicación crónica de neumonía por COVID (NOC) vs actividad aguda vs neumonia bacteriana, para decidir tratamiento
+POSIBLE COVID 19
+
+protocolo:
+TC TÒRAX ALTA RESOLUCIO URGENT
+
+resultados:
+No se observan adenopatías axilares. Se identifica una adenopatía de tamaño patológico en ventana aortopulmonar y precarinal de 13 mm.
+No se observa derrame pleural ni pericárdico.
+Se identifia un foco consolidativo en LSD con preencia de broncograma aéreo. Asocia discretas áreas en vidrio deslustrado y imágenes de tree in bud en su periferia. Discreto engrosamiento circunferencial parietal de los bronquios del LSD. Los hallazgos descritos son sugestivos de proceso neumónico de probable etiología bacteriana.
+Atelectasias laminares bibasales.
+Algunas imágenes hepáticas bilobares nodulares hipodensas basalmente, que pueden estar en relación con quistes hepáticos por su baja densidad, no obstante, este estudio no permite su correcta valoración dada la adquisición del mismo en condiciones basales.
+
+conclusiones:
+Foco neumónico de probable etiología bacteriana en LSD.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

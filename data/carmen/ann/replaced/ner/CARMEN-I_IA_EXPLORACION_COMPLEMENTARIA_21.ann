@@ -1,0 +1,97 @@
+T19	FARMACO 370 380	Cefotaxima
+T20	FARMACO 384 395	Ceftazidima
+T21	FARMACO 399 409	Cefuroxima
+T22	FARMACO 413 427	Ciprofloxacina
+T23	FARMACO 431 443	Cotrimoxazol
+T24	FARMACO 447 456	Ertapenem
+T25	FARMACO 460 471	Gentamicina
+T26	FARMACO 475 483	Imipenem
+T27	FARMACO 487 496	Meropenem
+T28	FARMACO 500 517	Pipera/tazobactam
+T29	FARMACO 521 532	Tobramicina
+T30	FARMACO 638 650	Cotrimoxazol
+T31	FARMACO 654 662	Imipenem
+T32	FARMACO 666 675	Linezolid
+T33	FARMACO 677 689	Teicoplanina
+T34	FARMACO 693 704	Vancomicina
+T35	FARMACO 851 864	Levofloxacina
+T36	FARMACO 868 877	Linezolid
+T37	FARMACO 881 896	Nitrofurantoina
+T38	FARMACO 900 912	Teicoplanina
+T39	FARMACO 916 927	Vancomicina
+T40	FARMACO 1002 1013	ivermectina
+T41	FARMACO 317 326	Amikacina
+T42	FARMACO 330 350	Amox./àc. clavulànic
+T43	FARMACO 354 366	Ampicil.lina
+T44	FARMACO 622 634	Ampicil.lina
+T45	FARMACO 835 847	Ampicil.lina
+T46	SINTOMA 39 73	VHB, VIH y Strongyloides negativos
+T47	SINTOMA 106 127	PCR Covid-19 positiva
+T48	PROCEDIMIENTO 110 171	Covid-19 positiva, detección antígeno por immunocromatografía
+T49	SINTOMA 1023 1044	PCR Covid-19 positiva
+T50	SINTOMA 2596 2642	VIH 1/2 Anticossos + Antígen p24 Combo NEGATIU
+T51	SPECIES 2643 2656	PARASITOLOGIA
+T52	SINTOMA 3147 3196	Sistema ventricular de tamaño y forma conservados
+T53	SINTOMA 3349 3384	TC craneal sin hallazgos valorables
+T54	ENFERMEDAD 2813 2821	COVID 19
+T55	ENFERMEDAD 3012 3039	sangrado agudo intracraneal
+T56	PROCEDIMIENTO 3 16	MICROBIOLOGÍA
+T57	PROCEDIMIENTO 19 63	Serologías (30/10): VHB, VIH y Strongyloides
+T58	PROCEDIMIENTO 184 209	Determinación Aspergillus
+T59	PROCEDIMIENTO 236 253	Aspirado traqueal
+T60	PROCEDIMIENTO 538 550	Hemocultivos
+T61	PROCEDIMIENTO 710 722	Hemocultivos
+T62	PROCEDIMIENTO 744 756	Urinocultivo
+T63	PROCEDIMIENTO 932 957	Determinación Aspergillus
+T64	PROCEDIMIENTO 978 995	Aspirado traqueal
+T65	PROCEDIMIENTO 1047 1080	Cultivo punta de catéter arterial
+T66	PROCEDIMIENTO 2705 2713	RX TÓRAX
+T67	PROCEDIMIENTO 2942 2953	TC CEREBRAL
+T68	SPECIES 280 301	Klebsiella pneumoniae
+T69	SPECIES 579 600	Enterococcus faecalis
+T70	SPECIES 798 819	Enterococcus faecalis
+T71	SPECIES 2533 2546	v.hepatitis B
+T72	SPECIES 2573 2586	v.hepatitis B
+T73	SPECIES 2596 2603	VIH 1/2
+T74	SPECIES 2669 2693	Strongloides stercoralis
+T75	SINTOMA 2726 2760	Patrón intesticial basal bilateral
+T76	SINTOMA 3041 3104	Parénquima cerebral sin alteraciones densitométricas valorables
+T77	SINTOMA 3106 3145	Estructuras de la línea media centradas
+T78	SINTOMA 3198 3225	Cisternas de la base libres
+T79	SINTOMA 3227 3318	Ocupación parcial de ambos senos maxilares y el seno esfenoidal izquierdo de aspecto mucoso
+T80	PROCEDIMIENTO 3349 3359	TC craneal
+T81	PROCEDIMIENTO 77 96	Frotis nasofaríngeo
+T82	SINTOMA 110 180	Covid-19 positiva, detección antígeno por immunocromatografía negativa
+T83	SPECIES 198 209	Aspergillus
+T84	SINTOMA 198 232	Aspergillus (04 y 11/03): negativo
+T85	SINTOMA 710 740	Hemocultivos (8/03): NEGATIVOS
+T86	SINTOMA 538 600	Hemocultivos (1 de 2, 7/03): positiu per Enterococcus faecalis
+T87	SPECIES 946 957	Aspergillus
+T88	SINTOMA 946 975	Aspergillus (01/03): negativo
+T89	SINTOMA 1047 1097	Cultivo punta de catéter arterial (9/03): negativo
+T90	PROCEDIMIENTO 2514 2546	Antigen superficie v.hepatitis B
+T91	SINTOMA 2514 2554	Antigen superficie v.hepatitis B NEGATIU
+T92	PROCEDIMIENTO 2556 2586	IgG antigen core v.hepatitis B
+T93	SINTOMA 2560 2594	antigen core v.hepatitis B NEGATIU
+T94	PROCEDIMIENTO 2596 2628	VIH 1/2 Anticossos + Antígen p24
+T95	PROCEDIMIENTO 2657 2693	Ac IgG anti-Strongloides stercoralis
+T96	SINTOMA 2657 2701	Ac IgG anti-Strongloides stercoralis NEGATIU
+T97	PROCEDIMIENTO 1112 1121	ANALÍTICA
+T98	PROCEDIMIENTO 1732 1741	ANALÍTICA
+T99	PROCEDIMIENTO 2323 2332	ANALÍTICA
+T100	PROCEDIMIENTO 303 315	Antibiograma
+T101	PROCEDIMIENTO 608 620	Antibiograma
+T102	PROCEDIMIENTO 821 833	Antibiograma
+T103	PROCEDIMIENTO 1146 1156	BIOQUÍMICA
+T104	PROCEDIMIENTO 3337 3348	Exploración
+T105	PROCEDIMIENTO 1456 1465	HEMOGRAMA
+T106	PROCEDIMIENTO 2107 2116	HEMOGRAMA
+T107	PROCEDIMIENTO 1673 1683	HEMOSTÀSIA
+T108	PROCEDIMIENTO 2448 2458	HEMOSTÀSIA
+T109	PROCEDIMIENTO 2504 2513	VIROLOGIA
+T110	SPECIES 2504 2513	VIROLOGIA
+T1	SINTOMA 2823 2848	Empeoramiento radiológico
+T2	PROCEDIMIENTO 2837 2848	radiológico
+T3	ENFERMEDAD 110 118	Covid-19
+T4	ENFERMEDAD 1027 1035	Covid-19
+T5	PROCEDIMIENTO 2643 2656	PARASITOLOGIA

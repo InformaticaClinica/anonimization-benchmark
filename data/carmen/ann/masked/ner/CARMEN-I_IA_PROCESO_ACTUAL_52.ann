@@ -1,0 +1,29 @@
+T10	PROCEDIMIENTO 475 496	tratamiento antiviral
+T11	PROCEDIMIENTO 668 731	despistaje de otros agentes infecciosos incluyendo tuberculosis
+T12	PROCEDIMIENTO 440 443	PCR
+T13	PROCEDIMIENTO 798 804	esputo
+T14	PROCEDIMIENTO 733 744	cuantiferon
+T15	PROCEDIMIENTO 747 761	BAAR en esputo
+T16	PROCEDIMIENTO 1023 1049	aislamiento epidemiológico
+T17	SPECIES 774 783	neumococo
+T18	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T19	SPECIES 232 263	neumococo sensible a penicilina
+T20	ENFERMEDAD 413 420	COVID19
+T21	SPECIES 688 707	agentes infecciosos
+T22	SPECIES 747 751	BAAR
+T23	SPECIES 786 796	legionella
+T24	SPECIES 822 837	flora saprofita
+T25	HUMANO 868 876	paciente
+T26	SINTOMA 330 336	fiebre
+T27	SINTOMA 339 363	expectoración hemoptoica
+T28	SINTOMA 596 606	hemoptisis
+T29	ENFERMEDAD 156 159	HTA
+T30	ENFERMEDAD 162 181	sepsis respiratoria
+T31	ENFERMEDAD 186 206	neumonía neumocócica
+T32	FARMACO 541 558	Hidroxicloroquina
+T33	FARMACO 561 573	Azitromicina
+T34	SINTOMA 612 656	patrón radiologico con afectación unilateral
+T35	ENFERMEDAD 719 731	tuberculosis
+T36	SINTOMA 798 837	esputo con presencia de flora saprofita
+T37	SINTOMA 840 862	antigenurias negativas
+T38	PROCEDIMIENTO 840 852	antigenurias

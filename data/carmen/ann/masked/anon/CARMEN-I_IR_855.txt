@@ -1,0 +1,17 @@
+
+prueba:
+INTERC. RADIOLOGIA TORAX
+
+clinica:
+SOLICITO REVALORACIÓN DE ANGIOTC pulmonar para ver extensión torácica de neoplasia de mama con M1 óseas y probablemente hepáticas. gracias
+NEPLASIA DE MAMA
+
+resultados:
+Se realiza informe complementario al que se efectuó de urgencias y con el objetivo de valorar la enfermedad neoplásica..
+Presenta discreto derrame pleural bilateral con colapso parenquimatoso pasivo.
+No identifico hallazgos sugestivos de extensión metastásica pulmonar en esta exploración.
+Se evidencia una extensa afectación ósea metastásica.
+El parénquima hepático no puede valorarse en esta exploración debido a que no disponemos de una fase portal.
+
+conclusiones:
+.

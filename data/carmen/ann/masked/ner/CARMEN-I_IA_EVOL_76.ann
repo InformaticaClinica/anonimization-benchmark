@@ -1,0 +1,28 @@
+T1	PROCEDIMIENTO 184 202	exploración física
+T2	PROCEDIMIENTO 254 274	radiografía de tórax
+T3	PROCEDIMIENTO 647 657	TC craneal
+T4	PROCEDIMIENTO 886 900	oxigenoterapia
+T5	PROCEDIMIENTO 802 824	tratamiento analgésico
+T6	PROCEDIMIENTO 982 1006	aislamiento en domicilio
+T7	PROCEDIMIENTO 1065 1076	aislamiento
+T8	SINTOMA 123 148	hemodinámicamente estable
+T9	SINTOMA 150 157	afebril
+T10	SINTOMA 160 177	eupneica en basal
+T11	SINTOMA 211 222	hipofonesis
+T12	SINTOMA 233 249	crepitante basal
+T13	SINTOMA 286 315	patrón intersticial bilateral
+T14	SINTOMA 358 371	plaquetopenia
+T15	SINTOMA 567 605	cefalea de características tensionales
+T16	SINTOMA 782 789	cefalea
+T17	ENFERMEDAD 4 26	NEUMONÍA POR SARS-COV2
+T18	ENFERMEDAD 427 449	neumonía por SARS-CoV2
+T19	ENFERMEDAD 745 766	granuloma calcificado
+T20	FARMACO 513 523	Remdesivir
+T21	HUMANO 829 837	paciente
+T22	ENFERMEDAD 30 47	CEFALEA TENSIONAL
+T23	ENFERMEDAD 51 81	GRANULOMA CEREBRAL CALCIFICADO
+T24	SPECIES 17 26	SARS-COV2
+T25	SPECIES 440 449	SARS-CoV2
+T26	PROCEDIMIENTO 323 332	analítica
+T27	SINTOMA 868 900	requerimientos de oxigenoterapia
+T28	SINTOMA 907 949	normalización de los parámetros analíticos

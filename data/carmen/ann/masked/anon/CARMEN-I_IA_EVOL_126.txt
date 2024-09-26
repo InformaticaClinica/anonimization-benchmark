@@ -1,0 +1,16 @@
+
+1. INSUFICIENCIA CARDIACA con FE preservada.
+2. INSUFICIENCIA RESPIRATORIA
+3. FIBRILACIÓN AURICULAR
+4. ENFERMEDAD RENAL CRÓNICA ESTADÍO 3A
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con antecedentes a destacar de ICC que sigue controles en Hospital de Día / PCC de Medicina Interna. También FA anticoagulada, HTA y DM2. Ingreso a Medicina Interna por IC descompensada 1/2020.
+Recientemente no se ha tomado furosemida vía oral porque le había caducado la receta. Fue visitado por última vez por el PCC hace 4-5 días reiniciando tratamiento con furosemida 40mg 1-1-0.
+Acude a urgencias por cuadro de disnea progresiva de 48 horas sin fiebre ni expectoración y sin clara ortopnea ni disnea paroxística nocturna. No claro desencadenante (no exteriorización hemorrágica, no palpitaciones, no dolor torácico, no AINEs, no hace dieta hiposódica).
+A su llegada a urgencias se encuentra HD estable, afebril, eupneica en reposo pero taquipneica al hablar, SatO2 95% con LN 2 lpm. En la exploración destaca algún crepitante bibasal sin edemas en MMII, ni signos de IJ ni RHJ.
+Radiografía de tórax con signos de redistribución pero sin cambios respecto días previos. Analítica con función renal estable, ionograma normal, hemograma con anemia estable sin otras alteraciones, INR una y treinta y uno. Se inicia tratamiento deplectiu mb buena respuesta y se decide ingreso en HOSPITALIZACIÓN A DOMICLIO.
+En casa se mantuvo con síntomas congestivos, disnea CF III-IV, saturaciones en torno a 98% con LN a 3 L/min. Presentó buena respuesta diurética inicial pero poca mejoría clínica por lo que se solicitó gammagrafía pulmonar que descartó embolismo como otras cauas de disnea persistente.
+Se ha solicitado ecocardiograma (programado para el [**FECHAS**]). Sin embargo la paciente presenta mala evolución clínica a pesar de tratamiento diurético doble (se añadieron tiazidas). Hoy se realizó visita en domicilio y se ha evidenciado taquipnea más disnea CF IV. se ha administrado 60 mg de furosemida endovenosa sin mejoría (oligoanuria). Se realizó analítica en donde se ha evidenciado un aumento de de NT-proBNP de 4,000 a 6,000 pg/mL.
+Por otro lado llama la atención la infradosificiación de ACOD, ya que la paciente siempre ha presentado FG > 50 ml/min por lo que la dosis correcta debería ser 60 mg/d.
+Se decide ingreso hospitalario para optimizar tratamiento diurético endovenoso y pendiente de ecocardiograma para filiar causa de ICC con Fep (valvulopatías, amiloidosis cradíaca, etc).
+   
+   

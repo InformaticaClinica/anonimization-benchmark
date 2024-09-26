@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] ingresada por Covid-19. Además, tiene TEP ya bajo anticoagulación.
+Durante ingreso requiere oxígeno (lentillas a 2 litros en la noche).
+Radiografía de tórax con discreto empeoramiento de los infiltrados.
+También, analaítica con empeoramiento de los parámetros inflamatorios.
+Interesa TAC tórax para descartar neumonía organizativa.
+Muchas gracias.
+SOSPITA COVID-19
+
+protocolo:
+TC TORAX
+
+resultados:
+*Se compara estudio con TC previo del [**FECHAS**]
+Clara mejoría de la afectación parenquimatosa pulmonar bilateral de distribución subpleural en forma de consolidaciones en banda de predominio en ambas bases pulmonares sugestiva de infeccion vírica por COVID-19. Sin signos de fibrosis.
+Calcificaciones ateromatosas en vasos coronarios.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Hernia de hiato por deslizamiento.
+
+conclusiones:
+Mejoría respecto al estudio previo de la neumonía vírica por COVID-19, sin signos de fibrosis.
+
+descrip:
+TC TORAX

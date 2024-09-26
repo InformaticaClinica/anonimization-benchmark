@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Sospecha COVID
+
+conclusiones:
+Dudosa opacidad en campo medio del pulmon izquierdo superpuesta al 6º arco costal posterior.
+Sin otras alteraciones radiológicas pleuro-parenquimatosas ni mediastínicas significativas.
+
+descrip:
+RX  PORTATIL  TORAX

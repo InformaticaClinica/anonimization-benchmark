@@ -1,0 +1,26 @@
+ Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] años alérgica a AINE e intolerancia a la cortisona.
+Independiente ABVD. Jubilada, cuidadora de personas mayores a domicilio (fumadora pasiva). No animales en casa. Vive sola, buen soporte del sobrino.
+* ANTECEDENTES PATOLÓGICOS:
+1.- BRONQUIECTASIAS (VEMS [**NUMERO_TELEFONO**]%). No consta colonización por Pseudomonas aeruguinosa. Ha presentado episodios de hemoptisis y episodios infecciosos reiterados, con nódulos cavitados. Seguimiento por Dra.
+Leal.
+* TAC de torax [**FECHAS**] Bronquiectasias irregulares con taponamientos endobronquiales. Bronquiolitis infecciosa en LSD y LM. Atelectasia de LII sin burbuja de gas y sin cambios significativos. Cavitación de ambos nódulos en lingula y en LSD.
+2. NEUMONÍA CON DERRAME METANEUMÓNICO  IZQUIERDO en [**FECHAS**]. Preciso drenaje torácico. TAC de torax [**FECHAS**] Bronquiectasias irregulares con taponamientos endobronquiales. Bronquiolitis infecciosa en LSD y LM.
+Atelectasia de LII sin burbuja de gas y sin cambios significativos.
+Cavitación de ambos nódulos, con disminución de tamaño del situado en lingula y estabilidad del situadoen LSD.
+3. OSTEOPOROSIS.
+4. MELANOMA MALIGNO in situ supraescapular izquierdo. Exéresis ([**FECHAS**]). Ampliación de márgenes (negativos)
+5. CARCINOMA ESCAMOSO DE OROFARINGE P16+, T1N1M0
+*[**FECHAS**]: tumoración laterocervical derecha
+*[**FECHAS**]:
+-  Eco cervical: Lesión tumoral bien delimitada, polilobulada en contacto con el polo inferior de la parótida y a menos de 5 mm de los grandes vasos del cuello. La lesión mide [**NUMERO_TELEFONO**]x[**NUMERO_TELEFONO**]x[**NUMERO_TELEFONO**] mm
+-  ECO-PAAF ([**FECHAS**]): Mazacote adenopatico de [**NUMERO_TELEFONO**]x[**NUMERO_TELEFONO**] mm a nivel del tercio superior de la cadena yugular interna derecha sobre el que se realiza paaf. AP: Metásasis de Ca. escamoso. p16 + sopechoso deprimariode Orofaringe.
+- PET-TC ([**FECHAS**]): Mazacote adenopático IIb derecho de [**NUMERO_TELEFONO**] mm con signos de EEC infiltrando planos grasos adyacentes incluyendo a la grasasubcutánea y obliterando a la vena yugular. La ACI homolateral está en  contacto con la lesión sin que se aprecie infiltración. Adenopatías satélites y en Vb homolaterales así com una retrofaríngea derecha. Gran mazacote adenopático IIb derecho (SUVmax [**NUMERO_TELEFONO**]) e ipsilaterales satélites (SUVmax [**NUMERO_TELEFONO**]). Vb y retrofaríngea (SUVmax [**NUMERO_TELEFONO**]) la captación es mucho menor. Neumonía necrotizante y nódulos infecciosos pulmonares en LII y LID, ya conocidos, éste último con leve aumento del tamaño yasociado a bronquiolitis infecciosa.
+- Comité ORL-ONC ([**FECHAS**]): Se considera N sin T de probableorigen orofaríngeo (pared lateral derecha). EF con NBI positivo en amígdala derecha. Se valora como T1N1 p16  probablemente positivo. La biopsia de orofaringe es positiva para carcinoma
+Inicio [**FECHAS**] RT + QT (CDDP [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**]sem; DT prevista [**NUMERO_TELEFONO**]Gy; [**NUMERO_TELEFONO**]fr) del [**FECHAS**] al [**FECHAS**]), pendiente reevaluación
+Seguimiento por Dra Agripina y Dra. Nicoletta.
+MEDICACIÓN HABITUAL [**FECHAS**]
+- Omeprazol [**NUMERO_TELEFONO**] mg/[**NUMERO_TELEFONO**] h
+- Rilast [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**] mg inhalador
+- Calcifediol [**NUMERO_TELEFONO**] ampolla cada [**NUMERO_TELEFONO**] días
+- Denosumal [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**] meses.

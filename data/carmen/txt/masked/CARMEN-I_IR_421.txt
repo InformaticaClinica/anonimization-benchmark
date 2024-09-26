@@ -1,0 +1,32 @@
+
+prueba:
+RM ANGIO INTRACRANIAL ARTERIAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] amb uns episodis de pèrdua de cons
+
+protocolo:
+Sagital potenciada en T1
+Axial potenciada en T2
+Axial FLAIR
+Axial Eco de Gradiente potenciada en T2
+Axial potenciada en difusión
+Coronal potenciada en T2
+Axial Eco de Gradiente 3D con técnica angiográfica TOF arterial y venoso
+
+resultados:
+No se objetivan colecciones intra o extra-axiales ni desplazamientos de la línea media.
+Lesiones en sustancia blanca subcortical de ambos hemisferios secundarias a microangiopatía.
+Surcos y ventrículos de morfología normal.
+Arterias intracraneales sin alteraciones.
+Senos venosos intracraneales permeables.
+Ocupación de senos frontales, etmoidales y mastoides.
+
+conclusiones:
+Leucopatía secundaria a microangiopatía
+
+descrip:
+RM ANGIO INTRACRANIAL ARTERIAL
+
+descrip:
+RM ANGIO INTRACRANIEL VENOSA

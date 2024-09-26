@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Sospecha TEP en paciente Covid. Empeoramiento respiratorio + imagen sugestiva de infarto pulmonar en LID. Interesa TC para valoración, gracias!
+ENDOSCOPIA
+
+protocolo:
+AngioTC pulmonar urgente
+
+resultados:
+No se observan defectos de repleción en las ramas (principales/ lobares/segmentarias/subsegmentarias) compatibles con TEP agudo.
+Permeabilidad del tronco pulmonar principal, de calibre aumentado (35 mm). No hay signos de sobrecarga cardíaca derecha.
+Espacios pleurales libres. No se observa derrame pericárdico.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Tractos fibrocicatriciales biapicales. Presencia de opacidades en vidrio deslustrado bilaterales difusas de predominio subpleural, algunas de ellas con tendencia a la consolidación en porciones declives de los LLII en relación a su infección por COVID-19.
+Enfisema pulmonar.
+Signos de hepatopatía crónica e hipertensión pulmonar. Portador de TIPS.
+Material de embolización en arteria esplénica.
+Ginecomastia bilateral.
+Nódulo infracentimétrico en lóbulo tiroideo izquierdo, a valorar mediante ecografía si procede.
+
+conclusiones:
+No se identifican imágenes de TEP agudo.
+
+descrip:
+ANGIO TC PULMONAR

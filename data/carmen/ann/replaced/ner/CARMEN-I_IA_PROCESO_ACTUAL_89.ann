@@ -1,0 +1,81 @@
+T6	SINTOMA 72 112	dolor abdominal continu a flanc esquerre
+T7	SINTOMA 285 320	dolor abdominal difús a la palpació
+T8	SINTOMA 1609 1616	afebril
+T9	SINTOMA 43 69	dolor centrotoràcic atípic
+T10	SINTOMA 158 181	deposicions diarreiques
+T11	SINTOMA 128 147	episodi presincopal
+T12	ENFERMEDAD 272 282	hipotensió
+T13	SINTOMA 518 541	elevació del segment ST
+T14	SINTOMA 586 608	elevació de troponines
+T15	SINTOMA 826 879	hipocinesia a la cara anteroseptal, apical i inferior
+T16	SINTOMA 1046 1061	FEVI disminuida
+T17	ENFERMEDAD 1116 1126	hipotensió
+T18	SINTOMA 1128 1146	acidosi metabòlica
+T19	SINTOMA 1148 1165	hiperlactacidemia
+T20	SINTOMA 1189 1197	oligúria
+T21	SINTOMA 1531 1552	regular estat general
+T22	SINTOMA 1557 1564	nàusees
+T23	SINTOMA 1567 1587	molèsties abdominals
+T24	SINTOMA 1589 1597	eupneica
+T25	SINTOMA 1621 1624	MVC
+T26	SINTOMA 1645 1647	TR
+T27	SINTOMA 1654 1658	bufs
+T28	SINTOMA 1675 1696	ABD tou i depressible
+T29	SINTOMA 2198 2210	leucocitosis
+T30	SINTOMA 2303 2344	funció ventricular lleugerament deprimida
+T31	SINTOMA 2349 2369	hipocinèsia anterior
+T32	SINTOMA 2372 2412	acinèsia de segment septoapical i apical
+T33	SINTOMA 2559 2587	col·lapse de cavitats dretes
+T34	SINTOMA 2589 2601	VCI dilatada
+T35	SINTOMA 2885 2898	asimptomàtica
+T36	SINTOMA 2901 2912	tranquil·la
+T37	SINTOMA 2926 2974	frotis nasofaringi SARS-CoV2 que resulta positiu
+T38	SINTOMA 1698 1741	dolorosa palpació a flanc i hipocondri dret
+T39	SINTOMA 2414 2446	miocardi aprimat a nivell apical
+T40	ENFERMEDAD 414 421	colitis
+T41	ENFERMEDAD 981 1021	IAMCEST evolucionat amb ruptura cardíaca
+T42	ENFERMEDAD 128 147	episodi presincopal
+T43	ENFERMEDAD 358 370	abdomen agut
+T44	ENFERMEDAD 684 690	infart
+T45	ENFERMEDAD 890 926	vessament pericàrdic circumferencial
+T46	ENFERMEDAD 1167 1186	insuficiència renal
+T47	ENFERMEDAD 1226 1242	shock obstructiu
+T48	ENFERMEDAD 1226 1258	shock obstructiu +/- cardiogènic
+T49	ENFERMEDAD 1784 1904	malaltia de dos vasos: Cx distal del 70% i DA amb lesions proximal i mitja del 80 i 70% així com lesió trombòtica distal
+T50	ENFERMEDAD 2449 2485	Vessament pericàrdic circunferencial
+T51	ENFERMEDAD 3108 3115	IAMCEST
+T52	ENFERMEDAD 3223 3246	esdeveniments arrítmics
+T53	SINTOMA 1631 1639	agregats
+T54	ENFERMEDAD 1939 1957	ruptura continguda
+T55	PROCEDIMIENTO 1964 1978	revazcularitza
+T56	FARMACO 1283 1295	sueroterapia
+T57	FARMACO 1297 1307	bicarbonat
+T58	FARMACO 1319 1329	furosemida
+T59	PROCEDIMIENTO 1513 1529	suport vasoactiu
+T60	FARMACO 2822 2829	morfina
+T61	PROCEDIMIENTO 385 398	TAC abdominal
+T62	PROCEDIMIENTO 730 733	ECG
+T63	PROCEDIMIENTO 781 810	ecocardiografia a peu de llit
+T64	PROCEDIMIENTO 1755 1770	coronariografia
+T65	PROCEDIMIENTO 2184 2193	Hemograma
+T66	PROCEDIMIENTO 2275 2298	ecoscòpia a peu de llit
+T67	PROCEDIMIENTO 3206 3220	monitorització
+T68	PROCEDIMIENTO 449 467	electrocardiograma
+T69	PROCEDIMIENTO 679 690	codi infart
+T70	PROCEDIMIENTO 1400 1419	doble antiagregació
+T71	PROCEDIMIENTO 1423 1437	anticoagulació
+T72	SINTOMA 1482 1506	hemodinàmicament estable
+T73	PROCEDIMIENTO 1618 1620	AR
+T74	PROCEDIMIENTO 1641 1644	ACV
+T75	PROCEDIMIENTO 1990 2029	tractament antiagregant i anticoagulant
+T76	HUMANO 2766 2773	pacient
+T77	PROCEDIMIENTO 2836 2853	mesura de confort
+T78	PROCEDIMIENTO 2926 2954	frotis nasofaringi SARS-CoV2
+T79	SPECIES 2945 2954	SARS-CoV2
+T80	HUMANO 3319 3326	pacient
+T81	HUMANO 3359 3366	família
+T82	PROCEDIMIENTO 2240 2250	Hemostàsia
+T83	PROCEDIMIENTO 1310 1329	bolus de furosemida
+T84	SINTOMA 1663 1673	congestiva
+T1	PROCEDIMIENTO 3018 3040	intervenció quirúrgica
+T2	PROCEDIMIENTO 2694 2716	intervenció quirúrgica

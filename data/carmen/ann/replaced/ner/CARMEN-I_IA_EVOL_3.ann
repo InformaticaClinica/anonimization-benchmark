@@ -1,0 +1,45 @@
+T4	SINTOMA 209 215	fiebre
+T5	SINTOMA 742 764	opacidades bilaterales
+T6	SINTOMA 1016 1034	episodios febriles
+T7	SINTOMA 1039 1059	clínica respiratoria
+T8	SINTOMA 334 358	Frotis siempre negativos
+T9	SINTOMA 866 910	frotis para SARS-CoV- 2 que resulta positivo
+T10	SINTOMA 1063 1089	insuficiencia respiratoria
+T11	SINTOMA 1543 1554	buen estado
+T12	SINTOMA 1316 1354	alteraciones analíticas o radiológicas
+T13	SINTOMA 1388 1438	recuento de inmunoglobulinas que resultan normales
+T14	PROCEDIMIENTO 547 558	corticoides
+T15	PROCEDIMIENTO 691 699	TC tórax
+T16	PROCEDIMIENTO 866 889	frotis para SARS-CoV- 2
+T17	PROCEDIMIENTO 1440 1464	estudio de autoinmunidad
+T18	PROCEDIMIENTO 334 340	Frotis
+T19	PROCEDIMIENTO 572 591	control radiológico
+T20	PROCEDIMIENTO 1388 1416	recuento de inmunoglobulinas
+T21	PROCEDIMIENTO 1467 1476	serología
+T22	PROCEDIMIENTO 1599 1621	medidas de aislamiento
+T23	PROCEDIMIENTO 1097 1117	estudio de contactos
+T24	SINTOMA 998 1010	asintomático
+T25	ENFERMEDAD 4 28	INFECCIÓN POR SARS-CoV-2
+T26	ENFERMEDAD 77 80	HTA
+T27	ENFERMEDAD 82 105	miastenia gravis bulbar
+T28	ENFERMEDAD 180 206	insuficiencia respiratoria
+T29	ENFERMEDAD 236 257	neumonia organizativa
+T30	ENFERMEDAD 293 317	infección por SARS-CoV-2
+T31	ENFERMEDAD 392 429	bacteriemia por E. coli foco urinario
+T32	ENFERMEDAD 631 642	infecciones
+T33	ENFERMEDAD 785 807	infección aguda vírica
+T34	ENFERMEDAD 1168 1183	infección aguda
+T35	ENFERMEDAD 1215 1227	cuadro agudo
+T36	FARMACO 117 125	mestinón
+T37	FARMACO 128 138	prednisona
+T38	FARMACO 447 458	ceftriaxona
+T39	HUMANO 29 37	Paciente
+T40	HUMANO 1559 1567	paciente
+T41	HUMANO 1639 1647	paciente
+T42	SPECIES 307 317	SARS-CoV-2
+T43	SPECIES 408 415	E. coli
+T44	PROCEDIMIENTO 1342 1354	radiológicas
+T1	SPECIES 18 28	SARS-CoV-2
+T2	SPECIES 878 889	SARS-CoV- 2
+T3	HUMANO 1118 1134	familiar cercano
+T45	SINTOMA 1097 1151	estudio de contactos familiar cercano resulta positivo

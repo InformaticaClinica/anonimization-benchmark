@@ -1,0 +1,12 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+colangitis
+
+protocolo:
+ECOGRAFÍA DE PARED ABDOMINAL ANTERIOR
+
+conclusiones:
+Petición duplicada.

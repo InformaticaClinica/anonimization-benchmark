@@ -1,0 +1,33 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**]. Neumonía por COVID. IOT. Colocación vía central izq en carótida. Solicitamos ANGIO TAC URGENTE CUELLO Y TORAX PARA DESCARTAR TROMBOSIS. Dependiendo de esto DIVAS o QX. Hablado con vascular.
+Gracias
+Descartar trombosis cateter carótida
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+CVC subclavio derecho con extremo distal en unión entre vena innominada y VCS. Catéter con origen en arteria carótida común izquierda y extremo distal en aorta ascendente distal. Sonda nasoduodenal. Tubo endotraqueal a 3.5 cms de carina.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de arteria pulmonar no dilatado (22 mm). No se observan signos de sobrecarga de cavidades derechas.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Derrame pleural laminar izquierdo. No se observa derrame pleural derecho ni pericárdico.
+Opacidades en vidrio deslustrado de predominio periférico y peribroncovascular en ambos campos pulmonares de manera difusa.
+Dilataciones bronquiales y bronquiolares con engrosamiento peribronquial, con ocupaciones endobronquiales mucosas bilaterales.
+Tenues focos consolidativos en región posterior de LID. Todo ello compatible con extensa neumonía bilateral por COVID-19 en evolución.dada la presencia d eimpactaciones bronquiales de predominio en LII con atelectasia distal habría que valorar posibilidad de sobreinfección/aspiración.
+Extenso enfisema centrolobulillar difuso. Atelectasia adhesiva segmentaria en LII.
+Granulomas calcificados bilaterales.
+Quistes renales derechos de aspecto simple.
+
+conclusiones:
+No se observa TEP.Derrame pleural izquierdo laminar.
+Extenso enfisema,
+Extensas opacidades en vidrio deslustrado periféricas y peribroncovasculares, , hallazgos en relación a neumonía bilateral por COVID-19.
+Ocupacione sbronquiales de predominio en LII con atelectasia distal.Valorar sobreinfección/aspiración.
+
+descrip:
+ANGIO TC PULMONAR

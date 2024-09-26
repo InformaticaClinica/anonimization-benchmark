@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+sospecha covid
+
+conclusiones:
+Tenue patrón alveolo-intersticial basal bilateral de predominio derecho.
+Pinzamiento del seno costofrénico izquierdo, sugestivo de pequeño derrame pleural.
+Hallazgos sugestivos de PROBABLE COVID-19.
+
+descrip:
+RX  PORTATIL  TORAX

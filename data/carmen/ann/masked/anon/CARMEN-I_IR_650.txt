@@ -1,0 +1,33 @@
+
+prueba:
+TC ABDOMINOPELVICO (GU)
+
+clinica:
+Solicito TC abdominopélvico para descartar colecciones intraabdominales en paciente con cesárea [**FECHAS**] y fiebre puerperal de hasta 39ºC sin claro foco hace 4 días a pesar de antibiótico. Paciente COVID POSITIVO.
+Actualmente, tto ATB con tazocel hace 3 días. Cultivos negativos, hemocultivos en curso. RxTx sin hallazgos, SpO2 98% basal. No tributaria de tto antiviral ni esteroideo para COVID.
+Gracias!
+fiebre puerperal COVID
+
+protocolo:
+TC abdominopèlvic URGENT amb contrast e.v. en fase portal
+
+resultados:
+Fetge de morfologia, vores i atenuació normals. S'identifica una lesió focal hipodensa de 10 mm a cúpula del s.VIII amb una dubtosa captació periféica de contrast. Es tracta d'una lesió inespecífica (possible hemangioma, a valorar mitjançant ecografia si es considera necessari).
+S'identifica una segona lesió hipodensa mil·limètrica a nivell subcapsular del s.VII, molt petita per a ser caracteritzada.
+Vesícula biliar de mida normal i parets fines. Via biliar no dilatada.
+Vena porta i eix porto-espleno-mesentèric permeable.
+Pàncrees, melsa i glàndules suprarenals sense alteracions significatives. Petita melsa accessòria hiliar.
+Nanses intestinals i colon no dilatats, amb correcta captació de contrast.
+Ronyons de mida i morfologia normal, captació bilateral i simètrica de contrast. No hi ha dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica.
+Úter augmentat de mida i d'aspecte heterogeni, en relació a embaràs recent. Canvis post cesària a la paret anterior.
+No hi ha líquid lliure intraabdominal ni col·leccions.
+Petit acúmul de líquid i gas a nivell subcutani de FID
+
+conclusiones:
+Canvis en relació a cesària recent amb un petit acúmul de líquid i gas a nivell subcutani de la FID.
+No hi ha líquid lliure intraabdominal ni col·leccions.
+S'identifica una lesió focal inespecífica a cúpula del s.VIII (possible hemangioma, a valorar mitjançant ecografia si es considera necessari).
+
+descrip:
+TC ABDOMINOPELVICO (GU)

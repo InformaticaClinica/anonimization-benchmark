@@ -1,0 +1,22 @@
+T11	ENFERMEDAD 31 51	alergia a sulfamidas
+T12	ENFERMEDAD 67 76	exfumador
+T13	ENFERMEDAD 145 166	Hipertensión arterial
+T14	ENFERMEDAD 193 220	Carcinoma urotelial vesical
+T15	ENFERMEDAD 377 391	Diverticulitis
+T16	ENFERMEDAD 653 680	Trastorno ansioso-depresivo
+T17	ENFERMEDAD 583 613	Silla turca parcialmente vacía
+T18	ENFERMEDAD 871 884	tumor benigno
+T19	SINTOMA 53 64	edema manos
+T20	SINTOMA 723 730	amnesia
+T21	FARMACO 568 578	rifaximina
+T22	FARMACO 1028 1038	Rifaximina
+T23	FARMACO 1071 1081	amlodipino
+T24	FARMACO 1097 1123	Losartan/Hidroxicloroquina
+T25	PROCEDIMIENTO 239 261	resección transuretral
+T26	PROCEDIMIENTO 264 284	instilaciones de BCG
+T27	PROCEDIMIENTO 496 519	tratamiento antibiótico
+T28	PROCEDIMIENTO 632 642	TC craneal
+T29	PROCEDIMIENTO 849 866	Hemitiroidectomía
+T30	PROCEDIMIENTO 990 1004	Apendicectomía
+T31	HUMANO 1 7	Hombre
+T32	PROCEDIMIENTO 318 328	citoscopia

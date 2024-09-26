@@ -1,0 +1,8 @@
+ ANTECEDENTES PERSONALES
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] natural de [**PAIS**]. Reside en [**CALLE**] desde hace [**FECHAS**] con su [**FAMILIARES_SUJETO_ASISTENCIA**] y su [**FAMILIARES_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**]. Último viaje a [**PAIS**] hace [**FECHAS**]. Independiente para las ABVD. Actualmente en desempleo desde hace [**FECHAS**] (antes trabajaba como [**PROFESION**]). No refiere hábitos tóxicos ni AMC.
+Barrera idiomática parcial.
+ANTECEDENTES PATOLÓGICOS
+No refiere AP de interés.
+TPAL [**ID_SUJETO_ASISTENCIA**] ([**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**]).
+FUR [**FECHAS**].
+No toma medicación de manera habitual.

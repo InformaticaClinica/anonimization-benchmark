@@ -1,0 +1,7 @@
+
+Nota de Cardiología ([**NOMBRE_PERSONAL_SANITARIO**] / [**NOMBRE_PERSONAL_SANITARIO**] / adj loc [**NOMBRE_PERSONAL_SANITARIO**]):
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], no al? Alergias, ex fumador, hipertenso, dislipémico y diabético 2 insulinodependiente. Cardiópata isquémico con IAM anterior [**FECHAS**] que debuta con PCR, revascularización con stent convencional en Dam, complicado durante ingreso con reinfarto nuevamente revascularizar y bloqueo AV completo para betabloqueantes (no requirió marcapasos) y posteriormente con reingreso por taponamiento pericárdico (posiblemente inflamatorio postIAM) . Actualmente FEVE recuperada, EKG basal con bloqueo AV 1º (PR 240mseg) y BRDHH y HBASE.
+Ingresado en Inf por neumonía por coronavirus, nos consultan por bradicardia sintomática, presentando el paciente mareo. EKG de control con ritmo nodal a 35-40ppm, escape de BRDHH más aberrante. Analítica de control con hipoK ligera 3,3mEq / L e IRA Cr 1,4mg / dL (previas normales).
+Paciente en tratamiento con hidroxicloroquina por la neumonía y con bisoprolol 1,35 habitual. Paremos ambos fármacos e iniciamos isoproterenol, consiguiendo FC 50-55ppm. Por la mañana, EKG para monitor aparente recuperación de ritmo sinusal 60ppm (algunas derivaciones desconectadas).
+Según evolución y en caso de necesidad se puede plantear trasladó nuevamente a sala de hospitalización convencional. Previamente habría que detener aleudrines y hacer EKG de control posterior (intentando esperar el margen de tiempo posible). Paciente para valorar implante de marcapasos según evolución.
+ 

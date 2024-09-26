@@ -1,0 +1,61 @@
+T1	SINTOMA 284 290	fiebre
+T2	SINTOMA 333 352	buen estado general
+T3	SINTOMA 354 361	afebril
+T4	SINTOMA 364 389	hemodinamicamente estable
+T5	SINTOMA 449 465	elevación de PCR
+T6	SINTOMA 1012 1028	elevación de PCR
+T7	SINTOMA 110 124	Hipomagnesemia
+T8	SINTOMA 467 477	leucopenia
+T9	SINTOMA 574 585	infiltrados
+T10	SINTOMA 588 600	condensación
+T11	SINTOMA 602 630	Antigeno para Covid positivo
+T12	SINTOMA 638 663	PCR posteriores negativas
+T13	SINTOMA 1278 1313	antigenuria positiva para neumococo
+T14	PROCEDIMIENTO 1343 1354	antigenuria
+T15	SINTOMA 1418 1446	alteraciones parenquimatosas
+T16	SINTOMA 1459 1518	Pelvis extrarrenal izquierda de pared ligeramnete engrosada
+T17	SINTOMA 1839 1858	buen estado general
+T18	SINTOMA 1863 1891	ausencia de signos de alarma
+T19	ENFERMEDAD 417 426	mucositis
+T20	ENFERMEDAD 680 698	neutropenia febril
+T21	ENFERMEDAD 753 772	infección por Covid
+T22	ENFERMEDAD 977 986	mucositis
+T23	ENFERMEDAD 1666 1685	infección por Covid
+T24	ENFERMEDAD 1731 1766	neutropenia febril de foco urinario
+T25	ENFERMEDAD 30 39	Mucositis
+T26	ENFERMEDAD 45 95	Neutropenia febril de bajo riesgo de foco urinario
+T27	ENFERMEDAD 98 104	Anemia
+T28	ENFERMEDAD 110 124	Hipomagnesemia
+T29	ENFERMEDAD 176 198	Neoplasia de mama TNBC
+T30	ENFERMEDAD 616 621	Covid
+T31	ENFERMEDAD 854 859	Covid
+T32	SINTOMA 1207 1267	urocultivo se aisla Escherichia coli y Enterococcus faecalis
+T33	FARMACO 864 881	hidroxicloroquina
+T34	FARMACO 883 895	azitromicina
+T35	FARMACO 897 916	lopinavir/ritonavir
+T36	FARMACO 919 930	ceftriaxona
+T37	FARMACO 1120 1139	esquema antibiótico
+T38	FARMACO 1154 1165	ceftriaxona
+T39	FARMACO 1168 1180	teicoplanina
+T40	FARMACO 1195 1202	tazocel
+T41	FARMACO 1815 1829	ciprofloxacino
+T42	PROCEDIMIENTO 394 407	examen físico
+T43	PROCEDIMIENTO 526 546	Radiografía de tórax
+T44	PROCEDIMIENTO 948 952	CCHH
+T45	PROCEDIMIENTO 1402 1413	TC de tórax
+T46	PROCEDIMIENTO 1786 1797	antibiótico
+T47	HUMANO 218 226	Paciente
+T48	FARMACO 150 159	magnogene
+T49	SINTOMA 163 170	Astenia
+T50	ENFERMEDAD 194 198	TNBC
+T51	PROCEDIMIENTO 202 217	tto neoadyuvate
+T52	PROCEDIMIENTO 638 641	PCR
+T53	PROCEDIMIENTO 1207 1217	urocultivo
+T54	SPECIES 1227 1243	Escherichia coli
+T55	SPECIES 1246 1267	Enterococcus faecalis
+T56	SPECIES 1304 1313	neumococo
+T57	PROCEDIMIENTO 1278 1289	antigenuria
+T58	FARMACO 1802 1812	augmentine
+T59	PROCEDIMIENTO 431 440	analítica
+T60	PROCEDIMIENTO 1559 1568	analítica
+T61	SINTOMA 1589 1628	mejoría de los parametros inflamatorios

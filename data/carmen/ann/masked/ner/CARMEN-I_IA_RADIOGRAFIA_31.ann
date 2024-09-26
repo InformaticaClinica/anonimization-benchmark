@@ -1,0 +1,25 @@
+T2	ENFERMEDAD 210 249	adenopatias mediastinicas inespecificas
+T3	ENFERMEDAD 666 696	derrame pleural ni pericárdico
+T4	ENFERMEDAD 780 786	quiste
+T5	ENFERMEDAD 921 948	sangrado agudo intracraneal
+T6	ENFERMEDAD 983 1009	lesiones isquémicas agudas
+T7	ENFERMEDAD 1139 1165	enfermedad de pequeño vaso
+T8	ENFERMEDAD 78 91	cardiomegalia
+T9	ENFERMEDAD 320 340	cardiomegalia global
+T10	ENFERMEDAD 838 846	COVID-19
+T11	ENFERMEDAD 950 979	lesiones ocupantes de espacio
+T12	ENFERMEDAD 1176 1210	pérdida global de volumen cerebral
+T13	SINTOMA 607 657	densidad suboleural apical anteirore LSD, LM y LID
+T14	SINTOMA 1050 1112	Hipodensidad en la sustancia blanca subcortical supratentorial
+T15	PROCEDIMIENTO 3 14	Rx de tórax
+T16	PROCEDIMIENTO 95 106	TC TORÁCICO
+T17	PROCEDIMIENTO 342 392	marcapasoso con electrodos endocavitarios derechos
+T18	PROCEDIMIENTO 870 872	TC
+T19	PROCEDIMIENTO 895 905	TC CRANEAL
+T20	PROCEDIMIENTO 1025 1027	TC
+T21	SINTOMA 19 48	patrón intersticial bilateral
+T22	SINTOMA 51 75	pinzmiento SCF izquierdo
+T23	SINTOMA 433 506	aumentos de densidad en vidrio deslustrado perifericos que afectan al LSI
+T24	SINTOMA 1229 1276	prominencia de surcos y del sistema ventricular
+T25	SINTOMA 1278 1317	Estructuras de la línea media centradas
+T26	SINTOMA 1319 1350	Cisternas basales no colapsadas

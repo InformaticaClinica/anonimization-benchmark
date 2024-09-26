@@ -1,0 +1,4 @@
+Paciente es traíada por el SEM. Son alertados por caída al suelo el [**FECHAS**] a las 23h00, con dolor e impotencia funiconal derecha. La encuentran hipertensa a 190/80, FC noramles, eupneica en basal y febril.
+Paciente refiere que ayer [**FECHAS**] a las 23h00 al ir a dormir tuvo una sensación de pérdida de fuerza de ambas extremidades inferiores, por lo cual se cayó y permaneció en el suelo durante toda la noche, hoy su [**FAMILIARES_SUJETO_ASISTENCIA**]la encuetra postrada en el suelo y llama al SEM.
+Su [**FAMILIARES_SUJETO_ASISTENCIA**] no refiere  déficits  motores aparentes.
+Pauta completa de vacunación: 1a dosis [**FECHAS**] y 2a [**FECHAS**].

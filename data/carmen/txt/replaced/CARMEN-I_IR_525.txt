@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+descartar M1 cerebrales. Neoplàsia maligna, ovari no especificat
+
+protocolo:
+TCMD craneal basal y con contraste yodado intravenoso.
+
+resultados:
+Surcos de la convexidad, sistema ventricular y cisternal de tamaño y morfología básicamente conservados para la edad.
+No se identifican alteraciones volumétricas o densitométricas encefálicas significativas, signos de isquemia aguda/subaguda, focos hemorrágicos agudos intra o extraparenquimatosos ni datos de efecto masa.
+Tras la administración de contraste no se aprecian realces sospechosos intra o extraparenquimatosos.
+Senos venosos permeables.
+Estructuras de la línea media centradas, cisternas basales libres.
+Pequeña lesión lítica ósea parietal posterior izquierda de 8 mm que afecta a tabla externa y a hueso medular, de carácter inespecífico.
+
+conclusiones:
+Sin evidencia de afectación metastásica intracraneal intra o extraparenquimatosa.
+Pequeña imagen lítica parietal izquierda inespecífica.
+
+descrip:
+TC CEREBRAL

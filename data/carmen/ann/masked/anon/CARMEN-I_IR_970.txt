@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] con antecedtes de trasplante renal, con sd mieloproliferativo, ingreso prolognado en la UVIR por covid+, con insuficiencia respiratoria grave con necesidad prolongada de LAF,no se ha intubado, actualmente con VK al 40%, sospecha de sobreinfeccion por PN jirovecci vs histoplasmosis ademas de reactivación de CMV.
+Aun PCR covid +.
+Solicitamos estudio.
+covid +
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+Se compara con estudios de TC previo del [**FECHAS**].
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Pequeño derrame pericárdico. No se observa derrame pleural.
+Opacidades bilaterales en vidrio deslustrado y algunos focos consolidativos de distribución predominantemente periférica, perilobular y peribroncovascular que han mejorado en densidad con respecto a estudio previo, con aparición de bronquiectasias de tracción y bandas subpleurales sugestivo de infección pulmonar por COVID-19 con evolución a neumonía organizada.
+
+conclusiones:
+Afectación parenquimatosa bilateral de las características descritas que ha mejorado con respecto a estudio previo y que es sugestivo de infección pulmonar por COVID 19 con resolución a una neumonía organizada.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

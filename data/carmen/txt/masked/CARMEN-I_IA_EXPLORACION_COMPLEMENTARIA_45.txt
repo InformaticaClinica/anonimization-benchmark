@@ -1,0 +1,24 @@
+
+[**FECHAS**].
+ECG [**FECHAS**]: fibrilación auricular con conducción ventricular a 112 lpm, QRS 100ms, QTc 400ms.
+[**FECHAS**].
+**RX TÓRAX
+-Al ingreso: infiltrados intersticiales bilaterales
+- Al alta: infiltrados intersticiales bilaterales sin empeoramiento franco respecto a la placa previa.
+[**FECHAS**].
+**ANALÍTICAS
+-AL INGRESO ([**FECHAS**])
+BIOQUÍMICA GENERAL
+PCR 9.85/A mg/dL, Glucosa 129/A mg/dL, Troponina I d'alta sensibilitat urgent 13.6 ng/L, Creatinina 0.62 mg/dL, FG 86.62 ml/min/, ASAT 43/A U/L ALAT 27 U/L, GGT 56/A U/L, Bilirrubina total 0.40 mg/dL, Bilirrubina conjugada 0.10 mg/dL, Fosfatasa alcalina 60 U/L, LDH 377/A U/L, Proteïnes totals 70 g/L, Sodi 134/B mEq/L Potasi 3.0/B mEq/L, Procalcitonina, plasma 0.09 ng/mL, Calci 8.30/B mg/dL, Magnesi 1.6/B mg/dL, Ferritina 709/A ng/mL
+HEMOGRAMA
+Leucòcits 3.84/B 10^9/L, Hematies 4.01 10^12/L, Hemoglobina 114/B g/L, Hematòcrit 0.340/B L/L, VCM 85.6 fl, HCM 28.3 pg, CCMH 331 g/L ADE 16.3%, Plaquetes 183 10^9/L
+HEMOGRAMA
+Volum plaquetari mig 8.6 fl, Neutròfils 67.3%, Eosinòfils 0.1%, Basòfils 0.4%, Limfòcits 24.9%, Monòcits 3.9%, LUC 3.4%, Neutròfils 2.6 10^9/L, Eosinòfils 0.0 10^9/L, Basòfils 0.0 10^9/L, Limfòcits 1.0 10^9/L, Monòcits 0.1 10^9/L, LUC 0.1 10^9/L
+HEMOSTÀSIA GENERAL
+Dimer D quantitatiu, sèrum 1100/A ng/mL
+-AL ALTA ([**FECHAS**])
+BIOQUÍMICA GENERAL
+PCR 5.22/A mg/dL, Glucosa 78 mg/dL, Creatinina 0.59 mg/dL FG 88.05 ml/min/, ASAT 30 U/L (Muestra ligeramente hemolizada), ALAT 34 U/L, Gamma glutamil transpeptidasa (GGT) 49/A U/L, Bilirrubina total 0.70 mg/dL, Bilirrubina conjugada 0.20 mg/dL, Fosfatasa alcalina 56 U/L, LDH 400/A U/L (Muestra ligeramente hemolizada), Proteïnes totals 62/B g/L, Sodi 141 mEq/L, Potasi 3.3/B mEq/L, Procalcitonina, plasma 0.13 ng/mL, Calci 8.20/B mg/dL, Magnesi 2.1 mg/dL, Ferritina 819/A ng/mL
+HEMOGRAMA
+Leucòcits 5.09 10^9/L, Hematies 3.89 10^12/L, Hemoglobina 105/B g/L Hematòcrit 0.340/B L/L, VCM 86.3 fl, HCM 27.0 pg, CCMH 313 g/L ADE 16.3%, Plaquetes 333 10^9/L
+ 

@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC VENOSA ABDOMINAL (VCI V SUPRAHE PATICAS V PORTA)
+
+clinica:
+Paciente de 69 años ingresado por neumonía bilateral por SARS-COV-2 con múltiples complicaciones infecciosas sistémicas y lesiones hepáticas sugestivas de origen infeccioso. Rogamos valoración de la evolución de lesiones después de iniciar antibioterapia la semana anterior. Gracias.
+Hemorragia digestiva alta
+
+conclusiones:
+PROTOCOLO DE LA TÉCNICA:
+Se realiza estudio TC torácico en fase arterial y abdominio-pélvico en fase venosa portal.
+RESULTADOS:
+TÓRAX: El estudio torácico tiene un informe independiente que ya consta en el SAP.
+ABDOMEN:
+Hígado globalmente aumentado de tamaño y de morfología normal, sin cambios con repecto al estudio previo de hace 1 semana, obtenido el 24/Mayo/2020.
+No se observan cambios en el tamaño ni en las características TC de las tres lesiones focales dscritas en el estudio previo, y situadas en los S. VII (18 mm), V (17 mm) y IV (15 mm). También el el S V, y en el mismo plano de corte de la lesión descrita, se observa una zona de retracción capular con una mínima hipodensidad parenquimatosa nodular de 5 mm de tamaño, que podría corresponder a una cuarta lesión, y que tampoco muestra cambios con respecto a la última TC realizada.   Todas estas lesiones siguen siendo indeterminadas.
+Vena porta y venas hepáticas permeables.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada. Bazo, páncreas y glándulas suprarrenales sin alteraciones. Riñones funcionantes de morfología y tamaño normal. No se observan adenopatías retroperitoneales ni iliacas de tamaño valorable. Sonda vesical. No se observa líquido libre intraperitoneal.
+Se observa en el actual estudio un engrosamiento edematoso de las paredes del recto y también del hemicolon derecho, que no estaba presente en la TC previa y que podría traducir algún tipo de proceso infeccioso local.
+CONCLUSIÓN:
+Estabilidad de las tres lesiones focales hepáticas indeterminadas, sin que se observen otras alteraciones hepatobiliares. Lo único que destaca con respecto a la TC previa es un edema parietal de las paredes del colon que podrían traducir una proctocolitis, si clínicamente es compatible.
+
+descrip:
+ANGIO TC VENOSA ABDOMINAL (VCI V SUPRAHEPATICAS V PORTA)

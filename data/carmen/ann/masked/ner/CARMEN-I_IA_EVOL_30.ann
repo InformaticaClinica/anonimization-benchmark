@@ -1,0 +1,38 @@
+T2	PROCEDIMIENTO 227 274	hemodiálisis a través de fístula humerocefálica
+T3	PROCEDIMIENTO 320 356	cateter tunelizado yugular izquierdo
+T4	PROCEDIMIENTO 670 733	hemocultivos de sangre periférica y del cateter de hemodiálisis
+T5	PROCEDIMIENTO 799 809	urocultivo
+T6	PROCEDIMIENTO 941 953	antibiograma
+T7	PROCEDIMIENTO 1103 1133	retirada de cateter tunelizado
+T8	PROCEDIMIENTO 1225 1254	frotis de virus respiratorios
+T9	PROCEDIMIENTO 1394 1411	uso de mascarilla
+T10	PROCEDIMIENTO 1462 1474	hemodiálisis
+T11	PROCEDIMIENTO 148 160	HEMODIÁLISIS
+T12	PROCEDIMIENTO 920 928	cultivos
+T13	PROCEDIMIENTO 863 885	cubierta empíricamente
+T14	SINTOMA 383 389	fiebre
+T15	SINTOMA 473 498	hemodinámicamente estable
+T16	SINTOMA 500 512	taquicárdica
+T17	SINTOMA 515 521	febril
+T18	SINTOMA 539 554	consolidaciones
+T19	SINTOMA 588 625	elevación de reactantes de fase aguda
+T20	SINTOMA 648 658	leucopenia
+T21	SINTOMA 745 764	se aisla K. oxytoca
+T22	SINTOMA 1195 1208	cuadro febril
+T23	ENFERMEDAD 4 56	BACTERIEMIA POR K. OXYTOCA SENSIBLE DE FOCO VASCULAR
+T24	ENFERMEDAD 61 117	INFECCIÓN DEL TRACTO URINARIO POR P. AERUGINOSA SENSIBLE
+T25	ENFERMEDAD 119 144	ENFERMEDAD RENAL TERMINAL
+T26	ENFERMEDAD 189 215	poliquistosis hepatorrenal
+T27	ENFERMEDAD 220 223	ERC
+T28	ENFERMEDAD 1264 1272	Covid-19
+T29	FARMACO 890 899	ertapenem
+T30	FARMACO 964 978	ciprofloxacino
+T31	PROCEDIMIENTO 523 534	Radiografía
+T32	HUMANO 170 178	Paciente
+T33	SPECIES 817 848	colonias de Pseudomona sensible
+T34	SPECIES 20 39	K. OXYTOCA SENSIBLE
+T35	SPECIES 95 117	P. AERUGINOSA SENSIBLE
+T36	SPECIES 754 776	K. oxytoca pansensible
+T37	SINTOMA 799 839	urocultivo crecen colonias de Pseudomona
+T38	SINTOMA 1225 1319	frotis de virus respiratorios incluído Covid-19 al ingreso, los cuales han resultado negativos
+T39	PROCEDIMIENTO 252 294	fístula humerocefálica de reciente punción

@@ -1,0 +1,25 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Trasplantat cardíac, amb infecció COVI. Insuficiència renal ++. TC basal, NO CONTRAST, per valorar si existeix NOC de cara a augmentar dosi cortis. Gràcies!
+Infecció per coronavirus no especificada
+
+protocolo:
+TC TORAX sin administración de contraste e.v.
+
+resultados:
+Extensa afectación parenquimatosa bilateral de distribución subpleural y peribroncovascular consistente en un gradiente superoinferior en el que a nivel de lóbulos superiores se aprecian opacidades en vidrio deslustrado con presencia de septos interlobulillares (patrón en empedrado) que a medida que se desciende tienden a confluir formando consolidaciones de morfología en banda subpleural localizadas sobretodo en bases pulmonares. En el seno de dichas consolidaciones existen algunas bronquiolectasias, distorsión arquitectural parenquimatosa y áreas con halo reverso. Globalmente los hallazgos son sugestivos de neumonía vírica por COVID-19 con neumonía organizativa y signos de fibrosis.
+Pequeña colección con calcificaciones en su interior de aspecto crónico y probable origen posquirúrgico adyacente a cara anteroinferior de ventrículo izquierdo.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglios parcialmente calcificados subcarinales.
+No se observa derrame pleural ni pericárdico.
+Vía venosa central yugular derecha con extremo distal en aurícula dercha.
+Osteosintesis en cabeza humeral izquierda. Esternotomía media.
+En los cortes de hemiabdomen superior incluidos en el estudio no se aprecian hallazgos patológicos significativos.
+
+conclusiones:
+Extensa neumonía vírica por COVID-19 con neumonía organizativa y signos de fibrosis.
+
+descrip:
+TC TORAX

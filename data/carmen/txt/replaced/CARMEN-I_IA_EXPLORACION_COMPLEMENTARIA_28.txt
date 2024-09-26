@@ -1,0 +1,64 @@
+
+* MICROBIOLOGIA:
+- Detecció PCR Covid-19 urgent (23/02/2018): Positiu
+- Hemocultiu (23/02/2018): Negatiu
+- Orina de sondatge vesical (24/02/2018): Negatiu
+- Orina. Ag. Legionella (24/02/2018): Negatiu
+- Orina. Ag. S. pneumoniae (24/02/2018): Negatiu
+- Frotis rectal. Detecció BGNs multiresistents (24/02/2018): Negatiu
+- Frotis nasal (MRSA/MSSA) (24/02/2018): Staphylococcus aureus Oxacil.lina S
+- Broncoaspirat (27/02/2018): Negatiu
+- Orina de micció espontània (28/02/2018): Negatiu
+- Hemocultiu (28/02/2018): Negatiu
+- Broncoaspirat (28/02/2018): S'aïllen 200.000 UFC/mL de Pseudomonas (Amikacina S Ceftazidima S Ciprofloxacina S Gentamicina S Imipenem S Meropenem S Pipera/tazobactam S Tobramicina S)
+- Catèter vascular JUGULAR DRET (01/03/2018): inferior a 15 UFC per segment del catèter de Pseudomonas aeruginosa y de Estafilococ coagulasa (recompte de colònies no significatiu)
+- Hemocultiu (01/03/2018): Negatiu
+- Catèter vascular ARTERIAL RADIAL E (01/03/2018): Negatiu
+- Broncoaspirat (03/03/2018): S'aïlla flora habitual o sapròfita
+- Hemocultiu (03/03/2018): Negatiu
+- Hemocultiu (03/03/2018): Negatiu
+- Orina de sondatge vesical (03/03/2018): Negatiu
+- Hemocultiu (6/03/2018): Negatiu
+- Orina de sondatge vesical (6/03/2018): Negatiu
+- Determinació AGA (6/03/2018): Negatiu Index AGA 0.09
+- Catèter vascular C. DIÁLISIS IZQUIERDO (6/03/2018): Negatiu
+- Broncoaspirat (6/03/2018): Negatiu
+- Broncoaspirat (6/03/2018): Negatiu
+- Rentat broncoalveolar immunodeprimits (6/03/2018): Detecció galactomanano Index AGA a BAL 0.05. Cultiu Negatiu. Detecció molecular Influenzavirus B Indetectable. Influenzavirus C Indetectable.
+Influenzavirus A Indetectable. Virus respiratorio sincitial Indetectable. Enterovirus Indetectable. Adenovirus Indetectable. Metapneumovirus humano Indetectable. Coronavirus Indetectable. Bocavirus humano Indetectable. Rinovirus Indetectable.
+Virus parainfluenza (1,2,3,4) Indetectable. Legionella pneumophila Indetectable. Mycoplasma pneumoniae Indetectable. Chlamydia pneumoniae Indetectable. Estudi de micobacteris No s´observen bacils àcid-alcohol resistents, Cultiu En curs. Estudi de Pneumocystis jiroveci Tinció per P. jiroveci: negativa.
+- Catèter vascular CVC FEMORAL DERECHO (6/03/2018): Negatiu
+- Frotis rectal. Detecció BGNs multiresistents (6/03/2018): S'aïlla flora habitual o sapròfita, Frotis nasal (MRSA/MSSA) (6/03/2018): S'aïlla flora habitual o sapròfita
+- Nutrició parenteral CONTROL NP ADULTS (6/03/2018): Negatiu
+- Determinació AGA (12/03/2018): Negatiu Index AGA 0.05
+- Citomegalovirus (PCR) SANGRE (12/03/2018): <34,5 UI/mL.
+- Orina de sondatge vesical (12/03/2018): Negatiu
+- Broncoaspirat (12/03/2018): Negatiu
+- Hemocultiu (12/03/2018): Negatiu
+- Broncoaspirat (14/03/2018): Negatiu
+- Frotis rectal. Detecció BGNs multiresistents (14/03/2018): Negatiu
+- Frotis nasal (MRSA/MSSA)(14/03/2018): S'aïlla flora habitual o sapròfita
+- Femta. Coprocultiu (14/03/2018): No s´aïllen bacteris enteropatògens
+- Femta. Toxina C. difficile (14/03/2018): Negatiu
+- Determinació AGA (15/03/2018): Negatiu Index AGA 0.08
+- Citomegalovirus (PCR) SIGMA I COLON DESCENDENT (15/03/2018): Indetectable copies / mL
+- Femta. Toxina C. difficile (15/03/2018): Negatiu
+- Orina de sondatge vesical (18/03/2018): Negatiu
+- Hemocultiu (18/03/2018): Pseudomonas aeruginosa (Amikacina S (<=4) Ceftazidima S (4) Ceftolozano/tazobactam S (1) Ciprofloxacina S (<= 0,125) Gentamicina S (<=1) Imipenem R (>8) Meropenem I (4) Pipera/tazobactam S (<=4/4) Tobramicina S (<=1)) Y Staphylococcus epidermidis (Clindamicina R Cotrimoxazol R Eritromicina R Levofloxacina R Linezolid S Oxacil.lina R Penicilina R Rifampicina S Vancomicina S)
+- Hemocultiu (18/03/2018): Staphylococcus epidermidis
+- Broncoaspirat (18/03/2018): > 1.000.000 i menys de 2.000.000 UFC/mL de Pseudomonas aeruginosa (Amikacina S Ceftazidima S Ciprofloxacina S Gentamicina S Imipenem R Meropenem I Pipera/tazobactam S Tobramicina S)
+- Catèter vascular ARTERIAL (19/03/2018): = o > a 15 UFC per segment de catèter (recompte de colònies significatiu) de Staphylococcus epidermidis
+- Hemocultiu (19/03/2018): Negatiu
+- Catèter vascular YD (19/03/2018): inferior a 15 UFC per segment del catèter de Candida albicans Y de Staphylococcus epiderm (recompte de colònies no significatiu)
+- Broncoaspirat (21/03/2018): Negatiu
+- Detecció Covid-19, mostra genèrica FROTIS NASOFARINGI (22/03/2018): Indetectable
+- Detecció Covid-19, mostra genèrica NASOFARINGI (26/03/2018): Indetectable
+- Catèter vascular CATETER ARTERIAL (27/03/2018): Negatiu
+* DIAGNÓSTICO LAVADO BRONCOALVEOLAR:
+- EXTENDIDO CELULAR MACROFÁGICO CON LEVE FONDO INFLAMATORIO AGUDO
+- PRESENCIA DE OCASIONALES MICROORGANISMOS (ESPORAS) CON LA TINCIÓN DE PLATA
+* DIAGNÓSTICO
+COLON, (BIOPSIAS ESCALONADAS):
+- MUCOSA COLÓNICA CON EDEMA EN LÁMINA PROPIA Y PRESENCIA DE ESCASOS CUERPOS APOPTÓTICOS, SIN COMPONENTE AGUDO NI SIGNOS DE COLITIS ESPECÍFICA.
+- TINCIÓN INMUNOHISTOQUÍMICA PARA CITOMEGALOVIRUS NEGATIVA.
+ 

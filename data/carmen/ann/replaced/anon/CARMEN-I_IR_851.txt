@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Trastorn no reumàtic de la vàlvula aòrtica no especificat
+
+protocolo:
+RX PORTATIL TORAX
+
+conclusiones:
+Cambios postquirúrgicos cardiacos en relación a recambio valvular.
+Borramiento de seno costofrénico izquierdo por leve derrame pleural.
+Aumento de densidad paramediastínico y basal derecho, puede estar en relación a edema pero en el contexto actual no podemos descartar afectación por Covid.
+
+descrip:
+RX  PORTATIL  TORAX

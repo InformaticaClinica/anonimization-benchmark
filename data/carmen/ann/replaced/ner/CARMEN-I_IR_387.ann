@@ -1,0 +1,31 @@
+T3	PROCEDIMIENTO 9 26	ANGIO TC PULMONAR
+T4	ENFERMEDAD 58 84	insuficiencia respiratoria
+T5	ENFERMEDAD 100 105	COVID
+T6	PROCEDIMIENTO 117 125	intubado
+T7	PROCEDIMIENTO 156 163	extubar
+T8	PROCEDIMIENTO 203 210	weaning
+T9	SINTOMA 220 245	emperoamiento gasométrico
+T10	SINTOMA 312 332	DD Dímero en ascenso
+T11	ENFERMEDAD 400 403	TEP
+T12	PROCEDIMIENTO 417 429	TAC pulmonar
+T13	ENFERMEDAD 439 473	INFECCIÓN RESPIRATORIA POR COVID19
+T14	PROCEDIMIENTO 486 503	ANGIO-TC PULMONAR
+T15	SINTOMA 525 584	Vía central yugular derecha con extremo en unión atriocaval
+T16	SINTOMA 601 625	signos sugestivos de TEP
+T17	ENFERMEDAD 622 625	TEP
+T18	SINTOMA 627 675	Tronco de la arteria pulmonar de diámetro normal
+T19	ENFERMEDAD 692 750	adenopatías mediastínicas ni axilares de tamaño patológico
+T20	ENFERMEDAD 761 793	ganglios mediastínicos reactivos
+T21	ENFERMEDAD 809 839	derrame pleural ni pericárdico
+T22	ENFERMEDAD 855 865	neumotórax
+T23	ENFERMEDAD 869 884	neumomediastino
+T24	SINTOMA 886 980	Áreas de vidrio deslustrado con engrosamientos septales (crazy paving) periféricas bilaterales
+T25	SINTOMA 1025 1107	lóbulos inferiores predomina la consolidación asociada a distorsión parenquimatosa
+T26	ENFERMEDAD 1110 1125	bronquiectasias
+T27	SINTOMA 1138 1154	signo del atolón
+T28	ENFERMEDAD 1180 1201	neumonía organizativa
+T29	ENFERMEDAD 1203 1222	fibrosis reversible
+T30	ENFERMEDAD 1266 1285	infección por COVID
+T31	ENFERMEDAD 1304 1331	neumonía organizativa basal
+T32	PROCEDIMIENTO 1343 1360	ANGIO TC PULMONAR
+T33	HUMANO 37 42	Varón

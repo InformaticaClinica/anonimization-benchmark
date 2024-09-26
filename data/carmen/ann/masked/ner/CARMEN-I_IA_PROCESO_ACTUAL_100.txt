@@ -1,0 +1,8 @@
+
+Refiere que desde el [**FECHAS**] presenta tos, artromialgias y fiebre de hasta 39ºC; ageusia y alteración del hábito intestinal. Ha seguido tratamiento con paracetamol con control parcial de los síntomas. Refiere convivir con familiar que ha tenido síntomas e [**FAMILIARES_SUJETO_ASISTENCIA**] asintomático.
+A su llegada a urgencias se encuentra normotenso, con saturación de 90% en basal, febricular. En la exploración presenta crepitantes bibasales.
+Se realiza electrocardiograma que se encuentra dentro de la normalidad con QTc normal. La radiografía de tórax muestra infiltrados intersticiales bilaterales en mayor medida en base derecha. La analítica sanguínea muestra elevación de reactantes de fase aguda con PCR de 31.55mg/dl, LDH de 519 U/L, ferritina 1031 ng/ml; leucos de 14.95 19^9 (a expensas de neutrofilia; linfocitos al límite 900); DDímero elevado discretamente 600 ng/ml. Perfil hepático, troponinas y resto de parámetros en rango de la normalidad.
+Dado el contexto epidemiológico actual se considera una probable infección por COVID 19 en forma de neumonía intersticial bilateral. Tras consentimiento oral se inicia tratamiento con
+Kaletra+hidroxicloroquina+azitro y dado el aumento evidente de reactantes de fase aguda se inicia tratamiento antibiótico con ceftriaxona y teicoplanina.
+Durante su estancia presenta un deterioro a nivel respiratorio con aumento de los requerimientos de oxígeno necesitando una FiO2 del 31% para mantener saturación de 95-97% con taquicardia y taquipnea por lo que se traslada a [**NUMERO_IDENTIF**] y posteriormente a sala de hospitalización convencional.
+ 

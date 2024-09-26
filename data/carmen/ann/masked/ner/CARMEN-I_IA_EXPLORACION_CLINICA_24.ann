@@ -1,0 +1,85 @@
+T3	SINTOMA 212 231	Buen estado general
+T4	SINTOMA 233 258	hemodinámicamente estable
+T5	SINTOMA 261 268	afebril
+T6	SINTOMA 456 485	edemas en miembros inferiores
+T7	SINTOMA 528 564	pulsos pedios presentes y simétricos
+T8	SINTOMA 594 602	Eupneica
+T9	SINTOMA 753 774	irritación peritoneal
+T10	SINTOMA 803 813	Consciente
+T11	SINTOMA 816 825	orientada
+T12	SINTOMA 841 862	focalidad neurológica
+T13	SINTOMA 977 999	relleno capilar normal
+T14	SINTOMA 1001 1015	normocoloreada
+T15	SINTOMA 1183 1189	edemas
+T16	SINTOMA 1305 1329	hipofonesis generalizada
+T17	SINTOMA 1363 1392	tos a la inspiración profunda
+T18	SINTOMA 1529 1572	dolor a la palpación profunda en epigastrio
+T19	SINTOMA 1574 1580	vómito
+T20	SINTOMA 1625 1645	dolor a la palpación
+T21	SINTOMA 1697 1734	Signos de Blumberg y Murphy negativos
+T22	SINTOMA 1762 1791	orientada en las tres esferas
+T23	SINTOMA 2197 2275	dolor a la palpación de la musculatura paravertebral cervical y base occipital
+T24	SINTOMA 2307 2317	Consciente
+T25	SINTOMA 2319 2328	orientada
+T26	SINTOMA 2336 2350	normocoloreada
+T27	SINTOMA 2352 2363	euhidratada
+T28	SINTOMA 2365 2372	afebril
+T29	SINTOMA 2378 2403	hemodinámicamente estable
+T30	SINTOMA 2517 2531	edemas en MMII
+T31	SINTOMA 2539 2547	Eupneica
+T32	SINTOMA 270 296	buena perfusión periférica
+T33	SINTOMA 302 364	alteraciones en la coloración ni hidratación de piel y mucosas
+T34	SINTOMA 396 421	Ruidos cardíacos rítmicos
+T35	SINTOMA 426 432	soplos
+T36	SINTOMA 491 526	signos de trombosis venosa profunda
+T37	SINTOMA 604 633	murmullo vesicular conservado
+T38	SINTOMA 680 710	Ruidos hidroaéreos conservados
+T39	SINTOMA 715 738	doloroso a la palpación
+T40	SINTOMA 930 955	hemodinámicamente estable
+T41	SINTOMA 957 971	Normohidratada
+T42	SINTOMA 1017 1029	Colaboradora
+T43	SINTOMA 1047 1054	rítmica
+T44	SINTOMA 1059 1065	soplos
+T45	SINTOMA 1094 1125	Perfusión periférica conservada
+T46	SINTOMA 1130 1177	pulsos radiales y pedios presentes y simétricos
+T47	SINTOMA 1193 1255	signos de trombosis venosa profunda en extremidades inferiores
+T48	SINTOMA 1271 1300	murmullo vesicular conservado
+T49	SINTOMA 1394 1412	Eupneica en reposo
+T50	SINTOMA 1418 1449	uso de la musculatura accesoria
+T51	SINTOMA 1503 1527	peristaltismo conservado
+T52	SINTOMA 1651 1656	masas
+T53	SINTOMA 1660 1668	megalias
+T54	SINTOMA 1684 1695	peritonismo
+T55	SINTOMA 1749 1759	consciente
+T56	SINTOMA 1793 1822	lenguaje conservado y fluente
+T57	SINTOMA 1840 1875	Obedece órdenes simples y complejas
+T58	SINTOMA 1877 1904	Pares craneales conservados
+T59	SINTOMA 1909 1930	focalidad neurológica
+T60	SINTOMA 2133 2165	dismetría en maniobra dedo-nariz
+T61	SINTOMA 2170 2180	meningismo
+T62	SINTOMA 2405 2415	normotensa
+T63	SINTOMA 2417 2424	rítmica
+T64	SINTOMA 2426 2448	R1 y R2 normofonéticos
+T65	SINTOMA 2467 2512	Pulsos radiales presentes simétricos rítmicos
+T66	SINTOMA 2569 2582	MV conservado
+T67	SINTOMA 436 450	roces añadidos
+T68	SINTOMA 638 653	ruidos añadidos
+T69	SINTOMA 1331 1357	mala mecánica ventilatoria
+T70	SINTOMA 2449 2465	silencios libres
+T71	SINTOMA 2587 2603	ruidos agregados
+T72	PROCEDIMIENTO 161 179	EXPLORACIÓN FÍSICA
+T73	PROCEDIMIENTO 368 394	EXPLORACIÓN CARDIOVASCULAR
+T74	PROCEDIMIENTO 568 592	EXPLORACIÓN RESPIRATORIA
+T75	PROCEDIMIENTO 657 678	EXPLORACIÓN ABDOMINAL
+T76	PROCEDIMIENTO 778 801	EXPLORACIÓN NEUROLÓGICA
+T77	PROCEDIMIENTO 866 884	EXPLORACIÓN FÍSICA
+T78	PROCEDIMIENTO 1071 1092	auscultación cardiaca
+T79	PROCEDIMIENTO 1465 1482	lentillas nasales
+T80	PROCEDIMIENTO 2374 2376	CV
+T81	PROCEDIMIENTO 2533 2537	Resp
+T82	HUMANO 921 929	Paciente
+T83	PROCEDIMIENTO 57 71	Pulsioximetría
+T84	ENFERMEDAD 501 526	trombosis venosa profunda
+T85	PROCEDIMIENTO 1697 1724	Signos de Blumberg y Murphy
+T86	PROCEDIMIENTO 2146 2165	maniobra dedo-nariz
+T87	PROCEDIMIENTO 2279 2292	EXAMEN FISICO

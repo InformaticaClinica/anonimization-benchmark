@@ -1,0 +1,7 @@
+
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] originario de [**PAIS**] (cerca de [**TERRITORIO**]) sin viajes recientes ni contactos positivos para coronavirus conocidos.
+[**FAMILIARES_SUJETO_ASISTENCIA**] enfermo, etiología no conocida.
+No antecedentes patológicos de interés (traumatismo en EII que requirió intervención), barrera idiomática
+NO hábitos tóxicos
+No medicación habitual
+ 

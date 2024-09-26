@@ -1,0 +1,68 @@
+T1	SINTOMA 1552 1588	Hígado de tamaño y morfología normal
+T2	SINTOMA 1780 1836	Vesícula biliar de tamaño, posición y contenido normales
+T4	SINTOMA 2564 2592	liquido libre intraabdominal
+T5	SINTOMA 106 144	marco óseo y partes blandas preservado
+T6	SINTOMA 146 197	mediastino centrado sin ensanchamientos patológicos
+T7	SINTOMA 199 222	silueta cardíaca normal
+T8	SINTOMA 224 250	senos costofrénicos libres
+T9	SINTOMA 252 276	árbol traqueal permeable
+T10	SINTOMA 307 365	leve aumento de la trama pulmonar en base pulmonar derecha
+T11	SINTOMA 391 451	LII de localización retrocardíaca presenta nódulo hiperdenso
+T12	SINTOMA 543 573	Tiroides homogénea hipotrófica
+T13	SINTOMA 575 648	Vasos mediastinales, cavidades cardíacas y pericardio de aspecto habitual
+T14	SINTOMA 657 680	patología pleural aguda
+T15	SINTOMA 755 800	Focos bronquiolares inflamatorios bilaterales
+T16	SINTOMA 845 874	Atrapamiento aéreo en parches
+T17	SINTOMA 892 943	consolidación residual en seg postero-medial de LII
+T18	SINTOMA 965 987	Suprarrenales normales
+T19	SINTOMA 997 1029	loe hipodensa en seg IV hepático
+T20	SINTOMA 1121 1151	Tiroides homogénea hipotrófica
+T22	SINTOMA 1213 1250	signos de atrapamiento aéreo pulmonar
+T23	SINTOMA 1294 1345	consolidación residual en seg postero-medial de LII
+T24	SINTOMA 1378 1410	loe hipodensa en seg IV hepático
+T25	SINTOMA 1430 1443	Cardiomegalia
+T26	SINTOMA 1460 1486	consoldiacion residual LII
+T27	SINTOMA 1496 1550	prolapso de pliegues gastricos por hiato diafragmático
+T28	SINTOMA 1627 1662	Microfoco hipodenso en segmento IVb
+T29	SINTOMA 1732 1748	lesiones focales
+T30	SINTOMA 1750 1778	Eje espleno-portal permeable
+T31	SINTOMA 1904 1937	Bazo homogéneo y de tamaño normal
+T32	SINTOMA 1939 1964	Páncreas sin alteraciones
+T33	SINTOMA 1981 2024	Suprarrenales de tamaño y morfología normal
+T34	SINTOMA 2026 2063	Riñones de tamaño y morfología normal
+T35	SINTOMA 2234 2260	ectasia de vias excretoras
+T36	SINTOMA 2299 2331	Vejiga urinaria sin alteraciones
+T37	SINTOMA 2351 2382	Utero y anejos sin alteraciones
+T38	SINTOMA 2395 2426	Marco colonico sin alteraciones
+T39	SINTOMA 2722 2735	Cardiomegalia
+T40	SINTOMA 2752 2778	consolidacion residual LII
+T41	SINTOMA 2065 2099	Funcionalismo bilateral conservado
+T42	ENFERMEDAD 714 753	Enfisema pulmonar centroacinar superior
+T43	ENFERMEDAD 802 843	Atelectasias laminares en LSD-LSI-Língula
+T44	ENFERMEDAD 876 943	Atelectasia y/o consolidación residual en seg postero-medial de LII
+T45	ENFERMEDAD 950 963	hernia hiatal
+T46	ENFERMEDAD 1031 1046	Quistes renales
+T47	ENFERMEDAD 1253 1275	atelectasias laminares
+T48	ENFERMEDAD 1354 1367	hernia hiatal
+T49	ENFERMEDAD 1445 1486	Atelectasia vs consoldiacion residual LII
+T50	ENFERMEDAD 1702 1713	microquiste
+T51	ENFERMEDAD 2101 2131	Quistes corticales bilaterales
+T52	ENFERMEDAD 2439 2464	Ateromatosis aorto-ilíaca
+T53	ENFERMEDAD 2483 2524	adenopatías retroperitoneales ni pélvicas
+T54	ENFERMEDAD 2594 2645	Espondiloartropatia y discopatia degenerativa L5-S1
+T55	ENFERMEDAD 2616 2645	discopatia degenerativa L5-S1
+T56	ENFERMEDAD 2666 2708	Microquiste hepatico y renales bilaterales
+T57	ENFERMEDAD 2737 2778	Atelectasia vs consolidacion residual LII
+T58	ENFERMEDAD 2789 2802	hernia hiatal
+T59	ENFERMEDAD 2804 2855	Espondiloartropatia y discopatia degenerativa L5-S1
+T60	ENFERMEDAD 2826 2855	discopatia degenerativa L5-S1
+T61	PROCEDIMIENTO 3 58	RADIOGRAFÍA DE TÓRAX: en bipedestación, posteroanterior
+T62	PROCEDIMIENTO 508 520	radiografías
+T63	PROCEDIMIENTO 532 541	TAC TÓRAX
+T64	PROCEDIMIENTO 1414 1428	TAC DE ABDOMEN
+T65	PROCEDIMIENTO 2347 2349	TC
+T66	SINTOMA 370 380	infiltrado
+T67	ENFERMEDAD 1154 1201	"Enfermedad bronquiolar inflamatoria" bilateral
+T68	ENFERMEDAD 1278 1345	Atelectasia y/o consolidación residual en seg postero-medial de LII
+T69	ENFERMEDAD 2289 2297	litiasis
+T70	ENFERMEDAD 1852 1902	dilatación de la vía biliar intra ni extrahepática

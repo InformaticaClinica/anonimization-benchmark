@@ -1,0 +1,40 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente covid +, intubado con sospecha de TEP y progresion de imagenes, con deterioro clinico.
+
+protocolo:
+Estudio ANGIO-TCMD pulmonar con contraste ev.
+
+resultados:
+Presencia de mínimo enfisema intersticial en LSD. Se acompaña de extenso neumomediastino de predominio anterior con presencia de enfisema en espacio extrapleural anterior y ángulos cardiofrénicos y extensión a cavidad abdominal a nivel retroperitoneal derecho, de espacio extraperitoneal anterior y a pequeña hernia de pared abdominal.
+Presencia de leve neumotórax izdo de localización apical y mínimo laminar a nivel anterior.
+Leve derrame pleural bilateral.
+Se asocia extenso enfisema de partes blandas en región cervical, supraclavicular y en pared torácica anterior de forma bilateral.
+Tubo endotraqueal con extremo distal a 56 mm de la carina.
+Catéter venoso central yugular derecho con extremo distal en vena cava superior.
+No se observa derrame pericárdico.
+Pequeño defecto de repleción en ramas subsegmentarias de la arteria posterior basal del LID en relación con TEP.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin evidencia de otros defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de calibre conservado, 27 mm.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable. Ganglios paratraqueales derechos y subcarinales e hiliares bilaterales, de hasta 10 mm, de carácter reactivo.
+Afectación parenquimatosa pulmonar bilateral y difusa por la presencia de extensas opacidades en vidrio deslustrado con tendencia a consolidar en región posterobasal bilateral. Se asocian ectasia bronquial cilíndrica difusa. Hallazgos en relación con neumonia bilateral por COVID19 con patrón de daño alveolar difuso de extensión severa.
+Voluminosa hernia de hiato de localización paramedial izda y con la práctica totalidad de la cámara gástrica a nivel intratorácico.
+Sonda gástrica.
+Probable quiste en cúpula de LD hepático. Quistes simples sinusales bilaterales y cortical izdo. Sin otras alteraciones valorables en los cortes de hemiabdomen superior.
+Tumoración de estirpe grasa probable lipoma en plano muscular de pared torácica posterolateral derecha.
+
+conclusiones:
+Mínimo enfisema intersticial en LSD asociado a extenso neumomediastino de predominio anterior, leve neumotórax izdo y extenso enfisema de partes blandas cervicotorácico.
+Leve derrame pleural bilateral.
+Pequeño TEP subsegmentario en LID.
+Afectación parenquimatosa pulmonar descrita en relación con neumonia bilateral por COVID19 con patrón de daño alveolar difuso de extensión severa.
+Voluminosa hernia de hiato de localización paramedial izda.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,73 @@
+T3	SINTOMA 224 236	taquicárdico
+T4	SINTOMA 252 275	dificultad respiratoria
+T5	SINTOMA 853 859	alerta
+T6	SINTOMA 861 890	orientado en las tres esferas
+T7	SINTOMA 965 988	dificultad respiratoria
+T8	SINTOMA 1082 1100	ocupación alveolar
+T9	SINTOMA 1179 1193	picos febriles
+T10	SINTOMA 2415 2422	afebril
+T11	SINTOMA 129 148	HIPOMAGNESEMIA LEVE
+T12	SINTOMA 408 424	elevación de PCR
+T13	SINTOMA 626 668	PCR para SARS Cov2, con resultado positivo
+T14	SINTOMA 892 901	conciente
+T15	SINTOMA 2047 2146	frotis de MRSA, de gripe, Serologías de CMV, coprocultivo, toxina de C. difficile que son negativos
+T16	SINTOMA 2148 2185	Urinocultivo y hemocultivos negativos
+T17	SINTOMA 2621 2640	buen estado general
+T18	SINTOMA 64 79	SINDROME FEBRIL
+T19	SINTOMA 281 300	adecuada saturación
+T20	SINTOMA 338 357	buen estado clínico
+T21	SINTOMA 461 486	Rx de tórax que es normal
+T22	SINTOMA 1143 1164	esfuerzo respiratorio
+T23	SINTOMA 2007 2022	síndrome febril
+T24	SINTOMA 98 110	PANCITOPENIA
+T25	SINTOMA 312 332	agregados pulmonares
+T26	SINTOMA 430 442	pancitopenia
+T27	SINTOMA 907 930	signos vitales estables
+T28	ENFERMEDAD 4 33	INFECCION POR SARS Cov 2 leve
+T29	ENFERMEDAD 1334 1342	COVID-19
+T30	ENFERMEDAD 1922 1934	pancitopenia
+T31	ENFERMEDAD 2529 2541	pancitopenia
+T32	FARMACO 588 599	ceftriaxona
+T33	FARMACO 1012 1019	oxígeno
+T34	FARMACO 1271 1282	paracetamol
+T35	FARMACO 1518 1528	Remdesivir
+T36	FARMACO 2245 2256	ceftriaxona
+T37	FARMACO 2271 2282	vancomicina
+T38	FARMACO 2586 2593	oxígeno
+T39	PROCEDIMIENTO 498 510	hemocultivos
+T40	PROCEDIMIENTO 513 526	urinocultivos
+T41	PROCEDIMIENTO 572 583	antibiótico
+T42	PROCEDIMIENTO 752 767	inmunosupresión
+T43	PROCEDIMIENTO 1040 1067	auscultación cardiopulmonar
+T44	PROCEDIMIENTO 1565 1589	plasma de convalesciente
+T45	PROCEDIMIENTO 1731 1793	estudio observacional con plasma hiperinmune de convalesciente
+T46	PROCEDIMIENTO 1937 1952	inmunosupresión
+T47	PROCEDIMIENTO 2217 2240	tratamiento antibiótico
+T48	PROCEDIMIENTO 2722 2746	aislamiento domiciliario
+T49	HUMANO 730 738	paciente
+T50	HUMANO 808 816	Paciente
+T51	HUMANO 1403 1411	paciente
+T52	SPECIES 1463 1473	SARS Cov 2
+T53	HUMANO 1706 1714	paciente
+T54	SPECIES 2334 2346	C. difficile
+T55	HUMANO 2397 2405	paciente
+T56	HUMANO 2788 2798	familiares
+T57	HUMANO 2866 2868	Dr
+T58	SPECIES 18 28	SARS Cov 2
+T59	PROCEDIMIENTO 461 472	Rx de tórax
+T60	PROCEDIMIENTO 626 644	PCR para SARS Cov2
+T62	PROCEDIMIENTO 1757 1793	plasma hiperinmune de convalesciente
+T64	PROCEDIMIENTO 2047 2071	frotis de MRSA, de gripe
+T65	PROCEDIMIENTO 2073 2090	Serologías de CMV
+T66	PROCEDIMIENTO 2092 2104	coprocultivo
+T67	PROCEDIMIENTO 2106 2128	toxina de C. difficile
+T68	SPECIES 2057 2061	MRSA
+T69	SPECIES 2087 2090	CMV
+T70	SPECIES 2116 2128	C. difficile
+T71	PROCEDIMIENTO 2148 2160	Urinocultivo
+T72	PROCEDIMIENTO 2163 2175	hemocultivos
+T73	SINTOMA 2788 2833	familiares ya que estos también son positivos
+T74	PROCEDIMIENTO 377 386	analítica
+T1	SINTOMA 2569 2593	requerimiento de oxígeno
+T2	SINTOMA 994 1034	requerimientos de oxígeno complementario
+T75	SPECIES 635 644	SARS Cov2

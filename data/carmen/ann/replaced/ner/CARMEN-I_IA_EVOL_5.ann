@@ -1,0 +1,88 @@
+T3	SINTOMA 173 192	LABILIDAD EMOCIONAL
+T4	SINTOMA 236 248	taquicárdica
+T5	SINTOMA 272 279	afebril
+T6	SINTOMA 282 293	taquipneica
+T7	SINTOMA 388 409	crepitantes bibasales
+T8	SINTOMA 443 512	infiltrados alveolo-intersticiales bilaterales de predominio en bases
+T9	SINTOMA 538 575	elevación de reactantes de fase aguda
+T10	SINTOMA 2385 2400	sequedad mucosa
+T11	SINTOMA 2718 2782	poliartralgias de pequeñas y grandes articulaciones, asimétricas
+T12	SINTOMA 2788 2804	rigidez matutina
+T13	SINTOMA 3866 3885	labilidad emocional
+T14	SINTOMA 260 270	normotensa
+T15	SINTOMA 307 327	trabajo respiratorio
+T16	SINTOMA 618 628	linfopenia
+T17	SINTOMA 875 911	frotis de SARS-CoV-2 que es negativo
+T18	SINTOMA 1333 1375	frotis y serología para COVID-19 negativos
+T19	SINTOMA 1468 1526	lavado negativo para microorganismos incluyendo SARS-CoV-2
+T20	SINTOMA 1579 1634	PCR para SARS-CoV-2 en el tejido de la biopsia negativo
+T21	SINTOMA 1650 1725	lavados broncoalveolares se observan microorganismos compatibles con hongos
+T22	ENFERMEDAD 2445 2507	lesiones cutáneas en forma de eritema de distribución variable
+T23	SINTOMA 2663 2678	fotosensibiliad
+T24	SINTOMA 3776 3796	episodios comiciales
+T25	SINTOMA 3942 3968	respuesta vivencial normal
+T26	SINTOMA 2260 2342	TC de senos paranasales, el sedimento de orina y la orina de 24 horas son normales
+T27	SINTOMA 4009 4018	rumiación
+T28	ENFERMEDAD 51 72	NEUMONÍA ORGANIZATIVA
+T29	ENFERMEDAD 84 103	SÍNDROME DE SJÖGREN
+T30	ENFERMEDAD 137 155	ANEMIA FERROPENICA
+T31	ENFERMEDAD 721 739	neumonía bilateral
+T32	ENFERMEDAD 1158 1179	neumonía organizativa
+T33	ENFERMEDAD 1555 1576	neumonía organizativa
+T34	ENFERMEDAD 2606 2622	granuloma anular
+T35	ENFERMEDAD 2893 2912	síndrome de Sjögren
+T36	ENFERMEDAD 2917 2940	neumopatía organizativa
+T37	ENFERMEDAD 2985 3012	lupus eritematoso sistémico
+T38	ENFERMEDAD 3409 3427	anemia ferropénica
+T39	ENFERMEDAD 3543 3571	trastorno epiléptico crónico
+T40	FARMACO 830 838	dolquine
+T41	FARMACO 840 852	azitromicina
+T42	FARMACO 855 862	kaletra
+T43	FARMACO 1228 1238	prednisona
+T44	FARMACO 3125 3135	prednisona
+T45	FARMACO 3169 3186	hidroxicloroquina
+T46	FARMACO 3189 3210	micofenolato mofetilo
+T47	FARMACO 3474 3480	hierro
+T48	FARMACO 3523 3529	hierro
+T49	FARMACO 3707 3722	ácido valpróico
+T50	FARMACO 3727 3737	lacosamida
+T51	FARMACO 4048 4058	sertralina
+T52	ENFERMEDAD 160 169	EPILEPSIA
+T53	PROCEDIMIENTO 360 378	exploración física
+T54	PROCEDIMIENTO 414 434	radiografía de tórax
+T55	PROCEDIMIENTO 1007 1021	oxigenoterapia
+T56	PROCEDIMIENTO 1131 1142	TC torácico
+T57	PROCEDIMIENTO 1395 1438	fibrobroncoscopia con lavado broncoalveolar
+T58	PROCEDIMIENTO 1441 1457	biopsia pulmonar
+T59	PROCEDIMIENTO 1532 1539	biopsia
+T60	PROCEDIMIENTO 1732 1748	tinción de plata
+T61	PROCEDIMIENTO 1911 1934	tratamiento corticoideo
+T62	PROCEDIMIENTO 1979 2001	panel de autoimmunidad
+T63	PROCEDIMIENTO 2347 2356	anamnesis
+T64	PROCEDIMIENTO 2531 2572	biopsia de unas de las lesiones del muslo
+T65	PROCEDIMIENTO 3029 3056	biopsia de glándula salival
+T66	PROCEDIMIENTO 3240 3259	gammagrafía salival
+T67	HUMANO 1808 1816	paciente
+T68	HUMANO 2683 2691	paciente
+T69	HUMANO 3976 3983	persona
+T70	HUMANO 4114 4132	médico de cabecera
+T71	ENFERMEDAD 22 46	ENFERMEDADES AUTOIMMUNES
+T72	ENFERMEDAD 106 133	LUPUS ERITEMATOSO SISTÉMICO
+T73	SPECIES 753 763	SARS-CoV-2
+T74	PROCEDIMIENTO 875 895	frotis de SARS-CoV-2
+T75	SPECIES 885 895	SARS-CoV-2
+T76	ENFERMEDAD 1357 1365	COVID-19
+T77	PROCEDIMIENTO 1333 1365	frotis y serología para COVID-19
+T78	PROCEDIMIENTO 1468 1474	lavado
+T79	SPECIES 1489 1504	microorganismos
+T80	SPECIES 1516 1526	SARS-CoV-2
+T81	PROCEDIMIENTO 1579 1625	PCR para SARS-CoV-2 en el tejido de la biopsia
+T82	SPECIES 1588 1598	SARS-CoV-2
+T83	PROCEDIMIENTO 2260 2283	TC de senos paranasales
+T84	PROCEDIMIENTO 2288 2306	sedimento de orina
+T85	PROCEDIMIENTO 2312 2329	orina de 24 horas
+T86	PROCEDIMIENTO 3304 3338	estudio del funcionalismo pulmonar
+T87	PROCEDIMIENTO 520 529	analítica
+T1	SINTOMA 950 984	empeoramiento clínico respiratorio
+T2	SINTOMA 989 1021	requerimientos de oxigenoterapia
+T88	SINTOMA 1305 1312	mejoría

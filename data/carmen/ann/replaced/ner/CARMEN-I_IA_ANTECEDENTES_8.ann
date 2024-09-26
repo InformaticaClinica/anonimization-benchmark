@@ -1,0 +1,62 @@
+T16	ENFERMEDAD 522 537	parada cardíaca
+T17	ENFERMEDAD 711 721	DISLIPEMIA
+T18	ENFERMEDAD 754 775	CARDIOPATÍA ISQUÉMICA
+T19	ENFERMEDAD 777 850	PARADA CARDIORESPIRATORIA por FIBRILACIÓN VENTRICULAR secundaria a IAMEST
+T20	ENFERMEDAD 899 962	oclusión trombótica de la arteria descendente anterior proximal
+T21	ENFERMEDAD 1102 1134	ENCEFALOPATÍA HIPÓXICO-ISQUÉMICA
+T22	ENFERMEDAD 1150 1165	parada cardíaca
+T23	ENFERMEDAD 1168 1186	ESTATUS EPILÉPTICO
+T24	ENFERMEDAD 1347 1373	lesiones isquémicas agudas
+T25	ENFERMEDAD 1400 1432	encefalopatía hipóxico-isquémica
+T26	ENFERMEDAD 2018 2038	encefalopatia difusa
+T27	ENFERMEDAD 2041 2060	apneas obstructivas
+T28	ENFERMEDAD 2211 2300	HSA aguda con extensión a surcos fronto-parieto- occipitales derechos y frontal izquierdo
+T29	ENFERMEDAD 2377 2420	Contusión de partes blandas fronto-parietal
+T30	ENFERMEDAD 2430 2448	hematoma subgaleal
+T31	ENFERMEDAD 2719 2733	lesión medular
+T32	ENFERMEDAD 23 46	alergias medicamentosas
+T33	ENFERMEDAD 643 664	HIPERTENSIÓN ARTERIAL
+T34	ENFERMEDAD 2065 2105	HEMORRAGIA SUBARACNOIDEA POST-TRAUMÁTICA
+T35	ENFERMEDAD 2578 2621	ACCIDENTES POR DESCOMPRESIÓN tras inmersión
+T36	SINTOMA 347 391	incontinencia urinaria total y fecal parcial
+T37	SINTOMA 578 611	alteración de la memoria reciente
+T38	SINTOMA 1057 1097	función ventricular sistólica conservada
+T39	SINTOMA 1950 1973	actividad epileptiforme
+T40	SINTOMA 2156 2196	imágenes lineales basalmente hiperdensas
+T41	SINTOMA 2481 2489	sangrado
+T42	SINTOMA 2493 2545	EEG de control posterior sin actividad epileptiforme
+T43	SINTOMA 2549 2568	lentificación focal
+T44	FARMACO 684 694	amlodipino
+T45	FARMACO 697 706	enalapril
+T46	FARMACO 1248 1256	propofol
+T47	FARMACO 2803 2814	Mirtazapina
+T48	FARMACO 2825 2833	Brilique
+T49	FARMACO 2844 2854	Bisoprolol
+T50	FARMACO 2864 2873	Enalapril
+T51	FARMACO 2884 2889	adiro
+T52	FARMACO 2901 2914	atorvastatina
+T53	FARMACO 2925 2936	Esomeprazol
+T54	FARMACO 2947 2954	fycompa
+T55	PROCEDIMIENTO 93 107	rehabilitación
+T56	PROCEDIMIENTO 875 886	cateterismo
+T57	PROCEDIMIENTO 987 1022	implante de 2 stents fármacoactivos
+T58	PROCEDIMIENTO 1042 1054	angiográfico
+T59	PROCEDIMIENTO 1276 1300	fármacos antiepilépticos
+T60	PROCEDIMIENTO 1304 1316	RNM cerebral
+T61	PROCEDIMIENTO 1435 1455	potenciales evocados
+T62	PROCEDIMIENTO 1922 1925	EEG
+T63	PROCEDIMIENTO 2126 2142	TC craneal agudo
+T64	PROCEDIMIENTO 2453 2455	TC
+T65	HUMANO 1 6	Varón
+T66	HUMANO 164 171	hermana
+T67	HUMANO 174 183	cuidadora
+T68	HUMANO 213 220	sobrina
+T69	HUMANO 236 244	familiar
+T70	HUMANO 332 339	persona
+T71	HUMANO 1616 1619	Dr.
+T72	HUMANO 1893 1913	personas del entorno
+T73	SINTOMA 2326 2375	Ocupación hemática de la cisterna ambiens derecha
+T74	PROCEDIMIENTO 2493 2496	EEG
+T75	PROCEDIMIENTO 725 750	tratamiento farmacológico
+T1	SINTOMA 1812 1842	mejoría neurológica progresiva
+T2	SINTOMA 494 512	mejoría progresiva

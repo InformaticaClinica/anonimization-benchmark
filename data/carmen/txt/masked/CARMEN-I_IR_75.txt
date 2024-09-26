@@ -1,0 +1,23 @@
+
+prueba:
+TC CADERA
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], ingreso prolongado por neumonía covid, insuficiencia respiratoria, SDRA cuadro de dos meses de evolución. Actualmente como problemas activos presenta miopatía severa del enfermo crítico y cuadro febril sin foco claro con importante impotencia funcional a la elevación del MID y rotación interna y externa de la cadera. Dolor a la dígito presión a nivel sacro; ruego CT para descartar complicación infecciosa a nivel de psoas o columna-lumbosacra. Gracias
+FIEBRE
+
+protocolo:
+TC PELVIS Y CADERAS
+Se explora desde L1 hasta el tercio proximal de la diáfisis de ambos fémures, sin administración de contraste.
+
+conclusiones:
+TC PELVIS Y CADERAS
+La estructura y densidad ósea son de características normales sin que se apreien imágenes focales.
+Articulaiones sacroiliacas y coxofemorales de con discretos cambios degenerativos.
+Calcificación heterotópica de ambas caderas con predominio de afectación de ambos músculos piriformes
+
+descrip:
+TC PELVIS OSEA (AMBAS CADERAS)
+
+descrip:
+TC CADERA

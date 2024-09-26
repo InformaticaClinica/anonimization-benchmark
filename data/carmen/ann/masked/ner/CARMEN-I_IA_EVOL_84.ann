@@ -1,0 +1,128 @@
+T25	SINTOMA 3135 3178	limitación funcional en extremidad superior
+T26	SINTOMA 4240 4263	dificultad de expresión
+T27	SINTOMA 4275 4286	pico febril
+T28	SINTOMA 1231 1240	hipoxemia
+T29	SINTOMA 1644 1677	hemocultivos de control negativos
+T30	SINTOMA 2485 2507	saturaciones correctas
+T31	SINTOMA 2566 2618	Lesión focal en ganglios de la base del lado derecho
+T32	SINTOMA 3115 3132	signos flogóticos
+T33	SINTOMA 3326 3344	Pulsos conservados
+T34	SINTOMA 3347 3369	buena perfusión distal
+T35	SINTOMA 3660 3671	monocitosis
+T36	SINTOMA 3674 3687	plaquetopenia
+T37	SINTOMA 4223 4237	desorientacion
+T38	SINTOMA 4584 4601	edema circundante
+T39	SINTOMA 304 315	Monocitosis
+T40	SINTOMA 326 339	plaquetopenia
+T41	SINTOMA 455 556	Colonización nasal por S.aureus oxacilín sensible, y rectal por E.coli multiresistente y P.aeruginosa
+T42	SINTOMA 638 653	Frotis positivo
+T43	SINTOMA 2620 2678	edema y efecto de masa sobre el ventrículo lateral derecho
+T44	SINTOMA 3584 3589	dolor
+T45	SINTOMA 3590 3595	edema
+T46	SINTOMA 4796 4816	actividad epiléptica
+T47	SINTOMA 4377 4411	disminución de nivel de conciencia
+T48	ENFERMEDAD 28 47	SDRA por SARS-CoV-2
+T49	ENFERMEDAD 112 133	Aspergilosis pulmonar
+T50	ENFERMEDAD 140 170	Neumonía organizada post-covid
+T51	ENFERMEDAD 177 243	Bacteriemia por Staphylococcus epidermidis y Escherichia coli BLEA
+T52	ENFERMEDAD 250 287	Trombosis parcial de la vena basilica
+T53	ENFERMEDAD 400 438	Hematuria traumática con sonda vesical
+T54	ENFERMEDAD 1764 1769	covid
+T55	ENFERMEDAD 1915 1942	aspergilosis broncopulmonar
+T56	ENFERMEDAD 2806 2832	infección fúngica invasiva
+T57	ENFERMEDAD 2834 2843	miopático
+T58	ENFERMEDAD 2850 2873	enfermedad hematológica
+T59	ENFERMEDAD 3277 3314	trombosis parcial de la vena basílica
+T60	ENFERMEDAD 3721 3753	leucemia mielomonocítica crónica
+T61	ENFERMEDAD 4567 4573	abceso
+T62	ENFERMEDAD 356 393	Hematoma en ganglios basales derechos
+T63	ENFERMEDAD 1076 1129	SDRA secundario a neumonía bilateral por SARS- CoV- 2
+T64	ENFERMEDAD 4495 4521	lesión ocupante de espacio
+T65	ENFERMEDAD 317 323	anemia
+T66	ENFERMEDAD 4556 4564	hematoma
+T67	PROCEDIMIENTO 53 63	intubación
+T68	PROCEDIMIENTO 81 89	extubado
+T69	PROCEDIMIENTO 690 712	Intubación orotraqueal
+T70	PROCEDIMIENTO 1139 1147	intubado
+T71	PROCEDIMIENTO 1153 1173	ventilación mecánica
+T72	PROCEDIMIENTO 1176 1212	soporte vasoactivo con noradrenalina
+T73	PROCEDIMIENTO 1508 1520	hemocultivos
+T74	PROCEDIMIENTO 1554 1566	hemocultivos
+T75	PROCEDIMIENTO 1644 1656	hemocultivos
+T76	PROCEDIMIENTO 1981 1998	aspirado traqueal
+T77	PROCEDIMIENTO 2054 2057	TAC
+T78	PROCEDIMIENTO 2399 2413	oxigenoterapia
+T79	PROCEDIMIENTO 2538 2550	TAC pulmonar
+T80	PROCEDIMIENTO 2747 2749	RM
+T81	PROCEDIMIENTO 2964 2976	reintubación
+T82	PROCEDIMIENTO 3190 3229	se ha retirado cateter arterial humeral
+T83	PROCEDIMIENTO 3242 3259	ecografía doppler
+T84	PROCEDIMIENTO 3432 3450	vendaje compresivo
+T85	PROCEDIMIENTO 3692 3701	hemograma
+T86	PROCEDIMIENTO 4013 4022	hemograma
+T87	PROCEDIMIENTO 4165 4175	mielograma
+T88	PROCEDIMIENTO 4191 4201	extubación
+T89	PROCEDIMIENTO 4454 4465	TC cerebral
+T90	PROCEDIMIENTO 4779 4782	EEG
+T91	PROCEDIMIENTO 638 644	Frotis
+T92	PROCEDIMIENTO 730 740	Extubación
+T93	PROCEDIMIENTO 1266 1275	pronación
+T94	PROCEDIMIENTO 1333 1341	weaning,
+T95	PROCEDIMIENTO 1349 1357	extubado
+T96	PROCEDIMIENTO 1622 1625	BAS
+T97	PROCEDIMIENTO 3022 3050	priorizar medidas de confort
+T98	SINTOMA 3850 3881	reordenamiento genético BCR/ABL
+T99	FARMACO 779 789	remdesivir
+T100	FARMACO 791 799	anakinra
+T101	FARMACO 801 812	tocilizumab
+T102	FARMACO 814 826	dexametasona
+T103	FARMACO 828 845	metilprednisolona
+T104	FARMACO 847 858	enoxaparina
+T105	FARMACO 873 884	ceftriaxona
+T106	FARMACO 885 897	teicoplanina
+T107	FARMACO 898 909	ceftarolina
+T108	FARMACO 911 920	meropenem
+T109	FARMACO 1199 1212	noradrenalina
+T110	FARMACO 1399 1409	remdesivir
+T111	FARMACO 1411 1419	anakinra
+T112	FARMACO 1421 1432	tocilizumab
+T113	FARMACO 1435 1447	dexametasona
+T114	FARMACO 1704 1713	meropenem
+T115	FARMACO 1822 1839	metilprednisolona
+T116	FARMACO 2102 2113	voriconazol
+T117	FARMACO 2135 2159	anfotericina B liposomal
+T118	FARMACO 3507 3518	enoxaparina
+T119	FARMACO 4648 4660	dexametasona
+T120	FARMACO 4662 4671	meropenem
+T121	FARMACO 4688 4702	anfotericina B
+T122	FARMACO 4713 4726	levetiracetam
+T123	FARMACO 487 495	oxacilín
+T124	PROCEDIMIENTO 1176 1194	soporte vasoactivo
+T125	PROCEDIMIENTO 1794 1817	tratamiento corticoideo
+T126	PROCEDIMIENTO 3468 3483	anticoagulación
+T127	PROCEDIMIENTO 3965 3979	antibioterapia
+T128	SPECIES 193 219	Staphylococcus epidermidis
+T129	SPECIES 222 243	Escherichia coli BLEA
+T130	SPECIES 519 541	E.coli multiresistente
+T131	SPECIES 1581 1592	E.coli BLEA
+T132	SPECIES 1959 1977	Aspergillus flavus
+T133	SPECIES 37 47	SARS-CoV-2
+T135	SPECIES 478 504	S.aureus oxacilín sensible
+T136	SPECIES 544 556	P.aeruginosa
+T137	HUMANO 929 957	[**SEXO_SUJETO_ASISTENCIA**]
+T138	SPECIES 1117 1129	SARS- CoV- 2
+T139	SPECIES 1535 1548	S.epidermidis
+T141	HUMANO 2775 2783	paciente
+T142	HUMANO 2918 2925	familia
+T143	HUMANO 4205 4213	paciente
+T144	SINTOMA 2681 2697	restos hemáticos
+T145	ENFERMEDAD 1480 1491	bacteriemia
+T147	SINTOMA 1508 1548	hemocultivos [**FECHAS**]: S.epidermidis
+T148	SINTOMA 1554 1592	hemocultivos [**FECHAS**]: E.coli BLEA
+T149	SINTOMA 1581 1625	E.coli BLEA 1/2, que también se aisló en BAS
+T150	SINTOMA 1944 1998	aislamiento de Aspergillus flavus en aspirado traqueal
+T151	PROCEDIMIENTO 3784 3820	análisis de poblaciones de monocitos
+T152	SINTOMA 3885 3903	mutación del JAK-2
+T153	SINTOMA 1736 1769	cambios organizativos post- covid
+T1	SINTOMA 4352 4372	empeoramiento franco
+T2	SINTOMA 3545 3563	mejoría progresiva

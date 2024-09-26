@@ -1,0 +1,26 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] arteritis Takayasu y neumonía covid larga evolución.
+Dificultad para reducir O2, sospecha fibrosis. Ruego TC valoración.
+Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; última RX del [**FECHAS**].
+PICC derecha con extremo distal en VCS.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Engrosamiento mural circunferencial en aorta ascendente, ya conocido y en relación a su enfermedad de base (PET/TC en [**OTROS_SUJETO_ASISTENCIA**] del [**FECHAS**]). Discretas calcificaciones coronarias.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación del parénquima pulmonar bilateral en forma de opacidades en vidrio deslutrado y pequeños focos consolidativos de distribución subpleural y también peribroncovascular, asociados a dilataciones bronquiales y a algunas bandas parenquimatosas perilobulares, todo ello de predominio en campos superiores; hallazgos sugestivos de proceso infeccioso por COVID-19, con incipientes cambios organizativos asociados.
+Cambios degenerativos en columna torácica.
+
+conclusiones:
+Neumonía bilateral por COVID-19, de extensión moderada y de predominio en campos superiores, con incipientes cambios organizativos asociados.
+
+descrip:
+TC TORAX

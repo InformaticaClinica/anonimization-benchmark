@@ -1,0 +1,16 @@
+T1	SINTOMA 102 112	Consciente
+T2	SINTOMA 48 62	Normohidratado
+T3	SINTOMA 65 79	normocoloreado
+T4	SINTOMA 81 84	BEG
+T5	SINTOMA 86 100	No adenopatías
+T6	SINTOMA 115 124	orientado
+T7	SINTOMA 129 150	focalidad neurológica
+T8	SINTOMA 156 159	MVC
+T9	SINTOMA 189 203	tonos rítmicos
+T10	SINTOMA 210 216	soplos
+T11	SINTOMA 221 227	edemas
+T12	SINTOMA 231 233	IY
+T13	SINTOMA 235 276	Pulsos periféricos presentes y simétricos
+T14	PROCEDIMIENTO 152 154	AR
+T15	SINTOMA 163 183	ruidos sobreañadidos
+T16	PROCEDIMIENTO 185 187	AC

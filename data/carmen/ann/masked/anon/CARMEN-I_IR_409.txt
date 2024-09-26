@@ -1,0 +1,21 @@
+
+prueba:
+ANGIO TC CORONARIAS
+
+clinica:
+Estudio pre THO. Gracias
+EH IV
+
+protocolo:
+Mediante scanner Siemens Somaton Definition FLASH, se realiza un scout premilinar, seguido de protocolo de evaluación calcio coronario.
+- Radiación estimada: DLP  50 mGy (0,7 mSv)
+
+resultados:
+- Arterias coronarias severamente calcificadas. El calcio score es de 457 U de Agatason. El caico se distribuye a lo largo de la DA toda la DA y CD proximal y distal.
+- Se decide no realizar angioTC ante alta carga de calcio que implica alta probabbilidad de enfermedad coronaria significativa y dificulta correcta valoración luminal de lesiones coranarias.
+
+conclusiones:
+Arterias coronarias severamente calcifciadas.
+
+descrip:
+ANGIO TC CORONARIAS

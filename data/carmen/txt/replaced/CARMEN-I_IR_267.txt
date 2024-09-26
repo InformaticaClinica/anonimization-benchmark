@@ -1,0 +1,28 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+covid+
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: Si
+Distribución
+- Periférica
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho: medio / inferior
+- Pulmón izquierdo:  medio / inferior
+Otros hallazgos relevantes:
+EVOLUCION (valorar extensión y progresión  a consolidación)
+Extensión
+-Progresión
+Consolidación
+-Progresión
+Aparición de fibrosis No
+CONCLUSION:
+Afectación pulmonar por COVID que muestra progresión respecto a Rx previa
+
+descrip:
+RX  PORTATIL  TORAX

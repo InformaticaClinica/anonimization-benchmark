@@ -1,0 +1,17 @@
+T12	ENFERMEDAD 290 318	Litiasis biliar de repeticón
+T13	ENFERMEDAD 406 424	ITUs de repetición
+T14	ENFERMEDAD 453 477	Infección por Sars-Cov-2
+T15	ENFERMEDAD 709 728	episodio trombótico
+T16	SINTOMA 617 629	Asintomático
+T18	PROCEDIMIENTO 515 534	frotis nasofaríngeo
+T19	PROCEDIMIENTO 665 668	IQx
+T20	PROCEDIMIENTO 670 704	ligadura de vena femoral izquierda
+T22	HUMANO 26 32	Hombre
+T23	HUMANO 182 187	mujer
+T24	ENFERMEDAD 79 82	AMC
+T25	SINTOMA 515 543	frotis nasofaríngeo positivo
+T26	HUMANO 598 615	paciente positivo
+T1	SPECIES 467 477	Sars-Cov-2
+T2	SPECIES 250 260	Sars-CoV-2
+T3	ENFERMEDAD 86 101	hábitos tóxicos
+T4	PROCEDIMIENTO 326 328	Qx

@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pcte con nuemonia bilateral por covid con predominio de neumonia basal derecha con derrame pleural asociado que durante el ingreso mantiene requerimientos de oxigeno y progresión analitica dle dimero D ( hoy 6700)
+Solicitamos angio tac para descartar TEP
+Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE: poscontraste
+
+resultados:
+No se observan signos sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural izquierdo ni derrame pericárdico.
+No se observa neumotórax ni neumomediastino.
+Nódulos mal definidos periféricos en parénquima pulmonar izquierdo sin observar afectación de este tipo en el parénquima pulmonar derecho. Este hallazgo por si solo correspondería a indeterminado para COVID.
+En el parénquima pulmonar derecho se visualiza una consolidación con áreas hipocaptantes en el lóbulo inferior asociada a moderado derrame pleural. Este hallazgo es sugestivo de proceso neumónico y por si solo correspondería a NO-COVID.
+La paciente presenta PCR-COVID+ por lo que ante estos hallazgos no se puede descartar la opción de sobreinfección bacteriana sobre infección por COVID19.
+
+conclusiones:
+No TEP. Resto ver informe.
+
+descrip:
+ANGIO TC PULMONAR

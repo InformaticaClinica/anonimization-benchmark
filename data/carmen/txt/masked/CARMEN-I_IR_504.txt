@@ -1,0 +1,21 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**] inrgeso por neumonia por SARS-COV2 grave con máx soporte LAF, > 15días de clínica y persiste con requeriemitno de O2 con patrón intersticial en Rx tórax, solciito TCAR descartar NO. Gracias
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Multiples opacidades en vidrio deslustrado, engrosamientos septales y areas de consolidación con afectación de todos los lóbulos pulmonares de predominio periferico. Algunas de las consolidaciones adoptan una morfologia en forma de banda y de halo invertido que sugiere signos de organización.
+
+conclusiones:
+Infección bilateral por covid 19 con signos de neumonia organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

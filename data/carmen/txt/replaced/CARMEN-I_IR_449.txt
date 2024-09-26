@@ -1,0 +1,33 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Paciente postCOVID con ingreso prolongado en UCI que requirió ECMO en Agosto/22 y que como complicación hemorrágica presentó ruptura de Arteria Iliaca externa derecha con hematoma retroperitoneal secundario de 22 cm de diámetro mayor, que ha estado estable en TCs abdominales de control desde entonces, además portador de drenaje percutáneo por colecistitis (resuelta).
+En TC de control del 31/5 se evidencia estabilidad del hematoma (14x16x22 cm) con aparición de irregularidad hipercaptante de las paredes con pequeñas colecciones multitabicadas, hallazgos en relación a sobreinfección. Coincidiendo con aumento lento y progresivo de la PCR.
+Sin otros aislamientos microbiológicos actualmente.
+Comentado caso en comité de CCV y ante posible dificultad de drenaje del hematoma por vía percutánea, y previendo posible abordaje quirurgico a fúturo se solicita PET TC para valorar afectación del hematoma y estructuras circundantes.
+
+protocolo:
+PET: Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 6,87 mCi de 18F FDG (18F-Fluordesoxiglucosa).
+Glucemia en el momento de la inyección de FDG: 106 mg/dL.
+Se realiza TAC y PET de cuerpo entero.
+Se obtienen imágenes tomográficas de cuerpo entero de PET (con y sin corrección de atenuación) e imágenes fusionadas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (cerebro, región orofaríngea, miocardio, hígado, bazo y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Importante aumento de captación de FDG en las paredes del hematoma retroperitoneal derecho (SUVmax 7,2),  ya conocido, compatible con la existencia de cambios infecciosos asociados. La captación rodea todo el hematoma, que se muestra ametabólico, pero es más evidente en algunas zonas. Destaca su extensión en su zona superior, posterior y medial hacia el psoas (SUVmax 10,4), así como su extensión inferior y medial, coincidiendo con las imágenes tabicadas descritas en la Tc.
+Aumento de captación de FDG en las paredes de la vesícula biliar (SUVmax 6,2), atribuible a la persistencia de cambios inflamatorios asociados, pero sin poder excluir una infeccción.
+Moderado aumento de captación de FDG en seno maxilar derecho (SUVmax 5,6) atribuible a una sinupatía inflamatoria.
+Aumento de captación de FDG pretraqueal y en pared abdominal, adyacente a la vesícula, en probable relación con cambios inflamatorios post- traqueostomia y secundarios al catéter de colecistostomía.
+Importante aumento de captación de FDG en ganglios paratraqueales derechos bajos (SUVmax 5,1) e hiliares bilaterales (SUVmax 4,2), así como en ambas bases pulmonares, asociados a imágenes consolidativas, en relación con al antecedente de infección por Covid 19.
+Quiste renal derecho ametabólico.
+No se observan otras captaciones patológicas de FDG en el resto de sectores corporales estudiados.
+
+conclusiones:
+Estudio PET/TC que muestra importante aumento de captación de FDG en las paredes del hematoma retroperitoneal derecho,  ya conocido, destacando su extensión en su zona superior, posterior y medial hacia el psoas, así como en su zona inferior y medial. El grado de captación es compatible con la existencia de cambios infecciosos asociados, pero sin poder excluir un proceso inflamatorio.
+Aumento de captación de FDG en las paredes de la vesícula biliar, compatible con la persistencia de cambios inflamatorios, pero sin poder excluir una infeccción.
+Aumento de captación de FDG en ganglios paratraqueales derechos bajos e hiliares bilaterales, así como en ambas bases pulmonares, en relación con al antecedente de infección por Covid 19.
+
+descrip:
+PET TC COS SENCER FDG

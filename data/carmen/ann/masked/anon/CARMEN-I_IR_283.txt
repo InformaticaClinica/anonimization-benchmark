@@ -1,0 +1,28 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] HTA, DLP, DM, cardiópata con protesis valvular aórtica, FA anticoagulada y SIADH crónico. Ingresa en [**NUMERO_IDENTIF**] derivada de [**HOSPITAL**] (donde se encontraba ingresada por descompensación de cardiopatía) por frotisCOVID 19 positivo, paciente asintomática desde el punto de vista respiratorio. Por fiebre, se cursan hemocultivos en que se aisla E. faecalis. Ante sospecha de endocarditis, se solicita ecografia transtorácica ([**FECHAS**]) que descarta presencia de vegetaciones u otros signos compatibles con endocarditis. No es posible realizar ecocardiograma transesofágico en paciente COVID +, por lo que solicitamos PET-TC para descartar endocarditis, por alta sospecha.
+BACTERIEMIA POR E.FAECALIS
+
+protocolo:
+Radiofármaco: Fluorodesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 6.35 mCi de FDG.
+Glucemia en el momento de la inyección de FDG: 95 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Estudio PET/TC que no muestra en la actualidad signos sugestivos de endocarditis infecciosa a nivel de prótesis valvular aórtica.
+Refuerzo de captación en pequeña opacidad de base pulmonar izquierda (SUVmáx: 4.49) en probable relación con proceso inflamatorio/infeccioso.
+Presencia de adenopatías mediastínicas paratraqueales derechas (SUVmáx: 3.01), subcarinales e hiliares de aspecto reactivo.
+Leve derrame pleural derecho.
+Tenue refuerzo de captación irregular en engrosamiento del músculo psoas izquierdo sugestivo de hematoma no agudo.
+En las imágenes del TC se aprecia lesión sólida de aproximadamente 73.5 mm de tamaño que no presenta captación de FDG y que se localiza en piel y tejido celular subcutáneo de región glútea derecha. A valorar mediante clínicamente.
+
+conclusiones:
+Estudio PET/TC que no muestra en la actualidad signos sugestivos de endocarditis infecciosa. Probable proceso inflamatorio/infeccioso pulmonar y hematoma de psoas izquierdo. Lesión sólida subcutánea glútea derecha, a caracterizar (Ver resultados).
+
+descrip:
+PET TC COS SENCER FDG

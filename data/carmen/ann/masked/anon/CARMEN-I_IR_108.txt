@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con SDRA grave por COVID-19 con mala evolución y aumento de Dímero-D. Se solicita TACAR por sospecha de progresión a neumonía organizativa y AngioTC pulmonar para descartar TEP.
+NEUMONIA POR COVID 19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Exploración subóptima para la valoración de TEP debido a que no se ha conseguido una correcta opacificación de las arterias pulmonares (ROI en el tronco de la arteria pulmonar < 150 UH). No objetivo defectos de repleción evidentes en arterias pulmonares principales y lobares.
+Moderado derrame pleural bilateral, de predominio izquierdo.
+Presenta una afectaciçon parenquimatosa pulmonar difusaa en forma de patrón en empedrado, vidrio deslustrado y consolidaciones periféricas que sugeriría afectación por COVID-19. Presenta una zona con patrón en atolón o halo invertido en el lóbulo medio que podría estar en relación con neumonía organizativa.
+Cambios degenerativos en la columna torácica.
+Probable adenoma adrenal derecho.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

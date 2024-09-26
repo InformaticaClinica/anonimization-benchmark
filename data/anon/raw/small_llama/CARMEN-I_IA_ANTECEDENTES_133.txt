@@ -1,0 +1,24 @@
+ Antecedentes personales:
+Sin alergias medicamentosas conocidas ni hábitos tóxicos. Deterioro funcional progresivo tras la muerte de su [**FAMILIARES_SUJETO_ASISTENCIA**]. Independiente para ABVD con un Barthel de [**EDAD_SUJETO_ASISTENCIA**]. Vive sola en casa con ayuda de una mujer las 24h. Utiliza bastón para desplazarse.
+** ANTECEDENTES PATOLÓGICOS:
+1. [**ENFERMEDAD_CARDIOVASCULAR**] en tratamiento farmacológico.
+2. [**ENFERMEDAD_METABÓLICA**] en tratamiento con antidiabético oral + insulina con adherencia parcial a tratamiento. Control por su médico de cabecera. Última HbA1c [**FECHAS**] 7.9% (agosto 2012)
+3. [**ENFERMEDAD_METABÓLICA**] sin tratamiento farmacológico.
+4. [**SÍNCOPE_CARDIOGÉNICO**] con [**ENFERMEDAD_CARDIOVASCULAR**] 2:1 que requirió implante de marcapasos el 2010 Generador MEDTRONIC ADAPTA VDD.
+5. [**ENFERMEDAD_CARDIOVASCULAR**] con [**FUNCIÓN_CARDIACA**] preservada. Último ecocardiograma: [**FUNCIÓN_CARDIACA**] 63%, con válvula aórtica trivalva de sigmoides con apertura conservada y regurgitación ligera moderada
+6. [**ENFERMEDAD_ARTICULAR**] en control por médico de atención primaria que ha requerido dos infiltraciones en el último año Ecografía hombro derecho (07/2012): rotura completa del tendón del músculo supraespinoso; rotura parcial de los tendones del músculo subescapular; tendones del infraespinoso y porción larga bíceps normales; cambios degenerativos en articulación acromioclavicular.
+7. [**SÍNDROME_PIERNAS_INQUIETAS**] en tratamiento con clonazepam.
+8. [**ENFERMEDAD_OCULAR**] en tratamiento farmacológico.
+** INTERVENCIONES QUIRÚRGICAS:
+- [**INTERVENCION_CIRÚRGICA**] y aspiración de catarata en ambos ojos en 2010 en control por Oftalmología [**HOSPITAL**].
+- [**NEOPLASIA**] OCLUSIVA OCLUSIVA DE [**COLON**]/SIGMA CON SUFRIMIENTO DE CIEGO + M1 HEPÁTICAS : ADHERENCIOLISIS + COLECTOMÍA SUBTOTAL CON ANASTOMOSIS ILEOSIGMOIDEA L-L MECÁNICA (30/04/13).
+**MEDICACIÓN HABITUAL (actualizada 13/01/20):
+- Insulina Glulisina 8UI cada 12h vía subcutánea 0-8-0-8-0
+- Insulina Glargina 20UI cada 24h vía subcutánea 0-0-0-20-0
+- Furosemida 40mg medio comprimido cada 24h vía oral 0.5-0-0-0-0
+- Metformina 850mg cada 8h vía oral 0.5-0.5-0-0.5-0
+- Sertralina 50 mg cada 24h vía oral 1-0-0-0-0
+- Clonazepam 0.5mg cada 24h vía oral
+- Gabapentina 300mg dos cápsulas cada 24h vía oral 0-0-0-2-0
+- Paracetamol 1000mg cada 8h vía oral si precisa
+- Losartan 50mg cada 24h vía oral 0.5-0-0-0-0.

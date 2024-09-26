@@ -1,0 +1,11 @@
+T2	PROCEDIMIENTO 91 105	Pulsioximetría
+T3	PROCEDIMIENTO 185 215	palpacion hemiabdomen inferior
+T4	SINTOMA 135 142	Afebril
+T5	SINTOMA 144 215	Abdomen blando depresible, doloroso a la palpacion hemiabdomen inferior
+T6	SINTOMA 303 327	Signo de blumberg dudoso
+T7	SINTOMA 329 361	Signo rovsing y murphy negativos
+T8	SINTOMA 363 376	PPBL negativa
+T9	SINTOMA 283 301	defensa localizada
+T10	PROCEDIMIENTO 329 351	Signo rovsing y murphy
+T11	PROCEDIMIENTO 363 367	PPBL
+T12	PROCEDIMIENTO 303 320	Signo de blumberg

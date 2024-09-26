@@ -1,0 +1,18 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Sospehca neumotórax + granuloma en tráquea.
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+TC torácico urgente sin contraste ev.
+
+conclusiones:
+Traqueostomía con extremo distal a 15 mm de la carina. Catéter venoso central con acceso yugular izquierdo y extremo distal en la unión cavoatrial. Sonda nasogástrica con extremo distal en la 1ª porción duodenal.
+Leve neumotórax derecho. Trayecto del tubo de drenaje torácico ya retirado por el 6-7º espacio intercostal derecho. Abundante enfisema subcutáneo en la pared torácica derecha.
+Ténues opacidades en vidrio deslustrado bilaterales en probable relación con la neumonía por COVID-19 conocida. Colapso subtotal de ambos lóbulos inferiores. Leve derrame pleural bilateral. Mínimo derrame pericárdico.
+
+descrip:
+TC TORAX

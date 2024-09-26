@@ -1,0 +1,46 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresada por fx de meseta tibial con OS, que ha requerido desbridamiento el [**FECHAS**] por infeccion de OS polimicrobiana con evolución tórpida
+NEUMONIA POR SARS-CoV2 LEVE (PCR + [**FECHAS**])
+- PCR + : [**FECHAS**]
+- Inicio de clínica el [**FECHAS**] con tos ( hasta entonces afebril y asintomática) y el [**FECHAS**] Sp02 90-94% basal que remonta con 2lpm.
+Llegó a requerir ln a 4 lpm el [**FECHAS**], con mejoría clínica posterior tras aumento de dosis de corticoide, llegando a retirar O2 el [**FECHAS**].
+**Desde el [**FECHAS**], tendencia a taquicardización (cifras tensionales durante el ingreso 80-100/40/60) y desde el [**FECHAS**] febrícula. El [**FECHAS**], 92-93% basal y comienza con sensación disneica de mínimos esfuerzos, dejando con ln a 2 lpm.
+**ANÁLISIS:
+-PCR 2.35 ([**FECHAS**]) -> 6.86 ([**FECHAS**]) -> 0.46 ([**FECHAS**]) -> 14.28 ([**FECHAS**]). - Ferritina 1000 ([**FECHAS**]) -> 1647 ([**FECHAS**]) -> 476 ([**FECHAS**]) - > 600 ([**FECHAS**]) - LDH 374 ([**FECHAS**]) -> 484 ([**FECHAS**]) - > 265 ([**FECHAS**])
+-Leucocitos: 15580 con 13700 NT y 1100 linf ([**FECHAS**]) -> 7160 con 5600 NT y 1100 linf ([**FECHAS**]) -> 12900 con 10800 NT y 1300 linf ([**FECHAS**]) -> 6870 con 5600 NT y 700 linf ([**FECHAS**]). Linfocitos mínimos 600 ([**FECHAS**]) -Hb 9 ([**FECHAS**]) - > 10.7 ([**FECHAS**]) -> 8.3 ([**FECHAS**] y [**FECHAS**]) macrocítica normocrómica
+-DD 1300 ([**FECHAS**]) -> 2000 ([**FECHAS**])
+- ANGIO-TC ([**FECHAS**]): No se observa TEP. Neumonía bilateral COVID19 leve.
+Ocupaciones bronquiales distales y atelectasias en ambos LLII.
+- Tto Dexa: 4 mg/24g desde el [**FECHAS**]. El [**FECHAS**] : Dexametasona 6 mg/d (fin [**FECHAS**])
+---
+El [**FECHAS**], avisan por nuevo empeoramiento respiratorio. La paciente refiere sensación disneica, con mínimos esfuerzos desde ayer, objetivándose SatO2 92-93% y tendencia a la taquicardización, por lo que se colocan ln a 2 lpm, aumentando SatO2 a 95-96%. Asocia febrícula desde el [**FECHAS**]. No tos, no dolor torácico ni palpitaciones.
+V. subclavia izda sin signos de flebitis pero disfuncionante
+ID: NEUMONÍA ORGANIZATIVA VS TEP (DD 2000)
+-MENOS PROBABLE ENDOCARDITIS CON ÉMBOLOS +- IC
+ruego angio-TC para orientación dca.
+covid-19 y dolor torácico
+
+protocolo:
+Angio-TC pulmonar urgente adquirida mediante energía dual.
+
+resultados:
+Se compara con el estudio previo del [**FECHAS**].
+Catéter de acceso venoso en vena subclavia izquierda con extremo distal en VCS.
+En el momento actual no se aprecian defectos de repleción en el árbol arterial pulmonar que sugieran la presencia de TEP agudo.
+Adenopatía hiliar derecha de 14 mm que ha aumentado discretamente de tamaño respecto el estudio previo (10 mm), inespecífica. Ganglios mediastínicos infracentimétricos de aspecto inespecífico que también son discretamente más evidentes que en el estudio previo. No se aprecian otras adenopatías axilares o mediastínicas valorables. Hernia de hiato.
+Leve derrame pleural bilateral con extensión cisural de nueva aparición.
+No se observa derrame pericárdico.
+Afectación pulmonar bilateral conocida por COVID-19 consistente en opacidades en vidrio deslusltrado bilaterales con algunos focos consolidativos de predominio periférico en lóbulos superiores y segmentos apicales de los lóbulos inferiores, hallazgos que han progresado respecto en el estudio previo. Llama la atención la aparición de bandas pleuroparenquimatosas y dilataciones bronquiales y bronquiolares de predominio en lóbulos inferiores, sugestivo de cambios organizativos.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- Exploración sin signos de TEP agudo.
+- Neumonía bilateral por COVID-19 conocida que ha progresado en extensión respecto el estudio previo (25-50% del parénquima afectado) y que en la actualidad asocia cambios organizativos.
+- Leve derrame pleural bilateral de nueva aparición.
+
+descrip:
+ANGIO TC PULMONAR

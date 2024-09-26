@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresado por pancreatitis aguda que presenta cuadro de desaturación, covid inicial negativo .Rx sin infiltrados relevantes. Se solitica angioTAC para descartar TEP o posibles signsod e distrés incipiente. GRACIAS!
+sd depresivo
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Trónco de la arteria pulmonar de calibre normal. No se observan signos de sobrecarga cardiaca derecha.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Discreto derrame pleural derecho y leve derrame pleural izquirdo; ambos determinan colapso del parénquima adyacente. No se observa derrame pericárdico.
+Parénquima pulmonar sin hallazgos significativos. No se observan signos sugestivos de infección COVID19 ni otras alteraciones significativas.
+En los cortes de hemiabdomen superior, se observan signos compatibles con pancreatitis necrohemorrágica conocida, actualmente con mayor desestructuración pancreática, trabeculación de la grasa y liquido peripancreático respecto a TC previo del [**FECHAS**].
+CVC con extreno distal en VCS. SNG con extremo distal en cámara gástrica.
+
+conclusiones:
+No se observan signos de TEP agudo.
+Discreto derrame pleural derecho y leve derrame pleural izquirdo; ambos determinan colapso del parénquima adyacente.
+No se observan signos sugestivos de infección COVID19 ni otras alteraciones significativas en el parénquima pulmonar.
+En los cortes de hemiabdomen superior, se observa mayor desestructuración pancreática, trabeculación de la grasa y liquido peripancreático respecto a TC previo del [**FECHAS**], todo esto en relación a pancreatitis necro-hemorrágica conocida.
+
+descrip:
+ANGIO TC PULMONAR

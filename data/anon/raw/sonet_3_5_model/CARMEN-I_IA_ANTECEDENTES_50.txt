@@ -1,0 +1,7 @@
+Antecedentes personales:
+Varón de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias medicamentosas conocidas. Autónomo ABVD, sin deterioro cognitivo. Exfumador hasta los [**EDAD_SUJETO_ASISTENCIA**] años (DA 88 paq-año), bebedor de 1 vaso vino/día. Vive en domicilio con su [**FAMILIARES_SUJETO_ASISTENCIA**].
+* ANTECEDENTES PATOLÓGICOS
+1. HIPERTENSIÓN ARTERIAL
+2. DISLIPEMIA
+3. NAC FINE III EN LSD que requirió ingreso en [**FECHAS**]
+* Medicación habitual ([**FECHAS**]): simvastatina 10mg/d, amlodipino 5mg/d, atenolol 50mg/d.

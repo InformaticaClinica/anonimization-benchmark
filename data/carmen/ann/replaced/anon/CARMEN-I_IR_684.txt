@@ -1,0 +1,34 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Covid en su dia +22 de sintomas, intubado desde el 29/12.
+Persistencia de imagen radiológica, DDimero > 2000.
+TC para descartar NO/TEP.
+PNEUMONIA x COVID'19
+
+protocolo:
+TC torácica de alta resolución + Angio-TC pulmonar adquirido mediante energía dual.
+
+resultados:
+Tubo endotraqueal con su extremo distal a la altura de la carina, discretamente insinuado en el bronquio principal derecho. Catéteres venosos yugulares bilaterales: el derecho con extremo distal en AD y el izquierdo en VCS. SNG normoposicionada.
+No se aprecian defectos de repleción en el árbol arterial pulmonar que sugieran la presencia de TEP agudo.
+Ganglios mediastínicos de tamaño borderline en regiones paratraqueales bilaterales, subcarinal y en ventana aortopulmonar, probablemente reactivos. No se evidencian adenopatías axilares o mediastínicas valorables.
+Ateromatosis calcificada de aorta y arterias coronarias. No se aprecia derrame pleural ni pericárdico.
+Focos consolidativos peribroncovasculares de predominio posterobasal en ambos lóbulos inferiores que asocian unas ténues opacidades en vidrio deslustrado subpleurales con tendencia consolidativa y algunas bandas subpleurales en lóbulos superiores. Todo ello en relación a neumonía bilateral por COVID-19 conocida con cambios organizativos incipientes posterobasales.
+Engrosamientos parietales bronquiales de predominio en bases pulmonares con presencia de material hipodenso endoluminal en bronquios segmentarios y subsegmentarios del LM y LID (probables secreciones); en relación a signos de inflamación bronquial. En el LM condicionan un colapso de su segmento lateral con pérdida de volumen pulmonar y elevación hemidiafragmática ipsilateral.
+Atelectasias en segmentos posteriores de ambos LLII.
+Vesícula biliar distendida con barro biliar/microlitiasis en su interior. Riñones parcialmente incluidos en el estudio. Litiasis no obstructiva de 11 mm en el infundíbulo del grupo calicial superior del riñón izquierdo.
+
+conclusiones:
+- No hay signos de TEP agudo.
+- Afectación parenquimatosa pulmonar bilateral correspondiente a la neumonía bilateral por COVID-19 conocida con cambios organizativos incipientes posterobasales.
+- Signos de inflamación bronquial en LM y LID con presencia de secreciones endobronquiales que condicionan colapso del segmento lateral del LM con pérdida de volumen y elevación diafragmática ipsilateral.
+- TET con extremo distal a la altura de la carina, discretamente insinuado en el bronquio principal derecho.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

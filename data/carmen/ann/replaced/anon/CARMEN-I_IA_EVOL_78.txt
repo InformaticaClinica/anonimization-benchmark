@@ -1,0 +1,20 @@
+
+EVOLUCIÓN ONCOLOGIA MÉDICA
+1-Mucositis G1
+2-Neutropenia febril de bajo riesgo de foco urinario
+3-Anemia G3
+4-Hipomagnesemia G2. Incio reposicion con magnogene.
+5-Astenia G2
+6-Neoplasia de mama TNBC en tto neoadyuvate
+Paciente con los antecedentes previamente descritos que acude por fiebre. A su llegada a urgencias se presenta con buen estado general, afebril y hemodinamicamente estable. Al examen físico presenta mucositis.
+En analítica destaca elevación de PCR, leucopenia con RAN 100, Hb 7.9, plaquetas 102.000, Mg 1.4. Radiografía de tórax sin imagenes sugestivas de infiltrados o condensación. Antigeno para Covid positivo, con 2 PCR posteriores negativas.
+Orientado como neutropenia febril de bajo riesgo de foco no filiado sin poder descartar infección por Covid, de común acuerdo con servicio de infecciosas se decide iniciar tratamiento para Covid con hidroxicloroquina, azitromicina, lopinavir/ritonavir y ceftriaxona. Se administra 2 CCHH y prescribe solución de mucositis.
+A las 24 horas presenta elevación de PCR pero con recuperación de neutrófilos. Por recomendación de infecciosas se decide cambio de esquema antibiótico, suspendiendo ceftriaxona y teicoplanina con inicio de tazocel.
+En urocultivo se aisla Escherichia coli y Enterococcus faecalis.
+Presenta antigenuria positiva para neumococo. Comentado el hallazgo de la antigenuria con infecciosas se desestiman el resultado.
+En TC de tórax sin alteraciones parenquimatosas valorables. Pelvis extrarrenal izquierda de pared ligeramnete engrosada en contexto de antecedentes previos.
+En analítica de control presenta mejoría de los parametros inflamatorios con RAN 4.200 y Hb 10.3.
+Se descarta infección por Covid. Se concluye por orientar el cuadro como una neutropenia febril de foco urinario. Se cambio esquema antibiótico por augmentine y ciprofloxacino.
+Dado el buen estado general, la ausencia de signos de alarma y la remisión de la sintomatolía que motivo la consulta, decido otorgar el alta hospitalaria.
+   
+   

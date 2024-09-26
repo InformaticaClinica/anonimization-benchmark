@@ -1,0 +1,8 @@
+ Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**], reside en [**TERRITORIO**] desde hace [**FECHAS**] años, sin alergias medicamentosas conocidas.
+**ANTECEDENTES PATOLÓGICOS:
+1. ASMA BRONQUIAL en la infancia
+**MEDICACIÓN HABITUAL ([**FECHAS**]):
+Niega. Asma: no. Problemas de espalda: no. Diabetes: no. Epilepsia: no.
+Problemas de fertilidad: no. Embarazos ectópicos: no. Infecciones: no.
+Cirugía ginecológica: no. Cardiopatías: no. Hipertensión: no. Incontinen cia de orina: no. Incontinencia de heces: no. Hepatopatías: no. Migraña: no. Antecedentes psiquiátricos: no. Coagulopatías: no. Enfermedades tir oideas: no. Reacciones anestésicas: no. Transfusiones de sangre o deriva dos: no. Problemas inmunológicos: no. Riesgo de enfermedad Chagas: no. E nfermedades renales-urológicas: no. Vacunas: dTpa administrada.

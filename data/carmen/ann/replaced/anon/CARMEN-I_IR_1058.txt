@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+COVID+
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco principal de la arteria pulmonar.
+Ateromatosis calcificada de la rama descendente anterior de las arterias coronarias y en la aorta. Se identifican al menos tres imágenes de trombos flotante en la aorta torácica descendente, a la altura de T7, T10 y T12.
+Glándula tiroides de tamaño aumentado a expensas de lóbulo tiroideo izquierdo, que además muestra imágenes nodulares en su interior, en relación con bocio multinodular. Adenopatías mediastínicas de aspecto reactivo de localización prevascular, subcarinal, paratraqueal e hiliar bilateral.
+No se observa derrame pleural ni pericárdico.
+Severo enfisema centrolobulillar en campos superiores. Leve engrosamiento difuso de paredes bronquiales.
+Extensos focos consolidativos bilaterales, con disposición predominantemente periférica en campos pulmonares medios y superiores, asociados a dilataciones bronquiolares en su interior. En algunas zonas conforman bandas subpleurales y también se identifican imágenes en halo reverso, siendo todo ello compatible con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+Nódulo pulmonar sólido de 17 mm en el segmento basal lateral del lóbulo inferior izquierdo (ya biopsiado en 2025 y con resultado de hamartoma pulmonar)
+Colecistectomía. Quistes corticales renales bilaterales.
+
+conclusiones:
+- No se observa TEP.
+- Trombosis mural en la aorta torácica descendente, alguno de ellos de aspecto flotante.
+- Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+
+descrip:
+ANGIO TC PULMONAR

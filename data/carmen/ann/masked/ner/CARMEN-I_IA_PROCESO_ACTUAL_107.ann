@@ -1,0 +1,36 @@
+T9	SINTOMA 691 700	febrícula
+T10	SINTOMA 721 742	escalofríos nocturnos
+T11	SINTOMA 745 754	temblores
+T12	SINTOMA 756 764	Mialgias
+T13	SINTOMA 769 776	cefalea
+T14	SINTOMA 781 798	dolor retroocular
+T15	SINTOMA 803 813	artralgias
+T16	SINTOMA 922 929	Náuseas
+T17	SINTOMA 932 950	malestar abdominal
+T18	SINTOMA 952 965	epigastralgia
+T19	SINTOMA 975 983	diarreas
+T20	SINTOMA 991 998	anosmia
+T21	SINTOMA 1001 1010	disgeusia
+T22	SINTOMA 1033 1040	astenia
+T23	SINTOMA 1091 1112	infiltrados bibasales
+T24	SINTOMA 1224 1240	elevación de LDH
+T25	SINTOMA 1305 1316	trombopenia
+T26	SINTOMA 207 224	se encuentra bien
+T27	SINTOMA 501 509	ampollas
+T28	SINTOMA 815 845	Sensación disnéica al esfuerzo
+T29	SINTOMA 1152 1168	elevación de PCR
+T30	SINTOMA 1282 1299	hemoconcentración
+T31	SINTOMA 1320 1351	alteraciones de la serie blanca
+T32	ENFERMEDAD 560 584	intoxicación por pescado
+T33	ENFERMEDAD 1076 1081	COVID
+T34	PROCEDIMIENTO 1116 1136	radiografia de tórax
+T35	HUMANO 331 338	familia
+T36	SPECIES 397 405	animales
+T37	HUMANO 534 540	médico
+T38	ENFERMEDAD 410 420	mordeduras
+T39	SINTOMA 424 432	arañazos
+T40	ENFERMEDAD 512 521	uritcaria
+T41	SPECIES 577 584	pescado
+T42	ENFERMEDAD 586 606	escombrointoxicacion
+T43	PROCEDIMIENTO 1068 1081	test Ag COVID
+T44	PROCEDIMIENTO 1138 1147	Analítica

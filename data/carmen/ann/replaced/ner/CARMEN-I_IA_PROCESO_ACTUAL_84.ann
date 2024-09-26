@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 20 35	Colecistectomía
+T2	PROCEDIMIENTO 248 261	TAC abdominal
+T3	PROCEDIMIENTO 327 329	RM
+T4	PROCEDIMIENTO 38 68	IQ no filiada de riñon derecho
+T5	SINTOMA 80 93	estreñimiento
+T6	SINTOMA 155 177	dolor abdominal difuso
+T7	SINTOMA 123 144	canalización de gases
+T8	ENFERMEDAD 217 234	fractura de femur
+T9	ENFERMEDAD 278 298	hemagiomas hepáticos
+T10	ENFERMEDAD 237 242	COVID
+T11	HUMANO 1 9	Paciente

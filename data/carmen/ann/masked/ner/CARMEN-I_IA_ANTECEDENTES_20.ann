@@ -1,0 +1,17 @@
+T6	PROCEDIMIENTO 434 461	Nefrectomía radical derecha
+T7	PROCEDIMIENTO 193 197	Ados
+T8	PROCEDIMIENTO 241 259	tto anticoagulante
+T9	ENFERMEDAD 143 146	DM2
+T10	ENFERMEDAD 202 205	HTA
+T11	ENFERMEDAD 288 302	Hipotiroidismo
+T12	ENFERMEDAD 351 361	Duodenitis
+T13	ENFERMEDAD 364 392	candidiasis esofágica severa
+T14	ENFERMEDAD 395 412	gastritis erosiva
+T15	ENFERMEDAD 479 506	carcinoma de células claras
+T16	SINTOMA 600 618	nódulos pulmonares
+T17	ENFERMEDAD 232 237	ACxFA
+T18	ENFERMEDAD 329 347	Hipoacusia derecha
+T19	FARMACO 261 269	edoxabán
+T20	FARMACO 273 283	amiodarona
+T21	PROCEDIMIENTO 554 580	tratamiento oncoespecífico
+T23	PROCEDIMIENTO 634 651	pruebas de imágen

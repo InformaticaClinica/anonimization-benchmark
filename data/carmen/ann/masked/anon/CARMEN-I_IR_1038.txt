@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID 19
+
+conclusiones:
+Aumento de densidad difuso bilateral en campos pulmonares inferiores, que impresiona ser menos evidente respecto a la RX previa de [**FECHAS**], de difícil valoración debido a la superposición de partes blandas.
+
+descrip:
+RX  PORTATIL  TORAX

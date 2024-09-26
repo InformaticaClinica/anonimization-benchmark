@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] ingresa por neumonía grave por covid que requiere intubación, ya extubada, solicitamos angioTAC para descartar TEP y despistaje de NOC.
+Muhcas gracias.
+Infección por SARS-CoV2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Nódulos tiroideos bilaterales, especialmente derechos, a valorar con ecogra´fia.
+No se evidencia derrame pleural o pericárdico.
+No objetivo defectos de repleción endovasculares que sugieran la existencia de TEP o trombosi vascular arterial. Presenta una afectación parenquimatosa pulmonar difusa bilateral en forma de áreas de "fibrosis- like" que sugieren una afectación por COVID-19 evolucionada. Los cambios "fibróticos" se han descrito ascoiados a zonas de neumonía organizativa.
+También se aprecian alguna áreas de ténue vidrio deslustrado
+Cambios degenerativos en la columna torácica.
+Cambios posquirúrgicos en la región gástrica. Hígado de contornos festoenados que sugiere hepatopatía crónica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

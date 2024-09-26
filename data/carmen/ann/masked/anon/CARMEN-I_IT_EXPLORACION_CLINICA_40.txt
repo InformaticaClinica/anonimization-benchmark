@@ -1,0 +1,2 @@
+[**FECHAS**]-20:00:00: FiO2 (%) 40. [**FECHAS**]-13:00:00 : Glicemia capilar (mg/dl) 216. [**FECHAS**]-19:09:00 : Peso (Kg) 60. [**FECHAS**]-12:27:00 : Pulsioximetría (%) 99. [**FECHAS**]-19:12:00 : Talla (cm) 171. [**FECHAS**] 13:00:00 : Ta axilar (oC) 32.
+IOT. TA 140/60mmhg bajo perfusión de NA x4 a 15ml/H. Pupilas no valorables (intervendio ojo izquierdo), medias. Entrada de aire en ambos campos pulmonares, no crepitantes.

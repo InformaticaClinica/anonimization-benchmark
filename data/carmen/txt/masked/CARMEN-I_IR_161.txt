@@ -1,0 +1,21 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] a FG>90, monoreno funcional, sin otros AP de interés, con ingreso actual por COVID 19, empeoramiento a nivel respiratorio, con aumento necesidades de O2 y analíitcamente con mejoría de parametros inflamatorios pero aumento de Ddimer de 300 a 1000 en 24 h. Rogamos prueba de imagen para descartar TEP, comentado con radiologo torax de guarida.
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Múltiples focos en vidrio deslustrado bilaterales y con distribución periférica, que se acompañan de focos consolidativos subpleurales en lóbulos inferiores. Todo ello compatible con infección pulmonar por COVID-19. En lóbulos inferiores presenta zonas de distorsión parenquimatosa con patrón perilobular que indica componente de neumonía organizativa.
+
+conclusiones:
+No se observan signos de TEP. Hallazgos parenquimatosos pulmonares compatibles con afectación bilateral por COVID-19, con componente de neumonía orgnizativa.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,21 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Tr Card antic, Ins Renal - Hemodialisis, Pneumonia-COVID Placa control per valorar evolucio i possible alta.
+COVID-19
+
+protocolo:
+RX PORTATIL TORAX
+
+resultados:
+Catéter tunelizado yugular derecho y extremo distal en VCS.
+Cambios postIQ cardíaco.
+Resolución de la opacidad alveolar en campo medio y superior del pulmón derecho con persistencia alguna pequeña área aislada basal derecho.
+
+conclusiones:
+Resolución subtotal del proceso neumónico de predominio derecho que persiste a nivel basal derecho.
+
+descrip:
+RX  PORTATIL  TORAX

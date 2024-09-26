@@ -1,0 +1,26 @@
+
+prueba:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+clinica:
+Tx renal [**FECHAS**] + COVID + alteracion del perfil rena
+INSUFICIENCIA RESPIRATORIA HIPOXÉMICA GRAVE
+
+protocolo:
+ECOGRAFIA RENOVESICOPROSTATICA PORTATIL URGENTE
+
+resultados:
+Injerto renal en FID de tamaño y morfología normal sin dilatación significativa de la vía excretora. Existe mínima prominencia de la vía intrarrenal. Longitud de aprox. 12 cm, con grosor cortical conservado.
+Arteria y vena del injerto permeables con IRs intraparenquimatosos en el límite superior de la normalidad (0.85-0.88-0.78-0.75)
+Vejiga colapsada con globo de sonda en su interior.
+Leve líquido libre en pelvis. Edema generalizado del tejido celular subcutáneo.
+
+conclusiones:
+Injerto renal en FID con IRs en el límite alto de la normalidad sin otros hallazgos a destacar.
+Leve líquido en pelvis.
+
+descrip:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+descrip:
+ECOGRAFIA PORTATIL (ABDOMEN)

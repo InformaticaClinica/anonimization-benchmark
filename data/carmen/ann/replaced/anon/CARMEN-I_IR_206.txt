@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Politrauma. Hematoma subdural temporal D. Bona evolució NRL. Interessa TC cerebral de control aquesta tarda per indicació de neurocirurgia.
+Moltes gràcies
+
+protocolo:
+TC CEREBRAL sin contraste yodado E.V urgente.
+
+resultados:
+Se compara con TC del 23/05/2015.
+Estabilidad en el hematoma agudo subdural en polo anterior de la fosa temporal derecha, con extensión a convexidad cerebral, de 11 mm de grosor máximo.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas. Cisternas basales no ocupadas.
+Pequeño hematoma de partes blandas subgaleal fronto-temporal derecho.
+Persiste la ocupación parcial del seno esfenoidal izquierdo por material hiperdenso, en probable relacióna a hemoseno.
+
+conclusiones:
+Estabilidad en el hemaatoma subdural agudo temporal derecho.
+
+descrip:
+TC CEREBRAL

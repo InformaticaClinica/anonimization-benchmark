@@ -1,0 +1,27 @@
+ Mujer de [**EDAD_SUJETO_ASISTENCIA**] con alergia a codeina (angioedema) e intolerancia digestiva a múltiples fármacos (AINEs, colchicina, amoxicilina). No habitos tóxicos. Vive con su [**OTROS_SUJETO_ASISTENCIA**]. Deambula con uso de bastón o andador.
+ANTECEDENTES PATOLÓGICOS:
+1. HEMORRAGIA DIGESTIVA DE ORIGEN INCIERTO/PROBABLEMENTE SECUNDARIA A HEMORROIDES EN AÑO 1998 y 2009
+* Colonoscopia en 2009 orificios diverticulares localizados en sigma, sin signos de inflamación ni hemorragia. Sin signos de hemostasia reciente.
+2. [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento farmacológico.
+3. Menigoencefalitis por Brucela en 1985.
+4. Gonartrosis, cervicoartrosis.
+5. [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento farmacológico.
+6. Vitrectomia.
+7. Carcinoma basocelular en cara y muslo izquierdo. Control en [**INSTITUCION**] por parte de [**PROFESION**] con numerosas exéresis.
+8. Hiperuricemia en tratamiento farmacológico
+9. [**FAMILIARES_SUJETO_ASISTENCIA**] post-tiroidectomía total en enero 2003 (por [**PROFESION**]) en tratamiento sustitutivo con [**PROFESION**].
+10. [**FAMILIARES_SUJETO_ASISTENCIA**] post-HPTHP con hipocalemia y hipomagnesia de dificil control con clínica de tetania que ha requerido varios ingresos en urgencias con reposicion de Ca ev. No litiasis, faquectomia bilateral.
+11. [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento con [**PROFESION**].
+12. Ictus en febrero 2010, ingreso en [**HOSPITAL**]. LACI. RMN Dos pequeños focos de isquémia aguda en cuerpo de caudado derecho. Leve atrofia cortico-subcortical difusa. Lesiones en sustancia blanca que por sus características semiológicas sugieren leucoencefalopatía de origen hipóxico-isquémico crónico en probable relación a microangiopatía a correlacionar con factores de riesgo cardiovasculares.
+MEDICACIÓN ACTUAL:
+- [**PROFESION**] 0.5 mcg/48 horas
+- [**PROFESION**]/[**PROFESION**] 1 compr/24h
+- [**PROFESION**] 200mg/día.
+- [**PROFESION**]
+- [**PROFESION**] diario 2 comp. al día
+- [**PROFESION**] 20mg/24h
+- [**PROFESION**] 75mg/24h
+- [**PROFESION**] 500mg/8 horas 2-0-2
+- [**PROFESION**] 3-2-3
+- [**PROFESION**] 40 mg/día
+- [**PROFESION**] cada 72 horas. Medicación habitual: (25/5/2013): [**PROFESION**] 0.5 mcg/48 horas, [**PROFESION**]/[**PROFESION**] 1 compr/24h, [**PROFESION**] 200mg/día, [**PROFESION**], [**PROFESION**] diario 2 comp. al día, [**PROFESION**] 20mg/24h, [**PROFESION**] 75mg/24h, [**PROFESION**] 500mg/8 horas 2-0-2, [**PROFESION**] 3-2-3, [**PROFESION**] 40 mg/día, [**PROFESION**] cada 72 horas.

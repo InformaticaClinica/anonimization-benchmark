@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+ENFERMEDAD RENAL CRÓNICA
+
+descrip:
+RX  PORTATIL  TORAX

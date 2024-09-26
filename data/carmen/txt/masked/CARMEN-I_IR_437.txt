@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], ADK pulmonar, infecció covid desde fa 3 setmanes, inicialment en milloria que presenta en la ultima setmana deterioramentr espiratori, amb mes requeriment de O2, parametres de infecció, inflamació negatius. Comentat amb INF, sugereixen descartar TEP.
+Gracies!
+INSUFICIENCIA RESPIRATORIA HIPOXEMIA
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Elevación diafragma derecho. No se observa derrame pleural ni pericárdico.
+Múltiples nódulos pleuro-pulmonares derechos que han disminuido de tamaño respecto a PET previa.
+Extensa afcetación en vidrio deslustrado y empedrado de predominio forma en LSD , lobar en LSI y segmento apical del LII, con menor afectación en LLII. Se observa mejoría radiológica respecto a Rx previa. dada l aafectación lobar se tendría que valorar posibilidad de coinfección bacteriana.
+Imágeenes de TEP subsegmnetario en LSD, LSI y segmnetario y subsegmnetario múltiples en LII.
+Sin signos de sobrecarga derecha.
+
+conclusiones:
+TEP bilateral.
+Mejoría de las opacidsdes pulmonares respecto a RX previa.
+Ligera disminución de tamaño de los nódulos pleuropulmonares D.
+
+descrip:
+ANGIO TC PULMONAR

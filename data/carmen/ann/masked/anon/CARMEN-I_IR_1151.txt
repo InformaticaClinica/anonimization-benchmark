@@ -1,0 +1,22 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID19
+
+resultados:
+HALLAZGOS:
+Opacidades: SI
+Distribución: Periféria
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho:  inferior
+- Pulmón izquierdo:  inferior
+EVOLUCION
+Aumento de infiltrados pulmonares en ambos campos inferiores.
+
+conclusiones:
+Afectación pulmonar por COVID que muestra progresión respecto a Rx previa
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,8 @@
+Antecedentes personales:
+Hombre de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**]. No AMC ni hábitos tóxicos. Vive en [**PAIS**], vino a [**TERRITORIO**] de vacaciones hace [**FECHAS**] con su [**FAMILIARES_SUJETO_ASISTENCIA**] y no ha podido volver por la situación actual de pandemia por Sars-CoV-2.
+ANTECEDENTES PATOLÓGICOS:
+- Litiasis biliar de repeticón. Tenía Qx programada para [**FECHAS**] en [**PAIS**] pero no se ha podido realizar.
+- ITUs de repetición. Última en [**FECHAS**].
+- Infección por Sars-Cov-2 diagnosticada el [**FECHAS**] mediante frotis nasofaríngeo positivo realizado en [**CENTRO_SALUD**] por contacto estrecho con paciente positivo. Asintomático, no requirió ingreso hospitalario.
+IQx: ligadura de vena femoral izquierda por episodio trombótico
+Niega toma de medicación habitual.

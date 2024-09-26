@@ -1,0 +1,26 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente trasplantado hepatico en [**FECHAS**], aspergilosis diseminadas con lesiones cerebrales en buena evolcuion.
+Hoy presenta subitamente episodio de desaturación y disminucion del nivel del conciencia. Se solicta TAC craneal, gracias
+INFECCIÓN DISEMINADA POR ASPERGILLUS FUMIGATUS
+
+protocolo:
+TC craneal sin y con contraste endovenoso
+
+resultados:
+Se compara estudio con RM previa de hace 22 horas:
+Sin evidencia de patología aguda intracraneal.
+Aparente estabilidad de la lesión parietal posterior izquierda, basalmente hiperdensa, respecto al estudio previo (comparativa limitada). Resto de lesiones no objetivables por TC.
+Sistema ventricular de morfología y tamaño normal, sin cambios.
+Línea media centrada.
+Cisternas basales libres.
+
+conclusiones:
+Sin evidencia de patología aguda intracraneal.
+Sin cambios respecto al estudio por RM de ayer.
+
+descrip:
+TC CEREBRAL

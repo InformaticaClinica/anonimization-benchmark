@@ -1,0 +1,32 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Post-crítico por COVID-19 con múltiples complicaciones, incluyendo neumonitis persistente. Interesa TCAR de control y comparar.
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+Se compara con el estudio previo la TC del 27/08/2012.
+Catéter venoso humeral derecho con extremo distal en unión atriocava.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Ganglios mediastinicos e hiliares derechos, probablemente reactivos, sin cambios significativos.
+Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad (30 mm).
+Cambios secundarios a esofaguectomía con estómago túbulizado de localización torácica.
+Calcificaciones ateromatosas en vasos coronarios y valvulares aórticas y mitrales. No se observa derrame pericardico.
+Mejoría radiológica de la afectación parenquimatosa pulmonar presente en estudio previo con disminución de la densidad y extensión de las opacidades pulmonares. Ahora persisten opacidades reticulares y tenues en vidrio deslustrado, de distribución periférica y peribroncovascular, bilaterales, con mayor afectación de LSD, LID, língula y LII. Se asocian a ectasia bronquial, bandas subpleurales y pérdida de volumen de LLII.
+Hallazgos pulmonares residuales de los cambios organizativos tras neumonia bilateral por COVID-19. A valorar evolutivamente.
+Signos de enfisema pulmonares paraseptal y centrolobulillar.
+Engrosamientos difusos de paredes bronquiales.
+Pequeña lesión nodular en seg apical del LSD de 5-6 mm, no visible en TCs anteriores al proceso infeccioso; tributaria de control.
+Probable ganglio intrapulmonar en LID, sin cambios respecto TCs previos.
+Resolución del derrame pleural bilateral.
+
+conclusiones:
+Mejoría radiológica con persistencia de marcados cambios parenquimatosos pulmonares residuales de los cambios organizativos tras neumonia bilateral por COVID-19. A valorar evolutivamente.
+Pequeña lesión nodular en seg apical del LSD (5-6 mm), no visible en TCs anteriores al proceso infeccioso; tributaria de control precoz en 1-2 meses.
+Probable ganglio intrapulmonar en LID, sin cambios respecto TCs previos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

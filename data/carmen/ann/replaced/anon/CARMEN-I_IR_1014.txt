@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID 19 +
+
+conclusiones:
+Fracturas costales antiguas derechas.
+Ateromatosis y elongación aórtica.
+Probables atelectasias bibasales.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,15 @@
+
+   
+1. INFECCIÓN POR COVID-19.
+2. AFECTACIÓN CUTÁNEA Y PLEURAL LEVE.
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin antecedentes de interés, con frotis para COVID-19 positivo, acudió a Urgencias por lesiones cutáneas en cara, tronco y extremidades que no han respondido a antihistamínicos ni cortisona oral.
+Además se ha asociado sensación de mareo, sin otro síntoma acompañante.
+A su llegada a Urgencias, se encontraba afebril y hemodinámicamente estable. A la exploración física destacaban lesiones urticariformes, eritemato-habonosas diseminadas por tronco y extremidades.
+Analítica con PCR 1,3 mg/dL, Dímero D 2000 ng/mL. No linfopenia.
+Radiografía de tórax con pinzamiento muy discreto de seno costofrénico izquierdo. Valorada por DER, se le realizan biopsia y pautan anthisitamínicos.
+Se orienta como infección por coronavirus con afectación cutánea. Se pauta medicación según protocolo (hidroxicloroquina + azitromicina + enoxaparina) y se decide ingreso en régimen HOSPITALIZACIÓN A DOMICILIO.
+En casa se mantuvo afebril y hemodinámicamente estable, sin embargo las lesiones cutáneas persistían y se volvieron más pruriginosas. Se decide retirar antihistamínicos y pautar cortisona VO en pauta descendente y crema tópica con excelente respuesta.
+Resultado de biopsia cutánea compatible con urticaria.
+Asímismo realizó tratamiento profiláctico con HBPM. Analítica de control con normalización de PCR y dímero D. A la exploración se constata resmisión completa de la afectación cutánea.
+Dada la estabilidad clínica se decide alta. Control por MAP
+   

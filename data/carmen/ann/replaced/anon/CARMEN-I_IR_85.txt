@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Ingreso por neumonía bilateral por COVD-19. PCR 16, Sat. O2 95% basal.
+Sospecha de NOC vs intersticial para valorar tratamiento con cortis.
+Gracias.
+PROBABLE NEUMONIA BILATERAL POR COVID-19
+
+protocolo:
+TC de tórax urgente sin contraste ev.
+
+resultados:
+Focos consolidativos bilaterales y con disposición periférica subpleural con predominio en los campos inferiores. Se acompañan de dilataciones bronquiales en su interior, y alguna dudosa imagen en halo reverso. Los hallazgos son compatibles con una infección pulmonar por COVID-19 con probable neumonía organizativa asociada.
+No se observa derrame pleural ni pericárdico. Tampoco se evidencian ganglios axilares ni mediastínicos de tamaño valorable.
+
+conclusiones:
+Infección pulmonar por COVID-19 con probable neumonía organizativa asociada.
+
+descrip:
+TC TORAX

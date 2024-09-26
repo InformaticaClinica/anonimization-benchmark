@@ -1,0 +1,32 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+ADK operado. Fístula broncopleural con plastia omental. Ingresa por COVID-19 y se observa masa a nivel del muñón, a descartar recaida tumoral. Comentado en comité tumores torácicos, se solicita PET/TC.
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 (FDG). Se practica tomografía de emisión y transmisión de cuerpo entero, 60 min después de la inyección endovenosa de 6,4 mCi de FDG. Glucemia en el momento de la inyección: 86 mg/dl. Se ha realizado la TC torácica en inspiración (diagnóstica).
+
+resultados:
+Se compara con TC previas (última del 22/03/2014).
+Cambios postquirúrgicos hemitórax izquierdo en relación a lobectomía inferior y secundarios a reparación de fístula broncopleural del bronquio lobar inferior izquierdo con resección de arcos costales y toracoplastia omental.
+En la actualidad el bronquio principal izquierdo es permeable si bien algunas de sus ramas persisten colapsadas, asociado a reexpansión parcial del pulmón izquierdo. Leve captación de FDG hiliar/peribronquial izquierda (SUVmax 2,9) que probablemente se corresponde con el componente de partes blandas en lecho quirúrgico descrito en la TC, indeterminado por PET (su leve hipermetabolismo podría explicarse por cambios inflamatorios). Moderada captación de FDG adyacente a la aorta torácica distal (SUVmax 4,1), que en la TC corresponde con un aumento de densidad de partes blandas, indeterminado (inflamatorio?).
+Persiste un aumento de densidad de la grasa del espacio extrapleural izquierdo hasta la pared torácica de la región dorsal homolateral, por debajo de la VAC, que presenta hipermetabolismo periférico (SUVmax 4,9), indeterminado, probablemente en relación a cambios inflamatorios pero que podria presentar también componente tumoral.
+No se observa derrame pleural ni pericárdico. Engrosamiento pleural anteroinferior izquierdo que ha aumentado de tamaño (16x6 mm; 6x4 mm en la TC del 14/01/2014, no se puede comparar con la TC previa del 22/03/2014 por el colapso pulmonar), intensamente hipermetabólico (SUVmax 6,1), que sería sugestivo de metástasis pleural.
+Afectación parenquimatosa en forma de opacidades en vidrio deslustrado hipermetabólicas multilobares derechas, en relación a neumonía por COVID-19, más evidentes que en la TC previa. Enfisema centrolobulillar derecho multilobar. Hiperinsuflación compensatoria de pulmón derecho.
+Estabilidad de los ganglios intrapulmonares derechos conocidos.
+Atelectasias subsegmentarias en LID, sin cambios.
+Estabilidad de los ganglios axilares bilaterales subcentimétricos, uno de los cuales en lado izquierdo presenta leve hipermetabolismo (SUVmax 1,9), inespecífico.
+No se observan otras captaciones significativas ni otros hallazgos morfológicos relevantes, considerando las limitaciones del estudio TC abdominal (no diagnóstico, de baja dosis y sin contraste yodado endovenoso).
+
+conclusiones:
+Estudio PET/TC que muestra:
+- Bronquio principal izquierdo permeable con reexpansión parcial del pulmón izquierdo.
+- Leve captación de FDG hiliar/peribronquial izquierda que probablemente se corresponde con el componente de partes blandas en lecho quirúrgico descrito en la TC, indeterminado por PET (cambios inflamatorios?).
+- Persiste un aumento de densidad de la grasa extrapleural/pared torácica izquierda, por debajo de la VAC, hipermetabólico, indeterminado, probablemente en relación a cambios inflamatorios pero que podria presentar también componente tumoral.
+- Engrosamiento pleural izquierdo que ha aumentado de tamaño, intensamente hipermetabólico, que sería sugestivo de metástasis pleural.
+- Afectación parenquimatosa en relación a neumonía por COVID-19, más evidente que en la TC previa.
+
+descrip:
+PET TC COS SENCER FDG

@@ -1,0 +1,33 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con antecedente de esclerosis sistémica sin esclerodermia e HTP, tto anticoagulante. Ingresada por infección con neumonía por COVID-19, esta mañana presneta síncope y desaturación. Se ruega descartar TEP. Fx renal estable. Gracias!
+COVID-19
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+Se compara con TC previo de [**FECHAS**].
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP. Tronco de la arteria pulmonar de calibre conservado. Dilatación de las ramas pulmonares principales, la derecha de 25 mm y la izquierda de 26 mm, sin cambios.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Calcificaciones coronarias.
+Espacios pleurales libres. Resolución del derrame pleural derecho.
+Discretas bronquiectasias cilíndricas difusas.
+Patrón de atenuación en mosaico difuso con presencia de áreas de atrapamiento aéreo y múltiples opacidades en vidrio deslustrado bilaterales sin predominio craneocaudal de distribución tanto peribronconvascular como periférica. Se identifica algún pequeño foco con mayor tendencia a la consolidación en el segmento posterior del LSD.
+Comparativamente se observa que en los TC previos presentaba una afectación difusa en forma de patrón de atenuación en mosaico sugestivo de atrapamiento aéreo. Por lo que los hallazgos descritos en el estudio actual sugieren la probable coexistencia de la infección vírica con exacerbación de su proceso de base.
+Se observa mejoría radiológica desde la RX de tórax del [**FECHAS**].
+Nódulo pulmonar subpleural de 8 mm en el segmento basal lateral del LID, sin cambios, sugestivo de ganglio intrapulmonar.
+Hepatomegalia, sin cambios.
+Pequeña hernia de hiato.
+Colelitiasis.
+
+conclusiones:
+No se observa signos de TEP.
+Patrón de atenuación en mosaico difuso con presencia de áreas de atrapamiento aéreo y múltiples opacidades en vidrio deslustrado bilaterales de las características descritas. Comparativamente se observa que en los TC previos presentaba una afectación difusa en forma de patrón de atenuación en mosaico sugestivo de atrapamiento aéreo. Por lo que los hallazgos descritos en el estudio actual sugieren la probable coexistencia de la infección vírica con exacerbación de su proceso de base.
+Se observa mejoría radiológica desde la RX de tórax del [**FECHAS**].
+
+descrip:
+ANGIO TC PULMONAR

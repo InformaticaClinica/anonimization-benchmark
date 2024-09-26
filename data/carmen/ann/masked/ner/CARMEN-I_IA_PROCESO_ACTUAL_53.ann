@@ -1,0 +1,87 @@
+T15	FARMACO 1020 1031	ceftriaxona
+T16	FARMACO 1034 1046	teicoplanina
+T17	FARMACO 1074 1093	Lopinavir/Ritonavir
+T18	FARMACO 1095 1106	Enoxaparina
+T19	FARMACO 1126 1137	Tocilizumab
+T20	FARMACO 1160 1177	Metilprednisolona
+T21	FARMACO 1524 1533	midazolam
+T22	FARMACO 1535 1544	fentanilo
+T23	FARMACO 1546 1560	succinilcolina
+T24	FARMACO 1563 1572	rocuronio
+T25	FARMACO 1588 1597	midazolam
+T26	FARMACO 1612 1625	noradrenalina
+T27	FARMACO 1952 1960	propofol
+T28	FARMACO 1963 1976	remifentanilo
+T29	FARMACO 2001 2014	noradrenalina
+T30	FARMACO 2399 2412	noradrenalina
+T31	FARMACO 2629 2640	ceftriaxona
+T32	FARMACO 2643 2655	teicoplanina
+T33	FARMACO 2694 2711	Hidroxicloroquina
+T34	FARMACO 2713 2725	Azitromicina
+T35	FARMACO 2728 2747	Lopinavir/Ritonavir
+T36	PROCEDIMIENTO 1001 1015	antibioterapia
+T37	PROCEDIMIENTO 1048 1069	tratamiento antiviral
+T38	PROCEDIMIENTO 1575 1610	Sedación con midazolam en perfusión
+T39	PROCEDIMIENTO 1934 1947	sedoanalgesia
+T40	PROCEDIMIENTO 2610 2624	antibioterapia
+T41	PROCEDIMIENTO 2668 2689	tratamiento antiviral
+T42	PROCEDIMIENTO 1978 2014	Soporte vasoactivo con noradrenalina
+T43	SINTOMA 153 164	taquipneica
+T44	SINTOMA 282 288	fiebre
+T45	SINTOMA 291 294	tos
+T46	SINTOMA 525 534	taquipnea
+T47	SINTOMA 579 598	crepitantes en base
+T48	SINTOMA 682 690	oliguria
+T49	SINTOMA 693 700	afebril
+T50	SINTOMA 739 785	infiltrados alveolo-intersticiales bilaterales
+T51	SINTOMA 827 865	elevación de marcadores de inflamación
+T52	SINTOMA 1260 1287	PCR positiva para SARS-COV2
+T53	SINTOMA 2093 2119	signos de isquemia difusos
+T54	SINTOMA 2198 2247	disfunción sistólica leve de ventrículo izquierdo
+T55	SINTOMA 2257 2280	gasto cardíaco correcto
+T56	SINTOMA 2444 2456	leucocitosis
+T57	SINTOMA 2470 2480	linfopenia
+T58	SINTOMA 2549 2579	alteración de la función renal
+T59	SINTOMA 2749 2797	Antigenurias de neumococo y Legionella negativas
+T60	SINTOMA 3405 3413	eupneica
+T61	SINTOMA 3415 3422	afebril
+T62	SINTOMA 3424 3434	normotensa
+T64	ENFERMEDAD 393 398	COVID
+T65	ENFERMEDAD 904 942	insuficiencia respiratoria aguda grave
+T66	ENFERMEDAD 958 989	neumonía bilateral por COVID-19
+T68	PROCEDIMIENTO 228 258	mascarilla Monagan (FiO2 100%)
+T69	PROCEDIMIENTO 702 722	Radiografía de tórax
+T70	PROCEDIMIENTO 793 812	analítica sanguínea
+T71	PROCEDIMIENTO 1311 1343	ventilación mecánica no invasiva
+T72	PROCEDIMIENTO 1345 1349	VMNI
+T73	PROCEDIMIENTO 1355 1374	gasometría arterial
+T74	PROCEDIMIENTO 1473 1496	intubación oro-traqueal
+T75	PROCEDIMIENTO 1498 1501	IOT
+T76	PROCEDIMIENTO 1807 1810	IOT
+T77	PROCEDIMIENTO 1813 1816	VMI
+T78	PROCEDIMIENTO 2047 2065	electrocardiograma
+T79	PROCEDIMIENTO 2179 2193	Ecocardiograma
+T80	PROCEDIMIENTO 2334 2354	electrocardiográfica
+T81	PROCEDIMIENTO 2899 2906	weaning
+T82	PROCEDIMIENTO 2923 2931	extubada
+T83	PROCEDIMIENTO 2970 2980	extubación
+T84	PROCEDIMIENTO 3079 3102	lentillas de alto flujo
+T85	PROCEDIMIENTO 3137 3154	lentillas nasales
+T86	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T87	HUMANO 1794 1802	paciente
+T88	SINTOMA 141 151	obnubilada
+T89	HUMANO 344 378	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T90	SINTOMA 379 388	fallecido
+T91	PROCEDIMIENTO 570 577	Monagan
+T92	PROCEDIMIENTO 1190 1209	Frotis nasofaríngeo
+T93	SPECIES 1278 1287	SARS-COV2
+T94	PROCEDIMIENTO 1260 1287	PCR positiva para SARS-COV2
+T95	SINTOMA 2121 2176	ondas T invertidas en cara anterior, lateral e inferior
+T96	PROCEDIMIENTO 2749 2787	Antigenurias de neumococo y Legionella
+T97	SPECIES 2765 2774	neumococo
+T98	SPECIES 2777 2787	Legionella
+T99	SINTOMA 3216 3243	buena mecánica respiratoria
+T100	PROCEDIMIENTO 2856 2867	radiológica
+T1	SINTOMA 2312 2377	Mejoría hemodinámica, electrocardiográfica y analítica progresiva
+T2	PROCEDIMIENTO 2320 2332	hemodinámica
+T3	PROCEDIMIENTO 2357 2366	analítica

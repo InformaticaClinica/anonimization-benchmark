@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+IRA SOBRE ERC PROBABLE NEFROTOXICIDAD CONTRASTE
+
+protocolo:
+Estudio ANGIO-TC torácico tras administración de contraste e.v. con adquisición en fase arterial. Exploración realizada de forma urgente durante horario de guardia.
+
+resultados:
+Se compara con TC previo del [**FECHAS**].
+Defectos de repleción compatibles con TEP que afectan a arterias pulmonares lobares superior izquierda, inferior izquierda y superior derecha, así como algunas de sus ramas segmentarias. Tronco de la arteria pulmonar permeable de calibre levemente aumentado (32 mm).
+Múltiples adenopatías mediastínicas: prevasculares derechas (de 30 y 34 mm, previo 27 y 31 mm), paratraqueal derecha de 20 mm (previo 16 mm). No se observan adenopatías axilares valorables.
+Moderado derrame pleural derecho, menor que en previo, que condiciona colapso parcial del LID y LM. Sin derrame pleural izquierdo ni pericárdico. No se observan signos de afectación pulmonar significativa por COVID-19.
+Masa pulmonar de 58 mm (previo 51 mm) subpleural en LM, en relación a carcinoma broncogénico conocido. Gran lesión lítica de 7,7 cm (previo 6,2 cm) con componente de partes blandas en 6º arco costal anterior derecho. Glándulas suprarrenales sin alteraciones.
+
+conclusiones:
+Signos de TEP bilateral agudo. No se observan claros hallazgos sugestivos de afectación pulmonar por COVID-19. Aparente progresión del proceso neoplásico conocido.
+
+descrip:
+ANGIO TC PULMONAR

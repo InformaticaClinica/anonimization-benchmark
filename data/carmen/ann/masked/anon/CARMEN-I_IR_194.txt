@@ -1,0 +1,42 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**], con antecedentes de infección respiratoria por Neumococo y aislamiento de MAI que no se trató en [**FECHAS**].
+Acude por sd constitucional, dolor en hipocondrio derecho e infiltrado en base pulmonar derecha.
+AL INGRESO SE REALIZA PCR DE SARS-CoV2 QUE RESULTA POSITIVA, SIN CLÍNICA RESPIRATORIA
+Ruego TC T-A para valorar proceso infeccioso cronico/neoploliferativo
+Debilitat
+
+protocolo:
+Estudio TCMD toracoabdominal tras la administración de contraste ev.
+
+resultados:
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable. Ganglios mediastínicos e hiliares bilaterales, de carácter reactivo.
+Hipertrofia de arterias bronquiales.
+Lóbulo de la ázigos como variante de la normalidad.
+Cambios de enfisema centrolobulillar y paraseptal de predominio en bases pulmonares. Imagen de bulla subpleural en LM de 43 mm.
+Engrosamientos difusos de paredes bronquiales con presencia de bronquiectasias cilíndricas y algunas varicosas en bases pulmonares asociadas a múltiples imágenes de impactaciones mucosas bronquiales distales. En seg anterobasal del LID se observa algun foco de bronquiolitis por ocupación de pequeña vía aérea.
+Pérdida de volumen del LM con atelectasia subsegmentaria paracardíaca.
+Se observa alguna pequeña opacidad en vidrio deslustrado periférica asociada alguna banda subpleural, en ambos LLII y algun foco en región basal de ambos LLSS, que podría estar en relación con cambios postneumonia bilateral por COVID-19.
+Atelectasia subsegmentaria en língula.
+Se asocia un discreto patrón de atenuación en mosaico que sugiere atrapamiento aéreo.
+Ligera elevación del hemidiafragma derecho.
+No se observa derrame pleural ni pericárdico.
+Hígado de morfología y tamaño normales. Sin lesiones focales hepáticas.
+Eje esplenoportal permeable.
+Vesícula biliar de tamaño normal. Via biliar no dilatada.
+Bazo, gl suprarrenales y páncreas de tamaño, morfología y densidad normales.
+Riñones de tamaño y morfología conservados, con nefrograma bilateral y simétrico. No dilatación de la vía excretora.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño valorable.
+Mínima lámina de líquido en pelvis.
+
+conclusiones:
+Signos de enfisema pulmonar.
+Cambios inflamatorios parietales bronquiales con presencia de bronquiectasias y múltiples impactaciones mucosas en bases pulmonares, con algún foco de bronquiolitis en LID.
+Se asocian discretos signos de atrapamiento aéreo.
+Se observa alguna pequeña opacidad en vidrio deslustrado periférica asociada alguna banda subpleural, principalmente en LLII, que podría estar en relación con cambios postneumonia bilateral por COVID-19.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

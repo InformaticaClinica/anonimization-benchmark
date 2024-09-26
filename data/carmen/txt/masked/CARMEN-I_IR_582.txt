@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID 19
+
+protocolo:
+Rx portátil de tórax.
+
+resultados:
+Muy ténue aumento de la densidad de campos medio e inferior derechos, de predominio periférico, que podría estar relacionado con afectación pulmonar por COVID en el contexto epidemiológico actual.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

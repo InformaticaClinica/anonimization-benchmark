@@ -1,0 +1,3 @@
+
+Paciente ingresado en [**INSTITUCION**] por infección respiratoria por COVID- 19, iniciandose la clínica el día [**FECHAS**]. Desde el día [**FECHAS**] (fecha de consulta a urgencias) hasta el [**FECHAS**] ingresado en el hospital y posteriormente dado de alta al [**INSTITUCION**] hasta el día [**FECHAS**] momento en el que se traslada nuevamente a nuestro centro por presentar pico febril desde el día [**FECHAS**] con malestar general y elevación de parámetros inflamatorios en la analítica.
+ 

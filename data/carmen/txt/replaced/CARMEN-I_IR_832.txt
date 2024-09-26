@@ -1,0 +1,13 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Hematoma ip con tiempo de hIC durante la sedación que responde mal a tto intensivo. SS RMn pronóstico.
+CODI ICTUS
+
+conclusiones:
+Estudio ya informado
+
+descrip:
+RM CEREBRAL

@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+alcalosis respiratoria hipoxia
+
+conclusiones:
+Opacidad periferica en pulmon izquierdo y probable en LID sugestivo de infeccion COVID-19.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Control evolutiu en pacient intubat per pneumònia bilateral que presenta hematoma estpontani frotnoparietal dret i dle que no es pot fer control clínic ni porta sensor de PIC.
+Interessa fer-lo el matí del H Virgen del Carmen. Gràcies.
+INSUFICIENCIA RESPIRATORIA CON ACIDOSIS MIXTA
+
+protocolo:
+TC CEREBRAL BASAL
+
+resultados:
+Se compara con TC del día 28/09/2015.
+Discreto aumento de tamaño del hematoma intraparenquimatoso de mayor tamaño siendo en la actualidad de 23 x 29 x 22mm (AP x LL x CC) vol:7.3cc. Estabilidad del edema perilesional y del hematoma anterior de menor tamaño. Ocasiona efecto masa atenuando los surcos adyacentes.
+Sistema ventricular simétrico y no dilatado.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+
+conclusiones:
+Discreto aumento de tamaño del hematoma mayor.
+
+descrip:
+TC CEREBRAL

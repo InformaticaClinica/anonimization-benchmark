@@ -1,0 +1,14 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con neumonía bilateral por COVID, IOT desde el [**FECHAS**].
+Solicitamos Angio-TC por dificultosa evolución respiratoria y para filiar diagnostico.
+Infecció per coronavirus no especificada
+
+conclusiones:
+Ver informe en la otra prestación.
+
+descrip:
+ANGIO TC PULMONAR

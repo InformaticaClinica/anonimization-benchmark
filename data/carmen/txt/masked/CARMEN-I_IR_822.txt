@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza RX de tórax portátil AP. Se compara con RX previa del [**FECHAS**].
+
+resultados:
+Comparativamente, se aprecia progresión de las opacidades de patrón alveolo-intersticial bilaterales localizadas en campos medio-inferior, de predominio periférico. Estos hallazgos sugieren probable COVID siendo más patentes en la actualidad de forma bilateral con tendencia a confluir y pareciendo asociar componente consolidativo, a correlacionar con exploración física.
+Resto sin cambios remarcables, a pesar de diferecias técnicas.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

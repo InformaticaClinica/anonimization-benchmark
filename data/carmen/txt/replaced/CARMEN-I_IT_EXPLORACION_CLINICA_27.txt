@@ -1,0 +1,13 @@
+* EXPLORACIÓN A SU LLEGADA A AVI
+-CARDIOVASC: Soporte vasoactivo con NA. Tonos cardiacos rítmicos, regulares, no se auscultan soplos ni roces. No edemas, ingurgitación yugular ni regflujo hepatoyugular. Sin signos de TVP.
+-RESP: IOT en VC. MVC bilateral con crepitantes bilaterales, sin broncoespasmo.
+-NEUROLÓGICA: RASS -5, PICNR.
+-ABDOMINAL: abdomen globuloso con estrías vinosas, aunque blando y depresible, no se palpan masas ni megalias.
+*EXPLORACIÓN FISICA AL ALTA DE LA AVI:
+Paciente con buen estado general, estable hemodinámicamente y afebril.
+Eupneico en resposo sin trabajo respiratorio. Normocoloreado y normohidratado.
+*Exploración cardíaca: Tonos cardíacos rítmicos, sin soplos audibles. No edemas en extremidades inferiores ni signos de TVP. No ingugitación yugular.
+*Exploración pulmonar: MVC con algún roncus disperso y crepitantes finos bibasales.
+*Exploración abdominal: Abdomen globuloso y depresible, sin dolor a la palpación superficial ni profunda, no se palpan masas ni megalias, tampoco signos de irritación peritoneal.
+*Exploración neurológica: Consciente y orientado, sin signos de focalidad neurológica ni meningismo.
+INDICADORES DE ESTANCIA EN UCI Indicador de gravedad: APACHE II : 15;Ind icador disfunción orgánica: SOFA: 5;

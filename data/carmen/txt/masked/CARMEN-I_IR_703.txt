@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX de tórax portatil.
+
+conclusiones:
+Placa poco inspirada.
+Aumento de densidad perihiliar y basal izquierdo, con borramiento del diafragma izquierdo.
+Calcificaicón del caydao aórtico.
+
+descrip:
+RX  PORTATIL  TORAX

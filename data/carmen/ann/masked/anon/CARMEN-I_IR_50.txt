@@ -1,0 +1,36 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] COVID19, 4º trasplante renal (actualmente riñón izquierdo funcionante en FII) como complicación de la anticoagulación presenta hematoma en sóleo izquierdo que requiere de embolización ayer y fasciotomía por sindrome compartimental. Durante la embolización lesión accidental de un arteria polar del injerto renal en FII con sangrado asociado y hematoma perrirenal. Embolizada con aparente buen resultado angiográfico. Presenta ahora ausencia total de rendimiento tra nsfusional.
+Agradeceríamos angioTC abdominal para descartar sangrado activo a nivel de injerto renal que justifique la ausencia de rendimiento transfusional, gracias.
+COVID-19
+
+protocolo:
+TC TORACOABDOMINAL Y DE EXTREMIDADES INFERIORES: se obtienen imágenes del abdomen y de ambas extremidades tras la administración de contraste endovenoso.
+
+resultados:
+Se compara con el estudio realizado el [**FECHAS**]:
+ESTUDIO ABDOMINAL:
+Riñón trasplantado en fosa ilíaca izquierda que en el estudio basal presenta captación parenquimatosa, debido a retención de contraste. Vía excretora del injerto no dilatada. Coil metálico en una arteria segmentaria superolateral del injerto que asocia una área de hipodensidad parenquimatosa triangular en probable relación a infarto renal.
+Respecto al TC previo se observa la aparición de un hematoma subcapsular del injerto en FII de 90 x 82 x 50 (ap x tr x cc) que deforma marcadamente el margen superior del injerto. En el espesor del hematoma se visualizan múltiples focos de extravasación de contraste, de pequeño tamaño en fase arterial y que aumentan posteriormente en las fases portal y de equilibrio, compatibles con focos de sangrado activo.
+Destaca también una imagen basalmente densa en el espesor posterior del hematoma que no se modifica en fases posteriores y que podría corresponder a extravasación de contraste durante los procedimientos previos.
+Además en la porción anterior del hematoma se observa una imagen de pocos milímetros de densidad parecida al aire que podría corresponder al spongostan utilizado durante el procedimiento intervencionista.
+La arteria renal del injerto es permeable y la anastomosis se encuentra en el tercio más distal de la arteria ilíaca externa izquierda.
+Visualizamos introductor femoral izquierdo cuyo extremo está más allá de la anastomosis de la arteria renal, aproximadamente en el tercio medio de la arteria ilíaca externa. Vena renal del injerto permeable.
+Riñón trasplantado atrófico y calcificado en la fosa ilíaca derecha.
+Aorta abdominal infrarrenal y sector ilíaco bilateral permeables. Stents en ambas arterias ilíacas comunes. Pseudoaneurisma conocido de proximadamente 9 cm adyacente al margen anterior del stent ilíaco derecho, sin cambios.Presenta signos de llenado del mismo a través del stent. No se observan signos que sugieran extravasación de contraste hacia la cavidad intraabdominal ni de rotura.
+Respecto al estudio previo se aprecia aumento de la cantida de líquido libre intraabdominal en la porción declive pélvica presenta densidad elevada en relación a contenido hemático.
+Hígado, bazo, páncreas y glándulas suprarrenales de características normales. Vesícula biliar distendida de paredes finas y con contraste de exploraciones anteriores. Riñones propios atróficos. Correcta captación de asas de intestino delgado. Marco colónico de características normales con material fecal y contraste en su interior.
+ESTUDIO DE EXTREMIDAD INFERIOR DERECHA:
+Cambios posquirúrgicos recientes en la pantorrilla derecha con aumento de volumen respecto al contralateral.  Se observan múltiples focos de extravasación de contraste en el espesor intramuscular en relación a sangrado activo. Coil metálico de intervención previa.
+En los cortes de tórax inferior, incluidos en el estudio se observa cardiomegalia, derrame pericárdico y derrame pleural bilateral, atelectasias laminares bibasales discretos focos de vidrios deslustrado en relación a afectación por COVID19.
+
+conclusiones:
+Hematoma subcapsular de injerto renal en fosa ilíaca izquierda con focos de sangrado activo en su espesor (probablemente por decorticación secundaria al hematoma).
+Cambios posquirúrgicos en pantorrilla/región gemelar derecha. Múltiples focos de sangrado activo arterial similares a los observados en el estudio anterior.
+Aumento de líquido libre intraabdominal con componente hemático en pelvis.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

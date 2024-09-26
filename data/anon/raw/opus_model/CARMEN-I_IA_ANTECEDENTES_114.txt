@@ -1,0 +1,7 @@
+Varón de [**EDAD_SUJETO_ASISTENCIA**], procedente de [**PAIS**] vive [**FECHAS**] en [**TERRITORIO**], no fuma, bebe alcohol [**OTROS_SUJETO_ASISTENCIA**]. No refiere alergias medicamentosas conocidas. Vive en su domicili con [**FAMILIARES_SUJETO_ASISTENCIA**], trabaja de [**PROFESION**] aunque actualmente se encontraba de baja por [**OTROS_SUJETO_ASISTENCIA**].
+ANTECEDENTES PATOLOGICOS:
+1.HTA en tto con [**OTROS_SUJETO_ASISTENCIA**].
+2.Hiperuricemia [**OTROS_SUJETO_ASISTENCIA**].
+3.[**OTROS_SUJETO_ASISTENCIA**]
+4.[**OTROS_SUJETO_ASISTENCIA**].
+MEDICACION HABITUAL: [**OTROS_SUJETO_ASISTENCIA**]

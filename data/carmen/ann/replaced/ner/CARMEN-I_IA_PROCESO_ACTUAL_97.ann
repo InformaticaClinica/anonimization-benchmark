@@ -1,0 +1,10 @@
+T2	SINTOMA 48 57	febrícula
+T3	SINTOMA 59 66	cefalea
+T4	SINTOMA 69 76	astenia
+T5	SINTOMA 234 272	urticaria generalizada muy pruriginosa
+T6	ENFERMEDAD 234 256	urticaria generalizada
+T7	ENFERMEDAD 96 104	COVID-19
+T8	FARMACO 195 206	paracetamol
+T9	FARMACO 289 297	dacortin
+T10	HUMANO 140 148	paciente
+T12	SINTOMA 96 113	COVID-19 positivo

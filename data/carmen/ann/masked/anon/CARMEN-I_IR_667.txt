@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR Y EXTREMIDADES
+
+clinica:
+Paciente con neumonia por covid, portador de traqueostomia, se solicita estudio por sospecha de TEP y ademas caida de hb y hcto con requirimiento transfusionales. Persistencia de Hb baja. S sospehca sangrado a nivel femoral derecho donde llevaba cateter venoso central.
+covid-19
+
+protocolo:
+Angio-TC pulmonar + TC abdominal y de extremidades inferiores con estudio multifase.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco común de la arteria pulmonar.
+Ateromatosis calcificada de las arterias coronarias (especialmente evidente en la rama descedente anterior). No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Tubo endotraqueal con extremo distal a 4.7 cm de la carina.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado en el lóbulo superior derecho, en el lóbulo medio y muy ténues en el lóbulo inferior derecho, en relación con infección pulmonar por COVID-19, sin signos de neumonía organizativa asociada.
+Hígado, vesícula y vías biliares, páncreas, bazo y glándulas suprarrenales sin alteraciones. Riñones de tamaño normal, con algún quiste cortical simple (el mayor de 8 cm en el riñón izquierdo). Vía excertora no dilatada.Sondaje vesical.
+Apendicolito de 7 mm. Apéndice cecalsin signos de complicación.
+No se observan ganglios retroperitoneales ni ilíacos de tamaño valorable. No se observa líquido libre intraabdominal.
+Hematoma de aproximadamente 10,7 x 8,5 x 20 cm (Laterolateral x Anteroposterior x Craneocaudal), centrado en la musculatura aductora derecha, que muestra hasta tres pequeños focos de extravasación de contraste en la fase venosa que se hacen más evidentes en la fase venosa más tardía, compatibles con focos de sangrado activo.
+Prótesis metálica de cadera izquierda.
+
+conclusiones:
+- No se observa TEP.
+- Infección pulmonar por COVID-19 sin signos de neumonía organizativa.
+- Hematoma en la musculatura aductora derecha, con hasta tres pequeños focos de sangrado activo visibles durante la fase venosa del estudio.
+
+descrip:
+ANGIO TC PULMONAR Y EXTREMIDADES

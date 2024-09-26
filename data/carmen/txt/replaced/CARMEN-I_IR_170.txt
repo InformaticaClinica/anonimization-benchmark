@@ -1,0 +1,10 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+DISNEA . COVID +, T.CARDIADO
+COVID19
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con factores de riesgo cardiovascular. Ingreso prolongado por neumonia bilateral por COVID-19. Pese a mejoría analítica muy importante persiste con necesidades de oxigenoterapia tras 27 días de ingreso. Solicitamos AngioTC para descartar complicación en forma de TEP. Muchas gracias!!
+INSUFICIENCIA RESPRIATORIA
+
+resultados:
+Se compara con TC previo [**FECHAS**].
+No se observan defectos de repleción en tronco de arteria pulmonar, arterias pulmonares principales, lobares ni segmentarias que sugieran TEP agudo. Las arterias segmentarias distales y subsegmentarias no son valorables en el estudio actual. Artefactos en el LSD debido al contraste en la VCS, que dificulta la valoración de las arterias segmentarias en dicho lóbulo.
+Tronco de la arteria pulmonar dilatado (33 mm), sin cambios. Sin signos de sobrecarga cardíaca derecha.
+Dilatación de la aorta torácica ascendente (40 mm) y dilatación de la raíz aórtica, sin cambios. Marcapasos.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Aumento de tamaño de ganglios subcarinales, probablemente reactivos.
+Leve derrame pleural bilateral de predominio izquierdo.
+Opacidades peribroncovasculares en vidrio deslustrado bilaterales de distribución periférica, asociado a dilataciones bronquiales, todo ello de predominio basal, en relación neumonía bilateral por COVID-19 en fase evolutiva. Se observa leve mejoría radiológica respecto a RX de tórax previas desde RX de [**FECHAS**].
+
+conclusiones:
+No se observan signos de TEP central. Valoración subóptima de las arterias segmentarias distales y subsegmentarias en el estudio actual.
+Opacidades peribroncovasculares en vidrio deslustrado bilaterales de distribución periférica, asociado a dilataciones bronquiales, todo ello de predominio basal, en relación neumonía bilateral por COVID-19 en fase evolutiva. Se observa leve mejoría radiológica respecto a RX de tórax previas desde RX de [**FECHAS**].
+Leve derrame pleural bilateral de predominio izquierdo.
+
+descrip:
+ANGIO TC PULMONAR

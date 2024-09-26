@@ -1,0 +1,39 @@
+T7	SPECIES 95 109	virus COVID-19
+T8	SPECIES 145 161	influenzavirus B
+T9	SPECIES 163 179	influenzavirus A
+T10	SPECIES 182 210	Virus respiratorio sincitial
+T11	SPECIES 283 319	cocs gram positius tipus estafilococ
+T12	SPECIES 341 370	Estafilococ coagulasa negatiu
+T13	SPECIES 426 431	HBsAg
+T14	SPECIES 444 450	VIH1-2
+T15	SPECIES 470 474	VIH1
+T16	SPECIES 496 513	Virus Hepatitis C
+T17	SPECIES 563 576	micobacterias
+T18	SPECIES 674 696	Legionella pneumophila
+T19	SPECIES 737 749	S.pneumoniae
+T20	PROCEDIMIENTO 1 16	BIOPSIA CUTÁNEA
+T21	PROCEDIMIENTO 243 254	HEMOCULTIVO
+T22	PROCEDIMIENTO 256 270	Tinció de gram
+T23	PROCEDIMIENTO 321 327	Cultiu
+T24	PROCEDIMIENTO 412 424	Ag Australia
+T25	PROCEDIMIENTO 615 639	Quantiferon cuantitativo
+T26	PROCEDIMIENTO 33 46	MICROBIOLOGIA
+T27	PROCEDIMIENTO 64 109	Frotis nasofaringeo, detección virus COVID-19
+T28	SINTOMA 95 119	virus COVID-19: POSITIVO
+T29	PROCEDIMIENTO 122 210	Detección molecular de influenzavirus B, influenzavirus A y Virus respiratorio sincitial
+T30	SINTOMA 145 224	influenzavirus B, influenzavirus A y Virus respiratorio sincitial: INDETECTABLE
+T31	SINTOMA 266 319	gram: S´observen cocs gram positius tipus estafilococ
+T32	SPECIES 308 319	estafilococ
+T33	SINTOMA 321 370	Cultiu: Positiu per Estafilococ coagulasa negatiu
+T34	SINTOMA 412 441	Ag Australia (HBsAg): Negatiu
+T35	PROCEDIMIENTO 444 463	VIH1-2 - Anticossos
+T36	PROCEDIMIENTO 466 484	p24 VIH1 - Antigen
+T37	SINTOMA 444 493	VIH1-2 - Anticossos + p24 VIH1 - Antigen: Negatiu
+T38	SINTOMA 496 535	Virus Hepatitis C - Anticossos: Negatiu
+T39	PROCEDIMIENTO 579 602	Quantiferon cualitativo
+T40	SINTOMA 579 612	Quantiferon cualitativo: Negativo
+T41	PROCEDIMIENTO 674 714	Legionella pneumophila - antigen (orina)
+T42	SINTOMA 674 724	Legionella pneumophila - antigen (orina): Negativo
+T43	PROCEDIMIENTO 737 767	S.pneumoniae - antigen (orina)
+T44	SINTOMA 737 777	S.pneumoniae - antigen (orina): Negativo
+T1	ENFERMEDAD 101 109	COVID-19

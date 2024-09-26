@@ -1,0 +1,64 @@
+T24	HUMANO 1 9	Paciente
+T25	HUMANO 214 220	marido
+T26	HUMANO 356 358	Dr
+T27	HUMANO 387 395	infancia
+T28	SPECIES 1586 1612	aislamiento microbiológico
+T29	SPECIES 2390 2397	E. coli
+T30	SPECIES 2445 2466	E. coli multisensible
+T31	SPECIES 2468 2489	Klebsiella pneumoniae
+T32	SPECIES 2491 2509	klebsiella oxytoca
+T33	SPECIES 2511 2531	enterobacter cloacae
+T34	SPECIES 2600 2628	aislamientos microbiológicos
+T35	SPECIES 1408 1445	E. coli y K pneumoniae multisensibles
+T36	HUMANO 2182 2185	Dra
+T37	SPECIES 2361 2397	aislamiento en Urocultivo de E. coli
+T38	SPECIES 2431 2531	Aislamientos: E. coli multisensible, Klebsiella pneumoniae, klebsiella oxytoca, enterobacter cloacae
+T39	SINTOMA 55 62	prurito
+T40	SINTOMA 948 1010	masa de partes blandas de 3 x 2 cm en la cadena iliaca interna
+T41	SINTOMA 1314 1326	masa pélvica
+T42	SINTOMA 1790 1842	Disminución del área triangular hipocaptante en bazo
+T43	SINTOMA 2561 2595	fiebre de foco urinario vs tumoral
+T44	ENFERMEDAD 33 53	alergia al METAMIZOL
+T45	ENFERMEDAD 65 76	Ex- fumador
+T46	ENFERMEDAD 479 530	CARCINOMA UROTELIAL PAPILAR DE VEJIGA de alto grado
+T47	ENFERMEDAD 566 601	metastasis hepáticas y ganglionares
+T48	ENFERMEDAD 724 744	ileitis neutropénica
+T49	ENFERMEDAD 1037 1056	recidiva ganglionar
+T50	ENFERMEDAD 1236 1267	lesiones hepáticas metastásicas
+T51	ENFERMEDAD 1546 1559	pielonefritis
+T52	ENFERMEDAD 1745 1771	lesiones focales hepáticas
+T53	ENFERMEDAD 1786 1788	M1
+T54	ENFERMEDAD 1879 1886	infarto
+T55	ENFERMEDAD 2327 2397	SEPSIS POR INFECCIÓN URINARIA con aislamiento en Urocultivo de E. coli
+T56	FARMACO 1459 1470	ceftriaxona
+T57	FARMACO 1571 1580	Meropenem
+T58	FARMACO 2400 2410	Ampicilina
+T59	FARMACO 2413 2427	Ciprofloxacina
+T60	FARMACO 2699 2708	meropenem
+T61	FARMACO 2749 2760	Pregabalina
+T62	FARMACO 2771 2782	Paracetamol
+T63	FARMACO 2790 2804	dexketoprofeno
+T64	ENFERMEDAD 400 420	LIPOMA INTRARAQUÍDEO
+T65	PROCEDIMIENTO 400 454	LIPOMA INTRARAQUÍDEO que requirió resección quirúrgica
+T66	PROCEDIMIENTO 612 648	QT neoadyuvante según esquema ddMVAC
+T67	PROCEDIMIENTO 758 780	antibiótico endovenoso
+T68	PROCEDIMIENTO 820 841	tratamiento biológico
+T69	PROCEDIMIENTO 872 899	CISTOPROSTATECTOMIA RADICAL
+T70	PROCEDIMIENTO 902 909	BRICKER
+T71	PROCEDIMIENTO 1160 1178	QT con Carbo + Gem
+T72	PROCEDIMIENTO 1182 1200	TC toracoabdominal
+T73	PROCEDIMIENTO 1628 1630	TC
+T74	PROCEDIMIENTO 2069 2071	TC
+T75	PROCEDIMIENTO 2154 2167	inmunoterapia
+T76	ENFERMEDAD 2222 2252	MULTIPLES INFECCIONES DE ORINA
+T77	PROCEDIMIENTO 2630 2632	TC
+T78	PROCEDIMIENTO 2680 2694	antibioterapia
+T79	ENFERMEDAD 251 282	HIPERTROFIA BENIGNA DE PRÓSTATA
+T80	ENFERMEDAD 371 380	HEPATITIS
+T81	SINTOMA 531 538	ypT4aN2
+T82	ENFERMEDAD 1375 1430	Infección de tracto urinario por E. coli y K pneumoniae
+T83	SINTOMA 1918 1946	líquido libre intraabdominal
+T84	PROCEDIMIENTO 2376 2386	Urocultivo
+T85	PROCEDIMIENTO 2431 2443	Aislamientos
+T86	ENFERMEDAD 2637 2654	abscesificaciones
+T87	SINTOMA 2659 2670	colecciones

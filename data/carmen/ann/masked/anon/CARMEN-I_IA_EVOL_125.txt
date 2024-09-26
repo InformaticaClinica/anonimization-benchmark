@@ -1,0 +1,30 @@
+*** NOTA ALTA [**INSTITUCION**] ***
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], no AMC, no AP. Situación social al alta: vive con [**FAMILIARES_SUJETO_ASISTENCIA**] y [**FAMILIARES_SUJETO_ASISTENCIA**], no dispone de habitación propia. No puede cumplir aislamiento.
+---
+1. INFECCIÓN POR SARS-CoV-2
+2. ELEVACIÓN DE TRANSAMINASAS secundarias probablemente a 1 otratamiento antivírico
+---
+Fecha inicio síntomas: [**FECHAS**]
+Fecha diagnóstico: [**FECHAS**] PCR positiva
+Fecha de ingreso [**HOSPITAL**]: [**FECHAS**]
+Fecha inicio tratamiento: [**FECHAS**]
+Fecha ingreso [**INSTITUCION**]: [**FECHAS**]
+---
+Tratamiento específico COVID19:
+- Kaletra + HCQ + Azitromicina [**FECHAS**] - STOP [**FECHAS**]
+- Randomizado a recibir Remdesivir [**FECHAS**] - [**FECHAS**]
+---
+Oxigeno durante la estancia en [**HOSPITAL**]: no precisa Oxigeno durante al ingreso en [**INSTITUCION**]: no precisa
+---
+A/S al alta de [**HOSPITAL**] ([**FECHAS**]): PCR 0.81, AST/ALT 119/185, GGT 72, FA 44, LDH 210, procalcitonina 0.03, Ferritina 1291, leucocitos 370, neutrofilos 1600, linfocitos 2200, DD 200.
+Serologias VIH + VHB: negativa
+---
+Rx de control ([**FECHAS**]): Opacidades alveolares en campos medios e inferiores estables respecto a previa.
+---
+ECG: ritmo sinusal a 88 lpm. Eje 10o. QRS estrecho. No infra o supra desnivel del segmento ST. No trastornos de la repolarización. QTc 430mseg.
+---
+Durante el ingreso en [**INSTITUCION**] buen estado general, sin disnea, mareos ni algias. Refiere tos leve que ha ido mejorando con los días.
+Se realiza valoración por rehabilitación a día [**FECHAS**], que proporciona educación con ejercicios a realizar durante aislamiento.
+Episodio de estreñimiento para el que se pauta laxante Macrogol durante 2 días, con mejoría y 2 deposiciones al día. Se retira laxante y prosigue con buen ritmo deposicional.
+Se comenta situación laboral con paciente, por si al reincorporarse al [**PROFESION**] precisa frotis al alta. Indica que desde la empresa le realizarán test rápido al alta.
+Durante ingreso, buena evolución clínica, analítica y radiológica, por lo que después de 3 semanas desde el inicio de síntomas se decide alta a domicilio día [**FECHAS**].

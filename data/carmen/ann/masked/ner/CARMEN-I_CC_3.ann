@@ -1,0 +1,42 @@
+T4	FARMACO 245 255	AMLODIPINO
+T5	FARMACO 275 300	FLUTICASONA + AZELA STINA
+T6	FARMACO 334 344	RUPATADINA
+T7	FARMACO 186 196	IBUPROFENO
+T8	FARMACO 346 353	RUPAFIN
+T9	PROCEDIMIENTO 540 545	aines
+T10	FARMACO 1686 1696	flectormed
+T11	FARMACO 200 213	LEVOCABASTINA
+T12	FARMACO 214 225	BISOPRO LOL
+T13	SINTOMA 18 23	dolor
+T14	SINTOMA 423 433	Dolor codo
+T15	SINTOMA 584 635	irradiación del dolor territorio del nervio cubital
+T16	SINTOMA 1171 1249	Nervio cubital discretamente engrosado (0.09 cm2) en el canal cubital del codo
+T17	SINTOMA 1472 1517	Dolor a la palpación epicondilo y epiotroclea
+T18	ENFERMEDAD 86 99	epicondilitis
+T19	ENFERMEDAD 125 143	Rinitis vasomatora
+T20	ENFERMEDAD 145 148	HTA
+T21	ENFERMEDAD 489 502	epicondilitis
+T22	ENFERMEDAD 971 982	entesopatía
+T23	ENFERMEDAD 1152 1169	derrame articular
+T24	PROCEDIMIENTO 549 563	infiltraciones
+T25	PROCEDIMIENTO 701 716	Ecografia colze
+T26	PROCEDIMIENTO 718 740	ECOGRAFÍA CODO DERECHO
+T27	PROCEDIMIENTO 947 954	Doppler
+T28	PROCEDIMIENTO 1346 1362	estudio dinámico
+T29	PROCEDIMIENTO 1536 1565	percusión de fosa olecraneana
+T30	HUMANO 63 81	medico de cabecera
+T32	PROCEDIMIENTO 149 163	Iqx: amigdalas
+T33	ENFERMEDAD 503 516	epitrocleitis
+T34	PROCEDIMIENTO 534 537	rhb
+T35	PROCEDIMIENTO 672 684	infiltracion
+T36	SINTOMA 751 766	calcificaciones
+T37	SINTOMA 987 1048	tendón flexor conjunto se inserta correctamente en epitróclea
+T38	SINTOMA 1053 1120	inserción del tendón del bíceps y tríceps no presentan alteraciones
+T39	SINTOMA 1327 1391	alteraciones en el estudio dinámico con flexión forzada del codo
+T40	SINTOMA 1393 1451	Nervio mediano y nervio radial de características normales
+T41	SINTOMA 1522 1565	tinnel + a la percusión de fosa olecraneana
+T42	ENFERMEDAD 1588 1618	Epicondilitis lateral y medial
+T43	ENFERMEDAD 1620 1674	Compresión del n. cubital a la altura fosa olecraneana
+T44	PROCEDIMIENTO 1698 1702	TENS
+T45	PROCEDIMIENTO 1763 1767	TENS
+T46	PROCEDIMIENTO 1452 1471	Exploración clínica

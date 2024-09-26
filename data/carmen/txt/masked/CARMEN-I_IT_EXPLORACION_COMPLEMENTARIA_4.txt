@@ -1,0 +1,6 @@
+* MICROBIOLOGÍA *
+- PCR SARS-COV2([**FECHAS**]): positivo
+-> HEMOCULTIVOS ([**FECHAS**]): Negativo
+-> FROTIS RECTAL DE MULTIRESISTENTES Y NASAL DE MRSA ([**FECHAS**]): negativos.
+-> Frotis rectal BGNs multiresistents [**FECHAS**]: Pseudomonas aeruginosa. Frotis nasal (S. aureus) [**FECHAS**]: S'aïlla flora habitual o sapròfita
+-> Detecció PCR Covid-19 FROTIS NASOFARINGI [**FECHAS**]: Positiu

@@ -1,0 +1,29 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con AP de CH Child A por VHC con carcinoma hepatocelular, Enfermedad por depósito de IgG4 (afectacción ocular y glanglionar). Actualmente ingresado por Neumonía bilateral por SARS-CoV- 2 con inicio de los sintomas el [**FECHAS**]. En AS con disminuición de RFA y en Rx control se evidencia progresión de infiltrados. Por tiempo de evolcución con progresión radiografica solicito TAC para descartar NO.
+Gracias
+COVID +
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; última RX del [**FECHAS**] y último TC del [**FECHAS**].
+Ganglios mediastínicos paratraqueales, subcarinales e hiliares biliaterales; estables respecto TC previo. No se visualizan adenopatías en regiones axilares de tamaño valorable. Calcificaciones coronarias.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación parenquimatosa pulmonar bilateral con opacidades difusas en vidrio deslustrado de localización periférica y de predominio en LSI, LM y segmentos apicales de los LLII. Se asocian a discretas bandas perilobulares incipientes en segmento posterobasal en LID. Los hallazgos descritos son sugestivos de proceso neumónico bilateral por COVID, en fase inflamatoria sin claros cambios organizativos.
+Bronquiectasias cilíndricas difusas, con engrosamientos parietales bilaterales asociados. Área de atelectasia cicatricial en segmento posterior del LSD; sin cambios.
+Enfisema centrolobulillar y paraseptal de predominio en lóbulos superiores.
+Nódulo sólido de 5 mm en LII; estable desde [**FECHAS**]. Resto del parénquima pulmonar sin otras alteraciones.
+Discretos cambios degenerativos en columna torácica.
+En hemiabdomen superior incluido, se visualiza hígado de contornos irregulares en relación a hepatopatía crónica, con cambios post-RF en s.VIII y cambios post-quirúrgicos en s.V-IVb con colección residual estable. Estabilidad del implante subhepático izquierdo que contacta con el antro gástrico (24 mm). Esplenomegalia de 16 cm.
+
+conclusiones:
+Neumonía bilateral por COVID-19 de extensión moderada, en fase inflamatoria y sin claros cambios organizativos.
+Bronquiectasias cilíndricas difusas, con engrosamientos parietales bilaterales asociados. Enfisema centrolobulillar y paraseptal de predominio en lóbulos superiores.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,30 @@
+ Antecedentes personales:
+Paciente [**EDAD_SUJETO_ASISTENCIA**] sin deterioro cognitivo y parcialmente dependiente para las ABVD. Vive con su [**OTROS_SUJETO_ASISTENCIA**]. Se moviliza en casa por sus propios medios pero por la calle en silla de ruegas. Necesita ayuda para vestirse pero no para comer. No refiere habitos toxicos ni alergias a ningun medicamento.
+1.[**FAMILIARES_SUJETO_ASISTENCIA**], en tratamiento.
+2. Valvulopatias:
+- Estenosis aòrtica . Sustitución valvular en [**FECHAS**]. Actualmente con enfermedad aortica ( estenosis moderada e insuficiencia aortica severa )
+- Insuficiencia mitral severa .
+- Insuficiencia tricuspidea severa.
+3. Insuficiencia cardiaca con FEVI preservada ( [**EDAD_SUJETO_ASISTENCIA**] % ) ( Ultimo ecocardiograma del [**FECHAS**] )
+4. Hipertensión pulmonar severa secundaria a [**INSTITUCION**]. PAP sistólica estimada [**NUMERO_TELEFONO**] mmHg.
+5. Fibrilacion auricular anticoagulada con [**NUMERO_IDENTIF**]. CHADVASC de [**NUMERO_TELEFONO**].
+HASBLED [**NUMERO_TELEFONO**].
+6. Diverticulosis con ingreso por diverticulitis no complicada, recibió tto antibiótico con [**NUMERO_IDENTIF**].
+7. ERC estadío IV sin seguimento por [**INSTITUCION**]. Probable etiología cardiorenal + [**OTROS_SUJETO_ASISTENCIA**].
+INTERVENCIONES QUIRURGICAS:
+1. [**FAMILIARES_SUJETO_ASISTENCIA**] laparoscópica [**FECHAS**]
+2. Fractura de [**FAMILIARES_SUJETO_ASISTENCIA**], protesis total de [**FAMILIARES_SUJETO_ASISTENCIA**] izquierda [**FECHAS**].
+3. Recambio valvular aórtico por [**OTROS_SUJETO_ASISTENCIA**] montado de [**OTROS_SUJETO_ASISTENCIA**] en [**FECHAS**]
+4. [**FAMILIARES_SUJETO_ASISTENCIA**]
+MEDICACIÓN HABITUAL [**FECHAS**]:
+- [**NUMERO_IDENTIF**] 5 mg/dia
+- [**NUMERO_IDENTIF**] 100 mg/dia
+- [**NUMERO_IDENTIF**] 2.5 mg/12h
+- [**NUMERO_IDENTIF**] 2.5 mg/dia
+- [**NUMERO_IDENTIF**] 2.5 mg/dia
+- [**NUMERO_IDENTIF**] 12.5 mg/dia
+- [**NUMERO_IDENTIF**] mensual
+- [**NUMERO_IDENTIF**] 1 mg/dia
+- [**NUMERO_IDENTIF**] 20 mg/dia
+- [**NUMERO_IDENTIF**] 60 mg/dia
+- [**NUMERO_IDENTIF**] 200 mg/mensual.

@@ -1,0 +1,15 @@
+ Mujer de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias medicamentosas conocidas. Etnia [**PAIS**] (origen [**PAIS**] y [**PAIS**]). En [**CALLE**] desde hace años; barrera idiomática. No hábitos tóxicos conocidos.
+AGO [**FECHAS**] TPAL [**FECHAS**]. Portadora de DIU hormonal.
+* Antecedentes patológicos:
+1. Hipertensión arterial en tratamiento médico.
+2. Diabetes Mellitus tipo 2 en tratamiento con antidiabéticos orales.
+Última HbA1c [**NUMERO_TELEFONO**]% en [**FECHAS**]. Presenta signos de retinopatía diabética desde [**FECHAS**] (hemorragia superonasal derecha y exudados paramaculares izquierdos), pendiente de ser visitada en Oftalmología. Prueba de esfuerzo [**FECHAS**] normal. No se dispone de albuminuria para valorar nefropatía.
+3. Episodio de Parálisis de Bell.
+4. Colecistitis crónica secundaria a colelitiasis, intervenida mediante colecistectomía laparoscópica [**FECHAS**].
+- Ecografía abdominal [**FECHAS**] con hígado normal sin LOEs, sin ectasia de vías biliares ni signos de hipertensión portal, área pancreática sin hallazgos, bazo de tamaño normal y riñones sin alteraciones en morfología de los mismos. Únicamente se observa ecorrefringencia nodular cortical renal izquierda, tercio medio, de unos [**NUMERO_TELEFONO**] mm, sugestivo de angiomiolipoma renal.
+5. Cefalea Tensional estudiada en CAP de zona (sin focalidad neurológica, con buena respuesta a paracetamol), de probable origen muscular (contractura cervical). TC craneal sin alteraciones.
+Radiografía cervical sin fracturas óseas y con correcta alineación.
+6. Diagnosticada de Amaurosis Fugax [**FECHAS**]. Fue remitida a Oftalmología (no disponemos de informes).
+7. Hipermenorrea tratada mediante DIU mirena. En seguimiento por ginecología de zona. Cribaje mama correcto.
+* Medicación habitual:
+[**NUMERO_TELEFONO**]mg/día, [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**] mg/[**NUMERO_TELEFONO**]h, [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h.

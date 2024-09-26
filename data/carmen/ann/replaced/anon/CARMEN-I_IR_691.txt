@@ -1,0 +1,26 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Paciente con oftalmoplejia aguda e hiporreflexia patelar con EMG normal.
+Solicitamos RMN tras consultarlo con NRL para descartar posible lesión a nivel del tronco ausente en RMN pasadas.
+POSIBLE SD MILLER-FISHER O BICKERSTAFF
+
+protocolo:
+RM craneal de 1.5 T mediante secuencias SE T1, T13D, T2, FLAIR, swan y difusión.
+
+resultados:
+No se observan alteraciones de parénquima cerebral, cerebeloso ni tronco del encéfalo.
+No lesiones en secuencia de difusión que sugieran lesiones isquémicas agudas. No se observan lesiones expansivas ni restos de hemoosiderina en secuencias de susceptibilidad.
+Sistema ventricular de tamaño, morfología y situación normal.
+Normal señal de flujo en senos venosos, sifones carotídeos y tronco basilar.
+Cisternas de la base, senos cavernosos y cavums de Meckel libres.
+Unión cráneo-cervical sin anomalías.
+No alteraciones orbitarias ni ocupaciones patológicas intra ni extraconales.
+
+conclusiones:
+Sin hallazgos valorables.
+
+descrip:
+RM CEREBRAL

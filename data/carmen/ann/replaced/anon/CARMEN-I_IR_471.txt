@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+COVID 19
+
+protocolo:
+TC CRANEAL URGENTE sin contraste ev.
+Se compara con TC previa de ayer.
+
+resultados:
+Cambios por realización de craneostomía frontal derecha con catéter de drenaje ventricular sin aparente recorrido intraventricular, con extremo en región capsuloganglionar derecha y pequeño hematoma en su porción distal. No condiciona efecto masa significativo. Leve neumoencéfalo bifrontal de aspecto extraaxial.
+Dilatación global del sistema ventricular, compatible hidrocefalia, sin cambios.
+Persiste la imágen sugestiva de absceso cerebral parieto-occipital izquierda con leve edema perilesional sin condicionar efecto de masa significativo.
+Estructuras de la línea media centradas. Cisternas basales libres.
+Resto del estudio sin cambios significativos.
+
+conclusiones:
+Colocación de DVE frontal derecho sin aparente recorrido intraventricular y con pequeño hematoma en la punta. Leve neumoencéfalo Dilatación global del sistema ventricular, estable.
+Lesión parietooccipital izquierda compatible con absceso sin cambios significativos.
+
+descrip:
+TC CEREBRAL

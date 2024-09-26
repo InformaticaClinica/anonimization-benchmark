@@ -1,0 +1,36 @@
+
+prueba:
+ANGIO TC REGION ESPLACNICA (TC, AMS)
+
+clinica:
+Mujer de 48 años, alérgica a Penicilina, sulfametoxazol/trimetoprim, simvastatina y levofloxacino, antecendes de DM1, Trasplante renopáncreatico 2007 con rechazo en 2008 entrando en hemodiálisis (no diuresis residual), CH por VHC, CHC unifocal, colitis iquemica que requirió iliostomía de descarga (julio/2016).
+Acude a Urgencias el 3/6 por exteriorización de sangre roja por ileostomía en dos ocasiones en 24 horas. Al retirar la bolsa, se observa punto de sangrado en babeo en mucosa ileal expuesta. Es valorada por UCIR quienes realizan coagulación con argenpal y cede el sangrado.
+Durante su estadia en urgencias se evidencia fiebre de 38.2ºC sin tiritonas ni escalofrios, eupneica.
+Se realizó PCR de SARS-CoV2 de cribado el 2/6 en diálisis, que resulta positiva.
+A su llegada a Urgencias, hipotensión arterial (77/43), afebril, SatO2 96%.
+En sala, hipotensión persistente (70/50) a pesar de 1500 cc de SF en las últimas 8 horas, frecuencia cardiaca estable en torno a 80 lpm. Detaca bradipsiquia y cierta somnolencia, no flapping ni focalidad neurológica aparente. No disnea ni trabajo respiratorio. Heces en bolsa de ileostomía de consistencia normal, sin productos patológicos. Dolor abdominal difuso, con defensa a la palpación, halo eritematoso periostoma. Se extraen HCx2 y se realiza analítica urgente en la que destaca anemización con Hb 10.8 (previa 12.6), 46000 plaquetas, Glucosa 210, normalización de iones con Potasio 4, Ca 9, Mg 1.7, aumento de ferritina 1069 y 4000 leucocitos. Amonio, lactato y equilibrio pendientes
+Comentado con vosotros para realizar angio-TC de abdomen urgente para descartar hemorragia digestiva (exteriorización de sangrado).
+Sangrado mucosa ileal
+
+protocolo:
+TC abdominal tras administración de contraste e.v. (basal, arterial y venoso). Estudio comparativo con TC del 18/08/16
+
+resultados:
+Estudio comparativo con TC del 18/08/2016
+Cambios postquirúrgicos en relación a hemicolectomía derecha e ileostomía, trasplante renopancreático, doble anexectomía.
+En región de ileostomía se identifica contenido luminal basalmente hiperdenso. En fase arterial se identifica una realce difuso en esta zona (afectando lso últims 10 cm de ileon proximal al orificio de ilesotomía) que se mantine (pero no progresa) en fases venosas, lo lo que podría corresponder a una hipervasculización de la mucosa de este segmento sin identificar claro sangrado activo en este momento. Dada su localización, podría estudiarse mediante endoscopia o por vislización directa.
+Hígado de contornos irregulares e hipertrofia del caudado, compatible con cambios por hepatopatía en fase de CH. No se observan lesiones focales.
+Colelitiasis. Vía biliar no dilatada.
+Vena porta y eje espleno-mesentérico permeable.
+Bazo y glándulas suprarrenales sin alteraciones.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Ambos riñones nativos, de aspecto atrófico y cortical adelgazada. Vía excretora sin signos de dilatación.
+Injerto renal en FII hipocante y de aspecto no funcionante.
+
+conclusiones:
+Cirrosis hepática.
+Ileostomía con realce difuso de la mucosa y material denso en su interior por posibles restos de sangrado en los últimos centímetros ileales proximales a la ilostomía. NO identificamos claros signos de sangrado activo. Por si loclización se pue deestudiar mediante endoscopia.
+
+descrip:
+ANGIO TC REGION ESPLACNICA (TC, AMS)

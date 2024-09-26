@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+paciente con infeccion por covid. No clara penumoní. Nodulo pulmonar en rx previa realizada de torax en proyección lateral. Paciente exfumadora.
+Agradecería valoración si hay pneumonía COVID y características del nódulo pulmonar.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC TÓRAX: Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con TC previo del [**FECHAS**].
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Calcificación coronaria.
+No se observa derrame pleural ni pericárdico.
+Nódulo pulmonar de 7 mm en segmento lateral del LM, sin cambios.
+Moderado enfisema centroacinar y paraseptal de predominio en LLSS.
+Bronquiectasis cilíndricas bibasales. Ganglio intrapulmonar en segmento posterior del LSD. A nivel del segmento anterior del LSD y segmento lingular superior se observan opacidades en vidrio deslustrado de distribución peribroncovascular que son de nueva aparición y deben valorarse en el contexto clínico del paciente (focos de neumonía organizativa, nuevo proceso infeccioso...).
+Colecistectomía. Persisten colecciones intraabdominales descritas en estudios previos, sin aparentes cambios. Bazo con imagen quística, ya conocida.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

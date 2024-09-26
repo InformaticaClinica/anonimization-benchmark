@@ -1,0 +1,15 @@
+* EVOLUCION EN SALA [**NUMERO_IDENTIF**] A CARGO DE RMT-NEF*
+1.- NEUMONÍA BILATERAL POR SARS-COV2-NEUMONÍA ORGANIZATIVA-GANGLIOS INTRAPULMONARES
+- Día de inicio de síntomas: [**FECHAS**]
+- PCR positiva: [**FECHAS**] (CT 37)
+- Tratamiento: DXM 8mg EV ([**FECHAS**]-), Tocilizumab 800mg IV DU ([**FECHAS**]), enoxaparina 40m sc
+2. -NEUTROPENIA EN PROBABLE RELACIÓN CON TOCILIZUMAB ------------------------------------------------------------------------ Paciente de [**EDAD_SUJETO_ASISTENCIA**], nacida en [**PAIS**], en [**TERRITORIO**] desde hace más de 30 años, sin alergias medicamentosas conocidas ni hábitos tóxicos. [**PROFESION**] hasta hace aprox 10 años, desde entonces no trabaja, con antecedentes de HTA, migrañas, síndrome depresivo. ([**FAMILIARES_SUJETO_ASISTENCIA**] con dx de esquizofrenia), FM, IQ discopatía hace aprox 10 años.
+Consulta a urgencias por cuadro de dos semanas de evolución de inicialmente tos seca, añadiendo posteriormente fiebre de hasta 38o, astenia y disnea progresiva en la última semana. PCR COVID  [**FECHAS**] positiva.
+A su llegada a urgencias hemodinámicamente estable y febricular (37.2), saturación basal 96%. A la exploración física crepitantes en ambas bases pulmonares, tonos cardíacos rítmicos sin soplos.
+Rx de Tx muestra infiltrado intersticial bilateral. Anlt PCR: 9.45, hemograma normal con linf1.4.  D dimero 210. Cr: 0.67. GOT:33. GPT:40.
+GGT:255. FA:124. LDH:302.
+Con diagnóstico de neumonía intersticial bilateral por SARS-Cov-2 se indica ingreso en sala e inicio de tratamiento con dexametasona + enoxaparina + tocilizumab. A su llegada a sala paciente afebtil, 36.8, hemodinámicamente estable, eupneica, sat basal 96%. Exploración física con crepitantes hasta campos medios.
+Se solicita TCAR donde destaca neumonía bilateral por COVID, así como incipiente Neumonía organizativa.
+Analiticamente descenso de RFA, aunque se objetiva neutropenia no presente en anteriores analiticas; por secuencia temporal, se podría atribuir a la administración de Tocilizumab.
+Durante su estancia en sala, precisa de LN a 2L, que se han podido retirar de forma paulatina con buena toleranacia, manteniendose con sat correctas tanto en reposo como tras deambulación.
+Dada la buena evolución, se procede al alta a domicilio. Dado NO y presencia de ganglios intrapulmonares descritos en TAC, se solicita consulta en 3 meses con TAC de control consensuado con pneumología con prednisona en pauta descendente. En cuanto a neutropenia, se notifica a Farmacovigilancia y se solicita analitica y cita en CCEE con Dra. [**NOMBRE_PERSONAL_SANITARIO**] para seguimiento en una semana (control fórmula leucocitaria, hipoK moderada en último control analítico y resultado de serologías víricas y strongyloides pendientes al alta)

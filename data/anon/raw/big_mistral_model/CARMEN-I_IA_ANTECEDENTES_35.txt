@@ -1,0 +1,5 @@
+ Hombre de [**EDAD_SUJETO_ASISTENCIA**] sin alergias a medicamentos conocidas. Exfumador de 1paq/día hasta los [**EDAD_SUJETO_ASISTENCIA**] sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Jubilado, trabajaba de cuidador de personas con discapacidad. Vive en domicilio con su prima y sus sobrinos.
+* Antecedentes patológicos:
+- HIPERPLASIA BENIGNA DE PRÓSTATA en tratamiento con [**TRATAMIENTO_HABITUAL**].
+INTERVENCIONES QUIRÚRGICAS: colecistectomía, artrodesis cervical.
+TRATAMIENTO HABITUAL: [**TRATAMIENTO_HABITUAL**].

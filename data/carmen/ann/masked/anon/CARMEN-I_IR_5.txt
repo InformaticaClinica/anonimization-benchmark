@@ -1,0 +1,25 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sano. Ha bajado de la UCI tras intubación por COVID-19 presentando un cuadro de distensión abdominal y ausencia de deposiciones. En radiografía de abdomen presenta STOP a nivel del ángulo esplénico. Solicito TC abdominal apra descartar obstrucción.
+Muchas gracias!!
+distension abdominal
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en fase portal, tras administrar contraste iv. URGENTE
+
+resultados:
+Asas de intestino delgado y colon de calibre normal, con correcta captación parietal de contraste. No se identifican cambios bruscos de calibre. Discreta cantidad de líquido subhepático, en gotiera parietocólica derecha y FII. No se observan colecciones.
+Material hiperdenso en unión rectosigma y en recto, que no aumenta en las fases sucesivas, lo que desestima sangrado activo, inespecífico.
+Hígado, bazo, páncreas, glándulas suprarrenales, vesícula, vías biliares y riñones sin alteraciones significativas. Múltiples quistes renales simples corticales de predominio izquierdo. Mínima ectasia piélica izquierda, correcta excreción bilateral de contraste. Eje porto- espleno-mesentérico permeable. No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+En los cortes de tórax, se observa derrame leve derrame pleural bilateral de predominio derecho con atelectasias pasivas secundarias; leve derrame pericárdico, cardiomegalia. En el parénquima pulmonar, destacan bandas subpleurales asociadas a consolidaciones y signo de halo reverso, compatible con neumonía organizativa en contexto de infección COVID-19 conocida.
+
+conclusiones:
+TC sin signos de oclusión/suboclusión en el momento actual.
+Asas de intestino delgado y colon de calibre normal, con correcta captación parietal de contraste. Discreta cantidad de líquido subhepático, en gotiera parietocólica derecha y FII. No se observan colecciones.
+En los cortes de tórax, se observa derrame leve derrame pleural bilateral de predominio derecho, leve derrame pericárdico, cardiomegalia. En el parénquima pulmonar, destacan hallazgos compatibles con neumonía organizativa en contexto de infección COVID-19 conocida.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

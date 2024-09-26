@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente [**EDAD_SUJETO_ASISTENCIA**], covid19 día +16 desde inicio sintomatologia. Acude a urgencias por tos seca y disnea de esfuerzo. Analiticamente destaca mínima elevación de PCR y ferritina 790mg/dL. En rx del CUAP infiltrados bilaterales multilobares. Rogamos descartar NO, gracias.
+COVID POSITIU
+
+protocolo:
+TCAR
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Ausencia de derrame pleural.
+Leve-moderado enfisema paraseptal de predominio en LLSS.
+Opacidades bilaterales en vidrio deslustrado de distribución periférica y peribroncovascular en relación a neumonía bilateral por COVID-19 de extensión moderada. En LLII se observan finas bandas parenquimatosas perilobulares de localización posterior sugestivo de cambios organizativos incipientes.
+Litiasis puntiforme no obstructiva en el GCS del riñón izquierdo.
+
+conclusiones:
+Neumonía bilateral por COVID-19 de extensión moderada con cambios organizativos incipientes en LLII de localización posterior.
+Leve-moderado enfisema paraseptal.
+
+descrip:
+TC TORAX

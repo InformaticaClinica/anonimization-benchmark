@@ -1,0 +1,25 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+sospecha de COVID19
+
+protocolo:
+RX tórax protátil bipedestación.
+
+resultados:
+HALLAZGOS:
+Opacidades: Si
+Patrón intersticial: Si
+Distribución: Difusa
+Campos pulmonares:
+- Pulmón derecho: medio / inferior
+Otros hallazgos relevantes:
+Cardiomegalia. Marcapasos.
+
+conclusiones:
+Probable COVID.
+
+descrip:
+RX  PORTATIL  TORAX

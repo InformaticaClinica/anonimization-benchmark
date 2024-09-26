@@ -1,0 +1,33 @@
+T10	SPECIES 98 120	Legionella pneumophila
+T11	SPECIES 471 484	P. Aeruginosa
+T12	SPECIES 554 582	Stenotrophomonas maltophilia
+T13	SPECIES 40 66	flora habitual o sapròfita
+T14	SPECIES 129 141	S.pneumoniae
+T15	SPECIES 172 196	Acinetobacter bereziniae
+T16	SPECIES 198 238	Staphylococcus aureus metilicin sensible
+T17	SPECIES 240 270	P. Aeruginosa multirresistente
+T18	SPECIES 303 327	Acinetobacter bereziniae
+T19	SPECIES 390 403	A. bereziniae
+T20	SPECIES 406 419	P. Aeruginosa
+T21	SPECIES 453 468	Klebsiella BLEA
+T22	SPECIES 507 531	Acinetobacter bereziniae
+T23	PROCEDIMIENTO 3 16	MICROBIOLOGÍA
+T24	PROCEDIMIENTO 20 23	BAS
+T25	PROCEDIMIENTO 70 81	ANTIGENURIA
+T26	PROCEDIMIENTO 152 155	BAS
+T27	PROCEDIMIENTO 274 286	HEMOCULTIVOS
+T28	PROCEDIMIENTO 331 341	UROCULTIVO
+T29	PROCEDIMIENTO 370 373	BAS
+T30	PROCEDIMIENTO 423 436	FROTIS RECTAL
+T31	PROCEDIMIENTO 488 490	HC
+T32	PROCEDIMIENTO 535 538	BAS
+T33	SINTOMA 20 66	BAS ([**FECHAS**]): flora habitual o sapròfita
+T34	SINTOMA 98 128	Legionella pneumophila Negatiu
+T35	SINTOMA 129 149	S.pneumoniae Negatiu
+T36	SINTOMA 152 196	BAS ([**FECHAS**]): Acinetobacter bereziniae
+T37	SINTOMA 274 327	HEMOCULTIVOS ([**FECHAS**]): Acinetobacter bereziniae
+T38	SINTOMA 331 366	UROCULTIVO ([**FECHAS**]): Negativo
+T39	SINTOMA 370 419	BAS ([**FECHAS**]): A. bereziniae y P. Aeruginosa
+T40	SINTOMA 423 484	FROTIS RECTAL ([**FECHAS**]): Klebsiella BLEA y P. Aeruginosa
+T41	SINTOMA 488 531	HC: ([**FECHAS**]) Acinetobacter bereziniae
+T42	SINTOMA 535 582	BAS ([**FECHAS**]) Stenotrophomonas maltophilia

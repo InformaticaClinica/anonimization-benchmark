@@ -1,0 +1,16 @@
+T6	FARMACO 605 614	pipertazo
+T7	FARMACO 617 634	Hidroxicloroquina
+T8	FARMACO 637 644	Kaletra
+T9	SINTOMA 479 485	fiebre
+T10	SINTOMA 498 501	tos
+T11	SINTOMA 506 519	expectoración
+T12	SINTOMA 543 582	frotis de Covid-19 que resulta positivo
+T13	ENFERMEDAD 160 172	valvulopatía
+T15	PROCEDIMIENTO 293 309	cirugía cardíaca
+T16	PROCEDIMIENTO 336 392	valvuloplastia mitral percutánea el 9/10 por vía femoral
+T17	HUMANO 1 9	Paciente
+T18	HUMANO 177 185	paciente
+T19	ENFERMEDAD 72 88	IC descompensada
+T20	PROCEDIMIENTO 131 172	tratamiento quirúrgico de la valvulopatía
+T21	PROCEDIMIENTO 543 561	frotis de Covid-19
+T22	ENFERMEDAD 553 561	Covid-19

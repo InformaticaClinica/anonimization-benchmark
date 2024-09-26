@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL.
+
+resultados:
+Presenta consolidaciones periféricas de predominio derecho acompañadas de atelectasias laminares bilaterales, todo ello coherente con afectación por COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

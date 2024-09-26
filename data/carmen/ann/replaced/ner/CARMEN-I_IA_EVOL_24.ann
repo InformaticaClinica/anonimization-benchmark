@@ -1,0 +1,68 @@
+T18	ENFERMEDAD 134 155	hipertensión arterial
+T19	ENFERMEDAD 157 174	diabetes mellitus
+T20	ENFERMEDAD 177 185	obesidad
+T21	ENFERMEDAD 782 808	insuficiencia respiratoria
+T22	ENFERMEDAD 1876 1898	infecciones importadas
+T23	PROCEDIMIENTO 513 522	Antiviral
+T24	FARMACO 561 572	TOCILIZUMAB
+T25	FARMACO 593 605	DEXAMETASONA
+T26	PROCEDIMIENTO 616 628	ATB empirica
+T27	FARMACO 630 641	Ceftriaxona
+T28	FARMACO 644 656	teicoplanina
+T29	FARMACO 666 677	Ivermectina
+T30	FARMACO 1053 1063	remdesivir
+T31	FARMACO 1150 1162	dexametasona
+T32	FARMACO 1180 1191	tocilizumab
+T33	FARMACO 1247 1258	ceftriaxona
+T34	FARMACO 1261 1273	teicoplanina
+T35	FARMACO 1942 1953	ivermectina
+T36	FARMACO 2152 2159	oxígeno
+T37	FARMACO 2513 2520	oxígeno
+T38	FARMACO 2823 2833	remdesivir
+T39	FARMACO 2871 2883	dexametasona
+T40	HUMANO 66 71	Varón
+T41	HUMANO 907 915	paciente
+T42	HUMANO 1958 1966	paciente
+T44	PROCEDIMIENTO 381 384	TAR
+T45	PROCEDIMIENTO 400 403	PCR
+T46	PROCEDIMIENTO 445 468	Vacuna: 2 dosis Sputnik
+T47	PROCEDIMIENTO 543 559	Antiinflamatorio
+T48	PROCEDIMIENTO 959 972	PCR SARS-CoV2
+T49	PROCEDIMIENTO 1027 1048	tratamiento antiviral
+T50	PROCEDIMIENTO 1082 1095	PCR en sangre
+T51	PROCEDIMIENTO 1219 1242	antibioterapia empirica
+T52	PROCEDIMIENTO 1414 1431	cultivo de esputo
+T53	PROCEDIMIENTO 1483 1520	antigenuria de neumococo y legionella
+T54	PROCEDIMIENTO 1535 1547	hemocultivos
+T55	PROCEDIMIENTO 1564 1575	radiografía
+T56	PROCEDIMIENTO 2181 2194	gafas nasales
+T57	PROCEDIMIENTO 2913 2938	antibiótico empírico oral
+T58	SINTOMA 829 863	infiltrados pulmonares bilaterales
+T59	SINTOMA 963 995	SARS-CoV2 al ingreso es positiva
+T60	SINTOMA 1291 1294	tos
+T61	SINTOMA 1299 1326	expectoración mucopurulenta
+T62	SINTOMA 1337 1349	leucocitosis
+T63	SINTOMA 1364 1375	neutrofilia
+T64	SINTOMA 1587 1615	infiltrados de tipo alveolar
+T65	SPECIES 292 301	SARS-COV2
+T67	SPECIES 513 522	Antiviral
+T68	SPECIES 963 972	SARS-CoV2
+T69	SPECIES 1039 1048	antiviral
+T70	SPECIES 1498 1507	neumococo
+T71	SPECIES 1510 1520	legionella
+T72	ENFERMEDAD 269 301	NEUMONIA BILATERAL POR SARS-COV2
+T73	ENFERMEDAD 307 341	INSUFICIENCIA RESPIRATORIA PARCIAL
+T74	FARMACO 524 534	Remdesivir
+T75	SINTOMA 866 903	elevación de marcadores inflamatorios
+T76	PROCEDIMIENTO 1111 1145	tratamiento dual anti-inflamatorio
+T77	SINTOMA 1483 1532	antigenuria de neumococo y legionella (negativas)
+T78	SINTOMA 1621 1647	procalcitonina es negativa
+T79	PROCEDIMIENTO 1721 1729	cultivos
+T80	PROCEDIMIENTO 1862 1898	serologías de infecciones importadas
+T81	SINTOMA 1862 1910	serologías de infecciones importadas (negativas)
+T82	PROCEDIMIENTO 2556 2573	sit to stand test
+T83	SINTOMA 2744 2767	procalcitonina negativa
+T84	PROCEDIMIENTO 2645 2654	Analítica
+T85	PROCEDIMIENTO 2058 2067	analitica
+T1	SINTOMA 2075 2113	mejora de los marcadores inflamatorios
+T2	SINTOMA 2677 2722	mejora sustancial de parámetros inflamatorios

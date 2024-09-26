@@ -1,0 +1,19 @@
+ Hombre de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias conocidas a medicamentos. No fumador, bebedor moderado ( 1-2 UBE/día). Reside en [**INSTITUCION**] de ancianos.
+*ANTECEDENTES PERSONALES
+1.- DISLIPEMIA sin tratamiento médico
+2.- HIPERTENSIÓN ARTERIAL en tratamiento con inhibidores de la ECA.
+3.- CARDIOPATIA ISQUEMICA Debut [**FECHAS**] IAM anterolateral Killip I. rTPA sin reperfusión por lo que se realiza ACTP de rescate que muestra lesión en DA pm implantándose stent con buen resultado angiográfico sin complicaciones.[**FECHAS**]: necrosis anteroapical, KT lesión severa a nivel de tronco común. PMC a DA, PAC a OM con buena evolución posterior
+4.- INSUFICIENCIA CARDIACA. FEVI 35%.
+5.- FIBRILACIÓN AURICULAR. En tratamiento anticoagulante, sin tratamiento frenador. FC habitual alrededor de 70 lpm.
+6.- DEMENCIA MIXTA. En seguimiento por [**NOMBRE_PERSONAL_SANITARIO**] de [**HOSPITAL**].
+7.- INFARTO RENAL en contexto de enfermedad vascular renal en [**FECHAS**] de [**NUMERO_TELEFONO**], por lo que inició tratamiento con sintrom.
+8.- ENFERMEDAD VASCULAR DE ARTERIA MESENTERICA SUPERIOR
+9.- GAMAPATÍA MONOCLONAL DE SIGNIFICADO INCIERTO.
+10.- HBP- RTU.
+11.- ADK PROSTATA Porto Alegre.
+12.- PRESBIACUSIA
+13.- DIVERTICULOSIS INTESTINAL
+14.- ESTREÑIMIENTO
+15.- CAIDA CASUAL. Fx APLASTAMIENTO L1
+*TRATAMIENTO HABITUAL
+Enalapril [**NUMERO_IDENTIF**] mg c/24h; omeprazol [**NUMERO_IDENTIF**] mg c/24h; quetiapina [**NUMERO_IDENTIF**] mg c/24h + [**NUMERO_IDENTIF**] mg si precisa; tamsulosina [**NUMERO_IDENTIF**] mg c/24h; furosemida [**NUMERO_IDENTIF**] mg c/24h; sintrom según pauta; adiro [**NUMERO_IDENTIF**] mgc/24h; risperidona [**NUMERO_IDENTIF**] mg si precisa.

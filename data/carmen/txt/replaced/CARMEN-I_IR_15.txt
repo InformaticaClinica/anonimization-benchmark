@@ -1,0 +1,24 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de 58 años diagnóstico reciente de Colon metastasico con incio de tratamiento con Folfox, que ingresa por cuadro de astenia, hiporexia e ictericia, con aumento progresivo de la bilirrubina
+Agradecemos eco abdominal
+ADK COLON E-IV
+
+protocolo:
+ECO BASAL (ABDOMEN)
+
+conclusiones:
+Hepatomegalia tumoral con múltiples lesiones metastásicas de gran tamaño (la mayor de aprox 70mm de diámetro) de distribución bilobar y algunas de aspecto necrótico.
+Vesícula biliar de paredes finas, no litiásica.
+Leve dilatación de algunos radicales biliares en lóbulo hepático derecho. Vía biliar extrahepática no dilatada.
+V. Porta permeable de calibre normal, flujo hepatopetal y velocidades normales.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño en el límite superior de la normalidad (13cm).
+Riñones de tamaño y ecoestructura normal, múltiples quistes simples corticales bilaterales de predominio izquierdo. Sin dilatación de la vía excretora.
+No hay líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

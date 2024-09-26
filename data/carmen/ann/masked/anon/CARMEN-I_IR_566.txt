@@ -1,0 +1,27 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+antencedentes de Sust valvular aortica (protesis mecanica) + aorta asc en [**FECHAS**].
+Actualmente intubado por neumonia COVID +
+Ictericia, progresivo ascenso de bilirrubina hasta 7 (conjugada 5.6), transaminasas alterteradas.
+Válvula mecánica posición mitral
+
+protocolo:
+Ecogafía portátil urgente.
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. Vena porta y eje esplenoportal permeables de calibre normal y flujo hepatopetal.
+Vesícula biliar de paredes finas y repleta de litiasis en su interior.
+No presenta líquido libre, colecciones perivesiculares ni otros signos que sugieran una colecistitis aguda en el momento actual. Vía biliar no dilatada.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de pequeño tamaño y con ecoestructura normal, sin dilatación de la vía excretora.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+Colelitiasis sin signos de colecistitis aguda ni dilatación de la vía biliar.
+
+descrip:
+ECOGRAFIA PORTATIL (ABDOMEN)

@@ -1,0 +1,12 @@
+ANTECEDENTES PERSONALES
+Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, fumador de un purito al día desde hace años, enolismo moderado. Vive entre solo y con su [**FAMILIARES_SUJETO_ASISTENCIA**]. Independiente para las actividades básicas de la vida diaria. Actualmente retirado, trabajó como [**PROFESION**].
+ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL de más de 10 años de evolución en tratamiento con 3 antihipertensivos.
+2. DISLIPEMIA en tratamiento farmacológico. 
+3. DIABETES MELLITUS tipo II diagnosticada en [**FECHAS**] en tratamiento con 2 ADOs. Sin complicaciones microvasculares (fondo de ojo normal).
+4. CARDIOPATÍA ISQUÉMICA en forma de IAMEST POSTERIOR en [**FECHAS**], consultó por dolor torácico en relación con el esfuerzo, en ECG descenso del ST en precordiales y ascenso en V5-V6. Se realizó coronariografía con enfermedad de dos vasos, circunfleja y coronaria derecha implantándose STENT farmacoactivo en circunfleja proximal. Lesión de CD se orienta como crónica no tributaria de revascularización. Ecocardiograma al alta FE conservada (50%), VI con acinesia basal y media inferolateral. 
+Insuficiencia diastólica tipo I.
+5. GASTRITIS CRÓNICA ATRÓFICA en segumiento por Digestivo de [**HOSPITAL**], gastroscopia de [**FECHAS**] con biopsia compatible con atrofia gástrica y HP positivo por el que realizó tratamiento.
+6. HIPERURICEMIA
+7. HERNIA UMBILICAL incarcerada por la que se realizó herniorráfia en [**FECHAS**].
+TRATAMIENTO HABITUAL: Omeprazol 20mg (DE-0-0), doxazosina 8mg (0-0- CE), ranolazina 500mg/12h, hidroclorotiazida 12,5mg (DE-0-0), vildagliptina- metformina 50-850mg (DE-0-0), atorvastatina 20mg/24h, AAS 100mg (DE-0- 0), ramipril 5mg (DE-0-0), lormetazepam 1mg (0-0-CE), bisoprolol 5mg (DE-0-0), alopurinol 300mg (0-0-CE).

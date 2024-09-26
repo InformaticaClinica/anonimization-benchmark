@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL  PARA VALO RACION ANEURISMA
+
+clinica:
+AnAoAbd infrarenal que requirió endoprótesis, hoy por dolor abdominal se realiza AngioTC que muestra fuga periprotésica que se interviene Persistencia de dolro, inestabilidad HD (taquicardia, hipotensión) se solicita nuevo TC
+ANEURISMA
+
+protocolo:
+ANGIO-TC DE AORTA ABDOMINAL URGENTE: BASAL , ARTERIAL Y PORTAL
+
+resultados:
+Se compara con el TC realizado hoy a las 13h:
+Se observa colocación de endoprótesis aórtica abdominal infrarrenal en el segmento aórtico ocupado por la prótesis de dacron.
+Se visualiza pequeño punto de extravasación de contraste en el hematoma periaórtico en la fase arterial que en la fase portal aumenta considerablemente y que corresponde a un sangrado activo (fuga). El sangrado se extiende desde el extremo craneal de la endoprótesis hasta 4 cm en sentido caudal.
+Aumento del volumen de hemoperitoneo respecto al estudio previo.
+Las asas de intestino delgado presentan una correcta captación parietal de contraste aunque el abundante hemoperitoneo dificulta la valoración de la totalidad de las asas.
+Arterias renales y arteria mesentérica superior permeables.
+Resto del estudio sin cambios respecto al previo.
+
+conclusiones:
+Signos de sangrado activo a nivel de aorta abdominal infrarrenal.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL  PARA VALORACION ANEURISMA

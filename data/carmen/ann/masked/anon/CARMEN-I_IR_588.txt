@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con síndrome confusional agudo
+NEUMONÍA BILATERAL POR SARS-COV2
+
+protocolo:
+Exploración TC craneal urgente en condiciones basales.
+
+resultados:
+Cambios poroencefalomalacicos de aspecto residual a nivel frontal derecho, en probable relacion con evento isquemico antiguo.
+Cisternas basales libres.
+Estructuras de la linea media centradas.
+Sistema ventricular de tamaño prominente, con su situacion conservada.
+Signos de atrofia cortical global con importante ensanchamiento de las cisuras de Silvio,
+Mediante TC no se aprecian otras alteraciones intracraneales destacables.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC CEREBRAL

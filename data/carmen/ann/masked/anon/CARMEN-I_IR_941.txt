@@ -1,0 +1,29 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado por neumonía bilateral por SARS-CoV-2 que presenta hemoptisis de forme recurrente. Ruego TCAR pulmonar. Gracias
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+TC de tórax adquirido tras la administración de contraste EV en fase arterial.
+
+resultados:
+Se compara con TCs de tórax previos de [**FECHAS**] y [**FECHAS**].
+Discreto aumento de tamaño de ganglios mediastínicos paratraqueales izquierdos bajos, probablemente reactivos. Adenopatía subcarinal de 10 mm, sin cambios. No se observan otras adenopatías mediastínicas ni axilares de tamaño significativo. Pequeñas adenopatías hiliares bilaterales.
+No se observa defectos de repleción en arterias pulmonares centrales que sugiera TEP. Tronco de la arteria pulmonar de calibre conservado.
+Permeabilidad del tronco celíaco y de la arteria mesentérica superior, parcialmente incluida en el estudio.
+Aorta torácica de calibre conservado. Marcada dilatación auricular izquierda y de venas pulmonares.
+Leve derrame pleural bilateral laminar. Disminución del derrame pleural izquierdo respecto a TC de [**FECHAS**]. Persisten sin cambios discretos engrosamientos pleurales izquierdos de localización basal.
+Focos consolidativos y en vidrio deslustrado peribroncovasculares de distribución periférica en LLII, língula y segmento apicoposterior del LSI, asociado a discretas dilataciones bronquiales. Algunos de los focos descritos presentan una distribución perilobular rodeando parénquima pulmonar no afectado, con morfología de halo reverso, sugestivo de neumonía organizativa. Los hallazgos descritos corresponden a neumonía bilateral por COVID-19 en evolución.
+Estabilidad del pequeño nodulo pulmonar subpleural en segmento posterior del LSD, sugestivo de ganglio intrapulmonar.
+Quistes corticales renales izquierdos.
+Cambios degenerativos en columna torácica con leve escoliosis dorsal de convexidad derecha.
+
+conclusiones:
+Focos consolidativos y en vidrio deslustrado peribroncovasculares de distribución periférica en LLII y LSI, algunos con morfología de neumonía organizativa. Los hallazgos descritos corresponden a neumonía bilateral por COVID-19 en evolución. Leve derrame pleural bilateral laminar.
+Resto ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,24 @@
+
+Nota de evolución en sala de hospitalización convencional ([**NUMERO_IDENTIF**]).
+1. SDRA por SARS-CoV2 (requirió IOT+VM y prono).
+2. Weaning prolongado (requirió TQ, actualmente decanulado).
+3. Insuficiencia renal aguda anúrica (requirió terapia renal sustitutiva, actualmente con diuresis conservada).
+4. VAP por Pseudomonas aeruginosa (BAS [**FECHAS**] aún crece, colonización?).
+5. Delirium hipoactivo (resuelto).
+6. Sospecha de candidemia (recibió fluconazol).
+7. Neumonía organizativa post-COVID.
+8. Lesión quística en LID (control evolutivo).
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedents descritos ingresó en la UVIR por neumonía bilateral por covid-19 con distres respiratorio agudo asociado.
+Por empeoramiento respiratorio rápidamente progresivo, precisó intubación orotraqueal el [**FECHAS**] para ventilación mecánica.
+Posteriormente, ante la sospecha de weaning prolongado, se realizó traqueostomía quirúrgica precoz el [**FECHAS**].
+Recibió tratamiento según protocolo con: kaletra, hidroxicloroquina, azitromicina, remdesivir (ensayo clínico), corticosteroides en bolus.
+Cobertura inicial con Ceftriaxona y Teicoplanina. No se utilizó Tocilizumab inicialmente por falta de stock.
+Como complicaciones presentó shock séptico secundario a neumonía asociada a la ventilación mecánica por Pseudomonas aeruginosa tratada inicialmente con Ceftazidima, presentando posteriormente recurrencia y requiriendo tratamiento con Meropenem. Asimismo, presentó fallo mutiorgánico que requirió vasopresores a dosis elevadas, empeoramiento del intercambio de gases con pronación hasta en dos ocasiones, insuficiencia renal anúrica tratada con hemodiafiltración y posteriormente con terapia intermitente, disfunción hepática y disfunción neurológica. Último broncoaspirado [**FECHAS**] positivo para P.aeruginosa(colonización)?. Actualmente con diuresis conservada, aunque persisten creatininas elevadas, al alta, se citará en consultas externas de Nefrología.
+Durante su estancia en UCI, presentó evolución clínica favorable con mejoría de la disfunción orgánica, disminución del soporte vasoactivo y disminución progresiva de la oxigenoterapia complementaria, por lo que se trasladó a cuidados intermedios, donde se logró decanular exitosamente el [**FECHAS**]. Asimismo, presentó delirium hipoactivo con lenta recuperación (no ha presentado nuevos episodios de desorientación).
+También, destacó importante miopatía del paciente crítico que ha ido mejorando durante el ingreso. Posteriormente se trasladó a sala convencional.
+Presentó pico febril con incremento significativo de reactantes de fase aguda. Se cubrió empíricamente con meropenem/daptomicina y fluconazol (Aislamiento de C.parapsilosis en orina, C.albicans al BAS y úlcera sacra), con mejoría clínica y disminución de parámetros inflamatorios.
+TCAR de control con cambios organizativos y lesión quística de 23 mm con paredes algo engrosadas localizada en LID a valorar en control evolutivo. Por lo que seguirá controles en consulta NOCOV (Dr [**NOMBRE_PERSONAL_SANITARIO**]), visita el [**FECHAS**] con TACAR de control.
+En cuanto a la insuficiencia renal, el paciente ha permanecido con niveles de creatinina en torno a 2,5 mg/dl (FG <30 ml/min/l), sin diselectrolitemia, con diuresis conservada por lo que seguirá controles con Nefrología de forma ambulatoria.
+En la sala, se ha mantenido consciente y orientado, eupneico con saturaciones correctas (97%) en basal, con una muy favorable y exitosa evolución de la miopatía, pudiendo llegar a deambular y ser completamente autónomo en su habitación. Dada la estabilidad clínica, así como la ausencia de signos y síntomas de alarma ni complicaciones agudas, se decide alta a domicilio.
+   
+   

@@ -1,0 +1,15 @@
+ Mujer de [**EDAD_SUJETO_ASISTENCIA**]. Natural de [**PAIS**], vive en [**PAIS**] con sus nueras desde hace aproximadamente 1 año, en situación de asilo humanitario con importante distocia familiar y seguimiento intermitente por diferentes dispositivos (SSAP de varios muncipios, TS de salud, ONG, ONG). Independiente para ABVD (se hace la higiene sola, sale a la calle sola, mRS 2).
+ANTECEDENTES PATOLOGICOS:
+1. HTA
+2. Hipotiroidismo.
+3. Dislipemia.
+4. Angina estable en [**FECHAS**].
+5. Insuficiencia venosa crónica.
+6. Herpes zóster con neuralgia recurrente.
+7. Microangiopatía cerebral crónica.
+8. Probable deterioro cognitivo leve, pero funcionalmente independiente
+MEDICACION HABITUAL ([**FECHAS**])
+- Omporazol 20 mg/24h
+- AAS 100 mg/24h
+- Lormetazepam 1 mg/24h
+- Losartan 160 mg/24h

@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR Y EXTREMIDADES
+
+clinica:
+Antecedente TEP bilateral en otro hospital. Traqueo + ECMO VV femoro- yugular. Sedoanalgesiado y relajado. Valoración craneal en vacío + angio pulmonar y valoración de puntos de canulación
+
+protocolo:
+ANGIOTC TORACOABDOMINAL URGENTE: adquisición desde base craneal hasta diáfisis femoral (fases arterial y tardía).
+
+resultados:
+No se observa TEP en arterias pulmonares proximales (hasta ramas segmentarias), resto del árbol pulmonar de difícil valoración por escasa opacificación y artefacto por endurecimiento del haz por interposición de EESS.
+Traqueostomía con cánula, observando en su margen inferior una gasa insinuada. No se observan colecciones peri-traqueostomía ni laterocervicales.
+ECMO, con cánula yugular y femoral D sin colecciones adyacentes. Catéter yugular izquierdo con extremo en tronco innominado. SNG. Sonda vesical.
+No se observan adenopatías axilares ni mediastínicas. No se evidencia derrame pleural ni pericárdico.
+Extensos focos consolidativos bilaterales y con distribución periférica y en LLII,  que se acompañan de imágenes periféricas en vidrio deslustrado, todo  ello compatible con infección pulmonar por COVID-19 (afectación de entre el 50-75% del parénquima pulmonar). Dudosos focos hipocaptantes en el seno de las consolidaciones en LID, que podría corresponder a artefacto de endurecimiento del haz, poco valorables.
+Ocupaciones endobronquiales distales en ambos LLII.
+Hígado, vesicula y vía biliar, bazo, páncreas, riñones y glándulas suprarrenales sin alteraciones.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Mínima lámina de líquido en pelvis.
+
+conclusiones:
+No se observa TEP proximal (hasta ramas segmentarias). No se observan aleraciones valorables peri-traqueostomía ni adyacente a las cánulas para la ECMO.
+Extensos cambios pulmonares por infección por COVID-19 (50-75% del parénquima) Dudosos focos hipocaptantes en el seno de las consolidaciones en LID, que podría corresponder a artefacto de endurecimiento del haz, poco valorables.
+Ocupaciones endobronquiales distales en ambos LLII.
+
+descrip:
+ANGIO TC PULMONAR Y EXTREMIDADES

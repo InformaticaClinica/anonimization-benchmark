@@ -1,0 +1,36 @@
+T1	PROCEDIMIENTO 239 262	cardioversión eléctrica
+T2	PROCEDIMIENTO 330 333	IOT
+T3	PROCEDIMIENTO 737 746	Hemograma
+T4	PROCEDIMIENTO 810 818	TC torax
+T5	PROCEDIMIENTO 977 987	TC abdomen
+T6	PROCEDIMIENTO 1097 1107	TC craneal
+T7	PROCEDIMIENTO 1235 1249	antiagregación
+T8	PROCEDIMIENTO 1252 1267	anticoagulación
+T9	PROCEDIMIENTO 509 512	GSA
+T10	PROCEDIMIENTO 1278 1294	TC o RM cerebral
+T11	PROCEDIMIENTO 1428 1449	perfusión de insulina
+T12	PROCEDIMIENTO 1316 1343	antibioticoterapia empirica
+T13	PROCEDIMIENTO 363 388	Auscultacion respiratoria
+T14	PROCEDIMIENTO 630 643	función renal
+T15	SINTOMA 36 70	deterioro del nivel de consciencia
+T16	SINTOMA 113 133	hipoperfusión distal
+T17	SINTOMA 287 312	hemodinámicamente estable
+T18	SINTOMA 354 361	afebril
+T19	SINTOMA 418 448	abdomen timpánico y distendido
+T20	SINTOMA 474 496	rigidez deextremidades
+T21	SINTOMA 831 850	consolidación basal
+T22	ENFERMEDAD 176 185	FV conPCR
+T23	ENFERMEDAD 201 222	fibrilación auricular
+T24	ENFERMEDAD 874 890	broncoaspiración
+T25	ENFERMEDAD 1049 1059	colangitis
+T26	ENFERMEDAD 1140 1165	hematoma talámico derecho
+T27	HUMANO 1 9	Paciente
+T28	SINTOMA 393 416	crepitantes bilaterales
+T29	SINTOMA 899 926	focos en vidrio deslustrado
+T30	SINTOMA 931 975	engrosamientos bronquiales circunferenciales
+T31	SINTOMA 992 1028	moderada hipercaptación del colédoco
+T32	ENFERMEDAD 1390 1398	Covid-19
+T33	FARMACO 1441 1449	insulina
+T34	FARMACO 1348 1371	Piperacilina-Tazobactam
+T35	SINTOMA 613 643	Alteración de la función renal
+T36	SINTOMA 1065 1084	clinica neurológica

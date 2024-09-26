@@ -1,0 +1,6 @@
+ Mujer de [**EDAD_SUJETO_ASISTENCIA**] años, sin [**  **] conocidas, no refiere [**  **].
+- [**ENFERMEDAD_1**].
+- [**ENFERMEDAD_2**] en tratamiento con [**  **].
+- El [**FECHAS**] consulta al [**INSTITUCION**] por [**  **] a nivel [**  **] bilateral (D>I), no asociado a [**  **]. Orientado como [**  **], inician tratamiento con [**  **] y [**  **]. Convive con [**FAMILIARES_SUJETO_ASISTENCIA**] de [**  **] años quien se encuentra [**  **].
+- [**  **]: [**  **].
+PSICOBIOGRAFÍA: Vive con su [**OTROS_SUJETO_ASISTENCIA**] e [**OTROS_SUJETO_ASISTENCIA**]. Actualmente se encuentran [**  **], [**  **]. Trabaja en [**PROFESION**] de [**  **] (actualmente en contacto con [**  **]).

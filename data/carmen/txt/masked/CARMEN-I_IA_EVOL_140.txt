@@ -1,0 +1,23 @@
+
+EVOLUCIÓN SALUD INTERNACIONAL
+1. NEUMONIA BILATERAL POR SARS-CoV-2.
+2. INSUFICIENCIA CARDIACA DESCOMPENSADA.
+3. INSUFICIENCIA RESPIRATORIA AGUDA por (1+2).
+* Inicio de síntomas: incierto
+* Frotis positivo: [**FECHAS**]
+* Ingreso: [**FECHAS**]. [**NUMERO_IDENTIF**]: [**FECHAS**]. Sala [**NUMERO_IDENTIF**]: [**FECHAS**]
+* Tratamiento recibido: dexametasona [**FECHAS**],
+No se inició remdesivir por el tiempo prolongado de evolución
+* Atb: ceftarolina ([**FECHAS**]-[**FECHAS**]) paso a ertapenem ([**FECHAS**]) por resultado UC.
+* LAF 60% que requirió estancia en inermedios del [**FECHAS**] al [**FECHAS**]
+1-3. [**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], con los antecedentes descritos, ingresó en cuidados semicríticos ([**NUMERO_IDENTIF**]) procedente de urgencias en contexto de insuficiencia respiratoria aguda grave secundaria a neumonía bilateral por SARS-CoV-2 con componente de insuficiencia cardíaca asoaciado, por lo que se inició soporte ventilatorio con oxigenoterapia de alto flujo (Fi02 hasta 0.60), asociado a tratamiento con ceftarolina, dexametasona *10 d 6 mg/d y furosemida (no se inició remdesivir por el tiempo prolongado de evolución).
+Durante su estancia en la [**NUMERO_IDENTIF**], presentó evolución clínica favorable con disminución progresiva de la oxigenoterapia complementaria hasta mantener saturaciones correctas (>95%) con mascarilla tipo venturi (Fi02 0.24), gasometricamente sin acidosis ni hipercapnia, última GSA con LAF 35%-40LT con pO2 80.2, dificultad para manetener cateter arterial por extravasación repetida. Dada la estabilidad clínica, así como la ausencia de signos y síntomas de alarma, sin complicaciones agudas, se decide traslado a sala de hospitalización covid.
+Durante su estancia en sala ([**NUMERO_IDENTIF**]) la paciente se encuentra estable clinicamente sin necesidad de oxígenoterapia para mantener saturaciones correctas. Se finaliza tratamiento con dexametasona al décimo día, con notable mejoría analítica y radiológica, por lo que se da de alta a centro de convalescencia.
+4. ITU por E. coli BLEA (MDR).
+Previo al ingreso, por disuria y poliaquiuria, desde el CAP, se inició tratamiento empírico con cefditoreno previo a la toma de urocultivo, que resultó positivo para E. coli multisensible (resistente a ciprofloxacino). Al ingreso en nuestro centro, se inició cobertura empírica con ceftarolina por protocolo, sin embargo, en urocultivo de control se aisló E. coli BLEA multiresistente, por lo que se escaló cobertura antibiótica a ertapenem que complimente durante 10 días ([**FECHAS**]- [**FECHAS**]). Permaneció asintomática sin elevación de RFA, sin sintomatología urinaria. Se realizó nuevo urinocultivo durante tratamiento antibioterápico que resulto negativo.
+5. INMUNOSUPRESIÓN POR TX RENAL.
+Trasplantada renal con creatininas en torno a 1.6-1.7 mg/dL, inmunosuprimida con tacrolimus y micofenolato en domicilio, sin embargo, en consenso con UTR, se decidió suspender inmunosupresión habitual y mantener monoterapia con dexametasona. Durante su estancia en planta [**NUMERO_IDENTIF**] se realiza IC con UTR y ajusta tratamiento IS.
+6. DECLIVE FUNCIONAL EN CONTEXTO DE INGRESO EN INTERMEDIOS.
+Se realiza interconsulta con el servicio de Rehabilitación que objetivan movimiento analítico en las 4 extremidades, con un BM global de 5/5 e EESS y de 4/5 (en musculatura proximal de EEII, psoas y cuádriceps) y 5/5 ( en musculatura distal; tibial anterior, tríceps sural y EPDG). No déficits sensitivos. Transferencia asistida por 1 persona (pero es capaz de hacerla supervisada). Deambulación trayectos cortos asistida por 1 persona. Parcialmente dependiente para ABVDs. Realizan educación terapéutica con el objetivo de mantener tono y fuerza global; a realizar durante 10 min cada hora. Tributaria de FT para reeducar transferencia y marcha, y FT respiratoria.
+   
+   

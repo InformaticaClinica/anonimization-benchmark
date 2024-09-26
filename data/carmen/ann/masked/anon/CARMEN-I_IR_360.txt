@@ -1,0 +1,29 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente trasplantado cardíaco. COVID reciente pese a vacunación.
+Reingresa un mes mas tarde por aumento de la tos y fiebre. Rx levemente peor. Rogamos TC preferente para descartar NO, potencial sobreinfección o dx alternativo en paciente inmunosuprimido.
+Gracias
+covid 19
+
+protocolo:
+TC TÓRAX ALTA RESOLUCIÓN
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Cambios postquirúgicos por esternotomía media en relación a trasplante cardíaco. Dilatación auricular izquierda. Discretas calcificaciones de la aorta torácica.
+No se observa derrame pleural. Discreto derrame pericárdico.
+Leve enfisema paraseptal y centrolobulillar de predominio en LLSS.
+Discretas bronquiectasias cilíndricas difusas.
+Áreas parcheadas en vidrio deslustrado bilaterales, peribroncovasculares y periféricas, asociado a bandas parenquimatosas perilobulares y a dilataciones bronquiales, de predominio posterior en LM, LID y segmento posterior del LSD. Los hallazgos son sugestivos de neumonía bilateral por COVID-19 de predominio basal derecho, con cambios organizativos asociados en evolución.
+Cambios degenerativos en columna torácica.
+Colelitiasis. Quiste hepático en LHD. Leve cantidad de líquido libre periesplénico.
+
+conclusiones:
+Hallazgos sugestivos de neumonía bilateral por COVID-19 de predominio posterobasal derecho, con cambios organizativos asociados en evolución.
+Resto ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

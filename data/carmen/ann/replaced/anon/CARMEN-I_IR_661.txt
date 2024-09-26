@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Sd Febril en pac Trasplantado Cardiaco, COVID+
+trasplante cardiaco
+
+protocolo:
+Rx de tòrax anteroposterior portàtil.
+
+resultados:
+Veure resultats.
+
+conclusiones:
+RX de tòrax normal en pacient amb canvis postquirúrgics toràcics.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,24 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Sospita d'encefalitis per COVID-19
+infección por COVID
+
+protocolo:
+Se administra gadolini
+
+resultados:
+Hi ha una correcte diferenciació entre substància blanca y gris.
+Els ventricles tenen una mida conservada.
+No s'identifiquen alteracions en fosa posterior.
+No es veuen alteracions de la senyal de ressonància en el parènquima cerebral, cerebel.lós ni tronc del encèfal.
+Després de administrar contrast no es detecten captacions anómales de contrast.
+El apex petròs dret esta ocupat per material hiperdens en T1 ( component mucos vs granuloma de colesterol
+
+conclusiones:
+Estudi cerebral normal. Ocupació del apex petros dret de aspecte inflamatori
+
+descrip:
+RM CEREBRAL

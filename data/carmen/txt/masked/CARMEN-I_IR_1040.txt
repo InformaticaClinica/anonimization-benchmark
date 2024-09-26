@@ -1,0 +1,26 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] de edad, con neumonía bilateral por COVID, que ha ido normalizando parámetros inflamatorios, pero clínicamente persistente necesidad de O2 al 40%. Se solicita TAC-AR para descartar NOC
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+Bocio multinodular.
+Discretas calcificaciones coronarias y de cayado aórtico.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable. Ganglios calcificados hiliares derechos.
+Afectación parenquimatosa pulmonar bilateral por la presencia de opacidades en vidrio deslustrado parcheadas, de distribución periférica y peribroncovascular, se asocian a focos consolidativos periféricos en ambos LLII y peribroncovascular en língula y LSI con ectasia bronquial y bandas subpleurales y perilobulares. Hallazgos en relación con cambios organizativos tras neumonia bilateral por COVID19 de predominio en LLII, LM y língula.
+Cambios de enfisema pulmonar centroacinar y paraseptal de predominio en LLSS.
+No se observa derrame pleural ni pericárdico.
+Quistes hepáticos bilobares. Hiperplasia de gl suprarrenales.
+Esplenomegalia. Sin otros hallazgos valorables en los cortes de hemiabdomen superior.
+
+conclusiones:
+Bocio multinodular.
+Afectación parenquimatosa descrita en relación con cambios organizativos tras neumonia bilateral por COVID19 de predominio en bases pulmonares.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

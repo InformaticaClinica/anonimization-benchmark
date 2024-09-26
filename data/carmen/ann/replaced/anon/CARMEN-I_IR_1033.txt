@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+SOSPECHA NEUMONÍA ORGANIZATIVA.
+COVID19
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+CVC femoral con estremo en AD,
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades reticulares y en vidrio deslustrado de predominio periférico con didtribución perilobular y en halo reverso con formación de bandas subpleurales y distorsión parenquimatosa con diltacion  sbronquiales en su interior sugestivo de neumonía organizativa como evolución de neumonia COVID
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

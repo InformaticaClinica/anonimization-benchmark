@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+ADENOCARCINOMA DE COLON BRAFmut E-IV
+
+conclusiones:
+Placa RX AP rotada lo que genera hiperclaridad del hemitórax izquierdo.
+Elongación aórtica.
+Senos costofrénicos libres de ocupación.
+No evidencia de consolidación o nodularidad en parénquima pulmonar.
+Estructuras óseas sin alteraciones significativas.
+*** Debe señalarse que una RX normal no excluye el diagnóstico de COVID ***
+
+descrip:
+RX  PORTATIL  TORAX

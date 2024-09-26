@@ -1,0 +1,23 @@
+
+prueba:
+ECOGRAFIA MUSLO
+
+clinica:
+Varón de 35 años, por COVID ha pasado un mes en ECMO. Desde que despertó dolor en muslo derecho (zona de cánula de ECMO) y febrícula. Zona empastada y muy dolorosa con necesidad de mórfico.
+Se ruega descartar heamtoma organizado (vascular ya realizado).
+Gracias.
+7. FIEBRE SIN FOCO
+
+protocolo:
+Ecografía muslo e ingle derecha dirigida a la valoración región indurada.
+
+resultados:
+Gran lesión intramuscular heterogénea de 12,4 cm de diámetro craneocaudal que afecta a los vientres musculares de los aductores mediales (área de aductores largo y corto). Se extiende desde su inserción a nivel de la rama del pubis hasta el tercio medio del muslo.
+La lesión se localiza profunda y medial a los vasos femorales (los cuales son permeables) y es de aspecto heterogéneo con algunas zonas nodulares y otras quísticas. No se identifica un evidente registro doppler intralesional.
+Estos hallazgos podrían estar en relación a un hematoma intramuscular, y aunque no hay registro doppler, por la gran heterogeneidad se recomienda ampliar estudio mediante RM para descartar una lesión subyacente.
+
+conclusiones:
+Lesión heterogénea en musculatura aductora medial derecha que puede corresponder a hematoma sin poder descartar lesión subyacente. Se recomienda ampliar estudio mediante RM.
+
+descrip:
+ECOGRAFIA MUSLO

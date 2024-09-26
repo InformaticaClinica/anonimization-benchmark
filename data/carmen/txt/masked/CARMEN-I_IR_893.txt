@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+pacient neumonia bilateral por COVID19. Presenta hifas al gram del BAS.
+Descartar aspergellosis pulmonar.
+NAC
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Estudio de calidad subóptima debido a la falta de colaboración del paciente.
+No se observan signos de tromboembolismo pulmonar y en ramas arteriales pulmonares principales ni en ramas lobares. No se pueden evaluar ramas segmentarias y subsegmentarias.
+Tronco de la arteria pulmonar de calibre normal. No se observan signos de sobrecarga cardíaca derecha.
+Adenopatías mediastínicas de tamaño significativo a nivel paratraqueal bilateral y subcarinal, la mayor de 17 mm de diámetro su eje corto.
+Opacidades se en vidrio deslustrado y alveolares bilaterales y difusas de predominio periférico y en lóbulos inferiores asociado a discretas bronquiectasias, compatible con un a afectación pulmonar por con clip.
+Si bien no presenta imágenes típicas no se puede descartar aspergilosis pulmonar sobreañadida .
+Pequeño derrame pleural bilateral.
+Las secciones abdominales incluidas en el estudio muestran dilatación de la vía biliar intra y extrahepática. Colédoco: 13 mm.
+Glándula suprarrenal izquierda discretamente aumentada de tamaño de aspecto adenomatoso.
+Quistes sinusales renales bilaterales.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

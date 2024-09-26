@@ -1,0 +1,25 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con neumonía bilateral por covid-19, AP de mielofibrosis (neumonía por neumococo, PCP y GripeA el año pasado, IOT desde el viernes con empeoramiento respiratorio, elevación de los RFA y fiebre desde hace 72h. Se solicita Tc torax urgente para descartar sobreinfección +/- NOC.
+Gracias
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta una afectación parenquimatosa pulmonar difusa caracterizada por consolidaciones subpleurales de predominio basal y áreas subpleurales de vidrio deslustrado y patrón en empedrado. Todo ello es coherente con afectación pulmonar por COVID-19. Bullas biapicales, siendo la de mayor tamaó en el ápex derecho. Presenta un nódulo pulmonar sólido de 23 mm en el segmento apical del lóbulo superior derecho que considero no es atribuible a la COVID y que podría corresponder a un proceso neoproliferativo. Recomiendo valoración con PET/TC una vez superado el cuadro actual.
+Discretos cambios degenerativos en la columna torácica. Alteración generalizada de la densidad medular ósea que podría estar en relación con su patología de base.
+Esplenomegalia.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

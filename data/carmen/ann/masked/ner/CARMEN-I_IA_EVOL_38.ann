@@ -1,0 +1,116 @@
+T11	ENFERMEDAD 214 250	SANGRADO ESPONTÁNEO MASIVO ABDOMINAL
+T12	SINTOMA 595 604	orientado
+T13	SINTOMA 606 631	hemodinámicamente estable
+T14	SINTOMA 633 641	eupneico
+T15	SINTOMA 661 668	afebril
+T16	SINTOMA 697 739	edemas crónicos en extremidades inferiores
+T17	SINTOMA 822 828	roncus
+T18	SINTOMA 841 851	sibilantes
+T19	SINTOMA 1324 1351	infiltrados parenquimatosos
+T20	SINTOMA 2529 2545	elevación de PCR
+T21	SINTOMA 2861 2889	disociación toraco-abdominal
+T22	SINTOMA 2976 2986	linfopenia
+T23	SINTOMA 3600 3649	deterioro clínico abrupto del nivel de conciencia
+T24	SINTOMA 3654 3675	desconexión del medio
+T25	SINTOMA 3677 3692	hipoventilación
+T26	ENFERMEDAD 3727 3738	hipotensión
+T27	SINTOMA 4409 4415	exitus
+T28	SINTOMA 582 592	consciente
+T29	SINTOMA 745 780	signos de trombosis venosa profunda
+T30	SINTOMA 800 820	crepitanes bibasales
+T31	SINTOMA 1179 1198	ritmo de marcapasos
+T32	SINTOMA 1232 1245	cardiomegalia
+T33	SINTOMA 1247 1280	pinzamiento del seno costofrénico
+T34	SINTOMA 1308 1318	congestión
+T35	SINTOMA 1353 1394	Frotis para COVID-19 que resulta positivo
+T36	SINTOMA 1879 1891	hipervolemia
+T37	SINTOMA 1968 2016	elevación destacable de reactantes de fase aguda
+T38	SINTOMA 2499 2514	pico febricular
+T39	SINTOMA 2838 2858	trabajo respiratorio
+T40	SINTOMA 3116 3156	pinzamiento de ambos senos costofrénicos
+T41	SINTOMA 3712 3724	desaturación
+T42	SINTOMA 3772 3786	frialdad acral
+T43	ENFERMEDAD 3848 3856	hematoma
+T44	SINTOMA 3789 3818	colección abdominal en flanco
+T45	SINTOMA 3894 3905	anemización
+T46	ENFERMEDAD 4041 4068	hematoma de pared abdominal
+T47	SINTOMA 4083 4098	sangrado activo
+T48	SINTOMA 4205 4220	sangrado activo
+T49	SINTOMA 4343 4371	disociación electro-mecánica
+T50	SINTOMA 4376 4401	parada cardiorepsiratoria
+T51	SINTOMA 2461 2474	broncoespasmo
+T52	SINTOMA 2576 2582	roncus
+T53	SINTOMA 2750 2763	broncoespasmo
+T54	SINTOMA 297 312	frotis positivo
+T55	SINTOMA 2915 2932	aumento de la PCR
+T56	ENFERMEDAD 48 70	INFECCIÓN POR COVID 19
+T57	ENFERMEDAD 74 109	INSUFICIENCIA CARDÍACA DESCOMENSADA
+T58	ENFERMEDAD 113 147	ENFERMEDAD RENAL CRÓNICA AGUDIZADA
+T59	ENFERMEDAD 911 923	pancitopenia
+T60	ENFERMEDAD 1412 1448	insuficiencia cardíaca descompensada
+T61	ENFERMEDAD 1454 1496	agudización de insuficiencia renal crónica
+T62	ENFERMEDAD 1513 1535	infección por covid-19
+T63	ENFERMEDAD 1592 1604	pancitopenia
+T64	ENFERMEDAD 1728 1757	insuficiencia renal agudizada
+T65	ENFERMEDAD 1940 1962	insuficiencia cardíaca
+T66	FARMACO 383 394	enoxaparina
+T67	FARMACO 420 430	prednisona
+T68	FARMACO 452 469	metilprednisolona
+T69	FARMACO 492 515	amoxicilina/clavulánico
+T70	FARMACO 532 541	meropenem
+T71	FARMACO 1577 1589	acenocumarol
+T72	FARMACO 1643 1653	furosemida
+T73	FARMACO 1792 1802	remdesivir
+T74	PROCEDIMIENTO 2191 2205	corticoterapia
+T75	FARMACO 2220 2232	acenocumarol
+T76	FARMACO 2237 2248	enoxaparina
+T77	FARMACO 2659 2682	amoxicilina/clavulánico
+T78	PROCEDIMIENTO 3177 3198	cobertura antibiótica
+T79	FARMACO 3201 3210	meropenem
+T80	FARMACO 3244 3261	metilprednisolona
+T81	PROCEDIMIENTO 3282 3304	tratamiento deplectivo
+T82	ENFERMEDAD 198 210	PANCITOPENIA
+T83	PROCEDIMIENTO 787 799	auscultación
+T84	PROCEDIMIENTO 1163 1166	ECG
+T85	PROCEDIMIENTO 1206 1223	radiografía tórax
+T86	PROCEDIMIENTO 1616 1638	tratamiento deplectivo
+T87	PROCEDIMIENTO 2061 2082	tratamiento antiviral
+T88	PROCEDIMIENTO 2086 2102	antiinflamatorio
+T89	PROCEDIMIENTO 2119 2141	tratamiento deplectivo
+T90	PROCEDIMIENTO 2162 2189	broncodilatadores inhalados
+T91	PROCEDIMIENTO 2305 2327	tratamiento deplectivo
+T92	PROCEDIMIENTO 2419 2436	lentillas nasales
+T93	PROCEDIMIENTO 2588 2600	auscultación
+T94	PROCEDIMIENTO 2631 2654	tratamiento antibiótico
+T95	PROCEDIMIENTO 3442 3466	mascarilla tipo Monaghan
+T96	PROCEDIMIENTO 3498 3502	LNAF
+T97	PROCEDIMIENTO 3868 3871	GSA
+T98	PROCEDIMIENTO 4001 4013	TC abdominal
+T100	HUMANO 2331 2339	paciente
+T101	HUMANO 2703 2711	paciente
+T102	HUMANO 4314 4322	paciente
+T103	ENFERMEDAD 158 194	SOBREDESCOAGULACIÓN POR ACENOCUMAROL
+T104	FARMACO 182 194	ACENOCUMAROL
+T105	PROCEDIMIENTO 297 303	frotis
+T106	ENFERMEDAD 755 780	trombosis venosa profunda
+T107	PROCEDIMIENTO 1353 1373	Frotis para COVID-19
+T108	ENFERMEDAD 1553 1589	sobredescoagulación por acenocumarol
+T109	FARMACO 1837 1843	plasma
+T110	FARMACO 2405 2412	oxígeno
+T111	PROCEDIMIENTO 2799 2813	oxigenoterapia
+T112	PROCEDIMIENTO 3099 3115	Radiológicamente
+T113	PROCEDIMIENTO 3226 3261	bolus de 250mg de metilprednisolona
+T114	FARMACO 3428 3435	oxígeno
+T115	PROCEDIMIENTO 3925 3963	Se trasfunden hasta un total de 4 CCHH
+T116	PROCEDIMIENTO 3968 3984	pruebas cruzadas
+T117	PROCEDIMIENTO 859 868	analítica
+T118	PROCEDIMIENTO 676 687	exploración
+T119	PROCEDIMIENTO 3760 3771	exploración
+T1	SINTOMA 1038 1071	Empeoramiento de la función renal
+T2	SINTOMA 3004 3037	empeoramiento de la función renal
+T3	SINTOMA 3353 3390	empeoramiento respiratorio progresivo
+T4	SINTOMA 3395 3435	aumento de los requerimientos de oxígeno
+T5	SINTOMA 2766 2813	aumento de los requerimientos de oxigenoterapia
+T6	SINTOMA 2370 2412	reducción de los requerimientos de oxígeno
+T7	ENFERMEDAD 1365 1373	COVID-19
+T8	SINTOMA 2349 2364	mejoría inicial

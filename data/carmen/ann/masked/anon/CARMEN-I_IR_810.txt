@@ -1,0 +1,31 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Paciente COVID19+
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedente de encefalitis por virus gripe A en [**FECHAS**], presentado como un cuadro de afasia, confusión y deterioro cognitivo subagudo.
+Ingresa en NRL por un nuevo episodio de características similares, predominando la afasia. TC presenta un quiste aracnoideo frontal izquierdo (presente en RM previa), punción lumbar con proteinorraquia leve (60mg/dl).
+Solicito RM para valoración de cuadro encefalítico y descartar causas estructurales.
+Gracias
+PROBABLE ENCEFALITIS POR SARS-COV-2
+
+protocolo:
+T1, T2, FLAIR, DWI-ADC, SWI, T1 + CONTRASTE.
+
+resultados:
+Se compara con RM previa de [**FECHAS**]
+INFORME
+Imagen quística de 12 x 14 mm frontal izquierda, que comunica con espacio subdural, sin captaciones de contraste, compatible con quiste aracnoideo/área de porencefalia/lesión
+quística residual...
+No se observan otras alteraciones valorables en el aspecto, morfología y señal de las estructuras
+encefálicas, ni realces sospechosos con contraste.
+Sistema ventricular simétrico.
+Estructuras de linea media centradas.
+Sin alteraciones extracraneales.
+
+conclusiones:
+ESTABILIDAD.
+
+descrip:
+RM CEREBRAL

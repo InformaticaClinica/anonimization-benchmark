@@ -1,0 +1,25 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con mieloma múltiple, tratamiento con terapia celular CART.
+Antecedente de neumonía por COVID19, realizó tto. con remdesivir.
+Neutropenia secundaria al tratamiento. Ahora con empeoramiento radiológico importante asociado a deterioro respiratorio.
+Muchas gracias.
+COVID POSITIVO
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Derrame pleural bilateral de grado ligero. No se observa derrame pericárdico.
+Elevación del hemidiafragma izquierdo sugestivo de paresia - Parálisis diafragmática.
+Patrón en vidrio deslustrado bilateral de predominio periférico con áreas consolidativas bibasales, bronquiectasias y atelectasias subsegmentarias, compatible con infección pulmonar por COVID-19, con signos de evolución a neumonía organizativa.
+
+conclusiones:
+Infección pulmonar por COVID-19, con signos de evolución a neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

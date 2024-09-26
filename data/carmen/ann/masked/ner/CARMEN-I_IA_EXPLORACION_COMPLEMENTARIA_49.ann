@@ -1,0 +1,115 @@
+T20	PROCEDIMIENTO 17 27	MIELOGRAMA
+T21	PROCEDIMIENTO 759 779	RADIOGRAFIA DE TÓRAX
+T22	PROCEDIMIENTO 960 971	RX de tórax
+T23	PROCEDIMIENTO 1383 1400	ANGIO-TC PULMONAR
+T24	PROCEDIMIENTO 2173 2193	RADIOGRAFIA DE TORAX
+T25	PROCEDIMIENTO 2360 2380	RADIOGRAFIA DE TORAX
+T26	PROCEDIMIENTO 2634 2644	UROCULTIVO
+T27	PROCEDIMIENTO 44 61	Aspirat medul·lar
+T28	PROCEDIMIENTO 1031 1057	Cateter ev amb extrem a AD
+T29	PROCEDIMIENTO 2529 2563	ANTIGENURIA NEUMOCOCO Y LEGIONELLA
+T30	PROCEDIMIENTO 2591 2606	FROTIS COVID 19
+T31	PROCEDIMIENTO 2672 2683	HEMOCULTIVO
+T32	PROCEDIMIENTO 2714 2749	Detecció galactomanano, Aspergillus
+T33	PROCEDIMIENTO 2776 2798	Estudi de micobacteris
+T34	PROCEDIMIENTO 2800 2822	Quantiferon qualitatiu
+T35	PROCEDIMIENTO 2833 2855	Quantiferó quantitatiu
+T36	PROCEDIMIENTO 2867 2909	Detecció d'Antígen Cryptococcus neoformans
+T37	PROCEDIMIENTO 3678 3700	ADN de M. tuberculosis
+T38	PROCEDIMIENTO 3825 3845	Deteccion Toxoplasma
+T39	HUMANO 1887 1895	paciente
+T40	SPECIES 2541 2550	NEUMOCOCO
+T41	SPECIES 2553 2563	LEGIONELLA
+T42	SPECIES 2738 2749	Aspergillus
+T43	SPECIES 2786 2798	micobacteris
+T44	SPECIES 2833 2855	Quantiferó quantitatiu
+T45	SPECIES 2886 2909	Cryptococcus neoformans
+T46	SPECIES 2973 2986	virus gripe A
+T47	SPECIES 2997 3010	virus gripe B
+T48	SPECIES 3021 3043	Virus parainfluenzae-1
+T49	SPECIES 3054 3077	virus parainfleunzae -2
+T50	SPECIES 3088 3110	virus parainfluenzae-3
+T51	SPECIES 3121 3149	virus respiratorio sincitial
+T52	SPECIES 3160 3175	citomegalovirus
+T53	SPECIES 3186 3196	adenovirus
+T54	SPECIES 3207 3223	influenzavirus b
+T55	SPECIES 3238 3254	influenzavirus c
+T56	SPECIES 3269 3283	influenzavirus
+T57	SPECIES 3300 3328	virus respiratorio sincitial
+T58	SPECIES 3343 3354	enterovirus
+T59	SPECIES 3369 3379	adenovirus
+T60	SPECIES 3394 3416	metapneumovirus humano
+T61	SPECIES 3431 3442	coronavirus
+T62	SPECIES 3457 3473	bocavirus humano
+T63	SPECIES 3488 3497	rinovirus
+T64	SPECIES 3512 3531	virus parainfluenza
+T65	SPECIES 3556 3578	legionella pneumophila
+T66	SPECIES 3593 3614	mycoplasma pneumoniae
+T67	SPECIES 3629 3648	clamydia pneumoniae
+T68	SPECIES 3685 3700	M. tuberculosis
+T69	SPECIES 3717 3749	bacilos acido-alcohol resistente
+T70	SPECIES 3750 3765	Citomegalovirus
+T71	SPECIES 3835 3845	Toxoplasma
+T72	SPECIES 3867 3881	parvovirus b19
+T73	SPECIES 3892 3895	CMV
+T74	SPECIES 4132 4154	Virus de epstein- Barr
+T75	SPECIES 4165 4186	virus herpes simple 1
+T76	SPECIES 4197 4218	virus herpes simple 2
+T77	SPECIES 4229 4257	virus herpes simple humano 6
+T78	SPECIES 4268 4289	virus varicela zoster
+T79	SPECIES 4300 4308	virus BK
+T80	SPECIES 4319 4347	virus herpes simple humano 8
+T81	SINTOMA 228 308	megacariòcits són escassos, generalment amb el nucli lleugerament hipersegmentat
+T82	SINTOMA 313 391	sèrie granulocítica està conservada, presenta desgranulació i freqüents bandes
+T83	SINTOMA 394 415	metamielòcits gegants
+T84	SINTOMA 498 537	eritroblasts basòfils i policromatòfils
+T85	ENFERMEDAD 208 222	megaloblastosi
+T86	SINTOMA 567 588	canvis megaloblàstics
+T87	ENFERMEDAD 1005 1013	COVID-19
+T88	ENFERMEDAD 1185 1214	embassament pleural bilateral
+T89	ENFERMEDAD 1468 1492	tromboembolismo pulmonar
+T90	ENFERMEDAD 1509 1546	adenopatías mediastínicas ni axilares
+T91	ENFERMEDAD 1568 1620	Derrame pleural bilateral de grado moderado a severo
+T92	ENFERMEDAD 1622 1633	Atelectasia
+T93	ENFERMEDAD 1682 1701	derrame pericárdico
+T94	ENFERMEDAD 2001 2013	colelitiasis
+T95	ENFERMEDAD 2141 2170	afectación pulmonar por COVID
+T96	ENFERMEDAD 2470 2495	derrame pleural bilateral
+T97	ENFERMEDAD 2950 2958	COVID-19
+T98	PROCEDIMIENTO 2513 2526	MICROBIOLOGÍA
+T99	PROCEDIMIENTO 3795 3808	MICROBIOLOGIA
+T100	ENFERMEDAD 1912 1941	afectación pulmonar por COVID
+T101	SINTOMA 44 113	Aspirat medul·lar marcadament hipercel·lular amb disminució del greix
+T102	SINTOMA 115 173	Presència de precursors de les tres sèries hematopoètiques
+T103	SINTOMA 420 455	sèrie vermella està molt augmentada
+T104	ENFERMEDAD 695 741	Pancitopènia per dèficit de factors maduratius
+T105	SINTOMA 796 855	Opacidades alveolo-intersticiales de distribución bilateral
+T106	SINTOMA 1031 1057	Cateter ev amb extrem a AD
+T107	SINTOMA 1059 1102	Afectació alveolar i intersticial bilateral
+T108	SINTOMA 1258 1299	afectación alveolo-intersticial bilateral
+T109	SINTOMA 1432 1453	defectos de repleción
+T110	SINTOMA 1703 1752	Patrón en vidrio deslustrado y alveolar bilateral
+T111	SINTOMA 2236 2277	afectación alveolo-intersticial bilateral
+T112	SPECIES 2800 2822	Quantiferon qualitatiu
+T113	SINTOMA 2886 2918	Cryptococcus neoformans: Negatiu
+T114	SINTOMA 2950 2971	COVID-19 indetectable
+T115	ENFERMEDAD 2979 2986	gripe A
+T116	ENFERMEDAD 3003 3010	gripe B
+T117	SINTOMA 3207 3236	influenzavirus b indetectable
+T118	SINTOMA 3238 3267	influenzavirus c indetectable
+T119	SINTOMA 3269 3298	influenzavirus a indetectable
+T120	SINTOMA 3300 3341	virus respiratorio sincitial indetectable
+T121	SINTOMA 3343 3367	enterovirus indetectable
+T122	SINTOMA 3369 3392	adenovirus indetectable
+T123	SINTOMA 3394 3429	metapneumovirus humano indetectable
+T124	SINTOMA 3431 3455	coronavirus indetectable
+T125	SINTOMA 3457 3486	bocavirus humano indetectable
+T126	SINTOMA 3488 3510	rinovirus indetectable
+T127	SINTOMA 3512 3554	virus parainfluenza (1,2,3,4) indetectable
+T128	SINTOMA 3556 3591	legionella pneumophila indetectable
+T129	SINTOMA 3593 3627	mycoplasma pneumoniae indetectable
+T130	SINTOMA 3629 3661	clamydia pneumoniae indetectable
+T131	SINTOMA 3666 3700	se detectan ADN de M. tuberculosis
+T132	SINTOMA 3705 3749	se observan bacilos acido-alcohol resistente
+T133	SINTOMA 3750 3785	Citomegalovirus no se han detectado
+T1	ENFERMEDAD 2598 2606	COVID 19

@@ -1,0 +1,53 @@
+T7	ENFERMEDAD 90 111	hipertensión arterial
+T8	ENFERMEDAD 113 130	diabetes mellitus
+T9	ENFERMEDAD 132 140	obesidad
+T10	ENFERMEDAD 143 148	SAHOS
+T11	ENFERMEDAD 456 514	infección de vías respiratorias inferiores por SARS - COV2
+T12	ENFERMEDAD 1735 1748	hiperglucemia
+T13	FARMACO 687 698	Baricitinib
+T14	FARMACO 755 766	Baricitinib
+T15	HUMANO 25 33	Paciente
+T16	HUMANO 1259 1267	paciente
+T17	HUMANO 1367 1376	pacientes
+T18	HUMANO 1752 1760	paciente
+T19	PROCEDIMIENTO 175 188	CPAP nocturna
+T20	PROCEDIMIENTO 306 347	primera dosis de la vacuna de AstraZeneca
+T21	PROCEDIMIENTO 349 352	TAR
+T22	PROCEDIMIENTO 571 574	TAR
+T23	PROCEDIMIENTO 922 932	VMK al 28%
+T24	PROCEDIMIENTO 1010 1030	radiografía de tórax
+T25	PROCEDIMIENTO 1163 1172	Hemograma
+T26	PROCEDIMIENTO 1303 1317	oxigenoterapia
+T27	PROCEDIMIENTO 1724 1748	estudio de hiperglucemia
+T28	PROCEDIMIENTO 1813 1834	antidiabéticos orales
+T29	PROCEDIMIENTO 1969 1983	oxigenoterapia
+T30	SINTOMA 211 217	fiebre
+T31	SINTOMA 220 233	artromialgias
+T32	SINTOMA 832 857	hemodinámicamente estable
+T33	SINTOMA 859 865	febril
+T34	SINTOMA 867 896	taquipnea a mínimos esfuerzos
+T35	SINTOMA 951 997	crepitantes difusos en ambos campos pulmonares
+T36	SINTOMA 1043 1092	infiltrados intersticiales pulmonares bilaterales
+T37	SINTOMA 1465 1471	disnea
+T38	SINTOMA 1513 1527	dolor torácico
+T39	SINTOMA 1532 1545	palpitaciones
+T40	SINTOMA 1607 1632	Hemodinámicamente estable
+T41	SINTOMA 1634 1642	eupneico
+T42	SINTOMA 1891 1936	estabilidad clínica, analítica y hemodinámica
+T44	SPECIES 503 514	SARS - COV2
+T45	SPECIES 797 806	SARS-CoV2
+T46	SPECIES 1377 1387	SARS-CoV-2
+T47	ENFERMEDAD 0 24	ENFERMEDADES INFECCIOSAS
+T48	SINTOMA 349 383	TAR en [**CENTRO_SALUD**] positivo
+T49	SINTOMA 571 583	TAR positivo
+T50	FARMACO 674 684	Remdesivir
+T51	ENFERMEDAD 783 806	INFECCIÓN POR SARS-CoV2
+T52	SINTOMA 1550 1605	semiologia infecciosa digestiva, respiratoria ourinaria
+T53	PROCEDIMIENTO 1647 1649	LN
+T54	SINTOMA 1676 1683	afebril
+T55	PROCEDIMIENTO 1119 1128	Analítica
+T56	PROCEDIMIENTO 1436 1445	analítica
+T57	PROCEDIMIENTO 1912 1921	analítica
+T58	PROCEDIMIENTO 939 950	exploración
+T1	SINTOMA 1419 1460	mejoría clínica, analítica y hemodinámica
+T2	SINTOMA 1288 1317	necesidades de oxigenoterapia

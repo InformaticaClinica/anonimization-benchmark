@@ -1,0 +1,40 @@
+T6	PROCEDIMIENTO 207 224	RX TÓRAX POST-IOT
+T7	PROCEDIMIENTO 338 356	ANGIO-TAC PULMONAR
+T8	PROCEDIMIENTO 1228 1239	RX de tórax
+T9	PROCEDIMIENTO 1282 1300	ANGIO-TAC PULMONAR
+T10	PROCEDIMIENTO 1883 1903	RADIOGRAFIA DE TÓRAX
+T11	PROCEDIMIENTO 21 29	RX TÓRAX
+T12	SINTOMA 1560 1631	Ganglios mediastinicos no valorables por tamaño radiologico bilaterales
+T13	SINTOMA 1715 1747	opacidades en vidrio deslustrado
+T14	SINTOMA 1757 1793	consolidaciones peribroncovasculares
+T15	SINTOMA 1954 1976	infiltrados pulmonares
+T16	ENFERMEDAD 454 457	TEP
+T17	ENFERMEDAD 522 541	sobrecarga cardiaca
+T18	ENFERMEDAD 643 664	Adenopatía subcarinal
+T19	ENFERMEDAD 768 805	adenopatías mediastínicas ni axilares
+T20	ENFERMEDAD 1158 1180	infección por COVID-19
+T21	ENFERMEDAD 1398 1401	TEP
+T22	ENFERMEDAD 1466 1493	sobrecarga cardiaca derecha
+T23	PROCEDIMIENTO 573 576	SNG
+T24	PROCEDIMIENTO 221 224	IOT
+T25	SINTOMA 69 115	infiltrados bilaterales alveolo-intersticiales
+T26	SINTOMA 226 274	infiltrados bilaterales de predominio periférico
+T27	SINTOMA 386 440	defectos de repleción evidentes en arterias pulmonares
+T28	SINTOMA 120 166	tendencia más consolidativa a nivel periférico
+T29	SINTOMA 459 506	Tronco de la arteria pulmonar de calibre normal
+T30	SINTOMA 578 641	Via venosa central yugular izquierda con extremos distal en VCS
+T31	ENFERMEDAD 685 720	ganglios paratraqueales bilaterales
+T32	SINTOMA 831 856	Espacios pleurales libres
+T33	SINTOMA 858 938	Opacidades en vidrio deslustrado peribroncovasculares de distribución periférica
+T34	SINTOMA 982 1025	focos consolidativos hipodensos periféricos
+T35	SINTOMA 1124 1180	afectación pulmonar bilateral por infección por COVID-19
+T36	ENFERMEDAD 1266 1278	Colelitiasis
+T37	SINTOMA 1330 1384	defectos de repleción evidentes en arterias pulmonares
+T38	SINTOMA 1403 1450	Tronco de la arteria pulmonar de calibre normal
+T39	SINTOMA 1456 1493	signos de sobrecarga cardiaca derecha
+T40	SINTOMA 1495 1558	Via venosa central yugular izquierda con extremos distal en VCS
+T41	SINTOMA 1658 1683	Espacios pleurales libres
+T42	SINTOMA 1804 1865	bandas subpleurales de distribución periférica en LLSS y LLII
+T43	ENFERMEDAD 1867 1879	Colelitiasis
+T1	SINTOMA 1191 1216	empeoramiento radiológico
+T2	PROCEDIMIENTO 1205 1216	radiológico

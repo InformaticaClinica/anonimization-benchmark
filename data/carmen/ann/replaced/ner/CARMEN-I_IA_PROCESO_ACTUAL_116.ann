@@ -1,0 +1,44 @@
+T8	ENFERMEDAD 985 988	TEP
+T9	ENFERMEDAD 1328 1331	NOC
+T10	ENFERMEDAD 1444 1446	NO
+T11	PROCEDIMIENTO 170 178	Rx tórax
+T12	PROCEDIMIENTO 240 246	frotis
+T13	PROCEDIMIENTO 286 289	ECG
+T14	PROCEDIMIENTO 954 971	angio TC torácico
+T15	PROCEDIMIENTO 1305 1307	TC
+T16	PROCEDIMIENTO 1407 1418	Rx de torax
+T17	SINTOMA 66 72	fiebre
+T18	SINTOMA 90 98	tos seca
+T19	SINTOMA 101 108	astenia
+T20	SINTOMA 138 167	crepitantes secos bilaterales
+T21	SINTOMA 294 306	QTc en rango
+T22	SINTOMA 910 930	aumento del D-Dímero
+T23	ENFERMEDAD 273 282	Covid- 19
+T24	ENFERMEDAD 1088 1148	enfisema paraseptal y centrolobulillar de predominio en LLSS
+T25	ENFERMEDAD 1236 1248	microtrombos
+T26	FARMACO 368 385	hidroxicloroquina
+T27	FARMACO 405 417	azitromicina
+T28	FARMACO 438 457	ritonavir/lopinavir
+T29	FARMACO 580 591	Tocilizumab
+T30	FARMACO 602 613	Ceftriaxona
+T31	FARMACO 678 695	metilprednisolona
+T32	FARMACO 747 757	prednisona
+T33	FARMACO 803 811	Anakinra
+T34	FARMACO 850 861	baricitinib
+T35	FARMACO 1469 1479	prednisona
+T36	FARMACO 1256 1260	HBPM
+T37	PROCEDIMIENTO 1269 1284	anticoagulantes
+T38	HUMANO 1 9	Paciente
+T39	SINTOMA 183 227	infiltrado intersticial bilateral periférico
+T40	SINTOMA 240 282	frotis que resultó positivo para Covid- 19
+T41	SINTOMA 1007 1051	opacidades en vidrio deslustrado bilaterales
+T42	SINTOMA 1388 1399	infiltardos
+T43	PROCEDIMIENTO 1671 1673	LN
+T44	PROCEDIMIENTO 530 539	analítica
+T45	PROCEDIMIENTO 1537 1546	analítica
+T46	PROCEDIMIENTO 669 695	bolus de metilprednisolona
+T47	SINTOMA 1502 1521	estabilidad clínica
+T48	PROCEDIMIENTO 1523 1534	radiológica
+T49	PROCEDIMIENTO 542 558	radiológicamente
+T1	SINTOMA 1154 1196	persistencia de los requerimientos de Fi02
+T2	SINTOMA 774 788	escasa mejoría

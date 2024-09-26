@@ -1,0 +1,26 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+NEUMONIA X COVID
+
+protocolo:
+ANGIO-TC TORÁCICO URGENTE: Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Extenso enfisema subcutáneo cervical izquierdo que se extiende caudalmente por la pared torácica lateral y posterior izquierda.
+Severo y extenso neumomediastino de predominio anterior y lateral derecho con componente ascendente en el espacio visceral del cuello y componente caudal que se extiende a hemiabdomen superior. Condiciona un desplazamiento posterior del mediastino y las estructuras abdominales visualizadas, sin imagen TC valorable que sugiera fistulización de origen traqueo-esofágico.
+Se identifica alguna imagen lineal radiolucente que sugiere mínimo enfisema paraseptal peribroncovascular lobar superior derecho que puede estar en relación con barotrauma.
+No se observa neumotórax, derrame pleural ni pericárdico.
+Parénquima pulmonar con opacidades en vidrio deslustrado difusos y bilaterales -multifocal y multilobular-  que a nivel de campos pulmonares inferiores asocian focos consolidativos con broncograma aéreo en su interior (+/- componente atelectásico), todo ello compatible con neumonía bilateral por COVID-19.
+No se visualizan defectos de repleción intraluminal vasculares que sugieran TEP en las arterias pulmonares principales, en sus ramas lobares ni segmentarias valorables. Tronco de la arteria pulmonar permeable de calibre normal. Sin signos de sobrecarga ventricular derecha.
+IOT a 4.5 cm de la carina. Sonda nasogástrica con extremo distal en fundus, con imagen de loop. CVC derecho con extremo distal en AD.
+Pequeño bazo accesorio yuxtahiliar.
+
+conclusiones:
+Sin signos angio-TC de TEP. Importante neumomediastino que se extiende a abdomen y asocia llamativo enfisema cervical y de pared torácica en el lado izquierdo. Sin evidencia concluyente de imágenes de solución de continuidad directa traqueal o esofágica. Algunas imágenes sugestivas de enfisema paraseptal intrapulmonar en LSD (¿barotrauma?).
+Neumonía bilateral por COVID con opacidades en vidrio deslustrado y consolidaciones bibasales.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

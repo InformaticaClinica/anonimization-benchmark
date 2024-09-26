@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Neumonia por SaRS-CoV-2. +21d. Persiste infiltrados bilaterales, han aumentado requerimientos de oxígeno. Solicitamos TC tórax para descartar NO. Gracias.
+INFECCIÓN RESPIRATORIA POR SARS-COV-2
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Prótesis valvular mitral.
+No se observa derrame pleural ni pericárdico.
+Granulomas calcificados bilaterales.
+Moderadao enfisema centrolobulillar y paraseptal,Ténue vidrio deslustrado, focos consolidativo y "crazy paving" subpleural de predominio subpleural compatible con neumonia COVID en fase reabsortiva, sin cambios organizativos valorables.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

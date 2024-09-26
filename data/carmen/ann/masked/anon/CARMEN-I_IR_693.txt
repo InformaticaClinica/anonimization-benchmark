@@ -1,0 +1,34 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+SANGRADO ABDOMINAL
+ADK PANCREAS E.IV
+
+protocolo:
+TC abdominal en fase basal, arterial, portal y excretora urgente.
+
+resultados:
+Se compara con el TC previo del [**FECHAS**]
+Leve derrame pleural bilateral de predominio derecho.
+Hematoma subcapsular esplénico de unos 32 mm de grosor que condiciona efecto de masa sobre el bazo. Adicionalmente se identifican algunas áreas hipocaptantes en la periferia esplénica que se normalizan en fases tardías, en probable relación a alteración de la perfusión por compresión extrínseca del hematoma. Se aprecia un ténue foco de extravasación de contraste en fases arteriales que aumenta marcadamente en fases tardías, en relación a sangrado activo subcapsular.
+Ascitis difusa, con engrosamiento sólido del epiplon mayor y con múltiples engrosamientos nodulares sólidos del peritoneo parietal en relación con carcinomatosis, ya conocido. Se aprecia un aumento de la densidad del liquido ascitio a nivel periesplénico y perigástrico en relación a hemoperitoneo.
+Drenaje con entrada en vacío izquierdo y extremo distal en pelvis.
+Discreto neumoperitoneo probablemente secundario a la colocación del drenaje. No se identifican colecciones intraadominales.
+Hígado de tamaño normal con heterogenicidad del hepatograma en fases areteriales y venosas que se normaliza en fases tardías, en relación a alteración de la perfusión secundaria a fístula arterioportal ya conocida. Estabilidad del quiste simple en el segmento IV. Aumento franco del tamaño de la lesión hipodensa situada en el s. II. sugestiva de M1. Estabilidad de la imagen ovalada en el s VII hipervascular, no visible en otras fases, indeterminada.
+Vesícula biliar distendida de paredes finas. Vía biliar intrahepática no dilatada. Aerobilia.
+Vena porta y eje esplenomesentérico permeables.
+Glándulas suprarrenal izquierda sin alteraciones. Nodulo suprarrenal derecho infracentimétrico sin cambios.
+Riñones de morfología y tamaño normal. No se observa dilatación de la vía excretora.
+Leve aumento de la masa tumoral polilobulada en la cabeza pancreática y proceso uncinado que condiciona dilatación del conducto de Wirsung (mas evidente en la actualidad) en relación a proceso neoformativo ya conocido. Prótesis en colédoco con gas en su interior. Stent duodenal.
+Las múltiples adenopatías de pequeño tamaño inter-aórtico-cavales, retro-cavales, recesos cardiofrénicos y paraaórticas ya conocidas.
+Resto del estudio sin cambios respecto al previo.
+
+conclusiones:
+-Signos de sangrado activo subcapsular esplénico con hemoperitoneo asociado.
+-Discreto neumoperitoneo probablemente secundario a la colocación de drenaje peritoneal.
+Ver resultados.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

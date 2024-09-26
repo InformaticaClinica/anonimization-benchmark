@@ -1,0 +1,49 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], no antecedentes de alergias menicamentosas conocidas, exfumadora por 26 años de 2 paquetes de cigarrillos/día, hasta el [**FECHAS**].
+IPA 52 paquetes/año.
+Independiente para las actividades básicas de la vida diaria.
+Vive con [**FAMILIARES_SUJETO_ASISTENCIA**] ([**FAMILIARES_SUJETO_ASISTENCIA**] SARS-COV2 positiva e [**FAMILIARES_SUJETO_ASISTENCIA**] negativo).
+ANTECEDENTES MÉDICOS
+- HIPERTENSIÓN ARTERIAL desde [**FECHAS**] en tratamiento médico (mala tolerancia a IECAS).
+- DIABETES MELLITUS TIPO 2 en tratamiento con antidiabéticos orales, HbA1c 7.2% ([**FECHAS**]).
+- DISLIPEMIA en tratamiento farmacológico.
+- HIPERREACTIVIDAD BRONQUIAL. Pruebas de función respiratoria [**FECHAS**]: [**FECHAS**]. FVC 3.60 (97.5) FEv1 2.99 (100.2) R 82.91, DLCO 95.6, KCO 102.3.
+No realizó prueba de metacolina.
+- HIPOTIROIDISMO PRIMARIO AUTOINMUNE ([**FECHAS**]: Anticuerpos AntiTPO 5655.7, Anticuerpos antiroglobulina 152.7) desde [**FECHAS**] en tratamiento sustitutivo.
+* Eco [**FECHAS**]: Tiroides de ecoestructura homogénea, irregular. Señal doppler normal. LTD nodulo hiperecoico halo hipoecoico de 3mm Istmo nodulo hiperecoico halo hipoecoico de 11mm LTI nodulo hiperecoico halo hipoecoico de 6mm y otro de paret totalmente calcificada de 8mm.
+* Bocio multinodular con 4 nódulos no sospechosos el mayor de 11 mm en istmo sobre el que se realizó PAAF (sin material suficiente para diagnóstico) [**FECHAS**].
+- OBESIDAD GRADO III con IMC 42. Valorada en el CAP por Edocrino, pendiente de valoración en unidad de Obesidad de [**HOSPITAL**].
+- INSUFICIENCIA RENAL CRÓNICA secundaria a glomerulonefritis de cambios mínimos diagnosticada diagnosticada por biopsia renal en [**FECHAS**] a raíz de sindrome nefrótico, refractaria a corticoides y tacrólimus (aunque a posteriori parece probable que sea 2a a nefropatia mebranosa).
+** Colocación catéter diálisis peritoneal [**FECHAS**].
+** Inicio de DP en DPCA en [**FECHAS**]. Diurésis residual de 1.5 L al día y una TFG de 8-11 ml/min.
+** Detuvo DP tras IQ de hernia umbilical ([**FECHAS**]) para cicatrización.
+- TRDC asistolia tipo 2 ([**FECHAS**]) en FID
+** ISS: Timoglobulina + Tacrolimus + Micofenolato + Prednisona
+** Transfusión 1 concentrado de hematíes durante IQ
+** DGF sin requerimiento de HD
+** ITU por E coli --> ceftriaxona --> piperazilina/Tazobactan
+** Biopsia [**FECHAS**] --> signos NTA sin signos de rechazo
+** Creatinina al alta 3.6mg/dl
+** Creatinina basal 1.6-1.9mg/dl (última 1.6mg/dl en [**FECHAS**])
+** Nefropatia membranosa en injerto renal ([**FECHAS**]). AntiPLA2 438 ([**FECHAS**]); 15.8 ([**FECHAS**]). Función renal normal Cr 1.07 mg/dL ([**FECHAS**]).
+Proteinuria nefrótica (Alb/Cr 4232/A mg/g creatinin)
+ANTECEDENTES QUIRÚRGICOS:
+- Colocación catéter Tenkchoff ([**FECHAS**]).
+- Plastía de hernia umbilical y colocación malla preperitoneal ([**FECHAS**])
+- Tx renal ([**FECHAS**])
+MEDICACIÓN HABITUAL [**FECHAS**]
+- Metformina tableta de 850 mg 1/2 -0 - 1/2.
+- Pantoprazol 40 mg 1-0-0
+- Cotrimoxazol 800/160 mg los dias lunes - miercoles y viernes.
+- Prednisona 2.5 mg día alternos.
+- Amlodipino 5 mg 1-0-1
+- Olmesartán 20 mg 1-0-0
+- Alprazolam 0.25 mg 0-0-1 (no lo toma).
+- Eutirox 175 mcgr 1-0-0.
+- Ezetimibe 10 mg 0-1-0
+- Calcitriol 0.5 mcgr  cada dos días.
+- Tacrolimús 3 mg 1-0-0
+- Micofenolato 360 mg 1-0-1
+- Fenofibrato 160 mg 0-0-01
+- Magnesio 1-0-0
+Recientemente añaden: Budesonida inhalador y Salbutamol inhalador.

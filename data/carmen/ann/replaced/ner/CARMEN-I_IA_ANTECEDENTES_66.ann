@@ -1,0 +1,46 @@
+T11	ENFERMEDAD 590 610	hidrocefalia crónica
+T12	ENFERMEDAD 615 650	agenesia parcial del cuerpo calloso
+T13	ENFERMEDAD 684 717	hidrocefalia de origen acueductal
+T14	ENFERMEDAD 928 950	trastorno psiquiátrico
+T15	ENFERMEDAD 1003 1020	trastorno bipolar
+T16	ENFERMEDAD 1023 1032	depresión
+T17	ENFERMEDAD 1483 1514	abuso de fármaco dopaminérgicos
+T18	FARMACO 1216 1225	bupropión
+T19	FARMACO 1237 1250	metilfenidato
+T20	FARMACO 1666 1679	metilfenidato
+T21	FARMACO 1687 1697	alprazolam
+T22	FARMACO 1704 1716	clomipramina
+T23	FARMACO 1724 1734	topiramato
+T24	FARMACO 1743 1753	metformina
+T25	FARMACO 1762 1773	propranolol
+T26	FARMACO 1781 1794	amitriptilina
+T27	FARMACO 1802 1814	simvastatina
+T28	FARMACO 1823 1834	pregabalina
+T29	FARMACO 1842 1852	clonazepam
+T30	FARMACO 1861 1870	trazodona
+T31	HUMANO 0 5	Varón
+T32	HUMANO 136 140	hija
+T33	HUMANO 189 220	Dentista de la seguridad social
+T34	HUMANO 907 915	paciente
+T35	HUMANO 1592 1596	hija
+T36	PROCEDIMIENTO 414 438	estudio neuropsicológico
+T37	PROCEDIMIENTO 563 574	RM cerebral
+T38	PROCEDIMIENTO 660 671	RM dinámica
+T39	PROCEDIMIENTO 763 790	tratamiento neuroquirúrgico
+T40	PROCEDIMIENTO 1174 1188	antidepresivos
+T41	SINTOMA 335 352	quejas de memoria
+T42	SINTOMA 355 378	desorientación espacial
+T43	SINTOMA 1085 1121	rasgos de alteración de personalidad
+T44	SINTOMA 1323 1329	estrés
+T45	ENFERMEDAD 22 45	alergias medicamentosas
+T46	SINTOMA 262 290	QUEJAS SUBJETIVAS DE MEMORIA
+T47	ENFERMEDAD 292 312	HIDROCEFALIA CRÓNICA
+T48	SINTOMA 468 488	disfunción ejecutiva
+T49	SINTOMA 495 555	reducción de la velocidad de procesamiento de la información
+T50	HUMANO 732 735	NRC
+T51	SINTOMA 799 816	quejas de memoria
+T52	ENFERMEDAD 869 891	TRASTORNO PSIQUIÁTRICO
+T53	PROCEDIMIENTO 1202 1213	tricíclicos
+T54	ENFERMEDAD 1334 1349	Crisis comicial
+T55	FARMACO 1516 1525	bupropion
+T1	ENFERMEDAD 60 75	hábitos tóxicos

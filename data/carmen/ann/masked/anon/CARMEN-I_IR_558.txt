@@ -1,0 +1,23 @@
+
+prueba:
+ESTUDIO DEGLUCION
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**]. Post COVID, ahora negativo. IOT + VM, traqueostomía, decanulado el [**FECHAS**]. Herida OK, algo de fuga, el paciente va con dieta disfágica.
+Solicitamos videodeglución.
+TRAQUEOSTOMIA. DISFAGIA
+
+protocolo:
+Estudio de la deglución
+
+resultados:
+Con la densidad néctar se aprecia paso importante del contraste a vías aéreas.
+En estos casos no administramos contraste con densidad líquido.
+Con la administración de contraste con densidad puding no se aprecia paso  evidente del mismo a vías aéreas (el contraste que se observa en estas vías corresponde al ingerido en primer lugar, el  de densidad néctar).
+En la placa de control al final de la exploración se aprecia importante retención de contrastee en valléculas y senos piriformes.
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

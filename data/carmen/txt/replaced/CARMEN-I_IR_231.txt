@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Deteriorament respiratori en pacient amb COVID i augment DD. Persisteix amb elevats requeriments de FiO2 pel que interessa angioTC pulmonar.
+Moltes gràcies.
+PNEUMONIA POR COVID
+
+protocolo:
+Angio-TC pulmonar urgente adquirido mediante energía dual.
+
+resultados:
+Tubo endotraqueal con extremo distal a 3 cm de la carina. Sonda nasogástrica normoposicionada. Catéter de acceso venoso yugular derecho con extremo distal en vena cava superior.
+En el momento actual no se aprecian defectos de repleción en el árbol arterial pulmonar ni alteraciones en los mapas de yodo que sugieran TEP agudo. Arteria pulmonar de calibre conservado.
+Ateromatosis calcificada aórtica y de arterias coronarias. Mínimo derrame pericárdico de predominio anterior (grosor máximo de 9 mm). No se observa derrame pleural.
+Sin evidencia de adenopatías axilares o mediastínicas valorables.
+Presencia de secreciones endoluminales en tráquea, bronquios lobar y segmentarios del lóbulo inferior izquierdo y segmentarios del lóbulo inferior derecho. Condicionan un colapso total del LII y parcial del LID, que presentan una correcta captación parenquimatosa de contraste.
+Opacidades en vidrio deslustrado bilaterales y periféricas con bandas subpleurales de parénquima respetado de predominio en lóbulos inferiores y lóbulo superior izquierdo. En LID y LSI asocian algunos focos consolidativos periféricos con broncograma aéreo y mínimos cambios organizativos. No se aprecian signos de fibrosis. Estos hallazgos son compatibles con afectación pulmonar por COVID-19.
+En las secciones abdominales incluidas en el estudio se aprecia una vesícula biliar parcialmente distendida (aspecto no hidrópico), con edema perivesicular y sin trabeculación de la grasa adyacente. Estos hallazgos pueden estar en correlación con el estado hemodinámico de la paciente, si bien no permiten descartar una colecistitis aguda (menos probable), a correlacionar con la clínica.
+
+conclusiones:
+- Sin signos de TEP agudo en el momento actual.
+- Mínimo derrame pericárdico.
+- Colapso total del LII y parcial del LID en relación a presencia de secreciones endobronquiales a dicho nivel.
+- Parénquima pulmonar con hallazgos compatibles con afectación por COVID-19 con mínimos cambios organizativos y sin signos de fibrosis, todo ello en probable relación a evolución natural de la enfermedad.
+- Vesícula biliar no hidrópica pero con edema perivesicular, hallazgos que si bien pueden estar en relación al estado hemodinámico de la paciente no permiten descartar una colecistitis aguda. A correlacionar estrictamente con la clínica.
+
+descrip:
+ANGIO TC PULMONAR

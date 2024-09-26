@@ -1,0 +1,8 @@
+ Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. Niega hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS:
+-[**FAMILIARES_SUJETO_ASISTENCIA**] de HIPERTENSIÓN ARTERIAL en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**] -[**FAMILIARES_SUJETO_ASISTENCIA**] de COLITIS ULCEROSA en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**].
+-[**FAMILIARES_SUJETO_ASISTENCIA**] de [**AFECCION**] en tratamiento con [**MEDICAMENTO**]; [**MEDICAMENTO**] - [**FAMILIARES_SUJETO_ASISTENCIA**] de [**AFECCION**] en tratamiento con [**MEDICAMENTO**]
+TRATAMIENTO HABITUAL: [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**].
+
+(Note: I have replaced specific personal details with general tags, but I cannot confirm if the family history tags are accurate as the text only mentions 'SDR. DEPRESIVO' which could refer to a family member or the patient themselves.)

@@ -1,0 +1,24 @@
+Antecedentes personales:
+Sin alergias medicamentosas conocidas ni hábitos tóxicos. Deterioro funcional progresivo tras la muerte de su [**FAMILIARES_SUJETO_ASISTENCIA**]. Independiente para ABVD con un Barthel de 85. Vive sola en casa con ayuda de una [**OTROS_SUJETO_ASISTENCIA**] las 24h. Utiliza [**OTROS_SUJETO_ASISTENCIA**] para desplazarse.
+** ANTECEDENTES PATOLÓGICOS:
+1. [**ENFERMEDAD**] en tratamiento farmacológico.
+2. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**] + [**MEDICAMENTO**] con adherencia parcial a tratamiento.Control por su [**NOMBRE_PERSONAL_SANITARIO**]. Última HbA1c [**NUMERO**]% ([**FECHAS**])
+3. [**ENFERMEDAD**] sin tratamiento farmacológico.
+4. [**ENFERMEDAD**] con [**ENFERMEDAD**] que requirió implante de [**OTROS_SUJETO_ASISTENCIA**] el [**FECHAS**] Generador [**INSTITUCION**].
+5. [**ENFERMEDAD**] con [**ENFERMEDAD**] preservada. Último ecocardiograma: [**ENFERMEDAD**] [**NUMERO**]%, con válvula aórtica trivalva de sigmoides con apertura conservada y regurgitación ligera moderada
+6. [**ENFERMEDAD**] en control por [**NOMBRE_PERSONAL_SANITARIO**] que ha requerido dos infiltraciones en el último año Ecografía [**PARTE_CUERPO**] ([**FECHAS**]): [**ENFERMEDAD**]; [**ENFERMEDAD**]; [**ENFERMEDAD**] normales; cambios degenerativos en articulación [**PARTE_CUERPO**].
+7. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**].
+8. [**ENFERMEDAD**] en tratamiento farmacológico.
+** INTERVENCIONES QUIRÚRGICAS:
+- [**PROCEDIMIENTO**] y aspiración de [**ENFERMEDAD**] en ambos ojos en [**FECHAS**] en control por [**NOMBRE_PERSONAL_SANITARIO**] [**HOSPITAL**].
+- [**ENFERMEDAD**] + [**ENFERMEDAD**] : [**PROCEDIMIENTO**] + [**PROCEDIMIENTO**] ([**FECHAS**]).
+**MEDICACIÓN HABITUAL (actualizada [**FECHAS**]):
+- [**MEDICAMENTO**] [**NUMERO**]UI cada [**NUMERO**]h vía subcutánea [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**]UI cada [**NUMERO**]h vía subcutánea [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**]mg medio comprimido cada [**NUMERO**]h vía oral [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**]mg cada [**NUMERO**]h vía oral [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**] mg cada [**NUMERO**]h vía oral [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**]mg cada [**NUMERO**]h vía oral
+- [**MEDICAMENTO**] [**NUMERO**]mg dos cápsulas cada [**NUMERO**]h vía oral [**HORARIO**]
+- [**MEDICAMENTO**] [**NUMERO**]mg cada [**NUMERO**]h vía oral si precisa
+- [**MEDICAMENTO**] [**NUMERO**]mg cada [**NUMERO**]h vía oral [**HORARIO**].

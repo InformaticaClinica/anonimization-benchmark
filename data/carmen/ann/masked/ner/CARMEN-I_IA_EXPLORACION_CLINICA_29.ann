@@ -1,0 +1,28 @@
+T7	SINTOMA 360 370	Consciente
+T8	SINTOMA 372 400	orientado en persona y lugar
+T9	SINTOMA 402 424	desorientado en tiempo
+T10	SINTOMA 643 664	ingurgitación yugular
+T11	SINTOMA 666 707	pulsos periféricos palpables y simétricos
+T12	SINTOMA 769 795	Abdomen: blando depresible
+T13	SINTOMA 869 890	irritación peritoneal
+T14	SINTOMA 917 951	Dolor a la palpación paravertebral
+T15	SINTOMA 995 1010	MMII: No edemas
+T16	SINTOMA 426 444	Eupneico en reposo
+T17	SINTOMA 446 460	Normocoloreado
+T18	SINTOMA 462 483	mucosas deshidratadas
+T19	SINTOMA 485 507	Regular estado general
+T20	SINTOMA 514 547	Pupilas isocóricas fotorreactivas
+T21	SINTOMA 549 573	pares craneales normales
+T22	SINTOMA 608 627	AC: tonos rítmicos,
+T23	SINTOMA 632 638	soplos
+T24	SINTOMA 713 742	murmullo vesicular conservado
+T25	SINTOMA 892 907	RHA conservados
+T26	SINTOMA 982 993	crepitación
+T27	SINTOMA 956 968	deformidades
+T28	SINTOMA 579 606	focalidad neurológica aguda
+T29	SINTOMA 747 767	ruidos sobreañadidos
+T30	SINTOMA 797 844	doloroso a la palpación de mesogastrio y flanco
+T31	ENFERMEDAD 1025 1034	trombosis
+T32	PROCEDIMIENTO 319 337	EXPLORACIÓN FÍSICA
+T33	PROCEDIMIENTO 709 711	AR
+T34	PROCEDIMIENTO 24 38	Pulsioximetría

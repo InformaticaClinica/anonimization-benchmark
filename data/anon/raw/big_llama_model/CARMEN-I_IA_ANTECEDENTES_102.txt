@@ -1,0 +1,16 @@
+ Alergia al [**NUMERO_IDENTIF**]. Intolerancia al [**OTROS_SUJETO_ASISTENCIA**]. No hábitos tóxicos.Madre con ca. mama metastasico.
+* ANTECEDENTES PATOLÓGICOS:
+1. APLASIA MEDULAR GRAVE. Dx [**FECHAS**] C. La Salud.
+>TTO:  CsA desde [**FECHAS**]: sin respuesta. - ATG [**OTROS_SUJETO_ASISTENCIA**] [**FECHAS**] + CsA [**NUMERO_TELEFONO**] + Eltrombopag [**NUMERO_TELEFONO**] (inicia [**FECHAS**] por completar 6m). - CsA [**NUMERO_TELEFONO**] (stop [**FECHAS**] por temblores) + reinicio Eltrombopag [**FECHAS**] - Stop eltrombopag [**FECHAS**] por ausencia de respuesta. - Danazol [**NUMERO_TELEFONO**] + Tacrolimus (inicia el [**FECHAS**])
+* AMO ([**FECHAS**]): hipocelular, elementos del estroma (linfocitos y plasmocitos). Poblaciones linfocitarias con inversión de cociente CD4/CD8. Presencia de clona HPN (neutrófilos [**NUMERO_TELEFONO**], monocitos [**NUMERO_TELEFONO**], eritrocitos [**NUMERO_TELEFONO**]).
+Progresión de la aplasia medular con soporte transfusional + corta duración de la respuesta a ATG e imposibilidad para CsA, se decide realizar TPH haploidéntico.
+REEVALUACIÓN
+- AMO ([**FECHAS**]): Hipocelular, presencia de precursores granulocíticos ymegacariocíticos con refuerzo de la granulación.
+- QM en SP ([**FECHAS**]): QM completa del donante en leucocitos totales.
+2. ESCLEROSIS MÚLTIPLE R/R. Seguimiento por NRL. Brotes en [**FECHAS**] y [**FECHAS**] de [**FECHAS**]. RM craneal con criterios de diseminación en tiempo y espacio.
+Seqüeles: visió borrossa. Hipoestèsia i disestèsies mà [**SEXO_SUJETO_ASISTENCIA**].
+3.METRORRAGIAS
+4.QUISTE PILONIDAL estable
+* TRATAMIENTO HABITUAL ([**FECHAS**]): CsA [**NUMERO_TELEFONO**], Aciclovir [**NUMERO_TELEFONO**].
+Pentamidina (última [**FECHAS**]). Pantoprazol [**NUMERO_TELEFONO**]. Mg [**NUMERO_TELEFONO**]. Calcio [**NUMERO_TELEFONO**]. Zolpidem [**NUMERO_TELEFONO**]. Gembifrozilo [**NUMERO_TELEFONO**], Gabapentina [**NUMERO_TELEFONO**]. Hidroferol/[**NUMERO_TELEFONO**], Clonazepam [**NUMERO_TELEFONO**] (la dosis de la noche PRN). Lorazepam [**NUMERO_TELEFONO**] sp. Primperan [**NUMERO_TELEFONO**] (no lo toma). Movicol sp. Posaconazol [**NUMERO_TELEFONO**] (stop [**FECHAS**]). G-CSF semanal (martes), Zolpidem PRN, Lederfolin [**NUMERO_TELEFONO**].
+VACUNACIÓN COVID 19: Moderna. 1a dosis [**FECHAS**]; 2a dosis [**FECHAS**] (serología negativa [**FECHAS**]); 3a dosis al [**FECHAS**]. Desembre serologia negativa.

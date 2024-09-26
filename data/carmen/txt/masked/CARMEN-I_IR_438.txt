@@ -1,0 +1,27 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] portador de DAI biventricular (cable ventriculos derecho e izquierdo). Insuficiencia renal crónica grave. Ingresa por insuficiencia renal agudizada en contexto de hidronefrosis por obstrucción prostática que mejora con sondaje urinario. Presenta fiebre con crecimiento de S.Aureus persistentemente en hemocultivos y una vía que se retiró. En PET-TAC de [**HOSPITAL**] dudosa captación en el DAI (generador y cable) pero se han revisado imágenes en [**HOSPITAL**] y y son dudosas.
+Solicitamos PET-TAC en nuestro centro para descartar captación en el dispositivo (que requeriría retirada quirúrgica del mismo) o en algún otro foco como pueda ser una tromboflebitis.
+
+protocolo:
+Radiofármaco: Fluorodesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 8.56 mCi de FDG.
+Glucemia en el momento de la inyección de FDG: 113 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+En el estudio actual no se aprecian depósitos patológicos del radiofármaco en el bolsillo del DAI como así tampoco en el trayecto de los cables.
+Se aprecia intensa actividad del radiofármaco en el extremo axilar del PICC derecho que se explica por fijación del mismo a probables depósitos de fibrina ya que ha sido administrado por esta vía. No obstante, al observarse en las imágenes del TC la presencia de pequeñas burbujas aéreas en el extremo axilar del PICC, aconsejamos exploración clínica de la región y eventual ampliación de estudio con ecografía.
+Intenso depósito patológico del radiofármaco en opacidades pulmonares bilaterales ya conocidas, atribuibles a infección
+En el resto de los sectores corporales estudiados no se aprecian otros depósitos patológicos del radiofármaco ni hallazgos sugestivos de émbolos sépticos.
+
+conclusiones:
+Estudio PET/TC que no muestra signos sugestivos de infección del DAI.
+Infección pulmonar por SARS-CoV-2. Aconsejamos valorar extremo axilar del PICC (Ver resultados).
+
+descrip:
+PET TC COS SENCER FDG

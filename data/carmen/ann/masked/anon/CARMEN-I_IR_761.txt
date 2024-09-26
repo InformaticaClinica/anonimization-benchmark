@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con sospecha de TEP
+Reactantes de fase aguda con buena evolución pero Dímero D de 76000 Solicitamos AngioTC Urgente
+Gracias
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD. Se compara con estudio previo del [**FECHAS**].
+
+resultados:
+Pequeño defecto de repleción intravascular en rama subsegmentaria de la arteria lingular sugestivo de TEP agudo. No se observan otros defectos de repleción en las arterias pulmonares.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de hipertensión pulmonar. No se observan signos de sobrecarga ventricular derecha.
+Adenopatía hiliar derecha (10mm), paratraqueal anterior derecha (10 mm).
+Múltiples ganglios paratraqueales altos y prevasculares infracentimétricos, inespecíficos. Ganglios mediastínicos calcificados a nivel subaórtico y paratraqueal izquierdo bajo.
+No se observa derrame pericárdico.
+Importante derrame pleural derecho y en cisura mayor. Atelectasia del parénquima adyacente con una pequeña área hipocaptante, menos evidente que en el control anterior.
+Múltiples áreas mal definidas con bronquiolectasias y atelectasias laminares que afectan el pulmón izquierdo de forma similar al control del [**FECHAS**].
+
+conclusiones:
+-TEP agudo subsegmentario en arteria lingular.
+-Derrame pleural derecho.
+-Hallazgos parenquimatosos pulmonares similares al control anterior.
+
+descrip:
+ANGIO TC PULMONAR

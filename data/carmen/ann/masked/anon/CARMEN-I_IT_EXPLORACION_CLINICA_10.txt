@@ -1,0 +1,13 @@
+[**FECHAS**]-20:30:00: Glicemia capilar (mg/dl) 79. [**FECHAS**]-21:13:00 : Pulsioximetría (%) 97. [**FECHAS**]-21:14:00 : PAS (mm Hg) 199, PAD (mm Hg ) 82. [**FECHAS**]-21:16:00 : Ta axilar (oC) 36.7. [**FECHAS**]-23:12:10 : P eso (Kg) 100. [**FECHAS**]-00:00:00 : Frecuencia respiratoria (rpm) 20. [**FECHAS**]-17:30:00 : FiO2 (%) 24.
+* EXPLORACIÓN FÍSICA EN URGENCIAS:
+Conciente orientado en tiempo espacio y persona,
+Hipertenso, taquipneico, febril.
+AR: MVC crepitanbtes finos en todo el campo pulmonar izquierdo y base de derecho.
+AC: Rítmico no soplos, no IGY, no edemas en miembros inferiores nin singos de TVP.
+ABD: blando depresible no doloroso a la palpación superficial ni profunda. Peristaltismo conservado.
+* EXPLORACIÓN FÍSICA EN SALA [**NUMERO_IDENTIF**]
+- GRAL: afebril, en regular estado general, palidez leve.
+- NEURO: vigil, orientado, no signos de focalización.
+- TyP: taquipneico a 30 rpm, satO2 96% con VMK 24%, hipofonesis global, crepitantes en ambas bases y algunos difusos en tercios medios.
+- CV: tendencia a hipertensión sistólica, ruidos cardíacos rítmicos, de baja intensidad, no IY, edemas 1+ en zonas de declives hasta muslos.
+- Abdomen: RHA presentes, blando, depresible, no doloroso.

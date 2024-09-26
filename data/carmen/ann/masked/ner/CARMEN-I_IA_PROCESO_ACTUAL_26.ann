@@ -1,0 +1,39 @@
+T5	ENFERMEDAD 862 871	infección
+T6	FARMACO 967 979	dexametasona
+T7	FARMACO 989 1000	paracetamol
+T8	FARMACO 1009 1020	enoxaparina
+T9	HUMANO 602 610	paciente
+T10	HUMANO 833 841	Paciente
+T11	PROCEDIMIENTO 451 471	Radiografía torácica
+T12	PROCEDIMIENTO 806 822	Frotis SARS-CoV2
+T13	SINTOMA 104 124	sensación distérmica
+T14	SINTOMA 126 133	astenia
+T15	SINTOMA 136 144	mialgias
+T16	SINTOMA 174 180	fiebre
+T17	SINTOMA 189 192	tos
+T18	SINTOMA 195 248	disnea progresiva hasta hacerse de pequeños esfuerzos
+T19	SINTOMA 251 267	falta de apetito
+T20	SINTOMA 277 284	anosmia
+T21	SINTOMA 287 294	ageúsia
+T22	SINTOMA 309 320	taquipneico
+T23	SINTOMA 325 345	trabajo respiratorio
+T24	SINTOMA 368 394	crepitantes en ambas bases
+T25	SINTOMA 436 449	acceso de tos
+T26	SINTOMA 476 508	infiltrado intesticial bilateral
+T27	SINTOMA 684 691	astenia
+T28	SINTOMA 693 709	malestar general
+T29	SINTOMA 712 732	sensación distérmica
+T30	SINTOMA 742 748	fiebre
+T31	SINTOMA 754 774	sensación distérmica
+T32	SINTOMA 806 831	Frotis SARS-CoV2 positivo
+T34	SPECIES 14 23	SARS-CoV2
+T36	SPECIES 813 822	SARS-CoV2
+T37	PROCEDIMIENTO 0 53	Vacunado para SARS-CoV2 el día [**FECHAS**] (Janssen)
+T38	SINTOMA 406 427	sibilante espiratorio
+T39	SINTOMA 548 558	limfopenia
+T40	SINTOMA 581 597	Ddímero negativo
+T41	PROCEDIMIENTO 560 570	bioquímica
+T42	PROCEDIMIENTO 611 667	se vacunó el pasado [**FECHAS**] vacuna mondosis Janssen
+T43	SINTOMA 882 898	elevación de RFA
+T45	PROCEDIMIENTO 534 543	Analítica
+T46	PROCEDIMIENTO 905 914	analítica

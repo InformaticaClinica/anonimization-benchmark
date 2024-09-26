@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], con antecedente de Fibrosis Pulmonar, ingresado por Neumonía bilateral por COVID-19. Evoluciona con insuficiencia respiratoria (LAF al 55%), dímero-d en ascenso de 9000. Solicitamos angioTC para descartar TEP.
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE: adquisición mediante energía dual.
+
+resultados:
+Se compara con estudio previo de hace 1 año ([**FECHAS**]).
+Se observan un defecto de replección intraarterial en rama para el segmento lateral del LM, compatible con TEP segmentario en dicho nivel.
+Estabilidad de la dilatación del tronco de la arteria pulmonar (37 mm), sugestivo de hipertensión pulmonar. Reflujo de contraste a venas suprahepáticas, que podría estar en relación a insuficiencia de cavidades derechas (probablemente todo ello secundario a la neumopatía de base).
+Múltiples ganglios mediastínicos (hiliares bilaterales, subcarinales), con leve aumento de tamaño de los paratraqueales derechos, que son de tamaño borderline.
+Leve ateromatosis calcificada en la aorta torácica y en arterias coronarias.
+Traqueombroncomegalia con engrosamientos parietales difusos, estable.
+No se observa derrame pleural ni pericárdico.
+Extensa afectación parenquimatosa pulmonar con reticulación subleural, bronquiectasias y broncoliectasias de tracción, y áreas de panalización, de predominio basal y subpleural. Extensas calcificacione pulmonares dendríticas. Todo ello en relación a neumopatía intersticial fibrosante con patrón de NIU.
+Aparición de extensas áreas de vidio deslustrado de distribución peribroncovascular, con afectación predominante en lóbulos superiores, que sugieren reagudización de la NIU como primera opción, sin poder descartar afectación por COVID-19 ya conocida (aunque no sería el patrón típico).
+Pequeña hernia de hiato.
+
+conclusiones:
+Estabilidad del patrón de neumopatía intersticial fibrosante tipo NIU ya conocida, con aparición de extensas áread de vidrio deslustrado peribroncovascular en LLSS, que sugiere reagudización de la NIU como primera opción, sin poder descartar a afectación por COVID-19 conocido (no sería el patrón tipico).
+TEP segmentario en LM asociado a signos de hipertensión pulmonar ya conocidos (probablemetne secundario a su enf. de base).
+
+descrip:
+ANGIO TC PULMONAR

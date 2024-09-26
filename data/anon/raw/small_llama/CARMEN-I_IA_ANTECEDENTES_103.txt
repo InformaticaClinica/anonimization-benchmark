@@ -1,0 +1,21 @@
+ Antecedentes familiares: Sin interés
+Antecedentes personales:
+Varón de [**EDAD_SUJETO_ASISTENCIA**] años, jubilado, trabajaba en una [**PROFESION**], no alergias medicamentosas conocidas ni hábitos tóxicos, independiente para actividades básicas de la vida diaria.
+ANTECEDENTES PATOLÓGICO:
+1. CIRROSIS HEPÁTICA POR VHC.
+Complicaciones:
+- Ascitis controlada
+- Hemorragia digestiva alta variceal (2014) tx con banding
+- Trombosis venosa porto-espleno-mesenterica (2016) tx con sintrom. - LOEs (2016) estables en seguimiento.
+2. INSUFICIENCIA RENAL CRÓNICA con Cr [**FECHAS**].
+3. COLITIS ULCEROSA EN REMISIÓN (dx hace 30 años).
+4. SORDERA SÚBITA IZQUIERDA (2018) tratado con prednisona.
+ANTECEDENTES QUIRÚRGICOS:
+1. HERNIORRAFIA INGUINAL DERECHA Y UMBILICAL CON MALLA. Pendiente de valorar intervención de nueva hernia inguinal izquierda.
+MEDICACIÓN HABITUAL:
+- Entecavir [**NUMERO**] mg/24h
+- Acenocumarol [**NUMERO**]m
+- Espironolactona [**NUMERO**]mg
+- Metilprednisolona topica
+- Acido ursodesoxicolico [**NUMERO**]mg
+- Magnesio [**NUMERO**]mg.

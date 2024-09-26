@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+resultados:
+Aumento de densidad subpleural bilateral con claro predominio izquierdo sugestivo de afectación por COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

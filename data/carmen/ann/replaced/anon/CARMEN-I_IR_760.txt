@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Cardiomegalia.
+Múltiples parches alveolares bilaterales y difusos sugestivo de afectación pulmonar por COVID, que ha progresado discretamentecon respecto a control previo de 21-10.
+
+descrip:
+RX  PORTATIL  TORAX

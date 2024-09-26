@@ -1,0 +1,51 @@
+T6	ENFERMEDAD 1448 1466	neumonía por COVID
+T7	ENFERMEDAD 1471 1480	SDRA leve
+T8	ENFERMEDAD 1678 1681	TEP
+T9	FARMACO 309 319	Prednisona
+T10	FARMACO 1524 1536	dexametasona
+T11	HUMANO 80 84	hija
+T12	HUMANO 191 197	médico
+T13	HUMANO 234 240	médico
+T14	HUMANO 1484 1492	paciente
+T15	PROCEDIMIENTO 120 137	test de antigenos
+T16	PROCEDIMIENTO 417 426	PCR COVID
+T17	PROCEDIMIENTO 1285 1295	Hemostasia
+T18	PROCEDIMIENTO 1330 1350	Radiografía de tórax
+T19	PROCEDIMIENTO 1596 1626	se coloca PIC braquial derecha
+T20	PROCEDIMIENTO 1638 1662	gammagrafia pulmonar V/Q
+T21	SINTOMA 473 476	tos
+T22	SINTOMA 547 611	disnea progresiva que empeora hasta hacerse de mínimos esfuerzos
+T23	SINTOMA 613 624	inapetencia
+T24	SINTOMA 626 635	disgeusia
+T25	SINTOMA 638 645	anosmia
+T26	SINTOMA 656 662	fiebre
+T27	SINTOMA 665 685	sensación distérmica
+T28	SINTOMA 749 758	hipotenso
+T29	SINTOMA 807 818	taquipneico
+T30	SINTOMA 876 919	crepitantes bilaterales hasta campos medios
+T31	SINTOMA 921 951	Pulsos periféricos disminuidos
+T32	SINTOMA 997 1013	Elevación de RFA
+T33	SINTOMA 1058 1068	linfopenia
+T35	PROCEDIMIENTO 0 34	Vacunado de las 3 dosis de Moderna
+T36	SINTOMA 120 151	test de antigenos que resulta +
+T37	FARMACO 277 285	CellCept
+T38	FARMACO 355 365	Belatacept
+T39	SINTOMA 417 440	PCR COVID que resulta +
+T40	SINTOMA 481 505	expectoración prurulenta
+T41	ENFERMEDAD 421 426	COVID
+T42	SINTOMA 778 790	taquicardico
+T43	PROCEDIMIENTO 837 843	VK 35%
+T44	PROCEDIMIENTO 969 972	EAB
+T45	SINTOMA 1084 1116	empeoramientode la función renal
+T46	SINTOMA 1164 1177	ionesen rango
+T47	PROCEDIMIENTO 1103 1116	función renal
+T48	PROCEDIMIENTO 1164 1169	iones
+T49	PROCEDIMIENTO 1188 1207	Gasometria arterial
+T50	ENFERMEDAD 1212 1234	alcalosis respiratoria
+T51	PROCEDIMIENTO 1273 1282	VK al 35%
+T52	SINTOMA 1359 1397	infiltrados intersticiales bilaterales
+T53	SINTOMA 1493 1508	inmunodeprimido
+T54	PROCEDIMIENTO 1549 1558	VK al 40%
+T55	PROCEDIMIENTO 1560 1571	sueroterpia
+T56	PROCEDIMIENTO 850 861	exploración
+T1	SINTOMA 1576 1593	mejoría tensional

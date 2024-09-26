@@ -1,0 +1,3 @@
+Acudirá a CCEE de Traumatología ([**CALLE**]) en 2 semanas en Sala de Curas, para control evolutivo (Dr. [**NOMBRE_PERSONAL_SANITARIO**]).
+Se cita en CCEE de Traumatología [**CALLE**], con Dr. [**NOMBRE_PERSONAL_SANITARIO**] en 1 mes, se adjuntan volantes.
+Se recomienda seguimiento con sus especialistas habituales

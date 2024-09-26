@@ -1,0 +1,28 @@
+T4	PROCEDIMIENTO 55 69	Pulsioximetría
+T5	PROCEDIMIENTO 369 397	palpación a nivel precordial
+T6	PROCEDIMIENTO 208 226	EXPLORACIÓN FÍSICA
+T7	PROCEDIMIENTO 680 701	palpación superficial
+T8	SINTOMA 345 353	Eupneico
+T9	SINTOMA 358 397	dolor a la palpación a nivel precordial
+T10	SINTOMA 775 801	orientada en las 3 esferas
+T11	SINTOMA 818 834	signos meníngeos
+T12	SINTOMA 332 338	edemas
+T13	SINTOMA 432 488	Murmullo vesicular conservado en ambos campos pulmonares
+T14	SINTOMA 544 550	soplos
+T15	SINTOMA 552 580	Pulsos periféricos presentes
+T16	SINTOMA 582 588	IY (-)
+T17	SINTOMA 605 618	AB: Globuloso
+T18	SINTOMA 620 644	Peristaltismo conservado
+T19	SINTOMA 727 741	visceromegalia
+T20	SINTOMA 717 722	masas
+T21	SINTOMA 241 277	Pulsos arteriales femorales Normales
+T22	SINTOMA 302 322	Respiratorio: Normal
+T23	SINTOMA 589 604	Abdomen: Normal
+T24	SINTOMA 746 758	peritonismos
+T25	SINTOMA 764 773	Despierta
+T26	SINTOMA 803 813	Glasgow 15
+T27	PROCEDIMIENTO 490 492	CV
+T28	SINTOMA 494 519	Ruidos cardiacos rítmicos
+T29	SINTOMA 839 861	signos de focalización
+T30	PROCEDIMIENTO 339 343	RESP
+T31	SINTOMA 669 701	dolor a la palpación superficial

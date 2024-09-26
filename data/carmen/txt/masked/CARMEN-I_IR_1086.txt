@@ -1,0 +1,27 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**]
+Ingreso por neumonía por SARS-COV2 el [**FECHAS**]. En tto con remdesivir + dexametasona. Persiste hipoxia en torno a 89-90% basal y sat con GN 96- 97%
+Ruego TAC para descartar TEP vs NOC
+Gracias
+COVID (+)
+
+protocolo:
+Protocolo TEP
+
+resultados:
+No se observan defectos de repleción en el sistema arterial pulmonar compatibles con TEP.
+Compartimentos hiliomediastínico y axilares normales.
+Parénquima pulmonar con opacidades parcheadas alveolointersticiales multilobares bilaterales en "vidrio deslustrado" con condensaciones alveolares en ambos lóbulos inferiores y LM.
+No se observa derrame pleuropericárdico.
+Sistema osteoarticular sin alteraciones.
+
+conclusiones:
+No signos de TEP.
+Afectación pulmonar compatible con COVID-19 bilateral moderada.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

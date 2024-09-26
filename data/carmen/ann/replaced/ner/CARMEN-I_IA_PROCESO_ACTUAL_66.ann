@@ -1,0 +1,101 @@
+T6	SINTOMA 44 55	pico febril
+T7	SINTOMA 68 79	escalofríos
+T8	SINTOMA 153 207	dolor sacro izquierdo, neuropático, irradiado a pierna
+T9	SINTOMA 304 317	estreñimiento
+T10	SINTOMA 353 360	náuseas
+T11	SINTOMA 364 371	vómitos
+T12	SINTOMA 376 391	dolor abdominal
+T13	SINTOMA 431 456	hemodinámicamente estable
+T14	SINTOMA 458 465	afebril
+T15	SINTOMA 495 500	dolor
+T16	SINTOMA 543 555	leucocitosis
+T17	SINTOMA 558 584	deterioro de función renal
+T18	SINTOMA 650 661	taquipneico
+T19	SINTOMA 663 673	glasgow 15
+T20	SINTOMA 699 712	hipoperfusión
+T21	SINTOMA 878 916	infiltrados intersticiales bilaterales
+T22	SINTOMA 1007 1022	síndrome febril
+T23	SINTOMA 1734 1745	somnolencia
+T24	SINTOMA 1761 1767	fiebre
+T25	SINTOMA 2073 2105	deshidratación de piel y mucosas
+T26	SINTOMA 2139 2148	Taquipnea
+T27	SINTOMA 2240 2246	disnea
+T28	SINTOMA 2885 2921	disminución del nivel de consciencia
+T29	SINTOMA 2972 2978	febril
+T30	ENFERMEDAD 2994 3005	hipotensión
+T31	SINTOMA 3023 3075	aumento de niveles plasmáticos de depresores del SNC
+T32	SINTOMA 3125 3158	empeoramiento de la función renal
+T33	SINTOMA 3230 3235	dolor
+T34	SINTOMA 467 490	estado general afectado
+T35	SINTOMA 634 646	taquicardico
+T36	SINTOMA 752 792	urinocultivo positivo: Klebsiella multiS
+T37	SINTOMA 797 845	frotis para COVID-19 de ingreso resulta positivo
+T38	SINTOMA 1359 1371	desaturación
+T39	SINTOMA 1543 1565	UC se aisla E. coli MS
+T40	SINTOMA 1616 1628	desaturación
+T41	ENFERMEDAD 1660 1680	hipotensión arterial
+T42	SINTOMA 1697 1733	disminución del nivel de consciencia
+T43	SINTOMA 2049 2071	regular estado general
+T44	SINTOMA 2107 2113	GCS 15
+T45	SINTOMA 2292 2311	crepitante disperss
+T46	SINTOMA 2580 2592	asintomático
+T47	SINTOMA 2870 2882	desaturación
+T48	SINTOMA 3526 3549	adecuado estado general
+T49	SINTOMA 3551 3576	Hemodinamicamente estable
+T50	SINTOMA 971 976	dolor
+T51	SINTOMA 1243 1263	clínica respiratoria
+T52	ENFERMEDAD 2647 2658	hipotensión
+T53	SINTOMA 2940 2950	bajo gasto
+T54	SINTOMA 3652 3664	GSA correcta
+T55	ENFERMEDAD 1063 1129	shock séptico foco urinario por Klebsiella) vs. secundario a COVID
+T56	ENFERMEDAD 1124 1129	COVID
+T57	ENFERMEDAD 1312 1320	COVID-19
+T58	ENFERMEDAD 3252 3277	insuficiencia renal aguda
+T59	FARMACO 267 270	MST
+T60	FARMACO 1166 1175	meropenem
+T61	FARMACO 1503 1513	Remdesivir
+T62	FARMACO 2625 2638	noradrenalina
+T63	FARMACO 3084 3091	mórfico
+T64	FARMACO 3097 3104	dizepam
+T65	PROCEDIMIENTO 3189 3196	mórfico
+T66	FARMACO 3199 3207	diazepam
+T67	FARMACO 3390 3399	meropenem
+T68	FARMACO 3402 3413	daptomicina
+T69	PROCEDIMIENTO 3595 3613	soporte vasoactivo
+T70	PROCEDIMIENTO 126 135	anamnesis
+T71	PROCEDIMIENTO 242 258	pauta analgésica
+T72	PROCEDIMIENTO 714 732	Sedimento (Briker)
+T73	PROCEDIMIENTO 850 870	radiografía de tórax
+T74	PROCEDIMIENTO 930 946	pauta analgésica
+T75	PROCEDIMIENTO 1141 1152	antibiótico
+T76	PROCEDIMIENTO 1854 1879	mascarilla con reservorio
+T77	PROCEDIMIENTO 1881 1889	Monaghan
+T78	PROCEDIMIENTO 1972 1992	soporte ventilatorio
+T79	PROCEDIMIENTO 2253 2274	auscultación pulmonar
+T80	PROCEDIMIENTO 2338 2374	Se le coloca cateter arterial y drum
+T81	PROCEDIMIENTO 2424 2428	LNAF
+T82	PROCEDIMIENTO 2604 2622	reposición hídrica
+T83	PROCEDIMIENTO 3336 3348	sueroterapia
+T84	PROCEDIMIENTO 3453 3461	cultivos
+T85	HUMANO 1522 1530	paciente
+T86	HUMANO 1598 1606	paciente
+T87	HUMANO 2023 2031	paciente
+T88	HUMANO 2538 2546	paciente
+T89	HUMANO 3112 3120	paciente
+T90	HUMANO 3500 3508	paciente
+T91	SINTOMA 89 107	clinica infecciosa
+T92	SPECIES 1095 1105	Klebsiella
+T93	PROCEDIMIENTO 752 764	urinocultivo
+T94	SPECIES 775 792	Klebsiella multiS
+T95	PROCEDIMIENTO 797 817	frotis para COVID-19
+T96	ENFERMEDAD 809 817	COVID-19
+T97	PROCEDIMIENTO 1403 1424	radiografíoa de tórax
+T98	PROCEDIMIENTO 1543 1545	UC
+T99	SPECIES 1555 1565	E. coli MS
+T100	SINTOMA 2189 2227	dificultad en la mecánica ventilatoria
+T101	PROCEDIMIENTO 2502 2523	controles gasometicos
+T102	PROCEDIMIENTO 3637 3639	LN
+T103	PROCEDIMIENTO 3652 3655	GSA
+T104	PROCEDIMIENTO 502 511	Analítica
+T105	FARMACO 2738 2741	NAD
+T1	SINTOMA 3288 3315	mejoría de la función renal

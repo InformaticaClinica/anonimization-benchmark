@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresado por neumonia bilateral por covid con LAF en descenso progresivo de FiO2. Hoy presenta episodio de desaturación, taquipnea y aumentamos FiO2 60--> 75%, indice rox: fracaso LAF. Dimero D aumenta de mil a 3000.
+Solicitamos angiotac urgente
+Neumonía SARS-COV2
+
+protocolo:
+Protocolo TEP.
+
+resultados:
+Defecto de replección en rama subsegmentaria posterobasal del LII. No se observan signos de sobrecarga de cavidades cardíacas derechas ni HTP.
+Ganglios mediastínicos (el mayor 1 cm paratraqueal derecho), probablemente reactivos. Resto de compartimentos mediastínicos e hiliares normales.
+Parénquima pulmonar con múltiples opacidades en "vidrio deslustrado" parcheadas bilaterales, de predominio periférico con tendencia a la condensación de las mismas en ambas bases pulmonares. Bronquiectasias cilíndicas bibasales.
+No derrame pleuropericárdico.
+Cambios degenerativos osteoarticulares.
+
+conclusiones:
+TEP periférico izquierdo, sin sobrecarga de cavidades cardíacas derechas.
+Afectación pulmonar bilateral compatible con COVID-19 moderada/severa.
+
+descrip:
+ANGIO TC PULMONAR

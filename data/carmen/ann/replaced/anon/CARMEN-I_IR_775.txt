@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresado en UCI + IOT por neumonia COVID-19, con mala evolución tardia. Dimero D en ascenso. Se solicita angioTAC + TACAR para descartar complicaciones tardias: Neumonia organizativa y TEP. Gracias.
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente adquirido mediante energía dual.
+
+resultados:
+Catéter de acceso venoso central yugular derecho, con  extremo distal en unión atriocaval. Sonda nasogástrica con extremo distal en unión gastroesofágica. Tubo endotraqueal con extremo distal a 6 cm de la carina.
+No se aprecian defectos de repleción en el árbol arterial pulmonar ni alteraciones en los mapas de yodo que sugieran la presencia de TEP agudo. Tronco común de la arteria pulmonar de calibre conservado.
+Sin evidencia de adenopatías axilares o mediastínicas valorables.
+Ganglios supraclaviculares bilaterales, hiliar derecho y mediastínicos paratraqueales y subcarinal de tamaño borderline, inespecíficos.
+No se observa derrame pleural ni pericárdico. Hipertrofia bilateral de la grasa subpleural que asocia una atelectasia pasiva del parénquima adyacente.
+Focos consolidativos en ambos lóbulos inferiores en probable relación a la atelectasia pasiva descrita. Destaca una hipocaptación del aspecto medial del foco consolidativo basal derecho que no permite descartar la presencia de un foco neumónico subyacente vs área de infarto pulmonar por oclusión de un pequeño vaso no detectable en el estudio vascular.
+Opacidades en vidrio deslustrado bilaterales, algunas periféricas y otras peribroncovasculares, con una distribución difusa. Asocian una banda de parénquima subpleural respetado y algunos focos con tendencia a la consolidación. Estos hallazgos son compatibles con afectación pulmonar por COVID-19.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- En el momento actual no se aprecian imágenes sugestivas de TEP agudo.
+- Parénquima pulmonar con hallazgos compatibles con afectación por COVID-19.
+- Hipocaptación del parénquima pulmonar consolidado a nivel basal medial derecho que no permite descartar foco neumónico vs área de infarto pulmonar (por oclusión de pequeño vaso no detectable).
+
+descrip:
+ANGIO TC PULMONAR

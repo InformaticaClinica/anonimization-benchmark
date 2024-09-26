@@ -1,0 +1,26 @@
+
+prueba:
+RM COLUMNA LUMBAR
+
+clinica:
+paciente con melanoma.
+aparición de déficit motor dorsiflexión pie izquierdo.
+descartar radiculopatía compresiva
+Hepatitis aguda colestásica inmunomediada
+
+protocolo:
+Estudio de región dorsal y lumbar con secuencias potenciadas en T1, t2 ; STIR en sagital y T1 y t2 en axial con posterior administracion de gadolinio
+
+resultados:
+Leve cifosis dorsal sin fracturas vertebrales. Se observan leves cambios degenerativos discales dorsales in compromiso de canal ni radicular. El cordon medular no muestra alteraciones de señal ni muestra lesiones intramedulares. Tras administrar gadolinio no se observan captaciones
+En el segmento lumbar destaca una anterolistesis de L5 sobre S1 . No hay M1 oseas. Cambios degenerativos espondiloticos leves en L1-L2. Hay pequeños hemangiomas vertebrales en L1 y L3 y D7
+En L5-S1 hay una listesis itsmica bilateral con una pequeña hernia posterior con rotura del anillo fibroso y leve reduccion foraminal sin compromiso radicula
+
+conclusiones:
+Se observa una espondilolistesis con lisis bilateral en L5-S1 con pequeña hernia posterior con rotura del anillo fibroso y sin condicionar compresion radicular evidente en el momento actual. No signos de M1 oses o intramedulares.
+
+descrip:
+RM COLUMNA DORSAL
+
+descrip:
+RM COLUMNA LUMBAR

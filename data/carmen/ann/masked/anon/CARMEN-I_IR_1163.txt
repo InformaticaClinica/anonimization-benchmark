@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente ingresada por neumonía bilateral por covid a día +14 de inicio de síntomas. Solicitamos scaner por sospecha de NOC ante imposibilidad de retiro de soporte oxigenatorio
+NEUMONIA BILATERAL POR SARS-COV-2
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta algunos focos parcheados de vidrio deslustrado sugestivos de neumonía por COVID-19 o por otro virus. No identifico hallazgos concluyentes de neumonía organizativa. Resto del parénquima pulmonar sin alteraciones valorables.
+Discretos cambios degenerativos en la columna torácica.
+Cambios posquirúrgicos con mastectomía derecha y reconstrucción protésica. Alteración morfológica de la mama izquierda con clips metálicos en su interior.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

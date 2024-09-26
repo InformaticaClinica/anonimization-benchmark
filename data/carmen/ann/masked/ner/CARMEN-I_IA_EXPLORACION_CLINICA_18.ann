@@ -1,0 +1,37 @@
+T4	PROCEDIMIENTO 57 71	Pulsioximetría
+T5	PROCEDIMIENTO 297 311	oxigenoterapia
+T6	PROCEDIMIENTO 390 421	Exploración cardiorrespiratoria
+T7	PROCEDIMIENTO 634 655	Exploración abdominal
+T8	PROCEDIMIENTO 825 848	Exploración neurológica
+T9	SINTOMA 213 232	Buen estado general
+T10	SINTOMA 234 259	hemodinámicamente estable
+T11	SINTOMA 262 269	afebril
+T12	SINTOMA 271 279	Eupneico
+T13	SINTOMA 477 491	roces audibles
+T14	SINTOMA 497 530	edemas en extremidades inferiores
+T15	SINTOMA 657 695	abdomen globuloso, blando y depresible
+T16	SINTOMA 782 793	peritonismo
+T17	SINTOMA 795 823	Ruidos hidroaéreos presentes
+T18	SINTOMA 862 894	desorientado en espacio y tiempo
+T19	SINTOMA 951 957	afasia
+T20	SINTOMA 961 970	disartria
+T21	SINTOMA 313 327	Normocoloreado
+T22	SINTOMA 330 344	normohidratado
+T23	SINTOMA 346 388	Extremidades frías aunque bien perfundidas
+T24	SINTOMA 423 449	tonos cardiacos arrítmicos
+T25	SINTOMA 467 473	soplos
+T26	SINTOMA 532 534	IY
+T27	SINTOMA 538 541	RHY
+T28	SINTOMA 546 559	signos de TVP
+T29	SINTOMA 561 602	Pulsos periféricos presentes y simétricos
+T30	SINTOMA 604 607	MVC
+T31	SINTOMA 732 755	doloroso a la palpación
+T32	SINTOMA 850 860	consciente
+T33	SINTOMA 896 916	orientado en persona
+T34	SINTOMA 972 1008	Pupilas isocóricas y normorreactivas
+T35	SINTOMA 918 936	discurso coherente
+T36	SINTOMA 612 632	ruidos sobreañadidos
+T37	SINTOMA 710 715	masas
+T38	SINTOMA 719 727	megalias
+T39	SINTOMA 771 778	defensa
+T40	ENFERMEDAD 556 559	TVP

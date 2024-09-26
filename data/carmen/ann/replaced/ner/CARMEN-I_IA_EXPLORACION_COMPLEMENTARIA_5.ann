@@ -1,0 +1,76 @@
+T19	ENFERMEDAD 1028 1040	hidrocefalia
+T20	ENFERMEDAD 1319 1345	diseminación leptomeníngea
+T21	ENFERMEDAD 1396 1417	hidrocefalia subaguda
+T22	ENFERMEDAD 1980 1998	leucopatía crónica
+T23	ENFERMEDAD 2168 2194	diseminación leptomeníngea
+T24	ENFERMEDAD 2295 2316	hidrocefalia subaguda
+T25	ENFERMEDAD 2689 2721	adenopatías en regiones axilares
+T26	ENFERMEDAD 2796 2817	hipertensión pulmonar
+T27	ENFERMEDAD 2831 2846	derrame pleural
+T28	ENFERMEDAD 2857 2876	derrame pericárdico
+T29	ENFERMEDAD 3151 3191	proceso neumónico bilateral por COVID-19
+T30	ENFERMEDAD 3256 3304	enfisema centrolobulillar y paraseptal bilateral
+T31	ENFERMEDAD 3700 3707	COVID19
+T32	ENFERMEDAD 1449 1475	diseminación leptomeníngea
+T33	ENFERMEDAD 4190 4198	COVID-19
+T34	SINTOMA 178 219	aumento de tamaño del sistema ventricular
+T35	SINTOMA 225 274	hiperseñal de la sustancia blanca periventricular
+T36	SINTOMA 618 653	Hiperseñal cortical a nivel frontal
+T37	SINTOMA 665 709	ocupación de algunos surcos de la convexidad
+T38	SINTOMA 1080 1145	pérdida de altura crónica de algunos cuerpos vertebrales dorsales
+T39	SINTOMA 1347 1381	Aumento de tamaño tetraventricular
+T40	SINTOMA 1494 1526	nódulo hipercaptante en esplenio
+T41	SINTOMA 1581 1620	nódulos hipercaptantes periependimarios
+T42	SINTOMA 1756 1804	hipodensidad de la s. blanca del lóbulo temporal
+T43	SINTOMA 1842 1847	edema
+T44	SINTOMA 1862 1922	moderada hipodensidad de la sustancia blanca periventricular
+T45	SINTOMA 2514 2560	edema en s. blanca del lóbulo temporal derecho
+T46	SINTOMA 2591 2660	Ganglios aumentados de tamaño en ventana aortopulmonar y subcarinales
+T47	SINTOMA 3468 3503	infiltrado intersticial bilaterales
+T48	SINTOMA 3508 3522	condensaciones
+T49	ENFERMEDAD 1955 1977	edema transependimario
+T50	PROCEDIMIENTO 13 31	RMN cráneo-espinal
+T51	PROCEDIMIENTO 155 166	RM cerebral
+T52	PROCEDIMIENTO 342 344	TC
+T53	PROCEDIMIENTO 725 727	RM
+T54	PROCEDIMIENTO 799 801	TC
+T55	PROCEDIMIENTO 1159 1168	TC cráneo
+T56	PROCEDIMIENTO 1193 1195	TC
+T57	PROCEDIMIENTO 2574 2582	TC tórax
+T58	PROCEDIMIENTO 3436 3452	Radiología tórax
+T59	PROCEDIMIENTO 3568 3570	UC
+T60	PROCEDIMIENTO 3652 3663	Hemocultivo
+T61	HUMANO 138 146	paciente
+T62	SPECIES 3580 3598	P. Aureginosa BLEA
+T63	SPECIES 3599 3622	Antigenurias legionella
+T64	SPECIES 3625 3634	neumococo
+T65	HUMANO 3766 3774	paciente
+T66	PROCEDIMIENTO 65 86	administración de cev
+T67	SINTOMA 421 616	hiperseñal en T2, sin restricciónen difusion que afectan a los ganglios basales izdos, sustancia blanca periventricular, al cuerpos calloso y alguna imagen aislada en la sustancia blanca cerebral
+T68	PROCEDIMIENTO 751 772	adminsitración de cev
+T69	ENFERMEDAD 817 857	lesiones de localización periventricular
+T70	SINTOMA 896 958	áreas de captación leptomeningea a nivel parasagital bifrontal
+T71	SINTOMA 1235 1292	realce leptomeníngeo parasagital frontoparietal bilateral
+T72	SINTOMA 2070 2127	realce leptomeníngeo parasagital frontoparietal bilateral
+T73	SINTOMA 2221 2267	Leve aumetno de tamaño del sistema ventricular
+T74	SINTOMA 2393 2415	nódulos hipercaptantes
+T75	SINTOMA 2469 2493	nódulos periependimarios
+T76	ENFERMEDAD 2591 2660	Ganglios aumentados de tamaño en ventana aortopulmonar y subcarinales
+T77	SINTOMA 2723 2773	Tronco de la arteria pulmonar de calibre aumentado
+T78	SINTOMA 2926 2970	opacidades en vidrio deslustrado bilaterales
+T79	ENFERMEDAD 3091 3115	dilataciones bronquiales
+T80	SINTOMA 3204 3225	cambios organizativos
+T81	SINTOMA 3342 3387	Engrosaminetos parietales bronquiales difusos
+T82	SINTOMA 3389 3422	Gl suprarrenales sin alteraciones
+T83	PROCEDIMIENTO 3554 3567	microbiología
+T84	SINTOMA 3568 3598	UC (21/3) : P. Aureginosa BLEA
+T85	SINTOMA 3599 3651	Antigenurias legionella y neumococo (21/3) negativas
+T86	SINTOMA 3652 3687	Hemocultivo (21/3): sin crecimiento
+T87	PROCEDIMIENTO 3688 3723	Anticuerpos COVID19 (IgA, IgG, IgM)
+T88	SINTOMA 3688 3741	Anticuerpos COVID19 (IgA, IgG, IgM) (28/3): positivos
+T89	PROCEDIMIENTO 3748 3787	transfusion suero paciente covalescente
+T90	PROCEDIMIENTO 4178 4214	Anticuerpos COVID-19 (IgA +IgG+ IgM)
+T91	SINTOMA 4178 4226	Anticuerpos COVID-19 (IgA +IgG+ IgM) : negativos
+T92	PROCEDIMIENTO 3801 3810	Analitica
+T93	PROCEDIMIENTO 3957 3966	Analitica
+T94	PROCEDIMIENTO 4040 4050	bioquimica

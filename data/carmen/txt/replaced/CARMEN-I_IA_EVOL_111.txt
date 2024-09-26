@@ -1,0 +1,11 @@
+ALTA SALA X085
+1-NEUMONÍA BILATERAL POR SARS-COV2
+Dia de inicio de sintomatología (fiebre persistente): 2/2 Dia TAR positivo: 5/2 (CT al ingreso 8/2: 23)
+Dia de ingreso: 8/2
+Estado vacunal: vacuna sinopharm (Chequia) (2 dosis)
+Paciente mujer de 36 años sin antecedentes de interés acude por fiebre de >38o de 6 días de evolución. Se realizó TAR el 5/02 que fue positivo. A su llegada a urgencias se encuentra febril a 38o, hemodinámicamente estable y con sat 95% basal. Crepitantes bilaterales de predominio izquerdo.
+RX tórax muy poco inspirada, aparenta infiltrado intesrsticial bibasal.
+Analítica: PCR 5,1. perfil hepático normal, ferritna no elevada, LDH normal. Leucopenia, L 2600, linfopenia (260 linfos totales). Ddiemro 1600.
+Se decide ingreso por estar la paciente a día +6 con fiebre persistente y sat basal en el límite bajo de la normalidad.
+Durante el ingreso se pauta remdesivir y baricitinib con buena respuesta, manteniendose afebril a partir de las 48h de ingreso, sin progresión radiológica, sin necesidad de oxígeno y con descenso de reactantes de fase aguda. En hemocultivos cursados durante pico febril se aisla stafilococo coagulasa negativo en 1/2 hemocultivos. Se pauta inicialmente ceftriaxona por 48h que se retira posteriormente al considerarse probable contaminación comentado con el servicio de enfermedades infecciosas.
+Así, dada la buena evolución se procede al alta a domicilio. Deberá mantener aislamiento hasta el dia 16/02.

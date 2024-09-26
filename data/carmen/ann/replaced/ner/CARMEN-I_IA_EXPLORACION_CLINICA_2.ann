@@ -1,0 +1,21 @@
+T3	ENFERMEDAD 719 744	trombosis venosa profunda
+T4	PROCEDIMIENTO 89 103	Pulsioximetría
+T5	PROCEDIMIENTO 398 419	Auscultación cardíaca
+T6	PROCEDIMIENTO 498 523	auscultación respiratoria
+T7	SINTOMA 169 188	Buen estado general
+T8	SINTOMA 190 215	hemodinámicamente estable
+T9	SINTOMA 217 227	febricular
+T10	SINTOMA 302 340	orientado en persona, tiempo y espacio
+T11	SINTOMA 386 396	meningismo
+T12	SINTOMA 454 469	soplos audibles
+T13	SINTOMA 602 669	Abdomen depresible, no doloroso a palpación superficial ni profunda
+T14	SINTOMA 229 243	normohidratado
+T15	SINTOMA 246 260	normocoloreado
+T16	SINTOMA 289 299	consciente
+T17	SINTOMA 346 370	focalidades neurológicas
+T18	SINTOMA 424 448	tonos cardíacos rítmicos
+T19	SINTOMA 489 497	eupneico
+T20	SINTOMA 528 545	buena ventilación
+T21	SINTOMA 547 600	crepitantes secos en bases y campos medios pulmonares
+T22	SINTOMA 671 705	Extremidades inferiores sin edemas
+T23	HUMANO 280 288	paciente

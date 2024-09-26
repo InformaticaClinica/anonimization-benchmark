@@ -1,0 +1,32 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado con neumonía covid, anticoagulado con enoxaparina a dosis terapéuticas por ACxFA que presenta de forma brusca quadro vasocagal con desconexión del medio de varios minutos en contexto de dolor mecánico inguinal izquierdo asociado a impotencia funcional focal del psoas. Resto de grupos musculares 5/5 y RCP flexor bilateral.
+Imp. Hematoma del psoas en paciente anticoagulado.
+Solicito TAC abdominal
+Neumonía por SARS-CoV-2
+
+protocolo:
+TC ABDOMINAL URGENT amb contrast iv en fases basal, arterial i portal
+
+resultados:
+Augment de mida del múscul iliopsoas esquerre, amb algun petit focus d'extravasació de contrast en arterial que augmenta mínimament en fase venosa. Les troballes són compatibles amb hematoma retroperitoneal a múscul iliopsoas esqurre amb signes de sagnat actiu. Lleu quantitat de líquid a la gotiera partietocòlica esquerra i a fossa iíaca esquerra.
+Fetge de morfologia, contorns i atenuació normals. No s'observen lesions focals.
+Colecistectomia. Lleu ectasia de coledoc (10 mm) i de via biliar intrahepàtica a nivell parahiliar.
+Vena porta i eix espleno-mesentèric permeables.
+Pàncrees, melsa (12 cm) i glàndules suprarenals sense alteracions significatives.
+Abscència de ronyó esquerre. Ronyó dret de mida i morfologia normal, amb adequada captació de contrast. Quists corticals simples, el major a pol superior de 6 cm. No s'observa dilatació de la via excretora.
+Ateromatosi aortoilíaca parcialment calcificada.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica.
+Diverticulosi sigmoidea sense signes de diverticulitis aguda. Apèndix cecal de calibre normal, sense signes inflamatoris.
+Petita hèrnia de Spiegel amb herniació de petit tram de sigma, sense signes d'obstrucció secundària. Hèrnies inguinals bilaterals amb contingut greix.
+Talls toràcics amb extensa afectació parenquimatosa per enfisema centrolobulillar i parasptal, dilatacions bronquials, afectació consolidativa en ambudes bases i algunes bandes perilobulars; tot en relació a pneumònia per COVID-19.
+
+conclusiones:
+Troballes compatibles amb hematoma retroperitoneal a múscul iliopsoas esqurre amb lleus signes de sagnat actiu.
+Talls toràcics amb signes de pneumònia per COVID-19.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

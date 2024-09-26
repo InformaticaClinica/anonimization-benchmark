@@ -1,0 +1,35 @@
+
+prueba:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANG IOTC ARTERIAL INTRACRANEAL)
+
+clinica:
+Codi ictus intramuros.
+NEUMONÍA POR SARS-COV-2
+
+protocolo:
+Protocolo Código Ictus (TC Basal + TC Perfusión + AngioTC extra- intracraneal)
+
+resultados:
+TC CRANEAL BASAL:
+Área de discreta hipodensidad parasagital frontal izquierda a nivel del territorio de la ACA izda, con pérdida de la diferenciación cortico- subcortical.
+Hiperdensidad en el surco interhemisférico en posible relacion  a embolia cálcica de la ACA izquierda.
+No se observa hemorragia intra ni extraaxial.
+Discretas áreas hipodensas en sustancia blanca periventricular en relación a patología de pequeño vaso.
+Estructuras de la línea media  centradas.
+Sistema ventricular de tamaño y morfología normal.
+Cisternas basales libres.
+TC PERFUSIÓN:
+Se aprecia un moderado retraso en el TTP en el territorio de la ACA izquierda, con dismunición en los mapas de CBV, sin mismatch significativo. EL defecto es parcialemten visible debido que hemos centrado la perfusion en territorio de ACM.
+ANGIO-TC EXTRA E INTRACRANEAL:
+El estudio se encuentra artefactado por movimiento del paciente, en estas condiciones:
+Se observan signos de ateromatosis calcificada difusa a lo largo de ambas arterias carótidas comunes y en su bifurcación, ocasionando a nivel de la bifurcación izquierda una estenosis de aproximadamente el 50%.
+A nivel de los segmentos cavernosos y supraclinoideos se observan moderadas placas de ateroma calcificadas que no condicionan estenosis.
+Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.
+La ACA izda presenta una estenosis suboclusiva en relación a émbolo cálcico.
+Resto de principales arterias cerebrales intracraneales permeables (ACA dcha, ACMs y ACPs). Sistema vertebrobasilar permeable.
+
+conclusiones:
+Estenosis suboclusiva de la ACA izquierda en relación a émbolo cálcico.
+
+descrip:
+TC CODIGO ICTUS (PERFUSION CEREBRAL+ ANGIOTC ARTERIAL INTRACRANEAL)

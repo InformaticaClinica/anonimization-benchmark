@@ -1,0 +1,36 @@
+T7	ENFERMEDAD 78 95	RAM a amoxicilina
+T8	ENFERMEDAD 98 148	reacción de urticaria con angioedema por metamizol
+T9	ENFERMEDAD 300 310	DISLIPEMIA
+T10	ENFERMEDAD 314 335	FIBRILACIÓN AURICULAR
+T11	ENFERMEDAD 758 786	insuficiencia aórtica mínima
+T12	ENFERMEDAD 943 964	GONARTROSIS BILATERAL
+T13	ENFERMEDAD 275 296	HIPERTENSIÓN ARTERIAL
+T14	ENFERMEDAD 1092 1101	DEPRESIÓN
+T15	ENFERMEDAD 1105 1113	GLAUCOMA
+T16	ENFERMEDAD 1036 1088	DOLOR LUMBAR CRÓNICO con radiculopatía crónica L5-S1
+T17	ENFERMEDAD 993 1031	complicación infecciosa postoperatoria
+T18	ENFERMEDAD 788 830	insificiencia mitral y tricuspidea ligeras
+T19	PROCEDIMIENTO 490 513	cardioversión eléctrica
+T20	PROCEDIMIENTO 664 679	ECOCARDIOGRAFÍA
+T21	PROCEDIMIENTO 967 978	IQ prótesis
+T22	SINTOMA 414 426	palpitacones
+T23	FARMACO 1148 1157	omeprazol
+T24	FARMACO 1166 1177	rivaroxaban
+T25	FARMACO 1186 1196	furosemida
+T26	FARMACO 1205 1217	simvastatina
+T27	FARMACO 1226 1236	fluoxetina
+T28	FARMACO 1245 1256	paracetamol
+T29	FARMACO 1262 1273	latanoprost
+T30	FARMACO 1282 1297	sulfato ferroso
+T31	FARMACO 1304 1312	losartán
+T32	PROCEDIMIENTO 200 231	intervención de rodilla derecha
+T33	PROCEDIMIENTO 447 462	betabloqueantes
+T34	FARMACO 465 476	rivaroxaban
+T35	FARMACO 631 642	rivaroxaban
+T36	PROCEDIMIENTO 645 660	betabloqueantes
+T37	SINTOMA 702 756	ventrículo izquierdo de dimensiones y motilidad normal
+T38	ENFERMEDAD 832 871	aurícula izquierda severamente dilatada
+T39	SINTOMA 874 913	ventrículo izquierdo derecho no diltado
+T40	HUMANO 26 31	Mujer
+T41	SINTOMA 918 938	motilidad conservada
+T43	SINTOMA 574 587	ritmo sinusal

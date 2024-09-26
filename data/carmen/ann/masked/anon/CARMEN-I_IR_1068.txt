@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+neumonia bilateral por sospecha de COVID
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Opacidades alveolares bilaterales de predominio periférico sugestivo de afectación pulmonar por COVID  sin cambios significativos  con respecto a control previo de [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

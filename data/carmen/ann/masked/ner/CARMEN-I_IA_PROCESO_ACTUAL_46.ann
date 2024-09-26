@@ -1,0 +1,37 @@
+T4	SINTOMA 104 111	astenia
+T5	SINTOMA 114 117	tos
+T6	SINTOMA 231 239	mialgias
+T7	SINTOMA 241 250	febrícula
+T8	SINTOMA 270 278	tos seca
+T9	SINTOMA 326 329	tos
+T10	SINTOMA 332 338	disnea
+T11	SINTOMA 455 469	dolor torácico
+T12	SINTOMA 471 495	clínica gastrointestinal
+T13	SINTOMA 497 504	anosmia
+T14	SINTOMA 508 515	ageusia
+T15	SINTOMA 567 577	consciente
+T16	SINTOMA 580 589	orientado
+T17	SINTOMA 591 616	hemodinámicamente estable
+T18	SINTOMA 619 626	afebril
+T19	SINTOMA 628 636	eupneico
+T20	SINTOMA 690 719	murmullo vesicular preservado
+T21	SINTOMA 827 873	Función renal y ionograma dentro de normalidad
+T22	SINTOMA 1057 1120	infiltrados intersticiales bilaterales de predominio periférico
+T23	SINTOMA 794 825	leucocitos con fórmula en rango
+T24	SINTOMA 875 910	Leve alteración del perfil hepático
+T25	SINTOMA 968 981	TnI negativas
+T27	SINTOMA 171 201	PCR 05/09 que resulta positiva
+T28	SINTOMA 724 743	crepitantes en base
+T29	ENFERMEDAD 51 58	COVID19
+T30	ENFERMEDAD 1245 1275	neumonía bilateral por COVID19
+T31	PROCEDIMIENTO 663 681	exploración física
+T32	PROCEDIMIENTO 1024 1044	radiografía de tórax
+T33	PROCEDIMIENTO 1207 1219	radiografías
+T34	HUMANO 43 50	persona
+T35	HUMANO 83 91	familiar
+T36	HUMANO 545 553	paciente
+T37	PROCEDIMIENTO 171 174	PCR
+T38	PROCEDIMIENTO 641 643	LN
+T39	ENFERMEDAD 1152 1163	atelectasia
+T40	ENFERMEDAD 1167 1183	fibrosis en base
+T1	SINTOMA 51 67	COVID19 positiva

@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+covid-19
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Callo de fractura en 6º arco costal izquierdo.
+Sin otros hallazgos radiológicos valorables.
+
+descrip:
+RX  PORTATIL  TORAX

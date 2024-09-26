@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 1 24	ENDOSCOPIA RESPIRATORIA
+T2	PROCEDIMIENTO 201 232	BAS para estudio microbiológico
+T3	PROCEDIMIENTO 317 367	estudio microbiológico (protocolo inmunodeprimido)
+T4	PROCEDIMIENTO 369 378	citología
+T5	PROCEDIMIENTO 402 461	Biopsias transbronquiales con pinza convecional (x4) en LID
+T6	PROCEDIMIENTO 520 529	ecoscopia
+T7	PROCEDIMIENTO 553 561	biopsias
+T8	PROCEDIMIENTO 150 184	Secreciones mucosas que se aspiran
+T9	PROCEDIMIENTO 237 278	LBA en LII con 150ml de suero fisiológico
+T10	PROCEDIMIENTO 481 507	estudio anatomo patológico
+T11	PROCEDIMIENTO 381 397	recuento celular
+T12	SINTOMA 52 69	Tráquea permeable
+T13	ENFERMEDAD 86 110	lesiones endobronquiales
+T14	ENFERMEDAD 576 586	neumotórax
+T15	SINTOMA 26 50	Cuerdas vocales normales
+T17	SINTOMA 150 169	Secreciones mucosas

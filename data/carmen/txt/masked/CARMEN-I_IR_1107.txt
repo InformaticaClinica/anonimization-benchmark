@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+sospecha de NOC - covid
+DISNEA
+
+protocolo:
+TCAR
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Ganglios mediastínicos aumentados de tamaño prevasculares, paratraqueales y subcarinales, de aspecto reactivo.
+Pequeño divertículo traqueal posterolateral superior derecho.
+Ausencia de derrame pleural.
+Múltiples focos consolidativos y en vidrio deslustrado peribroncovasculares bilaterales, con distribución perilobular, asociado a discretas dilataciones bronquiales, sugestivo de cambios organizativos en relación a neumonía bilateral por COVID-19.
+
+conclusiones:
+Múltiples focos consolidativos y en vidrio deslustrado bilaterales, de las características descritas, sugestivo de cambios organizativos en relación a neumonía bilateral por COVID-19.
+
+descrip:
+TC TORAX

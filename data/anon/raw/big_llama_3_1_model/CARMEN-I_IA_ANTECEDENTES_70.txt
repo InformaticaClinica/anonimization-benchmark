@@ -1,0 +1,6 @@
+ Hombre de [**EDAD_SUJETO_ASISTENCIA**] años de edad , trabaja como [**PROFESION**], vive con [**FAMILIARES_SUJETO_ASISTENCIA**]. Niega alergias. Independiente para ABVD. Fumador desde los [**EDAD_SUJETO_ASISTENCIA**] a [**EDAD_SUJETO_ASISTENCIA**] años de edad : 2 paquetes dia (DA= 70 paquetes-año)
+ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+ANTECEDENTES QUIRÚRGICOS:
+Apendicectomia a los [**EDAD_SUJETO_ASISTENCIA**] años de edad.
+* MEDICACIÓN HABITUAL: Lisoniprilo 20mg al día.

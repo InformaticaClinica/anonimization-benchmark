@@ -1,0 +1,30 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA COVID-19
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: No
+Distribución
+- Periférica
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho: superior
+- Pulmón izquierdo: superior / medio
+Otros hallazgos relevantes:
+Aumento de tamaño del mediastino con desviación traqueal hacia la izquierda y con ocupación (en exploraciones previas) del espacio retrotraqueal de Raider. La principal sospecha sería la de un bocio endotorácico.
+EVOLUCION
+Extensión
+-Progresión
+Consolidación
+-Progresión
+Aparición de fibrosis No
+CONCLUSION:
+Afectación pulmonar por COVID que muestra progresión respecto a Rx previa.
+Probable bocio endotorácico.
+
+descrip:
+RX  PORTATIL  TORAX

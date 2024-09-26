@@ -1,0 +1,22 @@
+T9	HUMANO 1 6	Mujer
+T10	HUMANO 169 172	MAP
+T11	ENFERMEDAD 264 275	parotiditis
+T12	HUMANO 340 347	sobrina
+T13	HUMANO 443 448	prima
+T14	HUMANO 451 458	sobrina
+T15	HUMANO 517 544	adiestradora de perros guía
+T16	HUMANO 574 583	pacientes
+T17	SINTOMA 177 210	edema a nivel parotideo bilateral
+T18	SINTOMA 232 238	fiebre
+T19	SINTOMA 239 247	tiritona
+T20	ENFERMEDAD 23 46	alergias medicamentosas
+T21	ENFERMEDAD 88 102	Anemia cronica
+T22	ENFERMEDAD 106 120	Hipotiroidismo
+T23	FARMACO 132 144	levotiroxina
+T24	FARMACO 301 312	amoxicilina
+T25	FARMACO 315 326	paracetamol
+T26	PROCEDIMIENTO 406 413	cesárea
+T27	SINTOMA 377 389	asintomática
+T28	SINTOMA 491 504	asintomáticos
+T29	ENFERMEDAD 584 589	covid
+T1	ENFERMEDAD 69 84	hábitos tóxicos

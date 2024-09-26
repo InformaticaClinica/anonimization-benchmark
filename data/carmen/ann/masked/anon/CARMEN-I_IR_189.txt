@@ -1,0 +1,22 @@
+
+prueba:
+ANGIORM VENOSA ABDOMINAL (VCI/ V SUPRAHE PATICAS/V PORTA)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado por COVID-19 con antecedente de TCE grave en [**FECHAS**] con ingreso prolongado que lo ocasionó TEP bilateral, por el que se colocó filtro de vena cava inferior. Solicito RM venosa para valorar estado del filtro (descartar trombosis) de cara a retirar tratamiento anticoagulante.
+COVID-19
+
+protocolo:
+RM venosa abdominal .
+Estudio con baja calidad técnica lo que disminuye la sensibilidad del estudio..
+
+resultados:
+Artefacto metalico posiblemente secundario a filtro de vena cava a nivel de vena cava infrarrenal.
+Aparente permeabilidad de venas iliacas comunes y cava, con limitaciones técnicas al no estar adecuadamente opacificada.
+Se aconseja según conterxto clínico solicitar en caso de asi requerirlo retirada de FVC previa flebografia.
+
+conclusiones:
+VR
+
+descrip:
+ANGIORM VENOSA ABDOMINAL (VCI/ V SUPRAHEPATICAS/V PORTA)

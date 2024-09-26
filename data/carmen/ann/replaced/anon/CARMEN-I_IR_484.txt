@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INSUFICIENCIA RENAL AGUDA
+
+protocolo:
+RX PORTÁTIL TORAX (AP). Se compara con previas.
+
+resultados:
+Se observa diminución de la extensión y densidad de las opacidades polmonares bilaterales, quedando un foco a nivel basal periférico del pulmón izquierdo.
+Retirada cánula traqueal.
+
+conclusiones:
+Afectación pulmonar por COVID que muestra mejoría respecto a Rx previas.
+
+descrip:
+RX  PORTATIL  TORAX

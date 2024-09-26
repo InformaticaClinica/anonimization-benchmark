@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+rpm+sospecha covid
+
+conclusiones:
+Hiperclaridad del hemitórax izquierdo que considero que es atribuible a factores técnicos.
+No evidencia de consolidaciones que sugieran COVID. No obstante, la ausencia de las mismas no descarta la enfermedad.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,96 @@
+T5	SPECIES 127 137	SARS-CoV-2
+T6	HUMANO 311 319	paciente
+T7	HUMANO 781 789	paciente
+T8	SPECIES 918 929	SARS-CoV- 2
+T9	SPECIES 1052 1061	antiviral
+T10	HUMANO 1171 1179	paciente
+T11	HUMANO 1589 1597	paciente
+T12	HUMANO 1900 1908	paciente
+T13	SPECIES 2022 2043	Enterococcus faecalis
+T14	SPECIES 2694 2710	Candida Albicans
+T15	HUMANO 2753 2761	paciente
+T16	HUMANO 2984 2992	paciente
+T17	HUMANO 3393 3401	paciente
+T18	HUMANO 3475 3485	familiares
+T19	HUMANO 3587 3595	paciente
+T20	SPECIES 182 193	E. FAECALIS
+T21	SINTOMA 333 340	afebril
+T22	SINTOMA 354 365	taquipneico
+T23	SINTOMA 448 469	crepitantes bibasales
+T24	SINTOMA 548 572	función renal conservada
+T25	SINTOMA 596 614	diselectrolitemias
+T26	SINTOMA 616 626	leucopenia
+T27	SINTOMA 639 649	linfopenia
+T28	SINTOMA 713 743	infiltrado intersticial en LID
+T29	SINTOMA 802 813	pico febril
+T30	SINTOMA 974 983	taquipnea
+T31	SINTOMA 986 1013	mala tolerancia al esfuerzo
+T32	SINTOMA 1079 1108	deterioro de la función renal
+T33	SINTOMA 1189 1230	deterioro respiratorio aumentando trabajo
+T34	SINTOMA 1233 1246	tiraje costal
+T35	SINTOMA 1248 1262	picos febriles
+T36	SINTOMA 1264 1286	hemocultivos negativos
+T37	SINTOMA 1303 1325	infiltrados pulmonares
+T38	SINTOMA 1890 1896	fiebre
+T39	SINTOMA 2576 2582	fiebre
+T40	SINTOMA 3569 3582	fallecimiento
+T41	ENFERMEDAD 55 87	INSUFICIENCIA RESPIRATORIA AGUDA
+T42	ENFERMEDAD 141 193	INFECCIÓN TRACTO URINARIO COMPLICADA POR E. FAECALIS
+T43	ENFERMEDAD 198 218	CANDIDIASIS URINARIA
+T44	ENFERMEDAD 223 262	INSUFICIENCIA RENAL AGUDA SOBRE CRÓNICA
+T45	ENFERMEDAD 264 267	ERC
+T46	ENFERMEDAD 1143 1167	enfermedades infecciosas
+T47	ENFERMEDAD 1677 1703	insuficiencia respiratoria
+T48	ENFERMEDAD 1913 1931	infección urinaria
+T49	ENFERMEDAD 2355 2385	fuga urinaria en uréter distal
+T50	ENFERMEDAD 3027 3053	insuficiencia respiratoria
+T51	ENFERMEDAD 3326 3345	neoplasia urológica
+T52	FARMACO 1063 1073	Remdesivir
+T53	FARMACO 1448 1460	Dexametasona
+T54	FARMACO 1530 1541	enoxaparina
+T55	FARMACO 1561 1569	insulina
+T56	FARMACO 1832 1843	Tocilizumab
+T57	FARMACO 2092 2102	cefuroxima
+T58	FARMACO 2147 2170	Amoxicilina/Clavulánico
+T59	FARMACO 2610 2633	piperacilina/tazobactam
+T60	FARMACO 2738 2748	Fluconazol
+T61	FARMACO 3142 3150	anakinra
+T62	PROCEDIMIENTO 387 401	oxigenoterapia
+T63	PROCEDIMIENTO 505 524	analítica sanguínea
+T64	PROCEDIMIENTO 681 701	radiografía de tórax
+T65	PROCEDIMIENTO 843 867	tratamiento antipirético
+T66	PROCEDIMIENTO 883 895	hemocultivos
+T67	PROCEDIMIENTO 1603 1626	tratamiento corticoideo
+T68	PROCEDIMIENTO 1979 1991	urinocultivo
+T69	PROCEDIMIENTO 2198 2215	TC vías urinarias
+T70	PROCEDIMIENTO 2593 2607	antibioterapia
+T71	PROCEDIMIENTO 2653 2665	urinocultivo
+T72	PROCEDIMIENTO 2810 2818	diálisis
+T73	PROCEDIMIENTO 3295 3316	tratamiento paliativo
+T74	PROCEDIMIENTO 3417 3425	diálisis
+T75	ENFERMEDAD 91 137	NEUMONÍA INTERSTICIAL BILATERAL POR SARS-CoV-2
+T76	ENFERMEDAD 272 281	MONORRENO
+T77	PROCEDIMIENTO 906 929	frotis para SARS-CoV- 2
+T78	SINTOMA 906 950	frotis para SARS-CoV- 2 que resulta positivo
+T79	PROCEDIMIENTO 1264 1276	hemocultivos
+T80	PROCEDIMIENTO 1334 1345	radiológico
+T81	PROCEDIMIENTO 1736 1747	radiológica
+T82	PROCEDIMIENTO 1941 1960	portador de doble J
+T83	SINTOMA 1979 2043	urinocultivo ([**FECHAS**]) donde se aisló Enterococcus faecalis
+T84	PROCEDIMIENTO 2055 2066	penicilinas
+T85	SINTOMA 2229 2273	complicaciones derivadas del catéter doble J
+T86	SINTOMA 2276 2314	alteraciones estructurales/colecciones
+T87	ENFERMEDAD 2399 2429	dilatación de la vía excretora
+T88	SINTOMA 2433 2461	líquido libre intraabdominal
+T89	SINTOMA 2467 2519	riñón derecho de tamaño y grosor cortical conservado
+T90	SINTOMA 2522 2553	catéter doble J normposicionado
+T91	SINTOMA 2653 2710	urinocultivo [**FECHAS**] donde se aisló Candida Albicans
+T92	ENFERMEDAD 2782 2791	monorreno
+T93	PROCEDIMIENTO 2773 2780	doble J
+T94	SINTOMA 2888 2906	problema urológico
+T95	SINTOMA 2947 2968	problema respiratorio
+T96	PROCEDIMIENTO 3075 3096	cánulas de alto flujo
+T97	PROCEDIMIENTO 3486 3514	priorizar medidas de confort
+T98	PROCEDIMIENTO 1369 1393	reactantes de fase aguda
+T99	PROCEDIMIENTO 1040 1061	tratamiento antiviral
+T1	SINTOMA 370 401	requerimiento de oxigenoterapia

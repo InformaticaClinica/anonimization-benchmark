@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+control colocacion PICC (ETI).GRACIAAaaaaS
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+resultados:
+Aumento de la densidad y de la extensión de los focos consolidativos pulmonares bilaterales sugestivos de infección por COVID en progresión.
+Elongación aórtica.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

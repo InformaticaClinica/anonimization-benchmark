@@ -1,0 +1,39 @@
+
+prueba:
+TC ANGIO ARTERIAL INTRACRANEAL
+
+clinica:
+ANISOCORIA ARREACTIVA, FG36
+
+protocolo:
+TC CRANEAL URGENTE (BASAL + ANGIOTC TSA E
+INTRACRANEAL)
+
+resultados:
+TC CRANEAL BASAL:
+No se observa hemorragia intra ni extraaxial. No se observan lesiones ocupantes de espacio ni signos indirectos de éstas.
+Diferenciación cortico-subcortical conservada (ASPECTS 10).
+No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas.
+Disminución global del volumen encefálico en relación con cambios involutivos secundarios, observando una dilatación tetraventricular desproporcionada a la misma (Evans 0.38), lo que sugiere descartar clínicamente hidrocefalia crónica del adulto.
+Estructuras de la línea media centradas. Cisternas basales libres.
+Extensa ocupación de senos maxilares, etmoidales y frontales, de aspecto mucoso.
+Cerclaje ocular izquierdo.
+Imagen cálcida en el interior del seno frontal izq, sugestiva de osteoma.
+ANGIO-TC EXTRA E INTRACRANEAL:
+Segmentos proximales de las principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable. Principales senos venosos permeables.
+Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis.
+Origen, bifurcación y segmentos cervicales de la arteria carótida interna sin ateromatosis ni signos de estenosis.
+Ateromatosis difusa en segmentos intracraneales (intracavernoso y supraclinoideo) de ambas ICAS, permeables.
+Origen de las arterias vertebrales sin ateromatosis ni signos de estenosis.
+IOT. SNG. Pequeñas áreas en vidrio deslustrado pulmonares bilaterales en relación a infección por COVID-19 ya conocida.
+
+conclusiones:
+No se observa hemorragia intra ni extraaxial. No se observan lesiones ocupantes de espacio ni signos indirectos de éstas. No se observan lesiones isquémicas parenquimatosas subagudas ni otras lesiones isquemicas crónicas. AngioTC sin alteraciones a destacar.
+Dilatación tetraventricular desproporcionada a la atrofia encefálica, lo que sugiere descartar clínicamente hidrocefalia crónica del adulto.
+Extensa ocupación de senos maxilares, etmoidales y frontales, de aspecto mucoso.
+
+descrip:
+TC ANGIO ARTERIAL INTRACRANEAL
+
+descrip:
+TC CEREBRAL

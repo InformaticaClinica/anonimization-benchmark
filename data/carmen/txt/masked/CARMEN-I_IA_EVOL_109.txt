@@ -1,0 +1,26 @@
+
+EVOLUCIÓN EN ONCOLOGÍA:
+1. LETARGIA, CONFUSIÓN, FIEBRE, HIPOTENSIÓN E HIPOGLUCEMIAS.
+2. HIPOFISITIS POR PEMBROLIZUMAB. INSUFICIENCIA RENAL SECUNDARIA.
+A su llegada a urgencias hemodinámicamente estable y febricular, a la exploración destaca bradipsiquia con adecuado nivel de consciencia sin flapping, pupilas mióticas y xerosis. En radiografía de tórax no se aprecian cambios respecto a previas, destacando tumoración hiliar derecha ya conocida. Analíticamente presenta elevación de reactantes de fase aguda con procalcitonina negativa y reacción leucemoide con 62.930/l leucocitos. Sedimento de orina no patológico. PCR SARS CoV-2 indetectable. Se orienta como síndrome confusional multifactorial - infeccioso y neurointoxicación opioide favorecida por la fiebre- con fiebre sin claro foco. Se inicia antibioterapia empírica con amoxicilina-clavulánico y se decide ingreso en oncología.
+El [**FECHAS**], tras realizarse el aspirado medular, presenta episodio de dolor intenso con hipotensión sin fiebre. Analítica sin signos de hipoperfusión (lactato negativo), destacando hipoglicemia y tendencia a la hiponatremia.
+El [**FECHAS**] presenta disminución del nivel de consciencia autolimitado sin focailidad neurológica y con glicemia capilar normal. Inicialmente se orienta como crisis de ausencia, realizando TC craneal que es normal y RM craneal que evidencia área gliótica corticosubcortical con mínima captación cortical occipito-parietal izquierda. EEG anormal con lentificación difusa de predominio izquierdo, sugestiva de disfunción cerebral difusa de predominio focal izquierdo.
+Ante episodio de hipotensión en relación con el estrés sin clara focalidad infecciosa se determina cortisol basal y ACTH que están disminuidos. El resto del estudio del eje hipotálamo-hipofisario confirma déficit gonadótropo y somatrópo. Se revisan las imágenes de la RM cerebral realizada previamente confirmándose imagen sugestiva de hipofisitis.
+Se orienta, pues, como panhipofisitis inducida por pembrolizumab, por lo que se dobla la dosis de corticoides.
+A pesar del aumento de dosis de corticoides el paciente persiste hipotenso, febricular, somnoliento y con hipoglucemias, por lo que con la sospecha de crisis adrenal se inicia tratamiento con hidrocortisona a dosis de 200 mg diarios, con resolución del cuadro neurológico, la fiebre y la hipotensión.
+3. REACCIÓN LEUCEMOIDE Y TROMBOCITOSIS.
+En analítica destaca reacción leucemoide con 62.930/l leucocitos sin formas inmaduras en sangre pariférica. Se descartan causas infecciosas del cuadro -serologías de CMV, VEB, varicela y HHV-6 negativas- amplíando estudio con aspirado medular que evidencia médula hipercelular a expensas de serie granulocítica, sugestivo de reacción leucemoide en contexto infeccioso y corticoterapia, al mismo tiempo la ausencia de reacción leucoeritroblástica sin neutropenia y trombopenia irían en contra de infiltración medular.
+Finalmente, tras descartar causas infecciosas, se orienta como reactiva a progresión de enfermedad de base. En controles realizados durante el ingreso se mantiene estable sin presencia de formas inmaduras.
+4. ADENOCARCINOMA DE PULMÓN AVANZADO EN PROGRESIÓN, 2º LÍNEA DE TRATAMIENTO CON PEMBROLIZUMAB (ÚLTIMA DOSIS [**FECHAS**]).
+5. DOLOR NEUROPÁTICO POR INFILTRACIÓN DE PLEXO BRAQUIAL.
+El [**FECHAS**] se realiza PET-TC que muestra progresión de enfermedad de base con aumento de tamaño de anemopatía laterocervical derecha y aumento de masa pulmonar del LSD.
+Durante el ingreso refiere dolor neuropático en brazo derecho que se irradia hasta mano, TC craneal realizado el [**FECHAS**] muestra tumoración apical derecha con tumoración supraclavicular asociada y masa adenopática laterocervical ipsilateral en contacto con carótida interna y que colapsa yugular.
+Probablemente el dolor sería atribuible a infiltración del plexo braquial tumoral, por lo que se inicia pregabalina con respuesta parcial.
+6. ANEMIA AGUDA DE TRASTORNOS CRÓNICOS, TRASFUSIÓN EL [**FECHAS**].
+Anemia aguda arregenerativa sin déficit de factores madurativos, con destacando elevación marcada de reactantes de fase aguda. Se orienta como anemia de trasstornos crónicos que ha precisado de soporte transfusional por criterios clínicos.
+7. INFECCIÓN POR SARS-COV-2.
+Durante el ingreso presenta, tras contacto con persona afectada de COVID-19, fiebre y empeoramiento respiratorio progresivo, llegando a requerir VMK hasta el 60%, con infiltrados pulmonares bilaterales en la radiografía y analítica con PCR de hasta 15 mg/dL con linfopenia y elevación de ferritina, LDH y dímero D.
+Ha completado tratamiento con remdesivir y se han cambiado los corticoides por dexametasona a dosis altas, con mejoría incial pero con empeoramiento brusco el [**FECHAS**].
+Posteriormente, a pesar del tratamiento pautado, persiste deterioro respiratorio, por lo que se decide iniciar medidas de comfort el [**FECHAS**], siendo exitus vitae el [**FECHAS**] a las 6:30 am.
+   
+   

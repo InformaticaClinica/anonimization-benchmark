@@ -1,0 +1,22 @@
+
+prueba:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+clinica:
+CH per HAI descompensada. Ingrés per COVID però l'important és la descompensació edematosa, AKI 2 (+ ACLF) deteriorament del perfil hepàtic i aïllament d'E.faecalis en 2 UC malgrat ttm ATB. PCR de 15 en augment. Interessa eco renovesical per descartar complicacions. Moltes gràcies.
+(comentat per telèfon).
+Descomnensación ascítico-edematosa
+
+protocolo:
+ECOGRAFIA RENOVESICAL URGENTE PORTATIL (paciente con infección por COVID-19).
+
+resultados:
+Riñones de tamaño y ecoestructura normal, sin dilatación de vías excretoras. No se aprecian masas ni litiasis. No hay colecciones perirrenales.
+Vejiga urinaria colapsada con sondaje.
+Leve ascitis difusa.
+
+conclusiones:
+No hay signos de uropatía obstructiva.
+
+descrip:
+ECOGRAFIA RENOVESICOPROSTATICA

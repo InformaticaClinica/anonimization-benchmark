@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN POR COVID 19
+
+conclusiones:
+Respecto a la RX de tórax de [**FECHAS**] se observa aumento de las opacidades alveolo-intersticiales bilaterales en campos pulmonares inferiores y medios con pequeños focos consolidativos basales de predominio derecho.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,112 @@
+T39	ENFERMEDAD 401 406	covid
+T40	ENFERMEDAD 435 440	covid
+T41	ENFERMEDAD 673 678	covid
+T42	ENFERMEDAD 1516 1547	proceso infeccioso por COVID-19
+T43	ENFERMEDAD 1549 1602	Lesión cavitada en segmento apicoposterior del culmen
+T44	ENFERMEDAD 1617 1639	lesión post-infecciosa
+T45	ENFERMEDAD 1801 1827	proceso infeccioso fúngico
+T46	ENFERMEDAD 1829 1863	Moderado derrame pleural bilateral
+T47	ENFERMEDAD 2404 2417	fractura ósea
+T48	SINTOMA 2600 2644	Afectación parenquimatosa pulmonar bilateral
+T49	ENFERMEDAD 2870 2910	proceso neumónico bilateral por COVID-19
+T50	ENFERMEDAD 2998 3067	Riñón derecho con una zona de atrofia focal cortical en polo superior
+T51	ENFERMEDAD 3215 3227	rectorragias
+T52	ENFERMEDAD 3568 3615	ascitis perihepática, periesplénica y en pelvis
+T53	PROCEDIMIENTO 44 55	ASPIRADO MO
+T54	PROCEDIMIENTO 70 86	aspirado medular
+T55	PROCEDIMIENTO 194 197	BAL
+T56	PROCEDIMIENTO 343 359	tinción de plata
+T57	PROCEDIMIENTO 372 385	MICROBIOLOGÍA
+T58	PROCEDIMIENTO 397 406	PCR covid
+T59	PROCEDIMIENTO 431 440	PCR covid
+T60	PROCEDIMIENTO 466 483	Aspirado traqueal
+T61	PROCEDIMIENTO 522 539	Aspirado traqueal
+T62	PROCEDIMIENTO 669 678	PCR covid
+T63	PROCEDIMIENTO 704 721	Aspirado traqueal
+T64	PROCEDIMIENTO 843 856	Frotis rectal
+T65	PROCEDIMIENTO 935 948	Frotis rectal
+T66	PROCEDIMIENTO 982 995	Frotis rectal
+T67	PROCEDIMIENTO 1029 1032	BAS
+T68	PROCEDIMIENTO 1233 1250	PRUEBAS DE IMAGEN
+T69	PROCEDIMIENTO 1269 1277	ANGIO TC
+T70	PROCEDIMIENTO 1280 1290	TCAR TÓRAX
+T71	PROCEDIMIENTO 1926 1936	TC CRANEAL
+T72	PROCEDIMIENTO 1966 1968	TC
+T73	PROCEDIMIENTO 2110 2112	TC
+T74	PROCEDIMIENTO 2429 2465	Tubo nasogástrico en coana izquierda
+T75	PROCEDIMIENTO 2537 2545	ANGIO TC
+T76	PROCEDIMIENTO 2548 2558	TCAR TÓRAX
+T77	PROCEDIMIENTO 2958 2966	ANGIO TC
+T78	PROCEDIMIENTO 3673 3683	TC craneal
+T79	SINTOMA 397 428	PCR covid (1/07/2027): negativo
+T80	SINTOMA 431 463	PCR covid (30/06/2027): negativo
+T81	SINTOMA 1486 1511	afectación parenquimatosa
+T82	SINTOMA 1680 1759	imágenes nodulares en segmento apical del LSD y en segmento anterobasal del LID
+T83	SINTOMA 2048 2088	alteraciones densitométricas encefálicas
+T84	SINTOMA 2114 2179	Sistema ventricular de morfología, tamaño y situación conservadas
+T85	SINTOMA 2657 2749	opacidades en vidrio deslustrado parcheadas, de distribución periférica y peribroncovascular
+T86	SINTOMA 2769 2794	foco consolidativo en LSI
+T87	SINTOMA 2923 2944	cambios organizativos
+T88	SINTOMA 3125 3172	contenido levemente hiperdenso en sigma y recto
+T89	SINTOMA 3215 3227	rectorragias
+T90	SINTOMA 3617 3669	Edema del tejido celular subcutáneo en ambos flancos
+T91	ENFERMEDAD 3725 3759	sangrado agudo intra ni extraaxial
+T92	SINTOMA 3844 3889	Diferenciación cortico-subcortical conservada
+T93	SINTOMA 3891 3934	Sistema ventricular simétrico y no dilatado
+T94	SPECIES 498 519	Aspergillus fumigatus
+T95	SPECIES 554 566	P aeruginosa
+T96	SPECIES 594 606	P aeruginosa
+T97	SPECIES 744 756	P aeruginosa
+T98	SPECIES 759 780	Aspergillus fumigatus
+T99	SPECIES 871 883	P aeruginosa
+T100	SPECIES 886 889	AGA
+T101	SPECIES 899 910	aspergillus
+T102	SPECIES 958 979	Pseudomona aeruginosa
+T103	SPECIES 1005 1026	Pseudomona aeruginosa
+T104	SPECIES 1063 1084	Aspergillus fumigatus
+T105	SPECIES 1162 1187	Streptococcus grupo mitis
+T106	SPECIES 1190 1220	Corynebacterium argentoratense
+T107	SPECIES 1662 1669	fúngica
+T108	SPECIES 1820 1827	fúngico
+T109	SINTOMA 90 111	celularidad abundante
+T110	SINTOMA 133 191	series hematopoyéticas en proporción y de aspecto normales
+T111	SINTOMA 278 307	leve fondo inflamatorio agudo
+T113	SPECIES 321 335	microoranismos
+T114	SINTOMA 466 519	Aspirado traqueal (30/06/2027): Aspergillus fumigatus
+T115	SINTOMA 522 566	Aspirado traqueal (26/06/2027): P aeruginosa
+T116	PROCEDIMIENTO 569 571	UC
+T117	SINTOMA 569 606	UC (25/06/2027): 100.000 P aeruginosa
+T118	PROCEDIMIENTO 609 626	Determinación AGA
+T119	SINTOMA 609 649	Determinación AGA (24/06/2027): negativo
+T120	SINTOMA 669 701	PCR covid (23/06/2027): positiva
+T121	SINTOMA 704 780	Aspirado traqueal (23/06/2027): 600.000 P aeruginosa y Aspergillus fumigatus
+T122	PROCEDIMIENTO 783 800	Determinación AGA
+T123	SINTOMA 783 823	Determinación AGA (17/06/2027): negativo
+T124	SINTOMA 843 883	Frotis rectal (16/06/2027): P aeruginosa
+T125	SINTOMA 886 919	AGA (12/06): aspergillus positivo
+T126	SINTOMA 935 979	Frotis rectal (16/06): Pseudomona aeruginosa
+T127	SINTOMA 982 1026	Frotis rectal (09/06): Pseudomona aeruginosa
+T128	PROCEDIMIENTO 1087 1096	PCR Covid
+T129	ENFERMEDAD 1091 1096	Covid
+T130	PROCEDIMIENTO 1145 1147	HC
+T131	SINTOMA 1145 1220	HC (22/05/2027): Streptococcus grupo mitis y Corynebacterium argentoratense
+T132	ENFERMEDAD 1341 1344	TEP
+T133	ENFERMEDAD 1892 1904	atelectasias
+T134	ENFERMEDAD 2015 2042	sangrado intra o extraaxial
+T135	SINTOMA 2181 2220	Estructuras de la línea media centradas
+T136	SINTOMA 2222 2246	Cisternas basales libres
+T137	ENFERMEDAD 2248 2303	Fractura de los huesos propios na11sales, no desplazada
+T138	SINTOMA 2305 2382	Tumefacción de partes blandas perinasal y en región fronto-parietal izquierda
+T139	SINTOMA 2429 2465	Tubo nasogástrico en coana izquierda
+T140	SINTOMA 2467 2533	Ocupación parcial de los senos esfenoidales y celdillas etmoidales
+T141	ENFERMEDAD 2595 2598	TEP
+T142	ENFERMEDAD 2797 2844	atelectasia en segmento lateral del LM y en LID
+T143	PROCEDIMIENTO 2969 2983	TCAR ABDOMINAL
+T145	SINTOMA 3322 3426	Leve cantidad de líquido alrededor de la vena femoral común izq en la zona dónde se introduce el catéter
+T146	ENFERMEDAD 3493 3549	ganglios intraabdominales de características patológicas
+T147	SINTOMA 3776 3842	alteraciones significativas de la densidad del parénquima cerebral
+T148	SINTOMA 3936 3975	Estructuras de la línea media centradas
+T149	SINTOMA 3977 4004	Cisternas de la base libres
+T1	SINTOMA 1087 1142	PCR Covid (22/05, 02/06, 09/06, 16/06, 23/06): positiva
+T2	SINTOMA 1029 1084	BAS (07/06, 09/06, 12/06, 19/06): Aspergillus fumigatus
+T3	SINTOMA 212 241	extendido celular macrofágico

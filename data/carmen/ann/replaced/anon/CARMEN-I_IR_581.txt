@@ -1,0 +1,21 @@
+
+prueba:
+ECOGRAFIA ABDOMINAL Y DOPPLER
+
+clinica:
+Paciente COVID-19, que ya requiere aislamiento. Presenta en analíticas de control aumento progresivo de ALAT y GGT
+Solicito ecografía doppler. Gracias
+HEPATITIS AGUDA
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, litiásica.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal con flujo hepatopetal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal
+
+descrip:
+ECOGRAFIA ABDOMINAL Y DOPPLER

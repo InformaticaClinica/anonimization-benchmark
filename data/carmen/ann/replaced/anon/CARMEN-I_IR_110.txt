@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Arteria pulmonar permeable de calibre normal.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado bilaterales y difusas de predominio subpleural y en LLSS. Focos consolidativos subpeurales que predominan en LLII y se alternan con focos de enfisema pulmonar paraseptal. Los hallazgos descritos estan en relación con infección por COVID en evolución.
+LTI con extensión intratorácica.
+Fractura antigua de la octava costilla izquierda.
+
+conclusiones:
+No hay signos de TEP.
+Signos de infección por COVID en evolución.
+
+descrip:
+ANGIO TC PULMONAR

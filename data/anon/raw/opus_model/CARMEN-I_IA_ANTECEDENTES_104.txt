@@ -1,0 +1,30 @@
+Antecedentes personales:
+Paciente mujer de [**EDAD_SUJETO_ASISTENCIA**] sin deterioro cognitivo y parcialmente dependiente para las ABVD. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**] . Se moviliza en casa por sus propios medios pero por la calle en silla de ruegas. Necesita ayuda para vestirse pero no para comer. No refiere habitos toxicos ni alergias a ningun medicamento.
+1.HTA, en tratamiento.
+2. Valvulopatias:
+- Estenosis aòrtica . Sustitución valvular en [**FECHAS**]. Actualmente con enfermedad aortica ( estenosis moderada e insuficiencia aortica severa )
+- Insuficiencia mitral severa .
+- Insuficiencia tricuspidea severa.
+3. Insuficiencia cardiaca con FEVI preservada ( 55% ) ( Ultimo ecocardiograma del [**FECHAS**] )
+4. Hipertensión pulmonar severa secundaria a IM .PAP sistólica estimada 103 mmHg.
+5. Fibrilacion auricular anticoagulada con apixaban. CHADVASC de 4.
+HASBLED 2.
+6. Diverticulosis con ingreso por diverticulitis no complicada, recibió tto antibiótico con rifaximina.
+7. ERC estadío IV sin seguimento por nefrología. Probable etiología cardiorenal + NAE.
+INTERVENCIONES QUIRURGICAS:
+1. Colecistectomía laparoscópica [**FECHAS**]
+2. Fractura de femur, protesis total de cadera izquierda [**FECHAS**].
+3. Recambio valvular aórtico por xenoinjerto montado de pericardio bovino en [**FECHAS**]
+4. Apendicectomia
+MEDICACIÓN HABITUAL [**FECHAS**]:
+- Acido folico 5 mg/dia
+- alopurinol 100 mg/dia
+- apixaban 2.5 mg/12h
+- bisoprolol 2.5 mg/dia
+- enalapril 2.5 mg/dia
+- Hidroclorotiazida 12.5 mg/dia
+- Hidroferol mensual
+- Lorazepam 1 mg/dia
+- omeprazol 20 mg/dia
+- furosemida 60 mg/dia
+- rifaximina 200 mg/mensual. Medicación habitual: MEDICACIÓN HABITUAL [**FECHAS**]: - Acido folico 5 mg/dia - alopurinol 100 mg/dia - apixaban 2.5 mg/12h - bisoprolol 2.5 mg/dia - enalapril 2.5 mg/dia - Hidroclorotiazi da 12.5 mg/dia - Hidroferol mensual - Lorazepam 1 mg/dia - omeprazol 20 mg/dia - furosemida 60 mg/dia - rifaximina 200 mg/mensual..

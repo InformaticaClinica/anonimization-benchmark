@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+PORFAVOR INTENTAR HACER  AP Y LATERAL, GRACIAS
+COVID-19 +
+
+conclusiones:
+Tenues opacidades en bases pulmonares (con práctica resolución) que han mejorado respecto a Rx previa de  [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

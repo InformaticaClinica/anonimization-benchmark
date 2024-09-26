@@ -1,0 +1,37 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] que ingresó en [**FECHAS**] por neumonia bilateral por infección SARS-CoV-2 tratada que requirió IOT + VMI. Posteriormente traquoestomía y weaning lento por diversas complicaciones. TC tórax de hace 3 semanas como mejoría de las lesiones parenquimatosas causadas por el coronavirus.
+En las últimas 48 horas presenta empeormiebnto respiratorio con insuficiencia respiratoria progresiva y empeoramiento radiológico con infiltrados pulmonares bilaterales. Persiste con PCR positica para covid-19 en aspirado traqueal.
+Interesa TC tórax urgente para completar estudio y diagnóstico diferencial: componente infamatorio/organizativo tardío secundario al covid que pudiera beneficiarse de tratamiento corticoideo vs replicación viral con neumoníoa secundaria vs distrés respiratorio de otra causa.
+Muchas gracias!
+insuficiencia respiratoria
+
+protocolo:
+TC TORAX EN FASE ARTERIAL TRAS LA ADMINISTRACION DE CONTRASTE ENDOVENOSO URGENTE
+
+resultados:
+Se compara con TC torácico previo del [**FECHAS**]
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Calcificaciones coronarias. Calcificación valvular mitral.
+Dilatación del tronco de la pulmonar, de hasta 34 mm, hallazgos sugestivos de HTP. No hay signos de sobrecarga cardíaca derecha.
+Sonda nasogástrica. Tubo endotraqueal a 50 mm de la carina.
+Catéter yugular izquierdo con extremo en tronco innominado. Catéter yugular derecho con extremo distal en unión cavoatrial.
+Pequeños nodulos hipodensos en ambos lobulos tiroideos, sin cambios.
+Adenopatías mediastínicas en ventana aortopulmonar, paratraqueales bilaterales y subcarinal que han aumentado respecto al TC previo.
+Aumento significativo del derrame pleural de predominio derecho y en cisuras respecto al TC previo que mustra un aspecto encapsulado en LLSS y en ambas cisuras en la actualidad.
+Empeoramiento radiológico del parénquima pulmonar con marcado aumento de las opacidades en vidrio deslustrado en parénquima pulmonar de distribución difusa respecto al estudio previo. Estos hallazgos sugieren como primiera opción una sobre infección por PCP, menos probable etiología vírica.
+Bronquiectasias cilíndricas difusas bilaterales.
+Enfisema centrolobulillar en ambos ápices pulmonares, sin cambios respecto TC previo.
+Resto del estudio sin cambios significativos.
+
+conclusiones:
+Obs: Caso compentado con la sección de radiología torácica (Dr. [**NOMBRE_PERSONAL_SANITARIO**]).
+-NO hay signos de TEP.
+- Empeoramiento radiológico del patrón en vidrio deslustrado difuso, hallazgos que sugieren sobreinfección por PCP, menos probable una etiología vírica.
+- Aumento del derrame pleural, de predominio derecho y en cisuras.
+
+descrip:
+TC TORAX

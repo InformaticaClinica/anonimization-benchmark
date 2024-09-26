@@ -1,0 +1,33 @@
+
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], parcialmente dependiente para las ABVD, refiere alergia a PULMICORT, vive en domicilio habitual con su [**FAMILIARES_SUJETO_ASISTENCIA**] y su [**FAMILIARES_SUJETO_ASISTENCIA**].
+HÁBITOS TÓXICOS:
+- Exfumador desde hace 20 años con carga acumulada de 80 paquetes/año.
+- Consumo crónico de alcohol de 2 cervezas/día + media botella vino el fin de semana, niega otras bebidas alcohólicas.
+** ANTECEDENTES PATOLÓGICOS:
+1. DIABETES MELLITUS tipo 2 en tratamiento antidiabético oral.
+2. DISLIPEMIA en tratamiento farmacológico.
+3. INSUFICIENCIA CARDÍACA DIASTÓLICA con FEVI 55%. Disfunción diastólica grado I ([**FECHAS**]). Se descarta Hipertensión pulmonar por cateterismo derecho (PAPm 25 mmHg).
+4. INSUFICIENCIA RESPIRATORIA CRÓNICA en contexto de EPOC GOLD D TIPO ENFISEMATOSO diagnosticado hace 15 años (exfumador, clínica bronquitis crónica, reactividad bronquial) en tratamiento broncodilatador desde hace 8 años. Sigue controles en Neumología de [**HOSPITAL**] con Dra [**NOMBRE_PERSONAL_SANITARIO**].
+Usuario de oxigenoterapia crónica dmiciliaria 16h/día a 2.5 l/m y VMNI nocturna.
+Se ha estudiado y valorado para reducción de volumen pulmonar, por ahora no se ha indicado.
+- Ecocardiografía ([**FECHAS**]): FE 55%, Disfuncion diastólica grado I.
+- PSG ([**FECHAS**]) descarta SAHS IAH 4. CT90 94, atribuido a su patologia respiratoria de base. Roncador simple.
+- PFR ([**FECHAS**]). Índice 23%. FEV1 0.85 (25%) FVC 3.64 (80%)
+- TLC 8.52 (121%) VR 205%. CV 78% CI 66%. DLCO 35% KCO 36%.
+5. NEUMONÍA en [**FECHAS**]. No ingresos recientes.
+6. CARCINOMA VESICAL de celulas transicionales in situ. Se realizó cistoprostatectomía radical + neovejiga tipo Tadovana en [**FECHAS**].
+Neocistolitotomía en [**FECHAS**]. Actualmente libre de enfermedad. Sigue controles por Urología de [**HOSPITAL**]. Buena función renal y ecografía sin dilatación en [**FECHAS**] (último control). Actualmente refiere buen funcionamiento de neovejiga.
+7. INFECCIÓN DE TRACTO URINARIO en [**FECHAS**], PIELONEFRITIS AGUDA que requirió ingreso en [**FECHAS**].
+** ANTECEDENTES QUIRÚRGICOS:
+- Osteosíntesis con placas y tornillos por fractura de tíbia y peroné izquierda.
+TRATAMIENTO HABITUAL ([**FECHAS**])
+- Budesonida + formoterol 1INH/8h
+- Salbutamol + ipratropi 1INH/8h
+- Ipratropio 2INH/24h
+- AAS 100mg/24h
+- Furosemida 40mg/24h
+- Metformina 850mg/12h
+- Simvastatina 20mg/24h
+- Citalopram 30mg/24h.
+ 

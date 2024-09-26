@@ -1,0 +1,34 @@
+
+* ANTECEDENTES PERSONALES:
+[**ID_SUJETO_ASISTENCIA**] [**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**] que reside en [**PAIS**] desde hace 2 años. Vive en [**TERRITORIO**] con una amiga. Estudios: secundaria completa. Actualmente trabaja como [**PROFESION**]. No refiere alergias medicamentosas. No tabaquismo, alcohol ocasional, no drogas recreativas. No contacto con animales actual. Viajes: no desde que llegó a [**TERRITORIO**] (hace dos años). [**ID_SUJETO_ASISTENCIA**] [**SEXO_SUJETO_ASISTENCIA**]. No tratamiento hormonal sustitutivo.
+Relaciones sexuales con preservativo, penetración oral y anal receptiva.
+- Antecedentes psiquiátricos: insomnio y ansiedad, actualmente en tratamiento con diazepam a demanda. Además tiene recetada amitriptilina.
+* ANTECEDENTES PATOLÓGICOS:
+1. INFECCIÓN POR VIH. Diagnóstico el [**FECHAS**] en [**INSTITUCION**] a raíz de test rápido de rutina. Última serología negativa en [**FECHAS**] y test rápido negativo en [**FECHAS**]. Relaciones sexuales desprotegidas con una pareja y con algún cliente en los últimos meses. En tratamiento con TARGA (Bictarvy) con buena adherencia. HLA-B*5701 Negativo.
+* [**FECHAS**]: CV 44.200 copias, genotipado en curso. CD4 563 cel/l.
+Cociente CD4/CD8 0.63.
+*Serologías [**FECHAS**]:
+-IgG VHA: +
+-Antigen superficie VHB: -
+-IgG superficie VHB: Quantitatiu >1000.00 UI/L
+-IgG core VHB: +
+-IgG VHC: -
+Tropisme HIV Informat
+Genotipat de Resistències VIH-1,sang tot Informat
+-IgG v. rubèola 74.50 UI/mL
+-IgG VVZ:+
+-IgG CMV (EIA): +
+-IgG Parotiditis: +
+-IgG sarampión: +
+-VDRL: -
+-IgG Toxoplasma (EIA: -
+-IgG anti-Strongloides stercoralis: 0.07 (negativo)
+2. HIPOTIROIDISMO. En tratamiento sustitutivo.
+* ANTECEDENTES QUIRÚRGICOS ELECTIVAS: prótesis mamarias, rinoplastia, silicón en glúteos.
+* TRATAMIENTO HABITUAL:
+- Rimstar (Isoniazida, Rifampicina, Pirazinamida y Etambutol) 4 comprimidos al día en ayunas.
+- Trimeq (Dolutegravir/Abacavir/Lamivudina) 1 comprimido al día en desayuno, con otra dosis de Dolutegravir en la noche de 50 mg (dosis doble por interación con rifampicina).
+- Omeprazol 20 mg/día en desayuno.
+- Levotiroxina 50 mcg/día en ayunas.
+- Paracetamol 1 g/8 horas si precisa.
+ 

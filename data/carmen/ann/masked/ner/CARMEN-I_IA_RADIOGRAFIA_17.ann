@@ -1,0 +1,13 @@
+T6	SINTOMA 65 87	hipoxemia normocápnica
+T7	SINTOMA 532 579	Engrosamiento difuso de las paredes bronquiales
+T8	SINTOMA 694 738	infiltrados bilaterales de predominio en LSI
+T9	SINTOMA 251 304	adenopatías torácicas radiológicamente significativas
+T10	SINTOMA 328 369	consolidación en LSI con broncogrma aéreo
+T11	SINTOMA 418 502	focos subpleurales en LSD, LID y LII, alguno de ellos con disposición perilobulillar
+T12	SINTOMA 582 604	atenuación heterogénea
+T13	SINTOMA 606 641	Condensaciones subpulmonares en LSD
+T14	PROCEDIMIENTO 23 31	TC Tórax
+T15	PROCEDIMIENTO 126 141	cánulas nasales
+T16	PROCEDIMIENTO 167 175	TC Tórax
+T17	PROCEDIMIENTO 663 670	RxTórax
+T18	ENFERMEDAD 251 272	adenopatías torácicas

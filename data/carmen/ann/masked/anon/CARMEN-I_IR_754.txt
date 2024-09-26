@@ -1,0 +1,25 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Síndrome febril, en TC Lesión expansiva de 35 mm en los ganglios basales izdos de aspecto necrótico-quístico con areas de
+sangrado subagudo ,realce periferico y con edema perilesional.Efecto masa sobre el VLI y estructuras de la
+línea media.A valorar por favor sangrado vs abceso, gracias.
+FIEBRE
+
+protocolo:
+Se administra gadolini
+
+resultados:
+Se compara con el TC previo realizado en [**FECHAS**]. El estudio está artefactado por movimientos durante la adquisición ya que el paciente está agitado.
+Se observa la lesión previamente descrita a nivel de ganglios basales y capsula interna izquierda que mantiene un componente hemorrgágico y con una captación periferica. Ha disminuido levemente de tamaño respecto al estudio previo. En secuencias difusión muestra un aumento heterogeneo de la misma relacionado con el componente hemorrágico. En el momento actual tiene menos efecto de masa que en el estudio previo y menor desviación de la linea media. La lesión se acompaña de edema perilesional
+Los ventriculos laterales estan dilatados y hay una persistencia del cavum del septum pelucidum que en el TC estava mas dilatada. Hay signos de edema transpendimario en ventriculo lateral izquierdo y un leve realce subependimario izquierdo.
+Entre el DD se debe de hacer con un hematoma ahora en estado subagudo por TC y por RM que estaria captando contraste y que está mejorando respecto al estudio previo. La otra opción es un abceso pero su mejoria y su aspecto tan irregular no es tan tipico. Por otra parte hay el realce subependimario que podria ser reactivo o por ventriculitis.
+Hay una hidrocefalia compresiva en ventriculos laterales sobre todo el izquierdo que actualmente se está reduciendo.
+
+conclusiones:
+Lesión expansiva en ganglios basales derechos que está reduciendo su tamaño y que tiene un componente hemorrágio. Por localización podria ser un hematoma de ganglios basales que esta mejorando. La hidrocefalia esta disminuyendo aunque hay edema y captación subependimaria. También está mejorando la desviación de la linea media. La opción de absceso no se puede descartar aunque radiologicamente parece menos probable debido al componente hemorrágico de la lesión. No se descarta una sobreinfección del hematoma.
+
+descrip:
+RM CEREBRAL

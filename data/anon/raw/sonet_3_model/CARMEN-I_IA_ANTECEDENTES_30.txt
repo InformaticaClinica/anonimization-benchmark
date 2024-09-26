@@ -1,0 +1,17 @@
+*ANTECEDENTES PERSONALES
+Varón de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas ni hábitos tóxicos.
+Autonomo. Vive en piso compartido.
+*ANTECEDENTES PATOLÓGICOS: .
+1. ARTRITIS REUMATOIDE en tratamiento con FAME.
+2. EPOC FEVI 66% en tto broncodilatador. Lligero deterioro de la funcion pulmonar (GOLD IIB) desde [**FECHAS**], controlado en [**CENTRO_SALUD**].
+3. ADK INFILRANTE COLON en [**FECHAS**] intervenida, libre de enfermedad.
+UltimoTC control en [**FECHAS**]: Sin signos de diseminación toracoabdominal. Marcado enfisema pulmonar bilateral. 3 nódulos pulmonares ifracentimetricos estables.
+4. NEUMOTÓRAX por bulla pleural.
+5. NÓDULO EN LSD Y LSI en TAC control por ADK colon. Se realizó lobectomía LSD en [**FECHAS**] en [**HOSPITAL**]. AP: LOBULO SUPERIOR DERECHO PULMONAR, SEGMENTECTOMIA Y RESECCION DE SEGUNDA LESION:
+- ENFISEMA BULLOSO DE INTENSIDAD SEVERA CON AREA FIBRO-CICATRICIAL CON RESIDUOS NECROTICOS, REACTIVA INESPECIFICA.
+- NODULO FIBROHIALINO DE TIPO REACTIVO, CORRESPONDIENTE A LA SEGUNDA LESION.
+-IQ: Apendicectomía.
+6. Neumonía bilateral por Sars-Cov-2 [**FECHAS**]. Tratamientos recibidos: Remdesivir ([**FECHAS**]), ceftriaxona + azitromicina ([**FECHAS**]), Dexametasona [**FECHAS**]
+*MEDICACIÓN HABITUAL: (cumplimiento irregular):
+Metotrexate semanal, Omeprazol, Indacaterol/glicopirronio 85/43 mcg 1 inh/d, Tramadol y paracetamol, Acfol, Enalapril 10mg/12h, Ac.
+alendronico semanal.

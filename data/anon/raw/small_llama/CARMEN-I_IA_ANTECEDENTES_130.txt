@@ -1,0 +1,33 @@
+ Varón de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. Ex-fumador, sin hábito enólico actualmente. Trabajó como [**PROFESION**] de centro médico.
+Dependiente para las actividades básicas de la vida diaria.
+* ANTECEDENTES FAMILIARES: Madre con DM2 fallecida por IAM, 1 de los 4 primoss con DM2 diagnosticada a los 56 años.
+* ANTECEDENTES PATOLÓGICOS:
+1. DIABETES MELITUS TIPO 2. Tendencia a la hiperglucemia desde el transplante con inicio de tratamiento con Glucobay hace 6 años, posteriormente se añadió daonil por mal control. Última HbA1c (agosto de 2014) de 7.2. Actualmente en tratamiento con insulina (lantus + rápida).
+- Complicaciones agudas: no ha requerido ingresos por descompensaciones de hiperglucémicas, sólo un episodio compatible con hipoglucemia en relación con el ejercicio.
+- Complicaciones crónicas: no dolor tóracico o claudicación intermitente con el ejercicio, refiere parestesias en extremidades inferiores de predominio nocturno (ya tenía clínica similar con EMG compatible con polineuropatía mixta antes del transplante y del diagnóstico de DM).
+Último fondo de ojo hace 6 meses (refiere que era normal).
+2. INSUFICIENCIA RENAL CRÓNICA secundaria a GLOMERULONEFRITIS MEMBRANOSA en 1998. En diálisis durante 4 años. TRANSPLANTE RENAL en 2002, no episodios de rechazo ni otras complicaciones. Actualmente en monoterapia para el rechazo. Sigue controles en el C. La Salud (Dr. Ager).
+Creatinina en 2,5-2,7 desde 2015. Comenzó diálisis peritoneal en 2017, pasando posteriormente a hemodiálisis que actualmente realiza los martes-jueves y sábados.
+3. HIPERTENSIÓN ARTERIAL desde el transplante en tratamiento farmacológico, controles en torno a 130/80 mmHg.
+4. ENFERMEDAD ARTERIAL CORONARIA DE 3 VASOS: IMPLANTE DE 1 STENT FARMACOACTIVO EN CORONARIA DERECHA EN 10/2018. SPECT de perfusión miocárdica el 6/2019: Patrón gammagráfico de discreta isquemia inferolateral en un paciente presenta un ventrículo izquierdo moderadamente hipertrófico. Ecocardiograma: FE 68%.
+5. SÍNDROME DEPRESIVO. Inició tratamiento en julio de 2012. En seguimiento por psiquiatría del C. La Salud.
+6. SÍNDROME DE PIERNAS INQUIETAS durante los años en que estuvo en hemodiálisis. Además refería dolor importante en los pies de predominio nocturno. Se realizó EMG compatible con polineuropatía mixta. Tras el transplante desaparecieron el dolor y las piernas inquietas pero persisten las parestesias.
+7. HIPERURICEMIA. En tratamiento farmacológico.
+8. EPOC GOLD B. última espirometría febrero 2019 VEMS 70%.
+9. SAHS grave pendiente de titulación de CPAP.
+10. ICTUS ISQUÉMICO CAROTÍDEO IZQUIERDO. OCLUSIÓN EN TÁNDEM: ARTERIA CARÓTIDA INTERNA (ICA) IZQUIERDA Y ARTERIA CEREBRAL MEDIA IZQUIERDA (ACMI) EN SEGMENTO M2. en Mayo del 2020. De manera residual hemiparesia hemicuerpo derecho y paralisis facial derecha. Se realiza tratamiento endovascular con angioplastia + stenting en ICA izquierda así como trombectomía sobre M2 izquierda, lográndose una recanalización parcial (oclusión distal en segmento M3). Tras el procedimiento se constata que durante el mismo el paciente ha progresado clínicamente (NIHSS 20). En las neuroimágenes de control (TC craneal dual y RM cerebral) no hay complicaciones hemorrágicas que expliquen la progresión clínica, sólo un foco de hemorragia subaracnoidea limitado a cisura silviana.
+* TRATAMIENTO MÉDICO HABITUAL (noviembre 2021):
+- [**Omacro**] 1000 mg c/12h.
+- [**Zolpidem**] 10 mg c/24h.
+- [**Fluoxetina**] 20 mg c/24h.
+- [**Atorvastatina**] 20 mg c/24h.
+- [**Becozyme C forte**] 200 mg (Ma-Ju-Sa)
+- [**Acfol**] 10 mg (Ma, Ju, Sa).
+- [**Advagraf**] 1 mg c/24h.
+- [**Omeprazol**] 20 mg c/24h.
+- [**Dacortin**] 5 mg c/24h.
+- [**Lantus**] 32 UI c/24h.
+- [**Novorapid**] 12 UI c/8h.
+- [**Ezetimiba**] 10 mg c/24h.
+- [**Bisoprolol**] 2'5 mg c/24h.
+- [**AAS**] 100 mg c/24h.

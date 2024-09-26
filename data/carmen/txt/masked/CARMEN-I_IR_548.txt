@@ -1,0 +1,28 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] amb limfoma amb afectació retroperitoneal. Presenta aparició de dolor, rápidament progressiu fins a fer-se persistent i molt intens, que limita qualsevol moovilització, d'aparició 48 hores després d'una biòpsia de la massa guiada per TC. Interessa descartar complicacions associades amb el procediment vs progressió del limfoma.
+
+protocolo:
+TC ABDOMINAL CON CONTRASTE EV. (BASAL, ARTERIAL Y PORTAL). Se compara con TC pre-biopsia realizado el [**FECHAS**].
+
+resultados:
+Hígado de morfología normal y contornos lisos, sin lesiones.
+Vesícula biliar replecionada, de paredes finas. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables.
+Leve esplenomegalia (13 cm). Páncreas y gl. suprarrenales sin alteraciones relevantes.
+Mazacote retroperitoneal parcialmente calcificado que ocupa los espacios retrocava, interaortocava y paraaórtico, globalmente de 12 x 6 x 10 cm (ejes TRxAPxCC). Engloba a la aorta y a la vena cava inferior (prácticamente colapsada), englobando también a ambas arterias y venas renales. No presenta cambios significativos respecto al TC pre-biopsia realizado el [**FECHAS**].
+No se identifican hematomas en el trayecto de la biopsia realizada.
+Riñones de morfología normal, sin dilatación de la vía excretora.
+No se observan otros ganglios intraabdominales ni inguinales de características patológicas.
+Asas intestinales y cólon sin alteraciones evidentes.
+No hay líquido libre intraabdominal.
+Bases torácicas con pequeñas opacidades subpleurales en LID y LM, correspondientes a cambios parenquimatosos pulmonares por infección por COVID-19 conocida.
+
+conclusiones:
+Gran mazacote retroperitoneal, sin cambios significativos respecto al TC pre-biopsia realizado el [**FECHAS**]. No se identifican hematomas en el trayecto de la biopsia realizada ni tampoco otros signos de complicación.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

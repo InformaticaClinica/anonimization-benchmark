@@ -1,0 +1,16 @@
+*ALTA E. INFECCIOSAS*
+- INFECCIÓN RESPIRATORIA POR VIRUS SARS-COV-2. AGUDIZACIÓN DE ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA.
+Inicio de síntomas: 13/06
+TAR + 13/06
+PCR + 20/06 (Ct 29); PCR + 25/06 (Ct pendiente)
+Vacuna SarsCov2: 2 dosis
+Tratamiento: Remdesivir 14-23/06; Bari 14-27/06; Dexametasona 14-27/06; Piperacilina/Tazobactam 20/06.
+- RETENCIÓN AGUDA DE ORINA.
+- ADENOCARCINOMA DE PULMÓN.
+- CARDIOPATÍA ISQUÉMICA.
+- PSORIASIS.
+Varón de 80 años con EPOC y adenocarcinoma de pulmón en seguimiento por Oncología, pendiente de TAc de control el próximo mes para descartar progresión, que ingresa por agudización de EPOC en contexto de infección por SarsCov2 con posible sobreinfección bacteriana. Al ingreso presenta PCR con Ct 29 y radiología sugestiva de afectación intersticial de predomino en bases. Analíticamente presenta con elevación marcada de reactantes de inflamación con PCR inicial de 7  mg/dL, que disminuye hasta 0.7 a lo largo del ingreso. Ha precisado oxigenoterapia con un flujo máximo de 2 litros por minuto. En cuanto al tratamiento para la infección por SarsCov2 ha recibido Remdesivir durante 3 días, Baricitinib y Dexametasona con buena evolución clínica. Asimismo,ante la sospecha de sobreinfección bacteriana se ha administrato antibioterapia empírica con Piperacilina-Tazobactam durante cinco días.
+Durante el ingreso el paciente presenta mejoría clínica progresiva con desaparición de la disnea, suspendiéndose la oxigenoterapia el día 25/06. Posteriormente mantiene SpO2 basal de 96%.
+Como principal complicación durante el ingreso ha presentado episodio de RAO en contexto de probable HBP, por lo que se ha realizado sondaje vesical e iniciado tratamiento con Tamsulosina. Refiere síndrome prostático de larga evolución, con PSA 11.5 en agosto de 2014, por lo que al alta se remite a su Urologo habitual para seguimiento.
+El día 26/06 se retira SV y se objetiva micción espontánea por lo que al alta no requiere SV.
+Dada la buena evolución es dado de alta a domicilio. Finaliza el aislamiento el 27 de junio (incluido).

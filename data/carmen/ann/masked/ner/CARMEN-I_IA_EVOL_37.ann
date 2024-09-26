@@ -1,0 +1,187 @@
+T39	SINTOMA 397 439	síntomas parkinsonianos de larga evolución
+T40	SINTOMA 548 554	fiebre
+T41	SINTOMA 557 560	tos
+T42	SINTOMA 750 761	somnoliento
+T43	SINTOMA 806 812	febril
+T44	SINTOMA 1417 1452	disminución del nivel de conciencia
+T45	SINTOMA 1960 1982	deterioro respiratorio
+T46	SINTOMA 1984 1996	desaturación
+T47	SINTOMA 2002 2021	soplo holosistólico
+T48	SINTOMA 2255 2270	episodio febril
+T49	SINTOMA 2569 2605	disminución del nivel de consciencia
+T50	SINTOMA 2608 2614	fiebre
+T51	SINTOMA 2619 2637	dímero D aumentado
+T52	SINTOMA 2957 2970	estreñimiento
+T53	SINTOMA 2972 2992	distensión abdominal
+T54	SINTOMA 2995 3002	vómitos
+T55	SINTOMA 3051 3070	distensión colónica
+T56	SINTOMA 3657 3684	alteraciones electrolíticas
+T57	SINTOMA 4186 4210	bajo nivel de conciencia
+T58	SINTOMA 4254 4261	rigidez
+T59	SINTOMA 4263 4276	hiperreflexia
+T60	SINTOMA 4278 4297	taquicardia sinusal
+T61	SINTOMA 4910 4931	remisión de la fiebre
+T62	SINTOMA 4948 4983	disminución del nivel de conciencia
+T63	SINTOMA 5633 5661	dificultad para las ingestas
+T64	SINTOMA 763 804	negativo a abrir ojos y responder órdenes
+T65	SINTOMA 1150 1203	frotis ([**FECHAS**]) confirma coronavirus cov-SARS-2
+T66	SINTOMA 1407 1414	rigidez
+T67	SINTOMA 3126 3153	distensión del marco còlico
+T68	SINTOMA 3201 3240	imagen de fecaloma en la ampolla rectal
+T69	ENFERMEDAD 3439 3452	hipernatremia
+T70	ENFERMEDAD 3466 3485	hipopotasemia grave
+T71	SINTOMA 3501 3523	alteraciones en el ECG
+T72	SINTOMA 3534 3595	coprocultivo y toxina de Clostridium que resultaron negativos
+T73	SINTOMA 3914 3944	adecuado estado de hidratación
+T74	SINTOMA 3968 3996	aliteraciones electrolíticas
+T75	SINTOMA 4544 4572	punción lumbar siendo normal
+T76	SINTOMA 4604 4631	atrofia difusa generalizada
+T77	SINTOMA 5367 5380	parkinsonismo
+T78	SINTOMA 5604 5611	regidez
+T79	SINTOMA 5916 5932	rigidez muscular
+T80	SINTOMA 6126 6141	diselectrolemia
+T81	SINTOMA 6172 6193	crisis tónico-clónica
+T82	SINTOMA 6331 6348	diselectrolitemia
+T83	SINTOMA 6581 6604	actividad epilepfitorme
+T84	SINTOMA 6937 6957	cambios conductuales
+T85	SINTOMA 3158 3183	abundantes restos fecales
+T86	SINTOMA 662 691	intolerancia al confinamiento
+T87	SINTOMA 1477 1510	punción lumbar que resultó normal
+T88	SINTOMA 1745 1801	hemocultivos del [**FECHAS**] se aisló Dielma fastidiosa
+T89	SINTOMA 2282 2346	UC ([**FECHAS**]) en el que se aisló P. areginosa y E. coli BLEA
+T90	SINTOMA 3420 3434	deshidratación
+T91	SINTOMA 4039 4091	SÍNDROME EXTRAPIRAMIDAL (RÍGIDO-ACINÉTICO-TREMÓRICO)
+T92	SINTOMA 5040 5092	síndrome extrapiramidal (rígido-acinético-tremòrico)
+T93	SINTOMA 6032 6062	CRISIS COMICIAL TÓNICO-CLÓNICA
+T94	SINTOMA 1351 1357	fiebre
+T95	SINTOMA 1730 1736	fiebre
+T96	SINTOMA 2520 2526	fiebre
+T97	SINTOMA 4300 4306	fiebre
+T98	SINTOMA 4718 4724	fiebre
+T99	ENFERMEDAD 157 192	ITU por P. areginosa y E. coli BLEA
+T100	ENFERMEDAD 254 275	hipertensión arterial
+T101	ENFERMEDAD 277 296	diabetes mellitus 2
+T102	ENFERMEDAD 298 308	dislipemia
+T103	ENFERMEDAD 310 313	TCE
+T104	ENFERMEDAD 331 354	trastornos psiquiátrico
+T105	ENFERMEDAD 356 375	trastorno paranoide
+T106	ENFERMEDAD 378 393	depresión mayor
+T107	ENFERMEDAD 2081 2093	endocarditis
+T108	ENFERMEDAD 2694 2705	TEP en base
+T109	ENFERMEDAD 2740 2743	TEP
+T110	ENFERMEDAD 2885 2898	HIPERNATREMIA
+T111	ENFERMEDAD 5040 5092	síndrome extrapiramidal (rígido-acinético-tremòrico)
+T112	ENFERMEDAD 5367 5380	parkinsonismo
+T113	ENFERMEDAD 5440 5469	trastornos de la personalidad
+T114	ENFERMEDAD 6172 6193	crisis tónico-clónica
+T115	ENFERMEDAD 6350 6363	hipopotasemia
+T116	ENFERMEDAD 6366 6379	hipernatremia
+T117	ENFERMEDAD 6534 6560	disfunción cerebral difusa
+T118	ENFERMEDAD 6563 6576	encefalopatía
+T119	ENFERMEDAD 6692 6710	crisis convulsivas
+T120	ENFERMEDAD 42 65	INFECCIÓN POR SARS COV2
+T121	ENFERMEDAD 397 463	síntomas parkinsonianos de larga evolución de origen farmacológico
+T122	ENFERMEDAD 694 722	descompensación psiquiátrica
+T123	ENFERMEDAD 2803 2811	FECALOMA
+T124	ENFERMEDAD 2815 2883	DIARREAS SECUNDARIAS A ENEMAS CON DESHIDRATACIÓN Y DISELECTROLITEMIA
+T125	ENFERMEDAD 2901 2914	HIPOPOTASEMIA
+T126	ENFERMEDAD 3211 3240	fecaloma en la ampolla rectal
+T127	ENFERMEDAD 3341 3485	diarrea abundante secundaria al tratamiento con enemas, produciendo importante deshidratación con hipernatremia (149- 150) e hipopotasemia grave
+T128	ENFERMEDAD 4039 4091	SÍNDROME EXTRAPIRAMIDAL (RÍGIDO-ACINÉTICO-TREMÓRICO)
+T129	ENFERMEDAD 6032 6062	CRISIS COMICIAL TÓNICO-CLÓNICA
+T130	FARMACO 893 912	lopinavir/ritonavir
+T131	FARMACO 942 959	hidroxicloroquina
+T132	FARMACO 989 1001	azitromicina
+T133	FARMACO 1063 1074	ceftriaxona
+T134	FARMACO 1105 1117	teicoplanina
+T135	FARMACO 1575 1584	meropenem
+T136	FARMACO 1622 1634	metronidazol
+T137	FARMACO 1813 1822	meropenem
+T138	FARMACO 3803 3815	teicoplanina
+T139	FARMACO 4835 4845	olanzapina
+T140	FARMACO 4847 4858	mirtazapina
+T141	FARMACO 4861 4876	ácido valproico
+T142	FARMACO 5154 5162	levodopa
+T143	FARMACO 5874 5882	levodopa
+T144	FARMACO 6248 6256	rivotril
+T145	FARMACO 6430 6436	Keppra
+T146	FARMACO 6816 6826	lacosamida
+T147	FARMACO 6908 6921	levetiracetam
+T148	PROCEDIMIENTO 1034 1048	antibioterapia
+T149	PROCEDIMIENTO 1549 1570	cobertura antibiótica
+T150	PROCEDIMIENTO 2216 2239	tratamiento antibiótico
+T151	FARMACO 2383 2390	Tazocel
+T152	PROCEDIMIENTO 3268 3274	enemas
+T153	PROCEDIMIENTO 3389 3395	enemas
+T154	PROCEDIMIENTO 3624 3636	sueroterapia
+T155	PROCEDIMIENTO 3697 3718	cobertura antibiótica
+T156	FARMACO 3758 3765	Tazocel
+T157	PROCEDIMIENTO 4010 4034	sueroterapia intravenosa
+T158	PROCEDIMIENTO 4812 4833	psiquiátrico habitual
+T159	PROCEDIMIENTO 5711 5744	nutrición enteral a través de SNG
+T160	PROCEDIMIENTO 6010 6027	nutrición enteral
+T161	PROCEDIMIENTO 6097 6123	tratamiento antiepiléptico
+T162	PROCEDIMIENTO 6302 6328	tratamiento antiepiléptico
+T163	PROCEDIMIENTO 6801 6813	anticomicial
+T164	PROCEDIMIENTO 2838 2844	ENEMAS
+T165	PROCEDIMIENTO 4402 4444	tratamiento antibiótico de amplio espectro
+T166	SINTOMA 1269 1294	hemodinámicamente estable
+T167	ENFERMEDAD 628 646	intento autolítico
+T168	ENFERMEDAD 1388 1399	bacteriemia
+T169	ENFERMEDAD 4674 4689	lesiones agudas
+T170	ENFERMEDAD 6873 6889	crisis sea focal
+T171	FARMACO 1549 1570	cobertura antibiótica
+T172	FARMACO 3624 3636	sueroterapia
+T173	FARMACO 4402 4444	tratamiento antibiótico de amplio espectro
+T174	PROCEDIMIENTO 834 855	frotis de coronavirus
+T175	PROCEDIMIENTO 1524 1536	hemocultivos
+T176	PROCEDIMIENTO 2027 2048	auscultación cardiaca
+T177	PROCEDIMIENTO 2106 2119	eocardiograma
+T178	PROCEDIMIENTO 2555 2564	Angio-TAC
+T179	PROCEDIMIENTO 3004 3018	Rx de ambdomen
+T180	PROCEDIMIENTO 3093 3106	TAC abdominal
+T181	PROCEDIMIENTO 4579 4581	RM
+T182	PROCEDIMIENTO 4643 4646	RMN
+T183	PROCEDIMIENTO 5974 5979	dieta
+T184	PROCEDIMIENTO 6504 6507	EEG
+T185	HUMANO 193 201	Paciente
+T186	HUMANO 1246 1254	paciente
+T187	HUMANO 2167 2175	paciente
+T188	HUMANO 2456 2464	paciente
+T189	HUMANO 2762 2764	Dr
+T190	HUMANO 2939 2947	paciente
+T191	HUMANO 3323 3331	paciente
+T192	HUMANO 4165 4173	paciente
+T193	SPECIES 4355 4364	bacterias
+T194	HUMANO 4754 4757	Dr.
+T195	HUMANO 4892 4900	paciente
+T196	HUMANO 5615 5623	paciente
+T197	HUMANO 5777 5785	paciente
+T198	HUMANO 6609 6617	paciente
+T199	HUMANO 6961 6970	pacientes
+T200	SPECIES 56 65	SARS COV2
+T201	SPECIES 115 128	D. fastidiosa
+T202	ENFERMEDAD 99 128	BACTERIEMIA por D. fastidiosa
+T203	SINTOMA 70 85	SÍNDROME FEBRIL
+T204	SPECIES 165 177	P. areginosa
+T205	SPECIES 180 192	E. coli BLEA
+T206	SPECIES 844 855	coronavirus
+T207	SPECIES 1181 1203	coronavirus cov-SARS-2
+T209	PROCEDIMIENTO 1477 1491	punción lumbar
+T210	PROCEDIMIENTO 1318 1329	FiO2 al 24%
+T211	PROCEDIMIENTO 1745 1757	hemocultivos
+T212	SPECIES 1784 1801	Dielma fastidiosa
+T213	PROCEDIMIENTO 2282 2284	UC
+T214	SPECIES 2319 2331	P. areginosa
+T215	SPECIES 2334 2346	E. coli BLEA
+T216	PROCEDIMIENTO 3520 3523	ECG
+T217	PROCEDIMIENTO 3534 3570	coprocultivo y toxina de Clostridium
+T218	SPECIES 3559 3570	Clostridium
+T219	PROCEDIMIENTO 4336 4382	se aislaron varias bacterias en sangre y orina
+T220	SINTOMA 4336 4382	se aislaron varias bacterias en sangre y orina
+T221	PROCEDIMIENTO 4544 4558	punción lumbar
+T222	PROCEDIMIENTO 5511 5519	DaT-SCAN
+T223	PROCEDIMIENTO 3871 3880	analítica
+T1	SINTOMA 2478 2496	mejoría progresiva
+T2	SINTOMA 3863 3890	mejoría analítica y clínica
+T3	SINTOMA 4457 4496	mejoría de los marcadores inflamatorios

@@ -1,0 +1,32 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] que ingresa por pancreatitis aguda biliar con criterios de gravedad, abdomen con epigastrio empastado y doloroso sin signos de irritación peritoneal. Solicitamos tc abdomen. Gracias
+pancreatitis aguda biliar grave
+
+protocolo:
+TC toracoabdominal con tórax en fase arterial y abdomen en fase pancreatográfica, portal y excretora después de administrar contraste endovenoso.
+
+resultados:
+No hay adenopatías axilares ni mediastínicas de tamaño valorable.
+No se observa derrame pericárdico. Moderado derrame pleural bilateral que asocia atelectasias parciales de ambos LLII.
+Granuloma calcificado en LII. Resto del parénquima pulmonar sin alteraciones valorables.
+Glándula pancreática marcadamente hipodensa, con desestructuración y borramiento de sus contonos prácticamente en su totalidad, identificando focos aislados de parénquima respetado en proceso uncinado, cabeza cuerpo y cola pancreáticos. Los hallazgos están en relación con una pancreatitis aguda necrotizante (>60%).
+Trabeculación y aumento de la densidad de la grasa peripacreática y en raíz del mesenterio en relación a cambios inflamatorios. Se identifica a su vez un engrosamiento hipodenso de las paredes duodenales en 2da y 3era porción duodenal, en relación a cambios inflamatorios por vecindad.
+Moderada cantidad de liquido libre intrabdominal difuso de predominio perigástrico y peripancreático.
+No se observan colecciones ni neumoperitoneo.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Vesicula biliar distendida,litiásica. Via biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales a excepción de adenopatía reactiva adyacente a la cabeza pancreática de 17mm.
+Sondaje vesical.
+
+conclusiones:
+Pancreatitis aguda necrotizante (>60%) que asocia cambios reactivos en grasa mesentérica y 2nda y 3era porciones duodenales asi como moderadao liquido libre intraabdominal difuso.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

@@ -1,0 +1,29 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Pacient [**EDAD_SUJETO_ASISTENCIA**] con neumonía COVID ingresado hace 16 días. IOT + VM.
+Insuficiencia renal en HDFVVC. Anticoagulado. Presenta en las últimas 72 horas deterioro hemodinámico y caída de la Hb con requerimientos transfusionales (3 concentrados últimas 36 horas). Sangrado puntos punción a pesar de suspender anticoagulación. Interesa descartar sangrado intraabdominal (retroperitoneal). GRACIAS.
+2. NEUMONÍA BILATERAL POR SARS-COV-2.
+
+protocolo:
+TC ABDOMINOPELVICO URGENTE
+Mediante técnica helicoidal se realizan cortes axiales desde diafragmas hasta sínfisis púbica en condiciones basales y tras la administración de contraste i.v. en fase arterial y portal.
+
+resultados:
+No se observan signos de sangrado activo ni hematoma retroperitoneal.
+Catéter venoso central con acceso femoral derecho cuyo extremo distal parece sobrepasar 1,5 cm la pared posterior de la vena ilíaca común, a unos 3 cm del confluente ilíaco. No presenta trabeculación de la grasa, líquido libre ni colecciones adyacentes. Otra posibilidad sería que el extremo distal del catéter se encuentre en una vena lumbar, aunque no es posible confirmarlo mediante el TC actual.
+Sonda nasogástrica con extremo distal en cuerpo gástrico.
+Hígado de tamaño, morfología y coeficiente de atenuación normales. No se observan lesiones focales.
+Vena porta, eje esplenomesentérico permeable y VCI permeables.
+Vesícula distendida, sin otras alteraciones asociadas. Vía biliar no dilatada. Páncreas, bazo y glándulas suprarrenales de tamaño y morfología normal. Riñones de tamaño y morfología normal. No hay evidencia de dilatación de la vía excretora. Vejiga con sonda vesical en su interior. Se observan múltiples litiasis vesicales de hasta 1 cm.
+Próstata de tamaño aumentado. Diverticulosis colónica sin signos de complicación. Hernia inguinal derecha indirecta con contenido graso.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+
+conclusiones:
+No se observa sangrado activo intrabdominal ni hematomas.
+CVC femoral derecho que parece sobrepasar la pared posterior de la vena ilíaca común derecha. No presenta líquido, colecciones ni otras alteraciones en los planos grasos adyacentes. Una posibilidad sería que el extremo distal se encuentre en una vena lumbar.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

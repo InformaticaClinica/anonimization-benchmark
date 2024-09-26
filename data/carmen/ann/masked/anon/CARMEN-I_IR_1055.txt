@@ -1,0 +1,21 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+ictus
+
+resultados:
+Estudio incompleto por imposibilidad de la paciente para aguantar la prueba.
+cisternas basales libres. estructuras de línea media centradas sistema ventricular de tamaño y morfología y situación normal
+a nivel de cápsula interna izquierda se aprecia la lesión de aspecto isquémico  subagudo sin signos de transformación hemorrágica evidente.
+también destaca a nivel de protuberancia varias lesiones residuales que podrían estar en relación con episodios  hemorrágicos previos . No se dispone de secuencias de gradiente.
+Imagen sugestiva de lesión lacunar a nivel de centro semioval derecho
+
+conclusiones:
+Estudio incompleto
+Lesión de aspecto isquémico residual a nivel de cápsula interna izquierda
+presencia de varias lesiones de aspecto residual en protuberancia de probable origen  hemorrágico.
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

@@ -1,0 +1,75 @@
+T9	FARMACO 396 408	azitromicina
+T10	FARMACO 410 427	hidroxicloroquina
+T11	FARMACO 429 440	tocilizumab
+T12	FARMACO 447 464	metilprednisolona
+T13	FARMACO 483 492	meropenem
+T14	FARMACO 499 512	noradrenalina
+T15	FARMACO 541 564	Piperacilina tazobactam
+T16	FARMACO 575 586	Daptomicina
+T17	FARMACO 597 609	isavuconazol
+T18	FARMACO 841 853	Azitromicina
+T19	FARMACO 855 872	hidroxicloroquina
+T20	FARMACO 875 894	lopinavir/ritonavir
+T21	FARMACO 1098 1109	tocilizumab
+T22	FARMACO 1121 1138	metilprednisolona
+T23	FARMACO 1176 1185	meropenem
+T24	FARMACO 1188 1199	daptomiicna
+T25	FARMACO 1202 1214	isavuconazol
+T26	FARMACO 1263 1276	noradrenalina
+T27	FARMACO 1447 1457	furosemida
+T28	FARMACO 1926 1951	pipertazilina/ tazobactam
+T29	FARMACO 1953 1964	daptomicina
+T30	FARMACO 1967 1979	isavuconazol
+T31	FARMACO 2301 2314	noradrenalina
+T32	FARMACO 2358 2365	morfina
+T33	PROCEDIMIENTO 120 138	soporte vasoactivo
+T34	PROCEDIMIENTO 1150 1171	cobertura antibiótica
+T35	FARMACO 1358 1369	Haloperidol
+T36	PROCEDIMIENTO 1595 1610	anticoagulacíón
+T37	SINTOMA 334 349	frotis positivo
+T38	SINTOMA 1046 1057	pico febril
+T39	SINTOMA 1216 1242	inestabilidad hemodinámica
+T40	SINTOMA 1317 1326	agitación
+T41	SINTOMA 1874 1881	afebril
+T42	SINTOMA 2051 2075	infiltrados bilatereales
+T43	SINTOMA 2134 2161	disnea de mínimos esfuerzos
+T44	SINTOMA 2163 2189	desaturación al movimiento
+T45	SINTOMA 2192 2209	cambio de postura
+T46	SINTOMA 2211 2247	disminución del nivel de consciencia
+T47	SINTOMA 2249 2279	inestable a nivel hemodinámico
+T48	SINTOMA 2393 2399	disnea
+T49	SINTOMA 2550 2556	exitus
+T50	ENFERMEDAD 3 35	NEUMONÍA BILATERAL POR SARS COV2
+T51	ENFERMEDAD 38 70	INSUFICIENCIA RESPIRATORIA GRAVE
+T52	ENFERMEDAD 85 98	SHOCK SEPTICO
+T53	ENFERMEDAD 141 165	Trombosis venosa femoral
+T54	ENFERMEDAD 177 206	Fractura de fémur izquierdo--
+T55	ENFERMEDAD 756 784	fémur izquierdo por fractura
+T56	ENFERMEDAD 808 813	COVID
+T57	ENFERMEDAD 954 987	insuficiencia respiratoria severa
+T58	ENFERMEDAD 998 1011	shock séptico
+T59	ENFERMEDAD 1390 1427	insuficiencia renal crónica agudizada
+T60	ENFERMEDAD 1532 1565	trombosis venosa profunda femoral
+T61	ENFERMEDAD 1668 1700	insuficiencia respiratoria grave
+T62	FARMACO 1150 1171	cobertura antibiótica
+T63	PROCEDIMIENTO 722 771	colocación de clavo TFNA corto en fémur izquierdo
+T64	PROCEDIMIENTO 1493 1517	ecodoopler a pie de cama
+T65	PROCEDIMIENTO 1786 1809	ventilación no invasiva
+T66	PROCEDIMIENTO 1894 1905	aislamiento
+T67	PROCEDIMIENTO 2019 2030	Rx de tórax
+T68	HUMANO 618 626	Paciente
+T69	SPECIES 1016 1044	aislamientos microbiologicos
+T70	HUMANO 2076 2084	Paciente
+T71	HUMANO 2534 2541	familia
+T72	SPECIES 26 35	SARS COV2
+T73	PROCEDIMIENTO 72 75	VNI
+T74	PROCEDIMIENTO 78 81	LAF
+T75	PROCEDIMIENTO 177 234	Fractura de fémur izquierdo-- Intervenido quirúrgicamente
+T76	PROCEDIMIENTO 359 362	PCR
+T77	PROCEDIMIENTO 447 470	metilprednisolona bolus
+T78	PROCEDIMIENTO 1016 1044	aislamientos microbiologicos
+T79	PROCEDIMIENTO 1111 1138	pulsos de metilprednisolona
+T80	PROCEDIMIENTO 1338 1356	precisa contención
+T81	PROCEDIMIENTO 1716 1747	lentillas nasales de alto flujo
+T82	PROCEDIMIENTO 1824 1847	Lentillas de alto flujo
+T83	PROCEDIMIENTO 2498 2516	medidas de confort

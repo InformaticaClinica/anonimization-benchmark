@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+neumonia SARS-COV2 con ingreso en SalaUCI con LAF, persiste a día 15 con VK31% e infiltrados bilaterales con ferritina elevada. Solicito TCAR descartar NO. Gracias
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta diafragmas empleando técnica  de alta resolución.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades parcheadas en vidrio deslustrado, focos consolidativos y bandas perilobulares,compatible con cambios de neumonia organizativa con escasa extensión.
+Atelectasias posterobasales bilaterales.
+
+conclusiones:
+Atelectasias posterobasales bilaterles,
+Discretas imágenes de neumonia organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

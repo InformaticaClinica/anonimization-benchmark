@@ -8,6 +8,7 @@ from llm import Haiku3Model, Sonet3Model, OpusModel
 from llm import BigMistralModel, Sonet3_5Model, SmallLlamaModel
 from metrics import Metrics
 import os
+import re
 
 PATH = './data/carmen/'
 
@@ -30,6 +31,13 @@ def store_text(text, filename, name_model):
     with open(file_path, 'w') as file:
         file.write(text)
 
+def post_processing_replace_text(text, dictionary):
+    def replacement_match(match):
+        keyword = match.group(1)  
+        return dictionary.get(keyword, keyword)  
+    modified_text = re.sub(r'\[\*\*(.*?)\*\*\]', replacement_match, text)
+    return modified_text
+
 def anonimized_loop(llm, name_model, data):
     start_time = time.time()
     counter = 0
@@ -44,12 +52,14 @@ def anonimized_loop(llm, name_model, data):
             text_generated = context.generate_response(data)
             # Second iteration
             # TODO: Handle system prompt because of performance
-            data["system"] = read_text("prompts/system_prompt2.txt")
+            data["system"] = read_text("prompts/system_prompt2_beta.txt")
             data["user"] = text_generated
-            text_generated = context.generate_response(data)
-            metrics.calculate(ground_truth, text_generated)
-            metrics.store_metrics()
-            store_text(text_generated, filename, name_model)
+            dictionary = context.generate_response(data)
+            text_generated = post_processing_replace_text(text_generated, dictionary)
+            print(text_generated)
+            #metrics.calculate(ground_truth, text_generated)
+            #metrics.store_metrics()
+            #store_text(text_generated, filename, name_model)
             counter += 1
             if counter >= 100:
                 break
@@ -62,15 +72,15 @@ def anonimized_loop(llm, name_model, data):
 
 def call_models(data):
     anonimized_loop(SmallLlamaModel(),  "small_llama",         data)
-    anonimized_loop(BigMistralModel(),  "big_mistral_model",   data)
-    anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model", data)
-    anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model",     data)
-    anonimized_loop(BigLlamaModel(),    "big_llama_model",     data)
-    # anonimized_loop(ChatGPTModel(),     "chatgpt_model",       data)
-    # anonimized_loop(ChatGPTminiModel(),     "chatgpt_mini_model",       data)
-    anonimized_loop(Sonet3Model(),      "sonet_3_model",       data)
-    anonimized_loop(Haiku3Model(),      "haiku_3_model",       data)
-    anonimized_loop(OpusModel(),        "opus_model",          data)
+    # anonimized_loop(BigMistralModel(),  "big_mistral_model",   data)
+    # anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model", data)
+    # anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model",     data)
+    # anonimized_loop(BigLlamaModel(),    "big_llama_model",     data)
+    # # anonimized_loop(ChatGPTModel(),     "chatgpt_model",       data)
+    # # anonimized_loop(ChatGPTminiModel(),     "chatgpt_mini_model",       data)
+    # anonimized_loop(Sonet3Model(),      "sonet_3_model",       data)
+    # anonimized_loop(Haiku3Model(),      "haiku_3_model",       data)
+    # anonimized_loop(OpusModel(),        "opus_model",          data)
 
 
 def main():

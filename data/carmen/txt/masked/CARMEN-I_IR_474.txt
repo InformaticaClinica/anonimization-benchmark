@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+infeccion por covid
+SARS CoV2
+
+conclusiones:
+Atelectasias laminares en ambas bases y dudosa opacidad basal izquierda, sin cambios significativos respecto a RX previa de   [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,39 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con absceso submandibular izquierdo odontógeno drenado quirúrgicamente el [**FECHAS**] + exodoncia 38. Buena evolución clínica excepto pico febril 38ºC el sábado y presencia de tos desde ayer.
+Cultivo: streptococcus anginosus. Rogamos TAC cervical y torácico para destartar mediastinitis o otras complicaciones.
+absceso odontógeno
+
+protocolo:
+TC CUELLO + TÓRAX URGENTE
+
+resultados:
+TC CUELLO
+* Se compara con TC de cuello previo del [**FECHAS**].
+Cambios postquirúrgicos recientes en relación a evacuación del absceso submandibular izquierdo y exodoncia. Presencia de catéter de drenaje con acceso cervical lateral izquierdo a nivel tiroideo, trayecto ascendente y extremo distal submandibular izquierdo.
+No se visualizan imágenes sugestivas de colecciones residuales evidentes en espacios sublingual, submaxilar ni pre-hiodeo, así como tampoco cambios flegmonosos evidentes en los segmentos cervicales incluidos. Sin compromiso de partes blandas cervical profundo.
+Glándulas parótidas y submaxilares sin alteraciones.
+Estructuras vasculares cervicales permeables.
+Persisten adenopatías de aspecto reactivo laterocervical izquierdo.
+No apreciamos alteraciones óseas.
+Quistes de retención mucosa en ambos senos maxilares.
+TC TÓRAX
+Parénquima pulmonar con patrón en "crazy paving"  de distribución predominantemente peribronvocascular en ambos LLII, con mayor afectación en LII donde se visualiza un área confluente con formación de consolidación y broncograma aéreo, discretos engrosamientos bronquiolares y algún pequeño tapón endoluminal. Los lóbulos superiores y LM se encuentran conservados.
+Dichos hallazgos pueden corresponder a infección por COVID19 dado el contexto clínico del paciente, aunque no presentan una distribución y presentación típica.
+No se visualiza trabeculación del resto de la grasa mediastínica sugestivo de mediastinitis. Rarefacción de la grasa del mediastino anterosuperior en probable relación a restos tímicos.
+Mínima lámina de derrame cisural izquierdo. Sin derrame pleural bibasal ni líquido pericárdico.
+No se visualizan adenopatías mediastínicas, hiliares ni axilares de tamaño patológico.
+
+conclusiones:
+Cambios postIQ con evacuación de la colección submandibular conocida con mejoría de los cambios inflamatorios cervicales asociados.
+Sin signos de mediastinitis en la actualidad.
+Parénquima pulmonar con patrón afectando a ambos LLII (de predominio izquierdo) que sugiere corresponder a infección por COVID19 como primera opción dado el contexto clínico del paciente. Si bien, la afectación bilobar consolidativa y la presencia de alguna ocupación endobronquial no es la presentación y distribución típica, por lo que se recomienda correlacionar clínicamente y valorar la posibilidad de otra etiología infecciosa coexistente.
+
+descrip:
+TC TORAX
+
+descrip:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDADORAL/ FARINGE/LARINGE/TIROIDES)

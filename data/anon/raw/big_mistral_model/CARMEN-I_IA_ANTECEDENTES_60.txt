@@ -1,0 +1,1 @@
+ Hombre de [**EDAD_SUJETO_ASISTENCIA**]. No alergias medicamentosas conocidas. Exfumador hasta diciembre del 2[**NUMERO_IDENTIF**].

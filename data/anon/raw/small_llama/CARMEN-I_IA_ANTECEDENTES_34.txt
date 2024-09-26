@@ -1,0 +1,3 @@
+ Hombre de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias medicamentosas conocidas (refiere aftas orales con la toma de eritromicina, aunque durante el ingreso ha tolerado azitromicina). Trabaja de [**PROFESION**]. Barthel 100.
+         No hábitos tóxicos ni medicación habitual.
+         - [**OTROS_SUJETO_ASISTENCIA**] izquierdo intervenido quirúrgicamente.

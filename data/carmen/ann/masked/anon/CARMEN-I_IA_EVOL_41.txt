@@ -1,0 +1,16 @@
+*ALTA E. INFECCIOSAS*
+- INFECCIÓN RESPIRATORIA POR VIRUS SARS-COV-2. AGUDIZACIÓN DE ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA.
+Inicio de síntomas: [**FECHAS**]
+TAR + [**FECHAS**]
+PCR + [**FECHAS**] (Ct 29); PCR + [**FECHAS**] (Ct pendiente)
+Vacuna SarsCov2: 2 dosis
+Tratamiento: Remdesivir [**FECHAS**]-[**FECHAS**]; Bari [**FECHAS**]-[**FECHAS**]; Dexametasona [**FECHAS**]-[**FECHAS**]; Piperacilina/Tazobactam [**FECHAS**].
+- RETENCIÓN AGUDA DE ORINA.
+- ADENOCARCINOMA DE PULMÓN.
+- CARDIOPATÍA ISQUÉMICA.
+- PSORIASIS.
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con EPOC y adenocarcinoma de pulmón en seguimiento por Oncología, pendiente de TAc de control el próximo mes para descartar progresión, que ingresa por agudización de EPOC en contexto de infección por SarsCov2 con posible sobreinfección bacteriana. Al ingreso presenta PCR con Ct 29 y radiología sugestiva de afectación intersticial de predomino en bases. Analíticamente presenta con elevación marcada de reactantes de inflamación con PCR inicial de 7  mg/dL, que disminuye hasta 0.7 a lo largo del ingreso. Ha precisado oxigenoterapia con un flujo máximo de 2 litros por minuto. En cuanto al tratamiento para la infección por SarsCov2 ha recibido Remdesivir durante 3 días, Baricitinib y Dexametasona con buena evolución clínica. Asimismo,ante la sospecha de sobreinfección bacteriana se ha administrato antibioterapia empírica con Piperacilina-Tazobactam durante cinco días.
+Durante el ingreso el paciente presenta mejoría clínica progresiva con desaparición de la disnea, suspendiéndose la oxigenoterapia el día [**FECHAS**]. Posteriormente mantiene SpO2 basal de 96%.
+Como principal complicación durante el ingreso ha presentado episodio de RAO en contexto de probable HBP, por lo que se ha realizado sondaje vesical e iniciado tratamiento con Tamsulosina. Refiere síndrome prostático de larga evolución, con PSA 11.5 en [**FECHAS**], por lo que al alta se remite a su Urologo habitual para seguimiento.
+El día [**FECHAS**] se retira SV y se objetiva micción espontánea por lo que al alta no requiere SV.
+Dada la buena evolución es dado de alta a domicilio. Finaliza el aislamiento el [**FECHAS**] (incluido).

@@ -1,0 +1,16 @@
+T4	PROCEDIMIENTO 3 31	Ecocardiograma a pie de cama
+T5	PROCEDIMIENTO 548 568	Radiografía de tórax
+T6	PROCEDIMIENTO 620 643	neumonectomía izquierda
+T7	PROCEDIMIENTO 222 230	ANGIOTAC
+T9	ENFERMEDAD 113 131	hipertrofia del VI
+T10	SINTOMA 645 685	Pinzamiento del seno costofrénico laterl
+T11	SINTOMA 734 754	opacidades en pulmón
+T12	ENFERMEDAD 288 297	TEP agudo
+T13	ENFERMEDAD 312 333	hipertensión pulmonar
+T14	ENFERMEDAD 336 363	sobrecarga cardíaca derecha
+T15	ENFERMEDAD 428 436	COVID-19
+T16	ENFERMEDAD 707 722	derrame pleural
+T17	ENFERMEDAD 845 872	ifección pulmonar por COVID
+T18	ENFERMEDAD 61 94	dilatación del ventrículo derecho
+T19	SINTOMA 146 192	colapsabilidad a nivel de vena femoral derecha
+T20	ENFERMEDAD 440 478	Lesión nodular subsólida de 9 mm en LM

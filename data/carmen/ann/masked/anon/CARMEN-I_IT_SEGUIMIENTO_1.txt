@@ -1,0 +1,20 @@
+VALORACIÓN PSIQUIATRÍA DE ENLACE (Dr. [**NOMBRE_PERSONAL_SANITARIO**]).
+*MOTIVO DE CONSULTA:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], que ingresa el [**FECHAS**] por COVID, presentando una neumonía bilateral, ingreso prolongado, caso social, vive en la calle. Solicitan valoración por psiquiatría ya que el paciente rechazaría constantemente los recursos sociales ofrecidos de cara al alta y al equipo le pareceque tiene juicio de realidad conservado.
+*ANTECEDENTES PSICO-SOCIALES:
+Paciente soltero, no tiene hijos, natural del [**PAIS**], es [**PROFESION**] jubilado, vive en lacalle desde hace varios años, no es posible precisar la razón a la evaluación. Muy difícil obtener datos fidedignos. Paciente enseguimiento por [**CENTRO_SALUD**] y [**INSTITUCION**].
+Niega patologías físicas y consumode alcohol o tóxicos. Niega alergias.
+Dice que nunca ha tenidoatenciones psiquiátricas ni psicológicas, sin embargo, dice haber tenido múltiples episodios depresivos que no sabe precisar ni logradescribir. Nunca psicofármacos. Desconoce antecedentes familiares.
+*CUADRO ACTUAL Y EVALUACIÓN PSICOPATOLÓGICA.
+Paciente vigil,desorientado temporalmente, contacto poco sintónico, establece muy poca intersubjetividad en el relato y hace muy poco contacto visual.Pensamiento a ratos acelerado, muy desorganizado, atemporal, con respuestas al margen, en relación al contenido el paciente presentaideas delirantes de daños, perjuicio y persecución que relata de manera perseverante o estereotipada, las vivencias con certeza apodíptica, soninamovibles e irrefutables ("Personas que entraban en su casa para robarle, ponerle apósitos con sangre, luego lo hicieron irse a la calle y le contagiaron el COVID, él no sabe quienes son, nunca los ha vistopero tiene la certeza de que lo espían"). Con modulación afectiva escaza,a ratos discordante con el relato. En cuanto a la afectividad elpaciente en ocasiones se angustia bastante. Con clara tendencia a lainquietud psicomotora que se logra contener verbalmente. No queda clarosi presenta o no alteraciones sensoperceptivas. Evidente alteración del juicio de realidad. No es posible indagar en propositividad vital.
+OD: PSICOSIS NO ESPECIFICADA
+PLAN: Debido a la sintomatología psicótica actual del paciente, y como ya estaría de alta médica y requiere ingreso para estabilización psicopatológica y estudio, se contacta con [**HOSPITAL**], que aceptan ingreso.
+Tratamiento: Inicio Risperidona 1 mg por la mañana y 1 mg por la noche.
+Haloperdol 2 mg im como PRN.
+* visita [**FECHAS**]
+En visita de psiquiatría de interconsulta del [**FECHAS**] el paciente se muestra vigil, orientado,mas tranquilo y más ajustado conductualmente que ayer. Reitera en las mismas ideas delirantes de daño, perjuicio y espionaje que ayer, las que se observan muy estructuradas, con discurso muy armado al respecto,no las enjuicia. Siempre atemporal, algo grandioso a ratos. Animicamente con menos labilidad que ayer, ha dormido bien, apetitocoservado. Sin agitación ni inquietud psicomotora.
+OD: Episodiopsicótico, Obs Trastorno Delirante.
+Plan: En espera de cama para traslado a unidad de agudos de Psiquiatría.
+Sugiero aumentarrisperidona a 2 mg por la noche y mantener 1 mg por la mañana. Mantener haloperidol como PRN.
+.
+*En última visita realizada el [**FECHAS**] explicamos a paciente motivo de traslado a sala de hospitalización de psiquiatría que el paciente entiende y acepta.

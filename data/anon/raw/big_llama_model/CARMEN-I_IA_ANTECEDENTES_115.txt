@@ -1,0 +1,17 @@
+ Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] años sin alergias medicamentosas conocidas, exfumadora con dosis acumulada de [**NUMERO_TELEFONO**] paquetes-año. Independiente para las ABVD.
+* ANTECEDENTES PATOLÓGICOS:
+1. DISLIPEMIA en tratamiento dietético.
+2. HIPOTIROIDISMO de larga evolución en tratamiento sustitutivo.
+3. HIPERPARATIROIDISMO PRIMARIO.
+4. GLAUCOMA en tratamiento con dos colirios.
+5. OSTEOPOROSIS + FX VERTEBRAL en tratamiento con calcio + vitamina D y bifosfonatos.
+* RMN COLUMNA LUMBAR [**FECHAS**]: lleu actitud escoliòtica lumbar, megaapòfisis transverses de L5. Discopatia en discs del segment compresos entre D12 i L5, amb canvis osteocondròtics en les plataformes vertebrals, sense edema ossi associat, i amb signes espondilosics posteriors L2-L3 i L3-L4. Canvis degeneratius en articulacions interapofisàries L4-L5 i L5-S1. Protusión discal en L2-L3 sin reducción de dimensiones del canal central. Acunyament anterior del cos de D12 en relació a enfonsament de plataforma vertebral superior. Herniacions intraesponjoses en plataformes inferior de D12 i superior de L1.
+Dimensions canal central i calibres dels orificis de conjunció dins dels límits de la normalitat.
+* MEDICACIÓN HABITUAL ([**FECHAS**]):
+- Levotiroxina [**NUMERO_TELEFONO**] mcg/[**NUMERO_TELEFONO**] hrs
+- Calcifediol [**NUMERO_TELEFONO**] mcg/[**NUMERO_TELEFONO**] días
+- Bimatoprost + Timolol [**NUMERO_TELEFONO**] mg/ml + [**NUMERO_TELEFONO**] mg/ml - [**NUMERO_TELEFONO**] gotas/[**NUMERO_TELEFONO**] hrs
+- Brinzolamida + Timolol [**NUMERO_TELEFONO**] mcg/ml + [**NUMERO_TELEFONO**] mcg/ml
+- Alendronato [**NUMERO_TELEFONO**] mg/[**NUMERO_TELEFONO**] días
+- Calcio + colecalficerol.

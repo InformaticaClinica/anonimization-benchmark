@@ -1,0 +1,52 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+angioTC urgemnte, PARO por sangrado probablemente inrtaabdominal.
+COVID-19 PNEUMONIA
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio TC sobre el tórax y el abdomen en condiciones basales y luego en fase arterial y fase portal, tras administrar contraste iv. URGENTE
+
+resultados:
+Se compara con angio-TC de tórax previo del [**FECHAS**] y TC de abdomen sin contraste iv. del [**FECHAS**].
+No se observan signos de sangrado activo arterial en el momento actual.
+Tampoco se observan imágenes sugestivas de hematoma.
+Catéter de aféresis yugular derecho con extremo distal en VCS. Tubo endotraqueal a 6 cm de carina. SNG con extremo distal en antro gástrico.
+MCP con generador prepectoral izq.
+Sustitución grasa en el miocardio infero-apical en probable relación con infarto antiguo, estable. Defecto de repleción en ventrículo izquierdo, con captación de contraste, a valorar mediante estudio ecocardiográfico.
+Ateromatosis aórtica calcificada. Moderada ateromatosis coronaria calcificada.
+No se observan adenopatías axilares de tamaño patológico. Múltiples adenopatías mediastínicas infracentimétricas reactivas (paratraqueales bilaterales altas y bajas, prevasculares, subcarinales), sin cambios.
+Discreto neumotórax derecho de nueva aparición, de predominio anterior, con tubo de drenaje con entrada por el 2º espacio intercostal anterior derecho y extremo distal adyacente al segmento apical del LSD.
+Estabilidad del moderado derrame pleural derecho.
+Importante neumotórax izquierdo de nueva aparición, con colapso del parénquima adyacente. Disminución del derrame pleural izquierdo, actualmente de leve cuantía. No se observa derrame pericárdico.
+Leve enfisema centrolobulillar y engrosamiento de paredes bronquiales.
+Importante empeoramiento de la afectación pulmonar difusa conocida caracterizada actualmente por opacidades bilaterales en vidrio deslutrado de distribución peribroncovascular, asociadas a engrosamientos septales en algunas áreas ("crazy paving"). Actualmente se observa importante tendencia a la consolidación de predominio en LLSS. Persisten algunos quistes pulmonares, estables. En la actualidad se obvan algunas imágenes de halo reverso. Los hallazgos descritos son compatibles con neumonía COVID19 con signos organizativos incipientes.
+Imagen nodular calcificada intraraquídea a nivel T8-T9 izquierdo, sugestiva de meningioma calcificado.
+Fracturas simples bilaterales de los arcos costales anteriores de la 1ª a 6ª costillas, algunas de ellas desplazadas, en probable relación con maniobras de reanimación.
+TC de Abdomen:
+Hígado de tamaño y morfología normales, con captación heterogénea en fase arterial y normalización del hepatograma en fase portal, inespecífico. No se observan lesiones focales.
+Eje porto-espleno-mesentérico permeable.
+Páncreas de aspecto atrófico.
+Bazo, glándulas suprarrenales, vesícula y vías biliares sin alteraciones significativas. Riñones propios atróficos.
+Injerto renal en FII, de tamaño normal. Discreto aumento de tamaño de la lesión quística posterior al injerto respecto a control previo de [**FECHAS**], que lo desplaaza hacia anterior y medial, actualmente de 86 x 74 mm (previo de 79 x 60 mm). Podría corresponder a linfocele. No se observa dilatación de la vía excretora. Arteria y vena del injerto permeable.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+Mínima cantidad de líquido libre en pelvis.
+Cateter venoso central con entrada femoral izquierda y extremo distal en vena iliaca común izquierda.
+
+conclusiones:
+No se observan signos de sangrado activo arterial en el momento actual.
+Tampoco se observan imágenes sugestivas de hematoma.
+Defecto de repleción en ventrículo izquierdo, con captación de contraste, a valorar mediante estudio ecocardiográfico.
+Discreto neumotórax derecho de nueva aparición, con tubo de drenaje descrito. Estabilidad del moderado derrame pleural derecho. Importante neumotórax izquierdo de nueva aparición. Disminución del derrame pleural izquierdo.
+Importante empeoramiento de la afectación pulmonar difusa en relación a neumonía COVID19 conocida, actualmente con signos organizativos incipientes.
+Fracturas simples bilaterales de los arcos costales anteriores de la 1ª a 6ª costillas, algunas de ellas desplazadas, en probable relación con maniobras de reanimación.
+Discreto aumento de tamaño de la lesión quística posterior al injerto renal en FII respecto a control previo de [**FECHAS**]. Podría corresponder a linfocele.
+Resto, sin cambios significativos.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

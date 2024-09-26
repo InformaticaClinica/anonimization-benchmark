@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+paciente con absceso inguinal izquierdo
+Absceso en ingle izquierda
+
+protocolo:
+Estudi ATC aorta abdominal + EEII
+
+resultados:
+Permeabilitat de tronc celíac, artèria mesentèrica superior i inferior i artèries renals.
+Aorta abdominal amb marcada ateromatosi calcificada, calibre conservat.
+Sector iliac amb marcada ateromatosi calcificada. Dissecció focal a iliaca primitiva esquerra que no condiciona estenosi significativa de la llum verdadera, en aquest nivell presenta diàmetre màxim 15 mm. Resta de sector iliac permeable de calibre conservat.
+EIE:
+Canvis posquirúrgics a nivell inguinal esquerre amb augment de parts toves i presència de gas al seu interior de localització subcutània i en contacte amb vasos femorals. Estenosi marcada de femoral superficial a l'origen, envoltada per aquest augment de parts toves. Permeabilitat de femoral comú i profunda i de femoral superficial distal a aquest segment descrit. Permeabilitat de poplítia i tibial anterior. Obstrucció focal de bifurcació de tronc tibioperoneal, amb repermeabilització de peronea (obstrucció de tibial posterior).
+EID: Permeabilitat d'eix femoropopliti i troncs distals sense estenosis significatives.
+Fetge de mida normal i hepatograma homogeni. Nòdul hipodens suggestiu de quist simple. Calcificacions inespecífiques al lòbul esquerre.
+Vesícula biliar de mida normal. Via biliar no dilatada.
+Pàncreas i glàndules suprarrenals sense alteracions.
+Melsa de mida normal, calcificació inespecífica, homogènia.
+Ronyons de mida normal i nefrograma homogeni sense dilatació de la via excretora. Quists simples bilaterals.
+No líquid lliure intrabdominal.
+No adenopaties retroperitonials ni iliaques de mida valorable.
+
+conclusiones:
+.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

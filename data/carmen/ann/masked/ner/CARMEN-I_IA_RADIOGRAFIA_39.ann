@@ -1,0 +1,31 @@
+T6	SINTOMA 55 78	infiltrados bilaterales
+T7	SINTOMA 221 272	Patrón intersticial difuso de predominio periférico
+T8	SINTOMA 401 424	retracción mediastínica
+T9	SINTOMA 83 102	patrón intersticial
+T10	SINTOMA 274 305	Consolidación en campo inferior
+T11	SINTOMA 325 365	Consolidación en campo pulmonar superior
+T12	SINTOMA 488 515	Pérdida de volumen cerebral
+T13	SINTOMA 533 554	lesiones hemorrágicas
+T14	SINTOMA 558 591	desplazamientos de la línea media
+T15	SINTOMA 686 701	imagenes de TEP
+T16	SINTOMA 703 730	Areas en vidrio deslustrado
+T17	SINTOMA 735 778	consolidaciones en ambos lóbulos superiores
+T18	SINTOMA 793 889	consolidaciones en banda de distribución periferica subpleural bilaterales en lóbulos inferiores
+T19	SINTOMA 1048 1090	arterias intra y extracraneales permeables
+T20	ENFERMEDAD 119 140	infección por COVID19
+T21	ENFERMEDAD 434 457	atelectasia obstructiva
+T22	ENFERMEDAD 593 631	Calcificaciones en ganglios de la base
+T23	ENFERMEDAD 633 649	Atrofia cerebral
+T24	ENFERMEDAD 901 916	bronquiectasias
+T25	ENFERMEDAD 942 963	neumonia organizativa
+T26	ENFERMEDAD 974 999	derrame pleural bilateral
+T27	ENFERMEDAD 1108 1117	estenosis
+T28	ENFERMEDAD 1181 1190	estenosis
+T29	PROCEDIMIENTO 20 40	Radiografía de tórax
+T30	PROCEDIMIENTO 144 164	Radiografía de tórax
+T31	PROCEDIMIENTO 201 212	radiografía
+T32	PROCEDIMIENTO 462 473	TC cerebral
+T33	PROCEDIMIENTO 652 668	AngioTC pulmonar
+T34	PROCEDIMIENTO 1003 1033	Angio TC troncos supraaórticos
+T35	ENFERMEDAD 698 701	TEP
+T36	ENFERMEDAD 1119 1163	Placa de ateroma en la bifurcación carótidas

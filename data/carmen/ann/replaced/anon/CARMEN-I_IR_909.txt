@@ -1,0 +1,29 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+Paciente con los antecedentes descritos que ingresa por hematoma espontáneo profundo y disminución del nivel de consciencia secundario, con escasa reactividad pese a la suspensión de sedación, resolución progresiva en TC de control y EEG con enlentecimiento difuso.
+Comentado con Neurologia, se solicita angioRMN de control para descartar lesiones isquémicas a otro nivel.
+Disminución nivel de consciencia
+
+protocolo:
+RM craneal y angioRM arterial intracraneal.
+
+resultados:
+Exploración RM craneal multiplanar con secuencias potenciadas en T2 y T1.
+Cisternas basales libres.
+Hematoma agudo-subagudo temporal profundo derecho de 20x50x35 mm con edema y efecto de masa con desviación de la línea media de 4 mm.
+No se aprecia hidrocefalia.
+Importante cambios microangiopáticos con múltiples lesiones lacunares periventriculares y tempporales profundas bilaterales mas microhemorragias crónicas supra e infratentoriales con predominio temporal profundo bilateral.
+Presencia de focos isquémicos agudos de pequeño tamaño y con predominio en sustancia blanca a nivel frontal derecho, fronto-parietal izquierdo y temporal también izquierdo.
+Ocupación mucosa de senos paranasales y ambas mastoides.
+No identificamos otras alteraciones significativas en el estudio craneal actual.
+
+conclusiones:
+Hematoma agudo-subagudo temporal profundo derecho de 20x50x35 mm con edema y efecto de masa con desviación de la línea media de 4 mm.
+Importante cambios microangiopáticos con múltiples mas microhemorragias crónicas supra e infratentoriales con predominio temporal profundo bilateral.
+Presencia de focos isquémicos agudos de pequeño tamaño y con predominio en sustancia blanca a nivel frontal derecho, fronto-parietal izquierdo y temporal también izquierdo.
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+CARCIOMA DE OROFARINGE, BRONQUIECTASIES
+ACTUALMENT neumonia cavitada en base esquerra
+agrairiem TC per completar estudi
+SCC OROFARINGE
+
+resultados:
+Se compara con PET-TC previo de [**FECHAS**].
+Leve aumento de tamaño de las adenopatías mediastínicas prevasculares, paratraqueales izquierdas y subcarinal y de las adenopatías hiliares bilaterales. Ganglios supraclaviculares izquierdos y adyacentes a los troncos supraaórticos izquierdos, sin cambios.
+Leve derrame pleural izquierdo. No se observa derrame pleural derecho.
+Bronquiectasias cilíndricas difusas con marcados engrosamientos parietales bronquiales, impactaciones mucosas endobronquiales y focos de bronquiolitis infecciosa bilaterales, todo ello más evidente que en el estudio previo.
+Persiste el colapso del LII de aspecto heterogéneo con áreas hipocaptantes, broncograma líquido y presencia de cavitación en su interior, no presente en el estudio previo.
+El nódulo pulmonar en la porción posterior del LSI ha disminuído de tamaño (de 30 mm a 26 mm), presentando una gran cavitación central en el estudio actual.
+Aparición área de consolidación periférica en el segmento apicoposterior del LSI con amplio contacto pleural, focos hipocaptantes y múltiples cavitaciones en su interior. Pequeño foco consolidativo cavitado subpleural en el segmento anterior del LSI, no presente en el estudio previo.
+Disminución de tamaño del nódulo pulmonar sólido en el segmento posterior del LSD (previo de 18 mm, previo de 25 mm).
+Persiste la atelectasia/consolidación en el LM con imagen consolidativa nodular en el segmento medial.
+
+conclusiones:
+Aparición de cavitación en el colapso heterogéneo del LII. Disminución de tanaño del nódulo pulmonar en el LSI con aumento de la cavitación central en el estudio actual.
+Aparición de consolidación periférica en el segmento apicoposterior del LSI con focos hipocaptantes y múltiples cavitaciones en su interior y de pequeño foco consolidativo cavitado subpleural en el segmento anterior del LSI.
+Disminución de tamaño del nódulo pulmonar sólido en el segmento posterior del LSD.
+Aumento de los signos de inflamación bronquial y de bronquiolitis infecciosa. Leve aumento de tamaño de las adenopatías mediastínicas e hiliares, probablemente reactivas.
+
+descrip:
+TC TORAX

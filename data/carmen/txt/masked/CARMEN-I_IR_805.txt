@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+pancreatitis aguda biliar grave
+
+conclusiones:
+Se observa una elevacion de diafragma derecho con obliteracion del seno costofrenico posterior
+No se obseRvan hallazgos sugestivos de COVID
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,19 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+BACTERIEMIA POR S AUREUS
+
+protocolo:
+TC CRANEAL BASAL URGENTE
+
+conclusiones:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+
+descrip:
+TC CEREBRAL

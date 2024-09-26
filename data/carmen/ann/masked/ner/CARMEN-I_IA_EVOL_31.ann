@@ -1,0 +1,53 @@
+T3	PROCEDIMIENTO 454 462	Rx tórax
+T4	PROCEDIMIENTO 1058 1064	frotis
+T5	PROCEDIMIENTO 736 745	Sedimento
+T6	PROCEDIMIENTO 1374 1416	consensuando no realizar medidas agresivas
+T7	SINTOMA 230 245	pluripatológica
+T8	SINTOMA 277 290	alucinaciones
+T9	SINTOMA 292 300	anasarca
+T10	SINTOMA 303 320	tos no productiva
+T11	SINTOMA 359 386	signos de ICC biventricular
+T12	SINTOMA 388 393	vigil
+T13	SINTOMA 888 894	disnea
+T14	SINTOMA 896 905	febrícula
+T15	SINTOMA 1231 1237	disnea
+T16	SINTOMA 222 228	frágil
+T17	SINTOMA 335 345	febricular
+T18	SINTOMA 347 357	anasarcaca
+T19	SINTOMA 395 425	orientada en espacio y persona
+T20	SINTOMA 431 452	focalidad neurológica
+T21	SINTOMA 908 929	cuadro constitucional
+T22	SINTOMA 77 85	ANASARCA
+T23	ENFERMEDAD 810 832	descompensación de ICC
+T24	ENFERMEDAD 983 1004	infección por COVID19
+T25	ENFERMEDAD 1196 1222	insuficiencia respiratoria
+T26	ENFERMEDAD 7 55	INSUFICIENCIA RESPIRATORIA POR NEUMONÍA COVID-19
+T27	ENFERMEDAD 58 75	ICC DESCOMPENSADA
+T28	ENFERMEDAD 88 113	INSUFICIENCIA RENAL AGUDA
+T29	ENFERMEDAD 124 145	SD. CONFUSIONAL AGUDO
+T30	ENFERMEDAD 369 386	ICC biventricular
+T31	SINTOMA 493 509	infiltrado en LM
+T32	SINTOMA 604 615	neutrofilia
+T33	SINTOMA 620 632	leucocitosis
+T34	SINTOMA 1293 1311	mal estado general
+T35	FARMACO 950 960	furosemida
+T36	FARMACO 1093 1112	lopinavir/ritonavir
+T37	FARMACO 1115 1132	hidroxicloroquina
+T38	PROCEDIMIENTO 553 556	EAB
+T40	SPECIES 171 179	Paciente
+T41	SPECIES 761 770	levaduras
+T42	HUMANO 1262 1272	familiares
+T43	HUMANO 1318 1326	paciente
+T44	SINTOMA 147 170	ALUCIONACIONES VISUALES
+T45	SINTOMA 467 490	redistribución vascular
+T46	SINTOMA 511 537	senos costofrénicos libres
+T47	SINTOMA 736 770	Sedimento con abundantes levaduras
+T48	SINTOMA 837 860	infiltrado intersticial
+T50	PROCEDIMIENTO 941 960	bolus de furosemida
+T51	SINTOMA 1058 1080	frotis siendo positivo
+T52	PROCEDIMIENTO 1493 1522	se inician medidas de confort
+T53	SINTOMA 1531 1543	exitus vitae
+T54	PROCEDIMIENTO 539 548	Analítica
+T1	SINTOMA 1170 1191	empeoramiento clínico
+T2	SINTOMA 1449 1481	empeoramiento clínico progresivo
+T55	SINTOMA 634 664	empeoramiento de función renal

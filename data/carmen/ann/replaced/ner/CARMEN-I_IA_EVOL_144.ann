@@ -1,0 +1,49 @@
+T7	SINTOMA 544 581	elevación de reactantes de fase aguda
+T8	SINTOMA 640 650	linfopenia
+T9	SINTOMA 1288 1331	pupilas midriáticas bilaterales arreactivas
+T10	SINTOMA 2067 2073	exitus
+T11	SINTOMA 419 449	infiltrado insterticial difuso
+T12	SINTOMA 1419 1430	efecto masa
+T13	SINTOMA 1452 1520	desplazamiento de las estructuras de la línea media hacia la derecha
+T14	SINTOMA 1562 1585	hipodensidad del tronco
+T15	SINTOMA 1587 1645	Obliteración de las cisternas basales, cisterna supraselar
+T16	SINTOMA 1808 1856	Contaminación hemorrágica aguda intraventricular
+T17	SINTOMA 454 519	focos consolidativos distribuidos por todo el parénquima pulmonar
+T18	SINTOMA 1435 1450	colapso del VLI
+T19	PROCEDIMIENTO 9 28	implante de ECMO VV
+T20	PROCEDIMIENTO 270 318	Anticoagulación con heparina sódica en perfusión
+T21	PROCEDIMIENTO 1231 1247	serología de VHB
+T22	PROCEDIMIENTO 1344 1355	TAC craneal
+T23	PROCEDIMIENTO 123 130	ECMO VV
+T24	PROCEDIMIENTO 251 261	ventilador
+T25	PROCEDIMIENTO 398 414	Radiología tórax
+T26	PROCEDIMIENTO 557 581	reactantes de fase aguda
+T27	PROCEDIMIENTO 922 941	cobertura antiviral
+T28	PROCEDIMIENTO 1984 2006	tratamiento quirurgico
+T29	PROCEDIMIENTO 2028 2059	limitar el esfuerzo terapéutico
+T30	PROCEDIMIENTO 976 987	antibiótica
+T31	PROCEDIMIENTO 1142 1168	bolus de metilprednisolona
+T32	ENFERMEDAD 664 689	Insuficiencia renal aguda
+T33	ENFERMEDAD 1009 1034	sobreinfección bacteriana
+T34	FARMACO 789 806	Hidroxicloroquina
+T35	FARMACO 816 826	Interferón
+T36	FARMACO 828 840	Azitromicina
+T37	FARMACO 842 853	Ceftriaxona
+T38	FARMACO 946 965	ritonavir/lopinavir
+T39	FARMACO 1039 1048	meropenem
+T40	FARMACO 1051 1063	teicoplanina
+T41	FARMACO 1128 1139	tocilizumab
+T42	PROCEDIMIENTO 345 359	descoagulación
+T43	HUMANO 32 40	paciente
+T44	HUMANO 110 118	paciente
+T45	HUMANO 742 750	paciente
+T46	SINTOMA 1080 1113	importante respuesta inflamatoria
+T47	FARMACO 1151 1168	metilprednisolona
+T48	FARMACO 1209 1216	Truvada
+T49	SPECIES 1244 1247	VHB
+T50	ENFERMEDAD 1373 1414	hematoma intraparenquimatoso frontal izdo
+T51	ENFERMEDAD 1522 1559	herniación transtentorial descendente
+T52	ENFERMEDAD 1785 1806	Edema cerebral difuso
+T53	ENFERMEDAD 1741 1783	hidrocefalia aguda en las astas temporales
+T54	ENFERMEDAD 1649 1729	herniación del tronco y las amigdalas cerebelosas a través del agujero occipital
+T1	SINTOMA 215 246	requerimientos elevados de Fi02

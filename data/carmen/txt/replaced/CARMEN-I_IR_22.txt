@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Lesions múltiples no especificades, A
+
+resultados:
+Muy notable enfisema subcutáneo extendido.
+Tubo de drenaje pleural izquierdo con probable neumotórax residual que es más aparente que en exploraciones previas por lo que habría que sospechar la presencia de una fístula broncopleural. Recomiendo ampliación de estudio con TC torácico.
+Persisten las consolidaciones pulmonares derechas, sin cambios significativos respecto al control anterior.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

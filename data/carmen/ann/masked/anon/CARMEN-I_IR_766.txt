@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**], PCR SARS-CoV-2 positiva el [**FECHAS**]. Portada a UCIEs per clar augment de la díspnea les darreres 48h fins a fer-se de petits esforços. A la seva arribada, mal estat general. Analítica amb D-dímer de 16600. Interessa descartar TEP. Gràcies!
+Nuemonia Bilateral COVID.
+
+protocolo:
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Múltiples defectos de repleción a nivel de la arteria lobar media, arteria segmentaria de la língula y arteria lobar inferior izquierda con extensión a ramas segmentarias y subsegmentarias del LII; todo ello en relación con TEP central y periférico.
+Tronco de la pulmonar de diámetro normal (29 mm), sin signos de sobrecarga ventricular derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Afectación del parénquima pulmonar en forma opacidades irregulares de aspecto consolidativo y áreas en vidrio deslutrado de distribución peribroncovascular y subpleural, de predominio en LID. Se asocian discretas bandas parenquimatosas; hallazgos en relación a proceso neumónico bilateral por COVID-19.
+Moderada hernia de hiato.
+
+conclusiones:
+- TEP central y periférico
+- Neumonía bilateral por COVID-19.
+
+descrip:
+ANGIO TC PULMONAR

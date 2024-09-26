@@ -1,0 +1,14 @@
+T4	PROCEDIMIENTO 242 263	soporte transfusional
+T5	PROCEDIMIENTO 290 328	enfermedad renal crónica, trasplantado
+T6	SINTOMA 538 544	fiebre
+T7	ENFERMEDAD 47 66	deterioro cognitivo
+T8	ENFERMEDAD 132 145	shock séptico
+T9	ENFERMEDAD 159 174	colitis por CMV
+T10	ENFERMEDAD 177 197	hemorragia digestiva
+T11	ENFERMEDAD 275 278	HTA
+T12	ENFERMEDAD 290 314	enfermedad renal crónica
+T13	PROCEDIMIENTO 450 462	hemodiálisis
+T14	PROCEDIMIENTO 515 523	diálisis
+T15	HUMANO 1 6	Varón
+T16	SPECIES 171 174	CMV
+T17	ENFERMEDAD 349 368	pérdida del injerto

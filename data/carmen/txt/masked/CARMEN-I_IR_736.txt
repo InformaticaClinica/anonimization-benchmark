@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con deterioro cognitivo
+sin antecedentes previos, cirrosis, sopecha de encefalopatia hepatica leve dudosa, se solicita TC de craneo
+
+protocolo:
+TC CRANIAL: adquisició sense contrast ev.
+
+resultados:
+No s'observen lesions ocupants d'espai intra ni extraaxials.
+Lleu hipodensitat de la substància blanca periventricular en probable relació a microangiopatia crònica. Lleu disminució global del volum encefàlic, que condiciona una lleu prominècia del sistema ventricular, que presenta una situació i mida conservades.
+Estructures de la linea mitja centrades.
+Cisternes basals no ocupades.
+Ocupació parcial dels sins maxil·lar i frontal drets per material d'aspecte mucós.
+
+conclusiones:
+Mínims estigmes de microangiopatia crònica. Lleu disminució global del volum encefàlic, que condiciona una lleu prominècia del sistema ventricular.
+
+descrip:
+TC CEREBRAL

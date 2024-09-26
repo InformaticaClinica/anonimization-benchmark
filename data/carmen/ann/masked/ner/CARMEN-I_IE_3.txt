@@ -1,0 +1,24 @@
+
+Pcte [**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin AMC, con AP a destacar de Paraplejia tras accidente de moto.
+Derivado de su residencia por disnea, según refiere la enfermera del centro inició hace 5 días con febrícula, temblores y en las últimas 24 horas con con disnea.
+EF en urgencias:
+En aparente BEG, NH, NC.
+CV: TCR, No soplos. IY-, RHY-.
+AR: taquipneico, sibilantes y crepitantes en ACP.
+ABD: B/D, RHA+, No peritonismo
+EEII: NO edemas, No signos de TVP.
+NRL: No meninigsmo, no focalidad aguda aparente.
+PPCC:
+-Analítica a su llegada: Leuc 3.9(N75%), Plaq 253000, Hb 12.3 PCR 17, Glic 91, Troponina I 49, Creat 0.68, FG >90, ASAT 68, ALAT 35, LDH 857, Na 139, K 3.8, Ferritina 972, Procalcitonina 0.27, D dimero 2500
+-pH 7.4, pCo2 38, pO2 68, Bicarb 25, Bicar 25, Sat O2 92.
+-Rx de tórax a su llegada: Infiltrados algodonosos bilaterales.
+EVOLUCIÓN EN SALA DE INFECCIOSAS
+1. NEUMONÍA POR SARS-COV-2
+2. INSUFICIENCIA RESPIRATORIA SEVERA
+3. DETERIORO COGNITIVO SEVERO
+Paciente con los antecedentes descritos, que es traído a urgencias por cuadro de 5 días de evolución de febrícula.
+A su llegada a urgencias se evidencia neumonía bilateral con insuficiencia respiratoria y PCR para SARS-CoV2 positiva.
+Recibe tratamiento con Dexmetasona el [**FECHAS**], además de Remdesivir el [**FECHAS**] y Tocilizumab. A pesar de ello presenta empeoramiento progresivo, con aumento de requerimientos de oxígenoterapia y aumento de reactantes de fase. A pesar de oxígeno en gafas nasales de alto flujo el paciente presenta importante trabajo respiratorio
+Dada la situación basal del paciente y ante la falta de respuesta al tratamiento administrado se consensua con familia priorizar medidas de comfort.
+El paciente es exitus el [**FECHAS**] a las 08:45 horas
+ 

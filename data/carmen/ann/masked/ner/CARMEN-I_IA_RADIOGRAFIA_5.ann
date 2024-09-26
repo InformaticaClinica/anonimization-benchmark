@@ -1,0 +1,24 @@
+T5	ENFERMEDAD 126 141	derrame pleural
+T6	ENFERMEDAD 254 269	derrame pleural
+T7	ENFERMEDAD 349 352	TEP
+T8	ENFERMEDAD 419 456	adenopatías mediastínicas ni axilares
+T9	ENFERMEDAD 492 522	derrame pleural ni pericárdico
+T10	ENFERMEDAD 538 548	neumotórax
+T11	ENFERMEDAD 552 567	neumomediastino
+T12	ENFERMEDAD 939 954	derrame pleural
+T13	ENFERMEDAD 758 765	COVID19
+T14	ENFERMEDAD 109 122	cardiomegalia
+T15	ENFERMEDAD 237 250	cardiomegalia
+T16	SINTOMA 706 725	bandas subpleurales
+T17	SINTOMA 803 826	infiltrados bilaterales
+T18	SINTOMA 832 847	consolidaciones
+T19	ENFERMEDAD 922 935	cardiomegalia
+T20	PROCEDIMIENTO 15 23	Rx tórax
+T21	PROCEDIMIENTO 272 289	Angio-TC pulmonar
+T22	PROCEDIMIENTO 769 777	RX TÓRAX
+T23	SINTOMA 39 77	Infiltrados intersticiales bilaterales
+T24	PROCEDIMIENTO 144 152	RX tórax
+T25	SINTOMA 179 232	infiltrados intersticiales en ambos campos pulmonares
+T26	SINTOMA 354 402	Tronco de la arteria pulmonar de diámetro normal
+T27	SINTOMA 579 666	opacidades en vidrio deslustrado subpleurales y peribroncovasculares en ambos hemitórax
+T28	PROCEDIMIENTO 734 745	radiológico

@@ -1,0 +1,19 @@
+T6	SINTOMA 154 180	deterioro de función renal
+T7	SINTOMA 241 254	plaquetopenia
+T8	SINTOMA 641 655	dolor torácico
+T9	SINTOMA 691 721	posicionamiento en vena ázigos
+T10	SINTOMA 110 139	sangrado menstural prolongado
+T11	SINTOMA 288 301	esquistocitos
+T12	ENFERMEDAD 93 99	flemón
+T13	ENFERMEDAD 232 238	anemia
+T14	ENFERMEDAD 273 282	hemólisis
+T15	ENFERMEDAD 346 398	MAT secundaria: farmacológica, infecciosa por flemón
+T16	ENFERMEDAD 431 452	rechazo agudo humoral
+T17	FARMACO 474 477	MTP
+T18	PROCEDIMIENTO 536 559	estudio genético y C5b9
+T19	PROCEDIMIENTO 609 612	CVC
+T20	PROCEDIMIENTO 628 630	HD
+T21	PROCEDIMIENTO 667 675	TC tórax
+T22	HUMANO 1 9	Paciente
+T23	SINTOMA 185 206	ascenso de creatinina
+T24	ENFERMEDAD 346 349	MAT

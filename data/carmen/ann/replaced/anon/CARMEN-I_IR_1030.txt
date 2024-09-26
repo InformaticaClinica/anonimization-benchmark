@@ -1,0 +1,27 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Carcinoma de cèl·lules hepàtiques
+
+protocolo:
+TC ABDOMINOPELVICO en condiciones basales y tras administración de contraste e.v. (multifásico). URGENTE
+
+resultados:
+Cambios postquirúrgicos en relación a segmentectomía V-VI-VII.
+En el lecho de la segmentectomía se aprecia un área heterogénea de aproximadamente 94  x  45  x  83 mm (AP x LL x CC) con presencia de clips metálicos, burbujas de gas y líquido. Si bien parte de estos hallazgos son atribuibles a los cambios posquirúrgicos y al material quirúrgico (tachosil), se observa en el aspecto más anteroinferior del lecho una colección con nivel hidroaéreo de 52 x  38 x 40 mm (AP x TR x CC). El drenaje quirúrgico con entrada en fosa iliaca derecha, es de trayecto subhepático con mínimo contacto con el borde inferior del lecho quirúgico.
+Mínima cantidad de neumoperitoneo en relación a la cirugía reciente. No se observan otras colecciones intraabdominales o líquido libre intraabdominal.
+Resto del hígado de aspecto esteatósico, sin lesiones focales evidentes.
+Colecistectomía, no se observa dilatación de la vía biliar. Vena porta y eje porto-espleno-mesentérico permeable.
+Páncreas, bazo, glándulas suprarrenales y riñones sin alteraciones. No se observa dilatación de la vía excretora. Vejiga urinaria sin defectos parietales evidentes. Próstata de tamaño aumentado.
+Pequeño divertículo duodenal a nivel de 3º porción. Asas de intestino delgado sin alteraciones relevantes. Diverticulosis colónica sin signos de diverticulitis.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+En los cortes torácicos incluidos en el estudio se aprecia un leve- moderado derrame pleural derecho que condiciona la atelectasia de segmentos basales del LID. Atelectasias laminares en el LII.
+
+conclusiones:
+Cambios posquirúrgicos en el lecho de la segmentectomía hepática identificándose pequeña colección con nivel hidroaéreo en su porción caudal. El drenaje quirúrgico de trayecto subhepático presenta mínimo contacto con el borde inferior del lecho quirúgico. Mínima cantidad de neumoperitoneo.
+Leve- moderado derrame pleural derecho que condiciona la atelectasia de segmentos basales del LID.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

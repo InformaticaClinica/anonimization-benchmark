@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con sospecha de tep, DD4100. mUY HIPOXEMICO ALTERANDO LAF CON VNI, FIO02 60%
+COVID (+)
+
+protocolo:
+Angio-TC pulmonar.
+
+resultados:
+Se compara con TC de tórax previo de [**FECHAS**].
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP. Tronco de la arteria pulmonar dilatado de 34 mm (previo de 32 mm).
+Cardiomegalia con dilatación biauricular. Sin signos de sobrecarga cardíaca derecha. Elongación aórtica.
+Múltiples adenopatías mediastínicas paratraqueales bilaterales de predominio derecho (la mayor de 18 mm), prevasculares y subcarinal de 20 mm. Múltiples adenopatías hiliares bilaterales. La adenopatías descritas no estaban presentes en el TC previo y podrían ser reactivas al proceso infeccioso actual, aunque por el tamaño y cantidad es recomendable control evolutivo.
+No se observan adenopatías axilares de tamaño significativo.
+Leve derrame pleural bilateral de predominio derecho.
+Extensos focos consolidativos y en vidrio deslustrado bilaterales peribroncovasculares y periféricos, de distribución difusa, en relación a neumonía bilateral por COVID-19 con afectación extensa. En la porción posterior y de predominio basal, los focos consolidativos presentan una distribución perilobular, sugestivo de cambios organizativos incipientes.
+Pequeña hernia de hiato. Ausencia de líquido libre intraabdominal en los cortes de abdomen superior.
+
+conclusiones:
+Sin signos de TEP. Tronco de la arteria pulmonar dilatado. Sin signos de sobrecarga cardíaca derecha.
+Neumonía bilateral por COVID-19 con afectación extensa. Cambios organizativos incipientes de localización posterobasal. Leve derrame pleural bilateral de predominio derecho.
+Múltiples adenopatías mediastínicas e hiliares bilaterales, que si bien podrían ser reactivas al proceso infeccioso actual, son tributarias de control evolutivo.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

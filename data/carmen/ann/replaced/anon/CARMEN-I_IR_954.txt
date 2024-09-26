@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+85 a, detereioro cognitivo. Ingresada por COVID desde hace 48h DESATURACIÓN BRUSCA (DE LN A vmk AL 40%) en paciente no anticoagulada por hematuria franca al ingreso. Ruego descartar TEP
+
+protocolo:
+Angio-TC pulmonar urgente adquirida mediante energía dual.
+
+resultados:
+NOTA: exploración parcialmente valorable en relación a los movimientos respiratorios de la paciente, sobretodo a nivel de las bases pulmonares.
+No se aprecian defectos de repleción en el tronco de la arteria pulmonar ni en sus ramas principales, lobares o segmentarias que sugieran TEP agudo (segmentos distales no valorables). Dilatación del tronco de la arteria pulmonar (34 mm).
+Cambios posquirúrgicos en relación a tiroidectomía subtotal. No se evidencian adenopatías axilares o mediastínicas valorables. Ateromatosis calcificada aórtica.
+No se observa derrame pleural ni pericárdico.
+Focos consolidativos peribroncovasculares y periféricos bilaterales de predominio en lóbulos superiores en relación a la neumonía bilateral por COVID-19 conocida. No se aprecian cambios organizativos asociados.
+Granuloma calcificado en LSD.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- No hay signos de TEP en los segmentos valorables del árbol arterial pulmonar.
+- Parénquima pulmonar con hallazgos en relación a la neumonía bilateral por COVID-19 conocida sin claros cambios organizativos asociados.
+
+descrip:
+ANGIO TC PULMONAR

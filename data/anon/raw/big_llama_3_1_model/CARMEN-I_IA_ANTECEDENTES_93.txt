@@ -1,0 +1,5 @@
+ [**EDAD_SUJETO_ASISTENCIA**], [**PROFESION**] en una revista.
+ANTECEDENTES PATOLÓGICOS:
+1. DM2 tratamiento dietético.
+2. Dislipemia
+3. Diverticulitis en tratamiento con spiraxin.

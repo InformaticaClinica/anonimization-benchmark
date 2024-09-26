@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR PROBABLE COVID19
+
+conclusiones:
+Material de osteosíntesis húmero D.
+Ténues opacidades bilaterales de predominio bibasal, que han disminuido respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

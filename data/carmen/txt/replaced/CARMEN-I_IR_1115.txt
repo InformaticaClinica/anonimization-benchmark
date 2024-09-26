@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+NEUMONIA BILATERAL POR COVID 19
+
+protocolo:
+Angio-TC pulmonar urgente adquirido mediante energía dual.
+
+resultados:
+Sonda nasogástrica normoposicionada. Catéter de acceso venoso yugular izquierdo con extremo distal en VCI proximal.
+En el momento actual no se aprecian defectos de repleción en el árbol arterial pulmonar ni alteraciones en los mapas de yodo que sugieran TEP agudo. Tronco común de la arteria pulmonar de calibre conservado.
+Aorta ascendente de calibre prominente (42 mm). Ateromatosis calcificada aórtica y de arterias coronarias. No se observa derrame pleural ni pericárdico. Sin evidencia de adenopatías axilares o mediastínicas de tamaño patológico.
+Engrosamiento difuso de las paredes bronquiales con presencia de secreciones endoluminales en bronquios lobar y segmentarios del LID.
+Opacidades en vidrio deslustrado bilaterales de predominio periférico que en ambos lóbulos inferiores, segmento posterior del LSD y segmento lingular inferior presentan una tendencia consolidativa con dilataciones bronquiales y una ligera distorsión del parénquima pulmonar. Hallazgos compatibles con afectación pulmonar por COVID-19 con cambios organizativos y sin claros signos de fibrosis.
+En las secciones abdominales incluidas en el estudio se aprecia una mínima cantidad de líquido libre periesplénico. Resto sin hallazgos valorables.
+
+conclusiones:
+- Sin signos de TEP agudo en el momento actual.
+- Parénquima pulmonar con hallazgos compatibles con afectación por COVID-19 con cambios organizativos y sin claros signos de fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

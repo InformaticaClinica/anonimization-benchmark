@@ -1,0 +1,20 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente COVID+. ICTUS ACMD tratado con TM hace 24h, sin recanalización.
+Se ruega TC control para valorar evolución a infarto maligno. Si es posible hacer entre las 16h y las 20h del [**FECHAS**].
+
+protocolo:
+TC CRANEAL URGENTE: adquisición basal.
+No se dispone de TC dual al ser paciente afecto de COVID-19.
+
+conclusiones:
+Se compara con TC previa de hace 21h.
+Disminución de la extensión y densidad de las imágenes hiperdensas en cisura de Silvio y surcos de la convexidad fronto-parietal derecha, por lo que por su rápida resolución son más sugestivas de corresponder a extravasación de contraste ev (sin poder descartar áreas de hemorragia post procedimiento al no disponer de estudio dual).
+Aumento de la extensión del infarto en territorio superficical y profundo de la ACMd, siendo éste >2/3 de su terrritorio. Sin embargo, sólo se observa una leve rectificación del asta lateral derecha ya presente en estudio previo, sin desviación de las estructuras de la línea media ni ocupación de las cisternas basales.
+Resto de la exploración, sin cambios significativos.
+
+descrip:
+TC CEREBRAL

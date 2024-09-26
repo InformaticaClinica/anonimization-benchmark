@@ -1,0 +1,5 @@
+T1	SINTOMA 179 191	asintomático
+T2	ENFERMEDAD 18 56	infección sintomática por SARS-COVD-19
+T3	PROCEDIMIENTO 93 117	aislamiento domiciliario
+T4	HUMANO 5 13	Paciente
+T5	SPECIES 44 56	SARS-COVD-19

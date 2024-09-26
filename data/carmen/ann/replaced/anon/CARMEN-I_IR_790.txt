@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con alto riesgo cardioavscular, que ha presentado episodio de convulsión tónica generalizada, con recuperación espontánea posterior, anticoagulado a dosis altas en el momento actual. Ruego descartar ACV.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza TC CRANEAL SIN contraste e.v. URGENTE
+
+resultados:
+No hay evidencia de lesiones ocupantes de espacio ni signos de sangrado agudo intracraneal.
+Cambios involutivos por edad. Parénquima cerebral y cerebeloso sin alteraciones significativas. Diferenciación cortico-subcortical conservada.
+Sistema ventricular simétrico, de morfología y tamaño normal. Línea media centrada. Cisternas basales no colapsadas.
+
+conclusiones:
+No se observan signos sugestivos de patología intracraneal aguda.
+
+descrip:
+TC CEREBRAL

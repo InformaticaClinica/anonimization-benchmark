@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] neumonía bilateral por covid19 a día +17 de síntomas, a su ingreso parámetros inflamatorios elevados con PCR 30, hiperferritinemia, insuficiencia respiratoria, respuesta al tratamiento con remdesivir y rescate con dexametasona. En las últimas jornadas objetivamos disnea de esfuerzo con hipoxemia y taquicardia sinusal, llama la atención elevación marcada de DD a 2200 a pesar de mejoría inicial tras remdesivir. Ruego descartar complicación post-covid: TEP en primer lugar, o bien, neumonía organizativa. Gracias
+NEUMONIA COVID19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+No se visualizan defectos de repleción intraluminal sugestivos de TEP en las arterias pulmonares principales, en sus ramas lobares ni segmentarias.
+Tronco de la arteria pulmonar permeable de calibre normal.
+Parénquima pulmonar con opacidades en vidrio deslustrado de distribución difusa y con algunas áreas con tendencia a la consolidación en ambos lóbulos inferiores en relación a afectación pulmonar por COVID-19.
+No se visualizan adenopatías de tamaño patológico a nivel mediastínico, hiliar ni axilar.
+Resto de estructuras mediastínicas sin alteraciones significativas.
+No hay derrame pleural ni pericárdico.
+En los cortes de hemiabdomen superior incluidos se visualiza un bazo accesorio de 11 mm y dos imágenes hipodensas en segmentos V y VIII sugestivas de angiomas vs quistes
+
+conclusiones:
+No hay signos concluyentes de TEP
+
+descrip:
+ANGIO TC PULMONAR

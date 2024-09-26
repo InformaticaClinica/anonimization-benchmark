@@ -1,0 +1,12 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas ni hábitos tóxicos. Residente en [**TERRITORIO**]. Independiente para las actividades básicas de la vida diaria.
+*ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL ESENCIAL en tratamiento con un antihipertensivo. Realiza controles tensionales en domicilio cada 2 semanas, con cifras tensionales correctas. No refiere afectación micro ni mascrovascular.
+*ANTECEDENTES QUIRÚGICOS:
+1. HERNIORRAFIA DERECHA INGUINAL y HERNIORRAFIA PREPERITONEAL DERECHA en [**HOSPITAL**] ([**FECHAS**]).
+2. COLECISTECTOMÍA LAPAROSCÓPICA por COLEDOCOLITIASIS ([**FECHAS**]).
+3. HERNIORRAFIA UMBILICAL.
+4. LITIASIS URETERAL DERECHA. Realizaron tratamiento con LEOC [**FECHAS**] y [**FECHAS**] sin expulsión de restos. Posteriormente URS derecha más litotricia con láser y posterior colocación de catéter JJ ipsilateral el [**FECHAS**], sin incidencias.
+**Ecografía reno-vesico-prostática ([**FECHAS**]): Riñones con situación, tamaño y ecoestructura conservados. Litiasis en grupo calicilar superior de RD de 6 mm. Leve ectasia pielocalicilar derecha sin evidencia de una causa obstructiva. No se aprecian imágenes de hidronefrosis. Vejiga urinaria distendida con paredes lisas. Ausencia de lesiones endocavitarias. Glándula prostática de 21 g de peso.
+5. DACRIOCISTORRINOSTOMÍA BILATERAL.
+*MEDICACIÓN HABITUAL ([**OTROS_SUJETO_ASISTENCIA**] [**FECHAS**]): lisinopril 20 mg/24 h.

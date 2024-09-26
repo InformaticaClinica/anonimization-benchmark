@@ -1,0 +1,38 @@
+T7	SINTOMA 28 38	odinofagia
+T8	SINTOMA 60 63	tos
+T9	SINTOMA 68 93	expectoración blanquecina
+T10	SINTOMA 104 120	malestar general
+T11	SINTOMA 123 129	fiebre
+T12	SINTOMA 241 287	antígeno para SARS COV2 con resultado positivo
+T13	SINTOMA 364 371	astenia
+T14	SINTOMA 373 382	hiporexia
+T15	SINTOMA 385 391	fiebre
+T16	SINTOMA 425 428	tos
+T17	SINTOMA 462 487	dolor en punta de costado
+T18	SINTOMA 500 506	disnea
+T19	SINTOMA 534 541	anosmia
+T20	SINTOMA 543 552	disgeusia
+T21	SINTOMA 554 562	diarreas
+T22	SINTOMA 801 823	infiltrados pulmonares
+T23	SINTOMA 957 964	afebril
+T24	SINTOMA 971 994	crepitantes bilaterales
+T25	SINTOMA 1086 1120	infiltrados pulmonares bilaterales
+T26	SINTOMA 935 955	trabajo respiratorio
+T27	SINTOMA 966 969	MVC
+T28	SINTOMA 1037 1055	Elongación aórtica
+T29	SINTOMA 1064 1083	aumento de densidad
+T30	ENFERMEDAD 618 623	gripe
+T31	FARMACO 159 170	paracetamol
+T32	FARMACO 183 193	ibuprofeno
+T33	FARMACO 409 420	paracetamol
+T34	FARMACO 1378 1389	ceftriaxona
+T35	FARMACO 1392 1404	teicoplanina
+T36	FARMACO 1406 1418	dexametasona
+T37	PROCEDIMIENTO 297 321	aislamiento domiciliario
+T38	PROCEDIMIENTO 772 783	RX de torax
+T39	PROCEDIMIENTO 996 1004	RX torax
+T40	PROCEDIMIENTO 1343 1364	cobertura antibiótica
+T42	SPECIES 255 264	SARS COV2
+T43	PROCEDIMIENTO 233 264	test de antígeno para SARS COV2
+T44	PROCEDIMIENTO 599 623	vacunado contra la gripe
+T45	PROCEDIMIENTO 1300 1312	antigenurias

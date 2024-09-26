@@ -1,0 +1,63 @@
+T16	PROCEDIMIENTO 407 427	radiografía de tórax
+T17	PROCEDIMIENTO 460 479	analítica sanguínea
+T18	PROCEDIMIENTO 745 756	TC de tórax
+T19	PROCEDIMIENTO 1287 1291	VMNI
+T20	PROCEDIMIENTO 1331 1363	tratamiento antibiótico empírico
+T21	PROCEDIMIENTO 1695 1747	trombectomía quirúrgica ([**FECHAS**]) con forgart y
+T22	PROCEDIMIENTO 1855 1870	anticoagulación
+T23	PROCEDIMIENTO 2129 2145	ecocardiografías
+T24	PROCEDIMIENTO 2730 2765	se extraen hemocultivos y sedimento
+T25	PROCEDIMIENTO 59 97	PCR que resulta positiva para COVID 19
+T26	PROCEDIMIENTO 498 522	reactantes de fase aguda
+T27	PROCEDIMIENTO 1130 1133	LAF
+T28	PROCEDIMIENTO 1294 1303	pronación
+T29	PROCEDIMIENTO 1449 1483	se administra plasma convalescente
+T30	PROCEDIMIENTO 1572 1581	resondaje
+T31	PROCEDIMIENTO 2368 2392	reactantes de fase aguda
+T32	PROCEDIMIENTO 2963 2966	LAF
+T33	PROCEDIMIENTO 2969 2994	mascarilla tipo Ventimask
+T34	SINTOMA 21 28	cefalea
+T35	SINTOMA 31 37	fiebre
+T36	SINTOMA 125 177	disnea progresiva hasta hacerse de mínimos esfuerzos
+T37	SINTOMA 858 927	afectación parenquimatosa difusa y extensa de ambos campos pulmonares
+T38	SINTOMA 1181 1212	aumento de trabajo respiratorio
+T39	SINTOMA 1214 1223	taquipnea
+T40	SINTOMA 1226 1259	uso leve de musculatura accesoria
+T41	SINTOMA 1514 1526	uretrorragia
+T42	SINTOMA 2071 2084	ritmo sinusal
+T43	SINTOMA 2273 2291	diuresis adecuadas
+T44	SINTOMA 2316 2340	función renal preservada
+T45	SINTOMA 2354 2361	afebril
+T46	SINTOMA 2815 2826	SO negativo
+T47	SINTOMA 3143 3166	disnea leve al esfuerzo
+T48	SINTOMA 3169 3186	leve desaturación
+T49	ENFERMEDAD 266 309	insuficiencia respiratoria aguda hipoxémica
+T50	ENFERMEDAD 785 788	TEP
+T51	ENFERMEDAD 825 855	sobrecarga ventricular derecha
+T52	ENFERMEDAD 1010 1042	insuficiencia respiratoria aguda
+T53	ENFERMEDAD 1626 1662	trombosis humeral/cubital izquierdas
+T54	ENFERMEDAD 2089 2105	leve taquicardia
+T55	ENFERMEDAD 2229 2262	disfunción del ventrículo derecho
+T56	SINTOMA 2653 2668	foco infeccioso
+T57	ENFERMEDAD 2676 2693	herida quirúrgica
+T58	ENFERMEDAD 3313 3338	claudicación respiratoria
+T59	FARMACO 546 558	dexametasona
+T60	FARMACO 561 572	tocilizumab
+T61	FARMACO 1391 1402	ceftriaxona
+T62	FARMACO 1405 1417	teicoplanina
+T63	HUMANO 1 9	Paciente
+T64	HUMANO 3344 3352	paciente
+T65	ENFERMEDAD 89 97	COVID 19
+T66	SINTOMA 59 97	PCR que resulta positiva para COVID 19
+T67	FARMACO 328 335	oxígeno
+T68	SINTOMA 433 456	infiltrados bilaterales
+T69	SINTOMA 485 522	elevación de reactantes de fase aguda
+T70	ENFERMEDAD 1798 1816	retrombosis precoz
+T71	FARMACO 1875 1906	heparina de bajo peso molecular
+T72	SINTOMA 2195 2213	sobrecarga derecha
+T73	SINTOMA 2540 2565	leucocitosis neutrofílica
+T74	PROCEDIMIENTO 2815 2817	SO
+T75	PROCEDIMIENTO 2828 2830	Hc
+T76	SINTOMA 3228 3247	estabilidad clínica
+T77	PROCEDIMIENTO 2785 2813	aislamientos microbiológicos
+T1	SINTOMA 2925 2943	mejoría progresiva

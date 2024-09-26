@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacientecon neumonía bilateral por probable ovid-29. Requiere de VMK al 28%. Analítica con D-dímero de 7.000. Solicitamos Angio-TC para descartar TEP. Gracias.
+neumonía bilateral probable COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Se compara con estudio previo del 14/11/2022.
+Catéter de acceso venoso en vena subclavia derecha con extremo distal en VCS.
+Defectos de repleción en el árbol arterial pulmonar con afectación difusa de ramas segmentarias de LSD, LM, LID, LSI y LII, compatible con TEP agudo bilateral.
+Tronco común de la arteria pulmonar aumentado de calibre (33 mm), sugestivo de hipertensión pulmonar. No se aprecian claros signos de sobrecarga cardíaca derecha.
+No se observa derrame pleural ni pericárdico. Ausencia de adenopatías axilares o mediastínicas valorables. Pequeños ganglios paratraqueales bilaterales, inespecíficos. Pequeño ganglio calcificado axilar izquierdo.
+Focos consolidativos periféricos bilaterales con bandas de parénquima subpleural respetado que asocian algunas dilataciones bronquiales y una discreta distorsión de la arquitectura del parénquima pulmonar. Ténues focos en vidrio deslustrado periféricos asociados en LLSS y bases pulmonares. Estos hallazgos son compatibles con afectación pulmonar por COVID-19.
+En las secciones abdominales incluidas en el estudio se aprecia una hipodensidad difusa del parénquima hepático que sugiere esteatosis, sin cambios. Quiste cortical de 5 cm en tercio medio del riñón izquierdo.
+Resto sin hallazgos valorables.
+
+conclusiones:
+- Hallazgos compatibles con TEP agudo bilateral con signos de hipertensión pulmonar pero sin claros signos de sobre carga cardíaca derecha.
+- Parénquima pulmonar con hallazgos sugestivos de afectación por COVID- 19 con patrón de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

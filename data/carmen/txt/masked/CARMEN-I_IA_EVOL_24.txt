@@ -1,0 +1,15 @@
+NOTA INGRESO Y EVOLUCIÓN EN PLANTA HOSPITALIZACIÓN COVID19 (SINT)
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**], con antecedentes relevantes de hipertensión arterial, diabetes mellitus y obesidad que ingresa en planta de hospitalización por los siguientes problemas clínicos:
+1. NEUMONIA BILATERAL POR SARS-COV2
+1.1. INSUFICIENCIA RESPIRATORIA PARCIAL
+- To sintomas: [**FECHAS**]
+- Fecha dto (TAR) [**FECHAS**]--> PCR [**FECHAS**] ([**HOSPITAL**]) CT 22
+- Vacuna: 2 dosis Sputnik última en [**FECHAS**]
+- Esquema de tratamiento:
+**Antiviral. Remdesivir [**FECHAS**]
+**Antiinflamatorio: TOCILIZUMAB 800 mg ([**FECHAS**] DU) y DEXAMETASONA ([**FECHAS**])
+**ATB empirica: Ceftriaxona + teicoplanina ([**FECHAS**]). Ivermectina (DU [**FECHAS**])
+Tras valoración en urgencias se decide ingreso en planta de hospitalización por la presencia insuficiencia respiratoria (sat basal 83%) con infiltrados pulmonares bilaterales y elevación de marcadores inflamatorios en paciente con situación comórbida de alto riesgo.
+La PCR SARS-CoV2 al ingreso es positiva con CT 22 por lo que se inicia tratamiento antiviral con remdesivir y en paralelo por PCR en sangre >7 se opta por tratamiento dual anti-inflamatorio con dexametasona y dosis única de tocilizumab (800mg). Se inicia también antibioterapia empirica con ceftriaxona y teicoplanina por presencia de tos con expectoración mucopurulenta junto con leucocitosis a expensas de neutrofilia, ampliando previamente el estudio con cultivo de esputo (pendiente, aunque resultado preliminar negativo), antigenuria de neumococo y legionella (negativas) y hemocultivos (pendiente). La radiografía NO muestra infiltrados de tipo alveolar y la procalcitonina es negativa pero se decide mantener esquema hasta confirmar negatividad de todos los cultivos en base a los datos clínicos previamente descritos. Teniendo en cuenta el antecedente epidemiológico (oriundo de [**PAIS**]) se amplían serologías de infecciones importadas (negativas) y se administra dosis única de ivermectina.
+El paciente presenta muy buena evolución clínica en planta de hospitalización objetivada no sólo en la analitica con la mejora de los marcadores inflamatorios, sino además en los requerimientos de oxígeno, con flujo máximo de gafas nasales a 2lpm y saturación del 97-98%. En momentos aislados en los que puede retirarlas para su higiene personal queda en situación basal con saturación minima de 93-94% que recupera rápidamente (<1minuto) tras recolocación de las mismas alcanzando nuevamente saturación en torno 97-98%. Desde el [**FECHAS**] se consigue dejar sin oxígeno y comprobamos incluso el [**FECHAS**] con sit to stand test saturación minima de 86% que recupera en menos de un minuto hasta 95%.
+Analítica última de control con mejora sustancial de parámetros inflamatorios (PCR, ferritina) con procalcitonina negativa. Dejamos hasta el [**FECHAS**] para completar tratamiento con remdesivir ev y dejamos tratamiento al alta con dexametasona oral hasta cumplir 10 días y antibiótico empírico oral hasta cumplir 7 dias.

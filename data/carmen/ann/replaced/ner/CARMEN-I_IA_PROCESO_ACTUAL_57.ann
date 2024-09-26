@@ -1,0 +1,6 @@
+T3	SINTOMA 49 55	fiebre
+T4	SINTOMA 78 86	tos seca
+T5	SINTOMA 109 127	disnea de esfuerzo
+T6	SINTOMA 91 104	espectoracion
+T7	HUMANO 129 134	Yerno
+T1	SINTOMA 146 154	enfermos

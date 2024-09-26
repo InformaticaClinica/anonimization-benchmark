@@ -23,6 +23,7 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
+            "language":             None
         }
 
     def set_filename(self, filename):
@@ -189,6 +190,13 @@ class Metrics:
         self.levenshtein_distance(ground_truth, generated)
         self.calculate_inv_levenshtein()
         self.calculate_overall()
+        self.add_language()
+
+    def add_language(self):
+        filename = self._metrics_data["filename"].split(".")[0]
+        data = pd.read_csv('./data/carmen/language.tsv', sep='\t', index_col='filename')
+        language = data.loc[filename, 'language']
+        self._metrics_data["language"] = language
 
     def store_metrics(self):
         self._list_metrics.append(self._metrics_data)
@@ -202,6 +210,7 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
+            "language":             None
         }
 
     def get_metrics(self):

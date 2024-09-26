@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Covid +
+
+resultados:
+Placa rotada.
+Elongación y calcificación aórtica.
+Portadora de marcapasos en el hemitórax derecho con el extremo distal en el ventrículo derecho.
+No evidencia de consolidaciones pulmonares en esta exploración.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

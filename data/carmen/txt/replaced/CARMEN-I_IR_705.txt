@@ -1,0 +1,21 @@
+
+prueba:
+TC RODILLA
+
+clinica:
+Fractura mesesta tibial Schatzker tipo VI izquierda Rogamos valoración con TAC para planificación intervención quirúrgica
+Fractura bicondília desplaçada, tíbia no especificada, A
+
+protocolo:
+TC RODILLA IZQUIERDA URGENTE con reconstrucciones en ventana ósea en los tres planos del espacio
+
+conclusiones:
+Fractura compleja de la meseta tibial externa con leve hundimiento parcial y aumento del espacio articular, que se extiende a espinas tibiales anteriores. Meseta tibial interna aparentemente íntegra.
+Fractura multifragmentaria metafisaria con trazo de fractura transversa diafisometafisaria tibial proximal con extremos de la fractura separados lateralmente y varios fragmentos libres, algunos angulados y desplazados.
+Derrame articular moderado con componente de hemartros.
+Espacio vascular poplíteo conservado.
+Fractura multifragmentaria de la cabeza peroneal con leve desplazamiento de los fragmentos.
+No se observan fracturas a nivel patelar ni femoral.
+
+descrip:
+TC RODILLA

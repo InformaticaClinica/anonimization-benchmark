@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Estudio de demencia vs patologia intracraneal por cuadro coinfusional que no mejora en paciente sin AP de demencia/det.ccognitivo previo conocido.
+Infecció per coronavirus no especificada
+
+protocolo:
+Se practica tac craneal basal
+
+resultados:
+Marcada afectacion de la sustancia blanca en el contexto de patologia de pequeño vaso en grado severo.
+Se observa ademas una atrofia cortical global moderada  y marcadas calcificaciones vasculares.
+Atrofia de hipocampos no destacable.
+Estructruas de la fosa posterior centradas.
+
+conclusiones:
+Patologia de pequeño vaso en grado importante con marcada calcificacion de estructuras vasculares
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,36 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+CONTROL PREFERENTE VIERNES GRACIAS.
+Paciente varón de 60 años con antecedente de adenocarcinoma gástrico intervenido en febrero de 2010 mediante gastrectomía peritonectomía y HIPEC. Diagnosticado en contexto de suboclusión intestinal de recidiva peritoneal tras ILE 2a 6m aproximadamente, siendo reintervenido el pasado 28/11 de hemicolectomía derecha, resección intestinal y HIPEC.
+Reingresa desde urgencias el 7/12 en contexto de clínica febril secundaria a colección intraabdominal. TC al ingreso refiere colección hidroaérea de 7x10x11cm adyacente a LHI y a la pared abdominal derecha que se extiende desde la crura diafragmática derecha caudalmente hastael ángulo hepático en hipocondrio derecho.
+Se realizó drenaje percutáneo ecoguiado.
+Solicito TC control previo alta.
+Gracias.
+Abscés cutani, localització no especificada
+
+protocolo:
+TC abdominal con adquisición de imágenes tras la administración de contraste oral y e.v. en fase portal.
+
+resultados:
+Se compara con la TC previa del 08/12/2012.
+Cambios posquirúrgicos recientes por una hemicolectomía derecha con anastomosis ileotransversa y resección de un segmento ileal. Cambios posquirúrgicos antiguos por una gastrectomía total con reconstrucción en Y de Roux.
+Notable disminución de tamaño de la colección hidroaérea conocida, con morfología alargada que se extiende desde la región epigástrica (subdiafragmática, entre el lóbulo hepático izquierdo y la esofagoyeyunostomía) y desciende adyacente al peritoneo parietal anterior hasta el hipocondrio/flanco derecho. El grosor máximo de la colección ha pasado de 6 a 2,5 cm, y se encuentra correctamente drenada por el catéter de derenaje percutáneo con entrada por el flanco derecho (colocado el pasado 08/12/2012).
+Ligero aumento de tamaño de otra colección intrsaabdominal, polilobulada y mal definida, situada entre las asas y el colon de la fosa ilíaca derecha. En el estudio previo, la colección correspondía a un hematoma.
+Actualmente es de menor densidad, y aunque no presenta gas en su interior, su grosor máximo ha pasado de 2,5 a 3 cm, por lo que no se puede descartar que se haya sobreinfectado. No parece estar comunicada con la otra coleccion intraabdominal. Esta colección es de difícil abordaje percutáneo y en caso de ser necesario, probablemente debería ser guiado por TC.
+Hígado de tamaño normal, con un lóbulo izquierdo atrófico y dilatación de los radicales biliares para los s. II-III. No se observan lesiones focales hepáticas.
+Colecistectomía. El resto de la vía biliar intrahepática, así como la vía biliar extrahepática son de calibre normal
+Vena porta y eje esplenomesentérico permeables.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal, el derecho con un pequeño quiste cortical simple. Vía excretora no dilatada.
+No se identifican ganglios retroperitoneales ni ilíacos de tamaño valorable.
+Espacios pleurales libres.
+
+conclusiones:
+- Notable disminución de tamaño de la colección hidroaérea conocida en hipocondrio/flanco derecho, que se encuentra correctamente drenada por el drenaje percutáneo.
+- Ligero aumento de tamaño de una colección polilobulada situada entre las asas de la fosa ilíaca derecha, que en el estduio previo correspondía a un hematoma. No presenta gas, pero al haber aumentado de tamaño no es posible descartar que se haya sobreinfectado.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

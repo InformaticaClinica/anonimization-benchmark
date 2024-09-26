@@ -1,0 +1,17 @@
+T4	SINTOMA 17 77	Opacidades alveolares bilaterales de distribución periférica
+T5	SINTOMA 625 656	opacidades en vidrio delustrado
+T6	SINTOMA 338 442	Defectos de repleción en ramas lobares y segmentarias del LSD, LM y LID y segmentarias del LSI y del LII
+T7	SINTOMA 479 532	Tronco común de la arteria pulmonar de calibre normal
+T8	SINTOMA 586 613	sobrecarga cardíaca derecha
+T9	SINTOMA 669 693	engrosamientos septables
+T10	SINTOMA 732 806	consolidaciones con broncograma aéreo de distribución periférica bilateral
+T11	ENFERMEDAD 458 477	TEP agudo bilateral
+T12	ENFERMEDAD 586 613	sobrecarga cardíaca derecha
+T13	ENFERMEDAD 845 850	COVID
+T14	ENFERMEDAD 903 933	derrame pleural ni pericárdico
+T15	ENFERMEDAD 950 987	adenopatías mediastínicas ni axilares
+T16	PROCEDIMIENTO 1 5	Rx T
+T17	PROCEDIMIENTO 288 296	angio-TC
+T18	PROCEDIMIENTO 319 326	AngioTC
+T19	SINTOMA 187 219	focos consolidativos periféricos
+T20	SINTOMA 720 729	empedrado

@@ -1,0 +1,37 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de 62 años ingresado por pancreatitis aguda biliar con criterios de gravedad. TC a las 48h evidencia necrosis pancreatica mayor al 60% con trabeculación de la grasa peripancréatica.
+Se solicita TAC de control para descartar colecciones.
+pancreatitis aguda biliar grave
+
+protocolo:
+TC abdominal en fases basal, pancreatográfica, portal tras la administración de contraste endovenoso.
+
+resultados:
+Se compara con el TC previo de 24/3/27:
+Se observan infiltrados parcheados bilaterales en ambas bases pulmonares que no estaban presentes en el estudio angio-TC realizado al paciente el pasado 29 de abril, muy sugestivos de corresponder a infección vírica.
+Leve derrame pleural izquierdo que condiciona atelectasia pasiva del parénquima pulmonar adyacente, menor que en el estudio previo. No se identifica derrame pleural derecho en la actualidad.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Vesicula biliar distendida, litiásica. Via biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables. No obstante la vena esplénica está adelgazada de forma difusa, en mayor grado que en el estudio TC anterior.
+Marcada desestructuración de la glándula pancreática identificando extensas áreas hipodensas mal delimitadas en relación con necrosis pancreática (>60%) con aislados focos de parénquima respetado en cabeza, proceso uncinado y cola, similares al estudio previo.
+Moderada cantidad de líquido libre peripancreático y en omento menor el cual muestra un aspecto pseudocoleccionado a nivel de la curvatura mayor gástrica y en espacio pararrenal anterior derecho. Asocia trabeculación de la grasa mesentérica mesogástrica con engrosamiento de ambas fascias lateroconales, de predominio izquierdo. Todo ello indica necrosis grasa peripancreática, con colecciones agudas necróticas, de límites imprecisos. Estos hallazgos presentan una mayor extensión y empeoramiento radiológico con realción al TC anterior.
+Persiste sin cambios significativos el engrosamiento mural hipodenso de la segunda y tercera poción duodenal en relación a cambios inflamatorios-reactivos.
+No hay signos de neumoperitoneo en el momento actual.
+Bazo y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Vejiga distendida de paredes finas.
+No se observa ascitis difusa.
+
+conclusiones:
+Infiltrados parcheados bilaterales en ambas bases pulmonares de nueva aparición altamente sugestivos de corresponder a infección vírica pulmonar.
+Pancreatitis aguda necrotizante con extensas áreas necróticas parenquimatosas (>60%) que son similares al estudio previo.
+Aumento de los infiltrados extraperitoneales y de la grasa mesentérica, peripancreáticos y en mesogatrio con áreas pseudocoleccionadas en relación a colecciones agudas necróticas.
+Disminución del derrame pleural izquierdo y desaparición del derecho.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

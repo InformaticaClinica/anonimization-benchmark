@@ -1,0 +1,16 @@
+Varón de [**EDAD_SUJETO_ASISTENCIA**] de edad, sin alergias medicamentosas conocidas. Ex- fumador desde hace más de 10 años. Moderadamente dependiente para las ABVD (Barthel 45), sale a la calle en silla de ruedas, deambulación limitada por hemiparesia residual. Vive con un cuidador 24 horas. No tiene familia en [**TERRITORIO**].
+* ANTECEDENTES PATOLÓGICOS
+- DIABETES MELLITUS TIPO 2 en tratamiento con insulina e inhibidores de DPP4. Polineuropatía diabética.
+- HIPERTENSION ARTERIAL en tratamiento farmacológico. Con lesión de órgano diana.
+- CARDIOPATÍA HIPERTRÓFICA con descompensaciones en forma de insuficiencia cardíaca, en contexto de infecciones respiratorias. Último ecocardiograma de [**FECHAS**] con FE de 40-50%, hipertrofía concéntrica de VI con movilidad global moderadamente reducida por hipocinesia difusa.
+Insuficiencia diastólica con ligera IAo.
+- FIBRILACIÓN AURICULAR de debut en ingreso de [**FECHAS**]. Se decidió no anticoagular.
+- ENFERMEDAD RENAL CRÓNICA estadío IIIb multifactorial - nefroangioesclerosis, nefropatía diabética y toxicidad crónica por AINE's- en seguimiento por nefrología de nuestro [**HOSPITAL**]. Creatinina habitual entorno a 2,5 mg/dl.
+- ACCIDENTE VASCULAR CEREBRAL de arteria cerebral media izquierda en [**FECHAS**] con leve hemiparesia residual derecha (no dispongo de informes).
+Episodio de AIT en [**FECHAS**] caracterizado por afasia y disartria que se resolvieron de manera autolimitada. TC de [**FECHAS**] sin hallazgos patológicos.
+- NEUMOPATÍA CRÓNICA. PATRÓN RESTRICTIVO. Espirometría en [**FECHAS**] evidenció FEV1/FVC 98%, FEV1 57%, FVC 58% con respuesta broncodilatador positiva, sugestivo de proceso restrictivo.
+- PLEURITIS TUBERCULOSA con ingreso en [**HOSPITAL**] en [**FECHAS**] por síndrome febril con sdm tóxico y derrame pleural izquierdo. La biopsia pleural por TC fue sugestiva de pleuritis tuberculosa, por lo que se inició tratamiento antituberculoso con progresiva resolución de la fiebre y clara mejoría clínica. Se solicitó gammagrafía ósea para estudio de dolores óseos generalizados que únicamente mostró patología degenerativa.
+- NEOPLASIA DE MAMA INFILTRANTE ([**FECHAS**]) IQ + QMT. Libre de enfermedad segun el cuidador.
+- OSTEOPOROSIS en tratamiento farmacológico.
+- ANEMIA MICROCÍTICA que se estudió mediante FCS y FGS durante ingreso de [**FECHAS**] sin observarse hallazgos patológicos. En controles posteriores en CCEE de medicina interna normalización de los valores con suplementos de hierro.
+* MEDICACIÓN HABITUAL: Insulina glargina 22UI/24h, omeprazol 20mg/24h, seretide 1 inh/12h, ipatropio 2 inh/8h, AAS 100mg/24h, furosemida 60mg/24h, linagliptina 5mg/24h, atorvastatina 40mg/24h, lormetazepam 1mg/24h, gabapentina 300mg/8h, tramadol 100mg/12h, paracetamol, carbonato de calcio-colecalciferol 1 sobre/24h, ferplex 1 amp/24h, bisoprolol 5mg/24h, duodart 1 capsula/24h.

@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+IM reparada
+
+conclusiones:
+En pared con RX de tórax del [**FECHAS**].
+Cardiomegalia. Hilios pulmonares prominentes de aspecto vascular.
+Derrame pleural derecho, sin cambios.
+Aumento de la trama bronquial asociado a patrón intersticial bilateral de predominio en la base pulmonar derecha, que si bien podría corresponder a edema pulmonar, obliga a descartar proceso infeccioso. Ha aumentado respecto a RX de tórax previa.
+Vía venosa central derecha.
+
+descrip:
+RX  PORTATIL  TORAX

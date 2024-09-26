@@ -1,0 +1,89 @@
+T25	SPECIES 1926 1939	v.hepatitis B
+T26	SPECIES 1966 1979	v.hepatitis B
+T27	SPECIES 1992 2005	v.hepatitis C
+T28	SPECIES 2036 2051	citomegalovirus
+T29	SPECIES 2070 2085	citomegalovirus
+T30	SPECIES 2774 2784	Legionella
+T31	SPECIES 2836 2847	aspergillus
+T32	SPECIES 2893 2907	virus Covid-19
+T33	SPECIES 2954 2965	flora mixta
+T34	SPECIES 2983 3009	flora habitual o sapròfita
+T35	HUMANO 4231 4239	Paciente
+T37	HUMANO 4786 4794	paciente
+T38	SPECIES 2791 2801	Pneumococo
+T40	SPECIES 4281 4290	SARS-COV2
+T41	SPECIES 4313 4322	NEUMOCOCO
+T42	ENFERMEDAD 3479 3508	muy leve dilatación bronquial
+T43	SINTOMA 3640 3690	Hígado de tamaño normal con coestructura homogénea
+T44	SINTOMA 4046 4077	Bazo homogéneo de tamaño normal
+T45	ENFERMEDAD 3125 3162	adenopatías mediastínicas ni axilares
+T46	ENFERMEDAD 3258 3288	derrame pleural ni pericárdico
+T47	ENFERMEDAD 3692 3733	Quiste simple de 22 mm en el segmento VII
+T48	PROCEDIMIENTO 2754 2767	MICROBIOLOGÍA
+T49	PROCEDIMIENTO 2932 2944	Urinocultivo
+T50	PROCEDIMIENTO 3011 3023	TAC PULMONAR
+T51	PROCEDIMIENTO 3606 3625	ECOGRAFÍA ABDOMINAL
+T52	PROCEDIMIENTO 4540 4550	intubación
+T53	PROCEDIMIENTO 4570 4583	traqueostomía
+T54	PROCEDIMIENTO 4603 4613	extubación
+T55	PROCEDIMIENTO 4633 4646	traqueostomía
+T56	PROCEDIMIENTO 4771 4785	rehabilitación
+T57	PROCEDIMIENTO 4865 4877	fisioterapia
+T58	PROCEDIMIENTO 4899 4917	estimulación cogni
+T59	ENFERMEDAD 1928 1939	hepatitis B
+T60	ENFERMEDAD 1968 1979	hepatitis B
+T61	ENFERMEDAD 1994 2005	hepatitis C
+T62	PROCEDIMIENTO 2094 2107	IMMUNOQUÍMICA
+T63	PROCEDIMIENTO 1909 1939	IgG antigen core v.hepatitis B
+T64	SINTOMA 1909 1947	IgG antigen core v.hepatitis B Negatiu
+T65	SINTOMA 1949 1987	IgM antigen core v.hepatitis B Negatiu
+T66	PROCEDIMIENTO 1988 2005	RNA v.hepatitis C
+T67	PROCEDIMIENTO 1949 1979	IgM antigen core v.hepatitis B
+T68	PROCEDIMIENTO 2032 2051	IgG citomegalovirus
+T69	PROCEDIMIENTO 2053 2056	EIA
+T70	SINTOMA 2032 2065	IgG citomegalovirus (EIA) Positiu
+T71	SINTOMA 2066 2093	IgM citomegalovirus Negatiu
+T72	PROCEDIMIENTO 2066 2085	IgM citomegalovirus
+T73	PROCEDIMIENTO 2220 2233	AUTOIMMUNITAT
+T74	SINTOMA 2235 2273	Anticossos antinuclears; sèrum Negatiu
+T75	PROCEDIMIENTO 2235 2265	Anticossos antinuclears; sèrum
+T76	PROCEDIMIENTO 2274 2309	Anticossos antimitocondrials; sèrum
+T77	SINTOMA 2274 2317	Anticossos antimitocondrials; sèrum Negatiu
+T78	PROCEDIMIENTO 2318 2358	Anticossos anticèl·lula parietal gàstric
+T79	SINTOMA 2318 2366	Anticossos anticèl·lula parietal gàstric Negatiu
+T80	PROCEDIMIENTO 2367 2401	Anticossoso antimúscul llis; sèrum
+T81	SINTOMA 2367 2409	Anticossoso antimúscul llis; sèrum Negatiu
+T82	PROCEDIMIENTO 2410 2436	Anticossos anti-LKM; sèrum
+T83	SINTOMA 2410 2444	Anticossos anti-LKM; sèrum Negatiu
+T84	SINTOMA 2791 2819	Pneumococo (30/6): negativos
+T85	PROCEDIMIENTO 2822 2847	Galactomanano aspergillus
+T86	SINTOMA 2836 2870	aspergillus (8/7 y 15/7): negativo
+T87	PROCEDIMIENTO 2873 2907	Detecció molecular, virus Covid-19
+T88	ENFERMEDAD 2899 2907	Covid-19
+T89	SINTOMA 2893 2929	virus Covid-19 (31/07): Indetectable
+T90	PROCEDIMIENTO 2968 2973	Esput
+T91	SINTOMA 3038 3108	Vía central yugular derecho con extremo en unión en vena cava superior
+T92	SINTOMA 3185 3242	Estructuras mediastínicas sin alteraciones significativas
+T93	SINTOMA 3297 3350	afectación en vidrio deslustrado periférica bilateral
+T94	ENFERMEDAD 3365 3386	infección por COVID19
+T95	SINTOMA 3399 3439	reticulación subpleural difusa bilateral
+T96	SINTOMA 3442 3467	distorsión parenquimatosa
+T97	ENFERMEDAD 3750 3784	lesiones focales hepáticas sólidas
+T98	SINTOMA 3796 3854	Vena porta permeable de calibre normal y flujo hepatopetal
+T99	SINTOMA 3856 3906	Vesícula biliar normodistendida y de paredes finas
+T100	ENFERMEDAD 3856 3934	Vesícula biliar normodistendida y de paredes finas, con abundante barro biliar
+T101	SINTOMA 3951 3973	Vía biliar no dilatada
+T102	SINTOMA 3975 4044	Páncreas parcialmente visualizado (cuerpo) sin alteraciones evidentes
+T103	SINTOMA 4079 4155	Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora
+T104	SINTOMA 4171 4199	líquido libre intraabdominal
+T105	ENFERMEDAD 4254 4290	neumonía bilateral por POR SARS-COV2
+T106	ENFERMEDAD 4254 4322	neumonía bilateral por POR SARS-COV2 [+ SOBREINFECCIÓN POR NEUMOCOCO
+T107	ENFERMEDAD 4655 4683	miopatía del enfermo crítico
+T108	PROCEDIMIENTO 3 12	ANALITICA
+T109	PROCEDIMIENTO 38 48	BIOQUÍMICA
+T110	PROCEDIMIENTO 745 755	BIOQUÍMICA
+T111	PROCEDIMIENTO 1315 1324	HEMOGRAMA
+T112	PROCEDIMIENTO 611 621	HEMOSTÀSIA
+T113	PROCEDIMIENTO 1691 1701	HEMOSTÀSIA
+T114	PROCEDIMIENTO 1898 1907	VIROLOGIA
+T115	SINTOMA 3523 3544	cambios organizativos

@@ -1,0 +1,36 @@
+T4	SINTOMA 72 124	alteraciones del segmento ST ni de la repolarización
+T5	SINTOMA 666 682	restos hemáticos
+T6	SINTOMA 889 901	desorientado
+T7	SINTOMA 907 947	paresia facio (lev)-braquio (3/5)-crural
+T8	SINTOMA 982 994	desorientado
+T9	SINTOMA 54 66	QRS estrecho
+T10	SINTOMA 170 190	Esófago sin lesiones
+T11	SINTOMA 239 313	Estómago con fundus en retroversión normal, cuerpo e incisura sin lesiones
+T12	SINTOMA 315 342	Antro con algunas erosiones
+T13	SINTOMA 357 370	Píloro normal
+T14	SINTOMA 372 422	Bulbo y duodeno hasta segunda porción sin lesiones
+T15	SINTOMA 427 443	restos hemáticos
+T16	SINTOMA 511 591	restos líquidos de color oscuro en todo el trayecto incluyendo el íleon terminal
+T17	SINTOMA 625 635	hemorragia
+T18	SINTOMA 686 694	lesiones
+T19	SINTOMA 747 803	ampolla rectal por retroversión sin identificar lesiones
+T20	SINTOMA 996 1023	Lenguaje dificil de valorar
+T21	SINTOMA 1124 1132	sangrado
+T22	ENFERMEDAD 1208 1229	oclusión de gran vaso
+T23	SINTOMA 24 26	RS
+T24	PROCEDIMIENTO 4 22	ELECTROCARDIOGRAMA
+T25	PROCEDIMIENTO 141 153	GASTROSCOPIA
+T26	PROCEDIMIENTO 478 490	COLONOSCOPIA
+T27	PROCEDIMIENTO 876 878	TC
+T28	PROCEDIMIENTO 1248 1269	trombectomía mecánica
+T29	PROCEDIMIENTO 1307 1319	RMN cerebral
+T30	PROCEDIMIENTO 1408 1422	ecocardiograma
+T31	PROCEDIMIENTO 1485 1500	anticoagulación
+T32	PROCEDIMIENTO 733 761	Se explora la ampolla rectal
+T33	PROCEDIMIENTO 1165 1190	tratamiento fibrinolítico
+T34	ENFERMEDAD 1058 1082	ictus talámico izquierdo
+T35	ENFERMEDAD 1381 1403	foramen oval permeable
+T36	HUMANO 880 888	paciente
+T37	HUMANO 1111 1119	paciente
+T38	HUMANO 1348 1356	paciente
+T39	HUMANO 1541 1549	paciente

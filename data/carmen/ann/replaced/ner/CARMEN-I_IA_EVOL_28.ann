@@ -1,0 +1,49 @@
+T6	ENFERMEDAD 197 200	HTA
+T7	ENFERMEDAD 202 223	cardiopatía isquémica
+T8	ENFERMEDAD 225 247	insuficiencia cardiaca
+T9	ENFERMEDAD 249 270	fibrilación auricular
+T10	ENFERMEDAD 273 286	infarto renal
+T11	ENFERMEDAD 329 343	demencia mixta
+T12	ENFERMEDAD 1299 1317	neumonía bilateral
+T13	ENFERMEDAD 16 21	COVID
+T14	ENFERMEDAD 878 886	COVID-19
+T15	ENFERMEDAD 25 56	SOBREDESCOAGULACIÓN POR SINTROM
+T16	ENFERMEDAD 1469 1474	COVID
+T17	PROCEDIMIENTO 628 642	oxigenoterapia
+T18	PROCEDIMIENTO 774 785	Rx de tórax
+T19	PROCEDIMIENTO 1086 1089	ECG
+T20	PROCEDIMIENTO 1184 1187	ECG
+T21	SINTOMA 453 472	esputos hemoptoicos
+T22	SINTOMA 475 483	tos seca
+T23	SINTOMA 544 563	buen estado general
+T24	SINTOMA 1720 1744	estabilidad hemodinámica
+T25	SINTOMA 565 590	hemodinámicamente estable
+T26	SINTOMA 676 729	sibilantes leves dispersos en ambos campos pulmonares
+T27	SINTOMA 1004 1014	linfopenia
+T28	SINTOMA 1146 1162	elevación del ST
+T29	SINTOMA 1214 1247	alteraciones en la repolarización
+T30	ENFERMEDAD 60 70	HEMOPTISIS
+T31	ENFERMEDAD 1102 1104	FA
+T32	FARMACO 319 326	sintrom
+T33	FARMACO 1488 1507	lopinavir/ritonavir
+T34	FARMACO 1509 1526	hidroxicloroquina
+T35	FARMACO 1553 1565	teicoplanina
+T36	FARMACO 1568 1579	ceftriaxona
+T37	FARMACO 1602 1609	oxígeno
+T38	FARMACO 1686 1697	Baricitinib
+T39	PROCEDIMIENTO 301 314	anticoagulado
+T40	HUMANO 137 145	Paciente
+T41	HUMANO 1348 1372	paciente pluripatológico
+T42	FARMACO 49 56	SINTROM
+T43	SINTOMA 798 808	opacidades
+T44	SINTOMA 811 859	infiltrado intersticial de predominio periférico
+T45	ENFERMEDAD 1336 1344	COVID-19
+T46	FARMACO 1528 1541	azitromicinia
+T47	SINTOMA 1048 1073	Calcio corregido en rango
+T48	PROCEDIMIENTO 894 903	analítica
+T49	PROCEDIMIENTO 664 675	exploración
+T50	PROCEDIMIENTO 1747 1758	radiológica
+T1	SINTOMA 1612 1654	empeoramiento de los parámetros analíticos
+T2	SINTOMA 1585 1609	requerimiento de oxígeno
+T3	SINTOMA 1769 1805	mejoría de los parámetros analíticos
+T4	SINTOMA 1703 1718	mejoría clínica

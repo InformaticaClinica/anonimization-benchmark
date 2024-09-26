@@ -1,0 +1,22 @@
+T7	ENFERMEDAD 250 271	Hipertensión arterial
+T8	ENFERMEDAD 417 433	Policitemia Vera
+T9	ENFERMEDAD 637 651	esplenomegalia
+T10	ENFERMEDAD 656 698	Trombosis venosa profunda a nivel poplíteo
+T11	ENFERMEDAD 719 748	Discopatia degenerativa L5-S1
+T12	ENFERMEDAD 751 807	hernia discal extruida a nivel de L5- S1 postero-lateral
+T13	FARMACO 386 397	Ruxolitinib
+T14	FARMACO 873 884	Ruxolitinib
+T15	FARMACO 895 898	AAS
+T16	FARMACO 910 919	omeprazol
+T17	HUMANO 0 28	[**SEXO_SUJETO_ASISTENCIA**]
+T18	SINTOMA 609 616	cefalea
+T19	SINTOMA 618 625	astenia
+T20	SINTOMA 627 634	prurito
+T21	SINTOMA 637 651	esplenomegalia
+T23	ENFERMEDAD 91 114	alergias medicamentosas
+T24	PROCEDIMIENTO 170 203	Vacuna complerta (Pfizer) 2a dosi
+T25	ENFERMEDAD 305 366	Mielofibrosis secundaria a Policitemia Vera (mutación JAK2 +)
+T26	ENFERMEDAD 460 472	poliglobulia
+T27	ENFERMEDAD 814 848	afectación radicular S1 izquierdas
+T28	PROCEDIMIENTO 275 300	tratamiento farmacológico
+T1	ENFERMEDAD 130 145	hábitos tóxicos

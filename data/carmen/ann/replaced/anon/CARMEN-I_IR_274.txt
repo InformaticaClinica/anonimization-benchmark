@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+epoc, covid, mayor necesidad 0240%
+covid posible
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+No se observan defectos de repleción sugestivos de TEP a nivel de ramas arteriales pulmonares principales, lobares ni segmentarias. El estudio es subóptimo para valorar ramas subsegmentarias.
+Tronco de la arteria pulmonar de calibre normal: 27 mm.
+Escasas opacidades en vidrio deslustrado de predominio periférico que pueden estar en relación a afectación pulmonar leve por COVID.
+Atelectasias subsegmentarias en LSD, LM, língula y lóbulos inferiores.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

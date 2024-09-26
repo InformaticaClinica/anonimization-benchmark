@@ -1,0 +1,25 @@
+
+prueba:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+clinica:
+ITU febril + insuficiencia renal aguda
+
+protocolo:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+resultados:
+Riñones de tamaño en el límite bajo de la normalidad, hiperecogénicos y parenquima adelgazado, hallazgos sugestivos de nefropatía crónica.
+Múltiples quistes simples corticales bilaterales, algunos con septos finos.
+Sin dilatación de las vías excretoras.
+Vejiga urinaria sondada y colapsada. Próstata de pequeño tamaño.
+Derrame pleural derecho. Signos de hepatopatía crónica.
+No líquido libre.
+
+conclusiones:
+Riñones con signos de nefropatía crónica sin dilatación de la vía excretora. Múltiples quistes simples y septados bilaterales.
+No líquido libre ni colecciones.
+Derrame pleural. Signos de hepatopatía crónica.
+
+descrip:
+ECOGRAFIA RENOVESICOPROSTATICA

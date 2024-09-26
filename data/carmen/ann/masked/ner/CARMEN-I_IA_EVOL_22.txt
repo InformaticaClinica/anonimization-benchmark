@@ -1,0 +1,21 @@
+**EVOLUCIÓN EN [**INSTITUCION**]**
+1. NEUMONÍA BILATERAL POR SARS-CoV-2
+-------------------
+Fecha de incio de los síntomas: [**FECHAS**]
+Fecha de ingreso: [**FECHAS**]
+Fecha primer frotis [**FECHAS**]: POSITIVO
+Fecha último frotis ([**FECHAS**]): NEGATIVO
+Fecha ingreso [**INSTITUCION**]: [**FECHAS**]
+* TRATAMIENTO COVID:
+- Kaletra: inicio [**FECHAS**] - stop [**FECHAS**] por síntomas digestivos
+- Hidroxicloroquina: inicio [**FECHAS**] - [**FECHAS**]
+- Azitromicina: inicio [**FECHAS**] - [**FECHAS**]
+- Ivermectina dosis única [**FECHAS**]
+Oxígeno durante la estancia hospitalaria: LN 2L
+Oxígeno al ingreso en HDOM: LN 2L
+-----
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], [**PROFESION**] y sin antecentes personales de interés que el [**FECHAS**] comenzó con un cuadro de tos (inicialmente seca y que después fue productiva), fiebre (38.5oC), disgeusia y disnea con empeoramiento. Por estos síntomas consulta en urgencias el [**FECHAS**]. Se realizó una analítica en la que se observa elevación de reactantes de fase aguda y una radiografía de tórax que mostraba hallazgos sugestivos de neumonía bilateral. Dado el contexto epidemiológico actual se orienta como neumonía bilateral COVID19, motivo por el que ingresa en el [**HOSPITAL**] y se inició riple terapia con Lopinavir/Ritonavir, Hidroxicloroquina y Azitromicina, previo consentimiento informado. Se realizó frotis positivo para SARS-CoV-2.
+Por intolerancia digestiva se suspende lopinavir/ritonavir. Durante su ingreso presenta empeoramiento clínico con disnea e incrmento de dímero D por lor que se realiza angioTC que descarta tromboembolismo pulmonar.
+En las radiografías de control se objetivaron discretas opacidades alveolares bilaterales de predominio periférico sugestivo de afectación pulmonar por COVID y la paciente persiste con requerimientos de oxigenoterapia. Progresivamente presenta correción de parámetros inflamatorios por lo que se decide alta a [**INSTITUCION**].
+A su llegada al [**INSTITUCION**] sigue con medicación pautada y enoxaparina profiláctica. Dado empeoramiento radiológico se decide inicio de corticoterapia a dosis medias, con progresiva mejoría clínica de tos y desaparición de opacidades radiológicas. En contexto de corticoterapia, presenta leve hipertensión arterial, por lo que se inicia antihipertensivo.
+Además, se logró retirada de oxigenoterapia. Dada buena evolución clínica, y mejoría radiológica y analítica, se decide alta domiciliaria con pauta descendente de corticoides.

@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Sospecha COVID
+
+conclusiones:
+Discreta progresión radiologica de las opacidades perifericas en pulmon derecho.
+Consolidación en base pulmonar derecha
+
+descrip:
+RX  PORTATIL  TORAX

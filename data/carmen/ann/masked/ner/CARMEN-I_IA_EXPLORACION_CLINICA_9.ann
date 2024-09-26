@@ -1,0 +1,40 @@
+T6	SINTOMA 318 328	Consciente
+T7	SINTOMA 330 339	orientado
+T8	SINTOMA 394 414	ruidos sobreañadidos
+T9	SINTOMA 419 430	edemas EEII
+T10	SINTOMA 435 437	IY
+T11	SINTOMA 442 448	tiraje
+T12	SINTOMA 475 505	responde a estimulos dolorosos
+T13	SINTOMA 604 617	hiperreflexia
+T14	SINTOMA 619 689	rigidez en todas articulaciones con rueda dentada muy marcada en brazo
+T15	SINTOMA 731 747	Pupilas mioticas
+T16	SINTOMA 844 882	roncus de predominio en campo pulmonar
+T17	SINTOMA 1081 1088	rigidez
+T18	SINTOMA 1115 1128	hiperreflexia
+T19	SINTOMA 1260 1266	roncus
+T20	SINTOMA 1353 1392	Abdomen blando, depresible, no doloroso
+T21	SINTOMA 1423 1434	peritonismo
+T22	SINTOMA 368 380	somnoliencia
+T23	SINTOMA 386 389	MVC
+T24	SINTOMA 527 563	contesta preguntas y ordenes simples
+T25	SINTOMA 699 729	RCP extensor D e indiferente I
+T26	SINTOMA 749 783	reflejo amenaza presenta bilateral
+T27	SINTOMA 818 834	Sequedad cutánea
+T28	SINTOMA 889 901	card rítmico
+T29	SINTOMA 914 920	soplos
+T30	SINTOMA 921 958	Abd blando y depresible, no odoloroso
+T31	SINTOMA 984 992	Reactivo
+T32	SINTOMA 994 1007	ojos abiertos
+T33	SINTOMA 1009 1047	responde órdenes y preguntas sencillas
+T34	SINTOMA 1130 1161	temblor en reposo e intencional
+T35	SINTOMA 1301 1330	Auscultación cardiaca rítmica
+T36	SINTOMA 1335 1341	soplos
+T37	SINTOMA 1346 1352	edemas
+T38	SINTOMA 1394 1418	peristaltismo conservado
+T39	FARMACO 284 295	paracetamol
+T41	PROCEDIMIENTO 452 454	EF
+T42	PROCEDIMIENTO 1228 1253	Auscultación respiratoria
+T43	PROCEDIMIENTO 103 117	Pulsioximetría
+T44	PROCEDIMIENTO 836 842	A resp
+T45	PROCEDIMIENTO 887 893	A card
+T46	PROCEDIMIENTO 961 963	EF

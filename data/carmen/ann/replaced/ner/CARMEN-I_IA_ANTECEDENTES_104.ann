@@ -1,0 +1,56 @@
+T11	FARMACO 793 801	apixaban
+T12	FARMACO 921 931	rifaximina
+T13	FARMACO 1283 1295	Acido folico
+T14	FARMACO 1307 1317	alopurinol
+T15	FARMACO 1331 1339	apixaban
+T16	FARMACO 1353 1363	bisoprolol
+T17	FARMACO 1377 1386	enalapril
+T18	FARMACO 1400 1417	Hidroclorotiazida
+T19	FARMACO 1432 1442	Hidroferol
+T20	FARMACO 1453 1462	Lorazepam
+T21	FARMACO 1474 1483	omeprazol
+T22	FARMACO 1496 1506	furosemida
+T23	FARMACO 1519 1529	rifaximina
+T24	FARMACO 1602 1614	Acido folico
+T25	FARMACO 1626 1636	alopurinol
+T26	FARMACO 1650 1658	apixaban
+T27	FARMACO 1672 1682	bisoprolol
+T28	FARMACO 1696 1705	enalapril
+T29	FARMACO 1719 1737	Hidroclorotiazi da
+T30	FARMACO 1752 1762	Hidroferol
+T31	FARMACO 1773 1782	Lorazepam
+T32	FARMACO 1794 1803	omeprazol
+T33	FARMACO 1816 1826	furosemida
+T34	FARMACO 1839 1849	rifaximina
+T35	PROCEDIMIENTO 775 788	anticoagulada
+T36	PROCEDIMIENTO 901 916	tto antibiótico
+T37	ENFERMEDAD 56 75	deterioro cognitivo
+T38	ENFERMEDAD 298 327	alergias a ningun medicamento
+T39	ENFERMEDAD 372 389	Estenosis aòrtica
+T40	ENFERMEDAD 438 456	enfermedad aortica
+T41	ENFERMEDAD 459 508	estenosis moderada e insuficiencia aortica severa
+T42	ENFERMEDAD 513 540	Insuficiencia mitral severa
+T43	ENFERMEDAD 545 577	Insuficiencia tricuspidea severa
+T44	ENFERMEDAD 582 604	Insuficiencia cardiaca
+T45	ENFERMEDAD 671 715	Hipertensión pulmonar severa secundaria a IM
+T46	ENFERMEDAD 753 774	Fibrilacion auricular
+T47	ENFERMEDAD 832 846	Diverticulosis
+T48	ENFERMEDAD 863 877	diverticulitis
+T49	ENFERMEDAD 936 950	ERC estadío IV
+T50	ENFERMEDAD 1015 1018	NAE
+T51	ENFERMEDAD 1089 1106	Fractura de femur
+T52	PROCEDIMIENTO 642 656	ecocardiograma
+T53	PROCEDIMIENTO 1051 1080	Colecistectomía laparoscópica
+T54	PROCEDIMIENTO 1108 1142	protesis total de cadera izquierda
+T56	HUMANO 26 40	Paciente mujer
+T57	HUMANO 130 135	yerno
+T58	SPECIES 1216 1222	bovino
+T59	ENFERMEDAD 331 334	HTA
+T60	ENFERMEDAD 355 368	Valvulopatias
+T61	PROCEDIMIENTO 392 412	Sustitución valvular
+T62	SINTOMA 609 624	FEVI preservada
+T64	PROCEDIMIENTO 1152 1177	Recambio valvular aórtico
+T65	PROCEDIMIENTO 1182 1222	xenoinjerto montado de pericardio bovino
+T66	PROCEDIMIENTO 1234 1248	Apendicectomia
+T67	PROCEDIMIENTO 1020 1046	INTERVENCIONES QUIRURGICAS
+T1	ENFERMEDAD 279 294	habitos toxicos

@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+DOlro pantorrilla izq, sospecha TVp., Ddímero >10000. Gracias, solicito TC descartar TEP +/- TVP
+Neumonia por COVID-19
+
+protocolo:
+Angio TC torácico y de EEII urgente.
+
+resultados:
+TC TÓRAX:
+Se observa un defecto de replección en la arteria segmentaria basal posteriror del lóbulo inferior derecho (LID), compatible con tromnboembolismo pulmonar (TEP) agudo. No se observan otros defectos de replección en el resto de arterias pulmonares. Tampoco se evidencia dilatación del tronco común de la arteria pulmonar ni signos de sobrecarga cardíaca derecha.
+Adenopatías mediastínicas paratraqueales, subcarinales y en ventana aortopulmonar, de aspecto reactivo. No se observan otros ganglios axilares ni mediastínicos de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades pulmonares en vidrio deslustrado bilaterales difusas, con tendencia a la confluencia, de predominio subpleural y en campos superiores, compatible con infección por COVID-19. En el momento actual no presenta signos de fibrosis pulmonar asociada.
+Nódulo pulmonar yuxtacisural y con morfología poligonal en el lóbulo medio, sugestivo de corresponder a un ganglio intrapulmonar.
+TC EXTREMIDADES INFERIORES:
+El estudio venoso de las extremidades inferiores no es valorable debido a problemas técnicos al realizar la inyección de contraste.
+Ante los hallazgos torácicos (compatibles con TEP), y para no someter al paciente a radiación ionizante innecesaria, se opta por no repetir el estudio.
+Bazo accesorio de 22 mm, sin otros hallazgos a destacar en los cortes abdominales incluidos en el estudio.
+
+conclusiones:
+TEP agudo segmentario basal derecho.
+Infección pulmonar por COVID-19, sin signos de fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,7 @@
+T1	PROCEDIMIENTO 73 114	intervención protésica de rodilla derecha
+T2	SINTOMA 138 144	fiebre
+T3	SINTOMA 150 153	tos
+T4	SINTOMA 157 163	disnea
+T5	SINTOMA 236 306	disgeusia de larga evolución en relación a tratamiento con dalbamicina
+T6	HUMANO 4 12	paciente
+T7	FARMACO 295 306	dalbamicina

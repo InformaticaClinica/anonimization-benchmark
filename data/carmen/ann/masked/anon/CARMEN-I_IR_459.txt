@@ -1,0 +1,27 @@
+
+prueba:
+RM COLUMNA LUMBAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], antecedente dolor pélvico crónico no filiado. Ingresa por infección covid19 asintomática (no requiere O2 ni presenta neumonia).
+Destaca dolor lumbar intenso con dolor a la palpación apófisis vertebrales lumbares, irradiación a EEII con impotencia funcional.
+Fiebre persitente. Descartar espondilodiscitis.
+
+protocolo:
+RM COLUMNA DORSO-LUMBAR mediante secuencias sagitales T1, T2, STIR y difusión en el plano sagital, y secuencias T1 y T2 en el axial de columna lumbar
+
+resultados:
+Médula ósea:  Sin alteraciones significativas de la señal.
+Cono medular: En T12-L1.
+Cola de caballo y saco dural: Sin alteraciones.
+Alineación: Conservada
+Altura y señal de discos y de platillos vertebrales normales.
+Articulaciones interapofisarias conservadas.
+Ligera hiperseñal focal en T2 en ligamentos interespinosos entre L4-L5 y L5-S1 de carácter inespecífico y de dudosa trascendencia.
+Canal raquídeo y forámenes libres.
+
+conclusiones:
+Columna dorso-lumbar sin evidencis de signos de espondilodiscitis ni de otros hallazgos significativos (edema en interespinosos de la unión lumbosacra, hallazgo de improbable trascendnecia.
+
+descrip:
+RM COLUMNA LUMBAR

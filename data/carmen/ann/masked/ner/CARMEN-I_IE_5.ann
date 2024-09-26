@@ -1,0 +1,46 @@
+T6	SINTOMA 699 707	diarreas
+T7	SINTOMA 845 851	disnea
+T8	SINTOMA 854 866	desaturación
+T9	SINTOMA 920 947	elevación de ST en DI y aVL
+T10	SINTOMA 951 993	elevación de marcadores de daño miocárdico
+T11	SINTOMA 1251 1260	taquipnea
+T12	SINTOMA 1263 1289	mala dinámica respiratoria
+T13	SINTOMA 1324 1330	disnea
+T14	SINTOMA 1753 1763	discomfort
+T15	SINTOMA 1830 1836	éxitus
+T16	SINTOMA 889 918	cambios electrocardiográficos
+T17	SINTOMA 1363 1400	deterioro de función renal y hepática
+T18	SINTOMA 1410 1447	elevación de reactantes de fase aguda
+T19	SINTOMA 1693 1710	deterioro general
+T20	ENFERMEDAD 26 44	neumonia por covid
+T21	ENFERMEDAD 55 81	insuficiencia respiratoria
+T23	ENFERMEDAD 178 183	COVID
+T24	ENFERMEDAD 186 212	infarto agudo de miocardio
+T25	ENFERMEDAD 279 282	HTA
+T26	ENFERMEDAD 285 345	Linfoma linfoplasmocítico E-IVA MYD88 mutado con banda IgM k
+T27	SINTOMA 385 419	adenopatias <15mminfadiafragmática
+T28	ENFERMEDAD 551 572	neumonía por COVID 19
+T29	ENFERMEDAD 1041 1106	IAM con lesión subepicàrdicatransitoria y necrosis subendocardica
+T30	ENFERMEDAD 1049 1080	lesión subepicàrdicatransitoria
+T31	ENFERMEDAD 1083 1106	necrosis subendocardica
+T32	FARMACO 600 617	hidroxicloroquina
+T33	FARMACO 620 632	azitromicina
+T34	FARMACO 683 694	lopinavir/r
+T35	PROCEDIMIENTO 378 380	TC
+T36	PROCEDIMIENTO 655 669	oxigenoterapia
+T37	HUMANO 228 236	Paciente
+T38	HUMANO 815 823	paciente
+T39	HUMANO 1126 1134	paciente
+T40	HUMANO 1563 1570	familia
+T41	HUMANO 1572 1606	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T42	HUMANO 1728 1736	paciente
+T43	HUMANO 1807 1815	paciente
+T44	HUMANO 1884 1891	familia
+T45	ENFERMEDAD 8 15	SCACEST
+T47	ENFERMEDAD 125 162	insuficiencia respiratoria y cardiaca
+T48	ENFERMEDAD 385 419	adenopatias <15mminfadiafragmática
+T49	ENFERMEDAD 421 443	infiltración masiva MO
+T50	FARMACO 461 473	conibrutinib
+T51	PROCEDIMIENTO 1765 1802	se acuerda iniciar medidas de confort
+T1	ENFERMEDAD 94 120	Parada cardiorrespiratoria
+T2	SINTOMA 1184 1206	requerimientos de FiO2

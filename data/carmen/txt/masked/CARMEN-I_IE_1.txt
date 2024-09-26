@@ -1,0 +1,37 @@
+## DIAG
+SEPSIS DE ORIGEN URINARIO por E.coli y S.gallolyti
+
+
+## CAUSA
+
+Insuficiencia respiratoria secundaria a neumonia bilateral por SARS- COV2.
+ 
+
+
+## OBSER
+
+a) NEUMONÍA BILATERAL POR SARS-COV2
+b) SEPSIS DE ORIGEN URINARIO por E.coli y S.gallolyticus multiS (resuelta)
+c) EPISODIO DE FIBRILACION AURICULAR RÁPIDA (resuelto)
+d) BACTERIEMIA por S.epidermidis multiR ([**FECHAS**],[**FECHAS**])
+e) ANEMIZACIÓN PROGRESIVA (transfusión 1 CCHH)
+f) ÚLCERA EN TOBILLO GRADO I
+.
+2. CRONOLOGÍA:
+Fecha de inicio de los síntomas: [**FECHAS**] (aprox) Fecha de ingreso hospital: [**FECHAS**]
+Fehca de ingreso [**NUMERO_IDENTIF**]: [**FECHAS**]
+Fecha de ingreso [**NUMERO_IDENTIF**]: [**FECHAS**]
+Fecha de frotis positivo (primera PCR): no tiene
+Fecha de frotis positivo (2a PCR): -
+Fecha de inicio tratamiento: [**FECHAS**]
+.
+3. TRATAMIENTO recibido: piper/tazo (1d), ceftriaxona (5d), azitromicina (6d), amikacina (1d), teicoplanina (1d), hidroxicloroquina (7d), MPDN 70 mg/día (2d). Dexametasona 20 mg/día (4d) --> 10 (6d).
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], ingresada en [**NUMERO_IDENTIF**] por COVID 19 por empeoramiento clínico y radiológico (infiltrados bilaterales en todos los campos pulmonares). Se ha realizado tratamiento COVID según protocolo (hidroxicloroquina y azitromicina, ceftriaxona + teicoplanina). Se inicia tratamiento con baricitinib 4mg/24h durante cuatro días. Pese a ello, cursa con necesidad de mayor oxigenoterapia con requerimiento de LAF FiO2 60% 60Lts y aparición de hipotensión arterial con requerimientos de drogas vasoactivas. Se realiza TAC de tórax ([**FECHAS**]) en el cual se observa mayor consolidación de infiltrados, pero sin signos de neumonía organizativa. Por persistencia de Dímero D elevado se mantiene con enoxaparina ampliada 1mg/kg/día.
+Durante su ingreso en [**NUMERO_IDENTIF**] además por piuria se solicita urocultivo, se admnistra dosis única de amikacina. Se recibe resultados de urocultivo positivo a E.Coli + S.gallolyticus multiS por lo que incia tazocel y posteriormente se desescala a ceftriaxona. Se ha solicitado hemocultivos el [**FECHAS**] con aislamiento de Staphylococcus epidermidis multiR sin realizar tratamiento antibiótico para esto.
+Ha presentado FA rápida el [**FECHAS**], para lo que se administra dosis única de digoxina 0'15mg iv con respuesta escasa y bolus de amiodarona de 300mg el [**FECHAS**] con reversión a RS.
+Se traslada a Intermedios para continuar evolución. A su llegada con LNAF 50/50.Se reciben resultados de Hemocultivos [**FECHAS**]: se observan Staphylococcus epidermidis pendiente antibiograma. Se inicia ceftarolina + daptomicina de acuerdo a sensibilidad del HC 19/4.
+En la [**NUMERO_IDENTIF**] la paciente presenta hipoxemia grave mantenida, sin mejoría.
+Evoluciona desfavorablemente a pesar del tratamiento iniciado, siendo éxitus el [**FECHAS**] a las 6:50 am.
+ 
+
+

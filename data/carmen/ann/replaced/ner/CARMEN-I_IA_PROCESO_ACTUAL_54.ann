@@ -1,0 +1,22 @@
+T4	SINTOMA 205 231	sensación de falta de aire
+T5	SINTOMA 696 726	engrosamiento bronquial difuso
+T6	SINTOMA 547 559	leucocitosis
+T7	SINTOMA 574 585	neutrofilia
+T8	SINTOMA 679 693	signos de EPOC
+T9	SINTOMA 96 99	tos
+T10	SINTOMA 102 108	esputo
+T11	SINTOMA 130 136	esputo
+T12	SINTOMA 432 435	tos
+T13	SINTOMA 438 444	disnea
+T14	SINTOMA 249 290	PCR para SARS CoV2 con resultado positivo
+T15	FARMACO 311 324	Levofloxacino
+T16	PROCEDIMIENTO 487 504	pauta antibiótica
+T17	PROCEDIMIENTO 509 528	analítica sanguínea
+T18	PROCEDIMIENTO 624 644	radiografía de tórax
+T19	HUMANO 764 772	paciente
+T20	HUMANO 857 865	paciente
+T21	PROCEDIMIENTO 249 267	PCR para SARS CoV2
+T22	SPECIES 258 267	SARS CoV2
+T23	ENFERMEDAD 689 693	EPOC
+T1	SINTOMA 340 365	mejoría de sintomatología
+T2	SINTOMA 781 804	mejoría de los síntomas

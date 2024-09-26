@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+2. INFECCIÓN POR COVID-19
+
+descrip:
+RX  PORTATIL  TORAX

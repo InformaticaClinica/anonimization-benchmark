@@ -1,0 +1,45 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Sepsis secundària a colecistitis, drenada percutàniament en pacient amb ingrés perllongat per pneumònia organitzativa secundària a COVID-19.
+Actualment, distensió abdominal i intolerància a l'alimentació enteral.
+PCR en ascens amb citolisi, colestasi i amilases i lipases en ascens.
+Agrairíem valoració per avaluar la presència de complicacions a nivell local.
+SEPSIS POR ESTAFILOCOCOS
+
+protocolo:
+TC toracoabdominal: Se obtiene estudio TC multifásico hepático, explorando el resto del abdomen en fase venosa portal. Se obtiene también estudio torácico en fase arterial.
+
+resultados:
+El estudio actual se compara con el examen realizado el pasado [**FECHAS**].
+Traqueostomía con extremo distal a 5 cm de carina. Vía central yugular derecha con extremo distal en VCS. SNG.
+Ganglios mediastínicos paratraqueales derechos y subcarinales aumentados de tamaño, probablemente reactivos y sin cambios respecto al estudio previo.
+No se observa derrame pleural ni pericárdico. Se ha retirado en tubo drenaje pleural derecho.
+Múltiples opacidades en vidrio deslustrado y consolidativas, predominando ésta últimas en segmentos posterobasales de lóbulos inferiores y segmentos posteriores de lóbulos superiores junto a bandas parenquimatoas, que han dismunuido ligeramente con relación al TC anterior.
+Engrosamientos parietales bronquiales y dilataciones bronquiales difusas, predominantemente en lóbulos inferiores, estables.
+Hígado de tamaño, morfología y coeficiente de atenuación normales. No se observan lesiones focales. Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Vesícula biliar litiásica, portadora de catéter de colecistostomía.
+Se observa una disminución de extensión de los infiltrados de tejidos grasos perivesiculares y de la región del hilio hepático con relación al examen previo. La vena porta es permeable y presenta mayor calibre que en el examen anterior.
+Vía biliar intra y extrahepática no dilatadas. No se observa realce valorable de sus paredes.
+Riñones de tamaño conservado, homogéneos, sin dilatación de la vía excretora ni imágenes sospechosas de litiasis. Quistes corticales bilaterales
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+Hematoma retroperitoneal heterogéneo que ocupa gran parte del hemiabdomen derecho de 14 x 16 x 22cm (AP x LL x CC). Es estable con respecto al TC previo. No hay signos indicativos de sangrado activo.
+Material de embolización anterior al ms. ilíaco derecho.
+Lámina de disección focal en la arteria ilíaca externa izquierda ya presente en estudios previos, estable. Stent recubierto en a. ilíaca externa derecha, permeable. Trombosis de la vena ilíaca externa derecha.
+Muestra menor extensión que en el estudio previo.
+Sonda vesical.
+No se observa ascitis.
+
+conclusiones:
+Mínimos cambios con leve reducción en la extensión de las lesiones de neumonía organizativa secundaria a COVID- 19.
+Colelitiasis. Colecistostomía percutánea. No se observan complicaciones locales relacionadas con el procedimiento intervencionista.
+Marcada reducción en la extensión de la infiltración de planos grasos perivesiculares y en el hilio hepático con relación al estudio previo.
+Reexpansión en el calibre de la vena porta.
+Hematoma retroperitoneal voluminoso, en pelvis y en flanco derecho, sin cambios.
+Disección limitada en la arteria ilíaca externa izquierda.
+Trombosis parcial de la vena ilíaca externa derecha.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

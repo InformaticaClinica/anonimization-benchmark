@@ -1,0 +1,9 @@
+
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, independiente para las ABVD y con antecedente de HTA.
+Acude a urgencias del [**HOSPITAL**] el [**FECHAS**] por cuadro caracterizado por fiebre de 37.5-38ºC, tos seca, malestar general y astenia, sin disnea, diarrea ni otra sintomatología, iniciado el [**FECHAS**]. Por analítica, placa y clínica compatibles se orienta como infección por SARS-CoV-19.
+Inicia el [**FECHAS**] triple tratamiento con Ritonavir/Lopinavir + hidroxicloroquina + azitromicina. Dado el empeoramiento clínico, analítico y radiológico ingresa en intermedios donde se amplía tratamiento antibiótico según protocolo con ceftriaxona + teicoplanina (Leucos 1700/L) y llegandoa requerir Tocilizumab una dosis ([**FECHAS**]).
+También requiere LAF a 60%/50L con mejoría de mecánica respiratoria y SpO2 de 95%, hasta finalmente poder mantener LN 3L FiO2 el ([**FECHAS**]).
+En sala convencional, el paciente requiere inicialmente altos requerimientos de oxígeno aunque con buenas saturaciones (97-98%) con VMK 31-35% y normalización de los parámetros inflamatorios en la analítica.
+Se realiza TCAR a día [**FECHAS**] por disociación clínico- analítica con hallazgos en relación a infección por SARS-CoV-2, sin constatarse un patrón compatible con neumonía organizativa.
+Dada la estabilidad clínica y analítica de la paciente con persistencia de buenas saturaciones con VMK al 24% es trasladado al [**INSTITUCION**] para retirada de oxígeno gradual así como control de evolución hasta alta a domicilio.
+ 

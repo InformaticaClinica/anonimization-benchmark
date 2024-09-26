@@ -1,0 +1,28 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Hombre 64años, ingreso prolongado en UCI por neumonia bilateral intersticial NO COVID. Destaca inicialmente múltiples TEPs subsegmentarios, posteriormente hematoma lobar. En últimas 48h presenta shock séptico de foco no filiado con émbolos sépticos esplénicos y nuevo TEP. Solicitamos PET-TC para valorar foco embolígeno. Gracias!
+shock septico de foco no aclarado
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 (FDG). Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 min después de la inyección endovenosa de 8.5 mCi de FDG.
+Glucemia en el momento de la inyección: 81 mg/dl.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Captación de FDG en traqueostomía, sugestivo de cambios inflamatorios.
+Consolidados pulmonares en ambos lóbulos inferiores, de predominio izquierdo (que ha aumentado su extensión respecto al TC previo del 19/02/2014), con moderada captación de FDG, en relación con neumonía bilateral conocida.
+Captación difusa de FDG en cavidad gástrica en probable relación con proceso inflamatorio tipo gastritis, a correlacionar clínicamente.
+Captación focal de FDG en cuerpo de páncreas (SUVmáx: 5.4), que no permite descartar malignidad, de la que se recomienda estudio dirigido mediante RM.
+Captación de FDG en músculo glúteo menor derecho, en probable relación con contractura muscular.
+No se identifican otras alteraciones en la captación del radiotrazador en el resto de sectores corporales estudiados.
+
+conclusiones:
+PET/TC que muestra neumonía bilateral conocida.
+Captación focal de FDG en cuerpo de páncreas, que no permite descartar malignidad, de la que se recomienda estudio dirigido mediante RM.
+No se observan otros signos de enfermedad macroscópica con avidez para la FDG.
+
+descrip:
+PET TC COS SENCER FDG

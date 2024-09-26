@@ -1,0 +1,23 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Empeoramiento clínico y analítico
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+Rx tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el 9/1/2015 (Historia clínica electrónica).
+Persistència d´opacitats pulmonars bilaterals difuses amb aparició de consolidació pulmonar mitja dreta.
+
+conclusiones:
+Empitjorament radiològic amb aparició de consolidació pulmonar mitja dreta, resta sense canvis.
+
+descrip:
+RX  PORTATIL  TORAX
+
+descrip:
+RX  PORTATIL  TORAX

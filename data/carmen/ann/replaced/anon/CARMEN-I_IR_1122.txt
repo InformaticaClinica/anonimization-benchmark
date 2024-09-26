@@ -1,0 +1,23 @@
+
+prueba:
+RM SENOS PARANASALES
+
+clinica:
+Paciente de 66 años, ingresado en cuidados intermedios de nefrología por vasculitis ANCA PR3 diagnosticado en contexto de síndrome nefrítico e insuficiencia renal. Anteriormente se encontraba ingresado en la unidad de ictus por dónde se encontraba ingresado por HSA.
+En la revisión del TC craneal realizado se detecta ocupación de seno maxilar derecho con engrosamiento de la pared, desviación del tabique nasal a la derecha y ocupación parcial del seno esfenoidal derecho con senos frontales, etmoidales y celdas mastoideas libres por lo que en este contexto, la HSA podría explicarse por la paquimeningitis asociada a la sinusopatía.
+El paciente refiere episodios previos de ocupación de senos paranasales sin presentar sangrados habituales ni costras.
+Agradeceriamos RMN de senos, base de cerebro, órbitas y meninges para valorar posible sinusopatía en contexto de vasculitis ANCA PR3. El paciente presenta insuficiencia renal con Cr de 7,29 mg/dL. Muchas gracias!!!
+VASCULITIS ANCA PR3
+
+resultados:
+Exploración RM de senos paranasales sin administrar contraste paramagnético debido a la aumento de Creatinina/IRA.
+Quistes de retención mucoso de recesos inferiores de senos maxilares, sin engrosamiento mucoso que sugiera sinusitis maxilar crónica.Mínima ocupación de celdillas etmoidales derechas. Discreta dismorfia septal.
+No se detecta engrosamiento de cornetes de aspecto polipoideo.Rinofaringe no ocupada. Celdillas mastoideas no ocupadas.
+Recesos frontoetmoidales y senos frontales sin alteraciones significativas.
+
+conclusiones:
+Quistes de retención mucoso en recesos inferiores de senos maxilares.
+Mínimos signos de sinusitis etmoidal posterior derecha. No se detecta engrosamiento mucoso rinosinusal marcado.
+
+descrip:
+RM SENOS PARANASALES

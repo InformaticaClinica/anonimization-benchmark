@@ -1,0 +1,27 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+escaso control embarazo
+
+protocolo:
+ECOGRAFIA ABDOMINAL PORTATIL
+
+resultados:
+Higado homogéneo de tamaño normal. No lesiones focales evidentes.
+Vena porta permeable de calibre normal.
+Vesícula biliar no distendida, por lo que no puede ser valorada.
+Vía biliar no dilatada.
+Bazo homogéneo de tamaño normal.
+Páncreas no visualizado por interposición de gas intestinal.
+Riñones de tamaño y morfología normal para la edad de la paciente. No litiasis ni dilatación de la vía renal.
+Glandulas suprarrenales sin alteraciones.
+No líquido libre intraabdominal.
+Vejiga urinaria moderadamente distendida, sin alteraciones valorables.
+
+conclusiones:
+Ecografia abdominal sin alteraciones valorables
+
+descrip:
+ECOGRAFIA PORTATIL (ABDOMEN)

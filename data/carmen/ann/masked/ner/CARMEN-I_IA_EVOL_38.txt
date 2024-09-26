@@ -1,0 +1,28 @@
+
+* EVOLUCIÓN EN LA SALA DE MEDICINA INTERNA:
+1. INFECCIÓN POR COVID 19
+2. INSUFICIENCIA CARDÍACA DESCOMENSADA
+3. ENFERMEDAD RENAL CRÓNICA AGUDIZADA AKIN 2
+4. SOBREDESCOAGULACIÓN POR ACENOCUMAROL
+5. PANCITOPENIA
+6. SANGRADO ESPONTÁNEO MASIVO ABDOMINAL
+- Fecha inicio síntomas: [**FECHAS**]
+- Fecha frotis positivo: [**FECHAS**]
+- Fecha ingreso: [**FECHAS**]
+- Tratamientos recibidos: enoxaparina 70mg/12h ([**FECHAS**]), prednisona 30mg ([**FECHAS**]), metilprednisolona 250mg ([**FECHAS**]), amoxicilina/clavulánico ([**FECHAS**]), meropenem ([**FECHAS**])
+A su llegada a urgencias consciente y orientado, hemodinámicamente estable, eupneico con FiO2 del 26% y afebril. En la exploración destacan edemas crónicos en extremidades inferiores, sin signos de trombosis venosa profunda. A la auscultación crepitanes bibasales, roncus dispersos y sibilantes.
+En la analítica PCR de 2 mg/dl y ferritina 141 ng/ml, con pancitopenia (L 3620, Hb 112, Plaq 86000) y 900 linfocitos. Destaca NT-proBNP de 3.600 y troponinas de 220 con curva negativa. Empeoramiento de la función renal con creatinina de 2 mg/dl y FG de 29 mL/min. INR de 4,19.
+Dímero-D 1.000 ng/ml. Se realiza ECG que muestra ritmo de marcapasos. En la radiografía tórax destaca cardiomegalia, pinzamiento del seno costofrénico derecho y claros signos de congestión, sin infiltrados parenquimatosos. Frotis para COVID-19 que resulta positivo.
+Se orienta como insuficiencia cardíaca descompensada, con agudización de insuficiencia renal crónica, en contexto de infección por covid-19.
+Presenta además sobredescoagulación por acenocumarol y pancitopenia. Se inicia tratamiento deplectivo con furosemida 20mg/6h con buena respuesta diurética (300cc en la primera hora). Dada la insuficiencia renal agudizada no es candidato a tratamiento con remdesivir. Asimismo, no se considera que el plasma sea buena opción dado su estado de hipervolemia.
+Dado que el cuadro parece muy en relación a su insuficiencia cardíaca, sin elevación destacable de reactantes de fase aguda, se decide no iniciar por el momento ningún tratamiento antiviral ni antiinflamatorio.
+Se mantiene el tratamiento deplectivo iniciado, se pautan broncodilatadores inhalados, corticoterapia, se sustituye acenocumarol por enoxaparina y se decide ingreso a cargo de medicina interna.
+Con el tratamiento deplectivo el paciente presenta mejoría inicial, con reducción de los requerimientos de oxígeno hasta lentillas nasales a 2L y desaparición del broncoespasmo.
+Posteriormente realiza pico febricular a 37,8ºC, con elevación de PCR a 3,16 mg/dl y aumento de los roncus a la auscultación, por lo que se decide iniciar tratamiento antibiótico con amoxicilina/clavulánico.
+A pesar de ello el paciente sigue empeorando, con reaparición del broncoespasmo y aumento de los requerimientos de oxigenoterapia hasta FiO2 del 40%, con trabajo respiratorio y disociación toraco-abdominal.
+Analíticamente presenta aumento de la PCR a 6,64 mg/dl, la ferritina a 1.212 ng/ml y linfopenia de 300, así como empeoramiento de la función renal con creatinina de 2,05 mg/dl. El NT-proBNP es de 8228 pg/ml.
+Radiológicamente pinzamiento de ambos senos costofrénicos. Por ello ampliamos cobertura antibiótica a meropenem, administramos bolus de 250mg de metilprednisolona e intensificamos el tratamiento deplectivo.
+Posteriormente evoluciona de forma tórpida con empeoramiento respiratorio progresivo con aumento de los requerimientos de oxígeno hasta mascarilla tipo Monaghan y posterior estabilización con LNAF 60/40 con Sat. O2 mantenidas entorno a 95%.
+En la madrugada del [**FECHAS**] el paciete presenta deterioro clínico abrupto del nivel de conciencia con desconexión del medio, hipoventilación con tendencia a la desaturación e hipotensión franca. Destaca a la exploración frialdad acral y colección abdominal en flanco izquierdo que imopresiona de hematoma. Se extrae GSA urgente que corrobora anemización hasta Hb de 6 g/L. Se trasfunden hasta un total de 4 CCHH sin pruebas cruzadas y se traslada a TC abdominal urgente que corrobora gran hematoma de pared abdominal sin signos de sangrado activo en el momento de la realización. Se contacta con DIVAS que desestima tratamiento en ausencia de signos de sangrado activo. Posterioemente se trasalda a Box de Paro donde a pesar de medidas para intentar remontar al paciente finalmente presenta disociación electro-mecánica con parada cardiorepsiratoria siendo exitus el [**FECHAS**] a las 5:30hrs.
+   
+   

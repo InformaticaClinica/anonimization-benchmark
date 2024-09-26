@@ -1,0 +1,20 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+probable COVID-19
+
+protocolo:
+RX TORAX AP (PORTATIL)
+
+resultados:
+Se compara con Rx previas.
+Progresión de las opacidades pulmonares bilaterales de predominio derecho.
+Pérdida de volumen del pulmón derecho, que podría estar en relaciíon a fibrosis.
+
+conclusiones:
+Afectación pulmonar por COVID que muestra progresión respecto a Rxs previas.
+
+descrip:
+RX  PORTATIL  TORAX

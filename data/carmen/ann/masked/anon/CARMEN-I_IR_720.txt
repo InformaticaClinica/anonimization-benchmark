@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+protocolo:
+RX PORTATIL TORAX
+
+conclusiones:
+Opacidades alveolares parcheadas bilaterales de predominio basal derecho, compatible con neumonia por COVID 19. Con respecto a la radiografía previa ([**FECHAS**]) hay clara progresión.
+
+descrip:
+RX  PORTATIL  TORAX

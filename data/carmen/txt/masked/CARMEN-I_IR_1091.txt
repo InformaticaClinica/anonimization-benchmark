@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Ligera mejoria radiologica de las opacidades en campo medio e inferior del pulmon derecho.
+Hernia de hiato.
+
+descrip:
+RX  PORTATIL  TORAX

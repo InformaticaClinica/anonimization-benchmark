@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+COVID 19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Defectos de repleción compatibles con tromboembolismo pulmonar (TEP agudo en ramas subsegmentarias del segmento posterior del lóbulo superior derecho (LSD) y para el segmento basal posterior del lóbulo inferior derecho (LID). No se observan otros TEP, dilatación del tronco común de la arteria pulmonar ni signos de sobrecarga cardíaca derecha.
+Catéter venoso central con acceso yugular derecho y extremo distal en la aurícula derecha. No se observan ganglios axilares ni mediastínicos de tamaño valorable. Mínimo derrame pericárdico. No se observa derrame pleural.
+Extensas opacidades en vidrio deslustrado bilaterales y difusas (predominio en el pulmón derecho), que en los campso medios e inferiores conforman bandas subpleurales, con imágenes en halo reverso y pequeñas dilataciones bronquiales. Los hallazgos son compatibles con una infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+Cambios posquirúrgicos por bypass gástrico. Colecistectomía.
+Esplenomegalia homogénea de 13,5 cm.
+
+conclusiones:
+- TEP subsegmentarios en el LSD y LID, sin signos de sobrecarga cardíaca.
+- Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+- Esplenomegalia homogénea de 13,5 cm.
+
+descrip:
+ANGIO TC PULMONAR

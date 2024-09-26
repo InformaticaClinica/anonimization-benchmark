@@ -1,0 +1,33 @@
+*EXPLORACIÓN FÍSICA EN URGENCIAS:
+- Regular estado general, Normohidratado y normocolerado, Tendencia a la hipertensión arterial, temperatura axilar tras paracetamol 1 g de 37.7oC, Obesidad.
+- ACV: tonos cardíacos rítmicos rápidos, sin ruidos sobreañadidos.
+Ausencia de ingurgitación yugular o reflujo hepatoyugular. Correcta perfusión periférica.
+- AR: tórax globalmente hipofonético por escasa excursión respiratoria, no movilización de secreciones. Crepitantes en ambas bases pulmonares.
+- Abdomen: globuloso, pero blando y depresible. Refiere molestias a la palpación de hipogastrio. No peritonismo. No ruidos de lucha.
+- Extremidades: sin edemas.
+NRL:
+- Consciente y orientado (barrera idiomática parcial).
+- Tendencia a la somnolencia.
+- No focalidad neurológica aguda.
+- No rigidez nucal.
+*EXPLORACIÓN FÍSICA EN SALA [**NUMERO_IDENTIF**]:
+GRAL: normocoloreado, euhidratado, febril 38.2oC. Obesidad mórbida con IMC 41 (peso 130 Kg) predominio centrípeto.
+CV: hemodinámicamente estable, TA 140/110 mmHg , FC 90x'sinual R1 y R2 normofonéticos silencios libres. Pulsos radiales presentes simétricos rítmicos. No edemas en MMII.
+Resp: Taquipneico con FR 28-30rpm, SatO2 93% con VK40% por lo que se aumenta a VK 60% satO2 95-96% MV conservado con crepitante bilaterales hasta campos superiores, no roncus ni sibilancias.
+ABD: Globoso, blando, poco depresible, no doloroso. No organomegalias.
+RHA+
+NRL: Consciente, colaborador. Barrera idiomática, lenguaje hipofluente en contexto de disnea. Mirada en posición primaria centrada. Moviliza 4 extremidades. Pupilas isocóricas reactivas.
+*EXPLORACIÓN AL INGRESO EN AVI:
+CV: hemodinámicamente estable, con tonos cardíacos rítmicos, sin soplos.
+No edemas en MMII. No IY.
+Resp: Taquipneico con FR 28rpm. MVC con crepintantes bilaterales hasta campos medios.
+ABD: Globuloso, blando y poco depresible, no doloroso a la palpación. No organomegalias. RHA+
+NRL: Consciente, colaborador. Sin focalidad neurológica ni meningismo.
+Pupilas isocóricas reactivas.
+*EXPLORACIÓN AL ALTA DE LA AVI:
+CV: hemodinámicamente estable, con tonos cardíacos rítmicos, sin soplos.
+No edemas en MMII. No IY.
+Resp: Eupneico en reposo, MVC con crepintantes finos bibasales.
+ABD: Globuloso, blando y poco depresible, no doloroso a la palpación. No organomegalias. RHA+
+NRL: Consciente, y orientado, colaborador. Sin focalidad neurológica ni meningismo. Pupilas isocóricas reactivas. Miopatía del enfermo crítico.
+INDICADORES DE ESTANCIA EN UCI Indicador de gravedad: APACHE II : 5;Indi cador disfunción orgánica: SOFA : 4;

@@ -1,0 +1,24 @@
+T5	SINTOMA 337 356	Buen estado general
+T6	SINTOMA 443 464	ingurgitación yugular
+T7	SINTOMA 469 483	edemas en MMII
+T8	SINTOMA 523 554	crepitantes hasta campos medios
+T9	SINTOMA 653 664	peritonismo
+T10	SINTOMA 358 372	normocoloreado
+T11	SINTOMA 375 389	normohidratado
+T12	SINTOMA 395 404	arrítmico
+T13	SINTOMA 410 416	soplos
+T14	SINTOMA 587 638	ABD: blando y depresible, no impresiona de doloroso
+T15	SINTOMA 587 611	ABD: blando y depresible
+T16	SINTOMA 669 674	masas
+T17	SINTOMA 678 686	megalias
+T18	SINTOMA 698 713	RHA conservados
+T19	SINTOMA 735 745	Consciente
+T20	SINTOMA 748 766	orientado en T-E-P
+T21	SINTOMA 781 802	focalidad neurológica
+T22	PROCEDIMIENTO 291 309	EXPLORACIÓN FÍSICA
+T23	PROCEDIMIENTO 391 393	AC
+T24	PROCEDIMIENTO 485 487	AP
+T25	PROCEDIMIENTO 22 36	Pulsioximetría
+T26	SINTOMA 565 585	ruidos sobreañadidos
+T27	SINTOMA 195 214	disfunción orgánica
+T28	SINTOMA 489 518	murmullo vesicular conservado

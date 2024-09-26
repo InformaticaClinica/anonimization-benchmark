@@ -1,0 +1,60 @@
+T12	FARMACO 567 578	risperidona
+T13	FARMACO 590 600	paroxetina
+T14	FARMACO 614 624	topiramato
+T15	FARMACO 1325 1344	ritonavir/lopinavir
+T16	FARMACO 1346 1363	hidroxicloroquina
+T17	FARMACO 1366 1378	azitromicina
+T18	FARMACO 1629 1639	topiramato
+T19	FARMACO 1721 1732	risperidona
+T20	FARMACO 1735 1745	paroxetina
+T21	FARMACO 1789 1808	ritonavir/lopinavir
+T22	FARMACO 1810 1827	hidroxicloroquina
+T23	FARMACO 1830 1842	azitromicina
+T24	FARMACO 2106 2116	paroxetina
+T25	FARMACO 2130 2141	risperidona
+T26	FARMACO 2188 2198	topiramato
+T27	FARMACO 2291 2301	olanzapina
+T28	FARMACO 2479 2490	risperidona
+T29	FARMACO 2502 2512	paroxetina
+T30	FARMACO 2525 2535	topiramato
+T31	PROCEDIMIENTO 1444 1467	medicación psiquiátrico
+T32	PROCEDIMIENTO 2345 2370	manejo psicofarmacológico
+T34	SINTOMA 322 350	escasa capacidad de lenguaje
+T35	SINTOMA 880 889	fallecido
+T36	SINTOMA 915 924	fallecido
+T37	SINTOMA 1215 1226	somnolencia
+T38	SINTOMA 1230 1247	poco comunicativo
+T39	SINTOMA 1270 1276	alerta
+T40	SINTOMA 1380 1390	QTc normal
+T41	ENFERMEDAD 1698 1745	alargamiento de QT con risperidona y paroxetina
+T42	SINTOMA 2267 2276	inquietud
+T43	SINTOMA 2277 2286	agitación
+T44	ENFERMEDAD 98 121	alergias medicamentosas
+T45	ENFERMEDAD 173 207	Déficit intelectual moderado-grave
+T46	ENFERMEDAD 413 431	episodio psicótico
+T47	ENFERMEDAD 843 856	esquizofrenia
+T48	ENFERMEDAD 859 878	deterioro cognitivo
+T49	ENFERMEDAD 938 962	discapacidad intelectual
+T50	ENFERMEDAD 1114 1128	neumonía COVID
+T51	ENFERMEDAD 2021 2049	descompensación psiquiátrica
+T52	PROCEDIMIENTO 3 21	ELECTROCADRIOGRAMA
+T53	PROCEDIMIENTO 2157 2177	monitorización de QT
+T55	HUMANO 295 302	tutores
+T56	HUMANO 641 648	tutores
+T58	HUMANO 833 838	Madre
+T59	HUMANO 900 906	abuelo
+T60	HUMANO 926 933	Hermano
+T61	HUMANO 988 995	suegros
+T62	HUMANO 1025 1033	familiar
+T63	HUMANO 1084 1092	Paciente
+T64	HUMANO 1133 1151	personal sanitario
+T65	HUMANO 2375 2383	paciente
+T66	HUMANO 2570 2580	psiquiatra
+T67	ENFERMEDAD 85 93	Obesidad
+T68	SINTOMA 680 705	alteraciones conductuales
+T69	SINTOMA 996 1006	fallecidos
+T70	SINTOMA 1279 1291	comunicativo
+T71	SINTOMA 1482 1507	interacción farmacológica
+T72	ENFERMEDAD 1947 1984	toxicidad por la interacción fármacos
+T73	ENFERMEDAD 2444 2449	COVID
+T1	HUMANO 821 831	FAMILIARES

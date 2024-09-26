@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Rogamos realizar TAC de tórax de cara descartar NOC en paciente con COVID19 con 2 semanas de síntomas. Muchas gracias
+COVID +
+
+protocolo:
+TC TÓRAX URGENTE sin contraste ev.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Mínimas calcificaciones coronarias.
+No se observa derrame pleural ni pericárdico.
+Parénquima pulmonar sin alteraciones valorables.
+Focos en vidrio deslustrado subpleurales, bilaterales y con distribución periférica. Tienen a la confluencia en los LLII formando focos consoliudativos de morfología lineal y tractos lobares asociados, en relación a cambios organizativos por infección COVID-19. Dilataciones y engrosamientos bronquiales difusos de predominio en lóbulos inferiores.
+Pequeña imagen nodular infracentimétrica en LSD, sugestiva de ganglio intrapulmonar.Pequeña imagen nodular pleural infracentimétrica en porciones superiores del LID, inespecífica.
+
+conclusiones:
+Hallazgos sugestivos de cambios organizativos por COVID.
+
+descrip:
+TC TORAX

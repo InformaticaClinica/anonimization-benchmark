@@ -1,0 +1,33 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Inicia con crisis comiciales, IOT por neumonia COVID19. Solicito TC descartar sangrado o pat aguda intracreaneal
+SOSPECHA DE INFECCIÓN POR SAR-CoV-2
+
+protocolo:
+TC cerebral basal + AngioTC arterial y venoso de arterias intracraneales y troncos supraaorticos URGENTE
+
+resultados:
+TC CRANEAL BASAL:
+Gran hematoma lobar témporo-parieto-occipital derecho de 75 x 34 x 61 mm (APxTxCC) (80 ml), que asocia poderada cantidad de edema perilesional, ejerce efecto de masa sobre las estructuras adyacentes, con colapso de surcos, compresión del asta posterior del VLD y desviación de la línea media de 6 mm a la izquierda. Cotaminación hemática del VLD, III y IV ventrículos. Focos de HSA en surcos de la convexidad adyacentes al hematoma. Engrosamiento hiperdenso del tentorio derecho y la hoz el cerebro, compatible con componente subdural del sangrado.
+Estructuras de la línea media  centradas.
+Dilatación del asta temporal del VLD respecto al contralateral, resto del sistema ventricular no dilatado.
+Cisternas basales libres.
+Engrosamientos mucoso del seño esfenoidal, asociado a ocupación de aspecto mucoso celdillas etmoidales y seno maxilar izquierdo.
+ANGIO-TC EXTRA E INTRACRANEAL ARTERIAL Y VENOSO:
+No se observan malformaciones vasculares ni otras causas secundarias de sangrado.
+Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+Arco aórtico y segmentos proximales de troncos supraórticos sin ateromatosis ni signos de estenosis.
+Ateromatosis cálcica sin estenosis significativa de la bifurcación de las arterias carótidas internas sin ateromatosis ni signos de estenosis.
+Segmentos intracavernoso y supraclinoideo de las arterias carótidas interna sin ateromatosis ni signos de estenosis.
+Ateromatosis cálcica del origen de la arteria vertebral derecha. Origen de la arteria vertebral izquierda sin ateromatosis ni signos de estenosis.
+En los cortes de hemitorax superior, se observan algunas ténues opacidades en vidrio deslustrado bilaterales, en probable relación con infección COVID19 conocida.
+
+conclusiones:
+Gran hematoma lobar témporo-parieto-occipital derecho de las características descritas, con apertura al espácio subaracnoideo, contaminación ventricular descrita desviación de la línea media de 6 mm a la izquierda y engrosamiento hiperdenso del tentorio derecho y la hoz el cerebro, compatible con componente subdural del sangrado.
+No se observan signos radiológicos de causa subyacente del sangrado.
+
+descrip:
+TC CEREBRAL

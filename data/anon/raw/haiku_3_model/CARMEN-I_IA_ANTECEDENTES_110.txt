@@ -1,0 +1,12 @@
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**] años, con alergia a la Penicilina por reacción cutanea. Ex- fumador desde el [**FECHAS**], con dosis acumulada de [**OTROS_SUJETO_ASISTENCIA**] paquetes/año. Ex-enol desde el año [**FECHAS**] aproximadamente. Ha trabajado de [**PROFESION**], en contacto con amianto. Vive con [**FAMILIARES_SUJETO_ASISTENCIA**] en [**CALLE**].
+VALORACIÓN GERIÁTRICA:
+- Valoración funcional: Deambulación correcta e independiente, Barthel [**OTROS_SUJETO_ASISTENCIA**].
+- Valoración social: vive en [**CALLE**] con [**FAMILIARES_SUJETO_ASISTENCIA**]. Es el principal cuidador de [**FAMILIARES_SUJETO_ASISTENCIA**], junto con [**FAMILIARES_SUJETO_ASISTENCIA**].
+- Síndromes geriátricos: Presbicia e hipoacusia. No presenta polimedicación, tampoco caídas, síndrome ansioso-depresivo. Tampoco presenta incontinencia de esfínteres.
+* ANTECEDENTES PATOLÓGICOS
+- DISLIPEMIA
+- HIPERTENSIÓN ARTERIAL
+- HIPERPLASIA BENIGNA DE PRÓSTATA, con cirugía desobstructiva en [**FECHAS**].
+- ASBESTOSIS. En un TC torácico del [**FECHAS**] se evidencian placas pleurales calcificadas. Realiza controles en el [**HOSPITAL**].
+Destacaban adenopatías calcificadas paraaórticas e hiliar pulmonar izquierda y una opacidad nodular sólida puntiforme en el lóbulo superior derehco inespecífica.
+MEDICACIÓN HABITUAL ([**FECHAS**]): Amlodipino [**OTROS_SUJETO_ASISTENCIA**]mg/24h y Ramipril + HCT [**OTROS_SUJETO_ASISTENCIA**]mg/24h.

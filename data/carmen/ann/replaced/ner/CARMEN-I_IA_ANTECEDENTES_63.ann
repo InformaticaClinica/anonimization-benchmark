@@ -1,0 +1,85 @@
+T16	PROCEDIMIENTO 687 698	cateterismo
+T17	PROCEDIMIENTO 995 1029	cateterismo de arterias coronarias
+T18	PROCEDIMIENTO 1406 1424	Prueba de esfuerzo
+T19	PROCEDIMIENTO 1481 1486	SPECT
+T20	PROCEDIMIENTO 1649 1659	diuréticos
+T21	PROCEDIMIENTO 1797 1812	ecocardiografía
+T22	PROCEDIMIENTO 2298 2324	implante de MARCAPASOS VVI
+T23	PROCEDIMIENTO 2794 2811	fibrocolonoscopia
+T24	PROCEDIMIENTO 477 481	ADOs
+T25	PROCEDIMIENTO 931 942	stent en DA
+T26	PROCEDIMIENTO 1283 1402	triple bypass a DA media (arteria mamaria izquierda), a segunda marginal (vena safena) y segunda diagonal (vena safena)
+T27	PROCEDIMIENTO 1156 1161	stent
+T28	PROCEDIMIENTO 1673 1682	diurético
+T29	PROCEDIMIENTO 1947 1957	marcapasos
+T30	SINTOMA 308 327	deterioro cognitivo
+T31	SINTOMA 958 972	dolor torácico
+T32	SINTOMA 1605 1611	edemas
+T33	SINTOMA 1721 1749	disnea a moderados esfuerzos
+T34	SINTOMA 2621 2635	dolor torácico
+T35	SINTOMA 1628 1634	dísnea
+T36	ENFERMEDAD 34 57	alergia a la penicilina
+T37	ENFERMEDAD 529 563	nefropatía probablemente diabética
+T38	ENFERMEDAD 616 637	CARDIOPATÍA ISQUÉMICA
+T39	ENFERMEDAD 666 674	IAM no Q
+T40	ENFERMEDAD 1128 1154	DA con ateromatosis difusa
+T41	ENFERMEDAD 1230 1256	CD con ateromatosis difusa
+T42	ENFERMEDAD 1491 1505	isquemia aguda
+T43	ENFERMEDAD 1570 1592	insuficiencia cardíaca
+T44	ENFERMEDAD 1960 1991	insuficiencia tricuspídea grave
+T45	ENFERMEDAD 2012 2039	hipertensión pulmonar grave
+T46	ENFERMEDAD 2120 2145	HIPOTIROIDISMO SUBCLÍNICO
+T47	ENFERMEDAD 2217 2227	DISLIPEMIA
+T48	ENFERMEDAD 2463 2487	diabetes mellitus tipo 2
+T49	ENFERMEDAD 2691 2732	descompensación de insuficiencia cardíaca
+T50	ENFERMEDAD 2769 2789	hemorragia digestiva
+T51	ENFERMEDAD 410 434	DIABETES MELLITUS TIPO 2
+T52	ENFERMEDAD 568 589	HIPERTENSIÓN ARTERIAL
+T53	ENFERMEDAD 1510 1532	INSUFICIENCIA CARDÍACA
+T54	ENFERMEDAD 2261 2284	RITMO NODAL PERSISTENTE
+T55	ENFERMEDAD 2362 2391	ESTENOSIS CAROTÍDEA IZQUIERDA
+T56	ENFERMEDAD 2396 2435	ENFERMEDAD RENAL CRÓNICA ESTADIO G3B A3
+T57	ENFERMEDAD 2493 2518	HEMORRAGIA DIGESTIVA BAJA
+T58	ENFERMEDAD 2596 2603	IAMSEST
+T59	ENFERMEDAD 62 70	fumadora
+T60	SINTOMA 173 190	camina con bastón
+T61	SINTOMA 1456 1479	eléctricamente positiva
+T62	SINTOMA 1911 1921	discinesia
+T63	SINTOMA 2660 2674	ascenso de TpI
+T64	ENFERMEDAD 74 90	bebedora de enol
+T65	ENFERMEDAD 498 523	complicaciones retinianas
+T66	ENFERMEDAD 712 853	arteria coronaria derecha distal ocluida crónica, lesión del tronco común 50% y lesión significativa de la descendente anterior a nivel medio
+T67	ENFERMEDAD 1166 1177	reestenosis
+T68	ENFERMEDAD 1183 1228	lesión significativa en segmento medio-distal
+T69	FARMACO 484 492	insulina
+T70	FARMACO 2189 2201	levotiroxina
+T71	FARMACO 2834 2842	Insulina
+T72	FARMACO 2861 2870	Omeprazol
+T73	FARMACO 2881 2889	Apixaban
+T74	FARMACO 2901 2915	Nitroglicerina
+T75	FARMACO 2945 2970	Mononitrato de isosorbida
+T76	FARMACO 2980 2990	Furosemida
+T77	FARMACO 3003 3018	Espironolactona
+T78	FARMACO 3051 3064	Atorvastatina
+T79	FARMACO 3075 3087	Levotiroxina
+T80	FARMACO 3099 3111	Lormetazepam
+T81	FARMACO 3121 3131	Citalopram
+T82	FARMACO 3142 3153	Calcifediol
+T83	FARMACO 3166 3181	Sulfato ferroso
+T84	FARMACO 3192 3202	Bisoprolol
+T85	FARMACO 3215 3224	Enalapril
+T86	HUMANO 1 6	Mujer
+T87	HUMANO 256 261	nuera
+T88	HUMANO 274 283	cuidadora
+T89	HUMANO 858 866	paciente
+T90	HUMANO 2586 2594	paciente
+T91	ENFERMEDAD 1043 1126	tronco común izquierdo con lesión en segmento medio del 30% y lesión distal del 80%
+T92	SINTOMA 1533 1548	FEVI PRESERVADA
+T93	SINTOMA 1833 1873	Ventrículo izquierdo de movilidad normal
+T95	ENFERMEDAD 1875 1908	Dilatación del ventrículo derecho
+T96	ENFERMEDAD 2077 2115	Vena cava inferior gravemente dilatada
+T97	SINTOMA 2077 2115	Vena cava inferior gravemente dilatada
+T98	FARMACO 3029 3041	Linagliptina
+T99	PROCEDIMIENTO 2231 2256	tratamiento farmacológico
+T100	FARMACO 2843 2849	lantus
+T1	PROCEDIMIENTO 883 890	cirugía

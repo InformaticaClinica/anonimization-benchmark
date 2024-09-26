@@ -1,0 +1,84 @@
+T7	SINTOMA 67 73	fiebre
+T8	SINTOMA 75 96	expectoración verdosa
+T9	SINTOMA 98 104	disnea
+T10	SINTOMA 106 113	nauseas
+T11	SINTOMA 116 129	artromialgias
+T12	SINTOMA 294 305	pico febril
+T13	SINTOMA 403 409	febril
+T14	SINTOMA 422 430	eupneico
+T15	SINTOMA 505 536	crepitantes basales bilaterales
+T16	SINTOMA 602 625	infiltrados bilaterales
+T17	SINTOMA 861 872	neutrofilia
+T18	SINTOMA 875 885	linfopenia
+T19	SINTOMA 967 976	hipoxemia
+T20	SINTOMA 1433 1459	alteración perfil hepático
+T21	SINTOMA 1607 1613	fiebre
+T22	SINTOMA 2414 2435	desconexión del medio
+T23	SINTOMA 2438 2447	agitación
+T24	SINTOMA 481 502	hipofonesis bilateral
+T25	SINTOMA 690 728	CK, función renal e ionograma en rango
+T26	SINTOMA 748 788	perfil hepático con elevación enzimatica
+T27	SINTOMA 844 856	leucocitosis
+T28	SINTOMA 888 901	plaquetopenia
+T29	SINTOMA 912 931	Hemostasia en rango
+T30	SINTOMA 940 962	alcalosis respiratoria
+T31	SINTOMA 979 989	hipocapnia
+T32	SINTOMA 1726 1744	cultivos negativos
+T33	ENFERMEDAD 2062 2072	hipertenso
+T34	ENFERMEDAD 2137 2150	hiperglucemia
+T35	SINTOMA 2326 2339	plaquetopenia
+T36	SINTOMA 2460 2486	mala mecánica ventilatoria
+T37	SINTOMA 2718 2736	cultivos positivos
+T38	ENFERMEDAD 2885 2914	miopatía del paciente crítico
+T39	FARMACO 158 169	paracetamol
+T40	FARMACO 1371 1383	azitromicina
+T41	FARMACO 1385 1402	hidroxicloroquina
+T42	FARMACO 1405 1412	Kaletra
+T43	FARMACO 1493 1505	dexametasona
+T44	FARMACO 1556 1567	ceftriaxona
+T45	FARMACO 1676 1685	Meropenem
+T46	FARMACO 1688 1697	Linezolid
+T47	FARMACO 2097 2107	Nimodipino
+T48	FARMACO 2199 2216	insulina glargina
+T49	FARMACO 2309 2321	fondaparinux
+T50	FARMACO 2524 2534	quetiapina
+T51	FARMACO 2537 2548	haloperidol
+T52	PROCEDIMIENTO 1279 1287	sedación
+T53	PROCEDIMIENTO 1461 1488	Tratamiento antinflamatorio
+T54	PROCEDIMIENTO 1344 1366	tratamiento antivírico
+T55	FARMACO 2219 2234	insulina rápida
+T56	PROCEDIMIENTO 2281 2297	Tromboprofilaxis
+T57	PROCEDIMIENTO 2680 2703	tratamiento antibiótico
+T58	PROCEDIMIENTO 1528 1551	Tratamiento antibiótico
+T59	SINTOMA 376 401	hemodinamicamente estable
+T60	ENFERMEDAD 1045 1063	neumonia bilateral
+T61	ENFERMEDAD 1076 1083	COVID19
+T62	ENFERMEDAD 1101 1105	EPOC
+T63	FARMACO 1344 1366	tratamiento antivírico
+T64	FARMACO 1461 1488	Tratamiento antinflamatorio
+T65	FARMACO 1528 1551	Tratamiento antibiótico
+T66	PROCEDIMIENTO 210 221	aislamiento
+T67	PROCEDIMIENTO 224 248	tratamiento sintomatrico
+T68	PROCEDIMIENTO 454 472	exploración física
+T69	PROCEDIMIENTO 567 587	radiografia de torax
+T70	PROCEDIMIENTO 633 652	analÍtica sanguinea
+T71	PROCEDIMIENTO 830 839	Hemograma
+T72	PROCEDIMIENTO 1227 1230	IOT
+T73	PROCEDIMIENTO 1233 1236	VNI
+T74	PROCEDIMIENTO 1290 1335	soporte ventilatorio con ventilación mecánica
+T75	PROCEDIMIENTO 1814 1819	prono
+T76	PROCEDIMIENTO 1932 1935	IOT
+T77	PROCEDIMIENTO 1956 1969	traqueostomía
+T78	PROCEDIMIENTO 2374 2381	weaning
+T79	PROCEDIMIENTO 2592 2612	ventilación mecánica
+T80	PROCEDIMIENTO 2642 2654	decanulación
+T81	PROCEDIMIENTO 2972 2986	rehabilitación
+T82	HUMANO 1088 1096	paciente
+T83	HUMANO 1143 1151	paciente
+T85	PROCEDIMIENTO 1726 1734	cultivos
+T86	PROCEDIMIENTO 1846 1865	relajación muscular
+T87	PROCEDIMIENTO 2084 2107	perfusión de Nimodipino
+T88	PROCEDIMIENTO 2718 2726	cultivos
+T89	SINTOMA 2746 2765	estabilidad clínica
+T1	PROCEDIMIENTO 912 922	Hemostasia
+T2	SINTOMA 1161 1202	franco empeoramiento a nivel respiratorio

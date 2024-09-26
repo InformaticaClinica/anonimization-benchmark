@@ -1,0 +1,24 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente ingrsado por COVID-19 con hipertrasaminas y patrón de colestasis. Valorar via biliar y ecoesructura hepática. Muchas gracias.
+Un saludo.
+Hepatopatía aguda secundatia
+
+protocolo:
+Ecografía abdominal basal.
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de tamaño normal, paredes finas sin claras litiasis.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Bazo homogéneo de tamaño normal
+Páncreas (cuerpo) sin alteraciones destacables.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal
+
+descrip:
+ECO BASAL (ABDOMEN)

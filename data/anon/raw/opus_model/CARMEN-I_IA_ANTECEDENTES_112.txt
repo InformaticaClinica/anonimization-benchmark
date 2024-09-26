@@ -1,0 +1,13 @@
+Antecedentes personales:
+Varón de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**], vive en [**TERRITORIO**] desde [**FECHAS**]. Vive solo. No pareja actualmente. Actualmente trabajaba en [**PROFESION**]. ALERGIA a [**OTROS_SUJETO_ASISTENCIA**].
+Tabaquismo: no. Alcohol: social. Drogas recreativas: no, no chemsex.
+Contacto con animales actual: no. Viajes: [**FECHAS**], [**PAIS**].
+ANTECEDENTES PATOLÓGICOS:
+1-. INFECCIÓN POR VIH. Diagnóstico el [**FECHAS**] en contexto de astenia.
+Esperó a iniciar el TAR aproximadamente 1 año después, al parecer con [**OTROS_SUJETO_ASISTENCIA**], posteriormente pasó a [**OTROS_SUJETO_ASISTENCIA**] pero lo suspendió por mala tolerancia (febrícula y mal estar). Analítica [**FECHAS**], [**INSTITUCION**] con [**OTROS_SUJETO_ASISTENCIA**]. Relaciones sexuales con [**OTROS_SUJETO_ASISTENCIA**], versátil- activo, habitualmente con preservativo. Actualmente en TAR con [**OTROS_SUJETO_ASISTENCIA**].
+Adecuado control inmuno-virológico.
+** Última AS [**FECHAS**]: [**OTROS_SUJETO_ASISTENCIA**]. Quantiferon: negativo. [**OTROS_SUJETO_ASISTENCIA**].
+** Radiografía de tórax: [**OTROS_SUJETO_ASISTENCIA**].
+Ángulos costofrénicos libres.
+TRATAMIENTO HABITUAL:
+- [**OTROS_SUJETO_ASISTENCIA**].

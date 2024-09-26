@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+conclusiones:
+Silueta cardiaca aumentada de tamaño. Prótesis valvular aórtica. Sutura de esternotomía media.
+Elongación y ateromatosis aórtica calcificada.
+Granulomas calcificados.
+Patrón reticular de predominio en bases.
+Pinzamiento de senos costofrénicos.
+
+descrip:
+RX  PORTATIL  TORAX

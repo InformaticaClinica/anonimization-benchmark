@@ -1,0 +1,10 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**]. No alergias medicamentosas. Autónoma para AVD. No fumadora.
+* Antecedentes patológicos de interés.
+- Histerectomía total por neo. útero [**FECHAS**]
+- Microlitiasis calicilar inferior de riñón izquierdo (TAC [**FECHAS**])
+- Leve diverticulosis en sigma (TAC [**FECHAS**])
+- Adenoma suprarenal izquierdo (colangio RNM [**FECHAS**])
+- ITUs repetición. Refiere varios episodios aislados.
+- Diverticulosis
+* Antecedentes quirúrgicos
+- Histerectomía en [**FECHAS**].

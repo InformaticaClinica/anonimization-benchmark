@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID-19
+
+protocolo:
+RX de tórax portátil. Se compara con RX del [**FECHAS**].
+
+conclusiones:
+Discretas opacidades alveolointersticilaes bilaterales de predominio periférico sugestivo de afectación pulmonar por COVID estables respecto RX previa ([**FECHAS**]).
+
+descrip:
+RX  PORTATIL  TORAX

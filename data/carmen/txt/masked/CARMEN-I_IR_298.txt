@@ -1,0 +1,19 @@
+
+prueba:
+ESTUDIO DEGLUCION
+
+clinica:
+IOT prolongada
+
+protocolo:
+ESTUDIO DE LA DEGLUCIÓN
+
+resultados:
+Movimientos algo lentos en la fase oral y discreta hipotonía de la hipofaringe sin que se aprecie paso de contraste a vías aéreas con la ingesta de las tres densidades de contraste (néctar, líquido y puding).
+Mínimo residuo en valléculas y senos piriformes al final de la ingesta de la densidad puding.
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

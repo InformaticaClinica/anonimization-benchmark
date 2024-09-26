@@ -1,0 +1,69 @@
+T5	SINTOMA 131 157	elevación de transaminasas
+T6	SINTOMA 257 275	fiebre persistente
+T7	SINTOMA 278 318	desaturación (91%) con mínimos esfuerzos
+T8	SINTOMA 363 388	hemodinámicamente estable
+T9	SINTOMA 395 401	febril
+T10	SINTOMA 447 456	taquipnea
+T11	SINTOMA 617 654	elevación de reactantes de fase aguda
+T12	SINTOMA 683 703	hipertransaminasemia
+T13	SINTOMA 782 815	velamiento de senos costofrénicos
+T14	SINTOMA 958 978	hipertransaminasemia
+T15	SINTOMA 1818 1843	hemodinámicamente estable
+T16	SINTOMA 1854 1869	pico febricular
+T17	SINTOMA 2451 2463	PCR negativa
+T18	SINTOMA 2629 2658	alteración de perfil hepático
+T19	SINTOMA 3013 3043	alteraciones en la coagulación
+T20	SINTOMA 743 776	infiltrado intersticial bilateral
+T21	SINTOMA 2168 2187	estabilidad clínica
+T22	SINTOMA 2794 2822	Virus hepatotropos negativos
+T23	SINTOMA 2905 2925	hipertransaminasemia
+T24	SINTOMA 2996 3009	plaquetopenia
+T25	PROCEDIMIENTO 2537 2574	ELEVACIÓN DE TRANSAMINASAS EN ESTUDIO
+T26	SINTOMA 1442 1479	empeoramiento de clínica respiratoria
+T27	SINTOMA 2423 2449	cifra de linfocitos normal
+T28	ENFERMEDAD 4 36	NEUMONIA BILATERAL por SARS-CoV2
+T29	ENFERMEDAD 40 61	NEUMONÍA ORGANIZATIVA
+T30	ENFERMEDAD 110 113	HTA
+T31	ENFERMEDAD 168 187	esteatosis hepática
+T32	ENFERMEDAD 236 252	neumonía bibasal
+T33	ENFERMEDAD 837 855	neumonía bilateral
+T34	ENFERMEDAD 875 899	infección por SARS-CoV-2
+T35	ENFERMEDAD 1634 1688	neumonía bilateral COVID-19 con signos de organización
+T36	ENFERMEDAD 2584 2603	ESTEATOSIS HEPÁTICA
+T37	FARMACO 1061 1071	remdesivir
+T38	PROCEDIMIENTO 1108 1143	plasma hiperinmune de convalescente
+T39	FARMACO 1339 1351	dexametasona
+T40	FARMACO 1709 1723	corticoterapia
+T41	FARMACO 1739 1749	prednisona
+T42	FARMACO 1951 1958	oxígeno
+T43	PROCEDIMIENTO 720 731	RX de tórax
+T44	PROCEDIMIENTO 921 935	oxigenoterapia
+T45	PROCEDIMIENTO 1306 1334	tratamiento antiinflamatorio
+T46	PROCEDIMIENTO 1517 1531	oxigenoterapia
+T47	PROCEDIMIENTO 1610 1618	TC tórax
+T48	PROCEDIMIENTO 2761 2780	ecografía abdominal
+T49	PROCEDIMIENTO 2783 2792	fibroscan
+T50	PROCEDIMIENTO 3189 3205	estudio hepático
+T51	HUMANO 77 105	[**SEXO_SUJETO_ASISTENCIA**]
+T52	HUMANO 349 357	paciente
+T53	HUMANO 1037 1045	paciente
+T54	HUMANO 1150 1158	paciente
+T55	HUMANO 1797 1805	paciente
+T56	HUMANO 2135 2143	paciente
+T57	HUMANO 2605 2613	Paciente
+T58	HUMANO 3170 3178	paciente
+T59	SPECIES 27 36	SARS-CoV2
+T60	SPECIES 889 899	SARS-CoV-2
+T62	SINTOMA 2537 2563	ELEVACIÓN DE TRANSAMINASAS
+T63	SPECIES 2794 2812	Virus hepatotropos
+T64	PROCEDIMIENTO 581 590	analítica
+T65	PROCEDIMIENTO 2412 2421	analítica
+T66	PROCEDIMIENTO 2069 2099	analíticas sanguineas seriadas
+T1	SINTOMA 2858 2892	empeoramiento progresivo analítico
+T2	SINTOMA 904 935	requerimiento de oxigenoterapia
+T3	SINTOMA 1484 1531	aumento de los requerimientos de oxigenoterapia
+T4	SINTOMA 1922 1958	descenso de requerimiento de oxígeno
+T67	SINTOMA 2102 2121	mejoría radiológica
+T68	PROCEDIMIENTO 2110 2121	radiológica
+T69	SINTOMA 1891 1917	mejoría clínica progresiva
+T70	SINTOMA 2029 2065	descenso de parámetros inflamatorios

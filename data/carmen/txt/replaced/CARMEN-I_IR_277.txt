@@ -1,0 +1,26 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+COVID-19.
+COlestasis progresiva.
+Descartar patología biliar.
+Gracias,
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Ecografía abdominal portatil.
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar distendida, de paredes finas, con barro biliar, sin litiasis.
+Vía biliar no dilatada. Colédoco de calibre normal.
+V. Porta permeable de calibre normal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Esplenomegalia de 13,7 mm. Se observan algunas imágenes alargadas mal definidas discretamente hiperecogénicas, la mayor de ellas 26 mm aprox, inespecíficas por ecografía, a valorar relevancia clínica y, de considerarse necesario, completar estudio con TC para mejor caracterización.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No se observa líquido libre.
+
+descrip:
+ECO BASAL (ABDOMEN)

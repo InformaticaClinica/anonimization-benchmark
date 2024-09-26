@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], [**FECHAS**] CPCP estadio diseminado (ganglionar múltiple infra y supradiafrag, hepática, SNC) en tratamiento QT de 2línea con platino.
+Actualmente ingresado por Neumonía Covid con sospecha de TEP por presencia de Taquicardia persistente, Dimero D elevado y multiples factores de riesgo. Ya citado el [**FECHAS**] TAC de control para reevaluación radiológica a 2 ciclos para valorar continuación de tto.
+Ruego adelantar el dicho TAC para descartar TEP.
+Gracias, un saludo
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; último TC del [**FECHAS**].
+Port-a-cath prepectoral derecho con extremo distal en unión cavoatrial.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP.
+Tronco de la arteria pulmonar de calibre conservado (26 mm). Aorta torácica ascendente discretamente dilatada (42 mm). Discretas calcificaciones coronarias.
+Disminución de tamaño de las adenopatías mediastínicas, subcarinales de 19 mm (previo de 26 mm), paratraqueales e hiliares derechas, así como las cardiofrénicas bilaterales, ahora de 6 mm (previo de 12 mm). No se visualizan adenopatías axilares de tamaño valorable.
+Mínimo derrame pleural bilateral. Ausencia de derrame pericárdico.
+Disminución de tamaño del componente de partes blandas hiliar derecho, díficil de delimitar, en relación a proceso neoplásico conocido.
+Aparición de opacidades en vidrio deslutrado bilaterales, de distribución subpleural y peribroncovascular, de mayor predominio en LSD y LII, asociadas a dilataciones bronquiales difusas; todo ello en relación a proceso infeccioso por COVID-19.
+En LSD, se visualiza mayor afectación del parénquima ya que el proceso intercurrente se ha sobreñadido a la enfermedad de base. En segmento posterior del LSD, se visualiza una opacidad consolidativa de morfología nodular, no presente en estudio previo. A valorar evolutivamente tras proceso agudo.
+Enfisema centrolobulillar en LLSS. Engrosamientos pleuroparenquimatoso biapicales, de aspecto crónico.
+En hemiabdomen superior incluido, se visualiza discreta cantidad de líquido libre perihepático. M1 hepáticas, no valorables correctamente en esta exploración. Disminución de tamaño de las adenopatías periesofágicas bajas y en ligamento gastrohepático.
+Afectación ósea en columna vertebral, estable. Fracturas antiguas costales bilaterales.
+
+conclusiones:
+- No se visualizan imágenes de TEP.
+- Proceso infeccioso pulmonar por COVID-19, de extensión moderada.
+- Disminución de tamaño de las adenopatías mediastínicas y cardiofrénicas bilaterales, así como la lesión de partes blandas hiliar D.
+
+descrip:
+ANGIO TC PULMONAR

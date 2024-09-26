@@ -1,0 +1,14 @@
+
+prueba:
+COLOCACION DE CATETER CON TRACTO SUBCUTA NEO PARA HEMODIALISIS + ANGIOPLASTIA
+
+clinica:
+INSUFICIENCIA RENAL AGUDA
+
+conclusiones:
+Mediante control ecográfico y fluoroscópico, se coloca catéter venoso central yugular derecho temporal para hemodiálisis de 14F y 19 cm de longitud, cuya punta queda situada en auricula derecha.
+Se confirma adecuado funcionamiento.
+No se han presentando complicaciones durante ni inmediatamente tras el procedimiento.
+
+descrip:
+COLOCACION DE CATETER CON TRACTO SUBCUTANEO PARA HEMODIALISIS + ANGIOPLASTIA

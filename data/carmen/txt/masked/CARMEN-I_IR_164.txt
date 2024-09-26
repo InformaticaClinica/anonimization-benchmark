@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con recien diagnostico de tumor escamoso de pulmon con multiples M1 pulmonares y adenopatias mediastinicas, que ingres apara estudio. A la exploración física hemiparesia braquiocrural derecha leve de predominio en extremidad ifnerior. Imposibilidad para la marcha.
+solictamos Tc cerebral urgente para descartar metastasis cerebrales, muchas gracias
+neo
+
+protocolo:
+TC CEREBRAL: basal
+
+conclusiones:
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en relación con cambios involutivos.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso.
+
+descrip:
+TC CEREBRAL

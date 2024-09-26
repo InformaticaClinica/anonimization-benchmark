@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+resultados:
+Ténues aumentos de densidad de disposición parahiliar izquierda y en el campo medio del hemitórax derecho que deben considerarse como indeterminados para COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

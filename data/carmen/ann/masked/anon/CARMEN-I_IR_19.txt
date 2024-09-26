@@ -1,0 +1,41 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] al·lèrgica a les sulfamides
+.AP: - Vasoespasme coronari en tt amb Verapamil, - HTA, - Uricàriacrònica en tt Omalizumab
+MA: Ingressa el [**FECHAS**] per pneumonia secundaria a infecció per covid2.Ingressa a UCI el [**FECHAS**] i es intubada el mateix dia. No ha requerit pronació. Extubació fallida el [**FECHAS**], posteriorment es realitzatraqueostomia. Weanning difícil, solicitem TC toràcic per a descartar NOC. Gràcies
+NEUMONÍA INTERSTICIAL BILATERAL POR COVID-19
+
+protocolo:
+TC CEREBRAL + TC TORAX
+
+resultados:
+TC CEREBRAL
+No hay evidencia de sangrado agudo extra y/o intraaxial.
+Discretas áreas hipodensas en sustancia blanca supratentorial en relación a microangiopatía crónica. No se identifican hipodensidades ni desdiferenciación cortico-subcortical sugestivas de isquémia aguda.
+Sistema ventricular de morfología y tamaño normales.
+Estructuras de la línea media centradas.
+Cisternas basales y peritronculares libres.
+TC TORAX
+Vía central yugular izquierda con extremo distal a nivel de vena inominada.
+Traqueostomía con extremo distal de la intubación en tráquea a unos 3 cm de la carina.
+SNG.
+Extensa afectación pulmonar bilateral y difusa consistente en consolidaciones en banda de disposición subpleural y peribroncovascular.
+Existe un gradiente craneocaudal siendo más abundantes dichas consolidaciones a nivel basal y existiendo a nivel de ambos lóbulos superiores áreas de vidrio deslustrado con septos interlobulillares (patrón en empedrado). En el seno de las consolidaciones se aprecian algunas bronquiolectasias, distorsión arquitectural y también se identifican imágenes de halo reverso. Globalmente estos hallazgos son compatibles con los de una neumonía vírica por COVID-19 con componente de neumonía organizativa y tendencia a la fibrosis.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Retracción del pezón izquierdo sin apreciar una clara masa subyacente, a valorar clínicamente.
+En los cortes de hemiabdomen superior no se observan hallazgos patológicos relevantes.
+
+conclusiones:
+- Exploración craneal sin hallazgos patológicos agudos relevantes.
+- Neumonia vírica por COVID-19 con neumonía organizativa.
+
+descrip:
+TC TORAX
+
+descrip:
+TC CEREBRAL

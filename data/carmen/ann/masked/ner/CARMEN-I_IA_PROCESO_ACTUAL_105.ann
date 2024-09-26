@@ -1,0 +1,7 @@
+T3	SINTOMA 149 171	alucinaciones visuales
+T4	SINTOMA 182 204	confusión intermitente
+T5	SINTOMA 281 284	tos
+T6	SINTOMA 305 316	secreciones
+T7	SINTOMA 322 328	fiebre
+T8	SINTOMA 345 363	edemas periféricos
+T9	HUMANO 73 107	[**FAMILIARES_SUJETO_ASISTENCIA**]

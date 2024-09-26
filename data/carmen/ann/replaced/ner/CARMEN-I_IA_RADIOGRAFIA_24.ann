@@ -1,0 +1,50 @@
+T6	SINTOMA 160 209	Hígado de tamaño normal y ecoestructura homogénea
+T7	SINTOMA 598 629	Bazo homogéneo de tamaño normal
+T8	SINTOMA 723 751	líquido libre intraabdominal
+T9	SINTOMA 997 1096	opacidades en vidrio deslustrado bilaterales de distribución periférica con engrosamientos septales
+T10	SINTOMA 2408 2452	Cambios degenerativos en la columna torácica
+T11	SINTOMA 31 53	Opacidades bilaterales
+T12	SINTOMA 243 259	lesiones focales
+T13	SINTOMA 579 596	flujo hepatopetal
+T14	SINTOMA 291 369	imagen quística de situación subhepática, con nivel hidro-hidro hiperecogénico
+T15	SINTOMA 514 536	Vía biliar no dilatada
+T16	SINTOMA 540 573	Porta permeable de calibre normal
+T17	SINTOMA 631 671	Riñones de tamaño y ecoestructura normal
+T18	ENFERMEDAD 677 707	dilatación de la vía excretora
+T19	SINTOMA 827 923	consolidaciones bilaterales de distribución periférica y de predominio en ambas bases pulmonares
+T20	SINTOMA 929 946	broncograma aéreo
+T21	SINTOMA 949 963	signo del halo
+T22	SINTOMA 1098 1117	patrón en empedrado
+T23	SINTOMA 1615 1726	Venas femoral común, superficial y profunda, poplítea, peroneas y tibiales posteriores compresibles, permeables
+T24	SINTOMA 1809 1854	Venas musculares de la pantorrilla permeables
+T25	SINTOMA 2159 2229	segmento posterior del lóbulo superior derecho con focos de cavitación
+T26	SINTOMA 1981 2025	afectación parenquimatosa pulmonar bilateral
+T27	SINTOMA 2118 2138	focos consolidativos
+T28	ENFERMEDAD 1178 1207	afectación pulmonar por COVID
+T29	ENFERMEDAD 1222 1243	neumonía organizativa
+T30	ENFERMEDAD 1260 1297	adenopatías mediastínicas ni axilares
+T31	ENFERMEDAD 1373 1403	derrame pleural ni pericárdico
+T32	ENFERMEDAD 1786 1807	trombosis superficial
+T33	PROCEDIMIENTO 1857 1862	TACAR
+T34	ENFERMEDAD 1918 1943	derrame pleural bilateral
+T35	ENFERMEDAD 2271 2285	sobreinfección
+T36	ENFERMEDAD 2338 2346	fibrosis
+T37	ENFERMEDAD 2370 2407	bronquiectasias de tracción bibasales
+T38	PROCEDIMIENTO 3 23	RADIOGRAFÍA DE TÓRAX
+T39	PROCEDIMIENTO 80 99	ECOGRAFÍA ABDOMINAL
+T40	PROCEDIMIENTO 419 437	TC abdominopélvica
+T41	PROCEDIMIENTO 755 777	TC TORAX SIN CONTRASTE
+T42	PROCEDIMIENTO 1405 1440	Traqueostomía con tubo endotraqueal
+T43	PROCEDIMIENTO 1474 1492	sonda nasogástrica
+T44	PROCEDIMIENTO 1567 1601	Ecodoppler extremidades inferiores
+T45	PROCEDIMIENTO 1882 1894	traqueotomía
+T46	HUMANO 150 158	paciente
+T47	SPECIES 2261 2266	virus
+T48	SINTOMA 469 512	Vesícula biliar de paredes finas, litiásica
+T49	ENFERMEDAD 469 512	Vesícula biliar de paredes finas, litiásica
+T50	SINTOMA 1494 1563	Catéter de vía periférica con extremo distal en la vena cava inferior
+T51	PROCEDIMIENTO 1494 1519	Catéter de vía periférica
+T52	ENFERMEDAD 1754 1757	TVP
+T53	ENFERMEDAD 1319 1349	Tronco pulmonar común dilatado
+T54	SINTOMA 1319 1349	Tronco pulmonar común dilatado
+T55	ENFERMEDAD 2408 2452	Cambios degenerativos en la columna torácica

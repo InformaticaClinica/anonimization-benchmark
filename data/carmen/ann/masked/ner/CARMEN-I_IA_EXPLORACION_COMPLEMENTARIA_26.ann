@@ -1,0 +1,112 @@
+T39	ENFERMEDAD 438 443	covid
+T40	ENFERMEDAD 475 480	covid
+T41	ENFERMEDAD 723 728	covid
+T42	ENFERMEDAD 1693 1724	proceso infeccioso por COVID-19
+T43	ENFERMEDAD 1726 1779	Lesión cavitada en segmento apicoposterior del culmen
+T44	ENFERMEDAD 1794 1816	lesión post-infecciosa
+T45	ENFERMEDAD 1978 2004	proceso infeccioso fúngico
+T46	ENFERMEDAD 2006 2040	Moderado derrame pleural bilateral
+T47	ENFERMEDAD 2587 2600	fractura ósea
+T48	SINTOMA 2785 2829	Afectación parenquimatosa pulmonar bilateral
+T49	ENFERMEDAD 3055 3095	proceso neumónico bilateral por COVID-19
+T50	ENFERMEDAD 3185 3254	Riñón derecho con una zona de atrofia focal cortical en polo superior
+T51	ENFERMEDAD 3402 3414	rectorragias
+T52	ENFERMEDAD 3755 3802	ascitis perihepática, periesplénica y en pelvis
+T53	PROCEDIMIENTO 62 73	ASPIRADO MO
+T54	PROCEDIMIENTO 90 106	aspirado medular
+T55	PROCEDIMIENTO 214 217	BAL
+T56	PROCEDIMIENTO 365 381	tinción de plata
+T57	PROCEDIMIENTO 396 409	MICROBIOLOGÍA
+T58	PROCEDIMIENTO 434 443	PCR covid
+T59	PROCEDIMIENTO 471 480	PCR covid
+T60	PROCEDIMIENTO 508 525	Aspirado traqueal
+T61	PROCEDIMIENTO 566 583	Aspirado traqueal
+T62	PROCEDIMIENTO 719 728	PCR covid
+T63	PROCEDIMIENTO 756 773	Aspirado traqueal
+T64	PROCEDIMIENTO 899 912	Frotis rectal
+T65	PROCEDIMIENTO 1000 1013	Frotis rectal
+T66	PROCEDIMIENTO 1054 1067	Frotis rectal
+T67	PROCEDIMIENTO 1108 1111	BAS
+T68	PROCEDIMIENTO 1379 1396	PRUEBAS DE IMAGEN
+T69	PROCEDIMIENTO 1444 1452	ANGIO TC
+T70	PROCEDIMIENTO 1455 1465	TCAR TÓRAX
+T71	PROCEDIMIENTO 2103 2113	TC CRANEAL
+T72	PROCEDIMIENTO 2145 2147	TC
+T73	PROCEDIMIENTO 2293 2295	TC
+T74	PROCEDIMIENTO 2612 2648	Tubo nasogástrico en coana izquierda
+T75	PROCEDIMIENTO 2720 2728	ANGIO TC
+T76	PROCEDIMIENTO 2731 2741	TCAR TÓRAX
+T77	PROCEDIMIENTO 3143 3151	ANGIO TC
+T78	PROCEDIMIENTO 3860 3870	TC craneal
+T79	SINTOMA 434 468	PCR covid ([**FECHAS**]): negativo
+T80	SINTOMA 471 505	PCR covid ([**FECHAS**]): negativo
+T81	SINTOMA 1663 1688	afectación parenquimatosa
+T82	SINTOMA 1857 1936	imágenes nodulares en segmento apical del LSD y en segmento anterobasal del LID
+T83	SINTOMA 2231 2271	alteraciones densitométricas encefálicas
+T84	SINTOMA 2297 2362	Sistema ventricular de morfología, tamaño y situación conservadas
+T85	SINTOMA 2842 2934	opacidades en vidrio deslustrado parcheadas, de distribución periférica y peribroncovascular
+T86	SINTOMA 2954 2979	foco consolidativo en LSI
+T87	SINTOMA 3108 3129	cambios organizativos
+T88	SINTOMA 3312 3359	contenido levemente hiperdenso en sigma y recto
+T89	SINTOMA 3402 3414	rectorragias
+T90	SINTOMA 3804 3856	Edema del tejido celular subcutáneo en ambos flancos
+T91	ENFERMEDAD 3914 3948	sangrado agudo intra ni extraaxial
+T92	SINTOMA 4033 4078	Diferenciación cortico-subcortical conservada
+T93	SINTOMA 4080 4123	Sistema ventricular simétrico y no dilatado
+T94	SPECIES 542 563	Aspergillus fumigatus
+T95	SPECIES 600 612	P aeruginosa
+T96	SPECIES 642 654	P aeruginosa
+T97	SPECIES 798 810	P aeruginosa
+T98	SPECIES 813 834	Aspergillus fumigatus
+T99	SPECIES 929 941	P aeruginosa
+T100	SPECIES 944 947	AGA
+T101	SPECIES 964 975	aspergillus
+T102	SPECIES 1030 1051	Pseudomona aeruginosa
+T103	SPECIES 1084 1105	Pseudomona aeruginosa
+T104	SPECIES 1170 1191	Aspergillus fumigatus
+T105	SPECIES 1306 1331	Streptococcus grupo mitis
+T106	SPECIES 1334 1364	Corynebacterium argentoratense
+T107	SPECIES 1839 1846	fúngica
+T108	SPECIES 1997 2004	fúngico
+T109	SINTOMA 110 131	celularidad abundante
+T110	SINTOMA 153 211	series hematopoyéticas en proporción y de aspecto normales
+T111	SINTOMA 300 329	leve fondo inflamatorio agudo
+T113	SPECIES 343 357	microoranismos
+T114	SINTOMA 508 563	Aspirado traqueal ([**FECHAS**]): Aspergillus fumigatus
+T115	SINTOMA 566 612	Aspirado traqueal ([**FECHAS**]): P aeruginosa
+T116	PROCEDIMIENTO 615 617	UC
+T117	SINTOMA 615 654	UC ([**FECHAS**]): 100.000 P aeruginosa
+T118	PROCEDIMIENTO 657 674	Determinación AGA
+T119	SINTOMA 657 699	Determinación AGA ([**FECHAS**]): negativo
+T120	SINTOMA 719 753	PCR covid ([**FECHAS**]): positiva
+T121	SINTOMA 756 834	Aspirado traqueal ([**FECHAS**]): 600.000 P aeruginosa y Aspergillus fumigatus
+T122	PROCEDIMIENTO 837 854	Determinación AGA
+T123	SINTOMA 837 879	Determinación AGA ([**FECHAS**]): negativo
+T124	SINTOMA 899 941	Frotis rectal ([**FECHAS**]): P aeruginosa
+T125	SINTOMA 944 984	AGA ([**FECHAS**]): aspergillus positivo
+T126	SINTOMA 1000 1051	Frotis rectal ([**FECHAS**]): Pseudomona aeruginosa
+T127	SINTOMA 1054 1105	Frotis rectal ([**FECHAS**]): Pseudomona aeruginosa
+T128	PROCEDIMIENTO 1194 1203	PCR Covid
+T129	ENFERMEDAD 1198 1203	Covid
+T130	PROCEDIMIENTO 1287 1289	HC
+T131	SINTOMA 1287 1364	HC ([**FECHAS**]): Streptococcus grupo mitis y Corynebacterium argentoratense
+T132	ENFERMEDAD 1518 1521	TEP
+T133	ENFERMEDAD 2069 2081	atelectasias
+T134	ENFERMEDAD 2198 2225	sangrado intra o extraaxial
+T135	SINTOMA 2364 2403	Estructuras de la línea media centradas
+T136	SINTOMA 2405 2429	Cisternas basales libres
+T137	ENFERMEDAD 2431 2486	Fractura de los huesos propios na11sales, no desplazada
+T138	SINTOMA 2488 2565	Tumefacción de partes blandas perinasal y en región fronto-parietal izquierda
+T139	SINTOMA 2612 2648	Tubo nasogástrico en coana izquierda
+T140	SINTOMA 2650 2716	Ocupación parcial de los senos esfenoidales y celdillas etmoidales
+T141	ENFERMEDAD 2780 2783	TEP
+T142	ENFERMEDAD 2982 3029	atelectasia en segmento lateral del LM y en LID
+T143	PROCEDIMIENTO 3154 3168	TCAR ABDOMINAL
+T145	SINTOMA 3509 3613	Leve cantidad de líquido alrededor de la vena femoral común izq en la zona dónde se introduce el catéter
+T146	ENFERMEDAD 3680 3736	ganglios intraabdominales de características patológicas
+T147	SINTOMA 3965 4031	alteraciones significativas de la densidad del parénquima cerebral
+T148	SINTOMA 4125 4164	Estructuras de la línea media centradas
+T149	SINTOMA 4166 4193	Cisternas de la base libres
+T1	SINTOMA 1108 1191	BAS ([**FECHAS**], [**FECHAS**], [**FECHAS**], [**FECHAS**]): Aspergillus fumigatus
+T2	SINTOMA 1194 1284	PCR Covid ([**FECHAS**], [**FECHAS**], [**FECHAS**], [**FECHAS**], [**FECHAS**]): positiva
+T3	SINTOMA 234 263	extendido celular macrofágico

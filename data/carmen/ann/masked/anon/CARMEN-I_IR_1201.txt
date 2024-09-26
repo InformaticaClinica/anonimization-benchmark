@@ -1,0 +1,25 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+PAciente de [**EDAD_SUJETO_ASISTENCIA**] en weaning por neumonía COVID. Despertar con gran agitación que ha requerido reintubación en una ocasion. Interesa neuroimagen.
+
+protocolo:
+TC craneal basal de URGENCIA
+
+resultados:
+Parénquima cerebral y cerebeloso sin alteraciones significativas.
+Diferenciación córtico-subcortical conservada, sin signos de encefalopatía hipóxico-isquémica valorables por TC.
+No hay evidencia de lesiones ocupantes de espacio ni signos de hemorragia aguda extra y/o intraaxial.
+Sistema ventricular de morfología y tamaño normales.
+Línea media centrada.
+Cisternas basales libres.
+Sonda nasal.
+Ocupación de aspecto mucoso a nivel de la naso-orofaringe en probable relación a intubación orotraqueal reciente.
+
+conclusiones:
+Sin signos de patología aguda intracraneal valorables por TC.
+
+descrip:
+TC CEREBRAL

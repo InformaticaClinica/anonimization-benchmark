@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], ingresado en INF por endocarditis por S. aureus OxaS sobre válvula mecánica. Agradeceríamos TC craneal y angioTC toracoabdominal para completar estudio. gracias!
+BACTEREMIA POR S. AUREUS MS
+
+protocolo:
+Exploración TC craneal antes y después de administrar cev.
+
+resultados:
+Cisternas basales libres.
+Estructuras de la linea media centradas.
+Sistema ventricular supratentorial de tamaño prominente, con mayores dimensiones del VLD, probablemente constitucional, con situacion ventricular conservada.
+Mediante TC no se aprecian lesiones focales ni hipercaptaciones patologicas.
+
+conclusiones:
+Sistema ventricular supratentorial de tamaño prominente, sin otras alteraciones intracraneales destacables.
+
+descrip:
+TC CEREBRAL

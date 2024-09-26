@@ -1,0 +1,28 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+protocolo:
+TC ABDOMINAL URGENTE realizada en condiciones basal, arterial y portal.
+
+resultados:
+Se observa:
+- Voluminosa colección basalmente hiperdensa adyacente a músculo iliopsoas derecho de 98 x 125 x 125 mm (AP X TR x CC), con un nivel hemático compatible con hematoma. Se identifican 2 focos de sangrado activo: uno en fase arterial en la parte más caudal del hematoma y el segundo en su tercio medio, solamente en fase venosa. Probable origen en rama iliolumbar.
+- Se observa otro pequeño hematoma en el espesor del músculo iliopsoas derecho, identificando otro foco de sangrado activo en su margen posterior. Probable origen en rama iliolumbar.
+Hemoretroperitoneo derecho que se extiende por espacio pararrenal posterior. Leve cantidad de líquido perihepático y en gotiera parietocólica derecha.
+Opacificación precoz de la vena femoral derecha en fase arterialque puede corresponder a fístula arterio-venosa a dicho nivel, junto con aumento de densidad alrededor, en probable relación a hematoma.
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales. Vesícula biliar de tamaño normal y paredes finas. Vía biliar no dilatada.
+Vena porta y eje espleno-mesentérico permables. AMS, AMI, TC, arteria esplénica permeables.
+Páncreas, bazo y glándulas suprarenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. No se observa dilatación de la vía excretora.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico. Hernias inguinales bilaterales de contenido graso.
+Afectación parenquimatosa pulmonar bilateral en forma de severas opacidades en vidrio deslustrado peribroncovasculares y subpleurales, en relación a neumonía por COVID-19. Moderado derrame pleural bilateral de predominio derecho, con atelectasia pasiva del parénquima adyacente.
+Reflujo a las venas suprahepáticas, rectificación del septo interventricular, ratio VD/VI > 1, moderada dilatación auricular izquierdo; todo ello en relación a signos de sobrecarga cardíaca derecha. Hipodensidad relativa de las cavidades cardíacas en relación al miocardio, en probable relación a anemia. Moderada ateromatosis coronaria calcificada.
+
+conclusiones:
+Hematoma en músculo iliopsoas derecho y otro de mayor tamaño en retroperitoneo, ambos con signos de sangrado activo y moderado hemoretroperitoneo asociado. Probable origen del sangrado en ramas iliolumbares D.
+Probable fístula AV en vena femoral derecha con pequeño hematoma asociado.
+Afectación parenquimatosa pulmonar por neumonía COVID-19, con signos de insuficiencia cardíaca derecha.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

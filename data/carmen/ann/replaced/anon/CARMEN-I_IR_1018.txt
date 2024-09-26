@@ -1,0 +1,31 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+diarrea
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio TC sobre el tórax y el abdomen en condiciones basales. No se administra contraste ev. por la imposibilidad para canalizar adecuadamente una vena periférica.
+
+resultados:
+No se observan adenopatías axilares ni mediastínicas de tamaño significativo.
+No se observa derrame pleural ni pericárdico.
+No es posible valorar el estado del árbol arterial pulmonar en el estudio realizado. Ligera dilatación del tronco de la arteria pulmonar, de 30 mm, indicativo de hipertensión pulmonar.
+Persisten áreas parcheadas de vidrio deslustrado y consolidación subpleural junto con algunas bandas parenquimatosas subpleurales y de distribución difusa en relación con afectación por COVID-19, sin cambios destacables con relación al TC anterior. No se observan lesiones con patrón de neumonía organizativa.
+Hígado, bazo, páncreas y glándulas suprarrenales de tamaño normal, homogéneos.
+Sutura metálica adyacente a la pared del fundus gástrico.
+Vesícula y vías biliares sin alteraciones. Vena porta permeable.
+Riñones de tamaño conservado, homogéneos, sin dilatación de la vía excretora ni imágenes sospechosas de litiasis.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+Las imágenes obtenidas en la pelvis no muestran hallazgos patológicos a destacar.
+no se observa engrosamiento parietal en el ID ni en el colon.
+No se observa ascitis.
+
+conclusiones:
+Exploración limitada por la falta de cte. ev.
+Persisten infiltrados parenqimatosos en relación con infección por COVID_19, sin patrón de neumonía organizativa.
+No se aprecian otros hallazgos patológicos de interés.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

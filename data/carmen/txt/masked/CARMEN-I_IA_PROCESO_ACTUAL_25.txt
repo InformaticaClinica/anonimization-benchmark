@@ -1,0 +1,4 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con AP de mieloma múltiple que acude al Servicio de Urgencias por cuadro de tos seca y fiebre de hasta 38oC desde hace 7 días ([**FECHAS**]) con aparición de tos seca y disnea progresiva  en los útimos 3 días.
+Se realizó PCR en CAP el día [**FECHAS**] con resultado positivo ([**FAMILIARES_SUJETO_ASISTENCIA**] e [**FAMILIARES_SUJETO_ASISTENCIA**] positivos).
+Refiere empeoramiento progresivo,  por lo que acude PADES el [**FECHAS**], que objetiva desaturación a 77% basal ytaquicardia con febrícula, por lo que se traslada a urgencias de [**HOSPITAL**]   para valoración y tratamiento.
+Vacunada de 3 dosis de COVID 19 con   Pfizer (última dosis: [**FECHAS**]).

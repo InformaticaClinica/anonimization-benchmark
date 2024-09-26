@@ -1,0 +1,30 @@
+T16	FARMACO 33 43	Penicilina
+T17	FARMACO 1123 1133	Amlodipino
+T18	FARMACO 1144 1158	Ramipril + HCT
+T19	SINTOMA 322 359	Deambulación correcta e independiente
+T20	SINTOMA 634 661	incontinencia de esfínteres
+T21	SINTOMA 1011 1067	opacidad nodular sólida puntiforme en el lóbulo superior
+T22	ENFERMEDAD 48 64	reacción cutanea
+T23	ENFERMEDAD 66 77	Ex- fumador
+T24	ENFERMEDAD 133 140	Ex-enol
+T25	ENFERMEDAD 533 543	hipoacusia
+T26	ENFERMEDAD 589 615	síndrome ansioso-depresivo
+T27	ENFERMEDAD 692 702	DISLIPEMIA
+T28	ENFERMEDAD 705 726	HIPERTENSIÓN ARTERIAL
+T29	ENFERMEDAD 729 760	HIPERPLASIA BENIGNA DE PRÓSTATA
+T30	ENFERMEDAD 853 882	placas pleurales calcificadas
+T31	ENFERMEDAD 939 994	adenopatías calcificadas paraaórticas e hiliar pulmonar
+T32	PROCEDIMIENTO 766 788	cirugía desobstructiva
+T33	PROCEDIMIENTO 818 829	TC torácico
+T34	HUMANO 1 6	Varón
+T35	HUMANO 246 252	esposa
+T36	HUMANO 255 260	nuera
+T37	HUMANO 420 425	prima
+T38	HUMANO 431 436	nuera
+T39	HUMANO 454 474	cuidador de su prima
+T40	HUMANO 489 494	nuera
+T41	ENFERMEDAD 521 530	Presbicia
+T42	SINTOMA 557 571	polimedicación
+T43	ENFERMEDAD 800 810	ASBESTOSIS
+T44	ENFERMEDAD 498 519	Síndromes geriátricos
+T45	ENFERMEDAD 20 43	alergia a la Penicilina

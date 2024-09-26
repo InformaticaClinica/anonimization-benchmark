@@ -1,0 +1,4 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**] años, Alergia a [**  **] y [**  **], de profesión [**PROFESION**], en contacto con pacientes [**  **] positivo.
+ANTECEDENTES PATOLÓGICOS:
+- [**  **]
+- [**  **]: [**  **] infancia per [**  **].

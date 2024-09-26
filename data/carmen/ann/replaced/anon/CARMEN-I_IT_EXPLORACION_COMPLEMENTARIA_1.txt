@@ -1,0 +1,15 @@
+9/06/2018.
+* MICROBIOLOGÍA:
+- PCR SARS-CoV-2 5/06/18: positiva. Cts 21
+- Frotis nasal MRSA 7/06/18: en curs
+- Frotis rectal BLEE 7/06/18: en curs
+7/06/2018.
+* ANALÍTICA  SANGUÍNEA UCIAS. 5/06/18:
+- BIOQUÍMICA GENERAL: Proteïna C reactiva (PCR) 11.02/A mg/dL, Glucosa 184/A mg/dL, Creatinina 0.87 mg/dL, Filtrat glomerular calculat [CKD- EPI] 86.22 mL/min/1,73m2, Aspartat aminotransferasa (ASAT) 34 U/L, Alanin aminotransferasa (ALAT) 25 U/L, Gamma glutamil transpeptidasa (GGT) 33 U/L, Bilirrubina total 0.40 mg/dL, Bilirrubina conjugada 0.20 mg/dL, Fosfatasa alcalina 47 U/L, Lactat deshidrogenasa (LDH) 390/A U/L, Proteïnes totals 60/B g/L, Sodi 135 mEq/L, Potasi 4.0 mEq/L, Procalcitonina, plasma 0.50 ng/mL, Calci 8.10/B mg/dL, Magnesi 1.7/B mg/dL
+- HEMOGRAMA: Leucòcits 6.67 10^9/L, Hematies 4.38/B 10^12/L, Hemoglobina 152 g/L, Hematòcrit 0.440 L/L, VCM (Volum eritrocitari mig) 100.5/Afl, HCM (Hemoglobina eritrocitària mitja) 34.6/Apg, Plaquetes 86/B 10^9/L, Neutròfils 5.4 10^9/L, Eosinòfils 0.0 10^9/L, Basòfils 0.0 10^9/L, Limfòcits 1.0 10^9/L, Monòcits 0.2 10^9/L, LUC 0.1 10^9/L
+- HEMOSTÀSIA GENERAL: Dimer D quantitatiu, sèrum 530/A ng/mL
+* ANALÍTICA  SANGUÍNEA A SU LLEGADA A Z285 9/06/18:
+- BIOQUÍMICA GENERAL: Proteïna C reactiva (PCR) 1.72/A mg/dL, Glucosa 208/A mg/dL, BUN 23 mg/dL, Creatinina 0.76 mg/dL, Filtrat glomerular calculat [CKD-EPI] >90 mL/min/1,73m2, Triglicèrids 262/A mg/dL, Aspartat aminotransferasa (ASAT) 57/A U/L, Alanin aminotransferasa (ALAT) 67/A U/L, Gamma glutamil transpeptidasa (GGT) 31 U/L, Bilirrubina total 0.4 mg/dL, Fosfatasa alcalina 51 U/L, Lactat deshidrogenasa (LDH) 344/A U/L, Proteïnes totals 46/B g/L, Albúmina 31/B g/L, Sodi 142 mEq/L, Potasi 4.1 mEq/L, Procalcitonina, plasma 0.14 ng/mL, Calci 8.4/B mg/dL, Fósfor 3.4 mg/dL, Magnesi 1.9 mg/dL
+- PROTEÏNES: Ferritina 835/A ng/mL
+- HEMOGRAMA: Leucòcits 8.63 10^9/L, Hematies 4.01/B 10^12/L, Hemoglobina 139 g/L, Hematòcrit 0.410 L/L, VCM (Volum eritrocitari mig) 103.2/Afl, HCM (Hemoglobina eritrocitària mitja) 34.6/Apg, Plaquetes 163 10^9/L, Neutròfils 7.8/A 10^9/L, Eosinòfils 0.0 10^9/L, Basòfils 0.0 10^9/L, Limfòcits 0.6/B 10^9/L, Monòcits 0.2 10^9/L, LUC 0.1 10^9/L
+- HEMOSTÀSIA GENERAL: Temps de protrombina (%) 73.0/B%, Dímer D quantitatiu 380 ng/mL

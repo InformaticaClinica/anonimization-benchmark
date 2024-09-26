@@ -1,0 +1,20 @@
+T1	SPECIES 10 24	virus Covid-19
+T2	SPECIES 63 99	cocs gram positius tipus estafilococ
+T3	SPECIES 118 157	colònies de: Staphylococcus epidermidis
+T4	SPECIES 131 157	Staphylococcus epidermidis
+T5	SPECIES 170 206	cocs gram positius tipus estafilococ
+T6	SPECIES 225 268	colònies de: Staphylococcus hominis hominis
+T7	SPECIES 238 268	Staphylococcus hominis hominis
+T8	SPECIES 88 99	estafilococ
+T9	SPECIES 63 81	cocs gram positius
+T10	SPECIES 170 188	cocs gram positius
+T11	SPECIES 195 206	estafilococ
+T12	PROCEDIMIENTO 40 50	Hemocultiu
+T13	PROCEDIMIENTO 101 107	Cultiu
+T14	PROCEDIMIENTO 208 214	Cultiu
+T15	SINTOMA 10 38	virus Covid-19: Indetectable
+T16	PROCEDIMIENTO 1 24	Detecció virus Covid-19
+T17	SINTOMA 40 81	Hemocultiu: S´observen cocs gram positius
+T18	SINTOMA 101 157	Cultiu: S'aillen colònies de: Staphylococcus epidermidis
+T19	SINTOMA 208 268	Cultiu: S'aillen colònies de: Staphylococcus hominis hominis
+T20	ENFERMEDAD 16 24	Covid-19

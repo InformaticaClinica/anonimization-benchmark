@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresada en [**NUMERO_IDENTIF**] por neumonía bilateral por COVID-19.
+VMNI con LAF 50/50, estancada respiratoriamente y con dímero D persistentemente elevado. Solicitamos angio-TC para descartar TEP.
+Gracias!!
+NEUMONIA BILATERAL POR SARS-COV-2
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Imagen de TEP subsegmnetario en segmento anterior LID
+Extensas opacidaes bilateerales en vidrio deslustrdao con zonas de empedrado, con estructuras vasculares dilatada en el seno de la sopacidades. Imágenes de organización incipiente en LLII.en el estudio de perfusón se observan zonas de hipoperfusión sin rin relación con el TEP.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+extensa neumonia COVID con organización incipiente.
+TEP subsegmentario en LID
+
+descrip:
+ANGIO TC PULMONAR

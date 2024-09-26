@@ -1,0 +1,44 @@
+T6	PROCEDIMIENTO 185 207	intubación orotraqueal
+T7	PROCEDIMIENTO 226 246	soporte respiratorio
+T8	PROCEDIMIENTO 390 393	IOT
+T9	PROCEDIMIENTO 1142 1156	oxigenoterapia
+T10	PROCEDIMIENTO 1297 1311	oxigenoterapia
+T11	PROCEDIMIENTO 1536 1544	TC tórax
+T12	PROCEDIMIENTO 1626 1637	corticoides
+T13	PROCEDIMIENTO 1692 1694	TC
+T14	PROCEDIMIENTO 422 430	extubado
+T15	PROCEDIMIENTO 515 554	BAS y PCR para Legionella, S. pneumonia
+T16	PROCEDIMIENTO 495 513	hemo/urinocultivos
+T17	PROCEDIMIENTO 567 599	cobertura antibiótica secuencial
+T18	PROCEDIMIENTO 1450 1468	radiogradia simple
+T19	PROCEDIMIENTO 472 478	VK 40%
+T20	PROCEDIMIENTO 1163 1180	lentillas nasales
+T21	SINTOMA 290 299	hipoxemia
+T22	SINTOMA 323 349	inestabilidad hemodinámica
+T23	SINTOMA 1346 1358	desaturación
+T24	ENFERMEDAD 143 169	Neumonía bilateral COVID19
+T25	ENFERMEDAD 358 372	fallo orgánico
+T26	ENFERMEDAD 1483 1504	neumonia organizativa
+T27	FARMACO 604 615	ceftriaxona
+T28	FARMACO 617 629	teicoplanina
+T29	FARMACO 631 654	piperacilina-tazobactam
+T30	FARMACO 657 670	levofloxacino
+T31	FARMACO 796 813	Hidroxicloroquina
+T32	FARMACO 824 835	Ceftriaxona
+T33	FARMACO 846 858	Azitromicina
+T34	FARMACO 869 876	Kaletra
+T35	FARMACO 887 898	Tocilizumab
+T36	FARMACO 910 918	Anakinra
+T37	FARMACO 931 943	Dexametasona
+T38	HUMANO 1 9	Paciente
+T39	SPECIES 676 704	aislamientos microbiológicos
+T40	HUMANO 964 972	paciente
+T41	HUMANO 1079 1087	paciente
+T42	SPECIES 530 540	Legionella
+T43	SPECIES 542 554	S. pneumonia
+T44	SINTOMA 1419 1443	infiltrados radiológicos
+T1	SINTOMA 260 284	empeoramiento progresivo
+T2	SINTOMA 1279 1311	requerimientos de oxigenoterapia
+T3	SINTOMA 1102 1120	mejoria progresiva
+T4	SINTOMA 1198 1247	mejoria progesiva de los reactantes de fase aguda
+T5	SINTOMA 1704 1711	mejoría

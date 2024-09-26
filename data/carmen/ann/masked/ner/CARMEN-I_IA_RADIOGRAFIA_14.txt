@@ -1,0 +1,13 @@
+
+***RADIOLOGÍA
+*RX TÓRAX ([**FECHAS**] del [**HOSPITAL**], recuperada del [**OTROS_SUJETO_ASISTENCIA**]): Condensaciones pulmonares bilaterales, periféricas, en campos superior e inferior. Sin otros hallazgos radiológicos destacables.
+CONCLUSION: Hallazgos compatibles con neumonía por COVID en el contexto epidemiológico actual.
+*TCAR ([**FECHAS**])
+No se observan adenopatías de tamaño patológico en los territorios ganglionares explorados en el estudio.Extensas opacidades en vidrio deslustrado bilaterales, difusas en pulmón derecho y periféricas en pulmón izquierdo, con zonas de crazy paving, algún pequeño foco consolidativo subpleural y ensanchamientovascular periférico. Estos hallazgos son compatibles con neumonía bilateral con patrón de probable COVID-19. No se identifican imágenes de neumonía organizativa ni fibrosis pulmonar en grado significativo.Leve derrame pleural derecho y mínimo izquierdo. No hay derrame pericárdico.
+Granuloma calcificado en LM.
+Conclusiones: Hallazgos compatibles con neumonía bilateral con patrón de probable COVID-19.
+*TCAR (control)
+Se compara con TC torácica previa realizada el [**FECHAS**]: Ateromatosis calcificada en arterias coronarias y en anillo valvular mitral. CVC con extremo en VCS. Adenopatía subcarinal (16 mm) y adenopatía paratraqueal derecha baja (11mm), inespecíficas. Evolución de las áreas en vidrio deslustrado en lóbulos superiores observadas en TC previa, observándose ahora patrón de crazy paving y consolidaciones, asociadas a dilataciones bronquiales. Sugestivo de evolución de la neumonia COVID. En lóbulos inferiores las imágenes en vidrio deslustrado observadas en el estudio han evolucionado a un patrón con bandas subpleurales en resolución. Leve derrame pleural derecho y mínimo izquierdo, sin cambios. No hay derrame pericárdico. Granuloma calcificado en LM.
+Conclusiones / Conclusions
+Evolución del patrón de neumonía COVID19 observado en TC previa realizada el [**FECHAS**], observándose ahora patrón consolidativo en lóbulos superiores y cambios resolutivoe en LLII.
+ 

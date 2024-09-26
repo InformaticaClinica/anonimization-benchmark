@@ -1,0 +1,31 @@
+
+prueba:
+TC UROGRAFIA
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**]. HTA. Neumonía por COVID ([**FECHAS**]). Traqueostomía con weaning prolongado. Sepsis sin foco, en hemocultivos crecimiento de BGN.
+Sospechamos foco genitourinario por hematuria autolimitada. Solicitamos TAC toraco-abdominal para filiar foco. Actualmente hemodinamicamente estable.
+
+protocolo:
+TC TORACOABDOMINAL basal y tras administración de contraste e.v., con posterior adquisición en fases arterial (tórax), nefrográfica y excretora (abdomen).
+
+resultados:
+Presencia de artefactos en todas las fases del estudio.
+Riñones de morfología conservada con correcta captación y excreción de contraste, sin dilatación de la vía excretora. No se identifican focos de nefritis ni abscesos renales/perirrenales. Los artefactos presentes en el estudio dificultan la valoración fina de la vía excretora intrarrenal, pero no observamos lesiones significativas.
+Vejiga urinaria colapsada, de pared no valorable.
+Glándula prostática de gran tamaño (aproximadamente 8,5 cm de diámetro craneocaudal y 6 cm de diámetro transverso), con importante protrusión en el suelo de la vejiga urinaria. El globo de la sonda vesical está situado en la uretra prostática. Pequeñas imágenes quísticas en el parénquima prostático a ambos lados de la uretra; las imágenes no son específicas pero en contexto séptico pueden traducir abscesos prostáticos.
+SNG con extremo distal en primera porción duodenal.
+Hígado homogéneo de morfología normal, sin lesiones focales sospechosas.
+Vesícula biliar de tamaño y morfología normal. No dilatación de la vía biliar.
+Vena porta y eje espleno-mesentérico permeables. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad.
+Asas intestinales de calibre normal con adecuado realce de sus paredes.
+No se identifican adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Pequeña cantidad de líquido libre intraabdominal subhepático.
+
+conclusiones:
+Próstata de gran tamaño; la sonda urinaria presenta solamente su extremo en el interior de la vejiga, el globo de la sonda está situado en la uretra prostática. Pequeñas imágenes quísticas en el parénquima prostático periuretral, no específicas, que en contexto séptico pueden traducir abscesos.
+No observamos lesiones renales ni en la vía excretora superior. Vejiga no replecionada (pared no valorable).
+
+descrip:
+TC UROGRAFIA

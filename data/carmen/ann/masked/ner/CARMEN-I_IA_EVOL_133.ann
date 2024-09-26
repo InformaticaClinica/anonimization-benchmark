@@ -1,0 +1,55 @@
+T14	PROCEDIMIENTO 418 451	frotis nasofaríngeo para Covid-19
+T15	PROCEDIMIENTO 931 953	trombólisis endovenosa
+T16	PROCEDIMIENTO 956 977	trombectomía mecánica
+T17	PROCEDIMIENTO 1112 1123	TC de tórax
+T18	PROCEDIMIENTO 1282 1308	tratamiento antitrombótico
+T19	PROCEDIMIENTO 1958 1979	tratamiento antiviral
+T20	PROCEDIMIENTO 2613 2639	tratamiento anticoagulante
+T21	PROCEDIMIENTO 1602 1613	aislamiento
+T22	SINTOMA 1364 1369	vigil
+T23	SINTOMA 1372 1378	alerta
+T24	SINTOMA 1418 1430	afasia mixta
+T25	SINTOMA 1682 1707	hemodinámicamente estable
+T26	SINTOMA 1713 1725	afasia mixta
+T27	SINTOMA 2012 2024	asintomática
+T28	SINTOMA 2203 2209	fiebre
+T29	SINTOMA 2294 2326	afasia mixta de predominio motor
+T30	SINTOMA 2332 2387	fuerza y sensibilidad conservadas en las 4 extremidades
+T31	ENFERMEDAD 4 75	ICTUS ISQUÉMICO AGUDO EN TERRITORIO DE ARTERIA CEREBRAL MEDIA IZQUIERDA
+T32	ENFERMEDAD 107 128	FIBRILACIÓN AURICULAR
+T33	ENFERMEDAD 133 164	INFECCIÓN PULMONAR POR COVID-19
+T34	ENFERMEDAD 694 715	fibrilación auricular
+T35	ENFERMEDAD 749 839	ictus isquémico en territorio de ACMI, de etiología cardioembólica por infradescoagulación
+T36	ENFERMEDAD 895 900	ictus
+T37	ENFERMEDAD 1059 1102	infección por pneumococo y Coronavirus OC43
+T38	SPECIES 1086 1102	Coronavirus OC43
+T39	ENFERMEDAD 1177 1202	infección por SARS- coV-2
+T40	ENFERMEDAD 1485 1503	infección COVID-19
+T41	ENFERMEDAD 1562 1586	Enfermedades Infecciosas
+T42	FARMACO 551 556	LPV/r
+T43	FARMACO 559 562	HCQ
+T44	FARMACO 565 577	azitromicina
+T45	FARMACO 608 631	piperacilina-tazobactam
+T46	FARMACO 1313 1324	enoxaparina
+T47	FARMACO 1898 1917	Lopinavir/Ritonavir
+T48	FARMACO 1920 1932	Azitromicina
+T49	FARMACO 1935 1952	Hidroxicloroquina
+T50	FARMACO 2127 2134	oxígeno
+T51	FARMACO 2525 2544	Lopinavir/Ritonavir
+T52	FARMACO 2556 2573	Hidroxicloroquina
+T53	FARMACO 2586 2598	Azitromicina
+T54	FARMACO 2652 2660	Edoxabán
+T55	HUMANO 222 234	convivientes
+T56	HUMANO 304 338	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T57	HUMANO 649 657	paciente
+T58	HUMANO 1350 1358	paciente
+T59	HUMANO 1659 1667	paciente
+T60	HUMANO 2451 2459	familiar
+T61	ENFERMEDAD 84 102	OCLUSIÓN M2 DISTAL
+T62	ENFERMEDAD 982 997	oclusión distal
+T63	SPECIES 1073 1083	pneumococo
+T64	SPECIES 1191 1202	SARS- coV-2
+T65	SINTOMA 1764 1822	buena compresión del lenguaje sin nominación ni repetición
+T66	SINTOMA 1824 1870	Moviliza las 4 extremidades de forma simétrica
+T1	SINTOMA 2079 2134	disminución progresiva de los requerimientos de oxígeno
+T2	ENFERMEDAD 443 451	Covid-19

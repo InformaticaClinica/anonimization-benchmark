@@ -1,0 +1,39 @@
+T12	SINTOMA 6 19	ritmo sinusal
+T13	SINTOMA 25 46	alteraciones en el QT
+T14	SINTOMA 78 107	patrón intersticial bilateral
+T15	SINTOMA 728 753	Espacios pleurales libres
+T16	SINTOMA 777 866	focos en vidrio deslustrado bilaterales y difusos de distribución periférica y subpleural
+T17	SINTOMA 982 1024	consolidación en forma de banda subpleural
+T18	SINTOMA 1036 1050	imagen nodular
+T19	SINTOMA 1055 1105	halo reverso en el segmento basal anterior del LID
+T20	SINTOMA 1146 1164	cambios fibróticos
+T21	SINTOMA 1317 1342	empeoramiento radiológico
+T22	SINTOMA 212 229	líquido en cisura
+T23	SINTOMA 387 410	infiltrados bilaterales
+T24	SINTOMA 1362 1393	lesiones pulmonares bilaterales
+T25	ENFERMEDAD 241 252	atelectasia
+T26	ENFERMEDAD 434 486	Adenopatías mediastínicas paratraqueales bilaterales
+T27	ENFERMEDAD 539 560	adenopatía subcarinal
+T28	ENFERMEDAD 611 631	adenopatías axilares
+T29	ENFERMEDAD 657 683	Calcificaciones coronarias
+T30	ENFERMEDAD 694 726	ateromatosis calcificada aórtica
+T31	ENFERMEDAD 914 922	COVID-19
+T32	ENFERMEDAD 1119 1140	neumonía organizativa
+T33	ENFERMEDAD 1274 1282	COVID-19
+T34	ENFERMEDAD 1429 1477	Atelectasia del segmento basal posterior del LII
+T35	ENFERMEDAD 1479 1494	Hernia de hiato
+T36	ENFERMEDAD 1496 1515	Adenoma suprarrenal
+T37	PROCEDIMIENTO 1 4	ECG
+T38	PROCEDIMIENTO 47 55	RX TÓRAX
+T39	PROCEDIMIENTO 108 116	RX TÓRAX
+T40	PROCEDIMIENTO 148 156	RX TÓRAX
+T41	PROCEDIMIENTO 253 261	RX TÓRAX
+T42	PROCEDIMIENTO 293 301	RX TÓRAX
+T43	PROCEDIMIENTO 333 341	RX TÓRAX
+T44	PROCEDIMIENTO 411 419	TC TÓRAX
+T45	PROCEDIMIENTO 1400 1411	RX de tórax
+T46	PROCEDIMIENTO 1623 1625	Rx
+T47	SINTOMA 1259 1306	afectación por COVID-19 en las bases pulmonares
+T48	PROCEDIMIENTO 1577 1585	RX TÓRAX
+T49	PROCEDIMIENTO 1639 1647	RX TÓRAX
+T1	PROCEDIMIENTO 1331 1342	radiológico

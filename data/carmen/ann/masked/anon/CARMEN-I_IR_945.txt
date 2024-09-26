@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente covid+, neumonia bilateral con empeoramiento clinico, disminución de PO2, dimero D persistentemente elevado, aumento de requerimiento de O2, aumento de ferritina. Solicitamos Andiotc urg.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+Artefactos por movimientos repiratorios que dificulta evaluación de la prueba.
+No se observan claros defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Patrón pulmonar con opacidades en vidrio delustrado bilaterales con pequeñas consolidaciones y bronquioloectasias de tracción, de claro predominio en bases pulmonares. Patrón compatible con afectación moderada-severa por COVID.
+Cátetrer de vía central con entrada en v. yugular interna y extremo distal en VCS. Portador de SNG.
+Nódulo hipodenso de 5 mm en lóbulo tiroideo izquierdo.
+
+conclusiones:
+No se observan signos claros de TEP.
+Patrón pulmoanr compatible con afectación severa por COVID en el contexto actual.
+
+descrip:
+ANGIO TC PULMONAR

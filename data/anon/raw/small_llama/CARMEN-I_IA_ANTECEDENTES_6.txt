@@ -1,0 +1,9 @@
+ Varón de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias medicamentosas conocidas. No hábitos tóxicos. Vive en [**TERRITORIO**] con su marido y un hijo (tiene 2 yernos, abuelo vive fuera de [**TERRITORIO**]). IABVD. Autónomo, actualmente preocupado por situación laboral (realizaba trabajo como [**PROFESION**]).
+* ANTECEDENTES FAMILIARES: No refiere.
+* ANTECEDENTES PATOLÓGICOS:
+1.- [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento con [**MEDICAMENTO**].
+2.- [**FAMILIARES_SUJETO_ASISTENCIA**] diagnosticada hace años. Desde hace aproximádamente un mes (Febrero-Marzo), refiere comienzo de [**MEDICAMENTO**] cada día por [**SÍNTOMA**] que ha aumentado en frecuencia.
+3.- [**FAMILIARES_SUJETO_ASISTENCIA**] EN ESTUDIO. Desde hace aproximádamente un año (mediados de 2020) refiere inicio de [**SÍNTOMA**] punzante de forma intermitente, no relacionado con esfuerzo, sin cortejo vegetativo ni disnea, no irradiado y que no empeora con los movimientos respiratorios aunque sí se modifica con los cambios posturales. Respuesta parcial a [**MEDICAMENTO**], no se modifica con el [**MEDICAMENTO**]. Se ha realizado estudio mediante [**ESTUDIO**] previos y [**ESTUDIO**] donde no se han evidenciado alteraciones. No tiene prueba de esfuerzo ni estudio [**ESTUDIO**] o [**ESTUDIO**].
+4.- [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento con [**MEDICAMENTO**] a demanda (2 comprimidos al día aproximádamente) por situación laboral actual en contexto de pandemia de Covid-19.
+* ANTECEDENTES QUIRÚRGICOS: No refiere.
+* MEDICACIÓN HABITUAL (actualizada a fecha de 25/11/2021): [**MEDICAMENTO**] 20 mg/24h, [**MEDICAMENTO**] 40 mg/24 horas.

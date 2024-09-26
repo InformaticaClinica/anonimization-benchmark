@@ -1,0 +1,43 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente PO3 de DPC open. Febril, con PCR 36, leucos de 13. Sospecha covid, pendiente de frotis. Agradezco TC toracoabdominal (descartar causas abdominales de sepsis.). Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC TORACOABDOMINAL en fase portal urgente.
+
+resultados:
+Se compara con el TC previo del [**FECHAS**]:
+Catéter yugular derecho con extremo distal que hace un bucle en VCS.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+No se identifica derrame pleural ni pericárdico.
+Atelectasias laminares y adhesivas en ambos LLII y en LSD.
+SNG con extremo distal en el estómago.
+Cambios postquirúrgicos por duodenopancreatectomía cefálica y colecistectomía.  Tutor pancreático.
+Dos drenajes quirúrgicos con entrada en vacío izquierdo, uno de ellos con extremo distal en raíz mesentérica y el segundo subhepático en LHI.
+Tercer drenaje con entrada en vacío derecho y extremo distal en el hilio hepático.
+Discreto enfisema y hematoma subcuáneo en pared abdominal derecha subyacente a las grapas quirurgicas.
+Trabeculación y aumento de la densidad de la grasa así como líquido libre a nivel peripancreático, raíz del mesenterio, saco menor, ligamento gastrohepático y en lecho vesicular.
+Pequeña cantidad de liquido pseudocoleccionado precaval y en gotiera paracólica derecha con algun nivel hemático en su interior. Discreto hemoperitoneo en pelvis. No se observan colecciones intraabdominales.
+Moderada cantidad de neumoperitoneo de predominio en hemiabdomen superior, residual a la cirugía reciente.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Hepaticoyeyunostomía. Vía bilira no dilatada. Leve engrosamiento e hipercaptación de las paredes del conducto hepático común y del radical biliar izquierdo, hallazgos que pueden ser secundarios a la cirugía reciente vs colangitis.
+Vena porta y eje esplenomesentérico permeables.
+Bazo de tamaño normal sin alteraciones.
+Glándula suprarrenal derecha sin alteraciones. Nódulo suprarrenal izquierdo de 30 mm, estable.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+Ganglios de tamaño borderline en receso cardiofrénico derecho, preesofágica baja y en raíza mesentérica. No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Diverticulosis sigmoidea.
+Sondaje vesical.
+
+conclusiones:
+Catéter yugular derecho con extremo distal que hace un bucle en VCS.
+Cambios postquirúrgicos por duodenopancreatectomía cefálica y colecistectomía. Pneumoperitoneo, probablemente residual a la cirugía reciente.
+Trabeculación y aumento de la densidad de la grasa así como líquido libre a nivel peripancreático, raíz del mesenterio, saco menor, ligamento gastrohepático y en lecho vesicular y pequeña cantidad de liquido pseudocoleccionado precaval y en gotiera paracólica derecha con algun nivel hemático en su interior. Discreto hemoperitoneo en pelvis.
+Hepaticoyeyunostomía. Leve engrosamiento e hipercaptación de las paredes de la vía biliar, hallazgos que pueden ser secundarios a la cirugía reciente o colangitis.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

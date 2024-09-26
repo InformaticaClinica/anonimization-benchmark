@@ -1,0 +1,37 @@
+
+prueba:
+PET TC COS SENCER FDG
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedentes de ALEGIA A CONTRASTE IODADO. HTA, DL, DM (insulinodependiente) con Obesidad mórbida que requirió by pass gástrico, Cardioipatía isquémica portador de 5ple bypass, Ac x FA en anticoagulación con sintrom, SAHOS portador de CPAP, ADK de pulmón [**FECHAS**] ( RFT+ Lobectomía LID) al momento libre de enfermedad portador de Trasplante renal de donate cadaver [**FECHAS**] en inmunosupresión crónica con tacrolimus, everolimus y PDN. Que ingresa para estudio de dolor lumbar bilateral con sd adenopático con evidencia en TC de grandes adenopatía retorperitoneales, pericava u¡y cadena iliaca, asi como lesión en injerto renal mal delimitado y adenopatías que hacen pensar en una posible etiologia urotelial o hematològica.
+Tumoracions en la localització de les vesícules seminales y un nódulo en el conducto deferente izq.
+Rogamos valoración por sospecha de tm metastásico.
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 124 min después de la inyección endovenosa de 9,77 mCi de FDG.
+Se administra contraste oral.
+Glucemia en el momento de la inyección: 211 mg/dL.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria a través del injerto renal situado en la FID y la vejiga.
+Nódulo tiroideo izquierdo levemente hipermetabólico, a valorar mediante ecografía cervical.
+Se visualizan adenopatías hipermetabólicas, patológicas en la región paratraqueal derecha (SUV max 12,5), hiliar derecha y supraclavicular izquierda (SUV max 7,3).
+Se visualizan dos engrosamientos pleurales hipermetabólicos en el hemitórax derecho (SUV max 11.3-14.4) sugestivos de malignidad. Leve derrame pleural bilateral.
+Adenopatía retrocrural derecha (SUV max 15.7 y 17 mm).
+Se visualiza actividad metabólica en la vejiga urinaria, cuya interpretación que está interferida por la actividad fisiológica de eliminación, por lo que no se puede valorar la pared vesical. Se visualiza masa hipermetabólica que afecta a la vesícula seminal derecha y, probablmente, la izquierda, que muestra una distribución heterogénea con centros fríos atribuibles a necrosis, que sugiere malignidad.
+Se visualiza un nódulo hipermetabólico (SUV max 16.2) adyacente al trayecto ureteral del injerto renal y otro adyacente al polo superior del injerto (SUV max 15.7), sugestivos de malignidad.
+Se visualizan otros nódulos hipermetabólicos pelvianos izquierdos, paravesicales, patológicos.
+Masa hipermetabólica (SUV max 17.59) que discurre anterior al ms. psoas, infiltrándolo, y se extiende hasta la salida de los vasos renales. Se visualizan múltiples adenopatías retroperitoneales hipermetabólicas, sugestivas de infiltración, una de ellas se localiza anterior a la aorta y muestra íntimo contacto con la pared del vaso (SUV max 12.3), y una retrocaval localizada adyacente a la gl. suprarrenal derecha.
+Adenopatía peripancreática infracentimétrica hipermetabólica (SUV max 8).
+Masa hipermetabólica (SUV max 13.78) y un segundo nódulo en el hilio hepático.
+Nódulo hipermetabólico en el ligamento gastrohepático (SUV max 5.3).
+No se visualizan lesiones óseas hipermetabólicas.
+
+conclusiones:
+Estudio PET-TC con FDG que muestra una masa pelviana que engloba las vesículas seminales, con nódulos sugestivos de malignidad en la pelvis, alguno de ellos adyacente al injerto renal de la FID. Múltiples adenopatías retroperitoneales y en el hemiabdomen superior y retrocrural derecha. Masa en el hilio hepático y lig. gastrohepático.
+Adenopatías mediastínica e hiliar derechas y supraclavicular izquierda.
+Implantes pleurales en el hemitórax derecho.
+
+descrip:
+PET TC COS SENCER FDG

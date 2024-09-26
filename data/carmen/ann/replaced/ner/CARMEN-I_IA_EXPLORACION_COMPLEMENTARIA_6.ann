@@ -1,0 +1,33 @@
+T2	ENFERMEDAD 950 959	TEP agudo
+T3	ENFERMEDAD 1027 1084	Ateromatosis calcificada aórtica y de arterias coronarias
+T4	ENFERMEDAD 1232 1253	hipertensión pulmonar
+T5	ENFERMEDAD 1272 1308	adenopatías axilares o mediastínicas
+T6	ENFERMEDAD 1321 1354	Leve-moderado derrame pericárdico
+T7	ENFERMEDAD 1393 1440	Leve derrame pleural izquierdo y mínimo derecho
+T8	ENFERMEDAD 1452 1463	atelectasia
+T9	ENFERMEDAD 1724 1763	proceso infeccioso de pequeña vía aérea
+T10	ENFERMEDAD 1765 1778	bronquiolitis
+T11	ENFERMEDAD 2004 2036	afectación pulmonar por COVID-19
+T12	ENFERMEDAD 2186 2195	TEP agudo
+T13	ENFERMEDAD 2280 2301	hipertensión pulmonar
+T14	ENFERMEDAD 2305 2338	Leve-moderado derrame pericárdico
+T15	ENFERMEDAD 2341 2371	leve derrame pleural bilateral
+T16	ENFERMEDAD 2449 2488	proceso infeccioso de pequeña vía aérea
+T17	ENFERMEDAD 2490 2503	bronquiolitis
+T18	ENFERMEDAD 992 1025	ventrículo izquierdo hipertrófico
+T19	ENFERMEDAD 2038 2083	Atelectasias laminares bibasales y en língula
+T20	ENFERMEDAD 2555 2564	COVID- 19
+T21	SINTOMA 1497 1549	Leve engrosamiento difuso de las paredes bronquiales
+T22	SINTOMA 1569 1595	nódulos centrolobulillares
+T23	SINTOMA 1787 1828	opacidad en vidrio deslustrado subpleural
+T24	PROCEDIMIENTO 2 21	ANALITICA SANGUINEA
+T25	PROCEDIMIENTO 840 847	ANGIOTC
+T26	SINTOMA 885 936	defectos de repleción en el árbol arterial pulmonar
+T27	ENFERMEDAD 961 974	Cardiomegalia
+T28	SINTOMA 1086 1133	Aorta torácica ascendente de calibre prominente
+T29	ENFERMEDAD 1143 1197	Dilatación del tronco principal de la arteria pulmonar
+T30	SINTOMA 1600 1624	patrón de árbol en brote
+T31	ENFERMEDAD 2220 2253	Dilatación de la arteria pulmonar
+T32	PROCEDIMIENTO 35 45	BIOQUÍMICA
+T33	PROCEDIMIENTO 395 404	HEMOGRAMA
+T34	PROCEDIMIENTO 800 810	HEMOSTÀSIA

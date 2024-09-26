@@ -1,0 +1,47 @@
+T12	ENFERMEDAD 47 58	ex fumadora
+T13	ENFERMEDAD 162 165	HTA
+T14	ENFERMEDAD 167 177	dislipemia
+T15	ENFERMEDAD 243 260	fallo del injerto
+T16	ENFERMEDAD 441 474	trombosis venosa profunda de EEII
+T17	ENFERMEDAD 821 842	hipertensión arterial
+T18	ENFERMEDAD 1306 1339	neumonía bilateral por SARS-CoV-2
+T19	ENFERMEDAD 1590 1600	hipertensa
+T20	FARMACO 404 414	tacrolimus
+T21	FARMACO 417 425	myfortic
+T22	FARMACO 428 438	prednisona
+T23	FARMACO 1487 1499	Dexametasona
+T24	HUMANO 0 5	Mujer
+T26	HUMANO 1343 1351	paciente
+T27	HUMANO 1554 1562	paciente
+T28	PROCEDIMIENTO 60 93	Vacunación con 3 dosis de Moderna
+T29	PROCEDIMIENTO 179 195	trasplante renal
+T30	PROCEDIMIENTO 280 290	trasplante
+T31	PROCEDIMIENTO 373 399	tratamiento inmunosupresor
+T32	PROCEDIMIENTO 909 927	Exploración física
+T33	PROCEDIMIENTO 1004 1023	Gasometría arterial
+T34	PROCEDIMIENTO 1073 1092	Analítica sanguínea
+T35	PROCEDIMIENTO 1205 1214	hemograma
+T36	PROCEDIMIENTO 1240 1260	Radiografía de tórax
+T37	PROCEDIMIENTO 1651 1669	Exploración física
+T38	SINTOMA 534 541	cefalea
+T39	SINTOMA 543 551	mialgias
+T40	SINTOMA 554 560	fiebre
+T41	SINTOMA 605 612	diarrea
+T42	SINTOMA 746 752	disnea
+T43	SINTOMA 779 804	estable hemodinámicamente
+T44	SINTOMA 848 859	taquicardia
+T45	SINTOMA 861 869	eupneica
+T46	SINTOMA 900 907	afebril
+T47	SINTOMA 939 958	crepitantes en base
+T48	SINTOMA 1265 1288	infiltrados bilaterales
+T49	SINTOMA 1563 1588	estable hemodinámicamente
+T50	SINTOMA 1603 1610	afebril
+T51	SINTOMA 1674 1693	crepitantes en base
+T53	SPECIES 1329 1339	SARS-CoV-2
+T54	PROCEDIMIENTO 636 639	TAg
+T55	SINTOMA 636 660	TAg que resulta positivo
+T56	SINTOMA 1058 1071	pH conservado
+T57	SINTOMA 1115 1146	función renal crónica agudizada
+T58	ENFERMEDAD 1219 1229	citopenias
+T59	PROCEDIMIENTO 1352 1370	trasplantada renal
+T60	PROCEDIMIENTO 1635 1644	lentillas

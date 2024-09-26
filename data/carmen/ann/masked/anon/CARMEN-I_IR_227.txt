@@ -1,0 +1,37 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Sospecha de falsa vía traquea, neumotórax y neumomediastino. Descartar lesión vía aérea. Descartar TEP en paciente COVID-19
+NEUMONÍA BILATERAL POR SARS CoV2 + NEUMONÍA NEUMOC
+
+protocolo:
+Se realiza angioTC urgente + TACAR.
+
+resultados:
+Traqueotomía e intubación traqueal con extremo a 1 cm de la carina.
+Portadora de SNG. Drenaje torácico con acceso en 4º espacio intercostal derecho y extremo distal a nivel paravertebral derecho. Vía central con acceso yugular izquierdo.
+Importante enfisema subcutáneo en pared torácica anterior y lateral derecha. Neumomediastino que diseca planos grasos a nivel prevascular y visceral y presenta extensión caudal hacia el retroperitoneo.
+Neumoperitoneo de distribución predominante en flanco derecho. No se identifican imágenes de ruptura de la pared traqueal mediante TC.
+Arterias pulmonares principales y ramas lobares permeables sin defectos de repleción sugestivos de TEP central. Las ramas segmentarias y subsegmentarias son de más difícil valoración (dada la calidad del estudio), si bien no se identifican claras imágenes de TEP. Tronco de la arteria pulmonar de calibre normal. No hay signos de sobrecarga cardíaca derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Leve derrame pleural izquierdo. No se observa derrame pleural derecho ni pericárdico.
+Atelectasia subtotal del LII con broncograma líquido.
+Atelectasias en LLSS en zonas de decúbito.
+Focos consolidativos y en vidrio deslutrado bilaterales de distribución peribroncovascular y periférica compatible con neumonía por COVID-19.
+Importante consolidación en LID con broncograma aéreo, a descartar sobreinfección.
+
+conclusiones:
+Tubo endotraqueal con extremo a 1 cm de la carina.
+Enfisema subcutáneo en pared torácica anterior y lateral derecha.
+Neumomediastino con extensión caudal hacia el retroperitoneo.
+Neumoperitoneo de distribución predominante en flanco derecho.
+No se identifican imágenes que permitan sugerir rotura traqueal.
+Sin evidencia de TEP agudo en la exploración actual.
+Hallazgos sugestivos de neumonía por COVID-19. Consolidación en LID, a descartar sobreinfección.
+Atelectasias en zonas de decúbito en LLSS.
+Leve derrame pleural izquierdo y atelectasia del LII.
+
+descrip:
+ANGIO TC PULMONAR

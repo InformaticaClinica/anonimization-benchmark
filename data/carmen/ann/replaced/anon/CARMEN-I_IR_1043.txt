@@ -1,0 +1,17 @@
+
+prueba:
+CATETER SIN TRACTO SUBCUTANEO
+
+clinica:
+Paciente de 62 años, tx cardíaco en marzo 2012, ingreso por rechazo humoral con disf ventricular. Durante ingreso infección por covid asintomático. Solicitamos catéter para aféresis, gracias!
+RECHAZO
+
+protocolo:
+CATETER SIN TRACTO SUBCUTANEO
+
+conclusiones:
+Bajo guía ecográfica y escopia se coloca catéter de tres luces y 15 cm en por vena yugular derecha. Extremo en unión atriocaval.
+Sin incidencias durante el procedimiento.
+
+descrip:
+CATETER SIN TRACTO SUBCUTANEO

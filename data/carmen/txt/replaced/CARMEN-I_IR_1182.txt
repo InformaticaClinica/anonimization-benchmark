@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresado por neumonía por COVID. Tto completado peros persistencia de necesidades de =2 elevadas. Ruego descartar TEP.
+Gracias!
+Neumonia por COVID19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco común de la arteria pulmonar.
+Ateromatosis calcificada en la rama descendente anterior de las arterias coronarias. No se observa derrame pleural ni pericárdico. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Focos consolidativos bilaterales y con disposición periférica, conformando bandas subpleurales, con dilataciones bronquiolares y alguna imagen en halo reverso, todo ello compatible con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+Colelitiasis.
+
+conclusiones:
+No se observa TEP.
+Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+
+descrip:
+ANGIO TC PULMONAR

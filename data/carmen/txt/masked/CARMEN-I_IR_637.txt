@@ -1,0 +1,27 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con diverticulitis complicada previa que tras finalizar tratamiento antibiótico con Piperacilina tazobactam, presenta analítica de sepsis. Además, COVID19 intercurrente en este contexto, con RxT normal.
+Comentado con vosotros telefónicamente. Ruego TC para descartar complicaciones
+COVID 19
+
+protocolo:
+TC ABDOMINOPELVICO URGENTE con contraste ev, realizándose el estudio en fase portal.
+
+resultados:
+Se compara con TC previa del [**FECHAS**].
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales.
+Vesícula, vía biliar, páncreas, riñones y glándulas suprarenales sin alteraciones significativas.
+Vena porta y eje espleno-mesentérico permables.
+Esplenomegalia homogénea (14 cm).
+Leve diverticulosis de sigma.Retirada del drenaje percutáneo. Marcada disminución del engrosamiento parietal del segmento de colón sigmoide afecto en estudios previos. No se observa líquido libre ni colecciones intraabdominales.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Bases pulmonares con parénquima pulmonar sin alteraciones destacables.
+
+conclusiones:
+Se compara con TC previa del [**FECHAS**], observándose retirada del drenaje percutáneo con marcada disminución del engrosamiento parietal del segmento de colón sigmoide afecto en estudios previos. No se observa líquido libre ni colecciones intraabdominales.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

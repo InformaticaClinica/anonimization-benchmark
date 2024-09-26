@@ -1,0 +1,31 @@
+
+prueba:
+TC TORAX
+
+clinica:
+PAciente con neumonía COVID-19 + neumonía necrotizante por S.aureus + TEP agudo + neumotórax anterior drenado + hematoma pélvico espontáneo que se embolizó. Interesa TC body para valoración evolutiva de la enfermedad pulmonar y del hematoma pelvico, a nivel clinico sin mejoria.
+Muchas gracias!
+Shock hemorrágico.
+
+protocolo:
+TC de Tórax en fase arterial y tardía tras administración de contraste iv.
+
+resultados:
+Se compara con TC previo del [**FECHAS**].
+Defecto de repleción cabalgante en la rama de la arteria pulmonar para el lóbulo superior derecho que se extiende a las tres ramas segmentarias, compatible con TEP agudo conocido. Defecto de repleción en una rama subsegmentaria del segmento basal posterior del lóbulo inferior derecho compatible con TEP agudo conocido, con infarto pulmonar en territorio aferente. Todo esto sin cambios.
+Adenopatías mediastínicas a nivel de los espacios prevascular, paratraqueal izquierdo, subcarinal e hiliares bilaterales, estables. No se observan adenopatías axilares de tamaño patológico.
+Moderado derrame pleural izquierdo de aspecto loculado y leve derrame pleural derrecho, actualmente con discreto neumotórax asociado. Tubos de drenaje pleural bilaterales. No se observa derrame pericárdico.
+En la actualidad, se observan mayor cantidad de parénquima pulmonar aireado respecto a TC previo, con disminución de las ocupaciones bronquiales y de las atelectasias secundarias, persistiendo aun en los segmento más distales del árbol bronquial.
+Persistencia de las múltiples cavidades aéreas secundarias observadas en TCs previos en relación a sonbreinfección conocida con (S. Aureus), actualmente con importante disminución de la ocupación líquida descrita en TC previo. Extensas consolidaciones de predominio en LLII, algunas de ellas hipodensas, asociadas a áreas en vidrio deslustrado, importantes dilataciones bronquiales, distorción arquitectural, todo esto en relación neumonía COVID19 conocida con importantes cambios organizativos.
+Los hallazgos parenquimatosos descritos, en su conjunto, presentan mejoría radiológica respecto a TC previo.
+Persiste sin cambios la colección líquida intrarticular en la articulación glenohumeral derecha, con captación de contraste que podría sugerir infección.
+TOT con extremo distal a 42 mm de la carina. Catéter de hemodiálisis de acceso yugular derecho y dos catéteres venosos centrales de acceso yugular y subclavio izquierdo con extremo distal en VCS. SNG con extremo distal en antro gástrico.
+
+conclusiones:
+En la actualidad, se observan mayor cantidad de parénquima pulmonar aireado respecto a TC previo, con disminución de las ocupaciones bronquiales y atelectasias secundarias. Disminución del contenido líquido de las cavidades aéreas concoidas. Extensas consolidaciones de predominio en LLII, algunas de ellas hipodensas, asociadas a áreas en vidrio deslustrado, importantes dilataciones bronquiales y distorción arquitectural, todo esto en relación neumonía COVID19 conocida con importantes cambios organizativos. Los hallazgos parenquimatosos descritos, en su conjunto, presentan mejoría radiológica respecto a TC previo.
+Moderado derrame pleural izquierdo de aspecto loculado y leve derrame pleural derrecho, actualmente con discreto neumotórax asociado. Tubos de drenaje pleural bilaterales.
+Persiste sin cambios la colección líquida intrarticular en la articulación glenohumeral derecha, con captación de contraste sugestiva de infección.
+Resto, sin cambios.
+
+descrip:
+TC TORAX

@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumonia por covid con aumento de DDimero , anticoaguladoi por sospecha de TEP.
+AngioTC para descartar /confirmar
+Gracias
+NEUMONIA
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Exploración artefactuada por movimientos respiratorios.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Discreto neumomediastino anterior.
+No se observa derrame pleural ni pericárdico.
+No se observa TEP.
+Consolidacions periféricas en campos mediso y superiore y más extensas em campos inferiores. asociado a dilataciones bronquiales irregulares compatible con neumonia COVID con cambios "fibróticos" tributarios de valorar evolutivamente su irreversibilidad.
+
+conclusiones:
+Neumomediastino. Neumonia COVID con cambios "fibróticos" tributarios de valorar evolutivamente su irreversibilidad.
+
+descrip:
+TC TORAX
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,27 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente ingresado en la SalaUCI por neumonia por COVID 19, intubado .
+En analitica de control Bi de 6, Conjugada de 4, GGT 550.
+Agradeceriamos valoración con eco abdominal para descartar coledocolitiasis Gracias.
+SOSPECHA COVID 19
+
+protocolo:
+Ecografía portátil urgente.
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. Vena porta permeable de calibre normal y flujo hepatopetal.
+Vesícula biliar distendida, de paredes finas y sin litiasis. Vía biliar no dilatada. No se observan colecciones perivesiculares ni peribiliares, ni signos sugestivos de patología aguda de la vía biliar.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. No se observa líquido libre, colecciones perirrenales ni otros signos que sugieran patología aguda de la vía urinaria.
+Sondaje vesical.
+No se observa líquido libre ni colecciones intraabdominales. Tampoco se evidencia derrame pleural.
+
+conclusiones:
+Exploración dentro de la normalidad, sin signos de patología aguda de la vía biliar ni de la vía excretora.
+
+descrip:
+ECO BASAL (ABDOMEN)

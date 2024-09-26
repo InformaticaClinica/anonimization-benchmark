@@ -1,0 +1,46 @@
+T11	SINTOMA 2263 2321	opacidades pulmonares en campos inferiores y medio derecho
+T12	SINTOMA 2426 2474	opacidades alveolares en campos medio e inferior
+T13	SINTOMA 39 68	patrón intersticial bilateral
+T14	SINTOMA 149 188	Áreas de vidrio deslustrado periféricas
+T15	SINTOMA 275 356	Defecto de repleción en rama segmentaria posterior de la arteria pulmonar derecha
+T16	SINTOMA 438 464	Hematoma del músculo psoas
+T17	SINTOMA 484 561	líquido libre intraabdominal de predominio perirrenal derecho y periesplénico
+T18	SINTOMA 595 610	sangrado activo
+T19	SINTOMA 627 692	defectos de repleción en las venas ilíacas, femorales o poplíteas
+T20	SINTOMA 764 816	hematoma retroperitoneal derecho en el músculo psoas
+T21	SINTOMA 873 888	sangrado activo
+T22	SINTOMA 890 974	Líquido libre intraabdominal perirrenal, en la fascia pararrenal anterior y presacro
+T23	SINTOMA 1322 1370	Tronco de la arteria pulmonar de diámetro normal
+T24	SINTOMA 1376 1416	signos de sobrecarga ventricular derecha
+T25	SINTOMA 1476 1520	hematoma retroperitoneal en el músculo psoas
+T26	SINTOMA 1562 1577	sangrado activo
+T27	SINTOMA 1705 1733	colecciones intraabdominales
+T28	SINTOMA 1608 1673	líquido libre perirrenal, en fascia pararrenal y a nivel presacro
+T29	SINTOMA 2082 2132	permeabilidad sin trombos de la vena cava inferior
+T30	SINTOMA 74 98	pinzamiento de los senos
+T31	SINTOMA 1077 1116	áreas de vidrio deslustrado periféricas
+T32	ENFERMEDAD 221 251	Derrame pleural bilateral leve
+T33	ENFERMEDAD 380 389	TEP agudo
+T34	ENFERMEDAD 707 710	TVP
+T35	ENFERMEDAD 1137 1157	leve derrame pleural
+T36	ENFERMEDAD 1178 1189	atelectasia
+T37	ENFERMEDAD 1250 1312	trombosis en rama segmentaria posterior de la arteria pulmonar
+T38	ENFERMEDAD 1737 1751	neumoperitoneo
+T39	ENFERMEDAD 1822 1896	trombosis de una de las venas gemelares externas en la extremidad inferior
+T40	ENFERMEDAD 1949 2039	trombosis de ambas venas peroneales y de las venas tibial posterior y del sóleo izquierdas
+T41	PROCEDIMIENTO 2 22	RADIOGRAFÍA DE TÓRAX
+T42	PROCEDIMIENTO 115 132	ANGIO-TC PULMONAR
+T43	PROCEDIMIENTO 392 421	TC DE EXTREMIDADES INFERIORES
+T44	PROCEDIMIENTO 713 731	ANGIO-TC ABDOMINAL
+T45	PROCEDIMIENTO 1023 1040	ANGIO-TC PULMONAR
+T46	PROCEDIMIENTO 1419 1443	ANGIO-TC ABDOMINOPÉLVICO
+T47	PROCEDIMIENTO 1769 1805	ECOGRAFÍA DE EXTREMIDADES INFERIORES
+T48	PROCEDIMIENTO 2053 2068	ilio-cavografía
+T49	PROCEDIMIENTO 2134 2213	Se coloca filtro de vena cava por debajo de la confluencia de las venas renales
+T50	PROCEDIMIENTO 2216 2236	RADIOGRAFÍA DE TÓRAX
+T51	PROCEDIMIENTO 2362 2382	RADIOGRAFÍA DE TÓRAX
+T52	ENFERMEDAD 438 464	Hematoma del músculo psoas
+T53	ENFERMEDAD 764 816	hematoma retroperitoneal derecho en el músculo psoas
+T54	ENFERMEDAD 1476 1520	hematoma retroperitoneal en el músculo psoas
+T55	PROCEDIMIENTO 1907 1922	ILIO-CAVOGRAFÍA
+T56	ENFERMEDAD 2100 2132	trombos de la vena cava inferior

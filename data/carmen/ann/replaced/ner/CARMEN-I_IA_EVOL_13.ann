@@ -1,0 +1,48 @@
+T24	ENFERMEDAD 838 858	hipotensión arterial
+T25	SINTOMA 955 968	dolor en EESS
+T26	SINTOMA 1269 1319	Dolor a la palpación del tercio proximal de húmero
+T27	SINTOMA 1841 1849	sangrado
+T28	ENFERMEDAD 2093 2104	hipotensión
+T29	SINTOMA 2107 2119	desaturación
+T30	SINTOMA 257 272	frotis positivo
+T31	SINTOMA 758 783	hemodinamicamente estable
+T32	SINTOMA 1331 1362	Neurovascular distal conservado
+T33	SINTOMA 1391 1441	húmero, donde no se aprecian lesiones óseas agudas
+T34	ENFERMEDAD 1758 1769	hipotension
+T35	SINTOMA 2208 2235	hemodinamicamente inestable
+T36	ENFERMEDAD 56 66	Ex-fumador
+T37	ENFERMEDAD 964 1029	EESS izquierda, presenta importante hematoma de una caída antigua
+T38	ENFERMEDAD 1096 1124	fractura de cabeza de húmero
+T39	ENFERMEDAD 1821 1829	hematoma
+T40	FARMACO 371 383	azitromicina
+T41	FARMACO 384 391	Oxígeno
+T42	FARMACO 435 437	O2
+T43	FARMACO 806 808	O2
+T44	FARMACO 2272 2287	hipocoagulación
+T45	PROCEDIMIENTO 458 465	VMK 24%
+T46	PROCEDIMIENTO 916 926	diuréticos
+T47	PROCEDIMIENTO 1059 1071	ecografia MS
+T48	PROCEDIMIENTO 1443 1472	Se decide colocar cabestrillo
+T49	PROCEDIMIENTO 1518 1529	cabestrillo
+T50	PROCEDIMIENTO 1717 1728	eco-doppler
+T51	PROCEDIMIENTO 1801 1803	TC
+T52	HUMANO 32 37	Varón
+T53	HUMANO 737 745	paciente
+T54	HUMANO 1808 1816	paciente
+T55	HUMANO 1884 1892	paciente
+T56	HUMANO 1947 1955	paciente
+T57	HUMANO 2136 2176	compañeros de Radiologia de intervención
+T58	HUMANO 2191 2199	paciente
+T59	PROCEDIMIENTO 257 263	frotis
+T60	PROCEDIMIENTO 282 285	PCR
+T61	FARMACO 467 474	Oxigeno
+T62	PROCEDIMIENTO 495 497	LN
+T63	PROCEDIMIENTO 810 814	LN3L
+T64	ENFERMEDAD 1154 1208	hematoma que se extiende por la cara lateral del brazo
+T65	PROCEDIMIENTO 1376 1397	Rx portátil de húmero
+T66	PROCEDIMIENTO 1710 1713	T C
+T67	PROCEDIMIENTO 504 513	Analítica
+T68	PROCEDIMIENTO 2010 2013	GSA
+T69	PROCEDIMIENTO 1131 1142	exploración
+T1	ENFERMEDAD 50 54	NAMC
+T2	SINTOMA 788 808	requerimientos de O2

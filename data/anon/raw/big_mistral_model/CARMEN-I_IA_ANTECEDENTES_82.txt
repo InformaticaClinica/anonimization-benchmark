@@ -1,0 +1,31 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**], alérgica al contraste yodado y dudosa al nolotil. No refiere hábitos tóxicos. Vive con su sobrino y hija. Dependiente para aseo y demabulación asistida con caminador.
+
+VALORACIÓN GERIÁTRICA INTEGRAL
+- FUNCIONAL: parcialmente dependiente para las ABVD. Índice de Barthel [**EDAD_SUJETO_ASISTENCIA**].
+- SÍNDROMES GERIÁTRICOS: visión y audición preservadas, no caídas en los últimos 12 meses, deambula con mínima ayuda física, continente fecal, portadora de sonda vesical permanente, polifarmacia.
+- SOCIAL: vive en su domicilio con su sobrino y su hija. El sobrino es [**OTROS_SUJETO_ASISTENCIA**].
+
+ANTECEDENTES PATOLÓGICOS:
+- [**FAMILIARES_SUJETO_ASISTENCIA**] EN TRATAMIENTO FARMACOLÓGICO.
+- [**FAMILIARES_SUJETO_ASISTENCIA**] EN TRATAMIENTO CON ESTATINAS.
+- [**FAMILIARES_SUJETO_ASISTENCIA**] EN TRATAMIENTO CON ADO + INSULINOTERAPIA.
+*-HbA1c [**FECHAS**]: 7.2%.
+- [**FAMILIARES_SUJETO_ASISTENCIA**] QUE DEBUTÓ COMO ANGOR EN [**FECHAS**]
+*-Ecocardio [**FECHAS**]: "VI no dilatado ni hipertrófico, sin anomalías de la contractilidad segmentaria, función contráctil conservada, FE=68% AI ligeramente dilatada Válvula aórtica trivalva, ligeramente esclerosada, con apertura conservada Válvula mitral con puntos de fibrosis y movilidad normal Cavidades derechas no dilatadas, VD normocontráctil"
+*-Anemia ferropénica con estudio FCS:
+* FGS: Signos de gastritis crónica atrófica. Pendiente de AP.
+Pólipos gástricos. Pendiente de AP.
+Hernia de hiato con mucosa preservada
+** AP: infiltrado inflamatorio inespecífico. HP negativo * FCS: N, buena preparación, se explora hasta ciego.
+-Detrusor acontractil. Sondaje vesical permanente.
+-Estenosis de canal lumbar.
+
+ANTECEDENTES QUIRÚRGICOS
+-Colecistectomía abierta a los [**NUMERO**] años.
+-Apendicectomía.
+-Varias IQ osteoarticulares.
+-Cordalectomía.
+-Interv por eventración en junio-18 (cura radical con malla).
+-Interv cataratas ambos ojos [**FECHAS**].
+
+MEDICACIÓN HABITUAL: insulina glargina [**NUMERO**] UI 0-0-1, insulina aspart [**NUMERO**]/24h, Amlodipino [**NUMERO**]/24h, Atorvastatina [**NUMERO**]mg/24h, Citalopram [**NUMERO**]mg/24h Propranolol [**NUMERO**]mg/24h, Omeprazol [**NUMERO**]mg/24h, AAS [**NUMERO**]mg/24h, Metformina [**NUMERO**]mg 0,5-0,5-0,5, Zolpidem [**NUMERO**]mg/24h., alprazolam [**NUMERO**]mg 1-0-1, SERC [**NUMERO**]mg/8h Tramadol [**NUMERO**] mg/24h.

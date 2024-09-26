@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+COVID19
+==
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] a dia +14 de inicio de sintomas. Presenta Rx con infiltrados intersticiales bilaterales con afectación extensa. Analítica con marcada elevación de RFA. Probable NO. Solicito TC para completar estudio. Gracias
+COVID 19
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  de alta resolución
+
+resultados:
+Lipoma muscular en músculo subescapular derecho.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Focos consolidativos peribroncovasculares y bandas parenquimatosas subpleurales, distribución perilobular y halo reverso compatibl econ neumonia COVID en fase de neumonia organizativa.
+
+conclusiones:
+Neumonia COVID en fase de neumonia organizativa
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

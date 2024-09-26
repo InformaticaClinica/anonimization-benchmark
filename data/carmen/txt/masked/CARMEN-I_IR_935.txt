@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], ingresado por COVID, ha recibido remdesivir y tocilizumab. En la Rx de ayer presenta empeoramineto radiológico y persiste con requerimiento de O2 con LN 3l saturando 95%, previamente 4l. SOlicito TC para descartar NOC, alta próxima. Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC torácico en condiciones basales.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Calcificaciones pericárdicas.
+Parénquima pulmonar sin alteraciones valorables.
+Consolidaciones bilaterales de predominio en LLII, de distribución subpleural, asociadas a opacidades en vidrio deslustrado y algunas imágenes en halo reverso, compatible con neumonía por COVID19 con cambios organizativos muy incipientes y sin signos de fibrosis en el momento actual.
+En los cortes abdominales incluidos en el estudio se observan litiasis no obstuctivas en grupo calicilar medio del RD. Calcificaciones groseras hepáticas.
+
+conclusiones:
+Hallazcos compatibles ocn neumonia bilateral por COVID19 con cambios organizativos muy incipientes.
+
+descrip:
+TC TORAX

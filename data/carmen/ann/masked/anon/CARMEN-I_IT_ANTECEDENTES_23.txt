@@ -1,0 +1,18 @@
+Antecedentes personales:
+Paciente [**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**] que reside en [**PAIS**] desde hace 40 años. Buen soporte familiar. Sin deficit cognitivo.
+ANTECEDENTES PATOLOGICOS:
+1) HIPERTENSION ARTERIAL
+2) DIABETES MELLITUS TIPO 2
+3) ENFERMEDAD CEREBROVASCULAR
+Ha presentado 3 episodios. Según refiere la familia el último hace 6 meses, a consecuencia de patología arterial carotídea.
+Según consta en [**OTROS_SUJETO_ASISTENCIA**], el paciente padece hemiparesia derecha. La familia refiere autonomía para las ABVD, aunque con ligera dificultad p ara la movilización.
+4) ENFERMEDAD RENAL CRONICA Paciente monorreno, con última Creatinina de 2.32 mg/dL (FG 26 mL/min) el [**FECHAS**].
+5) HIPERPLASIA BENIGNA DE PROSTATA
+Sin tratamiento
+MEDICACION HABITUAL ([**OTROS_SUJETO_ASISTENCIA**] [**FECHAS**]):
+- Insulina insulatard 100 UI/mL (35 UI c/24h)
+- Acido acet ilsalicilico 100 mg c24h
+- Atorvastatina40mg c/24h
+- Atenolol 50mg c/2 4h
+- Amlodipino 5mg c/24h
+- Enalapril + Hidroclorotiazida (20/12.5mg) c/24h.

@@ -1,0 +1,29 @@
+T4	ENFERMEDAD 1069 1095	insuficiencia respiratoria
+T5	ENFERMEDAD 1639 1665	insuficiencia respiratoria
+T6	FARMACO 1144 1148	DXMT
+T7	FARMACO 1171 1182	Tocilizumab
+T8	HUMANO 1410 1418	paciente
+T9	PROCEDIMIENTO 345 363	PCR de SARS-CoV- 2
+T10	PROCEDIMIENTO 576 596	radiografía de tórax
+T11	PROCEDIMIENTO 973 987	oxigenoterapia
+T12	PROCEDIMIENTO 990 997	VMK 40%
+T13	PROCEDIMIENTO 1485 1495	VMK al 60%
+T14	PROCEDIMIENTO 1567 1586	gasometría arterial
+T15	SINTOMA 20 26	disnea
+T16	SINTOMA 29 47	fiebre persistente
+T17	SINTOMA 193 200	astenia
+T18	SINTOMA 203 225	regular estado general
+T19	SINTOMA 308 314	fiebre
+T20	SINTOMA 404 436	empeoramiento del estado general
+T21	SINTOMA 441 468	disnea de mínimos esfuerzos
+T22	SINTOMA 609 632	infiltrados bilaterales
+T23	SINTOMA 709 757	elevación importante de reactantes de fase aguda
+T24	SINTOMA 795 805	linfopenia
+T25	SINTOMA 1042 1053	inflamación
+T26	SINTOMA 1432 1472	deterioro progresivo anivel respiratorio
+T27	SINTOMA 1535 1544	taquipnea
+T29	SPECIES 352 363	SARS-CoV- 2
+T30	PROCEDIMIENTO 100 137	primera dosis de vacunación (Moderna)
+T31	SINTOMA 345 393	PCR de SARS-CoV- 2 en CAP con resultado positivo
+T32	PROCEDIMIENTO 642 661	gasometría arterial
+T33	PROCEDIMIENTO 946 952	VMK 31

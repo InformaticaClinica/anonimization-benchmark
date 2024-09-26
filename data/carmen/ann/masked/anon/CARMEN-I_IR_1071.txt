@@ -1,0 +1,18 @@
+
+prueba:
+ECO CON BIOPSIA DE LESIÓN FOCAL HEPÁTICA
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedente de adenoca pulmonar en LSI, se realizó lobectomía LSI en [**FECHAS**]. Actualmente ingresada por infección por covid (ya resuelta). En Rx de tórax se detecta aumento de masa hiliar derecha. Se realiza TC toracoabdominal, con los siguientes resultados: Masa pulmonar en el LID, sugestivo de proceso neoformativo primario pulmonar. Múltiples adenopatías mediastínicas, supraclaviculares bilaterales; adenopatías hiliares, interlobares e intrapulmonares derechas. Múltiples lesiones focales hepáticas sugestivas de M1. Nódulos suprarrenales izquierdos indeterminados. Nódulo de 18 mm en UCI de la mama izquierda, a valorar mediante mamografía. Focos en vidrio deslustrado y consolidativos peribroncovasculares de localización periférica bilaterales de predominio derechos, sugestivo de neumonía por COVID-19. Afectación ósea difusa, indeterminada, a valorar mediante gammagrafía ósea.
+De acuerdo con Oncología, se solicita biopsia de lesión hepática para catacterización. Gracias. Gracias.
+SOSPECHA DE NEOPLASIA PULMONAR
+
+protocolo:
+BIOPSIA GUIADA POR ECOGRAFÍA.
+
+conclusiones:
+Se visualizan multiples lesiones hepáticas correspondientes a las metástasis conocidas. Se decide biopsar una de ellas de 14 mm en s. VI.
+En condiciones de asepsia, mediante guía ecográfica y tras administrar anestesia local, se procede a realizar BAG de dicha lesión (aguja automática Biopince 18G, 2 pases, 1 de 23 mm y otro de 13 mm). No se producen complicaciones inmediatas. Se remite la muestra a AP para su estudio.
+
+descrip:
+ECO CON BIOPSIA DE LESIÓN FOCAL HEPÁTICA

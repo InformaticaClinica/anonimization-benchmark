@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA ENDOCARDITIS INFECCIOSA POR S.INTERMEDIUS
+
+conclusiones:
+Elevación del hemidiafragma derecho.
+Pinzamiento del seno costofrénico derecho, no presente en RX de tórax previa de [**FECHAS**], sugestivo de derrame pleural derecho.
+Elongación aórtica.
+
+descrip:
+RX  PORTATIL  TORAX

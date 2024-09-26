@@ -1,0 +1,14 @@
+T3	PROCEDIMIENTO 107 126	trasplante hepático
+T4	SINTOMA 141 147	fiebre
+T5	SINTOMA 195 204	febrícula
+T6	SINTOMA 249 271	sensación de tiritonas
+T7	SINTOMA 274 330	empeoramiento del dolor abdominal en hipocondrio derecho
+T8	SINTOMA 357 370	estreñimiento
+T9	SINTOMA 482 489	vómitos
+T10	SINTOMA 494 500	náusea
+T11	SINTOMA 340 354	orinas oscuras
+T12	ENFERMEDAD 31 49	proctitis ulcerosa
+T13	ENFERMEDAD 25 28	CEP
+T14	FARMACO 421 427	hierro
+T15	FARMACO 574 581	septrim
+T16	HUMANO 1 9	Paciente

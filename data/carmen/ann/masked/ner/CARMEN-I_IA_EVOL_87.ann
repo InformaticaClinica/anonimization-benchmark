@@ -1,0 +1,40 @@
+T2	PROCEDIMIENTO 536 583	ecografia: A la exploración selectiva de la FID
+T3	PROCEDIMIENTO 1116 1125	analgesia
+T4	PROCEDIMIENTO 1172 1185	examen físico
+T5	PROCEDIMIENTO 130 163	palpacion de hemiabdomen inferior
+T6	SINTOMA 98 105	afebril
+T7	SINTOMA 107 198	Abdomen con dolor a la palpacion de hemiabdomen inferior, predominante en hipogastrio y FID
+T8	SINTOMA 235 252	signo de blumberg
+T9	SINTOMA 440 468	dolor abdominal inespecifico
+T10	SINTOMA 517 522	dolor
+T11	SINTOMA 1035 1060	hemodinámicamente estable
+T12	SINTOMA 1062 1069	afebril
+T13	SINTOMA 1106 1111	dolor
+T14	SINTOMA 1207 1282	Abdomen blando, depresible, con normoperistalsis no doloroso a la palpación
+T15	SINTOMA 71 96	hemodinamicamente estable
+T16	SINTOMA 1186 1205	buen estado general
+T17	SINTOMA 1075 1092	diuresis adecuada
+T18	ENFERMEDAD 807 824	apendicitis aguda
+T19	ENFERMEDAD 1465 1484	infeccion por Covid
+T20	ENFERMEDAD 16 27	APENDICITIS
+T21	ENFERMEDAD 31 36	COVID
+T22	ENFERMEDAD 892 909	APENDICITIS AGUDA
+T23	SINTOMA 207 225	defensa localizada
+T24	SINTOMA 254 290	Signos de rovsing y murphy negativos
+T25	SINTOMA 332 344	leucocitosis
+T26	SINTOMA 362 386	Funcion renal conservada
+T27	SINTOMA 388 422	Sedimento sin hallazgos destacados
+T28	SINTOMA 598 633	apéndice cecal aumentado de calibre
+T29	SINTOMA 673 726	desestructuración de las paredes en la porción distal
+T30	SINTOMA 857 885	colecciones intraabdominales
+T31	SINTOMA 1297 1304	defensa
+T32	FARMACO 484 495	paracetamol
+T33	PROCEDIMIENTO 1157 1167	dieta oral
+T34	PROCEDIMIENTO 1502 1513	aislamiento
+T35	HUMANO 969 977	Paciente
+T36	HUMANO 1442 1460	Medico de cabecera
+T37	SINTOMA 840 853	líquido libre
+T38	ENFERMEDAD 1306 1325	Heridas quirúrgicas
+T39	PROCEDIMIENTO 943 967	CIRUGIA GASTROINTESTINAL
+T40	PROCEDIMIENTO 304 313	analitica
+T41	SINTOMA 31 38	COVID +

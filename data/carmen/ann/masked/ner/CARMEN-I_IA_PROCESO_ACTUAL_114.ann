@@ -1,0 +1,44 @@
+T10	SPECIES 236 246	SARS-CoV-2
+T11	HUMANO 325 359	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T12	HUMANO 384 418	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T13	SPECIES 1574 1584	SARS-CoV-2
+T14	SINTOMA 34 40	fiebre
+T15	SINTOMA 43 50	astenia
+T16	SINTOMA 96 109	artromialgias
+T17	SINTOMA 111 117	disnea
+T18	SINTOMA 119 133	dolor torácico
+T19	SINTOMA 135 142	diarrea
+T20	SINTOMA 144 151	náuseas
+T21	SINTOMA 153 160	vómitos
+T22	SINTOMA 162 169	anosmia
+T23	SINTOMA 173 180	ageusia
+T24	SINTOMA 486 499	leve tos seca
+T25	SINTOMA 677 707	saturaciones basales correctas
+T26	SINTOMA 808 814	fiebre
+T27	SINTOMA 1088 1095	afebril
+T28	SINTOMA 1115 1126	hipotensión
+T29	SINTOMA 1129 1152	saturaciones subóptimas
+T30	SINTOMA 1186 1221	aumento de reactantes de fase aguda
+T31	SINTOMA 1266 1282	D- dímero normal
+T32	SINTOMA 1293 1372	perfiles renal y hepático, ionograma, fórmula leucocitaria y hemograma normales
+T33	SINTOMA 1482 1525	inferior, con incipiente infiltrado en base
+T34	FARMACO 743 751	Zitromax
+T35	FARMACO 768 779	deflazacort
+T36	FARMACO 1690 1700	Remdesivir
+T37	FARMACO 1824 1834	remdesivir
+T38	FARMACO 1857 1868	enoxaparina
+T39	FARMACO 1888 1899	paracetamol
+T40	PROCEDIMIENTO 594 614	radiografía de tórax
+T41	PROCEDIMIENTO 1045 1060	lavado de manos
+T42	PROCEDIMIENTO 1374 1385	Radiografía
+T43	PROCEDIMIENTO 1836 1852	tromboprofilaxis
+T44	PROCEDIMIENTO 1871 1883	antipirético
+T45	PROCEDIMIENTO 227 273	PCR para SARS-CoV-2 en frotis naso-orofaríngeo
+T46	SINTOMA 227 294	PCR para SARS-CoV-2 en frotis naso-orofaríngeo que resulta positiva
+T47	SINTOMA 644 672	infiltrado en base izquierda
+T48	SINTOMA 1400 1426	infiltrados intersticiales
+T49	ENFERMEDAD 1551 1584	neumonía izquierda por SARS-CoV-2
+T50	SINTOMA 1593 1616	saturaciones subóptimas
+T51	PROCEDIMIENTO 1172 1181	Analítica
+T52	PROCEDIMIENTO 296 317	Se aísla en domicilio
+T53	PROCEDIMIENTO 433 459	se aisla en otro domicilio

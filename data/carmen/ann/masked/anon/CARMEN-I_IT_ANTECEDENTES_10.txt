@@ -1,0 +1,8 @@
+* ANTECEDENTES PATOLÓGICOS:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] sin alergisa a medicamentos conocidas. Consumidor habitual de anfetaminas (TINA).
+Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**], independiente para ABVD. Trabaja como [**PROFESION**].
+* ANTECEDENTES PERSONALES
+- INFECCIÓN CRÓNICA POR VIH. Trasmisión por vía sexual. En tratamiento anti-retroviral con Biktarvy. En seguimiento en [**HOSPITAL**]. Su [**FAMILIARES_SUJETO_ASISTENCIA**] refiere que tomaba regularmente la medicación antirretroviral pero no la había tomado en las últimas 2 semanas por ansiedad.
+- COINFECCIÓN POR VIRUS HEPATITIS C. Pendiente de inicio de Epclusa (sofosbuvir/velpatasvir).
+- ASMA BRONQUIAL en tratamiento broncodilatador. Última crisis hace un año.
+* MEDICACIÓN HABITUAL ([**FECHAS**]): Biktarvy 1 comp/24h, Foster 1 inh/12h.

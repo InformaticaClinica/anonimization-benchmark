@@ -1,0 +1,11 @@
+Hombre de [**EDAD_SUJETO_ASISTENCIA**], con dudosa alergia a sulfamidas (edema manos), exfumador desde los [**EDAD_SUJETO_ASISTENCIA**] ([**OTROS_SUJETO_ASISTENCIA**]).
+* ANTECEDENTES PATOLÓGICOS.
+1. Hipertensión arterial en tratamiento médico.
+2. Carcinoma urotelial vesical, tratado mediante resección transuretral e instilaciones de BCG, en seguimiento por urología con citoscopia de control, actualmente libre de enfermedad.
+3. Diverticulitis [**FECHAS**] (ingreso en [**HOSPITAL**]). Presentó nuevo episodio en [**FECHAS**] que no requirió ingreso pero sí tratamiento antibiótico (no disponemos de informes). En tratamiento con rifaximina.
+4. Silla turca parcialmente vacía (diagnosticada en TC craneal [**FECHAS**]).
+5. Trastorno ansioso-depresivo en [**FECHAS**] por motivo laboral, con cuadro de amnesia autolimitada. Fue valorado por neurología del [**CENTRO_SALUD**], con test T@M [**OTROS_SUJETO_ASISTENCIA**], MOCA [**OTROS_SUJETO_ASISTENCIA**], Pfeiffer [**OTROS_SUJETO_ASISTENCIA**], LOBO [**OTROS_SUJETO_ASISTENCIA**] (todos normales).
+6. Hemitiroidectomía por tumor benigno (no sabe especificar si tiroides o paratiroides) en [**FECHAS**], realizado en [**INSTITUCION**] (sin informes).
+7. Apendicectomía
+* MEDICACIÓN HABITUAL:
+Rifaximina [**OTROS_SUJETO_ASISTENCIA**] (desde [**FECHAS**]), amlodipino [**OTROS_SUJETO_ASISTENCIA**], Losartan/Hidroxicloroquina [**OTROS_SUJETO_ASISTENCIA**].

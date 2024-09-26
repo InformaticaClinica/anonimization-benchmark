@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+resultados:
+Aumento de tamaño y de densidad de las consolidaciones periféricas bilaterales.
+
+conclusiones:
+COVID-19 en progresión.
+
+descrip:
+RX  PORTATIL  TORAX

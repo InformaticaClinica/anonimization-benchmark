@@ -1,0 +1,16 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado en AVI-COVID por neumonía bilateral con requerimiento de soporte respiratorio con IOT+ VM y ECMO-VV. Presentó choque hemorrágico en relación a sangrado de arteria intercostal que requirió de embolización y choque séptico por neumonía pseudomónica necrotizante con fracaso multiorgánico. Actualmente estable, pero en la monitorización con INVOS (oximetria cerebral no invasiva) se observan valores alterados (hipoperfusión?). Rogamos descartar complicaciones a nivel de SNC en paciente con ECMO. Gracias. (mañana tiene programado Tc tórax y abdomen, intentar realizar de forma conjunta).
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+conclusiones:
+Estructuras parenquimatosas supra e infratentoriales sin alteraciones significativas.
+Cisternas de la base libres.
+Estructuras de linea media centradas.
+Estudio dentro de los limites de la normalidad.
+
+descrip:
+TC CEREBRAL

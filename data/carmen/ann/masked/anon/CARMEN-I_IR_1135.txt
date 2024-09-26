@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Comentado con Radiología.
+[**EDAD_SUJETO_ASISTENCIA**]. Antecedente linfoma Hodgkin en respuesta parcial tras quimioterapia. Ingresada por Covid. Múltiples complicaciones: sobreinfecciones bacterianas, hematoma mamariobilateral...
+Presenta insuficiencia respiratoria con requerimiento de VMK al 28%.
+Interesa TAC tórax para descartar causa infecciosa vs progresión enfermedad hematológica vs sobrecarga hídrica.
+
+protocolo:
+TC TORÁCICO URGENTE. Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con angio TC pulmonar previo del [**FECHAS**]
+Disminución global del volumen mamario izquierdo, persistiendo los dos hematomas de pared torácica anterior ya conocidos con discreta trabeculación de la grasa y edema de partes blandas adyacentes, en menor grado que TC previo. El hematoma que se encuentra situado entre los músculos pectorales mide actualmente unos 22x63 mm (previo de 41x52 mm), y el que se localiza en el margen lateral del ms pectoral mayor de 42x46 mm (previo de 45x47 mm).
+Tronco de la arteria pulmonar de calibre aumentado (33 mm), sin cambios.
+Adenopatía subcarinal de 13 mm, estable. Ganglios paratraqueales derechos ligeramente aumentados de tamaño, que podrían ser de carácter reactivo. No se observan adenopatías mediastínicas ni axilares de tamaño valorable (estudio sin contraste).
+Calcificación grosera en anillo valvular mitral. Ateromatosis parcheada en arco aórtico y en aorta descendente.
+Aparición de leve derrame pleural derecho que asocia atelectasia del segmento posterobasal del LID. Mínimo derrame pleural izquierdo. No hay derrame pericárdico.
+Parénquima pulmonar sin nódulos ni condensaciones. Atelectasia laminar en base izquierda. Engrosamientos peribronquiales bibasales.
+Pequeña hernia de hiato. Colelitiasis.
+
+conclusiones:
+Respecto estudio previo destaca aparición de leve derrame pleural derecho que asocia atelectasia del segmento posterobasal del LID y mínimo derrame pleural izquierdo.
+Disminución global del volumen mamario izquierdo con persistencia de los dos hematomas ya conocidos.
+
+descrip:
+TC TORAX

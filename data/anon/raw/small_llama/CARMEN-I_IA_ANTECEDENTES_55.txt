@@ -1,0 +1,26 @@
+ ANTECEDENTS PERSONALS:
+Sense alèrgies medicamentoses
+Exfumador des de fa [**FECHAS**].
+- Hipertensió arterial en tractament farmacològic amb [**OTROS_SUJETO_ASISTENCIA**] i [**OTROS_SUJETO_ASISTENCIA**].
+- Dislipemia en tractament amb [**OTROS_SUJETO_ASISTENCIA**].
+- Hiperuricèmia en tractament amb [**OTROS_SUJETO_ASISTENCIA**]. Ha presentat diverses crisis gotoses.
+- Enfisema centrelobulillar lleu detectat a TC toràcic 2014 arrel de tos persistent. En TC 2014 es va objectivar la
+presència de tres imatges nodulars basals i perifèriques a parènquima pulmonar, una a si costofrènic dret de 8mm
+i dos a base esquerra de 8 i 5mm, no visualitzades a TC previ (2011), que podien trobar-se en relació a
+sobreinfecció respiratòria vs imatges residuals d'un procés inflamatori.
+Al TC tòrax control 2015 es va observar una
+resolució de les imatges.
+- Aneurisme d'aorta descendent diagnosticat l'any 2014 mitjançant TC toràcic, inicialment de 38mm, objectivant-se al TC de control (mayo 2018) augment del tamany fins a 44x35mm màxim, sense progressió al control de gener 2019.
+- Tremolor essencial que ha rebut terapia recient amb [**OTROS_SUJETO_ASISTENCIA**] al agost de 2022 a l'Cl. [**INSTITUCION**].
+- Cardiopatia isquèmica en forma de per IAMSEST Killip I al 2018.
+Ecocardiograma amb FEVE conservada i hipocinèsia inferior basal. Es va realitzar cateterisme cardíac que va mostrar malaltia de 2 vasos amb lesió severa i trombòtica en CX proximal que es va revascularitzar percutaneament amb implantació de stent a la CXp. FE 62%, motilitat 1 SPECT de perfusió miocàrdica necrosi no transmural inferolateral basal amb mínima isquèmia del mateix territori. El pacient segueix controls en cardiologia per VH. Ha presentat dispnea per [**OTROS_SUJETO_ASISTENCIA**] i´clínica d'astènia i adinàmia en relació a [**OTROS_SUJETO_ASISTENCIA**].
+- Fibril.lació auricular revertida espontàniament al abril 2022, al alta es va iniciar anticoagulació amb [**OTROS_SUJETO_ASISTENCIA**] i control del ritme amb [**OTROS_SUJETO_ASISTENCIA**]. Es va retirar [**OTROS_SUJETO_ASISTENCIA**] al mayo de 2022. Al setembre de 2022 fibril·lació auricular i es va fer ecocardiograma transesofàgic que ha descartà la presència de trombos intracavitaris es va fer a la realització de cardioversió elèctrica sincronitzada passant a ritme sinusal estable i sense complicacions inmediates. Pendent de valorar ablaci ambulatòriament per valorar anatomia de les venes pulmonars i valoració de ablació de VVPP ambulatòriament.
+- Tractament habitual:
+[**OTROS_SUJETO_ASISTENCIA**] 20 mg 1 comprimit al dia en dejú abans d'esmorzar
+[**OTROS_SUJETO_ASISTENCIA**] 100 mg 1 comprimit al dia a l'esmorzar
+[**OTROS_SUJETO_ASISTENCIA**] 5mg cada 12 hores
+[**OTROS_SUJETO_ASISTENCIA**] 400 mg 1 comprimit cada 12 hores
+[**OTROS_SUJETO_ASISTENCIA**] 2.5 mg 1 comprimit al dia a l'esmorzar
+[**OTROS_SUJETO_ASISTENCIA**] 20 mg 1 comprimit al dia a l'esmorzar
+[**OTROS_SUJETO_ASISTENCIA**] 100 mg 1 comprimit al dia
+[**OTROS_SUJETO_ASISTENCIA**] 40 mg 1 comprimit al dia al sopar.

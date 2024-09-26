@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Ingreso por NEUMONIA BILATERAL POR SARS-COV-2 con INSUFICIENCIA RESPIRATORIA AGUDA GRAVE máx LAF 50%/40L/min tratada con Dexametasona 8mg [**FECHAS**]-[**FECHAS**], Remdesivir [**FECHAS**]-[**FECHAS**], Tocilizumab el [**FECHAS**] 600mg, rescate con MPDN 250mg en bolus x 3 ([**FECHAS**]-[**FECHAS**]) -> PDN 80mg/d ([**FECHAS**]- act)
+Persiste con resquerimeinto de O2 con patrón intersticial en Rx, solicito TC descaratar NOC. Gracias
+NEUMONÍA BILATERAL POR SARS-CoV2
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  de alta resolución.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Ténues opacidades en vidrio delsustrado con bandas parenquimatosas subpleurales  compatible con neumonia COVID en fase reabsortiva con cambios organizativos.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

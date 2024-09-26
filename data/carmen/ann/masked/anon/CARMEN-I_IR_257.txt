@@ -1,0 +1,23 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] que ingresa por LRA AKIN III funcional por causa obstructiva. En el TAC (realizado por contusión costal) se objetiva una próstata aumentada de tamaño.
+Solicitamos ecografía para valorar posible HBP.
+GRACIAS!!
+Fallida renal aguda no especificada
+
+protocolo:
+ECOGRAFIA RENO-VESICO-PROSTATICA.
+
+resultados:
+Riñones de tamaño y ecoestructura normal, sin dilatación de vías excretoras. Algunos quistes sinusales bilaterales y quiste cortical simple de 17 mm en tercio medio del RI. No se aprecian masas ni litiasis.
+Vejiga urinaria distendida, con balón de sondaje en su interior (pinzada), con leve engrosamiento parietal difuso, sin lesiones parietales evidentes.
+Próstata de 29 g.
+
+conclusiones:
+Leve engrosamiento parietal difuso de la vejiga. Próstata de 29 g.
+
+descrip:
+ECO RENO-VESICAL

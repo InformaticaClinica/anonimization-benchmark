@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] pluripatológico ingresado por infección covid-19. Hoy a las 16:30h presenta episodio de lateralización del tronco y debilidad de ESD de segundos de duración. Actualmente en tratamiento anticoagulante con enoxaparina. Ruego realización de TC craneal apra descartar complicaciones hemorrágicas. Gracias.
+INSUFICIENCIA RENAL CRÓNICA AGUDIZADA
+
+protocolo:
+TC CRANEAL URGENTE realizada en condiciones basales
+
+resultados:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en relación con cambios involutivos.
+Hipodensidades capsuloganglionares bilaterales y en sustancia blanca periventricular y subcortical, en relación a enfermedad de pequeño vaso.
+Estructuras de la línea media centradas.
+Fosa posterior sin alteraciones.
+Cisternas de la base libres.
+
+conclusiones:
+Exploración sin signos de patología intracraneal aguda.
+
+descrip:
+TC CEREBRAL

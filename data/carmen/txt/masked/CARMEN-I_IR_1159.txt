@@ -1,0 +1,19 @@
+
+prueba:
+ECOGRAFIA DOPPLER VENÓS EXTREMITATS BILA TERAL (Tromboembolismo pulmonar)
+
+clinica:
+Paciente VIH ingresado por neumonía bilateral por COVID-19. Ahora con dolor en pantorrilla derecha con limitación funcional y aumento considerable del Dímero D a > 10.000. Interesa ecografía doppler para descartar TVP.
+COVID-19
+
+resultados:
+EI DERECHA
+Trombosis  (ocupación luz venosa por material hipoecoico , ausencia de compresibilidad) de las venas musculares  externas de la pantorrilla.
+Venas femoral común, superficial y profunda, poplitea, peroneas y tibiales posteriores,   compresibles,  permeables, sin signos eco - Doppler de TVP.
+No trombosis superficial.
+
+conclusiones:
+vr
+
+descrip:
+ECOGRAFIA DOPPLER VENÓS EXTREMITATS BILATERAL (Tromboembolismo pulmonar)

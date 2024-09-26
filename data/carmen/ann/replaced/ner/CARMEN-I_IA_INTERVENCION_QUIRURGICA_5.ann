@@ -1,0 +1,29 @@
+T5	PROCEDIMIENTO 69 129	trayecto explorado con el colonoscopio hasta yeyuno proximal
+T6	PROCEDIMIENTO 259 293	Se ha colocado un clip hemostático
+T7	PROCEDIMIENTO 342 364	anastomosis de delgado
+T8	PROCEDIMIENTO 409 417	angio-TC
+T9	PROCEDIMIENTO 421 438	FIBROBRONCOSCOPIA
+T10	PROCEDIMIENTO 684 715	BAS para estudio microbiológico
+T11	PROCEDIMIENTO 720 752	LBA en lóbulo inferior izquierdo
+T12	PROCEDIMIENTO 805 868	estudio microbiológico y citológico (protocolo inmunodeprimido)
+T13	PROCEDIMIENTO 871 888	FIBROBRONCOSCOPIA
+T14	PROCEDIMIENTO 1011 1043	instilación de suero hipertónico
+T15	PROCEDIMIENTO 1046 1063	FIBROBRONCOSCOPIA
+T16	PROCEDIMIENTO 3 23	ENDOSCOPIA DIGESTIVA
+T17	PROCEDIMIENTO 561 666	secreciones mucopurulentas impactadas a predominio en bronquios de los lóbulos inferiores, que se aspiran
+T18	PROCEDIMIENTO 961 1002	secreciones mucopurulentas que se aspiran
+T19	PROCEDIMIENTO 1167 1201	secreciones mucosas que se aspiran
+T20	SINTOMA 41 57	restos hemáticos
+T21	SINTOMA 304 312	sangrado
+T22	SINTOMA 387 395	sangrado
+T23	ENFERMEDAD 131 147	Lesión esofágica
+T24	ENFERMEDAD 241 256	lesión vascular
+T25	PROCEDIMIENTO 1080 1093	traqueostomía
+T26	PROCEDIMIENTO 188 206	sonda nasogástrica
+T27	SINTOMA 448 483	Cánula orotraqueal normoposicionada
+T28	SINTOMA 561 650	secreciones mucopurulentas impactadas a predominio en bronquios de los lóbulos inferiores
+T29	SINTOMA 896 943	Inflamación generalizada de la mucosa bronquial
+T30	SINTOMA 961 987	secreciones mucopurulentas
+T31	SINTOMA 1070 1110	Cánula de traqueostomía normoposicionada
+T32	SINTOMA 1112 1152	Tráquea y árboles bronquiales permeables
+T33	SINTOMA 1167 1186	secreciones mucosas

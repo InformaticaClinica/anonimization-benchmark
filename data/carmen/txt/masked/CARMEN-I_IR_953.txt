@@ -1,0 +1,20 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Descatar TVP ESD
+LACERACIÓN DE ART. FEMORAL
+
+protocolo:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+conclusiones:
+Extremidad superior derecha
+Venas yugular y confluente yugulo subclavio permeable.
+Tercio lateral de vena subclavia visualizado y vena axilar aumentadas de calibre, con contenido ecogénico, no compresibles y con registro doppler parcial, en relación a TVP.
+Vena basílica, cefálica y humerales permeables y compresibles, sin TVP.
+Portadora de PICC en v basílica.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

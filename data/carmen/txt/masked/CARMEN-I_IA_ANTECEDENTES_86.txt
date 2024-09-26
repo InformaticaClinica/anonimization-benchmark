@@ -1,0 +1,21 @@
+
+ANTECEDENTES PERSONALES:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. Natural de [**TERRITORIO**] ([**PAIS**]). En [**PAIS**] desde el [**FECHAS**].
+Hábitos tóxicos : Bebedor social. No fumador. No refiere otros hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS:
+1- INFECCIÓN POR VIH-1.
+* Diagnóstico alrededor de [**FECHAS**] en [**PAIS**] a raíz de encefalitis herpética. Vía sexual ([**ID_SUJETO_ASISTENCIA**]). En seguimiento desde [**FECHAS**] por Dra.
+[**NOMBRE_PERSONAL_SANITARIO**]. En tratamiento con Byktarvy (Bictegravir + Emtricitabina + Tenofovir alafenamida).
+* Estado inmunológico:
+Última CV: 70 ([**FECHAS**]). Indetectable desde el año [**FECHAS**].
+* Infecciones oportunistas:
+Encefalitis herpética al Dx alrededor de [**FECHAS**].
+Infección gonocócica en [**FECHAS**].
+Ingreso en [**FECHAS**] por orquiepididimitis: sin hallarse gérmen en cultivos. Tratado con cefixima + doxiciclina.
+Último control en CCEE infecciosas en [**HOSPITAL**] en [**FECHAS**].
+2-DISLIPEMIA, mejoría tras cambio a nuevo TAR.
+3-HIPERGLICEMIA con HbA1c de 6.3% en tratamiento con Metformina.
+4-ESTEATOSIS HEPATICA LEVE.
+TRATAMIENTO HABITUAL ([**FECHAS**]):
+Byktarvy desde [**FECHAS**]. Metformina 850 mg/24h, levocabastina colirios/12h, foster 1 inh/12h (desde [**FECHAS**]).
+ 

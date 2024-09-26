@@ -1,0 +1,20 @@
+T6	PROCEDIMIENTO 3 18	DOPPLER FEMORAL
+T7	PROCEDIMIENTO 95 102	doppler
+T8	PROCEDIMIENTO 162 179	FIBROBRONCOSCOPIA
+T9	PROCEDIMIENTO 282 320	BAS y lavado broncoalveolar en língula
+T10	PROCEDIMIENTO 324 344	ELECTROENCEFALOGRAMA
+T11	PROCEDIMIENTO 573 588	ELECTROMIOGRAMA
+T12	PROCEDIMIENTO 731 742	RM de plexo
+T13	PROCEDIMIENTO 746 760	VIDEODEGLUCIÓN
+T14	PROCEDIMIENTO 773 791	Estudi de deglució
+T15	SINTOMA 229 269	secreciones mucosas con restos hemáticos
+T16	SINTOMA 385 437	enlentecimiento difuso delta-theta del ritmo de base
+T17	SINTOMA 442 452	asimetrías
+T18	SINTOMA 456 483	alteraciones epileptiformes
+T19	ENFERMEDAD 133 158	trombosis venosa profunda
+T20	ENFERMEDAD 528 554	disfunción cerebral difusa
+T21	ENFERMEDAD 557 570	encefalopatía
+T22	ENFERMEDAD 624 672	lesión de raíces bajas de plexo braquial (C8-T1)
+T23	SINTOMA 32 73	venas compresibles, de calibre conservado
+T25	SINTOMA 806 837	pas del contrast a la via aèria
+T26	PROCEDIMIENTO 842 876	l'administració de papilla espessa

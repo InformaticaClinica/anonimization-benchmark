@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Hombre de 52 años COVID+ que mantiene, después de más de 10 días, clínica respiratoria, febrícula y RFA elevados. Descartar NOC vs sobreinfección.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Discretas opacidades parcheadas en vidrio deslustrado en ambos LLSS sugestivo de neumonia COVID en resolución.
+Se observa algún pequeño nódulo pulmonar con halo en vidrio deslustrado que aunque podría ser por el mismo COVID se tendría que valorar posibilidda de infección fúngica.
+
+conclusiones:
+vr
+
+descrip:
+TC TORAX

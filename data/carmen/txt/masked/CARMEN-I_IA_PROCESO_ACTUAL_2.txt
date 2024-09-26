@@ -1,0 +1,4 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin antecedentes personales relevantes que acude al Servcio de Urgencias por sensación distérmica sin fiebre termometrada endomicilio, disnea de aparición progresiva hasta hacerse de mínimos esfuerzos, tos con expectoración amarillenta, disgeusia e hiposmia desde hace 4 días.
+Refiere haber presentado hace dos días dos deposiciones diarreicas, autolimitadas y sin productos patológicos. No náuseas, vómitos, clínica miccional ni otra sintomatología asociada.
+Acudió inicialmente el día [**FECHAS**] por tos seca desde el [**FECHAS**], siendo diagnosticada de infección SARS-CoV-2 mediante TAR
+No ha pasado la COVID19 previamente y no está vacunada. Convive con [**FAMILIARES_SUJETO_ASISTENCIA**] e [**FAMILIARES_SUJETO_ASISTENCIA**], negativos, asintomáticos y cumpliendo aislamiento en domicilio.

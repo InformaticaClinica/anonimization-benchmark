@@ -1,0 +1,26 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de 71a ingresada por neumonía bilateral + descompensación IC e IRenal. Se desconoce inicio de síntomas, PCR sugestiva de enfermedad devarios días de evolución (CT de 38 en la PCR), no obstante mantieneevolución tórpida con requerimientos de oxigenoterapia.
+Solicitamos TC SIN CONTRASTE para descartar complicaciones (NOC, sobreinfección). Muchas
+gracias.
+COVID +
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Esternotomía media.Prótesis valvular mitral. Marcapasos.
+Arteria pulmonar dilatada de 31 mm.
+Mínimo derrame pleural bilateral.
+Focos consolidatvos en LII y en segmento apicopostreior del LSI sugestivo de sobreinfección, probablemente bacteriana,sin poder descratra otras etiologías.
+Nódulos pulmonares inespecíficos de 4 y 3 mm en LSD, inespecíficos.
+Patrón de atenuación en mosaico con ténue vidrio deslustrado y probbale atrpamineto de aspecto residual a neumonía COVID
+
+conclusiones:
+VR
+
+descrip:
+TC TORAX

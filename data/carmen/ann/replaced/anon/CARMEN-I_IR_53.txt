@@ -1,0 +1,15 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Paciente ingresado por hematoma talámico con efecto masa con contaminación ventricular (craneotomía evacuadora) + hematoma epidural dranado. Valorar estado.
+Infart cerebral causat per oclusió o estenosi no especificades d'artèria cerebral NE
+
+conclusiones:
+Cambios posquirúrgicos con craniectomía frontotemporoparietal izquierda drenaje de hematoma parenquimatoso  quedando mínimos restos en el lecho quirurgico y en tálamo , colección liquida serohemática en partes blandas . Higroma  subdural de 3cm de espesor hemisférico izquierdo con compresión de lóbulo frontal y mínimas láminas de hematomas subdurales interhemisférico y frontotemporal izquierdo.
+Drenaje ventricular via lobulo frontal que atraviesa el  asta frontal de VL izquierdo , localizandose la punta e parenquima cerebral inmediatamente adyacente a M1 izquierda
+Alteraciones de señal en hemisferio cerebral derecho compatible con isquemia establecida en lóbulo frontal , temporal , insula, lobulo parietal y en hemisferio contralateral en cortex parietal parasagital izquierdo
+
+descrip:
+RM CEREBRAL

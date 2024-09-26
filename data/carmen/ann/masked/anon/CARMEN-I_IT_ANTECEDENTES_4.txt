@@ -1,0 +1,24 @@
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. Fumadora de 3paquetes/día desde los [**EDAD_SUJETO_ASISTENCIA**]. Ha consumido cannabis, cocaína y basuco inhalada y algunas veces inyectada. Dependiente para actividades básicasde la vida diaria; 92% de discapacidad. Actualmente institucionalizada.
+* ANTECEDENTES PATOLÓGICOS:
+1. INFECCIÓN CRÓNICA POR VIH diagnosticado en [**FECHAS**] durante su segundo embarazo.
+- Nadir CD4 15 (3.75%) ([**FECHAS**]) y Zenit CV ([**FECHAS**]): 5.010.000.
+- Último control ([**FECHAS**]): CV 289, CD4 432.
+- Ha realizado 16 esquemas de tratamiento con múltiples interrupciones.
+Actualmente con Symtuza (Darunavir/cobicistat/ emtricitabina/TAF).
+- Serologías [**FECHAS**]: IgG VHA negativo. IgGVHBsAg, HBsAg, HBcoreAg egativo. IgG VHC negativo con VHC Genotipo 3a curada con carga viral positiva en [**FECHAS**], no recibió tratamiento. RNA de control [**FECHAS**], [**FECHAS**] y [**FECHAS**] negativo, no evidencia de hepatopatía. VDLR: negativo. IgG parótidanegativo. Ac rubeóla negativo. Ac VVZ negativo. [**FECHAS**] IgG toxoplasma  negativa. [**FECHAS**] IgG CMV negativa.
+- INFECCIONES OPORTUNISTAS:
+> TUBERCULOSIS MILIAR: diagnosticada en [**FECHAS**], recibió tuberculostáticos durante 9 meses. Durante 2 meses acudía personal médico para administración supervisada de medicación.
+> HERPES ZOSTER OCULAR CON SOBREINFECCIÓN BACTERIANA en [**FECHAS**]. > MENINGITIS CRIPTOCÓCCICA ([**FECHAS**]): tratamiento inicial con anfotericina B liposomal + flucitosina, buena respuesta. Consolidación con fluconazol 200 mg/24h. Ag Criptococo en LCR [**FECHAS**] : Negativo > CONDILOMAS ANALES Y VULVARES. Diagnosticado en [**FECHAS**]. Requiriendo resección.
+> CONDILOMA VULVAR Y PERIANAL  realizandose fulguración en [**FECHAS**]. > NEOPLASIA INTRAEPITELIAL VAGINAL (VAIN II) POR VPH Y NEOPLASIA INTRAEPITELIAL VULVAR (VIN DE GRADO III DE TIPO BASALOIDE): En  [**FECHAS**].
+Requirio conización y exéresis-vaporización láser CO2 el [**FECHAS**]. > DETERIORO COGNITIVO ASOCIADO AL VIH.
+- RMN cerebral ([**FECHAS**]): Atrofia cerebral global córtico-subcortical frontoparietal bilateral. *Neuropsicología ([**FECHAS**]): Déficits motores, en funciones ejecutivas y visuoespaciales compatibles con complejo demencia-VIH.
+> POLINEUROPATÍA AXONOPÁTICA DE GRADO MODERADO ([**FECHAS**]):  en probable relación a VIH mal controlado. *EMG: Muestra mioclonias en extremidades superiores y polineuropatía axonal moderada. Déficit de B12 y Á.fólico ([**FECHAS**]) que recibió tratamiento IM durante un tiempo. Actualmente resuelto.
+> GLOMERULOPATÍA INCIPIENTE Asociada al VIH. Diagnosticado [**FECHAS**] a raíz de proteinúria en rango no nefrótico con función renal normal. En tratamiento con Enalapril como antiproteinúrico.
+> SARCOMA DE KAPOSI ([**FECHAS**]):  presenta una placa eritemato-violácea enmucosa yugal derecha de 2x1 cm de diámetro siendo altamente compatibles con  Sarcoma de Kaposi, no se realiza biopsia cutánea se recomienda     iniciar TARGA.
+2. TROMBOEMBOLISMO PULMONAR segmentario en LÓBULO INFERIOR DERECHO en [**FECHAS**]. Requirió anticoagulación con fondaparinux durante 6 meses, posterior suspensión por Neumologia.
+- Angio TAC pulmonar [**FECHAS**]: destaca presencia de TEP segmentario el lóbulo inferior derecho. Valorado por Neumologia, dado que presenta tendencia a la plaquetopenia se inició tratamiento con fondaparinux.
+3. TROMBOSIS PARCIAL EN VENA CAVA INFERIOR:
+- Último TAC TÓRAX-ABDOMINAL [**FECHAS**]: Disminución de tamaño de las adenopatías mediastínicas. Estabilidad global de las opacidades en vidrio deslustrado y atelectasias laminares, que pueden ser inflamatorias/infecciosas. Disminución aparente de tamaño de la imagen de trombosis parcial en VCI. Segmento de 6.5 cm de sigma con hallazgos compatibles con diverticulitis aguda o bien puede corresponder a una sigmoiditis inflamatoria/infecciosa, de nueva aparición. A valorar ampliar estudio con colonoscopia.
+4. NEUMOPATÍA CRÓNICA ASOCIADA A ASMA BRONQUIAL (Diagnosticada en la infancia) y EPOC Gold D. Tratamiento broncodilatador a demanda. No realiza controles. Multiples episodios de descompensación (5 ingresos desde [**FECHAS**]).
+5. OSTEOPOROSIS CON FRACTURAS VERTEBRALES PATOLOGICAS.
+6. INFECCIONES URINARIAS DE REPETICIÓN

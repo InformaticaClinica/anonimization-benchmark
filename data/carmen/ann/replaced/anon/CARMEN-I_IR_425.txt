@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPITA COVID-19
+
+protocolo:
+RX PORTATIL TORAX
+
+conclusiones:
+Comparativamente con la radiografía previa del 29/4/2021 se observa marcada progresión de la afectación alveolo-intersticial bilateral, que actualmente predomina en la base derecha con formación de consolidación en campo pulmonar inferior.
+El patrón es compatible con afectación por COVID 19.
+
+descrip:
+RX  PORTATIL  TORAX

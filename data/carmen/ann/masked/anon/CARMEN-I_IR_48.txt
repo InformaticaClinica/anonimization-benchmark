@@ -1,0 +1,24 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+Descartar M1 en pacient amb SCC de pulmó recentment diagnosticat i hemiparèsia dreta lleu. Gràcies.
+Debut carcinoma escamoso pulmon
+
+resultados:
+Se realiza RM cerebral mediante secuencias convencionales.
+Se realiza estudio tras administración de contraste ev.
+Estructuras de la línea media centradas.
+Sistema ventricular de tamaño conservado, simétrico.
+No se observan signos de sangrado agudo intra ni extra axial.
+Pequeña imagen quistica a nivel del talamo izdo sin captacion.
+Cisternas de la base no colapsadas.
+La señal del parenquima cerebral se enceuntra globalmente conservada. No se aprecian artefactos en secuencias de GRE ni hallazgos en DWI.
+En conclusión, el estudio se enceuntra dentro de limites de la normalidad.
+
+conclusiones:
+.
+
+descrip:
+RM CEREBRAL

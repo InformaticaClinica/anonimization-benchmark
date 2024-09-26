@@ -1,0 +1,14 @@
+T5	FARMACO 282 299	hidroxicloroquina
+T6	FARMACO 302 313	azatioprina
+T7	FARMACO 315 326	lopinavir/r
+T8	FARMACO 430 441	Tocilizumab
+T9	SINTOMA 94 100	fiebre
+T10	SINTOMA 238 256	PCR-Covid positiva
+T11	SINTOMA 342 368	alteración perfil hepático
+T12	ENFERMEDAD 166 203	infección respiratoria por SARS-CoV-2
+T13	PROCEDIMIENTO 539 565	aislamiento epidemiológico
+T14	HUMANO 1 9	Paciente
+T15	SPECIES 193 203	SARS-CoV-2
+T16	PROCEDIMIENTO 238 247	PCR-Covid
+T17	ENFERMEDAD 242 247	Covid
+T1	SINTOMA 380 401	empeoramiento clínico

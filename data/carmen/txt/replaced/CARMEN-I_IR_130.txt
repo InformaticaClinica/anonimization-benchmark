@@ -1,0 +1,27 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Pacient amb hepatitis immunomediada, que havia millorat d ela colèstasi amb corticoides i ara presenta d enou elevació de bilirrubina de 20 mg/dL. Interessa descartar causa de colèstasi sobreafegida. Gràceis.
+Melanoma E-IV-M1c en respuesta completa
+
+protocolo:
+Ecografia abdominal.
+
+resultados:
+Fetge de mida i ecostructura normal i de vores llises, sense lesions focals evidents.
+Vena porta permeable, de diàmetre normal, fluxe hepatopetal i velocitats dins de la normalitat.
+Venes hepàtiques permeables.
+Melsa homogènia de mida normal.
+Vesícula biliar alitiàsica, de paret fina. Via biliar no dilatada.
+Pàncrees de morfologia i ecogenicitat normal.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No dilatació de la via excretora.
+No es veu líquid lliure.
+
+conclusiones:
+Ecografia abdominal dins de la normalitat.
+
+descrip:
+ECO BASAL (ABDOMEN)

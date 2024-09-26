@@ -1,0 +1,23 @@
+
+prueba:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO
+
+clinica:
+Pacient amb antecedent de transplantament hepàtic i VIH amb mala adherència terapèutica. Actualment amb CD4 < 200 i CV positiva. Ingressa per febre sense focus. Interessa ecografia abdominal per estudi. Moltes gràcies!
+FIEBRE EN ESTUDIO
+
+protocolo:
+ECOGRAFIA ABDOMINAL.
+
+conclusiones:
+Hígado de tamaño normal, con alteración difusa de la ecoestructura y contornos irregulares por hepatopatía crónica. Quiste simple de 30 mm en cúpula diafragmática y algún otro infracentimétrico. Sin lesiones focales sólidas.
+Vía biliar no dilatada.
+V.Porta permeable de calibre normal, con flujo hepatopetal de velocidades normales. Arteria hepática permeable (IR hiliar: 0.58). V.
+suprahepáticas y v. Cava inferior permeables.
+Leve esplenomegalia homogénea (13.4 cm) con imagenes puntiformes ecogénicas, sin cambios.
+Páncreas no visible por interposición de gas intestinal.
+Riñones de tamaño y morfología normal. Quiste simple de 30 mm en RD con algún septo fino. No hay dilatación de la vía excretora.
+No hay ascitis.
+
+descrip:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO

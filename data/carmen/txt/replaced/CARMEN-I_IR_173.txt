@@ -1,0 +1,21 @@
+
+prueba:
+TC TORAX
+
+clinica:
+sospecha NOC
+NEUMONIA POR COVID-19
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Múltiples focos en vidrio deslustrado bilaterales de predominio periferico. Algun foco mas consolidativo en LID. Pequeñas consolidaciones subpleurales bibasales. Engrosamientos peribronquiales.
+Atelectasias laminares bibasales.
+
+conclusiones:
+Los hallazgos descritos son sugestivas de neumonia focal organizativa 2ª a covid 19.
+
+descrip:
+TC TORAX

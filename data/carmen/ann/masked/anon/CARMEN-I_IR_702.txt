@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+PTE RESULT COVID19
+
+protocolo:
+RX TORAX
+
+conclusiones:
+Placa en espiración que dificulta la valoración de la misma.
+No hay signos de progresión respecto a la RX previa (estabilización)
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,57 @@
+T6	ENFERMEDAD 216 253	adenopatías mediastínicas ni axilares
+T7	ENFERMEDAD 289 319	derrame pleural ni pericárdico
+T8	ENFERMEDAD 419 452	afectación pulmonar por con COVID
+T9	ENFERMEDAD 481 509	atelectasias subsegmentarias
+T10	ENFERMEDAD 511 538	bronquiectasias de tracción
+T11	ENFERMEDAD 611 630	neumonía organizada
+T12	ENFERMEDAD 669 698	afectación pulmonar por COVID
+T13	ENFERMEDAD 715 734	neumonía organizada
+T14	ENFERMEDAD 878 942	TEP agudo en rama arterial del segmento basal lateral y anterior
+T15	ENFERMEDAD 944 1078	Neumomediastino de nueva aparición, de predominio anterior, que se extiende cranealmente hacia los espacios intermusculares del cuello
+T16	ENFERMEDAD 1188 1215	sangrado agudo intracraneal
+T17	ENFERMEDAD 1250 1276	lesiones isquémicas agudas
+T18	ENFERMEDAD 1953 1965	ateromatosis
+T19	ENFERMEDAD 2029 2041	ateromatosis
+T20	ENFERMEDAD 2197 2267	enfisema entre los planos profundos de ambas regiones laterocervicales
+T21	ENFERMEDAD 2270 2285	neumomediastino
+T22	ENFERMEDAD 2536 2562	lesiones isquemicas agudas
+T23	ENFERMEDAD 2721 2736	neumomediastino
+T24	ENFERMEDAD 2757 2789	afectación pulmonar por COVID-19
+T25	ENFERMEDAD 2816 2819	TEP
+T26	ENFERMEDAD 1217 1246	lesiones ocupantes de espacio
+T27	SINTOMA 808 816	sangrado
+T28	SINTOMA 1330 1359	Sistema ventricular simétrico
+T29	SINTOMA 1564 1618	alteración en el mapa TTD a nivel del tálamo izquierdo
+T30	SINTOMA 1880 1913	Sistema vertebrobasilar permeable
+T31	SINTOMA 2382 2395	consolidación
+T32	ENFERMEDAD 2857 2866	hematomas
+T33	ENFERMEDAD 1979 1988	estenosis
+T34	ENFERMEDAD 2055 2064	estenosis
+T35	PROCEDIMIENTO 4 24	RADIOGRAFÍA DE TÓRAX
+T36	PROCEDIMIENTO 140 156	ANGIOTC PULMONAR
+T37	PROCEDIMIENTO 739 767	ANGIOTC PULMONAR Y ABDOMINAL
+T38	PROCEDIMIENTO 829 831	TC
+T39	PROCEDIMIENTO 1090 1092	TC
+T40	PROCEDIMIENTO 1125 1136	TC CEREBRAL
+T41	PROCEDIMIENTO 1156 1172	TC CRANEAL BASAL
+T42	PROCEDIMIENTO 1292 1294	TC
+T43	PROCEDIMIENTO 1523 1535	TC PERFUSIÓN
+T44	PROCEDIMIENTO 1770 1799	ANGIO-TC EXTRA E INTRACRANEAL
+T45	PROCEDIMIENTO 2400 2411	RM CEREBRAL
+T46	PROCEDIMIENTO 2564 2583	Exploración angioRM
+T47	PROCEDIMIENTO 2619 2647	ANGIOTC PULMONAR Y ABDOMINAL
+T48	PROCEDIMIENTO 2683 2685	TC
+T49	SINTOMA 26 64	Infiltrados intersticiales bilaterales
+T50	SINTOMA 173 199	pulmonar de calibre normal
+T51	SINTOMA 321 370	Patrón alveolar y en vidrio deslustrado bilateral
+T52	SINTOMA 541 585	signos de retracción parenquimatosa pulmonar
+T53	SINTOMA 1392 1431	Estructuras de la línea media centradas
+T54	SINTOMA 1433 1464	Cisternas basales no colapsadas
+T55	SINTOMA 1466 1518	Ocupación de ambos senos maxilares de aspecto mucoso
+T56	SINTOMA 1630 1653	afectación de CBV y CBF
+T57	SINTOMA 1801 1858	Principales arterias cerebrales intracraneales permeables
+T58	SINTOMA 2066 2157	Catéter venoso central con acceso yugular derecho y extremo distal en la vena cava superior
+T59	PROCEDIMIENTO 2066 2088	Catéter venoso central
+T60	SINTOMA 2318 2362	opacidades en vidrio deslustrado bilaterales
+T61	SINTOMA 2564 2614	Exploración angioRM actual dentro de la normalidad
+T62	SINTOMA 2889 2904	sangrado activo

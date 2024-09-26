@@ -1,0 +1,43 @@
+ Paciente mujer de [**EDAD_SUJETO_ASISTENCIA**], sin AMC. Ex-fumadora. Niega otros hábitos tóxicos. Autonoma para ABVD. Vive con cuñado.
+
+ANTECEDENTES PATOLÓGICOS:
+1. HTA en tratamiento con anti-hipertensor.
+2. NEOPLASIA DE VEJIGA EN [**AÑO_PATOLOGICO**], tratada con instilaciones vesicales.
+3. Pólipo plano en ciego. Mucosectomía en [**AÑO_PATOLOGICO**]. AP: adenoma tubular.
+4. Hipotiroidismo en tratamiento con levotiroxina.
+5. Peritonitis tras apendicetomia.
+6. Insuficiencia vascular EEII.
+* Eco-Doppler 02/2015: No TVP. No TVS. Variz pretibial EII.
+7. Osteoporosis con fractrura a nivel de columna toracica, tratamiento con teriparatide que no ha iniciado, calcio, vitaminaD
+
+HISTORIA ONCOLOGICA: CARCINOMA MICROCITICO PULMONAR
+PRIMER SINTOMA: En abril 2005 presenta de forma aguda malestar general se realiza Rx que evidencia uengrosamiento hiliar
+
+EXPLORACIONES COMPLEMENTARIAS:
+- BAS: negativo para malignidad
+- GGO (23/7/5) Los Naranjos: negativa para malignidad
+- TAC (18/5/5) Instituto: enfisema centracinar y septal.
+Imagenes nodulares eb hilio izquierdo de hasta 3 cm compatiblescon adenopatias.
+- TAC (17/03) Hospital de Alta Resolución de Marbella: Gruesas adenopatías hiliares izquierdas de 25 mm de diámetro máximo,y paatraqueales del mismo lado.
+Pequeñas adenopatías en ventan Ao-P.
+- FBS (17/03) H. Virxe da Regla: no evidencia de Alteraciones mascroscopicas endobronquiales-PAAF ganglionar,
+- EBUS: 4L y 11 L: compatible con metastasis de [**TIPO_CELULAS**] carcinoma
+
+Inicia tratamiento con CDDP-VP16-RDT x 4 ciclos (Abril ? febrero 2006) con respuesta completa, realiza RT craneal profilactia.
+
+RECIDIVA O SEGUNDO PRIMARIO pulmonar derecho:
+-TC 1/7/16: Masa pulmonar perihiliar en LSD de 37 mm con adenopatías hiliares y nódulos satélites. La masa descrita infiltra la arteria segmnetari aanterior del LSD. Es compatible con ca broncogénico
+- Biopsia guiada por EUS: cracinoma microcitico pulmonat(cT2N1M0)
+
+Inicia tratamiento con CDDP-VP16+RDT radical en agosto 2016, C4 el 12/4, sin tratamiento desde entonces
+* Incidencias: ingreso hospitalario x neutopenia febril 2o ciclo .
+
+- Último PET TC 8 deoctubre 2016:
+Se compara con estudios previos (PET/TC del 24/01/2017). Aumento del metabolismo del tronco encefálico, hallazgo no caracterizable por PET, sin cambios respecto estudios previos. A valorar ampliar estudio con RM.
+Cambios fibróticos paramediastínicos izquierdos y engrosamiento cisural en probable relación a cambios posradioterapia, sin cambios, y sin captaciones significativas de FDG. No se visualizan captaciones patológicas de FDG parahiliares derechas. Engrosamientos pleuroparenquimatosos apicales bilaterales. Enfisema paraseptal y centrolobulillar de predominio en LLSS. Atelectasias e imágemes pseudonodulares en LSD con discreta captación de FDG (SUVmax 1,6) en el contexto de bronquectasias, no presente en el estudio previo, sugestivo de proceso infeccioso. Resolución de las opacidades en vidro deslustrado visualizadas en el estudio previo. Captación focal de FDG en la grasa subcutánea torácica supero-lateral izquierda, sin traducción en las imágenes de TC, inespecífica. Aplastamiento vertebral de T7, agudo por la captación de FDG, y asociado a aumento de densidad.
+
+- RMN SNC: sin M1
+
+Seguimineto por Dra Isona
+
+MEDICACIÓN HABITUAL: Teriparatida [**DOSIS**]mcg/[**VOLUMEN**]mcl 1c/24h, calcio + vitamina D [**DOSIS**]mg/[**DOSIS**]UI 1 comp c/24h, levotiroxina [**DOSIS**]mcg c/24h, simvastatina [**DOSIS**]mg c/24h, AAS [**DOSIS**]mg c/24h, nebivolol [**DOSIS**]mg c/24h, Lorazepam [**DOSIS**]mg c/24h, aldosterona [**DOSIS**]mg c/24h.

@@ -1,0 +1,35 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Interesa TC abdominal en paciente con embolización gastroduodenal el pasado 31/07 por HDA recidivante con bacteriemia por BGN. Gracias.
+COVID-19
+
+protocolo:
+Se realiza TC ABDOMINAL URGENTE basal y tras administración de contraste e.v., con adquisición en fases arterial tardía y portal.
+
+resultados:
+Se compara con TC ABDOMINAL del 31/07/2017.
+Leve derrame pleural bilateral con atelectasias pasivas subyacentes. No derrame pericárdico.
+Sonda nasogástrica.
+Hígado homogéneo de morfología, contornos y atenuación normales. Sin lesiones focales sospechosas.
+Vesícula biliar de tamaño y morfología normal. No se visualiza dilatación de la vía biliar intra y/o extrahepática.
+Vena porta y eje espleno-mesentérico permeables. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Bazo de tamaño en el límite superior de la normalidad (12,5 cm). Se observan varios focos hipodensos no presentes en TC previo, compatibles con infartos esplénicos.
+Glándula pancreática de tamaño discretamente aumentado, especialmente en su porción cefálica, donde la captación es heterogénea, e incluso se identifica un área hipodensa de 23mm sospechosa de foco de necrosis.
+Se objetivan exudados peripancreáticos que desciende en por la fascia pararrenal anterior derecha y también a través del mesocolon transverso.
+Los hallazgos son compatibles con pancreatitis aguda.
+Clip endoscópico en zona del bulbo duodenal. Material de embolización de la arteria gastroduodenal.
+Páncreas y glándulas suprarrenales de tamaño y morfología dentro de la normalidad.
+Glándulas suprarrenales y riñones de morfología normal. No hay evidencia de dilatación de la vía excretora. Sondaje vesical.
+No se observan adenopatías retropetitoneales o ilíacas de tamaño valorable.
+Trasposición izquierda de la vena cava inferior infrarrenal. Aneurisma de aorta abdominal infrarrenal de 4 cm, estable.
+
+conclusiones:
+Cambios compatibles con pancreatitis aguda con exudados peripancreáticos y presencia de una zona de hipocaptación en cabeza pancreática sospechosa de necrosis.
+Infartos esplénicos de nueva aparición.
+Resto sin hallazgos significativos.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

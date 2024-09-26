@@ -1,0 +1,1 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**], [**PROFESION**], con dolor lumbar crónico y problemas de movilidad.

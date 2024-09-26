@@ -1,0 +1,62 @@
+T13	SINTOMA 785 795	colestasis
+T14	ENFERMEDAD 865 888	anemia macrocítica leve
+T15	ENFERMEDAD 1131 1146	infección COVID
+T17	ENFERMEDAD 2137 2148	infecciones
+T19	FARMACO 1245 1255	remdesivir
+T20	FARMACO 1279 1290	enoxaparina
+T21	FARMACO 2159 2171	Dexametasona
+T22	FARMACO 2180 2189	meropenem
+T23	FARMACO 2192 2203	daptomicina
+T24	FARMACO 2465 2477	dexametasona
+T25	FARMACO 2515 2529	Levolfloxacino
+T26	HUMANO 380 388	paciente
+T27	HUMANO 1150 1158	paciente
+T28	HUMANO 1506 1514	paciente
+T29	HUMANO 2290 2298	paciente
+T30	PROCEDIMIENTO 73 81	DIÁLISIS
+T31	PROCEDIMIENTO 83 152	Vacunación correcta tres dosis, abril y diciembre de 2018 con moderna
+T32	PROCEDIMIENTO 491 512	auscultación pulmonar
+T33	PROCEDIMIENTO 517 535	electrocardiograma
+T34	PROCEDIMIENTO 562 581	analítica sanguínea
+T35	PROCEDIMIENTO 996 1004	diálisis
+T36	PROCEDIMIENTO 1035 1055	radiografía de tórax
+T37	PROCEDIMIENTO 1378 1386	diálisis
+T38	PROCEDIMIENTO 1544 1552	diálisis
+T39	PROCEDIMIENTO 1782 1790	diálisis
+T40	PROCEDIMIENTO 2046 2054	Rx tórax
+T41	PROCEDIMIENTO 2084 2092	Rx tórax
+T42	PROCEDIMIENTO 2211 2214	PCR
+T43	PROCEDIMIENTO 2501 2512	antibiótico
+T44	SINTOMA 182 200	síndrome diarreico
+T45	SINTOMA 202 210	rinorrea
+T46	SINTOMA 213 233	sensación distérmica
+T47	SINTOMA 402 427	hemodinámicamente estable
+T48	SINTOMA 430 437	afebril
+T49	SINTOMA 594 640	elevación discreta de reactantes de fase aguda
+T50	SINTOMA 663 675	leucocitosis
+T51	SINTOMA 844 863	hiperbilirrubinemia
+T52	SINTOMA 949 969	troponinas negativas
+T53	SINTOMA 1075 1086	infiltrados
+T54	SINTOMA 1736 1747	pico febril
+T55	SINTOMA 1797 1808	pico febril
+T56	SINTOMA 1909 1921	leucocitosis
+T57	SINTOMA 2016 2032	infiltrado basal
+T58	SPECIES 27 37	SARS-COV-2
+T60	ENFERMEDAD 17 37	INFECCIÓN SARS-COV-2
+T61	ENFERMEDAD 42 69	INSUFICIENCIA RENAL CRÓNICA
+T62	PROCEDIMIENTO 243 246	PCR
+T63	SINTOMA 243 255	PCR positiva
+T64	PROCEDIMIENTO 268 271	PCR
+T65	FARMACO 317 327	Remdesivir
+T66	PROCEDIMIENTO 329 332	PCR
+T67	SINTOMA 544 557	ritmo sinusal
+T68	SINTOMA 696 713	ferritina elevada
+T69	SINTOMA 751 780	alteración del perfi hepático
+T70	SINTOMA 1010 1030	alteraciones iónicas
+T71	FARMACO 1636 1646	Remdesivir
+T72	FARMACO 2235 2245	Remdesivir
+T73	PROCEDIMIENTO 445 456	exploración
+T1	SINTOMA 1827 1890	empeoramiento de los parámetros inflamatorios a nivel analítico
+T2	SINTOMA 2308 2335	mejoría clínica y analítica
+T3	PROCEDIMIENTO 2326 2335	analítica
+T4	SINTOMA 2337 2395	disminuyendo los parametros analíticos de forma progresiva

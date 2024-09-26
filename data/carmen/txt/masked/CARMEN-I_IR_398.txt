@@ -1,0 +1,26 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente con vasculitis ANCA-MPO (probable GPA) con aumento de transaminasas progresivo (ALT/AST 309/193 U/L) y GGT 85. Rogamos ecografía abdominal. Gracias!
+VASCULITIS MPO
+
+protocolo:
+Ecografía abdominal basal
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal
+
+conclusiones:
+Estudio sin alteraciones destacables.
+
+descrip:
+ECO BASAL (ABDOMEN)

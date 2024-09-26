@@ -1,0 +1,78 @@
+T7	SINTOMA 71 77	fiebre
+T8	SINTOMA 79 96	tos no productiva
+T9	SINTOMA 98 104	disnea
+T10	SINTOMA 106 115	disgeusia
+T11	SINTOMA 166 191	hemodinamicamente estable
+T12	SINTOMA 193 204	taquipneico
+T13	SINTOMA 209 218	hipoxemia
+T14	SINTOMA 330 354	hipofonesis generalizada
+T15	SINTOMA 471 481	linfopenia
+T16	SINTOMA 516 539	infiltrados bilaterales
+T17	SINTOMA 1571 1598	disnea de mínimos esfuerzos
+T18	SINTOMA 1601 1609	ortopnea
+T19	SINTOMA 1614 1630	edemas en las EI
+T20	SINTOMA 2093 2115	dolor torácico atípico
+T21	SINTOMA 2140 2145	mareo
+T22	SINTOMA 2148 2169	malestar en epigastro
+T23	SINTOMA 2414 2441	dolor torácico inespecífico
+T24	SINTOMA 2473 2485	ortostatismo
+T25	SINTOMA 2608 2611	tos
+T26	SINTOMA 2680 2701	crepitantes bibasales
+T27	SINTOMA 128 139	edema de EI
+T28	SINTOMA 432 448	elevación de RFA
+T29	SINTOMA 1135 1166	patrón de Neumonía organizativa
+T30	SINTOMA 2305 2325	troponinas negativas
+T31	SINTOMA 2446 2457	pre-sincope
+T32	SINTOMA 2632 2645	expectoración
+T33	SINTOMA 294 324	uso de musculatorioa accesoria
+T34	SINTOMA 359 382	crepitantes bilaterales
+T35	SINTOMA 829 840	infiltrados
+T36	SINTOMA 1313 1319	edemas
+T37	SINTOMA 1731 1737	edemas
+T38	SINTOMA 1836 1892	opacidades alveolares pulmonares perifericas bilaterales
+T39	SINTOMA 2750 2780	focos consolidativos bibasales
+T40	ENFERMEDAD 39 42	HTA
+T41	ENFERMEDAD 44 46	DM
+T42	ENFERMEDAD 48 56	Obesidad
+T43	ENFERMEDAD 400 426	insuficiencia respiratoria
+T44	ENFERMEDAD 566 597	Neumonía bilateral por COVID-19
+T45	ENFERMEDAD 609 626	ICC descompensada
+T46	PROCEDIMIENTO 723 744	tratamiento depletivo
+T47	FARMACO 878 889	Tocilizumab
+T48	PROCEDIMIENTO 941 961	bolus de corticoides
+T49	FARMACO 1067 1075	Anakinra
+T50	FARMACO 1088 1099	Baricitinib
+T51	PROCEDIMIENTO 1205 1216	corticoides
+T52	FARMACO 1362 1364	O2
+T53	PROCEDIMIENTO 226 257	oxigenoterápia con VMASK al 35%
+T54	PROCEDIMIENTO 487 498	Radiografía
+T55	PROCEDIMIENTO 1109 1120	TC torácico
+T56	PROCEDIMIENTO 1742 1744	Rx
+T57	PROCEDIMIENTO 2561 2575	ecocardiograma
+T58	PROCEDIMIENTO 2664 2676	auscultación
+T59	PROCEDIMIENTO 2713 2721	Rx torax
+T60	PROCEDIMIENTO 2809 2823	cultiva esputo
+T61	PROCEDIMIENTO 2965 2976	aislamiento
+T62	HUMANO 1 9	Paciente
+T63	HUMANO 1470 1478	paciente
+T64	PROCEDIMIENTO 387 390	GSA
+T65	PROCEDIMIENTO 685 699	triple terapia
+T66	PROCEDIMIENTO 702 720	antibioticoterápia
+T67	PROCEDIMIENTO 797 811	oxigenoterapia
+T68	ENFERMEDAD 1145 1166	Neumonía organizativa
+T69	PROCEDIMIENTO 1282 1296	oxigenoterapia
+T70	ENFERMEDAD 1336 1339	ICC
+T71	ENFERMEDAD 2364 2372	isquemia
+T72	PROCEDIMIENTO 2346 2349	ECG
+T73	PROCEDIMIENTO 1919 1939	analitica de control
+T74	PROCEDIMIENTO 2907 2916	analitica
+T75	PROCEDIMIENTO 1701 1711	diureticos
+T76	PROCEDIMIENTO 274 285	exploración
+T77	PROCEDIMIENTO 2919 2930	radiológica
+T78	PROCEDIMIENTO 1019 1028	analítico
+T1	SINTOMA 1264 1296	requerimientos de oxigenoterapia
+T2	SINTOMA 768 811	aumentando requerimientos de oxigenoterapia
+T3	SINTOMA 1765 1784	mejoria radiológica
+T4	PROCEDIMIENTO 1773 1784	radiológica
+T5	SINTOMA 1949 1988	mejoria de los parametros inflamatorios
+T6	SINTOMA 1509 1532	mejoria de su autonomía

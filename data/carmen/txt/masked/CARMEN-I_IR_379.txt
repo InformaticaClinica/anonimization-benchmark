@@ -1,0 +1,37 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Shock séptico foco abdominal + valoración de progresión de neumotórax.
+comentado con sección de tórax (Dr. [**NOMBRE_PERSONAL_SANITARIO**]). SHOCK SÉPTICO ABDOMINAL
+
+protocolo:
+TC toracoabdominal en fase arterial y portal urgente
+
+resultados:
+Se compara con el TC previo del [**FECHAS**] y del [**FECHAS**]:
+TÓRAX:
+Traqueostomía. Tubo traqueal. SNG con extremo distal en cavidad gástrica. Catéter venoso central derecho de gran calibre con extremo distal en tercio medio de la VCS. Acceso venoso yugular izquierdo con extremo en unión cavo-atrial.
+Enfisema subcutáneo en hemitórax izquierdo que ha disminuido respecto al TC previo.
+No se observa derrame pleural ni pericárdico.
+Moderado neumotórax derecho con tubo de tórax, de aspecto similar al estudio previo. Importante neumotórax izquierdo que ha aumentado respecto al TC previo. Tubo de tórax izquierdo que presenta marcada angulación a nivel subcutáneo y probablemente demasiado retirado, a reposicionar.
+En ambos pulmones, LM y língula se observan varias imágenes quísticas pulmonares, una de ellas con localizada en LID con un pequeño nivel hidroaéreo.
+Disminución de la extensión y densidad de las opacidades en vidrio deslustrado bilaterales así como de los focos consolidativos bibasales, persistiendo únicamente una consolidación basal izquierda, todo ello en relación a infección por COVID-19 en resolución.
+ABDOMEN: Hígado de tamaño y estructura normal, sin lesiones focales evidentes.
+Stent biliar. Aerobilia, más abundante en el estudio actual. Moderada dilatación de la via biliar intrahepática, de aspecto similar al estudio previo.
+Gran hidrops vesicular (vesícula de 15 x 7 cm) con una zona de aparente discontinuidad de la pared vesicular en fundus. Se encuentra rodeada de una marcada cantidad de liquido libre perivesicular con extensión perihepática, en gotiera paraólica derecha y pelvis, así como subfrénico y en goteria paracóliza izquierdos. Presencia de neumoperitoneo en hipocondrio derecho y realce peritoneal asociado. Estos hallazgos sugieren una colecistitis perforada con coleperitoneo asociado. El aire se explicaría por paso de aerobilia por el stent biliar.
+Vena porta y eje esplenomesentérico permeables. Bazo y glándulas suprarrenales sin alteraciones. Páncreas con leve dilatación del conducto de Wirsung y una imagen de aspecto quístico en cuello (15 mm).
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales. Aumento trabeculación en espacio prevesical.
+Sondaje vesical. Presencia de material metálico en colon correspondiente a prótesis biliar migrada.
+
+conclusiones:
+- Neumotórax bilateral siendo moderado en el lado derecho y severo en el lado izquierdo, dónde ha aumentado respecto al TC previo. Angulación del tubo de drenaje izquierdo que además se encuentra demasiado retirado, a reposicionar.
+- Mejoría radiológica de la infección por COVID-19.
+- Hallazgos sugestivos de colecistitis perforada con coleperitoneo asociado y neumoperitoneo (debido al stent biliar que permite el paso de aerobilia).
+- Prótesis biliar migrada, en la actualidad en cólon descendente.
+*OBSERVACIONES: De acuerdo con su equipo médico se procede a colocar colecistostomía + drenaje subhepático ecoguiados (ver correspondiente informe).
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

@@ -1,0 +1,17 @@
+
+   
+* INFORME DE INGRESO [**INSTITUCION**]
+1. NEUMONÍA INTERSTICIAL BILATERAL POR COVID-19.
+FECHA INICIO SÍNTOMAS: [**FECHAS**]
+FECHA INGRESO URGENCIAS H CLÍNIC: [**FECHAS**]
+DIAGNÓSTICO COVID-19: Frotis + el [**FECHAS**]
+FECHA INGRESO [**INSTITUCION**]: [**FECHAS**]
+MEDICACIÓN COVID: Lopinavir/r + Hidroxicloroquina + Azitromicina / Tocilizumab (dos dosis [**FECHAS**]).
+INICIO TRATAMIENTO ESPECÍFICO: [**FECHAS**]
+FIN DE TRATAMIENTO ESPECÍFICO: [**FECHAS**]
+A su llegada al [**INSTITUCION**] presenta buen estado general, se encuentra afebril, eupneico y con saturación O2 97% (FiO2 21%), TA 120/57, FC 86 bpm. Durante su estancia presenta buena evolución, sin requerimiento de oxigenoterapia, con resolución de disnea leve y con tos escasa puntual.
+2. TROMBOSIS DE VENAS MUSCULARES EXTERNAS DE LA PIERNA DERECHA.
+El [**FECHAS**] durante su ingreso en [**HOSPITAL**] presenta dolor en cara lateral externa de pierna derecha sin objetivar a la exploración signos de TVP.
+Analítica del día previo con dímero D de >10.000 por lo que se solicita eco-doppler de miembros inferiores que mostró signos compatibles con trombosis de las venas musculares externas de la pierna afectada. Se inicia anticoagulación con enoxaparina a dosis de 1.5 mg/kg/d. Durante su estancia en [**INSTITUCION**], se objetiva un aumento progresivo de transaminasas que se atribuye a enoxaparina, por lo que se cambia a dabigatran 150mg/12h (en la situación actual se desaconseja el cambio a acenocumarol por el elevado número de controles que precisa, especialmente al inicio). Durante la estancia en [**INSTITUCION**] presenta mejora subjetiva, con mejoría del dolor y sin aumento de diámetro de la extremidad. Al alta deberá completar 3 meses de anticoagulación y se recomienda control con su médico de área básica de salud.
+Dada la buena evolución y la ausencia de signos de alarma se decide alta a domicilio. El paciente ha realizado > 21 días de aislamiento desde inicio de los síntomas.
+   

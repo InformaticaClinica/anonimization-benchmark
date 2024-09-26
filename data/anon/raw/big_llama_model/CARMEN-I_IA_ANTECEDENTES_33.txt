@@ -1,0 +1,21 @@
+ Antecedentes personales:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] años sin alergias medicamentosas conocidas ni hábitos tóxicos. Vive sola, independiente para las ABVD.
+ANTECEDENTES PATOLÓGICOS:
+1. ESCLEROSIS MÚLTIPLE: seguimiento en [**INSTITUCION**], diagnosticada [**FECHAS**] por hallazgos en imagen por cervicalgia. No ha presentado brotes ni progresión.
+2. INCONTINENCIA URINARIA: En seguimiento por [**PROFESION**] y tratamiento con mirabregon.
+3. FIBROMIALGIA
+4. Melanoma estadio IA de bajo riesgo, intervenido
+5. Gastritis por H. Pylori tratado ([**FECHAS**])
+ANTECEDENTES QUIRÚRGICOS:
+- Hidro-neumotórax traumático ([**FECHAS**]): se colocó drenaje pleural temporal con debito de [**NUMERO_TELEFONO**]cc.
+- Fractura de húmero derecho([**FECHAS**]): tratamiento con osteosíntesis.
+MEDICACIÓN HABITUAL
+Cinitaprida: [**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h
+Omeprazol: [**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h
+Clorazepato: [**NUMERO_TELEFONO**] mg c/[**NUMERO_TELEFONO**]h
+Lormertazepam [**NUMERO_TELEFONO**]mg: [**NUMERO_TELEFONO**] comprimidos c/[**NUMERO_TELEFONO**]h
+Trazodona: [**NUMERO_TELEFONO**]mg/d
+Pregabalina: [**NUMERO_TELEFONO**] mg/d
+Condroitin sulfato [**NUMERO_TELEFONO**]mg: [**NUMERO_TELEFONO**] tab/[**NUMERO_TELEFONO**]h
+Calcifediol: [**NUMERO_TELEFONO**]amp c/[**NUMERO_TELEFONO**] días
+Calcio + VD: [**NUMERO_TELEFONO**] tableta c/[**NUMERO_TELEFONO**]h.

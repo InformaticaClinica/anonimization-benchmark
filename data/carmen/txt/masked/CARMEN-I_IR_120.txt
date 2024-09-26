@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], ingrés el dia [**FECHAS**] amb neumonia bilateral per covid amb progressió radiològica a la placa de tòrax. Ha rebut tocilizumab + bolus corticoides però persisteix amb requeriment d'O2 i inflamació analítica (ferritina 2000) i ddímer 500-> 1200. Decartar TEP i valorar sipersisteix inflamació per a nou antiinflamatori. Gràcies!
+Neumonía por COVID 19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+Opacidades en vidrio delustrado con patrón en empedrado bilaterales de distribución periférica y de predominio en bases pulmonares, con consolidación en LID. Se acompaña de moderadas bandas subpleurales y leve desestructuración del parénquima pulmonar. Hallazgos compatibles con afectación pulmonar por COVID, con signos de neumonía organizativa.
+Moderad enfisema pulmonar paraseptal, de predominio en LLSS.
+No se observa derrame pleural ni pericárdico.
+Adenopatía de 10 mm patraqueal baja derecha.No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Lesión hipodensa de 2.6 cm en lóbulo tiroideo izquierdo que amerita estudio dirigido con ecografía.
+
+conclusiones:
+No se observan signos que sugieran TEP.
+Hallazgos compatibles con afectación pulmonar por COVID, con signos de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

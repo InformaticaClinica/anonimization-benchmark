@@ -1,0 +1,29 @@
+T7	SINTOMA 47 95	infiltrado intersticial bibasal y en campo medio
+T8	SINTOMA 191 229	infiltrados intersticiales bilaterales
+T9	SINTOMA 1135 1166	Bazo homogéneo de tamaño normal
+T10	SINTOMA 1260 1288	líquido libre intraabdominal
+T11	SINTOMA 107 133	Senos costofrénicos libres
+T12	SINTOMA 309 343	Pinzamiento de senos costofrénicos
+T13	SINTOMA 508 547	Áreas de aumento de densidad parcheadas
+T14	SINTOMA 863 914	Hígado de tamaño normal con ecoestructura homogénea
+T15	SINTOMA 948 986	Vena porta permeable de calibre normal
+T16	SINTOMA 989 1006	flujo hepatopetal
+T17	SINTOMA 1056 1078	Vía biliar no dilatada
+T18	SINTOMA 1080 1133	Páncreas (cabeza y cuerpo) sin alteraciones evidentes
+T19	SINTOMA 1168 1208	Riñones de tamaño y ecoestructura normal
+T21	SINTOMA 1008 1054	Vesícula biliar de paredes finas, no litiásica
+T22	SINTOMA 713 752	Áreas periféricas en vidrio deslustrado
+T23	SINTOMA 617 711	focos consolidativos bilaterales con distribución periférica y predominio en campos inferiores
+T24	ENFERMEDAD 407 412	COVID
+T25	ENFERMEDAD 780 801	neumonía organizativa
+T26	ENFERMEDAD 816 824	fibrosis
+T27	PROCEDIMIENTO 2 22	RADIOGRAFÍA DE TÓRAX
+T28	PROCEDIMIENTO 136 156	RADIOGRAFÍA DE TÓRAX
+T29	PROCEDIMIENTO 346 366	RADIOGRAFÍA DE TÓRAX
+T30	PROCEDIMIENTO 451 453	RX
+T31	PROCEDIMIENTO 463 483	RADIOGRAFÍA DE TÓRAX
+T32	PROCEDIMIENTO 589 600	TC TORÁCICO
+T33	PROCEDIMIENTO 827 846	ECOGRAFÍA ABDOMINAL
+T34	SINTOMA 383 412	Afectación pulmonar por COVID
+T35	ENFERMEDAD 1214 1244	dilatación de la vía excretora
+T36	ENFERMEDAD 920 936	lesiones focales

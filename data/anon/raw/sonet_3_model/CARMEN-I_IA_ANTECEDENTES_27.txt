@@ -1,0 +1,22 @@
+Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. No hábitos tóxicos. Natural de [**PAIS**], reside en [**TERRITORIO**] desde hace 6-7 meses.
+
+** VALORACIÓN GERIÁTRICA:  
+- SÍNDROMES GERIÁTRICOS: pérdida agudeza visual e hipoacusia bilaterales, labilidad emocional ([**FAMILIARES_SUJETO_ASISTENCIA**]) e insomnio.
+- COMORBILIDAD: Charlson ajustado por edad 7 puntos.
+- FUNCIONAL: Barthel 85 puntos. Dependencia leve. Deambulación en casa independiente pero en la calle necesita acompañante.
+- COGNITIVO: Pfeiffer 7 errores (podría estar afectado por sedación post FGS-USE).
+- SOCIAL: Vive con [**FAMILIARES_SUJETO_ASISTENCIA**]. Vive en piso con ascensor. No tiene activada la teleasistencia. Buen soporte familiar.
+
+** ANTECEDENTES PATOLÓGICOS:
+1.- ANEMIA FERROPÉNICA en tratamiento con Profer. 
+2.- SÍNDROME DEL MANGUITO DE LOS ROTADORES. Se realizó ecografía el [**FECHAS**] en [**HOSPITAL**] en la que se objetivó: tendinosis bicipital leve con mínima tenosinovitis, tendinopatía cálcica supraespinoso y capsulopatía inflamatoria acromioclavicular leve. En tratamiento con tramadol PRN.
+3.- Posible NEOPLASIA a nivel de ampolla duodenal/vía biliar/páncreas.
+Visitada por oncología del [**HOSPITAL**] ([**FECHAS**]): diagnosticada en [**PAIS**] el 2016 a raiz de ictericia de una lesión ulcerada multinodular desde rodilla duodenal hasta papila (según informe de endoscopia parece infiltración desde pancreas). Desconocemos diagnóstico patológico. Se trató con papilotomía y colocación de stent. Desde entonces (>1 año) sin ningún tratamiento.
+Dado que el cuadro no era claramente sugestivo de malignidad, se realizó TC abdominal ([**FECHAS**]) (engrosamiento mural concéntrico de 2ª porción duodenal con papila prominente) y endoscopia digestiva alta ([**FECHAS**]) (2ª porción duodenal retraida con pliegue engrosado y prominente, no visualiza papila) con toma de biopsias ([**FECHAS**]) (ausencia de signos de malignidad) que no han confirmado el diagnóstico
+Es visitada por el servicio de digestivo del [**HOSPITAL**] ([**NOMBRE_PERSONAL_SANITARIO**]) el [**FECHAS**], los cuales programan ecoendoscopia urgente para evaluar bien la zona y volver a tomar biopsias dado que la sospecha de que sea maligno es muy alto. Se le programa para el [**FECHAS**].
+
+** INTERVENCIONES QUIRÚRGICAS:
+1.- APENDICECTOMÍA a los [**EDAD_SUJETO_ASISTENCIA**].
+
+** MEDICACIÓN HABITUAL ([**FECHAS**]): [**OTROS_SUJETO_ASISTENCIA**] 1mL gotas PRN, [**OTROS_SUJETO_ASISTENCIA**] 2 cápsulas/24h (1-0- 0-1-0) vo, [**OTROS_SUJETO_ASISTENCIA**] 1 sobre (0-1-0-0-0).

@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varon de [**EDAD_SUJETO_ASISTENCIA**] con AP de EPOC 2B y cuadro clínico, analítico y radiológico compatible con infección por COVID. Presenta en A/S de urgencias DD de 9900 + elevación mínima de tropos de 70. Ruego angioTC preferente para descartar TEP. Gracias!!
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampcoo se evidencia dilatación del tronco común de la arteria pulmonar.
+Ateromatosis calcificada de las arterias coronarias, especialmente evidente en la rama descendente anterior. Ateromatosis calcificada aórtica, con áreas de trombosis mural.No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Áreas con patrón en "crazy paving" (vidrio deslustrado + engrosamientos septales) bilaterales y periféricas en los campos pulmonares medio e inferiores, que presentan áreas con tendencia a la consolidación y formación de bandas subpleurales con bronquioloectasias de tracción en su interior. Los halalzgos descritos son compatibles con una infección pulmonar por COVID-19 con tendencia a la fibrosis. No se observa derrame pleural ni pericárdico.
+Colecistectomía. Bazo accesorio de 10 mm.
+
+conclusiones:
+- No se observa TEP.
+- Infección pulmonar por COVID-19 con tendencia a la fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

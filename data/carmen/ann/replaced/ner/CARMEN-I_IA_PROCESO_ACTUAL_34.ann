@@ -1,0 +1,120 @@
+T22	ENFERMEDAD 660 691	anemia macrocítica normocrómica
+T23	ENFERMEDAD 1163 1178	derrame pleural
+T24	ENFERMEDAD 1232 1249	enfisema pulmonar
+T25	ENFERMEDAD 1284 1361	aneurisma de aorta infrarrenal, de 40 mm de diámetro, parcialmente trombosado
+T26	ENFERMEDAD 1423 1459	patología aguda torácica o abdominal
+T27	ENFERMEDAD 1487 1512	hemorragia digestiva alta
+T28	ENFERMEDAD 1529 1544	enolismo activo
+T29	ENFERMEDAD 1550 1575	insuficiencia renal aguda
+T30	ENFERMEDAD 1587 1605	angor hemodinámico
+T31	ENFERMEDAD 2081 2105	varices esofagogástricas
+T32	ENFERMEDAD 2143 2218	shock hemorrágico por hemorragia digestiva alta secundaria a ulcus duodenal
+T33	ENFERMEDAD 2861 2893	sangrado activo a nivel duodenal
+T34	ENFERMEDAD 3793 3809	broncoaspiración
+T35	ENFERMEDAD 3919 3940	neumonía por COVID-19
+T36	ENFERMEDAD 4136 4152	broncoaspiración
+T37	ENFERMEDAD 1943 2018	úlcera de 8-10 mm a nivel de rodilla del bulbo duodenal con sangrado activo
+T38	ENFERMEDAD 3960 3968	COVID-19
+T39	SINTOMA 109 150	disnea progresiva hasta hacerse de reposo
+T40	SINTOMA 152 169	tos no productiva
+T41	SINTOMA 171 184	palpitaciones
+T42	SINTOMA 187 237	dolor torácico opresivo retroesternal intermitente
+T43	SINTOMA 307 338	deposiciones diarreicas oscuras
+T44	SINTOMA 367 378	taquipneico
+T45	SINTOMA 384 404	trabajo respiratorio
+T46	SINTOMA 407 419	taquicárdico
+T47	SINTOMA 421 431	normotenso
+T48	SINTOMA 468 487	palidez mucocutánea
+T49	SINTOMA 490 532	tacto rectal con restos de heces melénicas
+T50	SINTOMA 538 555	Fecatest positivo
+T51	SINTOMA 716 728	leucocitosis
+T52	SINTOMA 771 808	elevación de reactantes de fase aguda
+T53	SINTOMA 885 907	función renal alterada
+T54	SINTOMA 1060 1073	ritmo sinusal
+T55	SINTOMA 1097 1130	alteraciones en la repolarización
+T56	SINTOMA 1404 1419	sangrado activo
+T57	SINTOMA 1721 1732	rectorragia
+T58	SINTOMA 1737 1764	intestabilidad hemodinámica
+T59	SINTOMA 2561 2583	deposiciones melénicas
+T60	SINTOMA 2586 2598	rectorragias
+T61	SINTOMA 2721 2736	sangrado activo
+T62	SINTOMA 2768 2779	rectorragia
+T63	SINTOMA 2791 2817	inestabilidad hemodinámica
+T64	SINTOMA 3059 3068	sangrados
+T65	SINTOMA 3322 3331	agitación
+T66	SINTOMA 3591 3605	picos febriles
+T67	SINTOMA 3638 3662	condensaciones bibasales
+T68	ENFERMEDAD 4644 4656	vegetaciones
+T69	PROCEDIMIENTO 1801 1819	soporte vasoactivo
+T70	FARMACO 1824 1837	noradrenalina
+T71	FARMACO 2241 2254	noradrenalina
+T72	FARMACO 2343 2354	pantoprazol
+T73	FARMACO 2378 2388	furosemida
+T74	FARMACO 2391 2399	albúmina
+T75	FARMACO 3525 3534	midazolam
+T76	FARMACO 4164 4176	clindamicina
+T77	FARMACO 4182 4193	ceftriaxona
+T78	FARMACO 4328 4337	linezolid
+T79	FARMACO 4441 4451	fluconazol
+T80	FARMACO 4522 4531	linezolid
+T81	FARMACO 4544 4555	daptomicina
+T82	FARMACO 4558 4569	rifampicina
+T83	PROCEDIMIENTO 449 467	exploración física
+T84	PROCEDIMIENTO 567 585	sonda nasogástrica
+T85	PROCEDIMIENTO 841 856	Perfil hepático
+T86	PROCEDIMIENTO 1053 1056	ECG
+T87	PROCEDIMIENTO 1132 1140	Rx tórax
+T88	PROCEDIMIENTO 1191 1210	TAC toracoabdominal
+T89	PROCEDIMIENTO 1619 1663	Se transfundieron 3 concentrados de hematíes
+T90	PROCEDIMIENTO 1776 1788	sueroterapia
+T91	PROCEDIMIENTO 1853 1856	IOT
+T92	PROCEDIMIENTO 1859 1862	VMI
+T93	PROCEDIMIENTO 1911 1931	endoscopia digestiva
+T94	PROCEDIMIENTO 2225 2228	IOT
+T95	PROCEDIMIENTO 2231 2234	VMI
+T96	PROCEDIMIENTO 2611 2660	transfusión de hasta 16 hemoconcentrados y plasma
+T97	PROCEDIMIENTO 2676 2679	FGS
+T98	PROCEDIMIENTO 2841 2849	angio-TC
+T99	PROCEDIMIENTO 2911 2914	FGS
+T100	PROCEDIMIENTO 3140 3198	embolización por radiología intervencionista vs quirúrgico
+T101	PROCEDIMIENTO 3372 3375	IOT
+T102	PROCEDIMIENTO 3385 3393	extubado
+T103	PROCEDIMIENTO 3448 3451	FGS
+T104	PROCEDIMIENTO 3499 3502	VMI
+T105	PROCEDIMIENTO 3614 3622	Rx tórax
+T106	PROCEDIMIENTO 3678 3681	TAC
+T107	PROCEDIMIENTO 4034 4053	frotis nasofaringeo
+T108	PROCEDIMIENTO 4202 4210	cultivos
+T109	PROCEDIMIENTO 4283 4310	filmarray aspirado traqueal
+T110	PROCEDIMIENTO 4403 4415	urinocultivo
+T111	PROCEDIMIENTO 4482 4494	hemocultivos
+T112	PROCEDIMIENTO 4582 4610	ecocardiograma transtorácico
+T113	HUMANO 1516 1524	paciente
+T114	SPECIES 4250 4265	microorganismos
+T115	SPECIES 4267 4271	MRSA
+T116	SPECIES 4274 4281	proteus
+T117	SPECIES 4339 4355	Candida albicans
+T118	SPECIES 4385 4401	Candida albicans
+T119	SPECIES 4454 4480	Staphylococcus epidermidis
+T120	PROCEDIMIENTO 538 546	Fecatest
+T121	PROCEDIMIENTO 490 502	tacto rectal
+T122	SINTOMA 600 632	restos hemáticos en poso de café
+T123	SINTOMA 1145 1159	condensaciones
+T124	PROCEDIMIENTO 1943 2062	úlcera de 8-10 mm a nivel de rodilla del bulbo duodenal con sangrado activo que se esclerosó y se colocaron 4 hemoclips
+T125	PROCEDIMIENTO 2356 2399	Se forzó diuresis con furosemida y albúmina
+T126	SINTOMA 2935 2979	sangrado activo (Forrest Ib) entre los clips
+T127	PROCEDIMIENTO 2981 3036	Se realizó nueva esclerosis y colocación de 2 hemoclips
+T128	PROCEDIMIENTO 3470 3481	se reintubó
+T129	PROCEDIMIENTO 3508 3544	sedonalgesia con midazolam y mórfico
+T130	PROCEDIMIENTO 3537 3544	mórfico
+T131	SINTOMA 3702 3767	consolidaciones pulmonares en segmentos posteriores de LLSS y LID
+T132	SINTOMA 3825 3888	focos parcheados periféricos de vidrio deslustrado en LLSS y LM
+T133	PROCEDIMIENTO 3953 3968	PCR de COVID-19
+T134	SINTOMA 3953 4012	PCR de COVID-19 hasta en 3 ocasiones, todas ellas negativas
+T135	PROCEDIMIENTO 4056 4073	aspirado traqueal
+T136	PROCEDIMIENTO 960 963	EAB
+T137	SINTOMA 841 863	Perfil hepático normal
+T138	ENFERMEDAD 968 1006	acidosis metabólica hiperlactacidémica
+T139	PROCEDIMIENTO 640 649	analítica
+T140	PROCEDIMIENTO 4223 4265	se aislaron los siguientes microorganismos
+T1	SINTOMA 2423 2450	mejoría de la función renal

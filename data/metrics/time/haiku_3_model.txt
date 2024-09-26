@@ -1,0 +1,1 @@
+Execution time of haiku_3_model: 1027.4316730499268 seconds

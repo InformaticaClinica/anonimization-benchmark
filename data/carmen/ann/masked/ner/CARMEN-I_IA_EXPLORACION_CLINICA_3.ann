@@ -1,0 +1,17 @@
+T6	PROCEDIMIENTO 77 91	Pulsioximetría
+T7	SINTOMA 279 287	Anasarca
+T8	SINTOMA 289 321	edema blando sobretodo en la ESD
+T9	SINTOMA 440 455	roncus aislados
+T10	SINTOMA 520 533	rigidez nucal
+T11	SINTOMA 538 548	meningismo
+T12	SINTOMA 553 574	focalidad neurológica
+T13	SINTOMA 368 405	soplo sistolico de predominio aortico
+T14	SINTOMA 363 366	TCR
+T15	SINTOMA 421 438	Eupneica en repos
+T16	SINTOMA 478 483	Vigil
+T17	SINTOMA 485 515	orientada en espacio y persona
+T18	SINTOMA 407 412	IY-/+
+T19	SINTOMA 414 419	RHY +
+T20	SINTOMA 457 476	moviliza sececiones
+T21	HUMANO 324 328	hiaj
+T22	SINTOMA 337 360	extravasación de la via

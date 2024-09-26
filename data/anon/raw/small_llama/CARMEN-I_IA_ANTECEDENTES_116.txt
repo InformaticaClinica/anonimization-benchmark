@@ -1,0 +1,8 @@
+ ANTECEDENTES PERSONALES:
+Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, exfumador desde 2004 (DA < 5 paq/año), consumo de enol moderado (semanalmente destilados), no consumo de otros tóxicos.
+Natural de [**PAIS**], en España desde hace 5 años, tiene tres yernos en [**PAIS**]. Vive con su primo en [**TERRITORIO**] y trabaja de [**PROFESION**].
+Barrera idiomática
+ANTECEDENTES PATOLÓGICOS:
+1.- [**FAMILIARES_SUJETO_ASISTENCIA**] en [**PAIS**].
+INTERVENCIONES QUIRÚRGICAS: [**FAMILIARES_SUJETO_ASISTENCIA**].
+MEDICACIÓN HABITUAL: no refiere.

@@ -1,0 +1,25 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**], cardiopatía isquémica y EPOC, ingresa por neumonía covid-19. Se detecta plaquetopenia de hasta 35000, con hematuria. Descartar por favor datos de cirrosis/esplenomegalia que lo pudieran justificar.
+Bicitopenia
+
+protocolo:
+ecografia doppler abdominal.
+
+conclusiones:
+Fetge de mida, ecogenicitat i ecostructura normal, sense lesions focals evidents. Contorns hepàtics regulars.
+Vena porta permeable, de diàmetre normal amb flux hepatopetal.
+Melsa homogènia de mida normal (10'3 cm).
+Vesícula biliar poc distesa, litiàsica i de paret fina.
+Via biliar no dilatada.
+Pàncrees (cap-cos) sense alteracions.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No hi ha dilatació de la via excretora.
+Aorta abdominal de calibre normal.
+no hi ha líquid lliure intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

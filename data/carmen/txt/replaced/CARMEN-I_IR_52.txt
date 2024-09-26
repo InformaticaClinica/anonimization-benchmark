@@ -1,0 +1,42 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente de 55 años ingresada por pancreatitis aguda necrotizante etiologia biliar, con coleccion peripancreática. Persiste dolor abdominal y en analítica incremento de los marcadores inflamatorios.
+Se solicita TAC control para la próxima semana.
+pancreatitis aguda necrotizante
+
+protocolo:
+Se realiza TC abdominal con contraste ev. Se adquieren las imágenes en fase portal. Se compara con el estudio previo del 5/5/2012
+NOTA. TC a tres semanas del inicio de los síntomas.
+
+resultados:
+Hígado de tamaño y morfología normalcon esteatosis hepática.
+Quiste hepático simple (10mm) subcapsular anterior en segmento VIII.
+Vesícula biliar listiásica y paredes finas. Vía biliar no dilatada.
+Vena porta permeable y de calibre normal.
+Eje esplenomesentérico permeable. Ligera disminución del calibre de la VMS distal, adyacente al confluente, sin cambios valorables respecto estudio previos. Ligera disminución del segmento de la vena esplénica adyacente al confluente, no presente en estudio previo. No se observan imágenes de trombos en el eje esplácnico.
+Páncreas con areas hipocaptantes en parte de su parénquima a nivel de de la cabeza, cuerpo y cola del páncreas. Hallazgos correspondientes a una pancreatitis aguda necrotizante con necrosis pancreática (<50%) del parénquima. Es posible que exista una desconexión del Wirsung entre cuerpo y cola pancreáticos.
+Persisten las colecciones necróticas agudas a nivel peripancreático que se extienden al saco menor, raiz del mesenterio y espacio pararrenal anterior izquierdo. Muestran unas paredes mejor definidas y un ligero aumento de tamaño, sobre todo en la porción caudal (grosor de 64mm, previo de 55mm) que contacta anteriormente con la pared posterior del cuerpo gástrico. Tienen un contenido discretamente heterogèneo, sin gas.
+Finas bandas de líquido libre en ambos espacios parieto-cólicos y en pelvis, sin cambios valorables respecto estudio previo.
+Tronco celíaco, arteria mesentérica superior e inferior permeables, sin alteraciones valorables.
+Arteria renal derecha de morfología arrosariada y sin ateromatosis ni calcificaciones, permeable (posible displasia fibrosmuscular), con imagen de aneurisma sacular yuxtahiliar de 14 mm, estable  Arteria renal izq de morfología normal, con diminuto aneurisma hiliar de 4 mm.
+Bazo en el límite superior de la normalidad (12.9 cm).
+Glándulas suprarrenales de tamaño y morfología normal.
+Riñones de tamaño y morfología normal, con quistes corticales bilaterales.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable. Pequeños ganglios retroperitoneales de aspecto reactivo.
+Práctica resolución del derrame pleural derecho. Estabilidad del derrame pleural izquierdo.
+Catéter ev con extremo distal en VCS.
+Disminución de tamaño de las áreas parcheadas en vidrio deslustrado en ambas bases pulmonares, que sugerían proceso infeccioso.
+
+conclusiones:
+Pancreatitis aguda necrotizante (TC a las 3 semanas de iniciados los síntomas):
+-estabilidad de la necrosis glandular pancreática. Posible desconexión del Wirsung en cuerpo-cola pancreáticos.
+-colecciones necróticas agudas con paredes mejor definidas y contenido heterogéneo. Respecto estudio previo se objetiva un ligero crecimiento en la porción caudal de la colección.
+-Disminución de calibre en los segmentos de la VMS y vena esplénica adyacentes al confluente, sin trombos.
+Disminución de tamaño de las áreas parcheadas en vidrio deslustrado en ambas bases pulmonares, que sugerían proceso infeccioso. Práctica resolución del derrame pleural derecho.
+Resto del estudio sin cambios.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

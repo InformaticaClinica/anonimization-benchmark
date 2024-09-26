@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Insuficiencia respiratoria por covid-19 que no mejora tras tratamiento antivírico e inmunomodulador. D-dímero en ascenso. Ruego angioTC pulmonar para descartar TEP. Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+ANGIOTC PULMONAR
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de arteria pulmonar de 28 mm. No se observan signos de sobrecarga derecha. Presenta reflujo de contraste a la vena cava inferior sugestivo de insuficiencia cardíaca derecha.
+No se observan adenopatías axilares de aspecto patológico. Pequeñas adenopatías paratraqueales derechas subcentimétricas.
+Se observan múltiples áreas de vidrio deslustrado de predominio periférico y distribución peribroncovascular, sugerente de infección por COVID-19. En el estudio de perfusión pulmonar no objetivo áreas de hipoperfusión pero sí algunas zonas aisladas de hiperperfusión en zonas de vidrio deslustrado que sugieren inflamación.
+Presenta algunas bandas subpleurales y bronquiectasias con leve engrosamiento bronquial. No se observan focos de consolidación actualmente. Granulomas calcificados en los segmentos apical del lóbulo superior derecho y apicoposterior del culmen. Quiste aéreo de 35 x 33 mm en língula.
+No se observa derrame pleural o pericárdico.
+Cambios degenerativos en columna vertebral toracolumbar.
+Presenta pequeñas imágenes paravertebrales bilaterales extrapleurales en las porciones inferiores de la columna torácica que sugerirían una hematopoyesis extramedular (valorar la existencia de anemia).
+En cortes abdominales se observa lesión hiperdensa lateral a curvatura mayor del estómago, de 27 x 24 mm, redondeada, homogénea, de difícil caracterización con este estudio, a valorar con estudio dirigido.
+
+conclusiones:
+No se observan signos de TEP.
+Opacidades en vidrio deslustrado sugerentes de infección por COVID-19.
+Lesión abdominal a valorar con estudio dirigido.
+
+descrip:
+ANGIO TC PULMONAR

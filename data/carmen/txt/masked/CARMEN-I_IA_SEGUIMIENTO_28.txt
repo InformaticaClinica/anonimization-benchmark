@@ -1,0 +1,2 @@
+Se remite a seguimiento en consultas externas de Cirugía Ortopédica y Traumatología (Edificio [**CALLE**]) con el Dr. [**NOMBRE_PERSONAL_SANITARIO**] el [**FECHAS**] con analítica de control.
+Si no se le facilita volante de cita, solicítela en el [**NUMERO_TELEFONO**], extensión [**NUMERO_TELEFONO**].

@@ -1,0 +1,52 @@
+T7	SINTOMA 25 78	infiltrados intersticiales en ambos campos pulmonares
+T8	SINTOMA 117 145	alteraciones del segmento ST
+T9	SINTOMA 509 572	opacidad en vidrio deslustrado periféricos en ápices pulmonares
+T10	SINTOMA 951 1011	infiltrados algodonosso bilaterales de predominio perfiérico
+T11	SINTOMA 204 288	defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias
+T12	SINTOMA 316 377	Permeabilidad del tronco pulmonar principal,de calibre normal
+T13	SINTOMA 626 688	áreas consolidativas subpleurales que afectamn ambos hemitórax
+T14	SINTOMA 1436 1473	engrosamientos parietales bronquiales
+T15	SINTOMA 1614 1724	focos consolidativos bilaterales de distribución periférica, persistiendo en LLII de localización posterobasal
+T16	SINTOMA 1740 1816	áreas en vidrio deslustrado peribroncovasculares periféricas y perilobulares
+T17	ENFERMEDAD 1829 1853	dilataciones bronquiales
+T18	SINTOMA 2190 2250	áreas en vidrio deslustrado peribroncovasculares periféricas
+T19	SINTOMA 1614 1673	focos consolidativos bilaterales de distribución periférica
+T20	SINTOMA 2116 2175	focos consolidativos bilaterales de distribución periférica
+T21	SINTOMA 595 615	focos consolidativos
+T22	ENFERMEDAD 305 314	TEP agudo
+T23	ENFERMEDAD 394 431	adenopatías axilares ni mediastínicas
+T24	ENFERMEDAD 463 489	calcificaciones coronarias
+T25	ENFERMEDAD 714 733	infección por COVID
+T26	ENFERMEDAD 748 778	Leve derrame pleural bilateral
+T27	ENFERMEDAD 794 813	derrame pericárdico
+T28	ENFERMEDAD 846 849	TEP
+T29	ENFERMEDAD 861 880	infección por COVID
+T30	ENFERMEDAD 1110 1147	adenopatías axilares ni mediastínicas
+T31	ENFERMEDAD 1169 1195	Calcificaciones coronarias
+T32	ENFERMEDAD 1204 1229	derrame pleural bilateral
+T33	ENFERMEDAD 1290 1309	derrame pericárdico
+T34	ENFERMEDAD 1311 1345	Bronquiectasias varicosas en el LM
+T35	ENFERMEDAD 1371 1430	bronquiectasias cilíndricas de predominio en língula y LLII
+T36	ENFERMEDAD 1873 1894	neumonía organizativa
+T37	ENFERMEDAD 1899 1920	neumonía organizativa
+T38	ENFERMEDAD 1985 2007	infección por COVID-19
+T39	ENFERMEDAD 2269 2290	neumonía organizativa
+T40	ENFERMEDAD 2295 2316	neumonía organizativa
+T41	ENFERMEDAD 2381 2403	infección por COVID-19
+T42	PROCEDIMIENTO 3 23	RADIOGRAFÍA DE TÓRAX
+T43	PROCEDIMIENTO 82 85	ECG
+T44	PROCEDIMIENTO 147 149	QT
+T45	PROCEDIMIENTO 152 174	ANGIO TC TORAX URGENTE
+T46	PROCEDIMIENTO 897 908	Rx de tórax
+T47	PROCEDIMIENTO 1014 1022	TC TÓRAX
+T48	PROCEDIMIENTO 1052 1069	angio-TC pulmonar
+T49	PROCEDIMIENTO 1487 1489	TC
+T50	PROCEDIMIENTO 1535 1552	angio-TC pulmonar
+T51	PROCEDIMIENTO 2055 2072	angio-TC pulmonar
+T52	SINTOMA 1343 1368	LM con pérdida de volumen
+T53	PROCEDIMIENTO 1934 1945	radiológico
+T54	PROCEDIMIENTO 2330 2341	radiológico
+T1	SINTOMA 1571 1590	mejoría radiológica
+T2	PROCEDIMIENTO 1579 1590	radiológica
+T3	SINTOMA 2023 2042	Mejoría radiológica
+T4	PROCEDIMIENTO 2031 2042	radiológica

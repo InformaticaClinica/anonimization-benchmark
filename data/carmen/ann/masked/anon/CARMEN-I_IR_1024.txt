@@ -1,0 +1,37 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] amb neo de cèrvix estable que ingressa per colitis por C.
+difficile i úlceres a esòfag/duodè/sigma. A PET-TC de revaloració s'observa hipercaptació pancreàtica difusa. Interessa completar estudi amb TC. Gràcies
+ulceras colónicas
+
+protocolo:
+TC ABDOMINOPELVICO
+Mediante técnica helicoidal se realizan cortes axiales desde diafragmas hasta sínfisis púbica tras la administración de contraste i.v. en fase portal.
+
+resultados:
+Se compara con PET-TC previo del [**FECHAS**] y [**FECHAS**].
+Hígado de tamaño normal. Severa esteatosis difusa. No se observan lesiones focales hepáticas.
+Vesícula biliar de tamaño y morfología normal. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeable. Tronco celíaco, arteria mesentérica superior y ramas distales permeables.
+Páncreas de aspecto edematoso en cuerpo y cola sin observarse areas de necrosis, asociado a trabeculación de la grasa adyacente y discreto líquido peripancreático.  Conducto pancreático principal no dilatado.
+Halllazgos comaptible con páncreatitis aguda
+No se observan colecciones.
+Bazo y glándulas suprarrenales de tamaño y morfología normal.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Riñon izquierdo de tamaño y morfología normal, riñon derecho discretamente disminuido de tamaño (8.5 cms). Nefrostomía bilateral.
+Leve ectasia ureteral bilateral. En 1/3 medio de uréter derecho se observa una burbuja de gas, probablemente en relación a drenaje de la vía urinaria ipsilateral.
+Se observa un marcado engrosamiento hipodenso de la pared del recto - sigma con captacion de la mucosa ccompatible con colitis
+Minimo edema de asas de ID difuso.
+Aumento del líquido libre intrabdominal (periesplénico, perihepático, gotieras parietocólicas bilateral, pelvis).
+Anejo izquierdo auemntado de tamaño de 36 mm, estable respecto a estudios previos.
+Cervix atrofico
+En cortes torácicos incluidos en el estudio se observa derrame pleural bilateral de predominio derecho que condiciona atelectasia pasiva del LID.
+
+conclusiones:
+Hallazgos sugestivos de pancreatitis aguda edematosa-intersticial. No se observan colecciones actuales.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

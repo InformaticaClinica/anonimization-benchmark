@@ -1,0 +1,59 @@
+T17	ENFERMEDAD 273 307	Hemorragia digestiva alta variceal
+T18	ENFERMEDAD 395 414	Ascitis refractaria
+T19	ENFERMEDAD 524 570	intolerancia diuréticos con AKI e hiponatremia
+T20	ENFERMEDAD 558 570	hiponatremia
+T21	ENFERMEDAD 757 769	hipervolemia
+T22	ENFERMEDAD 1149 1165	hernia umbilical
+T23	ENFERMEDAD 1701 1708	ascitis
+T24	ENFERMEDAD 1984 1991	ascitis
+T25	ENFERMEDAD 2042 2044	EH
+T26	ENFERMEDAD 2137 2139	DM
+T27	ENFERMEDAD 2438 2484	TCE a los 19 años por accidente en motocicleta
+T28	PROCEDIMIENTO 348 355	banding
+T29	FARMACO 358 369	propranolol
+T31	HUMANO 25 31	Hombre
+T32	PROCEDIMIENTO 430 454	paracentesis evacuadoras
+T33	PROCEDIMIENTO 713 741	cateterismo cardiaco derecho
+T34	PROCEDIMIENTO 883 907	paracentesis evacuadoras
+T35	PROCEDIMIENTO 1038 1061	paracentesis evacuadora
+T36	PROCEDIMIENTO 1079 1098	colocacion del TIPS
+T37	PROCEDIMIENTO 1221 1249	Se explora hasta fondo cecal
+T38	PROCEDIMIENTO 1456 1506	ileoscopia explorando profundamente ileon terminal
+T39	SINTOMA 83 90	Fumador
+T40	SINTOMA 558 570	hiponatremia
+T41	SINTOMA 1191 1219	distensión de marco colónico
+T42	ENFERMEDAD 929 961	encefalopatia hepatica episodica
+T43	ENFERMEDAD 48 71	alergias medicamentosas
+T44	ENFERMEDAD 211 237	CIRROSIS HEPÁTICA POR ENOL
+T45	ENFERMEDAD 266 269	HDA
+T46	ENFERMEDAD 371 391	Gastropatia HTPortal
+T47	PROCEDIMIENTO 322 369	profilaxis secundaria con banding y propranolol
+T48	ENFERMEDAD 552 555	AKI
+T49	PROCEDIMIENTO 641 652	Re-stenting
+T50	PROCEDIMIENTO 580 598	colocacion de TIPS
+T51	PROCEDIMIENTO 798 816	colocacion de TIPS
+T52	ENFERMEDAD 993 1025	oclusion/pseudooclusion colonica
+T53	PROCEDIMIENTO 1166 1169	FCS
+T54	ENFERMEDAD 1238 1295	fondo cecal identificando a ese nivel neumatosis de pared
+T55	SINTOMA 1408 1443	Válvula ileocecal de aspecto normal
+T57	ENFERMEDAD 1550 1566	lesiones mucosas
+T58	SINTOMA 1568 1632	Mucosa colónica de aspecto normal con patrón vascular conservado
+T59	PROCEDIMIENTO 1633 1636	Eco
+T60	ENFERMEDAD 1652 1656	LOEs
+T61	SINTOMA 1658 1673	porta permeable
+T62	SINTOMA 1675 1689	TIPS permeable
+T63	PROCEDIMIENTO 1675 1679	TIPS
+T64	SINTOMA 1847 1867	TIPS DISFUNCIONANTES
+T65	SINTOMA 1901 1922	TIPS, disfuncionantes
+T66	ENFERMEDAD 2049 2073	ENFERMEDAD RENAL CRÓNICA
+T67	PROCEDIMIENTO 2154 2166	hemodialisis
+T68	ENFERMEDAD 2262 2285	pseudooclusion colonica
+T69	ENFERMEDAD 2301 2325	DIABETES MELLITUS TIPO I
+T70	ENFERMEDAD 2207 2210	NTA
+T71	FARMACO 2345 2362	insulina actrapid
+T72	ENFERMEDAD 2385 2409	HERNIA UMBILICAl gigante
+T73	PROCEDIMIENTO 1710 1734	Funcion hepatica y renal
+T74	PROCEDIMIENTO 1385 1396	exploración
+T1	ENFERMEDAD 101 123	abstinencia de alcohol
+T2	PROCEDIMIENTO 149 166	determinación ETG
+T3	SINTOMA 149 175	determinación ETG negativa

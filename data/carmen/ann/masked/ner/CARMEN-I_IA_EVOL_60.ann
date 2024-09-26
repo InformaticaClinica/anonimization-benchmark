@@ -1,0 +1,30 @@
+T1	PROCEDIMIENTO 170 188	exploración física
+T2	PROCEDIMIENTO 319 328	ionograma
+T3	PROCEDIMIENTO 336 351	perfil hepático
+T4	PROCEDIMIENTO 362 371	hemograma
+T5	PROCEDIMIENTO 424 444	radiografia de torax
+T6	PROCEDIMIENTO 752 769	broncodilatadores
+T7	PROCEDIMIENTO 662 677	frotis COVID 19
+T8	PROCEDIMIENTO 737 750	antipireticos
+T9	PROCEDIMIENTO 304 317	función renal
+T10	PROCEDIMIENTO 388 398	Hemostasia
+T11	SINTOMA 68 93	hemodinamicamente estable
+T12	SINTOMA 95 101	febril
+T13	SINTOMA 133 144	taquicardia
+T14	SINTOMA 146 154	eupneica
+T15	SINTOMA 200 211	hipofonesis
+T16	SINTOMA 216 225	agregados
+T17	SINTOMA 472 486	condensaciones
+T18	ENFERMEDAD 2 42	INFECCIÓN RESPIRATORIA POR SARS-COVID 19
+T19	ENFERMEDAD 549 580	infección de vias respiratorias
+T20	FARMACO 634 648	hidrocortisona
+T21	FARMACO 772 789	hidroxicloroquina
+T22	PROCEDIMIENTO 248 267	analítica sanguinea
+T23	SPECIES 29 42	SARS-COVID 19
+T24	ENFERMEDAD 376 386	citopenias
+T25	SINTOMA 304 360	función renal, ionograma, LDH y perfil hepático en rango
+T26	SINTOMA 388 407	Hemostasia en rango
+T27	SINTOMA 490 516	pinzamientos costofrenicos
+T28	SINTOMA 662 698	frotis COVID 19 que resulta positivo
+T29	SINTOMA 840 859	estabilidad clínica
+T30	ENFERMEDAD 669 677	COVID 19

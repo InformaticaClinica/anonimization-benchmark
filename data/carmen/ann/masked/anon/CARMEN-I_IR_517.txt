@@ -1,0 +1,21 @@
+
+prueba:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRAN EAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ue presenta lesiones isquémicas agudas bilaterales y microangiopatía de predominio anterior tipo CADASIL. Solicito RM de control, gracias.
+RM nit.
+ENCEFALOPATÍA DIFUSA CON SÍNDROME BULBAR
+
+conclusiones:
+Estudio muy artefactado por los movimientos del paciente.
+Múltiples lesiones isquémicas de características agudas en sustancia blanca subcortical y periventricular sin otras alteraciones asociadas.
+Extensas áreas de hiperseñal en sustancia blanca supratentorial, núcleocapsular bilateral y en protuberancia, todo ello en relacion con angiopatia microvascular.
+Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas.
+Cisternas de la base libres.
+Estructuras de linea media centradas.
+Estudio de Angio-RM arterial intracraneal sin alteraciones significativas.
+Resto del estudio sin otras alteraciones significativas.
+
+descrip:
+RM CRANEAL Y ANGIO RM ARTERIAL INTRACRANEAL

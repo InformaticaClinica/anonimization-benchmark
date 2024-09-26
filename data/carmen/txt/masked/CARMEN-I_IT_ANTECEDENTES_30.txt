@@ -1,0 +1,16 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], exfumadora, con alergia al Tiomersal (colirio ocular), alergia ambiental al níquel, rash con Dapaglifozina.
+* ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL ESENCIAL que debutó durante el embarazo en [**FECHAS**].
+2. MIOCARDIOPATÍA DILATADA DE ETIOLOGÍA NO ISQUÉMICA CON DISFUNCIÓN VENTRICULAR SEVERA (FE 25%). Diagnóstico a raíz de EAP en [**FECHAS**]
+2017. En seguimiento en [**HOSPITAL**]. Implantación de Mitraclip [**FECHAS**].
+- Cateterismo con evidencia de lesión significativa de la DA del 70% tras el origen de la primera rama diagonal, sobre la que se realiza PTCA e implantación de stent fármacoactivo.
+- Ecocardiograma con motilidad severamente reducida por hipocinesia difusa, IM moderada-severa secundaria, severa dilatación de la AI.
+- RMN cardíaca: Miocardiopatía dilatada no isquémica con severa disfunción sistolica. Dilatación biauricular. Insuficiencia mitral.
+Ectasia de la aorta ascendente.
+* Ultima Eco-cardio ([**FECHAS**]): Reparación mitral percutánea mediante dispositivo Pascal x2 con insuficiencia residual con dos componentes: uno anterior a los clips y otro que se origina mas posterior hacia P2- P3 de componente mas excéntrico, con Vel E mitral de 2.2 m/seg. en conjunto moderada-severa. No estenótica Grad medio de aprox 6 mmHg promedio (paciente en FA). Ventrículo izquierdo severamente dilatado con fracción de eyección severamente deprimida por hipocinesia difusa con balonamiento del ventrículo. Aurícula izquierda severamente dilatada.
+Válvula aórtica esclerosada con jet de IAo central en grado moderado- severo. Ventrículo derecho no dilatado y con función longitudinal conservada. IT moderada que permite estimar una PSAP elevada. 44 +15 mmHg. Se identifica SIA con CIA (por punción de transeptal) con importante descarga a cavidades derechas. No derrame pericárdico. Ligero derrame pleural izquierdo.
+3. TAQUICARDIA VENTRICULAR MONOMORFA NO SOSTENIDA durante el traslado a urgencias en [**FECHAS**], posteriormente múltiples EVs y bigeminismo con lo que se consideró a la paciente tributaria de colocación de DAI monocameral como prevención secundaria. En seguimiento en [**HOSPITAL**].
+- Último Holter [**FECHAS**]: Ritmo sinusal con extrasístoles ventriculares frecuentes (24% de latidos) comentándose opción de ablación pero la paciente prefiere de momento tratamiento farmacológico, se incrementó bisoprolol de 5 mg/12h a 7,5 mg/12h.
+4. HIPOTIROIDISMO tras posible tiroiditis pero sin completar estudio, actualmente en tratamiento sustitutivo con Levotiroxina, pero se revaloran analítica destacando TSH 4-5 mU/L con 0.009 mU/L en [**FECHAS**] y recientemente 14mU/L [**FECHAS**], [**FECHAS**] inicio de tratamiento sustitutivo.
+5. Diagnóistico de cornea verticillata posiblemente por amiodarona por Oftalmóloga del [**HOSPITAL**] pero no consta seguimiento.
+* MEDICACIÓN HABITUAL (actualizado a [**FECHAS**]): Omeprazol 20 mg/24h, Amiodarona 200 mg/24h, Bisoprolol 10 mg c/12h, Sacubitril/Valsartán (97/103 mg) c/12h, Levotiroxina 50 mcg/24h, AAS 100 mg/24h, Atorvastatina 40 mg/24h, Eplerenona 25 mg/24h, Paracetamol 1 g c/8h a demanda, Trazodona 100 mg/24h.

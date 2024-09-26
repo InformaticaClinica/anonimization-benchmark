@@ -1,0 +1,24 @@
+
+prueba:
+ECO CON PUNCIÓN ASPIRATIVA DE LESIÓN FOC AL HEPÁTICA
+
+clinica:
+Paciente de adk de e´sofago e.IV que presenta en TC y ecografía lesión hepática sugestiva de M1 vs absceso, ingresa por síndrome febirl de probable foco abdominal.
+Rogamos valoración de drenaje/ap y microbiología de lesiones hepáticas.
+Gracias
+Adela
+ADK DE ESÓFAGO E-IV
+
+protocolo:
+PAAF de lesión focal hepática.
+
+conclusiones:
+Se visualizan ecográficamente las dos lesiones nodulares hipoecoicas en s. VIII subcapsular (17 mm) y en s. VIII-IVa (25 mm). Parecen tener dimensiones similares a la ecografía previa del [**FECHAS**].
+En condiciones de asepsia, mediante guía ecográfica y tras administrar anestesia local, se procede a realizar PAAF de la más superficial (subcapsular en s. VIII de 17 mm), dura al tacto con la aguja, aspirándose únicamente 1 cc de contenido de aspecto hemático denso.
+Estos hallazgos sugieren más M1 que absceso. Se remite la muestra a AP para su estudio. No se producen complicaciones durante el procedimiento.
+
+descrip:
+ECO CON PUNCIÓN ASPIRATIVA DE LESIÓN FOCAL HEPÁTICA
+
+descrip:
+ECOGRAFIA CON  DRENAJE

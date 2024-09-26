@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+conclusiones:
+Opacidades alveolares en bases pulmonares de predominio izquierdo.
+Pequeños focos consolidativos en la base pulmonar izquierda.
+Engrosamientos parietales bronquiales bibasales.
+Hallazgos sugestivos de PROBABLE COVID-19.
+
+descrip:
+RX  PORTATIL  TORAX

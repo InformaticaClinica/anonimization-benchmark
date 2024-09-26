@@ -1,0 +1,27 @@
+
+ANALÍTICAS
+- Ingreso [**FECHAS**]: PCR 13.8 mg/dL, Creatinina 0.87 mg/dL, Filtrat glomerular 69.64 ml/min, ASAT 75 U/L, ALAT 36 U/L, GGT 38 U/L, Bilirrubina total 0.30 mg/dL, Fosfatasa alcalina 57 U/L, Proteïnes totals 72 g/L, Sodi 136 mEq/L, Potasi 3.6 mEq/L, Calci 8.70 mg/dL, Magnesi 2.1 mg/dL, Leucòcits 5.77 10^9/L, Hemoglobina 109 g/L, Hematòcrit 0.330 L/L, Plaquetes 210 10^9/L, Temps de protrombina 77.4%, INR 1.14.
+MICROBIOLOGÍA
+RESPIRATORIO
+-BAS ([**FECHAS**]): Se aislan entre 1.000.000 - 2.000.000 UFC/mL de Pseudomonas aeruginosa (R piperacilina/tazobactam, R ceftazidima).
+-BAS ([**FECHAS**]): negativo
+-BAS([**FECHAS**]): aislamiento de cándida albicans y aislamiento de 6000 UFC/mL de p.aeruginosa (R ciprofloxacino, R carbapenems)
+-BAS([**FECHAS**]): RT-PCR SARS Cov2 negativo. Cultivo de bacterias negativos. - LBA([**FECHAS**]): RT-PCR SARS Cov2 negativo. Cultivo de bacterias negativos.
+AGA negativo. Otros virus respiratorios negativo. PCP negativo.
+-BAS ([**FECHAS**]): 80000 UFC P.aeruginosa MDR (S piperacilina/tazobactam, S amikacina, S ceftazidima/avibactam)
+-BAS ([**FECHAS**]): negativo.
+HEMOCULTIVOS
+-([**FECHAS**]): negativo (x2)
+-([**FECHAS**]): negativo (x2)
+ORINA
+-UC([**FECHAS**]): Candida albicans
+-UC ([**FECHAS**]): negativo
+OTROS
+-Frotis nasofaríngeo ([**FECHAS**]): RT-PCR SARS Cov2 positivo. PCR VGA, VGB y VRS negativos.
+-Serologías VHB,VHC y VIH ([**FECHAS**]): negativas
+-Frotis rectal ([**FECHAS**]): negativo
+-Punta de catéter arterial ([**FECHAS**]): negativo
+-Frotis nasofaríngeo ([**FECHAS**]): RT-PCR SARS Cov2 positivo -AGA en sangre([**FECHAS**]): negativo.
+-Frotis nasofaríngeo ([**FECHAS**]): RT-PCR SARS Cov2 positivo -CMV en sangre ([**FECHAS**]):63 U/mL copias
+-Coprocultivo y toxina C.Difficile ([**FECHAS**]): negativos -AGA en sangre ([**FECHAS**]): negativo
+ 

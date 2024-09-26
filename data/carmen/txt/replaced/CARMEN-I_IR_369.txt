@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+INFECCIÓN POR COVID-19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+Estudio con artefactos respiratorios que dificulta la valoración.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Las ramas subsegmentarias no son valorables debido a los artefactos de movimiento respiratorio.
+Calcificaciones coronarias con presencia de stents.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Extensas áreas en vidrio deslustrado con engrosmientos septales asociados (crazy paving) de distribución periférica, bilateral y difusa.
+Se identifica una banda de respeto subpleural con consolidaciones lineales de predominio en ambas bases pulmonares, bronquiolectasias por tracción e imágenes en halo reverso.
+Todo ello en conjunto es compatible con extensa infección por COVID19 con cierto componente de neumonía organizativa y tendencia a la fibrosis en los LLII.
+
+conclusiones:
+No se obsevan signos sugestivos de TEP agudo.
+Hallazgos radiológicos compatibles con extensa afectación pulmonar por infección COVID-19 con cierto componente de neumonía organizativa y tendencia a la fibrosis en LLII.
+
+descrip:
+ANGIO TC PULMONAR

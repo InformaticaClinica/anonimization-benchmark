@@ -1,0 +1,3 @@
+- Acudir al centre d'extraccions del [**CALLE**] per a realització d'analítica i radiografia de tòrax el dia [**FECHAS**] a les 8:15 hores.
+- Acudir a consules externes d'hematologia per a visita mèdica (Dr.
+[**NOMBRE_PERSONAL_SANITARIO**]) el dia [**FECHAS**] a les 13:00 hores.

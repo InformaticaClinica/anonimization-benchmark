@@ -1,0 +1,20 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Pacient amb antecedents d'epilepsia que presenta parada cardiorespiratoria recuperada. A nivell neurològic evolució tòrpida amb eeg que suggereix crisis en relació a anoxia cerebral amb absència de resposta en potencials evocats. Solicito tc cerebral valorar signes d'edema cerebral que suportin el mal pronòstic neurològic per plantejar limitar esforç terapèutic. Gràcies
+PARADA CARDIORESPIRATÒRIA RECUPERADA
+
+protocolo:
+TC CRANEAL URGENTE: Adquisición de imágenes en condiciones basales
+
+resultados:
+. Pérdida de diferenciacion de la sustancia gris-blanca y obliteración de los surcos cerebrales. Hallazgos compatibles con lesión hipóxico- isquémica cerebral difusa. No se observan signos de herniacion transtentorial descendente ni amigdalar. Cerebelo y protuberancia de aspecto rpeservado
+Sonda nasogástrica.
+
+conclusiones:
+Lesión hipóxico-isquémica cerebral difusa.
+
+descrip:
+TC CEREBRAL
