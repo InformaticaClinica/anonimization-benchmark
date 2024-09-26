@@ -1,0 +1,135 @@
+T11	FARMACO 1100 1111	ceftriaxona
+T12	FARMACO 1113 1125	azitromicina
+T13	FARMACO 1127 1144	hidroxicloroquina
+T14	FARMACO 1147 1159	teicoplanina
+T15	FARMACO 1170 1181	tocilizumab
+T16	FARMACO 1690 1699	meropenem
+T17	FARMACO 1876 1886	fluconazol
+T18	FARMACO 2160 2168	anakinra
+T19	FARMACO 2207 2224	metilprednisolona
+T20	FARMACO 2253 2264	tocilizumab
+T21	FARMACO 2384 2407	piperacilina/tazobactam
+T22	FARMACO 2409 2430	ceftazidima/avibactam
+T23	FARMACO 2433 2442	amikacina
+T24	FARMACO 2859 2882	piperacilina/tazobactam
+T25	FARMACO 2884 2905	ceftazidima/avibactam
+T26	FARMACO 2908 2917	amikacina
+T27	FARMACO 3210 3218	anakinra
+T28	FARMACO 3220 3231	tocilizumab
+T29	PROCEDIMIENTO 1062 1088	tratamiento antimicrobiano
+T30	PROCEDIMIENTO 1184 1195	corticoides
+T31	FARMACO 1736 1758	ceftolozano/tazobactam
+T32	PROCEDIMIENTO 2131 2155	terapia inmunomoduladora
+T33	PROCEDIMIENTO 2807 2818	corticoides
+T34	PROCEDIMIENTO 2832 2853	cobertura antibiotica
+T35	PROCEDIMIENTO 3254 3265	corticoides
+T36	PROCEDIMIENTO 3277 3300	tratamiento antifungico
+T37	PROCEDIMIENTO 4674 4692	medidas de confort
+T38	SINTOMA 666 672	fiebre
+T39	SINTOMA 688 697	tiritonas
+T40	SINTOMA 700 710	sudoración
+T41	SINTOMA 716 719	tos
+T42	SINTOMA 722 747	expectoración blanquecina
+T43	SINTOMA 769 792	deposiciones diarreicas
+T44	SINTOMA 960 971	taquipneica
+T45	SINTOMA 978 1004	mala mecánica ventilatoria
+T46	SINTOMA 1376 1386	hemoptisis
+T47	SINTOMA 1802 1858	aislamiento de cándida albicans en urinocultivo y en BAS
+T48	SINTOMA 2484 2517	negativo para RT-PCR de SARS CoV2
+T49	SINTOMA 2606 2638	opacidades en vidrio deslustrado
+T50	SINTOMA 2650 2704	opacidades reticulares (patrón en empedrado) bilateral
+T51	ENFERMEDAD 2706 2730	dilataciones bronquiales
+T52	SINTOMA 2748 2783	consolidación peribronquial en LLII
+T53	SINTOMA 3004 3038	infiltrados pulmonares bilaterales
+T54	SINTOMA 3356 3411	afectación pulmonar generalizada con vidrio deslustrado
+T55	SINTOMA 3422 3435	consolidación
+T56	ENFERMEDAD 3437 3461	dilataciones bronquiales
+T57	SINTOMA 3583 3673	masa ovoidea localizada entre los segmentos basales medial y posterior del lóbulo inferior
+T58	SINTOMA 4087 4129	disminución brusca del nivel de conciencia
+T59	SINTOMA 4183 4232	hipodensidad de sustancia blanca parietooccipital
+T60	ENFERMEDAD 15 55	SDRA por neumonía bilateral por Covid-19
+T61	ENFERMEDAD 173 194	Hemoptisis amenazante
+T62	ENFERMEDAD 220 244	VAP por P.aeruginosa MDR
+T63	ENFERMEDAD 248 266	Neumotórax derecho
+T64	ENFERMEDAD 291 317	Hemorragia alveolar difusa
+T65	ENFERMEDAD 331 348	sd.hemofagocitico
+T66	ENFERMEDAD 353 391	Insuficiencia renal aguda oligoanúrica
+T67	ENFERMEDAD 420 454	encefalopatía posterior reversible
+T68	ENFERMEDAD 465 476	Ex fumadora
+T69	ENFERMEDAD 559 571	osteoporosis
+T70	ENFERMEDAD 574 582	glaucoma
+T71	ENFERMEDAD 1319 1374	Parada cardiorrespiratoria recuperada por tapón de moco
+T72	ENFERMEDAD 1486 1496	neumotórax
+T73	ENFERMEDAD 1583 1658	neumonía asociada a la ventilación mecánica con aislamiento de P.aeruginosa
+T74	ENFERMEDAD 2069 2090	infección por COVID19
+T75	ENFERMEDAD 2093 2097	SDRA
+T76	ENFERMEDAD 3119 3145	hemorragia alveolar difusa
+T77	ENFERMEDAD 3167 3184	sd.hemofagocítico
+T78	ENFERMEDAD 3305 3321	reactivación CMV
+T79	ENFERMEDAD 3516 3541	Enfisema centrolobulillar
+T80	ENFERMEDAD 3760 3777	hematoma pulmonar
+T81	ENFERMEDAD 3780 3795	derrame pleural
+T82	ENFERMEDAD 3844 3871	insuficiencia renal anúrica
+T83	ENFERMEDAD 3969 3988	insuficiencia renal
+T84	ENFERMEDAD 4333 4353	encefalopatía difusa
+T85	ENFERMEDAD 4464 4480	síndrome de PRES
+T86	ENFERMEDAD 4482 4520	sd. encefalopatía posterior reversible
+T87	ENFERMEDAD 4566 4585	fallo multiorganico
+T88	FARMACO 1062 1088	tratamiento antimicrobiano
+T89	PROCEDIMIENTO 95 97	TQ
+T90	PROCEDIMIENTO 196 208	embolización
+T91	PROCEDIMIENTO 890 938	oxigenoterapia de alto flujo con cánulas nasales
+T92	PROCEDIMIENTO 1030 1052	intubación orotraqueal
+T93	PROCEDIMIENTO 1201 1208	weaning
+T94	PROCEDIMIENTO 1231 1255	traqueostomía quirúrgica
+T95	PROCEDIMIENTO 1518 1534	drenaje torácico
+T96	PROCEDIMIENTO 1763 1785	estudio microbiológico
+T97	PROCEDIMIENTO 1996 2010	TACAR de tórax
+T98	PROCEDIMIENTO 2370 2382	antibiograma
+T99	PROCEDIMIENTO 2521 2526	TACAR
+T100	PROCEDIMIENTO 2979 2999	radiografía de tórax
+T101	PROCEDIMIENTO 3051 3058	miniBAL
+T102	PROCEDIMIENTO 3323 3325	TC
+T103	PROCEDIMIENTO 3887 3912	terapia renal sustitutiva
+T104	PROCEDIMIENTO 3917 3943	hemodiafiltración continua
+T105	PROCEDIMIENTO 4011 4043	diálisis intermitente depurativa
+T106	PROCEDIMIENTO 4159 4170	TC cerebral
+T107	PROCEDIMIENTO 4235 4243	angio-TC
+T108	SPECIES 1646 1664	P.aeruginosa (MDR)
+T109	SPECIES 2286 2298	P.aeruginosa
+T110	SPECIES 2325 2333	colonias
+T111	HUMANO 3818 3826	paciente
+T112	HUMANO 4627 4637	familiares
+T113	PROCEDIMIENTO 58 61	IOT
+T114	PROCEDIMIENTO 73 80	Weaning
+T115	SINTOMA 73 91	Weaning prolongado
+T116	ENFERMEDAD 108 168	Parada cardiorrespiratoria recuperada por tapón de mucosidad
+T117	PROCEDIMIENTO 108 145	Parada cardiorrespiratoria recuperada
+T118	SPECIES 228 244	P.aeruginosa MDR
+T119	PROCEDIMIENTO 271 286	drenaje pleural
+T120	PROCEDIMIENTO 393 396	TRS
+T121	ENFERMEDAD 410 418	sd. PRES
+T122	SINTOMA 749 766	Esputo hemoptoico
+T123	SINTOMA 811 833	deterioro respiratorio
+T124	SINTOMA 1201 1219	weaning prolongado
+T125	PROCEDIMIENTO 1319 1356	Parada cardiorrespiratoria recuperada
+T126	PROCEDIMIENTO 1414 1483	embolización de la arteria bronquial derecha y del tronco bibronquial
+T127	SPECIES 1817 1833	cándida albicans
+T128	PROCEDIMIENTO 1837 1849	urinocultivo
+T129	PROCEDIMIENTO 1855 1858	BAS
+T130	SINTOMA 1925 1967	aumento de la carga inflamatoria sistémica
+T131	SINTOMA 2015 2040	afectación parenquimatosa
+T132	PROCEDIMIENTO 2198 2224	bolus de metilprednisolona
+T133	PROCEDIMIENTO 2456 2517	Frotis nasofaríngeo (17/11) negativo para RT-PCR de SARS CoV2
+T134	SINTOMA 2564 2591	consolidaciones bilaterales
+T135	SINTOMA 2674 2693	patrón en empedrado
+T136	SINTOMA 3051 3095	miniBAL con obtención de líquido hemorrágico
+T137	SINTOMA 3466 3514	preservación parcheada de lobulillos secundarios
+T138	SINTOMA 4248 4286	oclusiones del sistema vertebrobasilar
+T139	PROCEDIMIENTO 4288 4291	EEG
+T140	SINTOMA 4356 4418	tendencia epileptogénica aumentada en las regiones occipitales
+T141	SINTOMA 4701 4707	exitus
+T142	PROCEDIMIENTO 4553 4564	radiologico
+T143	PROCEDIMIENTO 1983 1994	radiológica
+T1	SINTOMA 4531 4564	empeoramiento clinico radiologico
+T2	SPECIES 2508 2517	SARS CoV2

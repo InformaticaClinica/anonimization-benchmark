@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA POR COVID-19
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Condensaciones alveolares bilaterales de predominio periférico sugestivo de afectación pulmonar por COVID, con aparición de atelectasias subsegmentarias y signos de fibrosis en relación a evolución a neumonía organizada.
+
+descrip:
+RX  PORTATIL  TORAX
+
+descrip:
+RX  PORTATIL  TORAX

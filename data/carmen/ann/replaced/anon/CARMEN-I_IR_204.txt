@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con neumonia por covid 19.
+Buena evolución con tratamiento, sin embargo presenta disnea con desaturación con el esfuerzo.
+Solicitamos prueba para descartar neumonia organizativa vs TEP.
+Ya esta hablado con radiología (TAC).
+NEUMONIA BILATERAL POR SARS-COV2.
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+
+resultados:
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Permeabilidad del tronco pulmonar principal,de calibre normal.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Extensas y difusas opacidades en vidrio deslustrado de localización predominantemente subpleural y algunas peribroncovasculares. Algunas de ellas confluyen y tienen un aspecto más consolidado, sobre todo en ápices y bases pulmonares. Los hallazgos estan en relación con infección por COVID en evolución.
+Hernia de hiato.
+
+conclusiones:
+No hay signos de TEP agudo.
+Signos de infección por COVID en evolución.
+
+descrip:
+ANGIO TC PULMONAR

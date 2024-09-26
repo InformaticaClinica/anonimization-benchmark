@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19 POSITIU
+
+conclusiones:
+RX TORAX PORTATIL
+Infiltrados alveolares  en ambos hemitorax  probable afectación pulmonar por COVID  respecto a Rx previa [**FECHAS**] la exploración actual muestra una disminución de la densidad de las codensaciones.
+
+descrip:
+RX  PORTATIL  TORAX

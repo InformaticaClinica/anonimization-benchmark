@@ -1,0 +1,12 @@
+*-*
+:: INFECCIONES::
+1. NEUMONIA BILATERAL POR SARS-COV-2
+*Inicio de sintomas: [**FECHAS**]
+*Diagnostico: TAR positivo [**FECHAS**]. PCR [**FECHAS**] (Ct 32)
+*NO vacunado
+*Tratamiento: Dexametasona ([**FECHAS**])
+2. RASH MACULO-PAPULAR
+1. Buena evolución clínica, inicialmente S02 92% aire ambiente, por lo que requiere 02 bajo flujo, con mejoría progresiva en las próximas horas hasta que se mantiene con buenas saturaciones sin necesidad del mismo (S02 98%  aire ambiente) . Se moviliza sin sensacion de disnea, sin hipoxemia asociada.
+Inicialmente con crepitantes bilaterales hasta campo medio, coincidiendo con radiología (infiltrados intersticiales periféricos bilaterales), mejoría progresiva.  Al momento del alta sin crepitantes a la auscultación.
+Analíticamente no ha presentado ascenso de parámetros inflamatorios, linfopenia inicial que recupera al momento del alta.
+2. Previo al alta presenta rash maculopapular distribuido en dorso de las manos y los pies, en rodillas y en región tibial, pruriginoso, el rash desaparece casi totalmente luego de 24 hs de tratamiento antihistamínico.

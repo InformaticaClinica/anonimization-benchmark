@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pneumònia bilateral per covid amb empitjorament respiratori sobtat i augment dimer-D. Interessa angioTC per descartar TEP, gràcies!
+
+protocolo:
+Estudio ANGIO-TC torácico tras administración de contraste e.v. con adquisición en fase arterial. Exploración realizada de forma urgente durante horario de guardia.
+
+resultados:
+Defecto de repleción compatible con TEP en rama segmentaria del LID.
+Arterias pulmonares principales, ramas lobares y resto de segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre aumentado (35 mm). Sin signos por imagen de sobrecarga cardíaca derecha.
+No se observan adenopatías axilares, mediastínicas o hiliares de tamaño valorable.
+Leve derrame pleural bilateral. Sin derrame pericárdico.
+Opacidades bilaterales en vidrio deslustrado peribroncovasculares y periféricas, parcialmente consolidadas
+en segmentos posteriores, compatible con afectación por COVID-19 en fase inflamatoria.
+SNG con extremo en cámara gástrica. CVC yugular derecho con extremo en unión cavo-auricular. IOT a 6,5 cm de la carina.
+
+conclusiones:
+Signos de TEP en rama segmentaria izquierda. Neumonía bilateral por COVID-19 sin claros signos de organización.
+
+descrip:
+ANGIO TC PULMONAR

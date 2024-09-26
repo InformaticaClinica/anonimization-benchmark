@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+conclusiones:
+Mracda elevación hemidiafragma izq.
+Opacidades consolidativas bilaterales que presentan mejoría radiológica respecto a RX del [**FECHAS**] con disminución de la extensión y densidad.
+Persiste consolidación densa basal izquierda.
+
+descrip:
+RX  PORTATIL  TORAX

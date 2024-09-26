@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19 +
+
+conclusiones:
+Ténue opacidad en base pulmonar izquierda indeterminada para COVID 19.
+
+descrip:
+RX  PORTATIL  TORAX

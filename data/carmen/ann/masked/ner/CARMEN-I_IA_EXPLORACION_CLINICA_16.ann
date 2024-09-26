@@ -1,0 +1,11 @@
+T4	SINTOMA 240 247	afebril
+T5	SINTOMA 570 602	conflictos de vía aerea superior
+T6	SINTOMA 226 237	HDN estable
+T7	SINTOMA 260 265	edema
+T8	SINTOMA 268 310	equimosis de partes blandas periorbitarios
+T9	ENFERMEDAD 422 466	escalón óseo de proceso temporal del maxilar
+T10	ENFERMEDAD 536 564	Tabique nasal laterodesviado
+T11	SINTOMA 468 534	Apertura, lateralización y retroprotrusión de mandíbula conservada
+T12	SINTOMA 196 224	buenas condiciones generales
+T13	HUMANO 184 192	Paciente
+T14	PROCEDIMIENTO 161 175	Pulsioximetría

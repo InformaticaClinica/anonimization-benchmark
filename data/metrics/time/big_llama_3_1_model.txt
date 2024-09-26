@@ -1,0 +1,1 @@
+Execution time of big_llama_3_1_model: 30429.309432029724 seconds

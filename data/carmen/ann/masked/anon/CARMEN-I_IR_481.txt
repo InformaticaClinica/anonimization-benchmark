@@ -1,0 +1,34 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] sin antecedentes médicos importantes ingresado por neumonía grave por SARS-COV2 que precisó ingreso en UCI.
+TAC [**FECHAS**] Múltiples adenopatías mediastínicas pretraqueales y paratraqueales derechas hiliares bilaterales de predominio derecho y subcarinal, las de mayor tamaño hiliar derecha de 34 mm y subcarinal de 23 mm, que por su tamaño sugieren malignidad. Se identifica una consolidación polilobulada en segmentos apicales del LID asi como un foco consolidativo hipocaptante en segmentos basales y medios del LID, hallazgos que pueden estar en relación con neumonía por COVID-19 o sobreinfección sin poder descartar que exista un proceso neoplásico subyacente. Se recomienda realizar control tras la resolución del proceso agudo.
+Debido a mejoría clínica y pasado un mes solicito TAC de control.
+Gracias.
+NEUMONÍA  SARS-CoV-2
+
+protocolo:
+TC TORAX
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con angioTC pulmonar del [**FECHAS**].
+Cambios posquirúrgicos de hemitiroidectomía izquierda. Cambios posquirúrgicos de traqueostomía. PICC con inserción en extremidad superior derecha y extremo distal en vena braquiocefálica derecha.
+Aumento de tamaño de las adenopatías mediastínicas, de localización paratraqueales derechas (19 mm), hiliares derechas, subcarinal y periesofágica (11 mm), siendo la de mayor tamaño una hiliar derecha de 25 mm (previo 19 mm) y subcarinal de 25 mm (previo de 20 mm). No se observan adenopatías supraclaviculares o axilares de tamaño valorable.
+Resolución de derrame pleural bilateral y pericárdico.
+Disminución de las opacidades en vidrio deslustrado bilaterales de distribución periférica y peribroncovascular, con formación de bandas perilobulares y dilataciones bronquiales, de predominio en lóbulos inferiores. En el segmento basal medial y lateral del LID, se visualizan discretas opacidades nodulillares centrolobulillares. Los hallazgos descritos son sugestivos de neumonía bilateral por COVID-19, en evolución.
+Aumento de tamaño de la masa polilobulada en el segmento apical del LID, de 41 mm (previo de 38 mm), que ahora presenta signos de cavitación en su interior y estenosa los bronquios adyacentes. Se identifica un pequeño nódulo proximal adyacente de 6 mm, sugestivo de nódulo satélite.
+Así mismo, también ha aumentado de tamaño la lesión nodular peribroncovascular adyacente de 27 mm (previo de 24 mm), que plantea el diagnóstico diferencial entre adenopatía peribroncovascular vs nódulo satélite. Los hallazgos son sugestivos de proceso neoproliferativo pulmonar primario.
+Enfisema paraseptal en segmentos apicales bilaterales, de predominio derecho. Resto del parénquima pulmonar sin otras alteraciones.
+Aumento de tamaño de la lesión nodular suprarrenal derecha, ahora de 30 mm (previo de 25 mm), sugestiva de M1. Lesión nodular suprarrenal izquierda de 15 mm, estable. Vesícula biliar distendida. Granuloma esplénico.
+
+conclusiones:
+- Hallazgos en relación a neumonía bilateral por COVID-19 en evolución, con marcada presencia de bandas perilobulares y dilataciones bronquiales bilaterales, de predominio en LLII. Resolución del derrame pleural y pericárdico.
+- Masa polilobulada en segmento apical del LID, que ha aumentado respecto estudio previo y ahora presenta signos de cavitación (vr).
+Aumento de tamño de las adenopatías mediastínicas e hiliares D. Todo sugestivo de proceso neoproliferativo pulmonar primario.
+- Aumento de tamaño de la lesión nodular suprarrenal derecha, en probable relación con M1. Lesión nodular suprarrenal izquierda, estable.
+
+descrip:
+TC TORAX

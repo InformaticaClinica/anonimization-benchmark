@@ -1,0 +1,65 @@
+T7	PROCEDIMIENTO 310 321	Rx de tórax
+T8	PROCEDIMIENTO 522 525	ECG
+T9	PROCEDIMIENTO 602 621	frotis respiratorio
+T10	PROCEDIMIENTO 940 960	bolus de corticoides
+T11	PROCEDIMIENTO 1185 1194	angio- TC
+T12	PROCEDIMIENTO 1293 1322	soporte respiratorio con LNAF
+T13	PROCEDIMIENTO 1402 1410	angio-TC
+T14	PROCEDIMIENTO 1632 1646	corticoterapia
+T15	PROCEDIMIENTO 1716 1730	oxigenoterapia
+T16	PROCEDIMIENTO 1770 1806	mascarilla tipo venturi con Fi02 40%
+T17	PROCEDIMIENTO 2048 2080	pauta descendente de corticoides
+T18	PROCEDIMIENTO 2110 2129	frotis nasofaringeo
+T19	PROCEDIMIENTO 107 126	Frotis nasofaringeo
+T20	PROCEDIMIENTO 253 260	VMK 35%
+T21	PROCEDIMIENTO 268 286	exploración física
+T22	PROCEDIMIENTO 416 454	función renal con ionograma y hepática
+T23	PROCEDIMIENTO 921 928	VMK 60%
+T24	PROCEDIMIENTO 1061 1085	reactantes de fase aguda
+T25	PROCEDIMIENTO 1589 1617	anticoagulación profiláctica
+T26	PROCEDIMIENTO 1744 1755	gasometrías
+T27	SINTOMA 221 227	febril
+T28	SINTOMA 237 248	taquipneico
+T29	SINTOMA 287 308	crepitantes bibasales
+T30	SINTOMA 393 414	procalcitonina normal
+T31	SINTOMA 503 513	linfopenia
+T32	SINTOMA 529 542	ritmo sinusal
+T33	SINTOMA 576 586	QTc normal
+T34	SINTOMA 1119 1136	deterioro clínico
+T35	SINTOMA 1139 1160	elevación de D-dímero
+T36	SINTOMA 1867 1879	PCR negativa
+T37	SINTOMA 2184 2192	eupneico
+T38	SINTOMA 2227 2234	afebril
+T39	ENFERMEDAD 36 69	NEUMONIA BILATERAL POR SARS-CoV-2
+T40	ENFERMEDAD 186 207	NEUMONIA ORGANIZATIVA
+T41	ENFERMEDAD 557 571	isquemia aguda
+T42	ENFERMEDAD 640 648	covid-19
+T43	ENFERMEDAD 670 701	neumonía bilateral por COVID-19
+T44	ENFERMEDAD 1420 1423	TEP
+T45	ENFERMEDAD 1462 1483	neumonía por Covid-19
+T46	ENFERMEDAD 1516 1548	neumonía organizativa incipiente
+T47	FARMACO 730 749	lopinavir/ritonavir
+T48	FARMACO 752 769	hidroxicloroquina
+T49	FARMACO 772 784	azitromicina
+T50	FARMACO 795 820	ceftriaxona/ teicoplanina
+T51	FARMACO 823 838	anticoagulación
+T52	FARMACO 898 905	oxígeno
+T53	FARMACO 1002 1013	tocilizumab
+T55	SPECIES 59 69	SARS-CoV-2
+T56	SINTOMA 107 135	Frotis nasofaringeo positivo
+T57	SINTOMA 326 359	infiltrado intersticial bilateral
+T58	SINTOMA 416 461	función renal con ionograma y hepática normal
+T59	SINTOMA 602 648	frotis respiratorio con positivo para covid-19
+T60	SINTOMA 2110 2149	frotis nasofaringeo de control negativo
+T61	PROCEDIMIENTO 2249 2260	radiológica
+T62	PROCEDIMIENTO 1853 1862	analitica
+T63	PROCEDIMIENTO 2237 2246	analitica
+T64	PROCEDIMIENTO 1047 1056	analítica
+T65	SINTOMA 1370 1397	buena mecánica ventilatoria
+T66	PROCEDIMIENTO 1816 1827	radiológico
+T1	SINTOMA 870 905	aumento de requerimiento de oxígeno
+T2	SINTOMA 1061 1097	reactantes de fase aguda en descenso
+T3	SINTOMA 1845 1862	mejoría analitica
+T4	SINTOMA 1039 1056	mejoría analítica
+T5	SINTOMA 1670 1688	mejoría progresiva
+T6	SINTOMA 1929 1944	mejoría clínica

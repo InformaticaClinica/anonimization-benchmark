@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente hospitalizado por neumonia bilateral por COVID-19, función renal normal, presenta empeoramiento de la insuficiencia respiratoria pese a tratamiento médico (incluido tocilizumab), en analítica mejoría de los reactantes de fase aguda, excepto elevación de D dimero respecto a días previos, a descartar TEP agudo, gracias
+NEUMONIA BIBASAL POR COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). No se visualiza dilatación del tronco principal de la arteria pulmonar ni signos de sobrecarga cardíaca derecha. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Consolidaciones subpleurales bilaterales y difusas, asociadas a áeas en "crazy paving" (vidrio deslustrado + engrosamientos septales), bronquioloectasias de tracción e imágenes en "halo reverso"; todo ello en relación con infección por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa asociada). No se observa derrame pleural ni pericárdico.
+Quistes hepáticos simples y alguna calcificación hepática.
+
+conclusiones:
+No se observa TEP.
+Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+
+descrip:
+ANGIO TC PULMONAR

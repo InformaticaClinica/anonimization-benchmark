@@ -1,0 +1,8 @@
+
+1) INFECCIÓN POR SARS-CoV-2
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedentes a destacar HTA, miastenia gravis bulbar en tto con mestinón y prednisona. Ingreso en [**FECHAS**] por cuadro de insuficiencia respiratoria y fiebre que se orienta como neumonia organizativa sin poder descartar asociación con infección por SARS-CoV-2 en ese momento. Frotis siempre negativos. Además en este ingreso presenta bacteriemia por E. coli foco urinario que se trata con ceftriaxona con buena evolución. Dada la buena evolución clinica se decidió alta con aumento de los corticoides habituales y control radiológico con neumología.
+Ingresa actualmente en infecciones desde visita de control en NMO tras revisión de TC tórax realizado el [**FECHAS**] dónde se objetivan opacidades bilaterales que pordría sugerir infección aguda vírica por lo que deciden ingreso para completar estudio y nuevo frotis para SARS-CoV- 2 que resulta positivo por lo que finalmente se decide ingreso.
+Durante el ingreso se encuentra completamente asintomático, sin episodios febriles, no clínica respiratoria ni insuficiencia respiratoria. En el estudio de contactos familiar cercano resulta positivo postulándose la infección aguda como la causa más probable del cuadro agudo. Dada la ausencia de sintomatología no se instaura tratamiento.
+Evolución favorable sin alteraciones analíticas o radiológicas durante el ingreso. Se solicitan recuento de inmunoglobulinas que resultan normales, estudio de autoinmunidad y serología pendiente de resultados al alta. Dada la ausencia de clínica y el buen estado del paciente se decide alta a domicilio con medidas de aislamiento, se informará al paciente telefónicamente de los resultados.
+   
+   

@@ -8,7 +8,6 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-
 class Metrics:
     def __init__(self, name_model = "Unassigned"):
         self._nlp = spacy.load("es_core_news_md")
@@ -24,6 +23,7 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
+            "language":             None
         }
 
     def set_filename(self, filename):
@@ -80,47 +80,94 @@ class Metrics:
     def get_f1(self, precision, recall):
         self._metrics_data["f1"] = 2 * (precision * recall) / (precision + recall)
 
-    def get_classification_metrics(self, ground_truth, predictions):
-        # Convertir arrays de ground_truth y predictions a listas de str
-        ground_truth_processed = np.array([self.erase_adverbs_determinants(str(item)) for item in ground_truth])
-        predictions_processed = np.array([self.erase_adverbs_determinants(str(item)) for item in predictions])
-    
-        # Crear matrices de similitud de coseno y embedding 
-        get_cos_sim_vectorized = np.vectorize(lambda gt, pred: self.get_cos_sim(str(gt), str(pred)))
-        embedding_similarity_vectorized = np.vectorize(lambda gt, pred: self.embedding_similarity(str(gt), str(pred)))
-    
-        cosine_results = get_cos_sim_vectorized(ground_truth_processed[:, None], predictions_processed[None, :])
-        embedding_results = embedding_similarity_vectorized(ground_truth_processed[:, None], predictions_processed[None, :])
-        
-        # Promediar las similitudes
-        avg_similarities = (cosine_results + embedding_results) / 2
-    
-        # Determinar verdaderos positivos
-        matches = avg_similarities > 0.5
-        true_positives = np.sum(np.any(matches, axis=1))
-    
-        # Determinar falsos negativos
-        false_negatives = len(ground_truth) - true_positives
-    
-        # Determinar falsos positivos
-        predicted_matches = np.any(matches, axis=0)
-        false_positives = len(predictions) - np.sum(predicted_matches)
+    # TODO: Mover a utils (?) 
+    def create_distance_matrix(self, str1, str2):
 
-        # Determinar verdaderos negativos
-        true_negatives = None
-        return true_positives, true_negatives, false_positives, false_negatives
+        # Split the strings into words
+        str1 = str1.split(' ')
+        str2 = str2.split(' ')
+
+        # Initialize the matrix
+        m, n = len(str1), len(str2)
+        matrix = np.zeros((m + 1, n + 1), dtype=int)
+
+        # Fill the first row and first column
+        for i in range(1, m + 1):
+            matrix[i][0] = i
+        for j in range(1, n + 1):
+            matrix[0][j] = j
+
+        # Fill the matrix with edit distances
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                if str1[i - 1] == str2[j - 1]:
+                    matrix[i][j] = matrix[i - 1][j - 1]
+
+                else:
+                    matrix[i][j] = 1 + min(matrix[i - 1][j], matrix[i][j - 1], matrix[i - 1][j - 1])
+
+        # Create a DataFrame to include the words in the headers
+        df = pd.DataFrame(matrix, index=[""] + str1, columns=[""] + str2)
+
+        return df
+
+    #TODO: Refactorizar
+    def trace_path(self, matrix, str1, str2):
+        i, j= len(str1), len(str2)
+
+        deleted = []
+        added = []
+        unchanged = []
+
+        while i > 0 or j > 0:
+            if i > 0 and j > 0 and str1[i - 1] == str2[j - 1]:
+                unchanged.append(str1[i - 1])
+                i -= 1
+                j -= 1
+
+            elif i > 0 and (j == 0 or matrix.iloc[i, j] == matrix.iloc[i - 1, j] + 1):
+                deleted.append(str1[i - 1])
+                i -= 1
+
+            elif j > 0 and (i == 0 or matrix.iloc[i, j] == matrix.iloc[i, j - 1] + 1):
+                added.append(str2[j - 1])
+                j -= 1
+            else:
+                deleted.append(str1[i - 1])
+                added.append(str2[j - 1])
+                i -= 1
+                j -= 1
+
+        return deleted[::-1], added[::-1], unchanged[::-1]  # Reverse the lists to have the correct order
+
+
+    def calc_positives_and_negatives(self, list_of_ground_truth_labels, list_of_generated_labels):
+        # Check if inputs are lists
+        if not isinstance(list_of_ground_truth_labels, list) or not isinstance(list_of_generated_labels, list):
+            raise TypeError("Both inputs must be lists")
+
+        str1 = ' '.join(list_of_ground_truth_labels)
+        str2 = ' '.join(list_of_generated_labels)
+        # Create the distance matrix
+        matrix = self.create_distance_matrix(str1, str2)
+
+        # Trace the minimum path and get the operations
+        added_words, deleted_words, unchanged_words = self.trace_path(matrix, str1.split(' '), str2.split(' '))
+        FN = len(added_words)
+        FP = len(deleted_words)
+        TP = len(unchanged_words)
+        return TP, FP, FN
+
 
     def calc_metrics(self, ground_truth, predictions):
-        (
-            true_positives,
-            _, 
-            false_positives, 
-            false_negatives 
-        ) = self.get_classification_metrics(ground_truth, predictions)
-
+        (   true_positives,
+            false_positives,
+            false_negatives
+        ) = self.calc_positives_and_negatives(ground_truth, predictions)
         self.get_precison(true_positives, false_positives)
         self.get_recall(true_positives, false_negatives)
         self.get_f1(self._metrics_data["precision"], self._metrics_data["recall"])
+
 
     def evaluate(self, masked, generated):
         ground_truth = re.findall(r'\[\*\*(.*?)\*\*\]', masked)
@@ -143,6 +190,13 @@ class Metrics:
         self.levenshtein_distance(ground_truth, generated)
         self.calculate_inv_levenshtein()
         self.calculate_overall()
+        self.add_language()
+
+    def add_language(self):
+        filename = self._metrics_data["filename"].split(".")[0]
+        data = pd.read_csv('./data/carmen/language.tsv', sep='\t', index_col='filename')
+        language = data.loc[filename, 'language']
+        self._metrics_data["language"] = language
 
     def store_metrics(self):
         self._list_metrics.append(self._metrics_data)
@@ -156,6 +210,7 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
+            "language":             None
         }
 
     def get_metrics(self):

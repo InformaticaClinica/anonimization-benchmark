@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+PAciente de [**EDAD_SUJETO_ASISTENCIA**] con una neumonía COVID bialteral, que en Rx de tórax presenta una imagen redondeada con realce periférico a nivel de lóbulo medio izq, sugestivo de una bulla (sin AP destacables.
+Solicito TC de tórax para valroación tanto de la neumonía como de la imagen pulmonar izqueirda
+Gracias
+1. NEUMONIA PER SARSCOV2.
+
+protocolo:
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Ausencia de derrame pleural ni pericárdico.
+Focos parcheados en vidrio deslustrado y consolidativos bilaterales de predominio en LLII, distribución peribroncovascular y periférica. Los hallazgos son sugestivos de neumonía bilateral por COVID-19.
+Quiste pulmonar de 47 mm de diámetro yuxtacisural del lSI
+Pequeña hernia de hiato.
+Quistes renales bilaterales.
+
+conclusiones:
+- Neumonía bilateral por COVID-19,
+- Quiste pulmonar.
+
+descrip:
+TC TORAX

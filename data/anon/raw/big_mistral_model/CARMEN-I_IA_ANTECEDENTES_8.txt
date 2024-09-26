@@ -1,0 +1,18 @@
+ Varón de [**EDAD\_SUJETO\_ASISTENCIA**]. Sin alergias medicamentosas conocidas.
+*SITUACIÓN SOCIOFUNCIONAL: realiza rehabilitación en [**HOSPITAL**], actualmente vive en casa con su hermana y cuidadora unas horas al día.
+Tiene una sobrina y buen soporte familiar. A nivel funcional necesita ayuda para levantarse, tiene que caminar con ayuda de otra persona, tiene incontinencia urinaria total y fecal parcial (ahora empieza a avisar cuando necesita ir de vientre). BARTHEL [**EDAD\_SUJETO\_ASISTENCIA**], aunque se encuentra en proceso de mejoría progresiva desde la parada cardíaca de abril [**AÑO**] (ver antecedentes). Tiene alteración de la memoria reciente.
+*ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento con amlodipino y enalapril.
+2. DISLIPEMIA en tratamiento farmacológico
+3. CARDIOPATÍA ISQUÉMICA. PARADA CARDIORESPIRATORIA por FIBRILACIÓN VENTRICULAR secundaria a IAMEST en abril de [**AÑO**]. En el cateterismo se constató oclusión trombótica de la arteria descendente anterior proximal sobre la que se realizó implante de 2 stents fármacoactivos con buen resultado angiográfico y función ventricular sistólica conservada.
+4. ENCEFALOPATÍA HIPÓXICO-ISQUÉMICA en contexto de parada cardíaca y ESTATUS EPILÉPTICO diagnosticado durante el ingreso que precisó tratamiento con propofol y combinaciones de fármacos antiepilépticos.
+- RNM cerebral (01/06/[**AÑO**]) sin evidencia de lesiones isquémicas agudas ni signos radiológicos de encefalopatía hipóxico-isquémica y potenciales evocados que no son indicativos de mal pronóstico neurológico pero que tampoco permiten asegurar una buena evolución neurológica a medio-largo plazo. En seguimiento por Dr. Abalo en Cl. Costa de la Luz.
+- Al alta del ingreso en cardiología fue a Hospital Clínico Universitario Ferrán i Clua, de la que ya había sido alta para seguimiento ambulatorio. Ha presentado mejoría neurológica progresiva, siendo capaz de deambular y relacionarse con las personas del entorno. Última EEG en [**AÑO**]: no se registra actividad epileptiforme.
+Estos hallazgos serian compatibles con una encefalopatia difusa y apneas obstructivas.
+5. HEMORRAGIA SUBARACNOIDEA POST-TRAUMÁTICA en enero de [**AÑO**].
+- TC craneal agudo: Se observan imágenes lineales basalmente hiperdensas sugestivas de HSA aguda con extensión a surcos fronto-parieto- occipitales derechos y frontal izquierdo (Fisher Modificado III).
+Ocupación hemática de la cisterna ambiens derecha. Contusión de partes blandas fronto-parietal derecha (hematoma subgaleal).
+- TC de control posterior sin sangrado.
+- EEG de control posterior sin actividad epileptiforme ni lentificación focal.
+6. TRES ACCIDENTES POR DESCOMPRESIÓN tras inmersión, los últimos en [**AÑO**] aproximadamente, que precisaron cámara hiperbárica. Uno de ellos debutó con lesión medular y se resolvió con recuperación completa.
+*MEDICACIÓN ACTUAL (30/05): Mirtazapina 15mg/24h, Brilique 90mg/12h, Bisoprolol 5mg/24h, Enalapril 10mg/12h, adiro 100mg/24h, atorvastatina 40mg/24h, Esomeprazol 20mg/24h, fycompa 6mg/24h

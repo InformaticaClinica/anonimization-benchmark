@@ -1,0 +1,32 @@
+
+prueba:
+TC PERFUSION TORAX
+
+clinica:
+Reemplaza a la petición de ayer: paciente de [**EDAD_SUJETO_ASISTENCIA**] de edad con MM con 3ª línea de tratamiento, ingreso actual por neumonía por COVID19, shock séptico por e. coli BLEA, con elevación del D-dímero con distres respiratorio en la que interesa evaluar el parénquima pulmonar (TACAR) y descartar la presencia de TEP (angioTAC). Gracias.
+COVID19
+
+protocolo:
+ANGIOTC PULMONAR URGENTE. Obs Dr [**NOMBRE_PERSONAL_SANITARIO**].
+
+resultados:
+Estudio con importantes artefactos por movimientos respiratorios del paciente.
+Disminución en el calibre con manguito excéntrico perivascular y dilataciones con repermebilización distal de rama lobar superior y ramas segmentarias apical, posterior y anterior del LSD, sugestivo de corresponder a TEP crónico. Trombosis parcial de características crónicas en rama segmentaria apicoposterior del LSI, también sugestiva de TEP crónico. Mapa de yodo no evaluable por artefactos de movimiento.
+Resto de arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado asociadas a engrosamientos septales intralobulillares bilaterales con tendencia a la consolidación, de distribución peribroncovascular y periférica, y de predominio bibasal.
+Asocian algunas bandas subpleurales ambos LLII. Estos hallazgos son compatibles con neumonía bilateral por COVID-19, con signos incipientes de neumonía organizativa en ambas bases pulmonares.
+No se observan adenopatías axilares o mediastinicas de tamaño patológico.
+Tubo endotraqueal con extremo distal a 5 cm de la carina. Portador de SNG.
+Lesiones óseas en cabeza humeral derecha, arcos costales bilaterales, cuerpos vertebrales toracolumbares. Fracturas costales bilaterales antiguas. Todo ello en relación a su enfermedad de base.
+Hepatomegalia a expensas de lóbulo hepático izquierdo.
+
+conclusiones:
+Signos sugestivos de TEP crónico en ramas descritas. Dado que el estudio se encuentra artefactado por movimientos respiratorios del paciente, se recomienda estudio dirigido programado para correcta caracterízación.
+Signos compatibles con infección pulmonar por COVID-19, con signos sugestivos de neumonía organizativa incipiente.
+
+descrip:
+TC PERFUSION TORAX
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

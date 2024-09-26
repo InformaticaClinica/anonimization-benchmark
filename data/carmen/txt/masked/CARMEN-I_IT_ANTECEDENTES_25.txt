@@ -1,0 +1,13 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, no refiere hábitos tóxicos. Natural de [**PAIS**].
+INTERVENCIONES QUIRÚRGICAS:
+- Colecistectomia en [**FECHAS**] en [**HOSPITAL**] por colelitiasis y pancreatitis aguda sin criterios de gravedad.
+- Tres cesáreas.
+*ANTECEDENTES PATOLÓGICOS:
+- HIPOTIROIDISMO SUBLCLÍNICO con última analítica en [**FECHAS**] que muestra TSH de 5.31 y T4L de 12.51, sin tratamiento actualmente.
+- PREDIABETES en seguimiento por su CAP sin tratamiento farmacológico.
+- VHC+ sin cirrosis hepática.
+- ENFERMEDAD DE CHAGAS, detectada de manera casual en cribaje de donante de sangre. Se realizó tratamiento durante dos meses en [**FECHAS**] en [**HOSPITAL**]. Sin afectación de órganos y sin seguimiento.
+- OBESIDAD grado III con IMC de 41.
+- INSUFICIENCIA VENOSA con cirugía de varices.
+MEDICACIÓN HABITUAL
+No toma medicación. Recientemente ha dejado de tomar anticonceptivos orales.

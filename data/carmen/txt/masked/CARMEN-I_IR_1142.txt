@@ -1,0 +1,27 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con neumonía por SARS-CoV y Neumonía Organizativa con aumento de imágenes radiológicas. Interesa nuevo TAC para valorar evolución.
+Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+Intubación oro-traqueal.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres y pericárdico libres.
+Discreto enfisema paraseptal y centrolobulillar en LLSS.
+Ténues focos en vidrio deslustrado bilaterales y perifericos.
+Engrosamientos peribronquiales difusos de predominio en LLII. Algun taponamiento mucoso endobronquial. Consolidación subpleural en LII.
+Atelectasias laminares bibasales.
+Calcificaciones aorticas y coronarias. Aorta ascendente de 4cm.
+
+conclusiones:
+Todo ello compatible con cambios por covid 19.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

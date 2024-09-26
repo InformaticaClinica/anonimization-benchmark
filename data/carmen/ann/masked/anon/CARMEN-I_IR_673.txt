@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+paciente que presenta 3 crisis convulsivas mientras esperaba en urgencias por metrorragia. Se procede a sedación e IOT. Ruego descartar complicación SNC ya que no tiene antecedentes previos y realizar TC tórax para descartar infección por covid
+Convulsión
+
+protocolo:
+TC craneal URGENTE realizado en condiciones basales
+
+resultados:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+
+conclusiones:
+Exploración sin hallazgos significativos apreciables por TC en el momento actual
+
+descrip:
+TC CEREBRAL

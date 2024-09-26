@@ -1,0 +1,19 @@
+Paciente de [**EDAD_SUJETO_ASISTENCIA**]. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**], tiene otro [**FAMILIARES_SUJETO_ASISTENCIA**] que vive en [**TERRITORIO**]. Independiente para actividades básicas de la vida diaria
+ALERGIA A SULFAMIDAS Y BROMHEXINA
+Ex fumador de hace 7 años con dosis acumulada de 100 paquetes-año. No enol habitual.
+Actualmente jubilado, [**PROFESION**].
+* ANTECEDENTES PATOLÓGICOS
+1.- HIPERTENSIÓN ARTERIAL en tratamiento con tres antihipertensivos con buen control. Lesión de órgano diana (cardiopatía) sin nefropatía.  
+2.- DIABETES MELLITUS TIPO II sin tratamiento farmacológcio ni complicaciones microvasculares. Última HbA1c de 6,5% en [**FECHAS**].
+3.- CARDIOPATÍA HIPERTENSIVA, último ecocardiograma de [**FECHAS**]; hipertrofia ventricular izquierda severa asintomática. Prueba de esfuerzo [**FECHAS**] negativa.
+** ECOCARDIO [**FECHAS**]: FEVI 67% -- Hipertrofia severa del ventrículo izquierdo con predominio en el apex y con leve obliteración apical; no obstrucción al tracto de salida del ventrículo izquierdo. Cavidad no dilatada y con motilidad global y segmentaria preservada.
+-- Válvulas normofuncionantes. -- Ventrículo derecho no dilatado, normocontráctil. -- Aurícula izquierda ligeramente dilatada
+1er Episodio de ICC IZQUIERDA, EN [**FECHAS**], pendiente de visita por CARDIO
+3.- EPOC GOLD II en tratamiento broncodilatador fijo y de rescate. 
+Sin exacerbaciones en el último año. Clase funcional: tolera bien caminar en plano. Disnea con las subidas. Última espirometría [**FECHAS**]; Obstrucción moderada FEV1 51%, PBD negativa.
+** PFR [**FECHAS**]: Gasometría arterial basal: hipoxemia moderada con normocapnia; pH conservado. PaO2 66.7 mmHg, PaCo2 41 mmHg, pH= 7.402
+4.- POLICITEMIA, Probablemente por EPOC, sin tratamiento. No clínica de congestión sistémica.
+5.- POLISOMNOGRAFIA [**FECHAS**]: Estudio que descata SAHS. Pero presenta CT90 elvado y SpO2 media 87%, por lo que se recomienda visita con su [**PROFESION**] de referncia y valorar O2 nocturno, PENDIENTE DE VALORACION POR NMO.
+6.- ATRAPAMIENTO NERVIO MEDIANO
+** EMG [**FECHAS**]: Estudio neurofisiológico compatible con mononeuropatia de nervio mediano derecho por atrapamiento a nivel del codo de carácter incipiente
+* TRATAMIENTO HABITUAL: [**OTROS_SUJETO_ASISTENCIA**] [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**] [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**].

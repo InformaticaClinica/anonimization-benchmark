@@ -1,0 +1,17 @@
+Alergia al [**OTROS_SUJETO_ASISTENCIA**]. Intolerancia al melón. No hábitos tóxicos.Madre con ca. mama metastasico.
+* ANTECEDENTES PATOLÓGICOS:
+1. APLASIA MEDULAR GRAVE. Dx [**FECHAS**] C. [**HOSPITAL**].
+>TTO:  CsA desde [**FECHAS**]: sin respuesta. - ATG caballo [**FECHAS**] + CsA [**OTROS_SUJETO_ASISTENCIA**] + Eltrombopag [**OTROS_SUJETO_ASISTENCIA**] (inicia [**FECHAS**]-STOP [**FECHAS**] por completar 6m). - CsA [**OTROS_SUJETO_ASISTENCIA**] (stop [**FECHAS**] por temblores) + reinicio Eltrombopag [**FECHAS**] - Stop eltrombopag [**FECHAS**] por ausencia de respuesta. - Danazol [**OTROS_SUJETO_ASISTENCIA**] + Tacrolimus (inicia el [**FECHAS**])
+* AMO ([**FECHAS**]): hipocelular, elementos del estroma (linfocitos y plasmocitos). Poblaciones linfocitarias con inversión de cociente CD4/CD8. Presencia de clona HPN (neutrófilos [**OTROS_SUJETO_ASISTENCIA**]%, monocitos [**OTROS_SUJETO_ASISTENCIA**]%, eritrocitos [**OTROS_SUJETO_ASISTENCIA**]%).
+Progresión de la aplasia medular con soporte transfusional + corta duración de la respuesta a ATG e imposibilidad para CsA, se decide realizar TPH haploidéntico.
+REEVALUACIÓN
+- AMO ([**FECHAS**]): Hipocelular, presencia de precursores granulocíticos ymegacariocíticos con refuerzo de la granulación.
+- QM en SP ([**FECHAS**]): QM completa del donante en leucocitos totales.
+2. ESCLEROSIS MÚLTIPLE R/R. Seguimiento por [**NOMBRE_PERSONAL_SANITARIO**]. Brotes en [**FECHAS**]. RM craneal con criterios de diseminación en tiempo y espacio.
+Seqüeles: visió borrossa. Hipoestèsia i disestèsies mà dreta.
+3.[**OTROS_SUJETO_ASISTENCIA**]
+4.[**OTROS_SUJETO_ASISTENCIA**] estable
+* TRATAMIENTO HABITUAL ([**FECHAS**]): CsA [**OTROS_SUJETO_ASISTENCIA**], Aciclovir [**OTROS_SUJETO_ASISTENCIA**].
+Pentamidina (última [**FECHAS**]). Pantoprazol [**OTROS_SUJETO_ASISTENCIA**]. Mg [**OTROS_SUJETO_ASISTENCIA**].
+Calcio [**OTROS_SUJETO_ASISTENCIA**]. Zolpidem [**OTROS_SUJETO_ASISTENCIA**]. Gembifrozilo [**OTROS_SUJETO_ASISTENCIA**], Gabapentina [**OTROS_SUJETO_ASISTENCIA**]. Hidroferol/[**OTROS_SUJETO_ASISTENCIA**], Clonazepam [**OTROS_SUJETO_ASISTENCIA**] (la dosis de la noche PRN). Lorazepam [**OTROS_SUJETO_ASISTENCIA**] sp. Primperan [**OTROS_SUJETO_ASISTENCIA**] sp (no lo toma). Movicol sp. Posaconazol [**OTROS_SUJETO_ASISTENCIA**] (stop [**FECHAS**]). G-CSF semanal (martes), Zolpidem PRN, Lederfolin [**OTROS_SUJETO_ASISTENCIA**].
+VACUNACIÓN COVID 19: Moderna. 1a dosis [**FECHAS**]; 2a dosis [**FECHAS**] (serología negativa [**FECHAS**]); 3a dosis al [**FECHAS**]. [**FECHAS**] serologia negativa.

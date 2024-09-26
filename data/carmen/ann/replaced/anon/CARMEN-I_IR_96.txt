@@ -1,0 +1,26 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Covid con requerimiento persistente de O2. Descartar TEP y neumonía organizativa. Gracias
+NAC con infiltrado en LID
+
+protocolo:
+Se realiza estudio angio-TC pulmonar. Se realizan secciones adicionales con técnica de alta resolución.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Severo enfisema centrolobulillar confluente y destructivo. Lesiones granulomatosas calcificadas apicales izq. y en LSD.
+Opaciddaes en vidrio deslustrado en LII y língula en relación a neumonía COVID. Se observan bandas parenquimatosas subpleurales  bilaterales en relación a discrteos cambios organizativos.
+Ausencia de opacificación de vasos pulmonares distales compatible con TEP.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

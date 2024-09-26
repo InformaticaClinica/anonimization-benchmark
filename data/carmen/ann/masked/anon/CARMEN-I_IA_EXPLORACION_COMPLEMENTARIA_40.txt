@@ -1,0 +1,16 @@
+
+*RADIOLOGÍA
+-RX TÓRAX ([**CENTRO_SALUD**], [**FECHAS**]): Opacidades bilaterales periféricas.
+-RX TÓRAX ([**FECHAS**]): Opacidades alveolointersticiales bilaterales en campos pulmonares medios e inferiores, de predominio izquierdo.
+*LABORATORIO
+*ANALÍTICA DE URGENCIAS ([**FECHAS**])
+-BIOQUÍMICA GENERAL: PCR 18.68 mg/dL; Troponina I 6.4 ng/L, Creatinina 0.92 mg/dL; FG 84.58; ASAT 96 U/L ; ALAT 119 U/L; GGT 92 U/L; Bilirrubina total 0.70 mg/dL ; FA 164 U/L; LDH 365 U/L; Sodi 140 mEq/L; Potasi 3.4/B mEq/L; Procalcitonina 0.09 ng/mL; Calci 8.50 mg/dL; Magnesi 2.3 mg/dL; Ferritina 1760 ng/mL
+-HEMOGRAMA: Leucòcits 5.17 10^9/L; Hematies 4.45/B 10^12/L, Hemoglobina 132 g/L; Hematòcrit 0.410 L/L; VCM 91.8 fl; Plaquetes 340 10^9/L; Limfòcits 0.4/B 10^9/L
+-HEMOSTÀSIA GENERAL: Dimer D quantitatiu, sèrum 1000 ng/mL
+*SEROLOGÍAS ([**FECHAS**]): Antigen superficie v.hepatitis B Negatiu. IgG antigen core v.hepatitis B Negatiu. VIH 1/2 Anticossos + Antígen p24 Combo,s Negatiu.
+*ANALÍTICA AL ALTA ([**FECHAS**])
+-BIOQUÍMICA GENERAL: PCR 0.89 mg/dL; Creatinina 1.07 mg/dL; FG 70 ml/min/1,73 m2; ASAT 175 U/L ; ALAT 342 U/L; GGT 102 U/L; Bilirrubina total 0.60 mg/dL ; FA 128 U/L; LDH 334 U/L; Sodi 140 mEq/L; Potasi 4.4/B mEq/L; Calci 8.80 mg/dL; Magnesi 2.1 mg/dL.
+-HEMOGRAMA: Leucòcits 4.21 10^9/L; Hematies 4.38/B 10^12/L, Hemoglobina 137 g/L; Hematòcrit 0.400 L/L; VCM 91 fl; Plaquetes 549 10^9/L; Limfòcits 0.9/B 10^9/L.
+-HEMOSTÀSIA GENERAL: Dimer D 800 ng/mL, TP 13.7 seg.
+*ECG ([**FECHAS**]): ritmo sinusal a 73 lpm, QT 404, QTc 446.
+ 

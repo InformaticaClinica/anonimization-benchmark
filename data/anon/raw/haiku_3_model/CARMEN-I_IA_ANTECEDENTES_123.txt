@@ -1,0 +1,11 @@
+Antecedentes personales:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin alergias, fumador de 2 cigarrillos al día, sin otros hábitos tóxicos. Funcionalmente independiente.
+ANTECEDENTES PATOLÓGICOS:
+1.- Hipertensión arterial en tratamiento farmacológico
+2.- Prótesis de rodilla derecha desde 2012 con múltiples complicaciones: * primer recambio en [**FECHAS**] en contexto de probable infección protésica, sin aislamientos microbiológicos, que se trató con levofloxacino y rifampicina.
+* Reingreso en [**FECHAS**] para nueva cirugía por luxaciones de repetición -> en [**FECHAS**] se objetiva solución de continuidad a nivel pretibial con supuración profusa -> cultivo de líquido articular y de la lesión (aislamientos de BGN y estreptococos) y ceftazidima y linezolid.
+* Recambio en [**FECHAS**] de PTR derecha + cobertura mediante colgajo e ingreso en UCI-Quirúrgica en el postoperatorio inmediato: requiriendo transfusión de dos hemoconcentrados y soporte vasopresor para buena perfusión del injerto. Tratamiento con ampicilina y ciprofloxacino por aislamiento de E.faecalis y E.cloacae sensibles.
+* Mala evolución de herida quirúrgica, reinterviniendose el [**FECHAS**] realizandose desbridamiento y recambio espaciador. Como incidencia intraoperatoria se produce fractura del condilo lateral del espaciador que se fija con cemento. Cultivos introperatorios negativos.
+* Dehiscencia proximal al colgajo con infección y destrucción tendón rotuliano y del aparato extensor, que imposibilita la colocación de un espaciador estático por lo que se decide realizar nueva cirugía ([**FECHAS**]) de primer tiempo,con extracción patela y tejido infectado, colocación espaciado estático vanco-genta y en 2do ([**FECHAS**]) tiempo una artrodesis con FIJADOR EXTERNO DOBLE CUADRO ORTHOFIX + REAVANCE COLGAJO ALT.
+Tratamiento con ampicilina y ciprofloxacino con aislamiento en cirugía previa de E.faecalis y E.cloacae sensibles. Buena evolución - actualmente en centro sociosanitario para convalescencia.
+3.- AIT HEMISFÉRICO DERECHO; ICTUS ISQUÉMICO AGUDO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUEIRDA (ACMI); ESTENOSIS 50% DE LA ARTERIA CARÓTIDA INTERNA DERECHA (ICAD) y FORAMEN OVAL PERMEABLE: en contexto de 2 por lo que recibio anticoagulacion con enoxaparina.

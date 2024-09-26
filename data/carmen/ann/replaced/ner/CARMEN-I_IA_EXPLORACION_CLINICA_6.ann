@@ -1,0 +1,30 @@
+T2	PROCEDIMIENTO 55 69	Pulsioximetría
+T3	PROCEDIMIENTO 136 157	Auscultación cardíaca
+T4	PROCEDIMIENTO 170 191	Auscultación pulmonar
+T5	PROCEDIMIENTO 444 470	Exploración cardiovascular
+T6	PROCEDIMIENTO 598 623	Auscultación respiratoria
+T7	PROCEDIMIENTO 677 700	Exploración neurológica
+T8	SINTOMA 307 326	Buen estado general
+T9	SINTOMA 361 368	Afebril
+T10	SINTOMA 525 539	edemas en EEII
+T11	SINTOMA 625 633	Eupneico
+T12	SINTOMA 715 741	orientada en las 3 esferas
+T13	SINTOMA 791 810	irritación meníngea
+T14	SINTOMA 162 168	soplos
+T15	SINTOMA 196 225	murmullo vesicular conservado
+T16	SINTOMA 328 342	Normohidratado
+T17	SINTOMA 345 359	normocoloreado
+T18	SINTOMA 370 395	Hemodinámicamente estable
+T19	SINTOMA 472 496	tonos cardíacos rítmicos
+T20	SINTOMA 514 520	soplos
+T21	SINTOMA 541 582	Pulsos periféricos presentes y simétricos
+T22	SINTOMA 587 589	IY
+T23	SINTOMA 593 596	RHY
+T24	SINTOMA 635 638	MVC
+T25	SINTOMA 702 712	consciente
+T26	SINTOMA 746 767	focalidad neurológica
+T27	SINTOMA 815 823	flapping
+T28	SINTOMA 231 251	ruidos sobreañadidos
+T29	SINTOMA 643 675	ruidos patológicos sobreañadidos
+T30	PROCEDIMIENTO 100 121	EXPLORACIÓN EN FISICA
+T31	PROCEDIMIENTO 254 272	EXPLORACIÓN FÍSICA

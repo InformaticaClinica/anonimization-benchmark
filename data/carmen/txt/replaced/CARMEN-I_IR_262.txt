@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID POSITIVO
+
+protocolo:
+RX PORTATIL TORAX
+
+resultados:
+Se visualiza una afectación intersticial y patrón alveolar confluente en ambos campos pulmonares medios de predominio periférico, que sugiere afectación por COVID 19
+
+conclusiones:
+Neumonía intersticial bilateral de predominio periférico en ambos campos medios, sugestivo de afectación por COVID-19.
+
+descrip:
+RX  PORTATIL  TORAX

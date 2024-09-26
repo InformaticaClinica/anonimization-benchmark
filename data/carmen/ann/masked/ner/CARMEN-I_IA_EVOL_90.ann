@@ -1,0 +1,95 @@
+T3	PROCEDIMIENTO 481 499	Exploración física
+T4	PROCEDIMIENTO 756 759	ECG
+T5	PROCEDIMIENTO 915 924	Hemograma
+T6	PROCEDIMIENTO 1034 1045	Rx de Tórax
+T7	PROCEDIMIENTO 1335 1350	coronariografia
+T8	PROCEDIMIENTO 2214 2217	ECG
+T9	PROCEDIMIENTO 2816 2827	RM cardíaca
+T10	PROCEDIMIENTO 452 479	perfusión de nitroglicerina
+T11	PROCEDIMIENTO 581 584	EGC
+T12	PROCEDIMIENTO 1111 1134	Ecoscopia a pie de cama
+T13	PROCEDIMIENTO 1500 1527	perfusión de nitroglicerina
+T14	PROCEDIMIENTO 1785 1800	Ecocardioscopia
+T15	PROCEDIMIENTO 2334 2340	Frotis
+T16	PROCEDIMIENTO 2996 3020	aislamiento domiciliario
+T17	SINTOMA 222 251	dolor centrotorácico opresivo
+T18	SINTOMA 425 430	dolor
+T19	SINTOMA 539 568	edemas en miembros inferiores
+T20	SINTOMA 770 788	descenso del dolor
+T21	SINTOMA 1294 1299	dolor
+T22	SINTOMA 1591 1596	dolor
+T23	SINTOMA 2158 2183	hemodinámicamente estable
+T24	SINTOMA 2189 2212	dolor torácico residual
+T25	SINTOMA 2385 2391	fiebre
+T26	SINTOMA 2393 2396	tos
+T27	SINTOMA 2398 2404	disnea
+T28	SINTOMA 292 303	vegetatismo
+T29	SINTOMA 305 316	irradiación
+T30	ENFERMEDAD 513 535	insuficiencia cardiaca
+T31	ENFERMEDAD 1252 1271	derrame pericárdico
+T32	ENFERMEDAD 1317 1320	IAM
+T33	ENFERMEDAD 1982 1995	valvulopatías
+T34	ENFERMEDAD 2846 2864	infección Covid 19
+T35	ENFERMEDAD 30 70	IAM SIN ENFERMEDAD CORONARIA OBSTRUCTIVA
+T36	ENFERMEDAD 72 78	MINOCA
+T37	ENFERMEDAD 1470 1476	MINOCA
+T38	ENFERMEDAD 2086 2105	derrame pericárdico
+T39	ENFERMEDAD 2309 2333	INFECCIÓN POR SARS-CoV-2
+T40	ENFERMEDAD 2053 2055	IT
+T41	SINTOMA 610 623	ritmo sinusal
+T42	SINTOMA 646 658	QRS estrecho
+T43	SINTOMA 660 691	repolarización sin alteraciones
+T44	SINTOMA 696 751	minimo ascenso inframilimétrico del ST en cara inferior
+T45	SINTOMA 802 835	ondad T aplanadas en precordiales
+T46	SINTOMA 871 890	elevación de TnI US
+T47	SINTOMA 961 993	alteraciones hidroelectroliticas
+T48	SINTOMA 995 1012	Hemostasia normal
+T49	SINTOMA 1069 1080	infiltrados
+T50	SINTOMA 1139 1153	VI no dilatado
+T51	SINTOMA 1156 1195	función global y segmentaria conservada
+T52	SINTOMA 1216 1246	VD no dilatado normocontráctil
+T53	SINTOMA 1706 1739	pico de troponinas ultrasensibles
+T54	SINTOMA 2221 2234	ritmo sinusal
+T55	SINTOMA 2271 2304	alteraciones de la repolarización
+T56	SINTOMA 2635 2647	asintomática
+T57	SINTOMA 2650 2660	HD estable
+T58	ENFERMEDAD 1201 1214	valvulopatias
+T59	ENFERMEDAD 2239 2266	extrasístoles ventriculares
+T60	FARMACO 465 479	nitroglicerina
+T61	FARMACO 1513 1527	nitroglicerina
+T62	FARMACO 1652 1655	AAS
+T63	FARMACO 2750 2753	AAS
+T64	FARMACO 2755 2764	enalapril
+T65	FARMACO 2767 2780	atorvastatina
+T66	PROCEDIMIENTO 837 856	Analítica sanguínea
+T67	PROCEDIMIENTO 1399 1415	ventriculografia
+T68	PROCEDIMIENTO 1622 1647	tratamiento antiagregante
+T69	PROCEDIMIENTO 1675 1684	estatinas
+T70	PROCEDIMIENTO 1687 1691	IECA
+T71	PROCEDIMIENTO 2540 2554	monitorización
+T72	HUMANO 91 99	Paciente
+T74	HUMANO 1833 1836	Dra
+T75	ENFERMEDAD 2355 2363	covid-19
+T76	HUMANO 2407 2432	contactos epidemiologicos
+T77	HUMANO 2518 2526	paciente
+T78	HUMANO 2722 2730	paciente
+T79	HUMANO 2882 2890	paciente
+T80	HUMANO 2931 2941	cardiólogo
+T81	HUMANO 2972 2980	paciente
+T82	HUMANO 161 170	familares
+T83	SINTOMA 915 933	Hemograma en rango
+T84	SINTOMA 935 956	función renal estable
+T85	SINTOMA 1050 1063	ICT aumentado
+T86	SINTOMA 1083 1109	senos costofrénicos libres
+T87	SINTOMA 1373 1396	coronarias sin lesiones
+T88	SINTOMA 1420 1452	discinesia inferior media-apical
+T89	SINTOMA 1871 1919	Ventrículo izquierdo no dilatado no hipertrófico
+T90	SINTOMA 1924 1947	motilidad global normal
+T91	SINTOMA 1997 2048	Ventrículo derecho no dilatado con motilidad normal
+T92	SINTOMA 2334 2363	Frotis positivo para covid-19
+T93	PROCEDIMIENTO 2446 2456	radiología
+T94	PROCEDIMIENTO 3056 3059	PCR
+T95	SINTOMA 3056 3068	PCR positiva
+T96	PROCEDIMIENTO 2434 2443	analitica
+T1	PROCEDIMIENTO 995 1005	Hemostasia
+T2	SPECIES 2323 2333	SARS-CoV-2

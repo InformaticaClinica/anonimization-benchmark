@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumonia bilateral por COVID19.
+D-Dimero >10.000
+Dolor en piernas bilateralmente - asumido por posible TVP y iniciado enoxaparina terapeutica el viernes [**FECHAS**].
+Hoy expectoración hemoptoica - TEP?
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Defectos de repleción compatibles con tromboembolismo pulmonar (TEP) agudo en la rama lobar ramas segmentarias del lóbulo inferior izquierdo, y también en ramas subsegmentarias del lóbulo inferior derecho y del lóbulo medio. No se visualiza dilatación del tronco principal de la arteria pulmonar ni signos de sobrecarga cardíaca derecha.
+Adenopatía subcarinal y prevascular, de aspecto reactivo. No se observan otros ganglios axilares ni mediastínicos de tamaño valorable. No se observa derrame pleural ni pericárdico.
+Extensas opacidades en vidrio deslustrado de distribución bilateral y difusa, asociadas a engrosamientos septales conformando un patrón en "crazy paving", especialmente evidente en los campos superiores. En los lóbulos inferiores muestran una disposición en banda subpleural, con tractos atelectásicos y bronquioloectasias de tracción, sugestivo de cambios fibróticos asociados. Los hallazgos descritos son compatibles con la infección pulmonar por COVID-19 con tendencia a la fibrosis.
+
+conclusiones:
+TEP agudo bilateral en algunas ramas predominantemente segmentarias/subsegmentarias, sin signos de sobrecarga cardíaca derecha.
+Infección pulmonar por COVID-19 con cambios que indican tendencia a la fibrosis.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,39 @@
+T7	ENFERMEDAD 272 290	neumonía por COVID
+T8	ENFERMEDAD 358 369	adenopatías
+T9	ENFERMEDAD 708 726	neumonía bilateral
+T10	ENFERMEDAD 790 811	neumonía organizativa
+T11	ENFERMEDAD 815 832	fibrosis pulmonar
+T12	ENFERMEDAD 856 903	Leve derrame pleural derecho y mínimo izquierdo
+T13	ENFERMEDAD 912 931	derrame pericárdico
+T14	ENFERMEDAD 1002 1020	neumonía bilateral
+T15	ENFERMEDAD 1127 1202	Ateromatosis calcificada en arterias coronarias y en anillo valvular mitral
+T16	ENFERMEDAD 1228 1249	Adenopatía subcarinal
+T17	ENFERMEDAD 1260 1283	adenopatía paratraqueal
+T18	ENFERMEDAD 1540 1554	neumonia COVID
+T19	ENFERMEDAD 1706 1753	Leve derrame pleural derecho y mínimo izquierdo
+T20	ENFERMEDAD 1775 1794	derrame pericárdico
+T21	ENFERMEDAD 1876 1892	neumonía COVID19
+T22	SINTOMA 105 186	Condensaciones pulmonares bilaterales, periféricas, en campos superior e inferior
+T23	SINTOMA 1456 1471	consolidaciones
+T24	PROCEDIMIENTO 16 24	RX TÓRAX
+T25	PROCEDIMIENTO 330 334	TCAR
+T26	PROCEDIMIENTO 1055 1059	TCAR
+T27	PROCEDIMIENTO 1085 1096	TC torácica
+T28	PROCEDIMIENTO 1401 1403	TC
+T29	PROCEDIMIENTO 1906 1908	TC
+T30	SINTOMA 457 501	opacidades en vidrio deslustrado bilaterales
+T31	SINTOMA 568 589	zonas de crazy paving
+T32	SINTOMA 605 634	foco consolidativo subpleural
+T33	SINTOMA 637 670	ensanchamientovascular periférico
+T34	ENFERMEDAD 750 758	COVID-19
+T35	ENFERMEDAD 933 960	Granuloma calcificado en LM
+T36	ENFERMEDAD 1044 1052	COVID-19
+T37	SINTOMA 1204 1226	CVC con extremo en VCS
+T38	SINTOMA 1337 1386	áreas en vidrio deslustrado en lóbulos superiores
+T39	SINTOMA 1431 1453	patrón de crazy paving
+T41	ENFERMEDAD 1485 1509	dilataciones bronquiales
+T42	SINTOMA 1660 1690	patrón con bandas subpleurales
+T43	SINTOMA 1582 1612	imágenes en vidrio deslustrado
+T44	ENFERMEDAD 1796 1823	Granuloma calcificado en LM
+T45	SINTOMA 1958 2000	patrón consolidativo en lóbulos superiores
+T46	SINTOMA 2003 2030	cambios resolutivoe en LLII

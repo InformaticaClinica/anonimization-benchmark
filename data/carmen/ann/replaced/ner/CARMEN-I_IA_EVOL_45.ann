@@ -1,0 +1,61 @@
+T3	PROCEDIMIENTO 423 437	TAC de abdomen
+T4	PROCEDIMIENTO 991 1040	COLECTOMÍA SUBTOTAL CON ANASTOMOSIS ILEOSIGMOIDEA
+T5	PROCEDIMIENTO 1214 1263	colectomía subtotal con anastomosis ileosigmoidea
+T6	PROCEDIMIENTO 1440 1449	analgesia
+T7	PROCEDIMIENTO 1697 1710	examen físico
+T8	PROCEDIMIENTO 824 826	IQ
+T9	PROCEDIMIENTO 1872 1879	Drenaje
+T10	PROCEDIMIENTO 2145 2151	frotis
+T11	PROCEDIMIENTO 2336 2349	oxigenoteraia
+T12	SINTOMA 159 172	estreñimiento
+T13	SINTOMA 209 214	dolor
+T14	SINTOMA 233 270	dolor a la palpación de manera difusa
+T15	SINTOMA 276 296	defensa generalizada
+T16	SINTOMA 1359 1384	hemodinámicamente estable
+T17	SINTOMA 1386 1393	afebril
+T18	SINTOMA 1430 1435	dolor
+T19	SINTOMA 1524 1532	diarreas
+T20	SINTOMA 1732 1758	Abdomen blando, depresible
+T21	SINTOMA 2284 2292	eupneica
+T22	SINTOMA 1711 1730	buen estado general
+T23	SINTOMA 1764 1780	normoperistalsis
+T24	ENFERMEDAD 64 81	fractura de femur
+T25	ENFERMEDAD 133 147	LOES hepáticas
+T26	ENFERMEDAD 453 501	proceso neoplásico primario de colon descendente
+T27	ENFERMEDAD 507 549	obstrucción intestinal mecánica secundaria
+T28	ENFERMEDAD 736 754	Lesiones hepáticas
+T29	ENFERMEDAD 899 938	NEOPLASIA OCLUSIVA DE COLON DESCENDENTE
+T30	ENFERMEDAD 1081 1144	oclusión intestinal secundaria a neoplasia en colon descendente
+T31	ENFERMEDAD 1114 1144	neoplasia en colon descendente
+T32	ENFERMEDAD 1160 1190	neumatosis en colon ascendente
+T33	ENFERMEDAD 1611 1646	infección por Clostridium difficile
+T34	ENFERMEDAD 2015 2034	infección por COVID
+T35	ENFERMEDAD 2073 2096	fractura pertrocantérea
+T36	ENFERMEDAD 84 89	COVID
+T37	ENFERMEDAD 964 986	M1 HEPÁTICAS MÚLTIPLES
+T38	ENFERMEDAD 562 600	neumatosis en ciego y colon ascendente
+T39	ENFERMEDAD 940 960	CIEGO CON NEUMATOSIS
+T40	SINTOMA 317 341	leve elevación de la PCR
+T41	SINTOMA 352 364	leucocitosis
+T42	SINTOMA 1399 1416	diuresis adecuada
+T43	SINTOMA 1823 1830	defensa
+T44	SINTOMA 2294 2317	saturando correctamente
+T45	PROCEDIMIENTO 1481 1491	dieta oral
+T46	HUMANO 30 38	Paciente
+T47	HUMANO 1042 1050	Paciente
+T48	HUMANO 1295 1303	paciente
+T49	HUMANO 1997 2005	paciente
+T50	SPECIES 1625 1646	Clostridium difficile
+T51	SINTOMA 602 706	Leve cantidad de líquido libre perihepático, periesplénico, en ambas gotieras parietocólicas y en pélvis
+T52	SINTOMA 723 734	colecciones
+T54	ENFERMEDAD 769 799	M1s en ambos lóbulos hepáticos
+T55	PROCEDIMIENTO 1625 1675	Clostridium difficile cursando una toxina en heces
+T56	SINTOMA 1625 1692	Clostridium difficile cursando una toxina en heces, que es negativa
+T57	SINTOMA 1785 1808	doloroso a la palpación
+T58	ENFERMEDAD 1832 1851	Heridas quirúrgicas
+T59	SINTOMA 1832 1870	Heridas quirúrgicas sin complicaciones
+T60	SINTOMA 1884 1926	débito progresivamente menor, serohemático
+T61	SINTOMA 2145 2182	frotis inicial es débilmente positivo
+T62	PROCEDIMIENTO 378 387	analitica
+T63	PROCEDIMIENTO 221 232	exploración
+T1	PROCEDIMIENTO 1565 1572	cirugía

@@ -1,0 +1,7 @@
+T6	HUMANO 1 7	Hombre
+T7	SPECIES 122 133	coronavirus
+T8	HUMANO 145 149	Hijo
+T9	ENFERMEDAD 222 240	traumatismo en EII
+T10	PROCEDIMIENTO 222 266	traumatismo en EII que requirió intervención
+T11	SINTOMA 150 157	enfermo
+T12	ENFERMEDAD 291 306	hábitos tóxicos

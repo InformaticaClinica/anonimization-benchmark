@@ -1,0 +1,32 @@
+
+prueba:
+TC TORAX
+
+clinica:
+COVID+.
+Insuficiència cardíaca no especificada
+
+protocolo:
+ANGIO TC PULMONAR URGENTE.
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran TEP.
+Tronco pulmonar común dilatado (37 mm) que sugiere HTP. Cardiomegalia.
+Leve derrame pleural izquierdo. No se observa derrame pleural derecho o pericárdico.
+Adenopatías mediastínicas paratraqueales bilaterales, en ventana aortopulmonar e hiliares bilaterales de hasta 15 mm de tamaño. No se observan adenopatías axilares ni otras mediastínicas de tamaño patológico.
+Leve enfisema pulmonar centrolobulillar de predominio en LLSS.
+Patrón pulmonar con ténues opacidades en vidrio delustrado bilaterales y con engrosamientos septables de predominio periférico en lóbulos inferiores que se acompaña de distorsión de la arquitectura pulmonar normal, asociado a bronquiectasias y bronquiolectasias de tracción, presencia de bandas fibrosas bilaterales y signos de halo reverso, consolidaciones parcheadas y periféricas en língula y en base pulmonar izquierda.
+Patrón pulmonar sugestivo de afectación por COVID19 con cambios fibrosos y neumonía organizativa. Comparativamente con las radiografías previas se observa progresión.
+Leve hernia de hiato.
+
+conclusiones:
+No se observan signos de TEP.
+Patrón pulmonar sugestivo de afectación por COVID19 con cambios fibrosos y neumonía organizativa de predominio en lóbulos inferiores.
+Cardiomegalia. Signos de hipertensión pulmonar. Leve derrame pleural izquierdo. Adenopatías mediastínicas.
+ADDENDUM (Radiología torácica- [**NOMBRE_PERSONAL_SANITARIO**])
+Masa hiliar izquierda que engloba la arteria lobar superior izquierda, probablemente adenopática. Engrosamientos pleuroparenquimatosos izquierdos. Consolidación nodular subpleural en el LSI. Múltiples imágenes nodulares subpleurales y de localización periférica en el LII.
+Se aconseja ampliar estudio mediante PET-TC tras proceso agudo actual para descartar proceso neoformativo.
+Afectación pulmonar difusa con opacidades reticulares y en vidrio deslustrado subpleurales asociado a bronquioloectasias de tracción de predominio basal, que sugiere neumopatía intersticial, a caracterizar tras proceso agudo actual.
+
+descrip:
+TC TORAX

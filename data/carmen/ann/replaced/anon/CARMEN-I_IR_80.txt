@@ -1,0 +1,26 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Leucemia aguda mieloide en recaída tras trasplante alogénico, en tratamiento con venetoclax + azacitidina. Fiebre, tos y expectoración leve. COVID (-) pero presenta crepitantes. Se ruega TC.
+LMA
+
+protocolo:
+TCAR URGENTE
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Ateromatosis calcificada aórtica.
+Port-a-cath con extremo distal en AD.
+Espacios pleurales libres.
+Múltiples nódulos pulmonares de pequeño tamaño con halo en vidrio deslustrado en el LSI y en menor grado en el LII. Nódulo pulmonar de 11 mm en el LM y nódulo pulmonar con halo en vidrio deslustrado de 11 mm en el segmento apical del LID. Foco consolidativo nodular con broncograma aéreo y halo en vidrio deslustrado localizado en el segmento basal posterior del LID. Los hallazgos descritos son sugestivos de aspergilosis angioinvasiva en el contexto de la paciente.
+Hallazgos no sugestivos de infección por COVID-19.
+Cambios postquirúrgicos en hipocondrio izquierdo. Esplenectomía.
+
+conclusiones:
+Los hallazgos descritos son sugestivos de aspergilosis angioinvasiva en el contexto de la paciente.
+Hallazgos no sugestivos de infección pulmonar por COVID-19 en el momento actual.
+
+descrip:
+TC TORAX

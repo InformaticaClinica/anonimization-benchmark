@@ -1,0 +1,37 @@
+T2	FARMACO 136 144	propofol
+T3	FARMACO 160 171	Ceftibuteno
+T4	PROCEDIMIENTO 173 186	tetraciclinas
+T5	FARMACO 188 202	ciprofloxacino
+T6	FARMACO 204 216	cotrimoxazol
+T7	FARMACO 218 230	eritromicina
+T8	FARMACO 232 246	estreptomicina
+T9	FARMACO 248 259	fosfomicina
+T10	FARMACO 261 272	vancomicina
+T11	FARMACO 275 284	linezolid
+T12	FARMACO 314 326	Teicoplanina
+T13	FARMACO 328 337	aztreonam
+T14	FARMACO 339 349	furantoina
+T15	FARMACO 352 375	amoxicilina/calvulanico
+T16	FARMACO 535 545	dabigatran
+T17	FARMACO 719 729	Dabigatran
+T18	FARMACO 741 750	Omeprazol
+T19	FARMACO 761 769	Tofranil
+T20	FARMACO 776 788	Bis oproplol
+T21	FARMACO 797 805	Digoxina
+T22	FARMACO 823 836	Atorvastatina
+T23	FARMACO 895 907	Lormetazepam
+T24	FARMACO 917 928	Paracetamol
+T25	PROCEDIMIENTO 115 134	anestesicos locales
+T26	PROCEDIMIENTO 146 158	Antibióticos
+T27	PROCEDIMIENTO 494 514	tratamiento frenador
+T28	PROCEDIMIENTO 517 530	anticoagulada
+T29	FARMACO 847 855	Secal ip
+T30	FARMACO 875 883	Osteopor
+T31	SINTOMA 21 46	cognitivamente preservada
+T32	ENFERMEDAD 406 427	Hipertensión arterial
+T33	ENFERMEDAD 461 490	Fibrilación auricular crónica
+T34	ENFERMEDAD 550 560	Dislipemia
+T35	ENFERMEDAD 579 611	ACMD de etiología cardioembólica
+T36	ENFERMEDAD 627 648	hemiparesia izquierda
+T37	ENFERMEDAD 662 683	Retinosis pigmentaria
+T38	PROCEDIMIENTO 431 456	tratamiento farmacológico

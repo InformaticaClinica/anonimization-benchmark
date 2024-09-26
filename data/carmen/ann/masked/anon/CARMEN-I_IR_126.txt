@@ -1,0 +1,37 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con AP de tuberculosis ingresada por neumonía bilateral por Sars-Cov-2 (día 17) con radiografía de tórax con aparentes consolidaciones bilaterales.
+Ademas persite con alto requerimiento de O2 suplementario (40%) para SpO2 92%,
+Prego valoració per a descartar neumonia organizativa y añado a la solicitud previa Angio TAC pulmonar para decartar TEP sobreañadido
+Muchas gracias
+PNEUMONIA INTERSTICIAL BILATERAL
+
+protocolo:
+Se practica estudio de angio-TC pulmonar y estudio de alta resolución de parénquima pulmonar mediante TCMD.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares sospechosos de tromboembolismo pulmonar.
+Tronco de la arteria pulmonar de calibre normal: 2,4 cm.
+No se observa derrame pleural ni pericárdico.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Focos consolidativos y en vidrio deslustrado bilaterales de distribución periférica y peribroncovascular, algunos de ellos de morfología nodular.
+Se asocia a dilataciones bronquiales y bandas subpleurales sugestivo de infección pulmonar por COVID - 19 con evolución de neumonía organizada.
+Imagen nodular con con algún borde espiculado de 16 mm de diámetro máximo en segmento posterior de LSD con retracción de la cisura mayor que dados los antecedentes de tabaquismo, no se puede descartar proceso neoformativo primario pulmonar. Nódulo subpleural en LM de 17 mm de bordes bien definidos con áreas de densidad grasa y áreas calcificadas en su interior, a descartar hamartoma. A valorar una vez resuelto el proceso agudo.
+Lesiones de aspecto fibrocicatricial en ápex derecho probablemente en relación a cambios post TBC.
+Pequeña hernia hiatal.
+Glándulas suprarrenales hipodensas, ligeramente aumentadas de tamaño, de aspecto adenomatoso.
+
+conclusiones:
+Sin evidencia de trombo embolismo pulmonar.
+Patrón parenquimatoso pulmonar de las características descritas sugestivo de afectación pulmonar por COVID - 19 con evolución de neumonía organizada.
+Nódulo espiculado en LSD que no se puede descartar que corresponda a proceso neoformativo primario pulmonar.
+Nódulo subpleural del LM sugestivo de hamartoma.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

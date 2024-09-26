@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR SARS-COVID19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+En comparacion a la RX previa de hace 2 dias se observa una clara mejoría radiológica con resolución prácticamente completa de las opacidades alveolointersticiales bilaterales.
+Vía venosa central derecha con extremo distal en AD.
+
+descrip:
+RX  PORTATIL  TORAX

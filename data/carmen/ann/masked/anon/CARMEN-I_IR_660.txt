@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSSIBLE COVID-19
+
+resultados:
+Presenta focos consolidativos bibasales de predominio izquierdo y subpleural, coherentes con afectación pulmonar por COVID.
+
+conclusiones:
+Probable COVID.
+
+descrip:
+RX  PORTATIL  TORAX

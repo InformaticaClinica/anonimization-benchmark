@@ -1,0 +1,21 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] autónomo para las ABVD, convive con su [**FAMILIARES_SUJETO_ASISTENCIA**] en domicilio. No alergias medicamentosas conocidas. Ex-fumador con dosis acumulada de 30 paq-año.
+ANTECEDENTES PATOLÓGICOS:
+1.- HIPERTENSIÓN ARTERIAL en tratamiennto médico.
+2.- DIABETES MELLITUS TIPO 2
+3.- DISLIPEMIA
+4.- CARDIOPATÍA ISQUEMICO-VALVULAR
+- Consta antecedente de SCA sin dolor en [**FECHAS**], con intgreso en [**HOSPITAL**] con cateterismo que se informó como normal (no se dispone de informes).
+- Insuficiencia mitral detectada en control ecográfico, reparada quirurgicamente.
+- Ultimo ecocardiograma [**FECHAS**]: FE 35-40%
+- Cateterismo [**FECHAS**]: sin lesiones significativas.
+5.- FIBRILACION AURICULAR LENTA
+Hallazgo posterior a episodio de infarto. Portador de marcapasos desde [**FECHAS**], actualmente en tratamiento anticoagulante. Recambio de MCP en [**FECHAS**]
+Embolia en extremidad inferior derecha que requirió embolectomía en [**FECHAS**]
+6.- INSUFICIENCIA MITRAL
+7.- HIPERURICEMIA
+8. ADENOMA COLÓNICO de riesgo intermedio. Estudio de cribado de cancer colorrectal con sangre oculta en heces positiva.
+ANTECEDENTES QUIRURGICOS:
+. Colecistectomia
+. Reparación por perforación timpanica
+. Reparación valvulopatía mitral
+Tratamiento médico ([**FECHAS**]): pantoprazol 20mg, Apixaban 5mg c/12h, Furosemida 40mg c/24h, Vidagliptina + Metformina 50/850mg, Fluvastatina 80mg c/24h, Ezetimibe 10mg c/24h, Paracetamol 1000mg c/8h, Bisoprolol 5mg c/8h, Sacubitril/Valsartan 49/51mg + 24/26mg c/12h, Alopurinol 100mg c/24h.

@@ -1,0 +1,28 @@
+T4	SPECIES 19 22	VIH
+T5	HUMANO 1 6	Varon
+T6	HUMANO 464 472	paciente
+T7	SPECIES 757 825	flora mixta de cocos gram positivos tipo estreptococo y difteromorfo
+T8	SPECIES 772 825	cocos gram positivos tipo estreptococo y difteromorfo
+T9	HUMANO 900 908	paciente
+T10	SPECIES 927 937	SARS-CoV-2
+T11	SINTOMA 94 110	malestar general
+T12	SINTOMA 112 127	cefalea intensa
+T13	SINTOMA 130 147	disnea progresiva
+T14	SINTOMA 152 190	dolor en punta de costado en hemitórax
+T15	SINTOMA 275 304	disnea de moderados esfuerzos
+T16	SINTOMA 335 341	fiebre
+T17	SINTOMA 357 360	tos
+T18	SINTOMA 365 381	esputo purulento
+T19	SINTOMA 384 392	agueusia
+T20	SINTOMA 398 415	clínica digestiva
+T21	SINTOMA 419 437	síndrome miccional
+T22	SINTOMA 486 492	febril
+T23	SINTOMA 515 526	taquipneico
+T24	SINTOMA 669 711	opacidad difusa en ambos campos pulmonares
+T25	ENFERMEDAD 854 886	neumonía asociada a la comunidad
+T26	ENFERMEDAD 1008 1032	enfermedades infecciosas
+T27	FARMACO 965 974	linezolid
+T28	PROCEDIMIENTO 627 647	radiografía de tórax
+T29	PROCEDIMIENTO 722 739	cultivo de esputo
+T30	ENFERMEDAD 900 937	paciente con infección por SARS-CoV-2
+T31	PROCEDIMIENTO 319 333	decúbito prono

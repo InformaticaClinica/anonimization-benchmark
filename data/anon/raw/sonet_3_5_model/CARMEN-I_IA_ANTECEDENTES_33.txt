@@ -1,0 +1,21 @@
+Antecedentes personales:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas ni hábitos tóxicos. Vive sola, independiente para las ABVD.
+ANTECEDENTES PATOLÓGICOS:
+1. ESCLEROSIS MÚLTIPLE: seguimiento en [**CENTRO_SALUD**], diagnosticada [**FECHAS**] por hallazgos en imagen por cervicalgia. No ha presentado brotes ni progresión.
+2. INCONTINENCIA URINARIA: En seguimiento por neurología y tratamiento con mirabregon.
+3. FIBROMIALGIA
+4. Melanoma estadio IA de bajo riesgo, intervenido
+5. Gastritis por H. Pylori tratado ([**FECHAS**])
+ANTECEDENTES QUIRÚRGICOS:
+- Hidro-neumotórax traumático ([**FECHAS**]): se colocó drenaje pleural temporal con debito de 1400cc.
+- Fractura de húmero derecho([**FECHAS**]): tratamiento con osteosíntesis.
+MEDICACIÓN HABITUAL
+Cinitaprida: 1mg c/8h
+Omeprazol: 20mg c/24h
+Clorazepato: 20 mg c/24h
+Lormertazepam 2mg: 3 comprimidos c/48h
+Trazodona: 100mg/d
+Pregabalina: 75 mg/d
+Condroitin sulfato 400mg: 2 tab/24h
+Calcifediol: 1amp c/10 días
+Calcio + VD: 1 tableta c/24h.

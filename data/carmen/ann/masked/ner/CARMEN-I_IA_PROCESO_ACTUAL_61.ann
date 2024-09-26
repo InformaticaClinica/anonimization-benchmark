@@ -1,0 +1,132 @@
+T29	PROCEDIMIENTO 172 176	RxTx
+T30	PROCEDIMIENTO 312 347	oxigenoterapia con VMK con FiO2 35%
+T31	PROCEDIMIENTO 630 660	soporte con drogas vasoactivas
+T32	PROCEDIMIENTO 690 712	intubación orotraqueal
+T33	PROCEDIMIENTO 818 839	cobertura antibiótica
+T34	PROCEDIMIENTO 1134 1199	neumotórax derecho que precisó de colocación de derenaje torácico
+T35	PROCEDIMIENTO 1235 1259	traqueostomía quirúrgica
+T36	PROCEDIMIENTO 1297 1317	ventilación mecánica
+T37	PROCEDIMIENTO 1550 1576	hemodiafiltración continua
+T38	PROCEDIMIENTO 1815 1817	TC
+T39	PROCEDIMIENTO 1820 1823	RMN
+T40	PROCEDIMIENTO 1881 1893	hemocultivos
+T41	PROCEDIMIENTO 1960 1989	ecocardiografía transtorácica
+T42	PROCEDIMIENTO 2137 2140	RMN
+T43	PROCEDIMIENTO 2324 2351	drenaje ventricular externo
+T44	PROCEDIMIENTO 3628 3645	aspirado traqueal
+T45	PROCEDIMIENTO 3842 3855	eco - doppler
+T46	PROCEDIMIENTO 4211 4220	ecografía
+T47	PROCEDIMIENTO 4511 4536	Angio TC toraco-abdominal
+T48	PROCEDIMIENTO 4582 4599	Angio-TC torácico
+T49	PROCEDIMIENTO 384 401	PCR para COVID-19
+T50	PROCEDIMIENTO 780 789	pronación
+T51	PROCEDIMIENTO 971 997	perfusión de la Furosemida
+T52	PROCEDIMIENTO 1205 1212	weaning
+T53	PROCEDIMIENTO 1271 1279	destetar
+T54	PROCEDIMIENTO 1432 1476	oxigenoterapia al 28% con mascarilla venturi
+T55	PROCEDIMIENTO 1479 1486	LN 2lpm
+T56	PROCEDIMIENTO 2097 2114	ecotransesofágico
+T57	SINTOMA 95 101	fiebre
+T58	SINTOMA 103 111	diarreas
+T59	SINTOMA 114 121	vómitos
+T60	SINTOMA 126 146	clínica respiratoria
+T61	SINTOMA 186 209	PCR para gripe negativa
+T62	SINTOMA 277 300	desaturación progresiva
+T63	SINTOMA 359 382	crepitantes bilaterales
+T64	SINTOMA 900 940	deterioro progresivo de la función renal
+T65	SINTOMA 945 953	oliguria
+T66	SINTOMA 1678 1697	diuresis preservada
+T67	SINTOMA 1734 1769	disminución del nivel de conciencia
+T68	SINTOMA 2406 2445	empeoramiento de la clínica neurológica
+T69	SINTOMA 2860 2867	paresia
+T70	SINTOMA 3221 3254	Hemocultivos de control negativos
+T71	SINTOMA 3793 3821	edema de extremidad superior
+T72	ENFERMEDAD 4147 4158	hipotensión
+T73	SINTOMA 4161 4178	hiperlactacidemia
+T74	SINTOMA 4618 4654	colapso del LM con broncograma aéreo
+T75	SINTOMA 4672 4699	elevación del hemidiafragma
+T76	SINTOMA 4768 4832	opacidades bilaterales en vidrio deslustrado periféricas en LLSS
+T77	SINTOMA 5095 5119	frotis Covid-19 negativo
+T78	ENFERMEDAD 1134 1144	neumotórax
+T79	ENFERMEDAD 1518 1537	insuficiencia renal
+T80	ENFERMEDAD 1837 1844	absceso
+T81	ENFERMEDAD 1999 2011	vegetaciones
+T83	ENFERMEDAD 2215 2222	absceso
+T84	ENFERMEDAD 2298 2310	hidrocefalia
+T85	ENFERMEDAD 2480 2502	dilatación ventricular
+T86	ENFERMEDAD 2519 2543	hipertensión endocraneal
+T87	ENFERMEDAD 2648 2719	tetraparesia asimétrica de predominio proximal y en extremidad superior
+T88	ENFERMEDAD 2902 2960	miopatía grave del enfermo crítico acentuada en el miembro
+T89	ENFERMEDAD 3006 3030	trombosis yugular drecha
+T90	ENFERMEDAD 3145 3220	Sepsis pot catéter bacteriémica ([**FECHAS**];[**FECHAS**]) por E. faecalis
+T91	ENFERMEDAD 3272 3317	Infección asociada al catéter por C. albicans
+T92	ENFERMEDAD 3529 3567	Traqueobronquitis por P. aeruginosa MS
+T93	ENFERMEDAD 3586 3624	Traqueobronquitis por P. aeruginosa MS
+T94	ENFERMEDAD 3895 3947	trombosis con recanalización de vena yugular derecha
+T95	ENFERMEDAD 3982 3999	sangrado cerebral
+T97	ENFERMEDAD 4224 4242	hipovolemia franca
+T98	ENFERMEDAD 4268 4274	sepsis
+T99	ENFERMEDAD 4301 4319	cuadro hemorrágico
+T100	ENFERMEDAD 4362 4373	anemización
+T101	ENFERMEDAD 4850 4868	neumonía bilateral
+T102	ENFERMEDAD 5005 5023	proceso infeccioso
+T103	FARMACO 465 472	Kaletra
+T104	FARMACO 475 492	Hidroxicloroquina
+T105	FARMACO 741 743	O2
+T106	FARMACO 844 853	Meropenem
+T107	FARMACO 855 864	Amikacina
+T108	FARMACO 867 877	Fluconazol
+T109	FARMACO 2246 2255	Meropenem
+T110	FARMACO 2258 2267	Linezolid
+T111	FARMACO 2567 2573	Keppra
+T112	FARMACO 2576 2588	dexametasona
+T113	FARMACO 3691 3695	mero
+T114	FARMACO 3698 3702	line
+T115	FARMACO 3708 3717	meropenem
+T116	FARMACO 3720 3728	imipenem
+T117	FARMACO 3740 3754	ciprofloxacino
+T118	FARMACO 4440 4453	noradrenalina
+T119	PROCEDIMIENTO 1365 1379	cánula shilley
+T120	PROCEDIMIENTO 1404 1413	destapada
+T121	PROCEDIMIENTO 2769 2780	neuroimagen
+T122	PROCEDIMIENTO 3955 3966	anticoagula
+T123	PROCEDIMIENTO 4356 4360	CCHH
+T124	PROCEDIMIENTO 5153 5185	Serología (IgG IgM IgA positiva)
+T125	HUMANO 882 890	paciente
+T126	SPECIES 1909 1919	E. faecium
+T127	HUMANO 2630 2638	paciente
+T128	SPECIES 3343 3354	C. albicans
+T129	SPECIES 3371 3384	P. aeruginosa
+T130	SPECIES 3389 3407	Enterococo faecium
+T131	SPECIES 3426 3436	Bacteremia
+T132	SPECIES 3441 3451	E. faecium
+T133	HUMANO 4119 4127	paciente
+T134	SINTOMA 172 183	RxTx normal
+T135	PROCEDIMIENTO 186 200	PCR para gripe
+T136	ENFERMEDAD 195 200	gripe
+T137	ENFERMEDAD 393 401	COVID-19
+T138	SINTOMA 384 410	PCR para COVID-19 positiva
+T139	FARMACO 987 997	Furosemida
+T140	SINTOMA 1881 1919	hemocultivos positivos para E. faecium
+T142	PROCEDIMIENTO 3221 3233	Hemocultivos
+T143	SPECIES 3209 3220	E. faecalis
+T144	SPECIES 3306 3317	C. albicans
+T145	ENFERMEDAD 3335 3407	ITU por C. albicans ([**FECHAS**]), P. aeruginosa MS, Enterococo faecium
+T146	PROCEDIMIENTO 3471 3474	HCS
+T147	SINTOMA 3471 3495	HCS de control negativos
+T148	ENFERMEDAD 3426 3451	Bacteremia por E. faecium
+T149	SPECIES 3551 3567	P. aeruginosa MS
+T150	SPECIES 3608 3624	P. aeruginosa MS
+T151	SINTOMA 3608 3645	P. aeruginosa MS en aspirado traqueal
+T152	PROCEDIMIENTO 3909 3947	recanalización de vena yugular derecha
+T153	FARMACO 4336 4345	SSF total
+T154	ENFERMEDAD 4546 4579	sangrado activo a nivel abdominal
+T155	SINTOMA 4895 4937	opacidades nodulares en vidrio deslustrado
+T156	ENFERMEDAD 5102 5110	Covid-19
+T157	PROCEDIMIENTO 5095 5110	frotis Covid-19
+T158	ENFERMEDAD 2743 2749	lesión
+T159	SINTOMA 1205 1223	weaning prolongado
+T1	SINTOMA 235 256	empeoramiento clínico
+T2	SINTOMA 548 580	empeoramiento clínico progresivo
+T3	SINTOMA 717 743	altos requerimientos de O2
+T4	SINTOMA 1592 1610	mejoría progresiva

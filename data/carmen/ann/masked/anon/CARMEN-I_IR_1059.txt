@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA POR COVID-19
+
+resultados:
+Opacidades pulmonares bilaterales de preominio en campos superiores a nivel derecho y más difusa en el izquierdo No hay cambios significativos respecto a la RX del [**FECHAS**] pero sí se ve cierta progresión respecto a la RX del [**FECHAS**].
+
+conclusiones:
+Cambios compatibles a afectación por covid-19 algo más extensos que en estudio del [**FECHAS**]
+
+descrip:
+RX  PORTATIL  TORAX

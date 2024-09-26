@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+covid19 amb empitjorament analític i febre
+SOSPECHA COVID19
+
+conclusiones:
+Opacidades alveolares de predominio en LLII sin cambios significativos con respecto la RX previa del 7-5-19
+
+descrip:
+RX  PORTATIL  TORAX

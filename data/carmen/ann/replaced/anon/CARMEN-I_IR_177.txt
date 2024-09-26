@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+PACIENTE CON LINFOMA T, ESTADÍO IV, CON COVID NOSOCOMIAL, CON QUIMIOTERAPIA RECIENTE. INTERESA VALORAR PARÉNQUIMA PULMONAR, DESCARTAR TEP POR D-DÍMERO AL ALSA Y VALORAR ADENOPATÍAS. GRACIAS.
+Linfoma T CD30+
+
+protocolo:
+Estudio de angio-TC pulmonar.
+
+resultados:
+No imágenes de TEP. Tronco de la pulmonar de 31mm. No dilatación de cavidades derechas. No reflujo a la VCI.
+Adenopatías mediastínicas probablemente reactivas.
+Derrame pleural bilateral de predominio derecho.
+Cateter yugular derecho con extremo distal en la VCS. Sonda nasogastrica con extremo distal en cuerpo gastrico.
+Enfisema pulmonar.
+Vidrio deslustrado difuso y bilateral. Consolidaciones en LLII de predominio derecho. Bandas de consolidación subpleurales en LLII de aspecto organizativo.
+
+conclusiones:
+ver resultados
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,25 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Infecció per coronavirus no especificada
+
+protocolo:
+TC abdominal tras administrar contraste oral y e.v.
+
+resultados:
+Esteatosis hepática.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Vena porta permeable y permeabilidad del eje porto-espleno-mesentérico.
+Riñones funcionantes, de morfología y tamaño normal.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Asas de intestino delgado y colon sin alteraciones.
+Las secciones pélvicas no muestran imágenes patológicas.
+
+conclusiones:
+SIn alteraciones valorables en la TC de abdomen.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

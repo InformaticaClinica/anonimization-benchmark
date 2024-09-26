@@ -1,0 +1,20 @@
+T3	SINTOMA 24 62	Infiltrados intersticiales bilaterales
+T4	SINTOMA 716 773	Disminución difusa del coeficiente de atenuación hepático
+T5	SINTOMA 64 74	ICT normal
+T6	SINTOMA 76 102	Senos costofrénicos libres
+T7	SINTOMA 152 196	defectos de repleción en arterias pulmonares
+T8	SINTOMA 238 285	Tronco de la arteria pulmonar de calibre normal
+T9	SINTOMA 302 339	signos de sobrecarga cardíaca derecha
+T10	SINTOMA 461 543	Opacidades en vidrio deslustrado y alveolares bilaterales de predominio periférico
+T11	SINTOMA 613 635	signo del halo reverso
+T12	ENFERMEDAD 212 236	tromboembolismo pulmonar
+T13	ENFERMEDAD 356 393	adenopatías mediastínicas ni axilares
+T14	ENFERMEDAD 429 459	derrame pleural ni pericárdico
+T15	ENFERMEDAD 565 580	bronquiectasias
+T16	ENFERMEDAD 582 610	atelectasias subsegmentarias
+T17	ENFERMEDAD 673 678	COVID
+T18	ENFERMEDAD 695 714	neumonía organizada
+T19	ENFERMEDAD 789 799	esteatosis
+T20	PROCEDIMIENTO 1 9	Rx tórax
+T21	PROCEDIMIENTO 104 122	Angio-TAC pulmonar
+T22	SINTOMA 649 668	afectación pulmonar

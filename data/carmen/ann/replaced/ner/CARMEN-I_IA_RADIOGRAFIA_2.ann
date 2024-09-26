@@ -1,0 +1,10 @@
+T5	PROCEDIMIENTO 3 23	RADIOGRAFÍA DE TÓRAX
+T6	SINTOMA 107 128	engrosamiento cisural
+T7	SINTOMA 377 413	Silueta cardíaca aumentada de tamaño
+T8	PROCEDIMIENTO 415 443	Sutura de esternotomía media
+T9	SINTOMA 46 87	foco consolidaivo en campo pulmonar medio
+T10	SINTOMA 176 209	opacidades alveolares bilaterales
+T11	SINTOMA 246 279	opacidades alveolares bilaterales
+T12	SINTOMA 415 443	Sutura de esternotomía media
+T1	SINTOMA 143 168	Empeoramiento radiologico
+T2	PROCEDIMIENTO 157 168	radiologico

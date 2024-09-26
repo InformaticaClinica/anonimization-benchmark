@@ -1,0 +1,26 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Neumonía COVID. paciente con mala progresión clínica y persistencia d einfiltrados. deteriroo respiratorios. Solicito ANgioTC pulmonar para descaratr TEP y NOC. Solicito TC abdominal para descaratr sangrado intraabdominal/retroperitoneal en paciente cona nemización progresiva.
+Gracias.
+Intubación prolongada
+
+protocolo:
+Se realzia TC basal abdominal
+
+resultados:
+No se aprecian hematomas retroperitoneales ni en otras localizaciones abdominales.
+Hígado, bazo, páncreas y  glándulas suprarrenales de morfología tamaño y densidad normal.
+Vesícula biliar distendida, pero de paredes finas. Vía biliar no dilatada.
+Riñones de morfología y tamaño normal, con quistes simples.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Diverticulosis en sigma.
+Minima cantidad de liquido libre en Douglas.
+
+conclusiones:
+No se aprecian hematomas retroperitoneales ni en otras localizaciones abdominales.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,29 @@
+
+* ECG ([**FECHAS**]): Ritmo sinusal, FC 100, eje -60, PR 0,12, QRS 0,08, QTc 320. Sin trastornos de la repolarización.
+* MICROBIOLOGÍA:
+- PCR COVID-19 EN FROTIS NASOFARINGEO ([**FECHAS**]): positivo.
+- PCR VIRUS DE LA GRIPE Y VRS ([**FECHAS**]): no realizado.
+- ANTIGENURIA LEGIONELLA ([**FECHAS**]): negativo.
+- ANTIGENURIA NEUMOCOCO ([**FECHAS**]): negativa.
+- HEMOCULTIVOS ([**FECHAS**]): negativa.
+- HEMOCULTIVO [**FECHAS**]: Negativos.
+- URINOCULTIVO [**FECHAS**]: Negativo.
+- HEMOCULTIVO [**FECHAS**]: CGP tipo estafilococos (probable contaminación)
+- URINOCULTIVO [**FECHAS**]: Negativo.
+- HEMOCULTIVOS [**FECHAS**]: Negativo
+- Cultivo aspirado traqueal [**FECHAS**]: Negativo
+- Determinación AGA [**FECHAS**]: Negativo
+- Cultivo aspirado traqueal [**FECHAS**]: Negativo
+- URINOCULTIVO [**FECHAS**]: Negativo
+- HEMOCULTIVO [**FECHAS**]: Negativo
+- FROTIS ÚLCERA DÉRMICA: flora mixta aerobia GP y GN
+- HEMOCULTIVOS [**FECHAS**]: Negativos
+- URINOCULTIVO: aislamiento de Candida tropicalis y P.aeruginosa
+- CULTIVO ASPIRADO TRAQUEAL [**FECHAS**]: negativo
+- HEMOCULTIVO [**FECHAS**]: negativo
+- URINOCULTIVO [**FECHAS**]: colonias de Candida tropicalis
+- COPROCULTIVO [**FECHAS**]: negativo
+- PCR COVID-19 EN FROTIS NASOFARINGEO [**FECHAS**]: indetectable
+- URINOCULTIVO [**FECHAS**]: aislamiento de Pseudomonas aeruginosa multisensible
+- URINOCULTIVO [**FECHAS**]: EN CURSO
+ 

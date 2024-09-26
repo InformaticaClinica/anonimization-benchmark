@@ -1,0 +1,22 @@
+
+prueba:
+ECO TESTICULAR
+
+clinica:
+Sospecha de absceso testicular vs otras. gracias
+DIARREA
+
+protocolo:
+Ecografía testicular urgente.
+
+resultados:
+Testículos de tamaño y ecoestructura normal, sin lesiones focales valorables. Vascularización intraparenquimatosa conservada.
+Epidídimos de tamaño y ecoestructura normal. Aisladas microcalcificaciones y un quiste de 4 mm en la cabeza del epidídimo izquierdo.
+Importante engrosamiento difuso del escroto de aspecto heterogéneo con aumento de la vascularización que se extiende hasta la región perineal.
+A dicho nivel, se identifica un área heterogénea y mal definida que parece extenderse en profundidad. Se comunica con el equipo médico solicitante y se acuerda ampliar el estudio mediante TC.
+
+conclusiones:
+Se amplia el estudio mediante TC.
+
+descrip:
+ECO TESTICULAR

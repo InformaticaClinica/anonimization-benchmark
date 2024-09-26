@@ -1,0 +1,24 @@
+
+Antecedentes personales:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], con alergia al METAMIZOL. Ex fumador, no otros hábitos tóxicos.
+HISTORIA ONCOLÓGICA
+ADENOCARCINOMA DE TERCIO DISTAL DE ESÓFAGO HER2+ E-IV.
+- QT NA con ECF x 3C ([**FECHAS**]- [**FECHAS**]), realizándose posteriormente IQ con esofaguectomía distal y resección de cardias ([**FECHAS**]).
+- ypT3 ypN2, HER2+ (FISH amplificado).
+- QT adyuvante con 5-FU y RT concomitante, seguido de dos ciclos adicionales de ECF.
+- Recidiva ([**FECHAS**]): Recidiva ganglionar paratraqueal.
+- 1L CDDP + 5FU + Trastuzumab x 6C ([**FECHAS**] - [**FECHAS**]) con enfermedad estable. Mantenimiento con 5-FU + Trastuzumab hasta completar 18C ([**FECHAS**]).
+- Progresión de enfermedad ([**FECHAS**]) a nivel ganglionar.
+- 2L con Paclitaxel + Ramucirumab x 11C, con enfermedad estable.
+- PE ([**FECHAS**]) a nivel locoregional con disfagia.
+- RT con DT 30Gy en 10 fracciones sin mejoría. Colocación de yeyunostomía ([**FECHAS**]) en [**HOSPITAL**].
+- 3L con FOLFIRI x 15C.
+- PE ([**FECHAS**]) a nivel locoregional.
+- 4L dentro [**NUMERO_IDENTIF**] con Atezolimumab + [**NUMERO_IDENTIF**].
+- Ictericia obstructiva con ingreso en [**HOSPITAL**] ([**FECHAS**]): Importante dilatación de la via biliar intrahepática, secundaria a estenosis del conducto hepático común por enfermedad ganglionar. Se coloca prótesis biliar hiliar por CTPH.
+- PE ([**FECHAS**]): Imágen nodular hepática (5,4x4 cm) compatible con absceso hepático.
+- Colangitis aguda con ingreso ([**FECHAS**] a [**FECHAS**]) y absceso hepático drenado con aislamiento de Citrobacter MS que se trató con Ciprofloxacino. Colocación de prótesis biliar por CPTH. Colocación de drenaje I-E por CTPH ([**FECHAS**]) y colocación de otro stent biliar ([**FECHAS**]).
+- 5L FOLFOX (C1D1 [**FECHAS**]). 5FU de mantenimiento. PD 9/20 adp, hepáticas. Pendiente inicio 6L con irinotecan
+- Ingreso [**FECHAS**] por colangitis obstructiva--> drenaje I-E pendiente de revisión para valorar retirarlo, así como infección asintomático por SARS-COVID 19
+**Seguimiento por Oncología Médica (Dra. [**NOMBRE_PERSONAL_SANITARIO**]).
+ 

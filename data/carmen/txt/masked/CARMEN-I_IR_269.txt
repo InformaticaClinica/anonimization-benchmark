@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+POSIBLE COVID19
+
+conclusiones:
+Silueta cardíaca aumentada de tamaño.
+Tenues opacidades en pulmón izquierdo de predominio periférico sugestivo de afectación pulmonar por COVID  sin cambios significativos con respecto a control previo  [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumopnía por COVID con sospecha de TEp
+
+protocolo:
+Estudio ANGIO-TC torácico tras administración de contraste e.v. con adquisición en fase arterial. Exploración realizada de forma urgente durante horario de guardia.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre normal (27 mm).
+No se observan adenopatías axilares, mediastínicas o hiliares de tamaño valorable.
+Sin derrame pleural o pericárdico.
+Opacidades bilaterales en vidrio deslustrado peribroncovasculares y periféricas, parcialmente consolidadas en segmentos posteriores, compatible con afectación por COVID-19 en fase inflamatoria. Enfisema paraseptal y centrolobulillar.
+SNG con extremo en cámara gástrica.
+Esplenomegalia de 15 cm.
+
+conclusiones:
+Afectación bilateral por COVID-19 sin signos de TEP ni clara organización.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TORAX

@@ -1,0 +1,17 @@
+INGRESO EN PLANTA DE HOSPITALIZACIÓN COVID19 (SINT)
+Varón de 72 años con antecedentes relevantes de artritis gotosa sin tratamiento, psoriasis en tratamiento con Peitel, CBC en 2024, pancreatitis en 2014.
+Ingreso actual por los siguientes problemas clínicos:
+1.  Neumonía bilateral por SARS-CoV-2
+1.1. Insuficiencia respiratoria aguda
+Inicio síntomas: 09/06.
+Síntomas: Tos, astenia progresiva con sensación distérmica y disnea.
+Fecha diagnóstico. TAR +: 09/06, PCR +: 21/06 (CT 33)
+Vacuna: Dos dosis (Pfizer, 10/24)
+Esquema de tratamiento:
+*Tratamiento dual anti-inflamatorio (PCR>10): DEXAMETASONA (21/06) y TOCILIZUMAB (22/06).
+*Otros: enoxaparina (21/06), ivermectina (21/06)
+Estudios radiológicos: Pendiente angioTC arterias pulmonares pendiente
+Estudios microbiológicos. VIH/VHB pendiente. Pte schistosoma y strongyloides
+Al ingreso, por neumonía bilateral y datos de insuficiencia respiratoria con elevación de marcadores inflamatorios se decide comienzo de tratamiento anti-inflamatorio dual con dexametasona y tocilizumab (dosis única). No se inicia antiviral por CT 33 en PCR al ingreso. Durante ingreso y tras inicio de medicación se logra reducción de requerimiento de oxigenoterapia desde VMX 35% a gafas nasales 3lpm con saturación del 95-96%.
+3. Fibrilación de origen incierto con RV rápida. CHA2DS2-Vasc 1
+Durante ingreso y ante episodio de taquicardia, se realiza ECG con constatación de fibrilación auricular con respuesta ventricular rápida (136lpm) con estrategia de tratamiento con anticoagulación plena y control de frecuencia con betabloqueante con buena respuesta y tolerancia.

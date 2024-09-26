@@ -1,0 +1,36 @@
+
+prueba:
+ENTEROTC
+
+clinica:
+Paciente ingresada por brote grave de Crohn, intervenida el [**FECHAS**] de colectomia total (preservación del recto) + ileostomia terminal. La paciente presenta distensión abdominal, junto con taquicardia sinusal de hasta 120 lpm, hipotensión, y aumento de leucocitos de 6400 a 16700 hoy.
+Solicito enteroTAC para valorar brote de Crohn, y tb agradeceria valorar colecciones u otras complicaciones postquirúrgicas. Gracias!!
+BROT  CROHN
+
+protocolo:
+TC abdominopelvic urgent amb contrast e.v. en fase portal.
+
+resultados:
+Es compara amb RM prequirúrgica del [**FECHAS**]
+Canvis per colectomía total amb ileostomía terminal en flanc dret.
+Dilatació de nanses d'intestí prim proximal. No s'observen canvis de calibre bruscs, malgrat les nanses distals mostren una reducció del calibre comparat amb els proximals. Es revisa la enteroRM recent minuciosament i no es detectenzones d'estenosis ni activitat en l'intestí prim. La ileostomia és permable (bossa d'ileostomia plena). NO sembla haver-hiun quadre mecànic.
+Correcta captació parietal de contrast de l'intestí prim.
+Discret engruisiment de les parets rectals d'aspecte edematós.
+No s'observa  coleccions intraabdominals. Petita quantitat de líquid lliure en el Douglas.
+Petites bombolles de gas en teixit subcutani.
+Fetge de morfologia, marges i atenuació normals. No s'observen lesions focals.
+Vesícula distesa, de parets fines i sense litiasis evidents. Via biliar no dilatada.
+Venes porta i mesentérica superior permeables. Trombosi parcial de la vena esplénica i VMI. La trombosi ocupa el 50% de la llum de la vena esplènica entre la confluència de la VMS i la confluència amb la VMI.
+Pàncrees, melsa i glàndules suprarenals sense alteracions significatives.
+Ronyons de mida i morfologia normal, captació bilateral i simètrica de contrast. No s'observa dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica.
+
+conclusiones:
+Canvis per colectomía total amb ileostomía terminal en flanc dret.
+Dilatació de nanses d'intestí prim sense canvis de calibre. No sembla un quadre mecànic ni en relació al Crohn.
+Discret engruiximent de les parets rectals d'aspecte edematós.
+Trombosi parcial de la vena esplènica i del remanent de la VMI.
+No hi ha col·leccions abdominals.
+
+descrip:
+ENTEROTC

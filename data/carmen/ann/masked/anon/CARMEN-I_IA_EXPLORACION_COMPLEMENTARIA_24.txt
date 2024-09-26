@@ -1,0 +1,9 @@
+[**FECHAS**].
+LABORATORIO
+ANALÍTICA SANGUÍNEA ([**FECHAS**]): PCR 7.14 mg/dl, creatinina 0.76 mg/dl, ASAT/ALAT 35/36 U/L, GGT/FA 120/195 U/L, bilirrubina total 1.4 mg/dl, LDH 293 U/L, CK 32 U/L, amilasa/lipasa 51/23 U/L, Na/K 141/3.6 mEq/l, Ca/Mg 9.3/1.4 mg/dl, leucocitos 8.76 10^9/l, hemoglobina 124 g/l, plaquetas 224 10^9/l, TP 26.5%, TTPa 36.9 seg, INR 2.7.
+ULTIMA ANALÍTICA [**HOSPITAL**]: Hto 27%, Hemoglobina 8.6g/dl, VCM 104.2, Plaq 125,000, Leucocitos 4.10, Linfocitos 18%, Neutrofilos 71%, TP 68%, INR 1.3, TTPA 42.7seg, Glucosa 151mg/dl, Creatinina 0.78mg/dl, FG >60ml/min, Sodio 137.6meq/L, Potasio 3.87meq/L,PCR 5.6 mg/L
+11/03/2020.
+IMÁGENES
+RADIOGRAFÍA DE EXTREMIDAD INFERIOR IZQUIERDA ([**FECHAS**]): portador de clavo endomedular en fémur izquierdo.
+RADIOGRAFÍA DE ABDOMEN ([**FECHAS**]): colon dilatado, no aire extraluminal ni niveles hidroaéreos, abundantes heces.
+RADIOGRAFÍA DE CADERA IZQUIERDA [**FECHAS**]: no se evidencia signos de fractura o desplazamiento de clavo endomedular.

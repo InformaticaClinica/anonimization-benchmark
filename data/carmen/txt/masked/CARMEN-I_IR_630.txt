@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] ingressada per COVID-19 que presenta deteriorament respiratori brusc en 24h associat a DD de 1000. Agrairiem descartar TEP, gràcies.
+Neumonia bilateral por COVID-19
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Trónco de la arteria pulmonar en el límite superior de la normalidad (30-31 mm). No se observan signos evidentes por TC de sobrecarga cardiaca derecha.
+Algunos ganglios infracentimétricos paratraqueales e hiliares bilaterles. No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+No se observa derrame pleural ni pericárdico. Calcificación pleural de 3 mm en base izquierda.
+Extensas opacidades bilaterales en vidrio deslustrado de distribución periférica, compatibles con infección COVID19 conocida.
+Hernia hiatal.
+En los cortes de hemiabdomen superior no se observan hallazgos significativos.
+PICC con extremo distal en VCS.
+
+conclusiones:
+No se observan signos de TEP agudo.
+Hallazgos compatibles con infección COVID19 conocida.
+
+descrip:
+ANGIO TC PULMONAR

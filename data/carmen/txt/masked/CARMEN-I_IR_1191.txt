@@ -1,0 +1,29 @@
+
+prueba:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDAD ORAL/ FARINGE/LARINGE/TIROIDES)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] covid con ingreso prolongado (56días) en avi que recientemente presenta deterioro respiratorio importante con desaturaciones de hasta 70% hasta 3/4 veces por turno. Queremos valorar pulmon. Asimismo también presenta tumoración a nivel cervicofacil/submaxilar derecho. En la analítica claro aumento de RFA.
+Rogamos valoración urgente.
+
+protocolo:
+TC PARTES BLANDAS CUELLO URGENTE: adquisición tras administrar contraste ev.
+
+resultados:
+Aumento de tamaño difuso de la glándula parótida derecha, que presenta hipercaptación heterogénea de contraste, observando en su margen anterior una área hipocaptante de 3 cm, de aspecto flemonoso, con signos incipientes de abscesificación. Trabeculación de la grasa adyacente. No se oservan signos concluyentes de afectación ósea. Hallazgos compatibles con parotiditis aguda de probable etiología infecciosa.
+Parótida derecha aumentada de tamaño, con ligera hipercaptación y trabeculación de la grasa adyacente (en menor grado que la izq), por lo que no se puede descartar afectación de la misma.
+Aumento de tamaño y densidad de las partes blandas del espacio mucoso parafaríngeo, en probable relación a cambios edematosos/inflamatorios.
+No se observan adenopatías laterocervicales de tamaño patológico.
+Estructuras vasculares incluidas permeables.
+Inversión de la lordosis cervical fisiológica, con moderados cambios de aspecto degenerativo en columna cervical baja.
+Secciones intracraneales incluidas sin hallazgos a destacar.
+Traqueostomía con cánula. Sonda nasogástrica parcialmente incluida.
+Catéter yugular izquierdo.
+
+conclusiones:
+Aumento de tamaño y de la captación de la glándula parótida derecha, que presenta una área de aspecto flemonoso en su margen anterior, con signos incipientes de abscesificación. Hallazgos compatibles con parotiditis aguda de probable etiología infecciosa.
+Aumento de tamaño y de captación de la glándula parótida izquierda, de menor entidad que la contralateral, que no permite descartar afectación de la misma.
+Aumento de tamaño y densidad de las partes blandas del espacio mucoso parafaríngeo, en probable relación a cambios edematosos/inflamatorios.
+
+descrip:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDADORAL/ FARINGE/LARINGE/TIROIDES)

@@ -1,0 +1,6 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin alergias ni hábitos tóxicos. Natural de [**PAIS**], vive en [**CALLE**] con su suegro desde [**FECHAS**].
+ANTECEDENTES PATOLÓGICOS:
+- OVERLAP HEPATITIS AUTOIMUNE/COLANGITIS BILIAR PRIMARIA/ARTRITIS REUMATOIDE desde [**FECHAS**], diagnosticada a raíz de hipertransaminasemia con biopsia sugestiva. Anti M2 positivos. Tratamiento corticoideo y con metotrexate semanal. Toma ursodesoxicólico con normalización de la fosfatasa alcalina.
+- POSIBLE SÍNDROME ANTIFOSFOLÍPIDO. Dos abortos espontáneos con anticuerpos para SAF negativos.
+- OSTEOPOROSIS CORTICOIDEA, con una fractura de Colles patológica en [**FECHAS**] a raíz del tratamiento corticoideo que requirió colocación de placas. Tratamiento con suplementos de calcio.
+MEDICACIÓN HABITUAL: [**MEDICACIÓN**], ácido fólico posterior, diazepam 5 mg si precisa.

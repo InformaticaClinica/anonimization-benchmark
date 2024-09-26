@@ -1,0 +1,16 @@
+
+prueba:
+EMBOLIZACION VENOSA PELVICA
+
+clinica:
+Sangrado arteria hipogástrica.
+Shock hemorrágico.
+
+protocolo:
+EMBOLIZACIÓN
+
+conclusiones:
+Informe duplicado
+
+descrip:
+EMBOLIZACION VENOSA PELVICA

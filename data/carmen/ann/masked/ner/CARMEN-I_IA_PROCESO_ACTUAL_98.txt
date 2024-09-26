@@ -1,0 +1,6 @@
+
+Paciente que consulta a Urgencias de [**HOSPITAL**] el [**FECHAS**] por clinica de disnea rapidamente progresiva con antecedentes previos de cuadro catarral, tos y expectoración mucopurulenta.
+Se realiza angioTC tórax que muestra imágenes compatibles con edema pulmonar y dudoso foco consolidativo en LID. Analítica con elevación de RFA (PCR 4.5, L 21000 con neutrofilia) con frotis de virus respiratorios y antigenurias negativas.
+Se orienta como ICC de debut en contexto de infección respiratoria. Se decide traslado a [**HOSPITAL**], con evolución favorable bajo tratamiento diurético y antibiótico con amoxilicina/clavulánico endovenoso con leve empeoramiento de función renal (Cr 2.1 mg/dl).
+Se realiza ecoscopia que muestra dudosa imagen de cuerda rota con IM severa secundaria. El [**FECHAS**] presenta nuevo episodio de disnea súbita con necesidad de IOT + inicio de SVA, por lo que se traslada a nuestro centro por sospecha de rotura de cuerda con IM y edema agudo de pulmón.
+ 

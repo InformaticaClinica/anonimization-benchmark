@@ -1,0 +1,35 @@
+T8	ENFERMEDAD 62 83	Hipertensión arterial
+T9	ENFERMEDAD 102 123	Tuberculosis pulmonar
+T10	ENFERMEDAD 142 175	Herida por arma de fuego en tórax
+T11	ENFERMEDAD 194 221	Neumonía en lóbulo inferior
+T12	ENFERMEDAD 240 258	Síndrome depresivo
+T13	ENFERMEDAD 262 304	Neumonitis por hipersensibilidad fibrótica
+T14	ENFERMEDAD 351 354	EAS
+T15	ENFERMEDAD 549 561	Osteoporosis
+T16	ENFERMEDAD 621 629	litiasis
+T17	FARMACO 442 452	prednisona
+T18	FARMACO 653 656	PDN
+T19	FARMACO 660 663	MPA
+T20	FARMACO 672 682	Mastical D
+T21	FARMACO 684 693	omeprazol
+T22	FARMACO 695 704	tiotropio
+T23	FARMACO 705 714	lisinopil
+T24	FARMACO 715 725	alprazolam
+T25	FARMACO 726 736	formoterol
+T26	FARMACO 737 747	budesonida
+T27	FARMACO 748 758	paroxetina
+T28	FARMACO 759 772	lormetaz epam
+T29	FARMACO 774 785	paracetamol
+T30	FARMACO 787 801	colecalciferol
+T31	HUMANO 130 138	infancia
+T32	HUMANO 182 190	juventud
+T33	HUMANO 962 969	sobrino
+T34	PROCEDIMIENTO 586 605	ecografía abdominal
+T36	SPECIES 915 925	SARS-COv-2
+T37	ENFERMEDAD 19 27	alergias
+T38	PROCEDIMIENTO 457 461	TCAR
+T39	FARMACO 533 545	micofenolato
+T40	ENFERMEDAD 508 512	NINE
+T41	PROCEDIMIENTO 887 925	Vacunada con dos dosis para SARS-COv-2
+T42	SINTOMA 929 948	deterioro cognitivo
+T43	ENFERMEDAD 43 58	hábitos tóxicos

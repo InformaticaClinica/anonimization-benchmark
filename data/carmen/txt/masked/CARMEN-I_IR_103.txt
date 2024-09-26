@@ -1,0 +1,36 @@
+
+prueba:
+EMBOLIZACION DE HEMORRAGIA DIGESTIVA ALT A O BAJA
+
+clinica:
+Embolisme sistèmic
+
+protocolo:
+Arteriografia de tronco celiaco y embolización de arteria gastroduodenal.
+
+resultados:
+TIPO DE ANESTESIA:
+Paciente que ingresa a sala intubado (ver hoja de informe del equipo de anestesia CDI).
+MATERIAL UTILIZADO
+· Introductor 5 Fr.
+· Guía Terumo 0.035"
+· Catéter Simons 5 Fr.
+· MicroCatéter Direxion 2.1 Fr.
+· Microguia Syncho 14
+MATERIAL DE EMBOLIZCIÓN
+· Coils IDC 4mm y 2mm.
+· Espongostan
+TÉCNICA:
+Se realiza arteriografia selectiva de tronco celiaco, y arteria gastroduodenal, sin evidencia de sangrado activo.
+Dada la inestabilidad del paciente, el cuadro clínico y los hallazgos de la endoscopia previa al procedimiento endovascular, se decide en conjunto con el equipo médico de la UCI hepática y cirujana de guardia (Dr. [**NOMBRE_PERSONAL_SANITARIO**] y Dra [**NOMBRE_PERSONAL_SANITARIO**])embolizar la arteria gastroduodenal.
+Se realiza embolización con coils y espongostan.
+COMPLICACIONES:
+No existen complicaciones durante el procedimiento.
+PLAN:
+A petición del medico de la UCI hepática se deja el introductor arterial femoral derecho de 5 Fr, el cual podra ser retirado en la UCI realizando compresión manual en el sitio de punción durante al menos 10 minutos, y posteriormente con vendaje compresivo por 24 horas.
+
+conclusiones:
+Arteriografia de tronco celiaco y embolización de arteria gastroduodenal.
+
+descrip:
+EMBOLIZACION DE HEMORRAGIA DIGESTIVA ALTA O BAJA

@@ -1,0 +1,13 @@
+
+prueba:
+GASTROSTOMIA Y GASTROYEYUNOSTOMIA PERCUT ANEA
+
+clinica:
+Recanvi de gastrostomia trencada, siusplau.
+Sangrado tumoral
+
+conclusiones:
+Es recanvia sonda de gastrostomia de 18 F sense incidències.
+
+descrip:
+GASTROSTOMIA Y GASTROYEYUNOSTOMIA PERCUTANEA

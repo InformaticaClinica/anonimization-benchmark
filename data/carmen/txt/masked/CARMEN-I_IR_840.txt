@@ -1,0 +1,31 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente diagnosticado de neumonía intersticial por SARS-COVID19 que presenta fiebre persistente, aumento de PCR hasta 20, Bil 2.4 y aumento de leve aumento de amilasas y lipasas. En la epxloración dolor a la palpación de epigastrio y hemiabdomen izquierdo. DEscartar alteración via biliar/pancreatitis. Gracias
+NEUMONÍA POR SARS-CoV-2 (COVID19)
+
+protocolo:
+TC TORACOABDOMINAL URGENTE: tras la administración de contraste endovenoso.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Áreas de vidrio deslustrado periféricas en ambos hemitórax. Se observan áreas de mayor consolidación en lóbulos inferiores asociados a bronquiectasias y desestructuración parenquimatosa. Los hallazgos son sugestivos de infección por COVID19 con áreas de fibrosis basal.
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales.
+Vesícula biliarcolapsada. Vía biliar no dilatada.
+Vena porta y eje espleno-mesentérico permeables.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. Quistes simples corticales. No se observa dilatación de las vías excretoras. Quiste sinusal derecho.
+Vejiga urinaria sin lesiones parietales evidentes.
+Próstata de tamaño discretamente aumentado.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+Infección por COVID19 asociado a áreas de fibrosis basal en forma de neumonía organizativa.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

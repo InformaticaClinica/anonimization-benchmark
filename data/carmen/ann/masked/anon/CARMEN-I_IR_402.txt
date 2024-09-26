@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+neumonia
+
+resultados:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: Si, con foco de consolidación en LID
+Distribución
+- Periférica
+Campos pulmonares
+- Pulmón derecho: medio e inferior
+- Pulmón izquierdo: inferior
+EVOLUCIÓN:
+Estabilidad de  las opacidades pulmonares con patrón intersticial de distribución bilateral
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

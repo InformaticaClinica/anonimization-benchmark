@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Hombre de 83 años, independiente para ABVD, DLP. Actualmente ingresado por Neumonia bilateral por SARS-COV-2 con nsuficiencia respiratoria 2daria con requerimientos altos de oxigenoterapia. Ruego TAC de torax para descartar NO.
+Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+No se observa TEP.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Imagen endotraqueal adherida a la pared derecha sugestiva de moco/secreciones.
+Opacidades en vidrio deslustrado de predominio peribroncovascular y en LLII. Asocia algunas bandas parenquimatosas periféricas y perilobulares con dilataciones bronquiales, sugestivo de cambios organizativos.
+
+conclusiones:
+Neumonia COVID con imágenes de neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

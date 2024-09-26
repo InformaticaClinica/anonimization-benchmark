@@ -1,0 +1,21 @@
+
+prueba:
+TC ANGIO ARTERIAL EXTRACRANEAL (TSA)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**]. No AP de importancia. Diagnostico COVID-19. Presentó como incidencia trombosis e isquemia arterial femoral der y radial der en contexto de DD >10,000 y clínica compatible con AIT. Solicitamos angioTAC TSA + pulmón para descartart proceso trombótico a nivel punmonar y de TSA.
+
+protocolo:
+AngioTC troncos supraaórticos
+
+resultados:
+Arterias intracraneales permeables
+Arteria carótida común y carótida interna derechas permeables, placa de ateroma en la bifurcación sin evidencia de estenosis
+Arteria carótida común y carótida interna izquierdas permeables, placa de ateroma en la bifurcación sin evidencia de estenosis
+Arterias vertebrales permeables
+
+conclusiones:
+Arterias intra y extracraneales permeables sin evidencia de estenosis
+
+descrip:
+TC ANGIO ARTERIAL EXTRACRANEAL (TSA)

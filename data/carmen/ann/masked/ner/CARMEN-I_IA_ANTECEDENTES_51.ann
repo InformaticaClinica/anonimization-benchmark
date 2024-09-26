@@ -1,0 +1,84 @@
+T17	SINTOMA 1597 1630	restricción de la valva posterior
+T18	SINTOMA 1788 1836	Patrón diastólico de alteración de la relajación
+T19	SINTOMA 851 943	frotis de control de la herida perianal del [**FECHAS**] resulta positivo para P. aeruginosa
+T20	ENFERMEDAD 1071 1085	angor post-IAM
+T21	SINTOMA 1546 1562	"jet" excéntrico
+T22	SINTOMA 1564 1594	velos discretamente engrosados
+T23	ENFERMEDAD 1632 1677	Ventrículo izquierdo ligeramente hipertrófico
+T24	SINTOMA 1682 1721	motilidad global moderadamente reducida
+T25	SINTOMA 1726 1744	hipocinesia difusa
+T26	SINTOMA 1757 1786	movimiento anómalo del septum
+T27	SINTOMA 1861 1880	disfunción valvular
+T28	ENFERMEDAD 1889 1924	dilatación de la aurícula izquierda
+T29	SINTOMA 1926 1960	Ventrículo derecho normocontràctil
+T30	SINTOMA 707 725	sobrecarga hídrica
+T31	SINTOMA 1252 1314	sobrecarga farmacológica con dipiridamol clínicamente negativa
+T32	ENFERMEDAD 71 116	alergia a las cefalosporinas y al diclofenaco
+T33	ENFERMEDAD 167 170	HTA
+T34	ENFERMEDAD 172 175	DLP
+T35	ENFERMEDAD 180 182	DM
+T36	ENFERMEDAD 227 248	Retinopatía diabética
+T37	ENFERMEDAD 271 291	Nefropatia diabética
+T38	ENFERMEDAD 352 413	insuficiencia renal crónica secundaria a nefropatía diabética
+T39	ENFERMEDAD 526 532	úlcera
+T40	ENFERMEDAD 535 580	celulitis perianal (C. glabrata + E. faecium)
+T41	ENFERMEDAD 583 600	ITU (C. glabrata)
+T42	ENFERMEDAD 603 606	IRA
+T43	ENFERMEDAD 619 635	IRC trasplantada
+T44	ENFERMEDAD 654 657	EAP
+T45	ENFERMEDAD 729 754	ACxFA de novo paroxística
+T46	ENFERMEDAD 948 969	Cardiopatía isquémica
+T47	ENFERMEDAD 987 997	IAM apical
+T48	ENFERMEDAD 1350 1369	isquemia miocárdica
+T49	ENFERMEDAD 1512 1541	Insuficiencia mitral moderada
+T50	ENFERMEDAD 1838 1856	Esclerosis aórtica
+T51	ENFERMEDAD 1976 1995	derrame pericárdico
+T52	ENFERMEDAD 2000 2008	Obesidad
+T53	ENFERMEDAD 2030 2063	FIBRILACIÓN AURICULAR PAROXÍSTICA
+T54	FARMACO 215 223	insulina
+T55	FARMACO 809 818	meropenem
+T56	FARMACO 820 829	linezolid
+T57	FARMACO 832 846	anadilafungina
+T58	PROCEDIMIENTO 2067 2087	tratamiento frenador
+T59	PROCEDIMIENTO 2135 2147	anticoagular
+T60	FARMACO 2211 2226	Insulina rápida
+T61	FARMACO 2285 2302	Insulina glargina
+T62	FARMACO 2318 2329	Cefditoreno
+T63	FARMACO 2344 2353	Omeprazol
+T64	FARMACO 2367 2377	Salbutamol
+T65	FARMACO 2397 2400	AAS
+T66	FARMACO 2453 2478	Mononitrato de isosorbida
+T67	FARMACO 2490 2504	Nitroglicerina
+T68	FARMACO 2528 2538	Furosemida
+T69	FARMACO 2552 2565	Atorvastatina
+T70	FARMACO 2579 2590	Paracetamol
+T71	FARMACO 2610 2628	Acido Micofenolico
+T72	FARMACO 2643 2653	Tacrolimus
+T73	FARMACO 2670 2680	Bisoprolol
+T74	FARMACO 2694 2708	Acetilcisteína
+T75	PROCEDIMIENTO 296 332	Transplante renal de donante cadáver
+T76	PROCEDIMIENTO 417 429	hemodiálisis
+T77	PROCEDIMIENTO 771 774	ECG
+T78	PROCEDIMIENTO 1100 1147	cateterismo y ACTP a DA con stent farmacoactivo
+T79	PROCEDIMIENTO 1399 1428	SPECT de perfusión miocárdica
+T80	PROCEDIMIENTO 1481 1495	ECOCARDIOGRAMA
+T81	PROCEDIMIENTO 2152 2154	IQ
+T82	PROCEDIMIENTO 2156 2163	cesárea
+T83	PROCEDIMIENTO 2170 2184	amigdalectomía
+T84	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T85	SPECIES 555 566	C. glabrata
+T86	SPECIES 569 579	E. faecium
+T87	SPECIES 588 599	C. glabrata
+T88	PROCEDIMIENTO 851 890	frotis de control de la herida perianal
+T89	SPECIES 930 943	P. aeruginosa
+T90	PROCEDIMIENTO 948 985	Cardiopatía isquémica revascularizada
+T91	PROCEDIMIENTO 1150 1160	ACTP a OM1
+T92	PROCEDIMIENTO 1207 1225	PRUEBA DE ESFUERZO
+T93	PROCEDIMIENTO 1242 1292	Prueba de sobrecarga farmacológica con dipiridamol
+T94	FARMACO 2415 2425	Amiodarona
+T95	FARMACO 2507 2514	Cafeína
+T96	PROCEDIMIENTO 85 99	cefalosporinas
+T97	FARMACO 105 116	diclofenaco
+T98	PROCEDIMIENTO 1173 1194	implantación de stent
+T1	ENFERMEDAD 121 136	hábitos tóxicos
+T2	HUMANO 317 332	donante cadáver

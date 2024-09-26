@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con infección por SARS-CoV-2 con un inicio de sintomas el sábado 19.11.19. Hace 48h se realiza un angioTC (imágenes en Historia clínica electrónica) en otro centro por sospecha de TEP. Informan dudosa imagen de TEP.
+Solicitamos revalorar angioTC y descartar NO. Gracias.
+covid19
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; último TC del 30/11/2019 (Historia clínica electrónica).
+No se evidencian defectos valorables de repleción endovascular en las ramas de la arteria pulmonar que sugieran la existencia de TEP.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Pequeños ganglios paratraqueales bilaterales, de aspecto reactivo. Ateromatosis calcificada en arco aórtico.
+Ausencia de derrame pleural, ni pericárdico.
+Opacidades en vidrio deslustrado peribroncovasculares y periféricas bilaterales, de predominio en LM y en LID, asociadas a bandas parenquimatosas de distribución perilobular; hallazgos sugestivos de neumonía bilateral por COVID-19, en fase reabsortiva, con cambios organizativos.
+Atelectasias subpleurales bibasales. Resto del parénquima pulmonar sin otras alteraciones.
+Dilatación esofágica y voluminosa hernia de hiato.
+Discretos cambios degenerativos en columna torácica.
+Pequeño bazo acesorio, de disposición caudal.
+
+conclusiones:
+- Ausencia de signos de TEP valorable.
+- Neumonía bilateral por COVID-19 en fase reabsortiva, de extensión leve-moderada, con cambios organizativos asociados.
+
+descrip:
+ANGIO TC PULMONAR

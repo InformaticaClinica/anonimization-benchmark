@@ -1,0 +1,17 @@
+
+prueba:
+ECO BIOPSIA RENAL
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], con AP de HTA. Ingreso por neumonia grave por covid 19 y IRA AKIN III con requerimientos de TSR. Actualmente con Cr 3,5, sedimento inactivo, pero con proteinuria de 4,8 gr. IGG kappa en plasma y orina.
+FALLO RENAL
+
+resultados:
+Ronyons de mida normal, amb cortical molt hiperecogènica, difícil de delimitar, amb gruix conservat. No dilatació de la via excretora.
+Practiquem biòpsia en el terç mig-inferior del ronyó esquerre, amb agulla automàtica 18G de 13 mm de longitud de tall. No complicacions periprocediment.
+
+conclusiones:
+Practiquem biòpsia en el terç mig-inferior del ronyó esquerre. No complicacions periprocediment. Biòpsia dificultada per la mala visualització dels ronyons.
+
+descrip:
+ECO BIOPSIA RENAL

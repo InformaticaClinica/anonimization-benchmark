@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], con neumonía por COVID , frotis último [**FECHAS**] POSITIVO.
+En Rx con persistencia de opacidades bilaterales.
+Se solicita TAc para decarta neumonía organizativa, fibrosis
+gracias
+COVID-19 POSITIU
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante TCMD.
+
+resultados:
+Opacidades alveolares y en vidrio deslustrado bilaterales de predominio periférico con engrosamiento de paredes bronquiales. Se asocia  a atelectasias subsegmentarias (muchas de ellas subpleurales), imágenes de halo reverso, discretas ectasias bronquiales y signos de distorsión de la arquitectura parenquimatosa, sugestivo de afectación pulmonar por COVID con neumonía organizativa.
+No se observa derrame pleural ni pericárdico.
+Pequeñas adenopatías mediastínicas de tamaño significativo a nivel paratraqueal bilateral y subcarinal, la mayor de ellas de 13 mm en su eje corto. No se observan otras adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+
+conclusiones:
+Patrón radiológico sugestivo de afectación pulmonar por COVID con neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,6 @@
+T8	ENFERMEDAD 45 81	infección respiratoria por COVID- 19
+T9	SINTOMA 381 392	pico febril
+T10	SINTOMA 423 439	malestar general
+T11	SINTOMA 442 479	elevación de parámetros inflamatorios
+T12	HUMANO 1 9	Paciente
+T13	PROCEDIMIENTO 486 495	analítica

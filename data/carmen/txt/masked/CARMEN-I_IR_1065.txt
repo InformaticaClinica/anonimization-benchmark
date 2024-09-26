@@ -1,0 +1,20 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+colangiocarcinoma medio-distal.
+
+protocolo:
+Se realiza Rx portátil de tórax AP. Se compara con Rx de tórax del [**FECHAS**].
+
+resultados:
+A pesar de diferencias técnicas entre ambs adquisiciones, se observa la aparición de ténue aumento de densidad difuso en ambos pulmones que asocia opacidades de patrón intersticial, de predominio central, que afecta campos superior-medio-inferior derecho e inferior izquierdo.
+No hay evidencia de derrame articular.
+Estos hallazgos son indeterminados, aunque podrían corresponder con probable COVID en el contexto epidemiológico actual, a correlacionar estrictamente con historia clínica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,10 @@
+T5	SINTOMA 220 226	fiebre
+T6	SINTOMA 228 231	tos
+T7	SINTOMA 233 245	desaturación
+T8	SINTOMA 261 304	dolor opresivo en región torácica posterior
+T9	SINTOMA 56 65	febricula
+T10	SINTOMA 68 84	malestar general
+T11	SINTOMA 161 180	TAg que es positivo
+T12	PROCEDIMIENTO 6 24	vacunación covid19
+T13	ENFERMEDAD 17 24	covid19
+T14	PROCEDIMIENTO 161 164	TAg

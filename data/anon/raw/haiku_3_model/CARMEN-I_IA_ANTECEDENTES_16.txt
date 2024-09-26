@@ -1,0 +1,27 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] con alergia a codeina (angioedema) e intolerancia digestiva a múltiples fármacos (AINEs, colchicina, amoxicilina). No habitos tóxicos. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**]. Deambula con uso de [**OTROS_SUJETO_ASISTENCIA**].
+ANTECEDENTES PATOLÓGICOS:
+1. HEMORRAGIA DIGESTIVA DE ORIGEN INCIERTO/PROBABLEMENTE SECUNDARIA A HEMORROIDES EN [**FECHAS**]
+* Colonoscopia en [**FECHAS**] orificios diverticulares localizados en sigma, sin signos de inflamación ni hemorragia. Sin signos de hemostasia reciente.
+2. HTA en tratamiento farmacológico.
+3. Menigoencefalitis por Brucela en [**FECHAS**].
+4. Gonartrosis, cervicoartrosis.
+5. Insuficiencia renal crónica.
+6. Vitrectomia.
+7. Carcinoma basocelular en [**CALLE**] y [**CALLE**]. Control en [**CENTRO_SALUD**] por parte de dermatología con numerosas exéresis.
+8. Hiperuricemia en tratamiento farmacológico
+9. HIPOTIROIDISMO post-tiroidectomía total en [**FECHAS**] (por BMN benigno) en tratamiento sustitutivo con eutirox.
+10. HIPOPARATIROIDISMO post-HPTHP con hipocalemia y hipomagnesia de dificil control con clínica de tetania que ha requerido varios ingresos en urgencias con reposicion de Ca ev. No litiasis, faquectomia bilateral.
+11. FIBROMIALGIA en tratamiento con durogesic.
+12. Ictus en [**FECHAS**], ingreso en [**HOSPITAL**]. LACI. RMN Dos pequeños focos de isquémia aguda en cuerpo de caudado derecho. Leve atrofia cortico-subcortical difusa. Lesiones en sustancia blanca que por sus características semiológicas sugieren leucoencefalopatía de origen hipóxico-isquémico crónico en probable relación a microangiopatía a correlacionar con factores de riesgo cardiovasculares.
+MEDICACIÓN ACTUAL:
+- Calcitriol [**DOSIS**]
+- Atenolol/Clortalidona [**DOSIS**]
+- Alopurinol [**DOSIS**]
+- Eutirox
+- Fero- gradumet diario [**DOSIS**]
+- Omeprazol [**DOSIS**]
+- Clopidogrel [**DOSIS**]
+- Calcio carbonato [**DOSIS**]
+- Magnesio [**DOSIS**]
+- Atorvastatina [**DOSIS**]
+- Fentanilo parches cada [**FECHAS**]. Medicación habitual: ([**FECHAS**]): Calcitriol [**DOSIS**], Atenolol/Clortalidona [**DOSIS**], Alopurinol [**DOSIS**], Eutirox, Fero- gradumet diario [**DOSIS**], Omeprazol [**DOSIS**], Clopidogrel [**DOSIS**], Calcio carbonato [**DOSIS**], Magnesio [**DOSIS**], Atorvastatina [**DOSIS**], Fentanilo parches cada [**FECHAS**].

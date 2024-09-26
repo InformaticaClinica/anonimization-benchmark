@@ -1,0 +1,130 @@
+T10	SINTOMA 28 36	LETARGIA
+T11	SINTOMA 38 47	CONFUSIÓN
+T12	SINTOMA 242 254	bradipsiquia
+T13	SINTOMA 303 319	pupilas mióticas
+T14	SINTOMA 322 329	xerosis
+T15	SINTOMA 472 509	elevación de reactantes de fase aguda
+T16	ENFERMEDAD 540 559	reacción leucemoide
+T17	SINTOMA 585 617	Sedimento de orina no patológico
+T18	SINTOMA 771 777	fiebre
+T19	SINTOMA 965 978	dolor intenso
+T20	SINTOMA 999 1005	fiebre
+T21	SINTOMA 1031 1044	hipoperfusión
+T22	ENFERMEDAD 1076 1088	hipoglicemia
+T23	SINTOMA 1457 1468	EEG anormal
+T24	ENFERMEDAD 2115 2124	hipotenso
+T25	SINTOMA 2138 2149	somnoliento
+T26	ENFERMEDAD 2156 2169	hipoglucemias
+T27	SINTOMA 2326 2332	fiebre
+T28	ENFERMEDAD 2338 2349	hipotensión
+T29	SINTOMA 2808 2866	reacción leucoeritroblástica sin neutropenia y trombopenia
+T30	SINTOMA 3445 3466	masa pulmonar del LSD
+T31	SINTOMA 3495 3555	dolor neuropático en brazo derecho que se irradia hasta mano
+T32	SINTOMA 3670 3701	masa adenopática laterocervical
+T33	SINTOMA 3787 3792	dolor
+T34	SINTOMA 4057 4102	elevación marcada de reactantes de fase aguda
+T35	SINTOMA 4323 4329	fiebre
+T36	SINTOMA 4332 4369	empeoramiento respiratorio progresivo
+T37	SINTOMA 4413 4447	infiltrados pulmonares bilaterales
+T38	SINTOMA 4508 4518	linfopenia
+T39	SINTOMA 4521 4559	elevación de ferritina, LDH y dímero D
+T40	SINTOMA 4792 4814	deterioro respiratorio
+T41	SINTOMA 49 55	FIEBRE
+T42	ENFERMEDAD 57 68	HIPOTENSIÓN
+T43	ENFERMEDAD 71 84	HIPOGLUCEMIAS
+T44	SINTOMA 177 202	hemodinámicamente estable
+T45	SINTOMA 205 215	febricular
+T46	SINTOMA 259 288	adecuado nivel de consciencia
+T47	SINTOMA 293 301	flapping
+T48	SINTOMA 619 646	PCR SARS CoV-2 indetectable
+T49	SINTOMA 759 765	fiebre
+T50	ENFERMEDAD 983 994	hipotensión
+T51	SINTOMA 1106 1118	hiponatremia
+T52	SINTOMA 1145 1194	disminución del nivel de consciencia autolimitado
+T53	SINTOMA 1199 1221	focailidad neurológica
+T54	SINTOMA 1228 1251	glicemia capilar normal
+T55	SINTOMA 1313 1337	TC craneal que es normal
+T57	SINTOMA 1473 1517	lentificación difusa de predominio izquierdo
+T58	SINTOMA 1532 1588	disfunción cerebral difusa de predominio focal izquierdo
+T59	ENFERMEDAD 1607 1618	hipotensión
+T60	SINTOMA 1638 1644	estrés
+T61	SINTOMA 1655 1675	focalidad infecciosa
+T62	SINTOMA 1689 1732	cortisol basal y ACTH que están disminuidos
+T63	ENFERMEDAD 1795 1826	déficit gonadótropo y somatrópo
+T64	SINTOMA 2126 2136	febricular
+T65	SINTOMA 2303 2321	cuadro neurológico
+T66	ENFERMEDAD 2354 2373	REACCIÓN LEUCEMOIDE
+T67	ENFERMEDAD 2376 2389	TROMBOCITOSIS
+T68	ENFERMEDAD 2412 2431	reacción leucemoide
+T69	SINTOMA 2445 2497	leucocitos sin formas inmaduras en sangre pariférica
+T70	SINTOMA 2648 2701	médula hipercelular a expensas de serie granulocítica
+T71	ENFERMEDAD 2716 2775	reacción leucemoide en contexto infeccioso y corticoterapia
+T72	ENFERMEDAD 2886 2906	infiltración medular
+T73	SINTOMA 4888 4900	exitus vitae
+T74	SINTOMA 409 434	tumoración hiliar derecha
+T75	SINTOMA 3602 3627	tumoración apical derecha
+T76	SINTOMA 3632 3658	tumoración supraclavicular
+T77	ENFERMEDAD 120 139	INSUFICIENCIA RENAL
+T78	ENFERMEDAD 664 712	síndrome confusional multifactorial - infeccioso
+T79	ENFERMEDAD 715 740	neurointoxicación opioide
+T80	ENFERMEDAD 1282 1300	crisis de ausencia
+T81	ENFERMEDAD 1926 1937	hipofisitis
+T82	ENFERMEDAD 1962 2003	panhipofisitis inducida por pembrolizumab
+T83	ENFERMEDAD 2201 2215	crisis adrenal
+T84	ENFERMEDAD 2567 2575	varicela
+T85	ENFERMEDAD 3240 3292	DOLOR NEUROPÁTICO POR INFILTRACIÓN DE PLEXO BRAQUIAL
+T86	ENFERMEDAD 3398 3423	anemopatía laterocervical
+T87	ENFERMEDAD 3812 3851	infiltración del plexo braquial tumoral
+T88	ENFERMEDAD 3912 3947	ANEMIA AGUDA DE TRASTORNOS CRÓNICOS
+T89	ENFERMEDAD 3977 4004	Anemia aguda arregenerativa
+T90	ENFERMEDAD 4120 4150	anemia de trasstornos crónicos
+T91	ENFERMEDAD 4220 4244	INFECCIÓN POR SARS-COV-2
+T92	ENFERMEDAD 4313 4321	COVID-19
+T93	FARMACO 832 855	amoxicilina-clavulánico
+T94	FARMACO 2242 2256	hidrocortisona
+T95	FARMACO 3194 3207	PEMBROLIZUMAB
+T96	FARMACO 3874 3885	pregabalina
+T97	PROCEDIMIENTO 4171 4192	soporte transfusional
+T98	FARMACO 4591 4601	remdesivir
+T99	FARMACO 4640 4652	dexametasona
+T100	PROCEDIMIENTO 334 354	radiografía de tórax
+T101	PROCEDIMIENTO 804 827	antibioterapia empírica
+T102	PROCEDIMIENTO 926 942	aspirado medular
+T103	PROCEDIMIENTO 1340 1350	RM craneal
+T104	PROCEDIMIENTO 1858 1869	RM cerebral
+T105	PROCEDIMIENTO 2037 2048	corticoides
+T106	PROCEDIMIENTO 2082 2093	corticoides
+T107	PROCEDIMIENTO 2617 2633	aspirado medular
+T108	PROCEDIMIENTO 2761 2775	corticoterapia
+T110	PROCEDIMIENTO 3321 3327	PET-TC
+T111	PROCEDIMIENTO 3557 3567	TC craneal
+T112	PROCEDIMIENTO 4391 4394	VMK
+T113	PROCEDIMIENTO 4454 4465	radiografía
+T114	PROCEDIMIENTO 4624 4635	corticoides
+T115	PROCEDIMIENTO 4827 4863	se decide iniciar medidas de comfort
+T116	HUMANO 2097 2105	paciente
+T117	SPECIES 2557 2560	CMV
+T118	SPECIES 2562 2565	VEB
+T119	SPECIES 2578 2583	HHV-6
+T120	HUMANO 4293 4300	persona
+T121	ENFERMEDAD 89 118	HIPOFISITIS POR PEMBROLIZUMAB
+T122	FARMACO 105 118	PEMBROLIZUMAB
+T123	SINTOMA 514 537	procalcitonina negativa
+T124	PROCEDIMIENTO 619 633	PCR SARS CoV-2
+T125	SPECIES 623 633	SARS CoV-2
+T126	PROCEDIMIENTO 585 603	Sedimento de orina
+T127	SINTOMA 1046 1062	lactato negativo
+T128	PROCEDIMIENTO 1313 1323	TC craneal
+T129	SINTOMA 1402 1455	mínima captación cortical occipito-parietal izquierda
+T130	PROCEDIMIENTO 1747 1785	estudio del eje hipotálamo-hipofisario
+T131	SINTOMA 2543 2593	serologías de CMV, VEB, varicela y HHV-6 negativas
+T132	PROCEDIMIENTO 2543 2583	serologías de CMV, VEB, varicela y HHV-6
+T133	ENFERMEDAD 3117 3164	ADENOCARCINOMA DE PULMÓN AVANZADO EN PROGRESIÓN
+T134	PROCEDIMIENTO 3949 3959	TRASFUSIÓN
+T135	SPECIES 4234 4244	SARS-COV-2
+T136	PROCEDIMIENTO 1007 1016	Analítica
+T137	PROCEDIMIENTO 2394 2403	analítica
+T138	PROCEDIMIENTO 4468 4477	analítica
+T139	PROCEDIMIENTO 222 233	exploración
+T1	SINTOMA 4696 4716	empeoramiento brusco
+T2	SINTOMA 4672 4686	mejoría incial

@@ -1,0 +1,20 @@
+T4	SINTOMA 430 438	diarreas
+T5	SINTOMA 615 623	diarreas
+T6	SINTOMA 647 667	clinicamente estable
+T7	SINTOMA 300 318	sintomatolgia leve
+T8	SINTOMA 458 468	febriculas
+T9	ENFERMEDAD 14 52	infección sintomática por SARS-COVD-19
+T10	ENFERMEDAD 67 85	neumomia bilateral
+T11	FARMACO 98 110	Azitromicina
+T12	FARMACO 112 120	Dolquine
+T13	FARMACO 123 130	Kaletra
+T14	PROCEDIMIENTO 210 234	aislamiento domiciliario
+T15	PROCEDIMIENTO 522 525	PCR
+T16	PROCEDIMIENTO 535 557	parametros infecciosos
+T17	HUMANO 1 9	Paciente
+T18	HUMANO 408 416	paciente
+T19	HUMANO 628 645	medico de familia
+T20	SPECIES 40 52	SARS-COVD-19
+T21	SINTOMA 522 532	PCR normal
+T22	SINTOMA 535 566	parametros infecciosos normales
+T23	PROCEDIMIENTO 507 517	analiticas

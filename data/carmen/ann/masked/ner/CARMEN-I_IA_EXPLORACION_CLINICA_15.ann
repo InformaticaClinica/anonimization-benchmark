@@ -1,0 +1,77 @@
+T4	SINTOMA 655 669	edemas en EEII
+T5	SINTOMA 671 709	Pulsos pedios bilaterales y simétricos
+T6	SINTOMA 812 823	peritonismo
+T7	SINTOMA 843 852	orientado
+T8	SINTOMA 857 873	signos meníngeos
+T9	SINTOMA 1156 1176	signos inflamatorios
+T10	SINTOMA 1181 1190	dolorosas
+T11	SINTOMA 1368 1400	edema en extremidades inferiores
+T12	SINTOMA 1442 1483	Pulsos periféricos presentes y simétricos
+T13	SINTOMA 1814 1825	peritonismo
+T14	SINTOMA 1827 1856	Puñopercusión lumbar negativa
+T15	SINTOMA 1865 1875	Consciente
+T16	SINTOMA 2016 2056	Dorsiflexión de pie izquierdo disminuida
+T17	SINTOMA 2085 2104	irritación meníngea
+T18	SINTOMA 2106 2153	Reflejos osteotendinosos presentes y simétricos
+T19	SINTOMA 218 232	Normohidratado
+T20	SINTOMA 235 249	normocoloreado
+T21	SINTOMA 251 266	Bien perfundido
+T22	SINTOMA 284 308	Boca sin úlceras, placas
+T23	SINTOMA 328 347	Faringe eritematosa
+T24	SINTOMA 352 372	exudados amigdalares
+T25	SINTOMA 454 536	Lesiones cutáneas eritematosas en dorso de mano derecha y región anterior de brazo
+T26	SINTOMA 610 624	tonos rítmicos
+T27	SINTOMA 629 635	soplos
+T28	SINTOMA 640 642	IY
+T29	SINTOMA 647 650	RHY
+T30	SINTOMA 725 743	ruidos patológicos
+T31	SINTOMA 717 720	MVB
+T32	SINTOMA 773 796	doloroso a la palpación
+T33	SINTOMA 745 768	ABD: blando, depresible
+T34	SINTOMA 830 840	consciente
+T35	SINTOMA 888 909	focalidad neurológica
+T36	SINTOMA 965 979	Normocoloreado
+T37	SINTOMA 982 996	normohidratado
+T38	SINTOMA 998 1024	Llenado capilar conservado
+T39	SINTOMA 1087 1142	Lesiones eritematosas en dorso de mano <1cm y antebrazo
+T40	SINTOMA 1196 1207	secreciones
+T41	SINTOMA 1337 1351	Tonos rítmicos
+T42	SINTOMA 1357 1363	soplos
+T43	SINTOMA 1488 1509	ingurgitacion yugular
+T44	SINTOMA 1514 1535	reflujo hepatoyugular
+T45	SINTOMA 1544 1562	Eupneico en reposo
+T46	SINTOMA 1568 1583	SatO2 correctas
+T47	SINTOMA 1622 1651	Murmullo vesicular conservado
+T48	SINTOMA 1657 1677	ruidos sobreañadidos
+T49	SINTOMA 1679 1735	ABDOMEN: Blando y depresible, no doloroso a la palpación
+T50	SINTOMA 1752 1757	masas
+T51	SINTOMA 1761 1776	visceromegalias
+T52	SINTOMA 1778 1808	Ruidos peristalticos presentes
+T53	SINTOMA 1878 1904	orientado en las 3 esferas
+T54	SINTOMA 1906 1933	Pares craneales conservados
+T55	SINTOMA 1935 1967	Moviliza las cuatro extremidades
+T56	SINTOMA 1969 2014	Fuerza y sensibilidad conservada y simetricas
+T57	SINTOMA 2155 2171	Romberg negativo
+T58	SINTOMA 2173 2200	Marcha en tandem conservada
+T59	SINTOMA 2202 2223	Lenguage normofluente
+T60	SINTOMA 2228 2238	dismetrías
+T61	SINTOMA 2243 2251	flapping
+T62	SINTOMA 2267 2288	focalidad neurológica
+T63	SINTOMA 1214 1254	Orofaringe eritematosa, sin hipertrofias
+T64	SINTOMA 1405 1440	signos de trombosis venosa profunda
+T65	SINTOMA 213 216	BEG
+T66	SINTOMA 1310 1335	Hemodinamicamente estable
+T67	ENFERMEDAD 377 452	adenopatías palpables a nivel cervical, supraclavicular, axilar ni inguinal
+T68	ENFERMEDAD 1035 1085	adenopatías cervicales, ni axilares, ni inguinales
+T69	ENFERMEDAD 1284 1289	aftas
+T70	ENFERMEDAD 1294 1300	muguet
+T71	PROCEDIMIENTO 711 715	RESP
+T72	PROCEDIMIENTO 912 930	EXPLORACIÓN FISICA
+T73	PROCEDIMIENTO 1606 1620	oxigenoterapia
+T74	PROCEDIMIENTO 57 71	Pulsioximetría
+T75	SINTOMA 1258 1278	exudados amigdalares
+T76	ENFERMEDAD 1415 1440	trombosis venosa profunda
+T77	PROCEDIMIENTO 1827 1847	Puñopercusión lumbar
+T78	SINTOMA 575 602	no dolorosas a la palpación
+T79	ENFERMEDAD 318 326	lesiones
+T1	SINTOMA 1588 1620	requerimientos de oxigenoterapia

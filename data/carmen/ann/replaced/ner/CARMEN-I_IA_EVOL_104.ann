@@ -1,0 +1,65 @@
+T6	PROCEDIMIENTO 221 224	ECG
+T7	PROCEDIMIENTO 318 337	Radiología de tórax
+T8	PROCEDIMIENTO 403 422	Analítica sanguínea
+T9	PROCEDIMIENTO 424 433	hemograma
+T10	PROCEDIMIENTO 503 518	perfil hepático
+T11	PROCEDIMIENTO 631 643	TAC de tórax
+T12	PROCEDIMIENTO 1177 1191	corticoterapia
+T13	PROCEDIMIENTO 1214 1227	examen físico
+T14	PROCEDIMIENTO 1350 1363	examen físico
+T15	PROCEDIMIENTO 1365 1390	auscultación respiratoria
+T16	PROCEDIMIENTO 1443 1464	auscultación cardiaca
+T17	PROCEDIMIENTO 1676 1682	frotis
+T18	PROCEDIMIENTO 1885 1896	corticoides
+T19	PROCEDIMIENTO 2027 2032	TACAR
+T20	PROCEDIMIENTO 445 465	formula leucocitaria
+T21	PROCEDIMIENTO 527 540	función renal
+T22	PROCEDIMIENTO 543 548	iones
+T23	PROCEDIMIENTO 560 579	Frotis nasogafíngeo
+T24	PROCEDIMIENTO 1616 1625	analítica
+T25	PROCEDIMIENTO 1743 1768	aislamient o en domicilio
+T26	SINTOMA 106 131	hemodinámicamente estable
+T27	SINTOMA 163 170	afebril
+T28	SINTOMA 176 185	taquipnea
+T29	SINTOMA 189 217	uso de musculatura accesoria
+T30	SINTOMA 226 239	ritmo sinusal
+T31	SINTOMA 264 276	QRS estrecho
+T32	SINTOMA 281 314	alteracion esde la repolarización
+T33	SINTOMA 477 487	linfopenia
+T34	SINTOMA 594 616	positivo para COVID-19
+T35	SINTOMA 655 686	opacidades en vidrio delustrado
+T36	SINTOMA 1280 1305	hemodinámicamente estable
+T37	SINTOMA 1308 1315	afebril
+T38	SINTOMA 1466 1491	ruidos cardiacos rítmicos
+T39	SINTOMA 1497 1503	soplos
+T40	SINTOMA 1508 1537	edemas de miembros inferiores
+T41	SINTOMA 1539 1545	IY (-)
+T42	ENFERMEDAD 991 996	COVID
+T43	ENFERMEDAD 1024 1065	neumonía organizativa en bases pulmonares
+T44	ENFERMEDAD 1085 1107	neumonía por SARS-COV2
+T45	ENFERMEDAD 1134 1155	neumonía organizativa
+T46	FARMACO 1177 1191	corticoterapia
+T47	FARMACO 1338 1345	oxígeno
+T48	SPECIES 42 51	SARS-COV2
+T49	HUMANO 1258 1266	paciente
+T50	HUMANO 1572 1580	paciente
+T51	HUMANO 1793 1801	paciente
+T52	HUMANO 1833 1835	Dr
+T53	ENFERMEDAD 19 51	NEUMONÍA BILATERAL POR SARS-COV2
+T54	ENFERMEDAD 56 77	NEUMONÍA ORGANIZATIVA
+T55	SINTOMA 339 391	radiopacidad heterogénea periférica en base pulmonar
+T56	SINTOMA 424 440	hemograma normal
+T57	SINTOMA 445 472	formula leucocitaria normal
+T58	SINTOMA 503 525	perfil hepático normal
+T59	SINTOMA 527 558	función renal + iones correctos
+T60	ENFERMEDAD 608 616	COVID-19
+T61	SINTOMA 691 714	engrosamientos septales
+T62	SINTOMA 717 784	tendencia a la consolidación bilaterales de distribución periférica
+T63	SINTOMA 845 864	bandas subpleurales
+T64	SINTOMA 879 919	desestrucuración del parénquima pulmonar
+T65	SINTOMA 967 996	afectación pulmonar por COVID
+T66	SPECIES 1098 1107	SARS-COV2
+T67	SINTOMA 1403 1441	crépitos secos bilaterales periféricos
+T68	SINTOMA 1597 1609	asintomática
+T69	SINTOMA 1676 1708	frotis persistentemente positivo
+T1	SINTOMA 1321 1345	requerimiento de oxígeno

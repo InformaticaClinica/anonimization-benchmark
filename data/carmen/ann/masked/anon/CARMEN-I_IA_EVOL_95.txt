@@ -1,0 +1,10 @@
+1. PORTADOR ASINTOMÁTICO DE SARS-CoV2
+2. INSUFICIENCIA RENAL CRÓNICA TERMINAL EN HEMODIÁLISIS
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] pluripatológico que es traído por familiares ante resultado positivo en PCR COVID-19 de screening para diálisis, habiendo sido vacunado hace un mes.
+A su llegada a urgencias se encuentra con tendencia a hipotensión, afebril, eupneico en reposo con SatO2 al 96% sin necesidad de oxigenoterapia. En la exploración destaca somnolencia y desorientación con rigidez y temblor de acción, sin focalidad neurológica. No se objetivan alteraciones desde el punto de vista respiratorio ni claro foco infeccioso. En la radiografía de tórax no hay signos de infección.
+Se realiza analítica en la que destaca elevación de PCR a 11 mg/dl y dímero D de 2200 ng/ml, además de alteración de la función renal y anemia macrocítica ya conocidas. Por el estado de somnolencia, se realiza un TC craneal en urgencias en que se descartan alteraciones agudas.
+Dado que es un paciente con factores de riesgo con PCR positiva y elevación de reactantes, se decide ingreso en sala de hospitalización, de cara a realizar diálisis en aislamiento. Se añade tratamiento antibiótico empírico con ceftriaxona para cubrir un posible foco infeccioso.
+Durante su estancia en la sala, se mantiene en todo momento afebril.
+Realiza la sesión de hemodiálisis, tras lo que presenta un episodio de disminución del nivel de consciencia asociado a hipotensión de 60/40 mmHg, que recupera tras una carga de suero fisiológico. El resto del tiempo se mantiene con constantes en rango, sin necesidad de oxigenoterapia.
+Se realiza una nueva PCR de control de SARS-CoV2 que es negativa.
+Dada la ausencia de sintomatología infecciosa y la rápida negativización de la PCR, debida probablemente al efecto de la vacuna, se comenta con nefrología acerca de su patología principal, quienes consideran que el paciente no requiere seguimiento estrecho en sala y puede ser dado de alta. Reingresará en sala [**NUMERO_IDENTIF**] para realizar hemodiálisis mientras dure el periodo de aislamiento.

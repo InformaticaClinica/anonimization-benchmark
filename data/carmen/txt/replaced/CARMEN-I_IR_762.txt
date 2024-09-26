@@ -1,0 +1,25 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Posible COVID-19 comentado con radiólogo de guardia paciente con sospecha de neumonía viral bilateral y frotis negativo.
+POSIBLE COVID-19
+
+protocolo:
+TC TORAX sin administración de contraste e.v.
+
+resultados:
+Calcificaciones ateromatosas en vasos coronarios. Resto de estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Extensa consolidación lobar (hasta 9,5 cm en su diámetro axial máximo) que afecta a varios segmentos del lóbulo inferior izquierdo. Presenta broncograma aéreo en su interior. Globalmente es sugestivo de un proceso neumónico infeccioso porbablemente bacteriano que no presenta las caracteristicas típicas de una neumonía viral ni concretamente de una neumonía por COVID-19.
+Existe un pequeño foco (8 mm) en vidrio deslustrado périferico lateral en lóbulo superior izquierdo, inespecífico. Asímismo se identifican incontables micronodulos milimétricos bilaterales. Algunos de ellos presentan una morfología poligonal sugestiva de ganglios intrapulmonares, otros están calcificados y son sugestivos de granulomas, los demás són inespecíficos.
+No se observan adenopatías axilares de tamaño patológico.
+Se identifica algún ganglio mediastinico de tamaño en el límite superior de la normalidad aunque de morfología no sospechosa (paratraqueal derecho). Asímismo existen algunos ganglios hiliares derechos de tamaño normal pero mayores en comparación al hilio contralareral que probablemente son de naturaleza reactiva.
+En cortes incluidos de hemiabdomen superior se identifica una cicatriz cortical en riñón derecho.
+
+conclusiones:
+Proceso consolidativo en LID que por sus caracteristicas es indeterminado para COVID siendo más probable una etiología bacteriana.
+
+descrip:
+TC TORAX

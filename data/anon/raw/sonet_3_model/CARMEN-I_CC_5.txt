@@ -1,0 +1,63 @@
+Primera llamada [**ID_CONTACTO_ASISTENCIAL**]
+Trabaja en [**PROFESION**]
+Vive con [**FAMILIARES_SUJETO_ASISTENCIA**] comparten baño
+Ant med: niega
+Alergias: niega  
+[**FECHAS**] con fiebre y cefalea.
+- Fiebre:[**EDAD_SUJETO_ASISTENCIA**]
+- Dísnea:-
+- Tos: seca
+- Diarrea:- 
+- Otros:-
+med: paracetamol 1g c8h
+PLAN: se explican medidas de aislamiento, nueva llamada en [**FECHAS**].
+Tomar temperatura dos veces al día.[**NUMERO_TELEFONO**] y fuera de este horario [**NUMERO_TELEFONO**][**ID_CONTACTO_ASISTENCIAL**]
+[**FECHAS**]
+Tto med: paracetamol 1g/8hrs  
+- Fiebre: [**EDAD_SUJETO_ASISTENCIA**]
+- Dísnea: -
+- Tos: -
+- Diarrea: -
+- Otros: -
+PLAN: recuerdo medidas de aislamiento. Nueva llamada el [**FECHAS**][**ID_CONTACTO_ASISTENCIAL**] 
+[**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+.
+- Fiebre: -
+- Dísnea: -  
+- Tos: muy leve, seca, no productiva.
+- GI: 2 deposiciones de consistencia blanda ayer, no productos patol. No náuseas, no vómitos.
+- Otros: no anosmia, no ageusia.
+.
+PLAN: recuerdo medidas de aislamiento. Nueva llamada el [**FECHAS**][**ID_CONTACTO_ASISTENCIAL**]:
+[**FECHAS**] 
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: muy leve, seca.
+- GI: 1 deposicion ayer de consistencia blanda, no productos patologicos. No náuseas, no vómitos. 
+- Otros: No anosmia, No ageusia.
+PLAN:
+Recuerdo medidas de aislamiento.
+Hidratacion.
+Nueva llamada en 48h[**ID_CONTACTO_ASISTENCIAL**]:
+[**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: - (no desde el [**FECHAS**])
+- GI: -
+- Otros: ha recuperado gusto y olfato.
+.
+Desde el [**FECHAS**] no diarrea.
+.  
+PLAN: valorar alta [**FECHAS**][**ID_CONTACTO_ASISTENCIAL**]:
+[**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: - (no desde el [**FECHAS**])
+- GI: -
+- Otros: ha recuperado gusto y olfato.
+Desde el [**FECHAS**] no diarrea.
+PLAN: Doy Alta

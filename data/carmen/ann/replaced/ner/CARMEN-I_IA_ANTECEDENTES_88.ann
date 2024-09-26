@@ -1,0 +1,46 @@
+T12	PROCEDIMIENTO 267 273	ARA II
+T13	PROCEDIMIENTO 292 313	tratamiento dietético
+T14	PROCEDIMIENTO 640 652	hemocultivos
+T15	PROCEDIMIENTO 766 780	ECOCARDIOGRAMA
+T16	PROCEDIMIENTO 1584 1605	estudio trasntorácico
+T17	PROCEDIMIENTO 1682 1698	ecocardiografías
+T18	PROCEDIMIENTO 1868 1880	Polipectomía
+T19	PROCEDIMIENTO 2023 2056	vaporización prostática con láser
+T20	PROCEDIMIENTO 2097 2130	resección prostática transuretral
+T21	PROCEDIMIENTO 432 461	demostración ecocardiográfica
+T22	PROCEDIMIENTO 1863 1866	FCS
+T23	HUMANO 26 32	Hombre
+T24	SPECIES 346 383	ESTAFILOCOCO AUREUS OXACILIN-SENSIBLE
+T25	SINTOMA 792 824	Ventrículo izquierdo no dilatado
+T26	SINTOMA 910 937	Motilidad global preservada
+T27	SINTOMA 1007 1042	Aurícula izquierda de tamaño normal
+T28	ENFERMEDAD 48 71	alergias medicamentosas
+T29	ENFERMEDAD 211 232	HIPERTENSIÓN ARTERIAL
+T30	ENFERMEDAD 278 288	DISLIPEMIA
+T31	ENFERMEDAD 701 725	Enfermedades Infecciosas
+T32	ENFERMEDAD 1367 1379	vegetaciones
+T33	ENFERMEDAD 1381 1430	Válvula tricúspide con velos finos, insuficiencia
+T34	ENFERMEDAD 1489 1510	hipertensión pulmonar
+T35	ENFERMEDAD 1552 1571	derrame pericárdico
+T36	ENFERMEDAD 1711 1732	GAMMAPATIA MONOCLONAL
+T37	ENFERMEDAD 1768 1782	DIVERTICULOSIS
+T38	ENFERMEDAD 1784 1809	Diverticulitis aguda leve
+T39	ENFERMEDAD 1884 1940	adenomas tubulares con displasia epitelial de bajo grado
+T40	FARMACO 563 574	daptomicina
+T41	FARMACO 577 588	cloxacilina
+T42	FARMACO 623 634	cloxacilina
+T43	FARMACO 2199 2210	Candesartan
+T45	ENFERMEDAD 318 365	BACTERIEMIA PERSISTENTE POR ESTAFILOCOCO AUREUS
+T46	ENFERMEDAD 394 427	ENDOCARDITIS SOBRE VÁLVULA MITRAL
+T47	SINTOMA 958 1005	Ventrículo derecho no dilatado, normocontráctil
+T48	SINTOMA 792 871	Ventrículo izquierdo no dilatado, con hipertrofia concéntrica en grado moderado
+T49	ENFERMEDAD 1075 1154	Válvula mitral degenerativa, engrosada, com importante calcificación del anillo
+T50	ENFERMEDAD 1205 1217	vegetaciones
+T51	ENFERMEDAD 1258 1300	Válvula aórtica trivalva con calcificación
+T52	SINTOMA 1512 1533	Vena cava no dilatada
+T53	ENFERMEDAD 1822 1843	POLIPOS COLORRECTALES
+T54	ENFERMEDAD 1964 1995	HIPERTROFIA BENIGNA de PRÓSTATA
+T55	ENFERMEDAD 2135 2147	TUBERCULOSIS
+T56	SINTOMA 640 662	hemocultivos negativos
+T57	PROCEDIMIENTO 237 262	tratamiento farmacológico
+T1	ENFERMEDAD 85 100	hábitos tóxicos

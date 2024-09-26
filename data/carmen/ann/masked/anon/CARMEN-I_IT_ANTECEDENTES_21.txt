@@ -1,0 +1,16 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. Fumador.
+Aparente abstinencia de alcohol desde [**FECHAS**] (una determinación ETG negativa), sin seguimiento alcohológico.
+1. CIRROSIS HEPÁTICA POR ENOL, diiagnosticada en [**FECHAS**] por HDA.
+- Hemorragia digestiva alta variceal en [**FECHAS**] profilaxis secundaria con banding y propranolol. Gastropatia HTPortal.
+- Ascitis refractaria en programa de paracentesis evacuadoras cada 1 semana proximadamente (7.5 - 9 L por sesión). Refractaria por intolerancia diuréticos con AKI e hiponatremia. LLevo a colocacion de TIPS en [**FECHAS**]. GPP basal 19-18.5 mmHg. Re-stenting a las 24 hrs. Ultima revision GPP 24 mmHg ([**FECHAS**]), con cateterismo cardiaco derecho compatible con hipervolemia. Pendiente de evaluacion de colocacion de TIPS en paralelo.
+En este contexto ha persistido con requerimientos de paracentesis evacuadoras semanales, ademas de encefalopatia hepatica episodica, en contexto de 3 episodios de oclusion/pseudooclusion colonica, todos tras paracentesis evacuadora total y desde la colocacion del TIPS, sin haberse demostrado nunca commplicacion de su hernia umbilical.FCS [**FECHAS**]: discreta distensión de marco colónico. Se explora hasta fondo cecal identificando a ese nivel neumatosis de pared, que dificulta la identificación de foramen apendicular que finalmente se visualiza tras exploración minuciosa. Válvula ileocecal de aspecto normal, se realiza ileoscopia explorando profundamente ileon terminal con aparente dilatación del mismo pero sin lesiones mucosas. Mucosa colónica de aspecto normal con patrón vascular conservado
+Eco [**FECHAS**]: no LOEs, porta permeable, TIPS permeable, abundante ascitis.
+Funcion hepatica y renal feb [**FECHAS**] ([**HOSPITAL**]): creat 1.88 mg/dl, Na 130 mEq/l, bil 1.1 mg/dl, TP 68%.
+TIPS DISFUNCIONANTES.
+En [**FECHAS**] colocacions de TIPS, disfuncionantes con GGP > 20mmHG, úlitma revisión del [**FECHAS**]. Persiste con ascitis refrataria y ha presentado multiples episodios de EH.
+2. ENFERMEDAD RENAL CRÓNICA en estudio y seguimiento por nefrología, orientada como IgA vs DM. Ha requerido hemodialisis puntuales en contexto de agudizaciones (NTA orientada como por contraste [**FECHAS**], ingreso por pseudooclusion colonica [**FECHAS**]).
+3. DIABETES MELLITUS TIPO I en tratamiento con insulina actrapid.
+Desconozco HbA1C.
+4. HERNIA UMBILICAl gigante, de cuello ancho y con .
+5. TCE a los [**EDAD_SUJETO_ASISTENCIA**] por accidente en motocicleta, sin secuelas.

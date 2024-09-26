@@ -1,0 +1,25 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente de 75 años ingresado en sala COVID por hidroneumotórax con anticoagulación con HBPM que presenta caída con TCE asociado. Rogamos descartar complicaciones. Gracias.
+TCE covid 19
+
+protocolo:
+TC CTRANEAL URGENTE sin contraste ev.
+
+resultados:
+Se compara con TC previa del 11/10/2018.
+Estructuras de la línea media centradas.
+Cisternas basales libres.
+Sistema ventricular de tamaño,morfología y localización conservada.
+Desmielinización de la sustancia blanca periventricular posterior.
+No se visualizan alteraciones de la morfología ni de la densidad a nivel de las estructuras encefálicas tanto
+supra como infratentoriales.
+
+conclusiones:
+TAC craneal basal sin alteraciones significativas.
+
+descrip:
+TC CEREBRAL

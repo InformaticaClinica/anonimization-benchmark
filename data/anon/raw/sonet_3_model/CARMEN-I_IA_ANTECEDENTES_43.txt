@@ -1,0 +1,15 @@
+Antecedentes personales:
+Hombre de [**EDAD_SUJETO_ASISTENCIA**]
+*ANTECEDENTES MÉDICOS
+1. LINFOMA FOLICULAR diagnósticado en [**FECHAS**]
+* Grado I/II EC IV-A--> CHOP x 8 --> respuesta parcial * FCM x 6 --> Estabilidad + TASP (BEAM) [**FECHAS**].
+* Recaída en [**FECHAS**] con progresión LF grado IIIa/IIIb--> R-ESHAP x 4 alcanzando RP + RDT [**FECHAS**]--> RC.
+* Seguimiento por [**HOSPITAL**] ([**NOMBRE_PERSONAL_SANITARIO**])
+2. MIOCARDIOPATÍA TÓXICA POST-QUIMIOTERAPIA
+* IC: EAP, CF IV en [**FECHAS**]
+* Seguimiento por Cardiología ([**NOMBRE_PERSONAL_SANITARIO**])
+* FEVI 35% ([**FECHAS**])
+3. HTA
+4. DM TIPO 2
+6. BBDHH + HBA + PR 240 ms.
+7. Insuf renal: FG 35 ml/min. [**FECHAS**]. Medicación habitual: [**FECHAS**]

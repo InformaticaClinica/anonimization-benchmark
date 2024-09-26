@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+descartar NOC
+NEUMONÍA COVID19
+
+protocolo:
+Se realiza TC torácica con técnica de alta resolución.
+
+resultados:
+Artefactos respiratorios que dificultan la valoración de la exploración.
+PICC derecho con extremo en unión atriocava.Severas calcificacioens coronarias.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Bandas parenquimatosas subpleurales asociadas a diltaciones bronquiales sugestivo de cambios organizativos.
+
+conclusiones:
+Neumonia covid en fase de resolución con discretos cambios organizativos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,145 @@
+T16	SINTOMA 92 125	Actitud discretamente inapropiada
+T17	SINTOMA 349 384	Impersistencia motora a las órdenes
+T18	SINTOMA 553 570	apraxia ideatoria
+T19	SINTOMA 730 745	rasgos afásicos
+T20	SINTOMA 750 764	disartria leve
+T21	SINTOMA 856 888	limitación al seguimiento ocular
+T22	SINTOMA 1027 1067	defectos campimétricos por confrontación
+T23	SINTOMA 1135 1151	asimetría facial
+T24	SINTOMA 1187 1227	elevación simétrica del velo del paladar
+T25	SINTOMA 2904 2913	disartria
+T26	SINTOMA 3051 3060	disartria
+T27	SINTOMA 3063 3093	paresia de extremidad superior
+T28	SINTOMA 5886 5904	cuadro confusional
+T29	SINTOMA 5919 5944	decaída en estado anímico
+T30	SINTOMA 5947 5953	apatía
+T31	SINTOMA 6111 6124	irritabilidad
+T32	SINTOMA 6159 6177	aislamiento social
+T33	SINTOMA 6229 6238	hiporexia
+T34	SINTOMA 6284 6299	pérdida de peso
+T35	SINTOMA 6311 6317	abulia
+T36	SINTOMA 6320 6329	anhedonia
+T37	SINTOMA 6367 6384	inhibición motriz
+T38	SINTOMA 6474 6488	desorientación
+T39	SINTOMA 6508 6545	alteración en ciclos de sueño-vigilia
+T40	SINTOMA 6787 6796	disartria
+T41	SINTOMA 6799 6820	sentimientos de culpa
+T42	SINTOMA 6823 6833	minusvalía
+T43	SINTOMA 85 90	Vigil
+T44	SINTOMA 127 151	dice algunos improperios
+T45	SINTOMA 183 245	Acierta mes, edad, año, día de la semana y fecha de nacimiento
+T46	SINTOMA 247 283	Obedece órdenes sencillas y cruzadas
+T47	SINTOMA 247 321	Obedece órdenes sencillas y cruzadas, cierta dificultad para las complejas
+T48	SINTOMA 392 487	apraxia imitatoria unimanual (mucho peor con la izquierda), bimanual, y cruzando la línea media
+T49	SINTOMA 492 521	puede hacer maniobra de Luria
+T50	SINTOMA 553 584	apraxia ideatoria ni ideomotora
+T51	SINTOMA 603 618	grasping táctil
+T52	SINTOMA 603 628	grasping táctil ni visual
+T53	SINTOMA 633 648	palmomentoniano
+T54	SINTOMA 650 678	Reflejo de chupeteo presente
+T55	SINTOMA 680 710	Lenguaje levemente hipofluente
+T56	SINTOMA 680 725	Lenguaje levemente hipofluente y disproséxico
+T57	SINTOMA 779 803	Mirada primaria centrada
+T58	SINTOMA 808 831	movimientos cuadráticos
+T59	SINTOMA 833 851	Pupilas isocóricas
+T60	SINTOMA 892 930	restricción a los movimientos oculares
+T61	SINTOMA 953 995	Sacadas hipermétricas a la mirada vertical
+T62	SINTOMA 1069 1130	Sensibilidad táctil conservada en las seis ramas trigeminales
+T63	SINTOMA 1156 1166	hipoacusia
+T64	SINTOMA 1168 1182	Úvula centrada
+T65	SINTOMA 1229 1264	Musculatura accesoria sin debilidad
+T66	SINTOMA 1266 1306	Motilidad lingual simétrica sin déficits
+T67	SINTOMA 1317 1343	paresia braquial izquierda
+T68	SINTOMA 1383 1420	Mano izquierda con posición distónica
+T69	SINTOMA 1432 1495	movimientos anárquicos y arrítmicos esporádicos (mano parietal)
+T70	SINTOMA 1506 1520	paresia crural
+T71	SINTOMA 1522 1591	Reflejos osteotendinosos vivos (+++) en ambas extremidades superiores
+T72	SINTOMA 1618 1636	Hoffmann bilateral
+T73	SINTOMA 1638 1675	Reflejos presentes (++) en ambas EEII
+T74	SINTOMA 1677 1695	Babinski bilateral
+T75	SINTOMA 1700 1714	clonus aquíleo
+T76	SINTOMA 1716 1746	Sensibilidad táctil conservada
+T77	SINTOMA 1716 1769	Sensibilidad táctil conservada, sin claras asimetrías
+T78	SINTOMA 3358 3406	afectación subcortical de corona radiata derecha
+T79	SINTOMA 3411 3443	conservación del córtex cerebral
+T80	SINTOMA 3449 3494	alteracioens significativas en árbol vascular
+T81	SINTOMA 3865 3888	signos vitales en rango
+T82	SINTOMA 3949 3967	afectación frontal
+T83	SINTOMA 3978 4003	estigmas de piramidalismo
+T84	SINTOMA 4016 4054	hiperreflexia con reflejos patológicos
+T85	SINTOMA 4370 4408	focos parcheados a nivel bihemisférico
+T86	SINTOMA 4410 4448	Conservación de estructuras corticales
+T87	SINTOMA 4497 4560	lesiones captantes de contraste en anillo a nivel bihemisférico
+T88	SINTOMA 4616 4636	atipicidad celulares
+T89	SINTOMA 4808 4868	afectación subaguda y progresiva de las funciones superiores
+T90	SINTOMA 4808 4887	afectación subaguda y progresiva de las funciones superiores y la funcionalidad
+T91	SINTOMA 4947 4998	alteración muy significativa de la sustancia blanca
+T92	SINTOMA 5003 5034	lesiones captantes de contraste
+T93	SINTOMA 5295 5320	lesión captante en anillo
+T94	SINTOMA 6070 6096	decaída del estado anímico
+T95	SINTOMA 6133 6157	heteroagresividad verbal
+T96	SINTOMA 6261 6269	anorexia
+T97	SINTOMA 6741 6752	frustración
+T98	SINTOMA 1933 1960	LESIONES HIPERCAPTANTES SNC
+T99	SINTOMA 4278 4353	leucoencefalopatía masiva de la mitad superior de la corona radiata derecha
+T100	SINTOMA 766 777	inteligible
+T101	ENFERMEDAD 1912 1930	LEUCOENCEFALOPATÍA
+T102	ENFERMEDAD 1993 2016	alergias medicamentosas
+T103	ENFERMEDAD 2155 2176	hipertensión arterial
+T104	ENFERMEDAD 2178 2197	tuberculosis miliar
+T105	ENFERMEDAD 2401 2406	LDCGB
+T106	ENFERMEDAD 2461 2471	TBC miliar
+T107	ENFERMEDAD 2527 2538	adenopatías
+T108	ENFERMEDAD 2541 2561	nódulos mesentéricos
+T109	ENFERMEDAD 2770 2784	cuadro crónico
+T110	ENFERMEDAD 3135 3169	patología cerebrovascular cerebral
+T111	ENFERMEDAD 4109 4115	anemia
+T112	ENFERMEDAD 4761 4779	linfoma multifocal
+T113	ENFERMEDAD 5360 5379	abscesos cerebrales
+T114	ENFERMEDAD 5382 5408	primario multifocal de SNC
+T115	FARMACO 3544 3547	AAS
+T116	PROCEDIMIENTO 38 57	Exploración clínica
+T117	PROCEDIMIENTO 2425 2441	biopsia de muslo
+T118	PROCEDIMIENTO 3221 3247	neuroiamgen con TC craneal
+T119	PROCEDIMIENTO 3250 3334	estudio vascular mediante sonografía Dupplex transcraneal y de troncos supraaórticos
+T120	PROCEDIMIENTO 3518 3539	antiagregación simple
+T121	PROCEDIMIENTO 3895 3918	exploración neurológica
+T122	PROCEDIMIENTO 4186 4220	RMN cerebral basal y con contraste
+T123	PROCEDIMIENTO 4453 4477	secuencias con contraste
+T124	PROCEDIMIENTO 4573 4587	estudio de LCR
+T125	PROCEDIMIENTO 4644 4656	Rt-PCR de JC
+T126	PROCEDIMIENTO 4934 4937	RMN
+T127	PROCEDIMIENTO 5232 5238	PCR JC
+T128	PROCEDIMIENTO 5513 5530	RMN con contraste
+T129	PROCEDIMIENTO 5562 5576	estudio de LCR
+T130	PROCEDIMIENTO 5631 5647	biopsia cerebral
+T131	PROCEDIMIENTO 5772 5788	biopsia cerebral
+T132	HUMANO 1972 1977	Varón
+T133	HUMANO 2115 2122	hermano
+T134	HUMANO 3816 3824	paciente
+T135	HUMANO 3847 3855	paciente
+T136	HUMANO 4891 4899	paciente
+T137	HUMANO 5976 5984	paciente
+T138	HUMANO 5990 5997	sobrina
+T139	HUMANO 6205 6212	familia
+T140	HUMANO 6389 6396	sobrina
+T141	HUMANO 6647 6655	paciente
+T142	ENFERMEDAD 1852 1873	ALTERACIÓN CONDUCTUAL
+T143	SINTOMA 1876 1906	DETERIORO FUNCIONAL PROGRESIVO
+T144	ENFERMEDAD 2339 2364	linfocitosis monoclonal B
+T145	ENFERMEDAD 2266 2306	LDCGB E-IV por extensión extraganglionar
+T146	PROCEDIMIENTO 2482 2488	R-CHOP
+T147	PROCEDIMIENTO 4140 4153	neuroimágenes
+T148	PROCEDIMIENTO 4224 4232	AngioRMN
+T149	SINTOMA 4644 4665	Rt-PCR de JC negativa
+T150	ENFERMEDAD 4754 4757	LMP
+T151	ENFERMEDAD 5112 5151	recivida en SNC de proceso hematológico
+T152	ENFERMEDAD 5200 5215	inmunosupresión
+T153	SINTOMA 5232 5247	PCR JC negativa
+T154	ENFERMEDAD 5272 5275	LMP
+T155	ENFERMEDAD 5332 5358	M1 de primario desconocido
+T156	PROCEDIMIENTO 6427 6450	intervención quirúrgica
+T157	ENFERMEDAD 2506 2561	recidiva en forma de adenopatías y nódulos mesentéricos
+T1	SPECIES 5236 5238	JC
+T2	SPECIES 4654 4656	JC
+T3	ENFERMEDAD 2020 2035	hábitos tóxicos

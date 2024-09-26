@@ -1,0 +1,9 @@
+[**FECHAS**]-03:00:00: FiO2 (%) 24, PAS (mm Hg) 125, PAD (mm Hg) 85, Pulsi oximetría (%) 98, Ta axilar (oC) 36.8. [**FECHAS**]-03:14:00 : Peso (Kg) 9 1, Talla (cm) 187. [**FECHAS**]-14:46:00 : Frecuencia respiratoria (rpm) 2 0.
+GCS V: Orientat
+GCS O: Espontàniament
+GCS M: Compleix ordres
+GCS TOTAL: 15
+GAP: 24
+RTS: 12
+PUPIL·LES: Isocòriques
+Ver evolución.

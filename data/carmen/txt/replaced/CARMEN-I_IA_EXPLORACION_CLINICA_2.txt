@@ -1,0 +1,9 @@
+
+13/07/2026-19:00:00: Frecuencia respiratoria (rpm) 18, PAS (mm Hg) 137, PAD (mm Hg) 86, Pulsioximetría (%) 98, Tª axilar (ºC) 36.1. 15/07/2026-0 9:30:00 : FiO2 (%) 24.
+Buen estado general, hemodinámicamente estable, febricular, normohidratado y normocoloreado.
+Neurológicamente, paciente consciente y orientado en persona, tiempo y espacio. Sin focalidades neurológicas. Sin signos de meningismo.
+Auscultación cardíaca con tonos cardíacos rítmicos, sin soplos audibles.
+Respiratoriamente eupneico auscultación respiratoria con buena ventilación, crepitantes secos en bases y campos medios pulmonares.
+Abdomen depresible, no doloroso a palpación superficial ni profunda.
+Extremidades inferiores sin edemas ni signos de trombosis venosa profunda.
+ 

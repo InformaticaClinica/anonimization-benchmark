@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con COVID de 20 días de evolución y múltiples tratamiento que presenta mejoría analítica pero persistencia de requerimientos altos de O2. Se ruega TC para descartar fibrosis.
+
+protocolo:
+TC torácico realizado en condiciones basales.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Mínimo derrame pericárdico de predominio anterior (10 mm).
+No se observa derrame pleural.
+Focos consolidativos bilaterales de predominio periférico y peribroncovasculares asociados a mínimas dilataciones bronquiales y bandas subpleurales, más evidentes en lóbulos superiores. Estos hallazgos son compatibles con un patrón patrón de neumonía organizativa secundario a infección por COVID padecida por el paciente.
+Hernia de hiato. Las secciones abdominales incluidas en el estudio muestran bazo accesorio de 14 mm. Atrofia renal izquierda. Sin otras alteraciones significativas.
+
+conclusiones:
+Patrón de afectación pulmonar compatible con una neumonía organizativa secundaria a la infección por COVID padecida por el paciente.
+*OBS: estudio consultado con la Dr [**NOMBRE_PERSONAL_SANITARIO**] de la sección de Radiología Torácica
+
+descrip:
+TC TORAX

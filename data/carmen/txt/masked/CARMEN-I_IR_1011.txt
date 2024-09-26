@@ -1,0 +1,19 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+BActeremia por PSeudomonas aeruginosa persistente. Agradeceríamos descartar absceso renal. Gracias
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Ecografia renovesical portatil
+
+conclusiones:
+Riñones de tamaño y ecoestructura normal (RD 10.2 cm /RI 11 cm), con grosor cortical conservado. Sin dilatación de vías excretoras. Quiste simple de 3 cm en polo inferior del RD.
+No se observa líquido libre ni colecciones perirrenales.
+Sondaje vesical.
+Próstata no valorable por sonda urinaria
+
+descrip:
+ECO BASAL (ABDOMEN)

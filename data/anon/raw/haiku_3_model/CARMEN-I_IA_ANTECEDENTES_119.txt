@@ -1,0 +1,5 @@
+Hombre de [**EDAD_SUJETO_ASISTENCIA**] originario de [**PAIS**] (cerca de [**TERRITORIO**]) sin viajes recientes ni contactos positivos para coronavirus conocidos.
+Hijo enfermo, etiología no conocida.
+No antecedentes patológicos de interés ([**OTROS_SUJETO_ASISTENCIA**] que requirió intervención), barrera idiomática
+NO hábitos tóxicos
+No medicación habitual

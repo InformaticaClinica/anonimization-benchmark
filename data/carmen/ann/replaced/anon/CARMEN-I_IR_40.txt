@@ -1,0 +1,23 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+carcinoma gástrico localmente avanzado. TC con colección peripancreática. ECO para valorar drenaje. Gracias.
+
+protocolo:
+Ecografia abdominal.
+
+resultados:
+Hígado homogéneo de tamaño normal. Sin lesiones focales.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Bazo de tamaño normal.
+Riñones de morfología y tamaño normal. No se observa dilatación de la vía excretora.
+No se aprecia líquido libre intra-abdominal.
+Engrosamiento de las paredes del estómago, correspondiente a proceso neoproliferativo conocido, está en contacto cuerpo pancreático donde se ve una área redondeada de unos 4 cm con contendio ecogéncio en su interior. Esta rodeada de estructuras intestinales. No es abordable para drenaje percutáneo.
+
+conclusiones:
+.
+
+descrip:
+ECO BASAL (ABDOMEN)

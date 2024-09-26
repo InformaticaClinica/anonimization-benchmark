@@ -1,0 +1,11 @@
+T3	HUMANO 1 9	Paciente
+T4	HUMANO 111 120	pacientes
+T5	HUMANO 197 205	infancia
+T6	HUMANO 60 93	profesión profesional de la salud
+T7	ENFERMEDAD 22 55	Alergia a Quinolonas y sulfamidas
+T8	ENFERMEDAD 165 171	Miopía
+T9	PROCEDIMIENTO 174 176	IQ
+T10	ENFERMEDAD 121 126	covid
+T11	PROCEDIMIENTO 178 196	Auto Injert cutani
+T12	ENFERMEDAD 210 219	cremadura
+T1	SINTOMA 121 135	covid positivo

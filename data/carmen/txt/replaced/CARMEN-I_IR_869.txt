@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+RX tórax portátil
+
+conclusiones:
+Destaca la presencia de opacidades periféricas bilaterales con características de consolidación más visible que en el estudio precedente de 10.6.20.
+Patrón intersticial difuso.
+CONCLUSIONES:
+Afectación pulmonar por COVID que muestra ligera progresión a consolidación (que ya existía) con respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

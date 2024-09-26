@@ -1,0 +1,17 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+SS Tc control postoperatorio.
+Neoplàsia maligna secundària, encèfal
+
+conclusiones:
+Se compara con estudio TC previo prequirúrgico con contraste para neuronavegacion/IQ, del [**FECHAS**].
+Cambios post craneotomía  frontoparietal derecha, con mínimos signos de HSA postquirúrgica a nivel de cisura silviana y surcos de la convexidad frontoparietal derecha, sin colecciones hemáticas subdurales que sugieran hematoma subdural postquirúrgico
+Contaminación hemática de astas occipitales sin signos de hidrocefalia
+Continua apreciándose áreas hipodensas subcorticales en centro semioval derecho, que en el contexto de diagnostico previo de linfoma del paciente, obliga a excluir LMP hemisférica cerebral derecha.
+Exploración actual sin administrar contraste yodado endovenoso.
+
+descrip:
+TC CEREBRAL

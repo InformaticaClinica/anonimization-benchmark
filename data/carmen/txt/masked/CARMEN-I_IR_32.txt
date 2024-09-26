@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado por neumonía COVID-19 con 3 semanas de evolución de la clínica con mejoría pero persistencia de requerimiento de oxígeno y de imágenes radiológicas con áreas de consolidación.
+Interesa descartar neumonía organizativa.
+NEUMONÍA POR COVID-19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se evidencia dilatación del tronco común de la arteria pulmonar.
+Catéter venoso central con acceso yugular derecho y extremo distal en la vena cava superior. No se evidencian ganglios axilares ni mediastínicos de tamaño valorable.
+Focos consolidativos bilaterales y con disposición periférica predominantemente en campos medio e inferiores, con dilataciones bronquiolares asociadas e imágenes en halo reverso. Los hallazgos son compatibles con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa. No se observa derrame pleural ni pericárdico.
+Quistes hepáticos. Colecistectomía. Litiasis renal de 2 mm, aparentemente no obstructiva, en el grupo calicial superior del riñón izquierdo.
+
+conclusiones:
+No se observa TEP.
+Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

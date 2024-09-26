@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SINDROME DISTRESS RESPIRATORIO
+
+resultados:
+Se compara con el estudio previo del [**FECHAS**].
+Persiste afectación pulmonar bilateral difusa de predominio izquierdo con elevación de hemidiafragma derecho.
+Disminución del componente alveolar más evidente en campo medio y superior del pulmón izquierdo con respecto al estudio previo.
+
+conclusiones:
+Discreta mejoría con disminución del componente alveolar de los infiltrados pulmonares difusos alveolointersticiales.
+
+descrip:
+RX  PORTATIL  TORAX

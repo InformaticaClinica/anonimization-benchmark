@@ -1,0 +1,31 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con antecedentes de HTA, DLP, SAHS y ACxFA ingresado por neumonía bilateral por COVID-19 con requerimiento de ECMO + IOT.
+Interesa realizar TC de control (a poder ser miércoles). Gracias.
+COVID19
+
+protocolo:
+Angio-TC pulmonar
+
+resultados:
+Se compara con angio-TC pulmonar de [**FECHAS**].
+No se observan defectos de repleción en tronco de la arteria pulmonar, ramas principales, lobares, ni segmentarias que sugieran TEP. Tronco de la arteria pulmonar de calibre conservado (28 mm).
+Dilatación de la aorta torácica ascendente (40 mm). Cardiomegalia con dilatación auricular izquierda.
+Catéter yugular derecho de ECMO con extremo distal en la AD con presencia de defecto de repleción pericatéter en la porción superior de la vena yugular sugestivo de trombosis venosa. Catéter venoso en confluencia yugular-subclavia derecha con extrenmo distal en AD.
+Catéteres en yugular y subclavia izquierda respectivamente, con extremo distal en la VCS. Catéter con extremo distal en VCI parcialmente incluido en el estudio.
+Tumefacción de partes blandas con trabeculación de la grasa subcutánea en región laterocervical y supraclavicular derechas.
+Leve derrame pleural bilateral de predominio derecho.
+No se observan adenopatías axilares ni mediastínicas de tamaño patológico.
+Comparativamente al estudio previo, se observan opacidades en vidrio deslustrado bilaterales de distribución más difusa asociado a opacidades reticulares, éstas últimas más llamativas respecto al TC previo, de predominio en LLSS, con mínima banda de respecto subpleural. Se asocia a engrosamientos septales y a bronquiectasias de tracción, más prominentes respecto al TC previo. Los hallazgos descritos y la evolución radiológica sugieren descartar la posibilidad de coinfección (valorar otros virus o pcp) o edema pulmonar subagudo-crónico. No presenta un patrón de COVID-19. Persiste colapso del parénquima en LLII asociado a las bronquiectasias.
+Colecistectomía. Ausencia de líquido libre intraabdominal en los cortes de abdomen superior.
+
+conclusiones:
+No se observan signos de TEP.
+Catéter yugular derecho con presencia de defecto de repleción pericatéter en la porción superior de la vena yugular sugestivo de trombosis venosa. Tumefacción de partes blandas con trabeculación de la grasa subcutánea en región laterocervical y supraclavicular derechas.
+Los hallazgos descritos en el parénquima pulmonar y la evolución radiológica sugieren descartar la posibilidad de coinfección (valorar otros virus o pcp) o edema pulmonar subagudo-crónico. Bronquiectasias difusas más prominentes respecto al TC previo. Persiste colapso del parénquima en LLII asociado a las bronquiectasias. Leve derrame pleural bilateral de predominio derecho.
+
+descrip:
+TC TORAX

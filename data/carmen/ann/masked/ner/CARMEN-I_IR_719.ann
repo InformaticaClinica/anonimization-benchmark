@@ -1,0 +1,26 @@
+T2	SINTOMA 994 1024	ocupación mucosa endobronquial
+T3	SINTOMA 1086 1130	Cambios degenerativos en la columna torácica
+T4	ENFERMEDAD 95 109	taquiarrítmias
+T5	SINTOMA 269 301	focos consolidativos periféricos
+T6	SINTOMA 753 810	focos consolidativos y de vidrio deslustrado subpleurales
+T7	SINTOMA 821 856	bandas parenquimatosas subpleurales
+T8	SINTOMA 628 685	Estructuras mediastínicas sin alteraciones significativas
+T9	ENFERMEDAD 66 70	EPOC
+T10	ENFERMEDAD 72 93	cardiopatía isquémica
+T11	ENFERMEDAD 156 177	neumonía por COVID-19
+T12	ENFERMEDAD 370 391	neumonía organizativa
+T13	ENFERMEDAD 426 431	COVID
+T14	ENFERMEDAD 545 556	adenopatías
+T15	ENFERMEDAD 703 732	derrame pleural o pericárdico
+T16	ENFERMEDAD 882 903	neumonía por COVID-19
+T17	ENFERMEDAD 939 960	neumonía organizativa
+T18	ENFERMEDAD 1059 1084	sobreinfección bacteriana
+T19	FARMACO 129 139	amiodarona
+T20	PROCEDIMIENTO 10 33	TC TÒRAX ALTA RESOLUCIO
+T21	PROCEDIMIENTO 257 259	Rx
+T22	PROCEDIMIENTO 401 406	TACAR
+T23	PROCEDIMIENTO 449 457	TC TÓRAX
+T24	PROCEDIMIENTO 1179 1202	TC TÒRAX ALTA RESOLUCIO
+T25	HUMANO 47 55	Paciente
+T27	SINTOMA 304 331	elevación progresiva en RFA
+T1	SINTOMA 426 433	COVID +

@@ -1,0 +1,8 @@
+T4	FARMACO 172 184	azitromicina
+T5	FARMACO 120 132	eritromicina
+T6	ENFERMEDAD 49 72	alergias medicamentosas
+T7	ENFERMEDAD 92 104	aftas orales
+T8	ENFERMEDAD 266 276	SCHWANOMMA
+T10	HUMANO 26 32	Hombre
+T11	PROCEDIMIENTO 266 314	SCHWANOMMA izquierdo intervenido quirúrgicamente
+T1	ENFERMEDAD 224 239	hábitos tóxicos

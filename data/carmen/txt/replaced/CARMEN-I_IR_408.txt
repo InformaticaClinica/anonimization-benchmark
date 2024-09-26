@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Varón de 56 años ingresdado en NRL por hematoma GGBB derechos + CIV sin hidrocefalia. Hoy disminución nivel de conciencia. Solicito TC de control.
+
+protocolo:
+TC CRANEAL URGENTE: adquisición basal.
+
+resultados:
+Se compara con TC previa del 08/2/2016.
+Estabilidad del tamaño del hematoma talámico derecho, que se extiende al lobulos frontal y parietal ipsilaterales con contaminación tetraventricular asociada (25 ml aprox).
+Discreto aumento del edema perilesional y del efecto de masa de éste sobre las estructuras de la línea media (4 -> 9 mm). Leve dilatación del sistema ventricular, estable. Cisternas basales no ocupadas.
+Resto sin cambios significativos.
+
+conclusiones:
+Estabilidad de tamaño del hematoma talámico derecho ya conocido (25 ml), con extensión a lobulos frontal y parietal ipsilaterales y contaminación tetraventricular.
+Aumento del edema perilesional y del efecto de masa de éste sobre las estructuras de la línea media.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,10 @@
+T3	PROCEDIMIENTO 87 101	Pulsioximetría
+T4	PROCEDIMIENTO 359 371	Tacto rectal
+T5	SINTOMA 225 232	afebril
+T6	SINTOMA 271 308	Dolor a la palpación de manera difusa
+T7	SINTOMA 314 357	defensa generalizada, sobre todo en Flancos
+T8	SINTOMA 197 222	hemodinamicamente estable
+T9	SINTOMA 251 269	abdomen distendido
+T10	HUMANO 188 196	Paciente
+T11	SINTOMA 359 381	Tacto rectal con heces
+T12	PROCEDIMIENTO 239 250	exploración

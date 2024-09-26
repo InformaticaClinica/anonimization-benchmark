@@ -1,0 +1,27 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Neumonia bilateral COVID-19 con empeoramiento de los infiltrados e insuficiencia respiratoriagrave. Agradecería vuesta valoración.
+sospecha COVID
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+No evidencio lesiones endovasculares sugestivas de TEP agudo o de trombosis endovascular arterial. Presenta una muy extensa afectación parenquimatodsa pulmonar difusa caracterizada por vidrio deslustrado con áreas de patrón en empedrado. Presenta bronquiolectasias irregulares en las zonas afectas y de disposición periférica que sugieren fibrosis intralobulillar. En la exploración con mapa de yodo se identifica una perfusión discertamente heterogénea, con algunas zonas de hipercaptación que sugierirían hipervascularización y una zona con ausencia de captación en disposición posterior del segmento apical del lóbulo superior derecho (0 mg/ml de yodo en la cuantificación mediante energía dual). Este hallazgo se ha descrito en pacientes con TEP agudo y se ha considerado como probable microtrombosis vascular sin trombosis en vaso aferente visible y, en algún artículo, se ha correlacionado con un peor pronóstico.
+Se visualizan varias anomalías del desarrollo embriológico bronquial con varios bronquios supernumerarios y dos bronquios desplazados para el segmento posterior del lóbulo superior derecho que se originan desde el bronquio intermediario.
+Presenta incontables lesiones óseas líticas que son coherentes con un mieloma múltiple.
+
+conclusiones:
+No evidencia de TEP o trombosis endovascular macroscópica en esta exploración.
+Extensa afectación por COVID.
+Perfusión pulmonar heterogénea con algunas zonas de hiperperfusión y un área con ausencia de opacificación por yodo en el segmento apical del lóbulo superior derecho. Este hallazgo se ha descrito en pacientes con TEP agudo y se ha considerado como probable microtrombosis vascular sin trombosis en vaso aferente visible y, en algún artículo, se ha correlacionado con un peor pronóstico.
+Anomalías del desarrollo embriológico bronquial.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

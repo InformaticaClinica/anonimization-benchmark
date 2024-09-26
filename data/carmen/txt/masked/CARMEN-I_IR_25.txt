@@ -1,0 +1,26 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+COVID. Intubado. Shock septico. Clinica urinaria antes de ser intubado.
+Descartra PNA/ uropatía obstructiva
+NEUMONIA BILATERAL. SOSPECHA DE COVID.
+
+protocolo:
+ECOGRAFIA RENOVESICAL URGENTE. Se realiza con ecógrafo portátil en la UCI.
+
+resultados:
+Riñones de tamaño y ecoestructura normal con grosor cortical conservado, sin dilatación de las vías excretoras.
+No se aprecian masas sólidas tan solo algunos quistes simples corticales de pequeño tamaño.
+Edema de la grasa perirrenal bilateral con una lámina de líquido sin colecciones.
+Vejiga urinaria colapsada con sonda.
+No líquido libre.
+Esteatosis hepática. El resto del estudio abdominal no muestra alteraciones evidentes.
+
+conclusiones:
+Sin alteraciones renales valorables ni dilatación de las vías excretoras.
+No líquido libre intraabdominal. Edema perirrenal bilateral.
+
+descrip:
+ECO BASAL (ABDOMEN)

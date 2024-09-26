@@ -1,0 +1,77 @@
+T11	PROCEDIMIENTO 15 33	TC TORACOABDOMINAL
+T12	PROCEDIMIENTO 1549 1561	esofagograma
+T13	PROCEDIMIENTO 1935 1982	ECOGRAFÍA DOPPLER EXTREMIDAD SUPERIOR IZQUIERDA
+T14	PROCEDIMIENTO 2217 2229	GASTROSCOPIA
+T15	PROCEDIMIENTO 2260 2268	sedación
+T16	PROCEDIMIENTO 2271 2281	intubación
+T17	PROCEDIMIENTO 3016 3028	GASTROSCOPIA
+T18	PROCEDIMIENTO 3667 3679	GASTROSCOPIA
+T19	PROCEDIMIENTO 696 733	contraste oral administrado por sonda
+T20	PROCEDIMIENTO 1578 1602	TRÁNSITO ESOFAGOGÁSTRICO
+T21	PROCEDIMIENTO 2546 2644	cavidad gástrica hay abundantes restos líquidos espumosos que se lavan cuidadosamente y se aspiran
+T22	SINTOMA 525 540	Portador de SNG
+T23	SINTOMA 542 638	Esofago colapssdo un leve engrosamiento hipodenso y discreta trebaculacion de la grasa adyacente
+T24	ENFERMEDAD 1055 1081	Vesicula biliar distendida
+T25	SINTOMA 1613 1642	Esófago disminuido de calibre
+T26	SINTOMA 1765 1819	Estómago distendido con abundante líquido de retención
+T27	SINTOMA 2649 2712	mucosa gástrica del cuerpo presenta un aspecto muy inflamatorio
+T28	SINTOMA 2718 2723	edema
+T29	SINTOMA 2726 2747	lesiones eritematosas
+T30	SINTOMA 2869 2877	sangrado
+T31	SINTOMA 2881 2897	restos hemáticos
+T32	ENFERMEDAD 3699 3769	Esófago con ulceras y pseudomenbranas con mucosa friable con estenosis
+T33	ENFERMEDAD 134 140	anemia
+T34	ENFERMEDAD 149 179	derrame pleural ni pericárdico
+T35	ENFERMEDAD 228 264	adenpatías axilares ni mediastíncias
+T36	ENFERMEDAD 333 361	Granuloma calcificado en LID
+T37	ENFERMEDAD 499 523	bronquiolitis infecciosa
+T38	ENFERMEDAD 677 692	neumomediastino
+T39	ENFERMEDAD 969 983	neumoperitoneo
+T40	ENFERMEDAD 1183 1202	Leve esplenomegalia
+T41	ENFERMEDAD 1392 1468	adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales
+T42	ENFERMEDAD 1992 2038	Trombosis de la vena cefálica a nivel de brazo
+T43	ENFERMEDAD 2752 2784	antro se observa una gran úlcera
+T44	ENFERMEDAD 3254 3305	ulceras serpiginosas con fibrina en fundus gástrico
+T45	ENFERMEDAD 3316 3355	necrosis con coágulos en antro gástrico
+T46	ENFERMEDAD 3584 3663	Aefctación grave de mucosa esofágica y gástrica (Zargar IIIb) y leve de duodeno
+T47	ENFERMEDAD 3852 3885	Estenosis esofágica por cáusticos
+T48	PROCEDIMIENTO 2295 2304	anestesia
+T50	HUMANO 1882 1890	paciente
+T51	SINTOMA 181 211	Catéter venoso central derecho
+T52	PROCEDIMIENTO 181 203	Catéter venoso central
+T53	SINTOMA 44 105	Hipodensidad de las cavidades cardíacas respecto al miocardio
+T54	ENFERMEDAD 283 331	ganglio de tamaño borderline de 9 mm prevascular
+T55	SINTOMA 393 420	áreas en vidrio deslustrado
+T56	SINTOMA 430 484	áreas de tree in bud peribroncovasculares en LSI y LII
+T57	PROCEDIMIENTO 537 540	SNG
+T58	SINTOMA 542 559	Esofago colapssdo
+T59	SINTOMA 696 770	contraste oral administrado por sonda se encuentra retenido en el estómago
+T60	SINTOMA 786 801	paso al duodeno
+T61	SINTOMA 806 845	antro y píloro se encuentran colapsados
+T62	SINTOMA 861 908	trbeculacion de la grasa adyacente perigastrica
+T63	SINTOMA 924 952	líquido libre intraabdominal
+T64	SINTOMA 985 1021	Higado de tamaño y estructura normal
+T65	SINTOMA 1111 1133	Via biliar no dilatada
+T66	SINTOMA 1135 1181	Vena porta y eje esplenomesentérico permeables
+T67	SINTOMA 1204 1255	Páncreas y glándulas suprarrenales sin alteraciones
+T68	SINTOMA 1257 1294	Riñones de tamaño y morfología normal
+T69	SINTOMA 1299 1329	nefrograma simétrico bilateral
+T70	ENFERMEDAD 1345 1375	dilatación de la via excretora
+T71	SINTOMA 1470 1512	Colon con presencia de material radioopaco
+T72	SINTOMA 1698 1763	dificultad evidente en la progresión del contraste hasta estómago
+T73	SINTOMA 1869 1878	vomitando
+T74	SINTOMA 2098 2201	union yugulo-subclavia , la vena subclavia proximal, venas axilar, braquiales y basilica son permeables
+T75	SINTOMA 2331 2398	mucosa desde la hipofaríngea hasta el esófago distal está edematosa
+T76	SINTOMA 2421 2450	úlceras y exudados de fibrina
+T77	SINTOMA 2546 2603	cavidad gástrica hay abundantes restos líquidos espumosos
+T78	SINTOMA 2899 2949	Bulbo duodenal y segunda porción de aspecto normal
+T79	ENFERMEDAD 2964 3000	ESOFAGITIS Y GASTRITIS POR CÁUSTICOS
+T80	SINTOMA 3048 3110	Afectación de toda la mucosa esofágica en forma de friabilidad
+T81	ENFERMEDAD 3140 3146	Ulcera
+T82	SINTOMA 3211 3238	Mucosa gástrica heiperémica
+T83	SINTOMA 3388 3426	Píloro abierto, con mucosa blanquecina
+T84	SINTOMA 3436 3469	Bulbo duodenal con mucosa friable
+T85	SINTOMA 3471 3557	Segunda porción duodenal con ulceras lineales circunferenciales recubiertas de fibrina
+T86	ENFERMEDAD 3809 3815	Lesion
+T87	SINTOMA 954 965	colecciones
+T88	ENFERMEDAD 1027 1043	lesiones focales

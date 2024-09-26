@@ -1,0 +1,242 @@
+T43	SINTOMA 1260 1273	artromialgias
+T44	SINTOMA 1275 1282	cefalea
+T45	SINTOMA 1284 1300	malestar general
+T46	SINTOMA 1302 1319	tos no productiva
+T47	SINTOMA 1322 1328	fiebre
+T48	SINTOMA 1457 1486	infiltrado pulmonar izquierdo
+T49	SINTOMA 1557 1563	disnea
+T50	SINTOMA 1568 1582	dolor torácico
+T51	SINTOMA 1587 1594	anosmia
+T52	SINTOMA 1598 1605	ageusia
+T53	SINTOMA 1610 1627	clínica digestiva
+T54	SINTOMA 1672 1690	fiebre persistente
+T55	SINTOMA 1727 1738	taquicardia
+T56	SINTOMA 1745 1763	eupneica en reposo
+T57	SINTOMA 1796 1835	PCR para SARS-CoV2 que resulta positiva
+T58	SINTOMA 1861 1905	elevación franca de reactantes de fase aguda
+T59	SINTOMA 2225 2244	fiebre con tiritona
+T60	SINTOMA 2246 2280	quebrantamiento del estado general
+T61	SINTOMA 2292 2303	somnolencia
+T62	SINTOMA 2340 2351	taquicardia
+T63	SINTOMA 2353 2371	eupneica en reposo
+T65	SINTOMA 2420 2511	flogosis, dolor y supuración activa a nivel de hidrosadenitis en región inguinal y perianal
+T66	SINTOMA 2981 3005	aumento de consolidación
+T67	SINTOMA 3651 3662	somnolencia
+T68	SINTOMA 3665 3676	hipotensión
+T69	SINTOMA 3891 3914	desorientación nocturna
+T70	SINTOMA 4016 4030	desorientación
+T71	SINTOMA 4088 4096	poliuria
+T72	SINTOMA 4394 4420	clínica neuro-psiquiátrica
+T73	SINTOMA 5574 5579	dolor
+T74	SINTOMA 7529 7537	eutímica
+T75	SINTOMA 7801 7817	ideas deliroides
+T76	SINTOMA 7820 7836	ideación suicida
+T77	SINTOMA 8076 8087	somnolencia
+T78	SINTOMA 8089 8099	consciente
+T79	SINTOMA 8187 8199	colaboradora
+T80	SINTOMA 8201 8219	Lenguaje coherente
+T81	SINTOMA 8225 8244	prosodia conservada
+T82	SINTOMA 8247 8258	tono normal
+T83	SINTOMA 8384 8402	ideación delirante
+T84	SINTOMA 8444 8451	eutimia
+T85	SINTOMA 8500 8534	alteraciones de la sensopercepción
+T86	SINTOMA 8649 8669	somnolencia excesiva
+T87	SINTOMA 8774 8794	somnolencia nocturna
+T88	SINTOMA 8810 8824	desorientación
+T89	SINTOMA 1362 1411	PCR SARS-CoV2 en el CAP que ha resultado positiva
+T90	SINTOMA 1539 1552	expectoración
+T91	SINTOMA 1704 1724	hipotensión arterial
+T92	SINTOMA 2317 2337	hipotensión arterial
+T93	SINTOMA 2892 2933	normalización de reactantes de fase aguda
+T94	SINTOMA 3103 3157	consolidación heterogenea con broncograma aéreo en LSI
+T95	SINTOMA 3162 3191	vidrio deslustrado periférico
+T96	SINTOMA 3203 3223	focos consolidativos
+T97	SINTOMA 3229 3247	vidrio delsustrado
+T98	SINTOMA 4679 4712	per-albúmina por debajo del corte
+T99	SINTOMA 5587 5597	supuración
+T100	SINTOMA 5716 5747	nódulos inflamatorios palpables
+T101	SINTOMA 5769 5779	supuración
+T102	SINTOMA 8154 8165	Euprosódica
+T103	SINTOMA 8297 8324	Pensamiento de curso normal
+T104	SINTOMA 8330 8347	ideación  suicida
+T105	SINTOMA 8260 8295	Discurso inducido, algo enlentecido
+T106	SINTOMA 8418 8433	Afecto reactivo
+T107	SINTOMA 8536 8558	Biorritmos conservados
+T108	SINTOMA 8560 8588	Juicio derealidad conservado
+T109	SINTOMA 8590 8602	Buen insight
+T110	SINTOMA 9106 9114	eutímica
+T111	SINTOMA 9150 9172	buen descanso nocturno
+T112	SINTOMA 114 126	PCR positiva
+T113	SINTOMA 917 934	clínica diarreica
+T114	SINTOMA 2013 2097	HCx2 y antigenuria para neumococo y legionela que salen en todos los casos negativos
+T115	SINTOMA 3919 3949	descenso de cifras tensionales
+T116	SINTOMA 8107 8133	orientada en las 3 esferas
+T117	SINTOMA 8134 8152	Contacto sintónico
+T118	SINTOMA 8167 8184	Actitud abordable
+T119	SINTOMA 3963 3984	cuadros presincopales
+T120	SINTOMA 5699 5710	inflamación
+T121	SINTOMA 8453 8467	niega ansiedad
+T122	SINTOMA 9116 9144	estable psicopatológicamente
+T123	ENFERMEDAD 33 55	NEUMONÍA POR SARS-CoV2
+T124	ENFERMEDAD 171 176	COVID
+T125	ENFERMEDAD 236 241	COVID
+T126	ENFERMEDAD 300 325	HIDROSADENITIS SUPURATIVA
+T127	ENFERMEDAD 545 551	SEPSIS
+T128	ENFERMEDAD 642 659	TRASTORNO BIPOLAR
+T130	ENFERMEDAD 2676 2693	infección cutánea
+T131	ENFERMEDAD 3273 3287	neumonia COVID
+T132	ENFERMEDAD 3319 3348	coinfección bacteriana en LSI
+T133	ENFERMEDAD 4182 4246	diabetes insipida nefrogénica secundaria a tratamiento con litio
+T134	ENFERMEDAD 4346 4361	deficit de zinc
+T135	ENFERMEDAD 4568 4580	pancitopenia
+T136	ENFERMEDAD 4642 4654	desnutrición
+T137	ENFERMEDAD 5168 5188	Hidrosadenitis grave
+T138	ENFERMEDAD 5367 5424	fístulas/colecciones superficiales) actualmente en nalgas
+T139	ENFERMEDAD 5946 5969	foco infeccioso cutáneo
+T140	ENFERMEDAD 6068 6082	neumonía COVID
+T141	ENFERMEDAD 6085 6091	sepsis
+T142	ENFERMEDAD 6209 6232	alergias medicamentosas
+T143	ENFERMEDAD 6244 6283	Hidradenitis supurativa autoinmunitaria
+T144	ENFERMEDAD 6378 6394	Obesidad Mórbida
+T145	ENFERMEDAD 6496 6507	Tr. bipolar
+T146	ENFERMEDAD 6786 6797	Tr. bipolar
+T147	ENFERMEDAD 7213 7224	Tr. bipolar
+T148	ENFERMEDAD 7763 7796	descompensación de tipo depresiva
+T149	ENFERMEDAD 8979 8990	Tr. bipolar
+T150	FARMACO 263 273	Influximab
+T151	FARMACO 345 355	Infliximab
+T152	FARMACO 489 512	piperacilina/tazobactam
+T153	FARMACO 596 619	Piperacilina/Tazobactam
+T154	FARMACO 1029 1039	Infliximab
+T155	FARMACO 1782 1784	O2
+T156	FARMACO 2134 2145	ceftriaxona
+T157	FARMACO 2148 2160	azitromicina
+T158	FARMACO 2408 2410	O2
+T159	FARMACO 2523 2534	ceftriaxona
+T160	FARMACO 2539 2563	piperacilina- tazobactam
+T161	FARMACO 3636 3646	quetiapina
+T162	FARMACO 3728 3738	clotiapina
+T163	FARMACO 4241 4246	litio
+T164	FARMACO 4764 4776	ácido fólico
+T165	FARMACO 5252 5262	Infliximab
+T166	FARMACO 5929 5932	P/T
+T167	FARMACO 6303 6313	Infliximab
+T168	FARMACO 6563 6573	Olanzapina
+T169	FARMACO 6584 6593	Quetipina
+T170	FARMACO 6608 6618	Clotiapina
+T171	FARMACO 6634 6639	Litio
+T172	FARMACO 6651 6663	Escitalopram
+T173	FARMACO 6677 6687	Duloxetina
+T174	FARMACO 6701 6711	Clonazepam
+T175	FARMACO 6724 6737	Oxcarbazepina
+T176	FARMACO 7574 7579	litio
+T177	FARMACO 8634 8644	quetiapina
+T178	FARMACO 8847 8857	Clotiapina
+T179	FARMACO 9335 9345	Olanzapina
+T180	FARMACO 9357 9367	Quetiapina
+T181	FARMACO 9377 9387	Clotiapina
+T182	FARMACO 9396 9401	Litio
+T183	FARMACO 9413 9426	Oxcarbazepina
+T184	FARMACO 9439 9450	Clitalopram
+T185	FARMACO 9459 9469	Duloxetina
+T186	FARMACO 9478 9486	Elontril
+T187	FARMACO 9496 9506	Clonazepam
+T188	FARMACO 9732 9742	Quetiapina
+T189	FARMACO 9796 9806	Quetiapina
+T190	PROCEDIMIENTO 661 687	POLIMEDICACIÓN PSICOACTIVA
+T191	PROCEDIMIENTO 809 827	cirugía bariátrica
+T192	PROCEDIMIENTO 967 981	antipsicóticos
+T193	PROCEDIMIENTO 1414 1434	radiografía de tórax
+T194	PROCEDIMIENTO 1493 1502	anamnesis
+T195	PROCEDIMIENTO 2720 2734	antibioterapia
+T196	PROCEDIMIENTO 2957 2977	radiografía de tórax
+T197	PROCEDIMIENTO 3047 3058	TC de tórax
+T198	PROCEDIMIENTO 4448 4471	suplementos vitamínicos
+T199	PROCEDIMIENTO 4524 4546	suplementos dietéticos
+T200	PROCEDIMIENTO 5069 5080	Rx de tórax
+T201	PROCEDIMIENTO 5863 5881	exploración física
+T202	PROCEDIMIENTO 5982 6007	INTERCONSULTA PSIQUIATRÍA
+T203	PROCEDIMIENTO 6150 6180	tratamiento psicofarmacológico
+T204	PROCEDIMIENTO 6933 6963	tratamiento psicofarmacológico
+T205	PROCEDIMIENTO 7621 7639	cirugía bariátrica
+T206	PROCEDIMIENTO 7860 7885	tratamiento antipsicótico
+T207	PROCEDIMIENTO 9541 9571	tratamiento psicofarmacológico
+T209	HUMANO 768 776	Paciente
+T210	HUMANO 1074 1097	Profesional de la salud
+T211	HUMANO 1158 1164	cuñado
+T212	HUMANO 1167 1172	hijos
+T213	HUMANO 1516 1524	paciente
+T214	HUMANO 2842 2850	paciente
+T215	HUMANO 3782 3790	paciente
+T216	HUMANO 4853 4861	paciente
+T217	HUMANO 4913 4940	médico de atención primaria
+T218	HUMANO 5140 5148	paciente
+T219	HUMANO 5452 5460	paciente
+T220	HUMANO 5634 5642	paciente
+T221	HUMANO 5842 5850	paciente
+T222	HUMANO 6009 6011	Dr
+T223	HUMANO 6021 6024	Dr.
+T224	HUMANO 6034 6042	Paciente
+T225	HUMANO 6749 6757	Paciente
+T226	HUMANO 6904 6912	paciente
+T227	HUMANO 7149 7152	Dra
+T228	HUMANO 7163 7166	Dr.
+T229	HUMANO 7176 7184	Paciente
+T230	HUMANO 7444 7447	Dra
+T231	HUMANO 7512 7520	paciente
+T232	HUMANO 8942 8950	Paciente
+T233	HUMANO 9612 9622	psiquiatra
+T234	HUMANO 9662 9670	paciente
+T235	HUMANO 9868 9876	paciente
+T236	SPECIES 46 55	SARS-CoV2
+T237	PROCEDIMIENTO 114 117	PCR
+T238	FARMACO 178 182	HBPM
+T239	PROCEDIMIENTO 220 241	2a dosis vacuna COVID
+T240	ENFERMEDAD 402 443	región inguinal y perianal con supuración
+T241	PROCEDIMIENTO 357 385	Mamaria y axilar intervenida
+T242	ENFERMEDAD 691 754	DESNUTRICIÓN SECUNDARIA A CUADRO MALABSORTIVO POR Cx BARIÁTRICA
+T243	PROCEDIMIENTO 741 754	Cx BARIÁTRICA
+T244	ENFERMEDAD 879 901	déficits nutricionales
+T245	ENFERMEDAD 937 947	tr bipolar
+T246	FARMACO 959 964	Litio
+T247	ENFERMEDAD 984 1009	hidrosadenitis supurativa
+T248	SINTOMA 1158 1182	cuñado e hijos positivos
+T249	PROCEDIMIENTO 1111 1134	segunda dosis de vacuna
+T250	PROCEDIMIENTO 1362 1375	PCR SARS-CoV2
+T251	SPECIES 1366 1375	SARS-CoV2
+T252	PROCEDIMIENTO 1796 1814	PCR para SARS-CoV2
+T253	SPECIES 1805 1814	SARS-CoV2
+T254	PROCEDIMIENTO 2013 2015	HC
+T255	PROCEDIMIENTO 2020 2058	antigenuria para neumococo y legionela
+T256	SPECIES 2037 2046	neumococo
+T257	SPECIES 2049 2058	legionela
+T258	ENFERMEDAD 2467 2511	hidrosadenitis en región inguinal y perianal
+T259	SPECIES 3331 3341	bacteriana
+T260	PROCEDIMIENTO 3519 3543	pauta psicofarmacológica
+T261	PROCEDIMIENTO 3444 3451	litemia
+T262	PROCEDIMIENTO 3703 3710	litemia
+T263	PROCEDIMIENTO 4044 4068	tratamiento psiquiatrico
+T264	PROCEDIMIENTO 4098 4125	se recoge orina de 24 horas
+T265	ENFERMEDAD 4714 4727	déficit de Zn
+T266	FARMACO 4753 4761	Optovite
+T267	ENFERMEDAD 5303 5317	hidrosadenitis
+T268	ENFERMEDAD 5656 5687	lesiones ya conocidas en nalgas
+T269	ENFERMEDAD 5500 5514	hidrosadenitis
+T270	PROCEDIMIENTO 5906 5927	AB de amplio espectro
+T271	PROCEDIMIENTO 6341 6356	Bypass gástrico
+T272	PROCEDIMIENTO 6421 6424	BPG
+T273	PROCEDIMIENTO 7073 7112	tratamiento eutimizante y antipsicótico
+T274	PROCEDIMIENTO 7393 7417	pauta psicofarmacológica
+T275	FARMACO 7582 7591	valproato
+T276	PROCEDIMIENTO 7555 7572	doble eutimizante
+T277	PROCEDIMIENTO 7693 7704	eutimizante
+T278	ENFERMEDAD 7645 7670	alteraciones de absorción
+T279	PROCEDIMIENTO 9067 9090	pautapsicofarmacológica
+T280	FARMACO 9222 9242	Hidroxioxcarbazepina
+T281	PROCEDIMIENTO 2878 2887	analítica
+T282	PROCEDIMIENTO 4312 4322	analíticas
+T1	SINTOMA 2390 2410	requerimientos de O2
+T2	SINTOMA 2860 2887	mejoría clínica y analítica
+T3	SINTOMA 4782 4800	mejoría progresiva
+T4	SINTOMA 8469 8494	deseo de mejoría presente
+T5	PROCEDIMIENTO 472 479	Cirugía

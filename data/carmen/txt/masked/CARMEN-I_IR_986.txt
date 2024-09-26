@@ -1,0 +1,21 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] trasplantado cardíaco immunosuprimido, multiples infecciones nosocomiales (infeccion x covid19); reactivación de CMV, etc. Presenta colestasis permanentemente. Descartar patologia abdominal.
+Trasplante cardíaco
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica. Se aprecian algunos pólipos vesiculares.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Páncreas parcialmente explorado sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal.
+Derrame pleural izquierdo.
+
+descrip:
+ECO BASAL (ABDOMEN)

@@ -1,0 +1,18 @@
+
+prueba:
+CATETER SIN TRACTO SUBCUTANEO
+
+clinica:
+PAcienet con Leucemia aguda de debut que requiere inicio de quimioterapia rogamos colocacion CVC urgente-
+LEUCEMIA AGUDA
+
+protocolo:
+CATETER SIN TRACTO SUBCUTANEO
+
+conclusiones:
+Bajo guía ecográfica y escopia se coloca catéter yugular derecho de 2 luces.
+El extremo se coloca en la unión atriocaval.
+Sin incidencias durante el procedimiento.
+
+descrip:
+CATETER SIN TRACTO SUBCUTANEO

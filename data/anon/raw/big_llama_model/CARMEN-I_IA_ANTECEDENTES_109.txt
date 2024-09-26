@@ -1,0 +1,24 @@
+ Mujer de [**EDAD_SUJETO_ASISTENCIA**] años. Sin AMC. No hábitos tóxicos. Independiente para las ABVD. Vive sola en domicilio.
+* ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL esencial en tratamiento médico sin repercusión de órganos diana.
+2. ACXFA en tratamiento anticoagulante.
+3. CARDIOPATÍA VALVULAR: ESTENOSIS MITRAL GRAVE. Disnea clase funcional II.
+* Último Ecocardiograma ([**FECHAS**]): Ventricle esquerre no dilatat, ni hipertrofic amb bona contractilitat-estudi fet en AC per Fa a [**NUMERO_TELEFONO**] bpm Auricula esquerre severament dilatada. Arrel aortica de mida normal, aorta ascendent de mida mormal. Valvula aortica sense alteracions Valvula mitral amb afectació reumatica , valvula calcificada en grau sever amb insuficiencia lleu i estenosi molt severa gradient mig de [**NUMERO_TELEFONO**] mmHg i area calculada de [**NUMERO_TELEFONO**] cm2. Ventricle dret no dilatat, amb insufuciencia tricuspidea lleu amb HTP moderada en repos. Vena cava inferior dilatada. No embassament pericardic.
+4. ISQUEMIA AGUDA de miembros inferiroes en [**FECHAS**]. Oclusión femoropoplítea por FA por lo que se hizo trombectomia femoral. Se complicó con sepsis. y celulitis EID.
+* Dopler de TSA ([**FECHAS**]): dentro de la normalidad.
+5. HIPOTIROIDISMO secundario a amiodarona.
+6. ENFERMEDAD DE PARKINSON. Deterioro cognitivo leve de [**EDAD_SUJETO_ASISTENCIA**] años de evolución.
+* TRATAMIENTO HABITUAL ([**FECHAS**]):
+-Omeprazol [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h
+-Salbutamol [**NUMERO_TELEFONO**] inhalaciones c/[**NUMERO_TELEFONO**]h
+-Acenocumarol según pauta
+-Levotiroxina [**NUMERO_TELEFONO**]mcg/[**NUMERO_TELEFONO**]h
+-Diazepam [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h
+-Citalopram [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h
+-Carbidopa+levodopa [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h
+-Metamizol [**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h
+-Paracetamol [**NUMERO_TELEFONO**]gr c/[**NUMERO_TELEFONO**]h
+-Carmelosa coliro [**NUMERO_TELEFONO**] gota en cada ojo c/[**NUMERO_TELEFONO**]h
+-Sulfato ferroso [**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h
+-Bisoprolol [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h
+-Losartán/hidroclorotiazida [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]mg c/[**NUMERO_TELEFONO**]h.

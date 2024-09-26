@@ -1,0 +1,19 @@
+T5	SINTOMA 65 71	fiebre
+T6	SINTOMA 89 105	malestar general
+T7	SINTOMA 111 117	disnea
+T8	SINTOMA 119 122	tos
+T9	SINTOMA 311 332	deposiciones pastosas
+T10	SINTOMA 372 392	sequedad orofaringea
+T11	SINTOMA 394 402	tos seca
+T12	SINTOMA 405 446	disnea progresiva hasta hacerse de reposo
+T13	SINTOMA 488 499	pico febril
+T14	SINTOMA 517 533	malestar general
+T15	SINTOMA 604 621	clínica miccional
+T16	SINTOMA 623 637	dolor torácico
+T17	SINTOMA 639 652	palpitaciones
+T18	ENFERMEDAD 220 228	COVID-19
+T19	PROCEDIMIENTO 241 252	aislamiento
+T20	HUMANO 173 190	médico de familia
+T21	HUMANO 756 766	familiares
+T22	HUMANO 727 752	contactos epidemiológicos
+T1	SINTOMA 767 775	enfermos

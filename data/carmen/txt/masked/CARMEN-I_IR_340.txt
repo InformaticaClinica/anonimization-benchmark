@@ -1,0 +1,22 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Hematoma retroperitonial (L3/L4)
+
+protocolo:
+TC ABDOMINOPÉLVICO URGENTE: adquisición basal y tras la administración de contraste ev (fase arterial y portal). Se compara con TC previa de hace 2 días.
+
+resultados:
+Estabilidad del tamaño hematoma en el m. ilíaco derecho, que en su margen anterior parece abrirse al abdomen, condicionando una moderada cantidad de hemoperitonel seudocoleccionado, todo ello sin cambios significativos.
+No se observan focos de extravasación de contraste endovenoso.
+Hígado, vía biliar, páncreas, bazo, riñones y glándulas suprarrenales sin alteraciones a destacar. Eje portoesplenomesentérico permeable. No se observan adenopatías retroperitoneales, ilíacas o inguinales de tamaño patológico.
+Sonda vesical.
+Atelectasias bibasales en leve derrame pleural bilateral, sin cambios significativos.
+
+conclusiones:
+No se observan signos radiológicos de sangrado activo. Resto del estudio sin cambios significativos respecto TC pre-embolización.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

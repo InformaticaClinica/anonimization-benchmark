@@ -1,0 +1,21 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+Paciente de 65 años, intubado por covid, con aumento de bilirrubina 3.2 a expensas de BD 2.1 con hb en descenso, solicitamos estudio para descartar patologia hepatica. Elevacion de leucos persistentes sin otro foco.
+Gracias
+Sospecha de colestasis
+
+protocolo:
+ECOGRAFIA ABDOMINAL PORTATIL URGENTE (PACIENTE COVID-19 +).
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar hidrópica, de paredes finas, no litiásica. Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Quistes corticosinusales simples bilaterales.
+No hay líquido libre intra-abdominal.
+Derrame pleural bilateral.

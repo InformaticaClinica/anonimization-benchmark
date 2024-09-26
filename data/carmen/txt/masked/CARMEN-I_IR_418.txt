@@ -1,0 +1,38 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient amb covid-19 ingressada a UCI que presenta D-dimers persistentment elevats.
+Es solicita TC previ a l'alta.
+covid-19
+
+protocolo:
+Angio-TC torácico urgente con energía dual + TC abdominopélvico y de miembros inferiores hasta región poplítea en fase venosa.
+
+resultados:
+TÓRAX:
+Se observa un defecto de repleccón compatible con un tromboembolismo pulmonar (TEP) agudo en la rama lobar para el lóbulo medio. Dilatación del tronco común de la arteria pulmonar, que mide 34 mm. No se observan signos de sobrecarga del ventrículo derecho.
+No se observan ganglios mediastínicos ni axilares de tamaño valorable.
+Leve derrame pericárdico predominantemente posterior de 12 mm de grosor máximo.
+Tubo de drenaje pleural derecho con entrada por el 6º espacio intercostal derecho y extremo distal apical derecho. Mínimo neumotórax anterior derecho.
+Opacidades en vidrio deslustrado de distribución bilateral difusa, consolidaciones posterobasales algunas de ellas con morfología de banda subpleural, engrosamiento difuso de paredes bronquiales y alguna muy discreta bronquioloectasia de tracción, todo en relación con infección por COVID 19.
+Traqueostomía. Sonda nasogástrica con extremo distal. Catéter venoso central con acceso periférico derecho y extremo distal en la vena cava superior.
+ABDOMEN:
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales.
+Vesícula biliar de tamaño normal y paredes finas. Vía biliar no dilatada.
+Vena porta y eje espleno-portal permables.
+Páncreas, bazo y glándulas suprarenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. Quistes simples corticales izquierdos. No se observa dilatación de la vía excretora. Mínima banda de líquido libre perirrenal derecho. Sondaje vesical.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+EEII:
+Defecto de repleción en la vena femoral común derecha, compatible con una trombosis venosa profunda (TVP).
+No se observan otras trombosis venosas profundas.
+
+conclusiones:
+- TEP lobar derecho, sin signs de sobrecarga cardíaca derecha. TVP femoral común derecha.
+- Infección pulmonar por COVID19.
+- Tubo de drenaje pleural derecho, aparentemente bien colocado. Pequeño neumotórax residual derecho.
+
+descrip:
+ANGIO TC PULMONAR

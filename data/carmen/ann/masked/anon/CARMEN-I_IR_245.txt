@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente exfumador con neumonía bilateral por COVID con repercusión respiratoria inicial pero buena evolución clínica posterior, después de tratamiento triple y una dosis de tocilizumab. En la Rx de control se evidencia empeoramiento radiológico aunque el paciente persisnte con buenas saturaciones basales. Solicito TC para especificar afectación pulmonar de cara a tratamiento y actitud a seguir.
+COVID 19
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Enfisema centrolobulillar y paraseptal de predominio en LLSS..
+Opacidades intersticiales y pequeños focos consolidativos con distribución perilobular con ectasias bronquiales, compatible con neumonía COVID en fase de cambios organizativos habituales en la evolución de la enfermedad.
+Antiguas fracturas costales derechas.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

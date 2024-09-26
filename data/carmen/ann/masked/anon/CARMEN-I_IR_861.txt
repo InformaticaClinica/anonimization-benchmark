@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con antecedente de neoplasia de colon intervenida en [**FECHAS**], actualmente ingresado por oclusión por bridas (intestino delgado a altura de mesogastrio) + neumonía por COVID. Del cuadro de oclusión se encuentra menos distendido aunque todavía no hace deposiciones, de momento tratamiento expectante. Respiratoriamente sin cambios, sólo ha pasado de basal a 2L, sin embargo, DD aumenta a 3800.
+Ante necesidad de descoagular (y duda de cirugía próxima), rogamos descartar TEP agudo.
+OCLUSIÓN INTESTINAL POR BRIDA
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; último TC del [**FECHAS**].
+CVC derecho con extremo distal en aurícula derecha.
+Cambios posquirúrgicos secundarios a revascularización coronaria.
+Esternotomía media. Leve dilatación auricular izquierda. Cambios ateromatosos en aorta torácica.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP.
+Tronco de la arteria pulmonar de calibre conservado (29 mm).
+Pequeños ganglios mediastínicos prevasculares, paratraqueales bilaterales e hiliares bilaterales discretamente aumentados de tamaño, de aspecto reactivo. No se visualizan adenopatías mediastínicas, ni en regiones axilares.
+Moderado derrame pleural bilateral, de predominio derecho; sin cambios significativos. Ausencia de derrame pericárdico significativo.
+Cambios posquirúrgicos en el hemitórax derecho en relación con lobectomía superior.
+Marcada mejoría radiológica de la afectación parenquimatosa pulmonar con disminución de las opacidades en vidrio deslutrado y de los focos consolidativos bilaterales, visualizándose ahora ténues opacidades en vidrio deslutrado residuales peribroncovasculares y subpleurales, de predominio en LLSS, y con presencia de dilataciones bronquiales y algunas bandas perilobulares, de predominio en LLII.
+Cambios degenerativos en columna torácica.
+En hemiabdomen superior incluido, se visualiza discreta cantidad de líquido libre perihepático y periesplénico, que ha disminuido respecto TC del [**FECHAS**].
+
+conclusiones:
+- Ausencia de signos de TEP.
+- Marcada mejoría radiológica de la neumonía bilateral por COVID-19, en fase reabsortiva.
+
+descrip:
+ANGIO TC PULMONAR

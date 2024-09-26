@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paceinte de 74 años, con AP: ACXFA y BRIHH. Ingresado por neumonía grave por SARS-CoV-2, actualmente IOT más Shock séptico de foco no aclarado (respiratorio +/- abdominal por perfil colestásico franco en analítica y fiebre) más sospecha de TEP por elevasción aislada de D dímero con necesidades crecientes de FiO2.
+Interesa descartar TEP +/- shock séptico de foco abdominal.
+Muchas gracias.
+NEUMONIA POR SARS-CoV2+SHOCK SEPTICO+ SOSPECHA TEP
+
+protocolo:
+Angio-TC de arterias pulmonares URGENTE
+
+resultados:
+No se observan defectos de replección de las arterias pulmonares ni de sus ramas principales sugestivos de TEP. Tronco de la arteria pulmonar de calibre normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pericárdico.
+Leve derrame pleural izquierdo con atelectasia pasiva basal ipsilateral.
+Opacidades en vidrio deslustrado bilaterales de predominio peribroncovascular y en ambas bases, así como algunas consolidaciones nodulares en relación a neumonía COVID 19. No se observan signos de organización.
+Intubación orotraqueal con extremo distal a 5 cm de la carina.
+Sonda nasogástrica.
+Sin hallazgos destacables en los cortes de hemiabdomen superior incluidos en el estudio.
+
+conclusiones:
+No se observa TEP. Neumonia COVID19 bilateral sin signos de organización.
+
+descrip:
+ANGIO TC PULMONAR

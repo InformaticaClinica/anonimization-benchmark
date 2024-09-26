@@ -1,0 +1,27 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+COVID positivo complicado con CID y embolia pulmonar con infarto pulmonar bilateral. Conectado a ECMO. Trombosis femoral bilateral en TAC previo
+Sangrado en femoral derecha tras canulación.
+Desde hace 2-3 días aumento de diametro en el muslo contralateral (izquierdo). Sin poder progresar en el weaning de la ECMO por susituación pulmonar.
+Solicitamos AngioTAC pulmonar para reevaluación del parénquima pulmonar, TEP y también evaluación abdominal y del muslo izquierdo.
+COMENTADO CON TC TORAX SE ACEPTA PARA TC URGENTE ESTA MAÑANA. INTERESA HACER A LA VEZ TC CEREBRAL.
+Descartar sangrado cerebral por tener coagulopatia y anticoagulación durante 10 dias a dosis plenas con ECMO VV.
+Gracias
+NEUMONIA COVID19
+
+resultados:
+Signos de atrofia cortical.
+No se objetivan complicaciones hemorrágicas agudas a nivel intra- extraaxial.
+Estructuras de la línea media centradas.
+Cisternas basales libres.
+Sistema ventricular de tamaño,morfología y localización conservada.
+Ocupación de los senos paranasales.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC CEREBRAL

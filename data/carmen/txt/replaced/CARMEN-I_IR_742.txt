@@ -1,0 +1,49 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente con antecedentes de transplante renal, LCGCB ingresada por nuemonía grave por COVID.
+Presenta alteración del estado de conciencia con hiperamonemia, sin signos claros de fallo hepático.
+A nivel cerebral descartar HTIC
+A nivel abdominal valoración de pancreas y descartar infiltración hepática esplénica por el linfoma.
+Gracias
+ANTIGENURIA POSITIVA PARA NEUMOCOCO
+
+protocolo:
+TC toraco-abdominal tras administración de contraste e.v. (tórax en fase arerial y abdomen en fase portal)
+
+resultados:
+Estudio comparativo con TC de tórax del 9/10/27 y PET del 23/07/27
+TÓRAX
+Catéter con reservorio subcutáneo port-a-cath en el hemitórax izquierdo con extremo distal en la unión cavoatrial.
+Persiste el TEP segmentario conocido en la pirámide basal derecha. No se observan otros TEP valorables (no es un estudio dirigido) ni tampoco signos de sobrecarga cardíaca derecha.
+No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Extensas opacidades parcheadas en vidrio deslustrado y patrón de empedrado de distribución peribroncovascular, bilateral y periférica que han aumentado en extensión con respecto al estudio previo. Si bien los hallazgos probablemente estén en relación con una neumonía por COVID-19, no se pueden descartar otras causas infecciosas como un pneumocystis o un CMV.
+No se observa derrame pleural ni pericárdico.
+ABDOMEN
+SNG con extremo distal en antro pilórico.
+Cambios posquirúrgicos en la región inguinal derecha.
+Catéter venoso central con acceso femoral izquierdo.
+Trombosis parcial en vena ilíaca común derecha y vena ilíaca externa derecha.
+Aorta, tronco celíaco y arteria mesentérica superior permeables.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Persisten algunas imágenes nodulares mal definidas en la grasa omental de ambos flancos, mesogastrio e hipogastrio, sin cambios significativos respecto al estudio previo. Escasas bandas de líquido libre en pelvis.
+No se observan colecciones intraabdominales.
+Hígado de tamaño y morfología normal, sin lesiones focales.
+Vena porta y eje espleno-mesentérico permeables.
+Vesícula y vías biliares, páncreas, bazo y glándulas suprarrenales de tamaño y morfología sin alteraciones.
+Riñones propios atróficos. Injerto renal en la fosa ilíaca derecha atrófico. Injerto renal izquierdo de tamaño, morfología y captación conservada, con múltiples quistes corticales simples. Anastomosis vasculares con los vasos ilíacos externos izquierdos, permeables. No se observa dilatación de la vía urinaria.
+Sondaje vesical.
+
+conclusiones:
+- No se observan signos de patología hepática ni esplénica valorables por imagen.
+- Extensas opacidades pulmonares bilaterales, más evidentes que en el estudio previo. Probablemente guarden relación con la neumonía por COVID-19 de la paciente, sin embargo otras causas podrían incluir una infección por pneumocystis o por CMV.
+- Trombosis parcial de la vena ilíaca derecha. Persistencia del TEP segmentario basal derecho.
+- Pequeñas imágenes omentales inespecíficas y sin cambios (no metabólicas en el PET previo), posiblemente residuales.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORAX

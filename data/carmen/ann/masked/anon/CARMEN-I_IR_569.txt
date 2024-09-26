@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+DESCARTAR NEUMONÍA ORGANIZATIVA EN PACIENTE CON COVID19 CON DIFICULTAD PARA RETIRAR OXIGENOTERAPIA TRAS 3 SEMANAS DESDE EL INICIO DE SINTOMATOLOGÍA.
+CRISIS HIPERTENSIVA.
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  de alta resolución.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Severas calcificcaiones coronarias
+No se observa derrame pleural ni pericárdico.
+Extensa afectación pulmonar con opacidades en vidrio delsustrado de predominio peribroncovascular en LSS y bandas parenquimatosa subpleurales con arcadas perilobulares sugestivo de neumonia COVID con cambios de neumonia organizativa.
+Hernia de hiato.
+
+conclusiones:
+Neumonia COVID con cambios de neumonia organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+VALORAR NOC
+
+protocolo:
+TC TÓRAX URGENTE: adquisicíon basal.
+
+resultados:
+Calcificaciones coronarias difusas, en anillo aórtico y válvula mitral.
+No se observan adenopatías axilares. Adenopatías mediastínicas calcificadas (paratraqueal derecho).
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos en vidrio deslustrado bilaterales y con distribución difusa, de predominio en lóbulos superiorers, que se acompañan de dilataciones bronquiolares y engrosamientos septales finos (patrón en empedrado). Pérdida de volumen más marcada en pulmón izquierdo (+- parálisis diafragmática ya conocida?). Signos incipientes de neumonía organizativa.
+Pequeño bazo accesorio de 7 mm adyacente a polo superior esplénico.
+Lesiones óseas esclerosas en esternón, probable costal y vertebrales, en relación a M1 prostáticas ya conocidas. Aplastamiento vertebral del cuerpo de T11 con mínima retropulsión del muro posterior (2 mm).
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

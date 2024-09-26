@@ -1,0 +1,38 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Varón intervenido de resección intestinal y de CD en dos tiempos por trombosis de arteria mesentérica, portador de stent, que presenta anemización y aumento de RFA. Sospecha de hematoma en pared abdominal por exploración.
+Isquèmia focal (segmentària) aguda (reversible) de part no especificada de l'intestí
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en condiciones basales y luego en fase arterial, portal y equilibrio, tras administrar contraste iv. URGENTE
+
+resultados:
+Se compara con TC abdominal previo del 20/01/2019 (Historia clínica electrónica).
+Respecto a TC previo se observa:
+- Stent en el origen de la arteria mesentérica superior, permeable.
+Cambios posquirúrgicos secundarios a hemicolectomía derecha + ileostomía terminal en flanco derecho + resecciones segmentarias de yeyuno y colon transverso + colocación de malla supraaponeurótica.
+- A nivel de yeyuno proximal, se observa un segmento de unos 3 cm de longitud con moderado engrosamiento mural y captación parcheada respecto al resto de las asas de intestino delgado. Resto de las asas de colon e intestino delgado con correcta captación parietal y de calibre normal.
+Discreta cantidad de líquido libre de distribución difusa. No se observa neumoperitoneo ni colecciones.
+- Hematoma de pared abdominal anterior de 28x110x270 mm (APxTxCC), con aire en su interior en probable relación con intervención quirúrgica reciente. Se identifica una pequeña imagen nodular de 5 mm en el espesor de la vaina de los rectos derecha, inmediatamente caudal al sitio de la ileostomía, que se mantiene estable en tamaño y sigue el pool vascular en las fases dinámicas. Es sugestivo de pseudoaneurisma a este nivel.
+- Riñones de tamaño normal. No se observa dilatación de la vía excretora. Quistes simples corticales bilaterales. Infartos renal en polo inferior del RD. otra imagen de similares características en valva anterior del tercio inferior del RI. Arterias renales permeables, sin estenosis significativa. TC y AMI permeables.
+Resto del TC, sin cambios significativos:
+Hígado de tamaño y morfología normal, con esteatosis parcheada subcapsular adyacente a ligamento falciforme. Lesiones hipodensas milimétricas, sugestivas de quistes simples. Sin otras lesiones focales evidentes.
+Eje porto-espleno-mesentérico permeable.
+Bazo, páncreas, glándulas suprarrenales, vesícula y vías biliares sin alteraciones.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+En los cortes de tórax, imágenes calcificadas bibasales de predominio derecho (talcaje previo?). Atelectasias bibasales. Leve derrame pleural izquierdo.
+Sonda gástrica con extremo distal en región en primera porción del duodeno.
+
+conclusiones:
+Respecto a TC previo se observa:
+Segmento de unos 3 cm de longitud de yeyuno proximal con captación parietal heterogénea respecto al resto de las asas de intestino delgado.
+Que podría estar en relación a zona focal de isquemia. Discreta cantidad de líquido libre de distribución difusa. No se observa neumoperitoneo ni colecciones.
+Hematoma de pared abdominal anterior con aire en su interior en probable relación con intervención quirúrgica reciente. Imagen sugestiva de pseudoaneurisma de 5mm inmediatamente caudal a la ileostomía.
+Infartos renales bilaterales de nueva aparición.
+Resto del TC, sin cambios significativos.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

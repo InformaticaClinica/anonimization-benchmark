@@ -1,0 +1,20 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con AP de EM que ingresa por COVID-19, presenta mala evolución con aumento de RFA y precisa altos requerimientos de oxígeno.
+Ruego valoración para descartar NOC u otras complicaciones. Gracias
+INFECCIÓN COVID 19
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+conclusiones:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Patrón en empedrado (reticular y vidrio deslustrado) bilateral con afectación predominante en los segmentos posteriores de LLSS y LLII.
+Imagenes en halo invertido y bandas lineales bibasales. Todo ello compatible con infección por covid 19 y signos de neumopatia organizativa.
+
+descrip:
+TC TORAX

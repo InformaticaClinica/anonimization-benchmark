@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+CANDIDEMIA
+
+resultados:
+Aumento de densidad de la consolidación basal derecha. También llama la atención una mayor dilatación del tronco de la arteria pulmonar (identificado en el controno mediastínico izquierdo) por lo que recomiendo valoración con angio-TC torácico para evaluar la existencia de hipertensión pulmonar (TEP?).
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

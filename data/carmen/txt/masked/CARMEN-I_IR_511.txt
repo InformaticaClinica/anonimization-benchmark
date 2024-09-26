@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Realizar mañana, gracias
+NEUMONIA COVID-19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+Exploración subóptima por inspiración insuficiente, que no permite valorar opacidades ténues y que dificulta la comparación con la RX previa de hace dos dias. No se identifican imágenes de consolidación.
+Pinzamiento del seno costofrénico izquierdo.
+
+descrip:
+RX  PORTATIL  TORAX

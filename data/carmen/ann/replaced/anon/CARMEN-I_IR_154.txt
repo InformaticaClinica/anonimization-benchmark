@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente COVID19 de 51a, neumonía bilateral + TEP proximal que requirió fibrinolisis por inestabilidad hemodinámica. 3 ciclos de prono, mejoría respiratoria pero persistencia de oxigenación subóptima y febrícula persistente. Colonizada por S. aureus en vía aérea. Descartar complicación infeccionsa intraparenquimatosa / organización. Control de restos de TEP.
+COVID19
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Se compara con estudios previos, última TC del 06/04/2022
+TOT con extremo distal a 5 cm de carina. Vía central yugular derecha con extremo distal en unión atriocaval. SNG con extremo distal no incluido en el estudio.
+Estabilidad de los múltiples defectos de repleción compatibles con TEP agudo descritos en estudios previos. Actualmente, afectan ramas lobares derechas y rama segmentarias de LSI y LII. El tronco de la arteria pulmoanr persiste aumentado y se asocia a dilatació nde cavidades cardíacas derechas y a flujo retrógrado de contraste e.v. hacia VCI y venas suprahepáticas. Resolución del neumotórax apical derecho. Estos signos sugieren hipertensión pulmonar. Las opacidades consolidativas localizadas predominantemente en LLII y sugestivas de infartos pulmonares en evolución han disminuido de extensión.
+Globalmente, el neumomediastino y enfisema subcutáneo descrito en estudio previo han disminuido en extensión. Persiste neumomediastino en mediastino prevascular y paravertebral periesofágico así como alguans burbujas de aire extreperitoneal. En segmentos apicales de LSD y LSI persisten imágenes de enfisema intersticial. Estos signos son altamente sugestivos de barotrauma.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Destaca aparición de múltiples opacidades consolidativas nodulares en LSD y LSI asociado a algunas impactaciones mucosas y engrosamientos parietales bronquiales. Estos hallazgos son poco frecuentes en la evolución de neumonías por COVID-19 y son sugestivos de proceso bronconeumónico subyacente.
+Cambios en la configuración de la afectación parenquimatosa por COVID-19 valorada en estudio previo. Las área de vidrio deslustrado bilateral y multilobar han disminuido en densidad y extensión y se asocian a disminución de los engrosamientos septales. Persisten múltiples dilataciones bronquiales de predominio bibasal.
+Lámina de derrame pleural derecho. Ausencia de derrame pleural izquierdo y pericárdico.
+
+conclusiones:
+Respecto a estudio previo, destaca:
+- Estabilidad del TEP agudo conocido asociado a signos de hipertensión pulmonar.
+- Neumonía bilateral por COVID-19 en fase inflamatoria sin signos de organización.
+- Aparición de opacidades consolidativas nodulares en ambos LLSS y de algunas impactaciones mucosas , valorar sobreinfección bronconeumónica.
+- Globalmente, el neumomediastino y enfisema subcutáneo (probablemente por barotrauma) descrito en estudio previo ha disminuido en extensión.
+Persisten signos de enfisema intersticial en ambos LLSS.
+
+descrip:
+ANGIO TC PULMONAR

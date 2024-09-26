@@ -1,0 +1,23 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**], ingresada per pneumònia per covid 19 amb empitjorament clínic i gasomètric de 24h d'evolució. Agrairiem TC tòrax per a valoració, gràcies!!
+FIBRILACIÓN AURICULAR PAROXÍSTICA DE DEBUT
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades consolidativas y en vidrio deslustrado con zonas de empedrado de distribución periférica y peribroncovascular compatibl econ neumonía covid con cambios organizativos incipientes,
+Nódulo mamario irraegular de 14mm de diámetro en cuadrantes externos de MI, Se aconseja mamoografía.
+Hernia de hiato.
+
+conclusiones:
+vr
+
+descrip:
+TC TORAX

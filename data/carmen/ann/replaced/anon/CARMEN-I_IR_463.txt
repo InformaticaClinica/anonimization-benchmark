@@ -1,0 +1,22 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Mujer de 17 años, ingresada en contexto de LES, glomerulonefritis lúpica, TVP bilateral extensa en contexto de lo anterior. Debuta con colestasis disociada sin causa tóxico-metabólica actual. Solicito estudio. Gracias
+INFECCIÓN SARS-CoV-2
+
+protocolo:
+ECOGRAFIA DOPPLER ABDOMINAL (se realiza con protocolo de protección para COVID-19).
+
+conclusiones:
+Hígado de tamaño levemente aumentado, con ecoestructura mínimamente heterogénea y aumento difuso de su ecogenicidad, en relación a esteatosis leve. El LHI es de aspecto algo atrófico. Imagen hiperecogénica de 34 mm adyacente al lig. falciforme que probablemente corresponda a esteaotosis focal.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+V. Porta permeable de calibre normal, con flujo hepatopetal a velocidades normales.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

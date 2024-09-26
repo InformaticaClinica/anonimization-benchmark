@@ -1,0 +1,24 @@
+
+prueba:
+TC PUNCION/ BIOPSIA CRANEOFACIAL/COLUMNA
+
+clinica:
+COMENTADO POR TELÉFONO.
+Paciente con antecedente de Iq por estenosis de canal lumbar con artrodesis, tornillos de titanio, cromo, cobalto. Sospecha de aflojamiento, proceso infeccioso a descartar.
+Comentado con traumatología y están de acuerdo.
+dolor lumbar
+
+protocolo:
+PAAF lumbar dirigida por TC.
+
+resultados:
+Se realiza PAAF de partes blandas a nivel L1-2 obteniendo material que se remite a citología y microbiología. No surgen complicaciones durante ni despues del procedimiento.
+
+conclusiones:
+PAAF lumbar.
+
+descrip:
+TC COLUMNA LUMBAR TRAUMA, INFECCION, TUMOR
+
+descrip:
+TC PUNCION/ BIOPSIA CRANEOFACIAL/COLUMNA

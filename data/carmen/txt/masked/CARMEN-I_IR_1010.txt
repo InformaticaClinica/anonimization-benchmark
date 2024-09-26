@@ -1,0 +1,24 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] amb possible encefalitis per COVID-19 (per clínica i LCR amb pleocitosi limfocitària compatibles)
+meningoencefalitis por covid19?
+
+protocolo:
+Estudio basal y tras administrar contraste de gadolinio
+
+resultados:
+Se observa  correcta diferenciación entre sustancia blacna y gris. No se observan alteraciones de señal en sustancia blanca ni gris, ni lesiones ocupantes de espacio.
+Ventriculos de tamaño normal.
+No se observan signos de edema cerebral.
+Tras administra contraste ev, no se objetivan captaciones anormales- Senos venosos permeables.
+Leves engrosamientos mucosos y ocupación mucosa de senos frontal.
+etmoidal y maxilar derecho
+
+conclusiones:
+Estudio cerebral que no muestra alteraciones destacables.
+
+descrip:
+RM CEREBRAL

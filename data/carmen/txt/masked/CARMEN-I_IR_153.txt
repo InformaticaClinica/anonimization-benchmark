@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+NEUMONÍA BILATERAL POR COVID - 19
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos consolidativos y vidrio deslustrado subpleural bilaterales y con distribución periférica y de predominio en lóbulos inferiores, que se acompañan de dilataciones bronquiolares y áreas de distorsión parenquimatosa, todo ello compatible con infección pulmonar por COVID-19 con patrón de neumonía organizativa y tendencia a la fibrosis.
+Bazo accesorio (8 mm) adyacente a polo inferior esplénico. Quistes hepáticos en LHD.
+
+conclusiones:
+Sin signos de TEP agudo.
+Hallazgos compatibles con neumonía bilateral por COVID-19 con signos de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

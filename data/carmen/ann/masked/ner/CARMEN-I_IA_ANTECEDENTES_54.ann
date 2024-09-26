@@ -1,0 +1,7 @@
+T4	ENFERMEDAD 174 209	Infecciones urinarias de repetición
+T5	ENFERMEDAD 287 306	Bursitis de tobillo
+T6	ENFERMEDAD 92 108	alergias médicas
+T7	ENFERMEDAD 213 239	Prolapaso de vávula mitral
+T8	ENFERMEDAD 345 363	Lumbalgía mecánica
+T9	PROCEDIMIENTO 319 341	tratamiento análegsico
+T11	HUMANO 26 54	[**SEXO_SUJETO_ASISTENCIA**]

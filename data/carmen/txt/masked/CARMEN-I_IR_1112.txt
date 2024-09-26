@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA INFECCIÓN COVID-19
+
+protocolo:
+RX TÓRAX PORTATIL
+
+conclusiones:
+Opacidades alveolo-intersticiales que afectan a la periferia de ambos pulmones (campos superiores, medios e inferiores), siendo de mayor extensión que en RX previa del [**FECHAS**] (realizada en [**CENTRO_SALUD**]). No se observan claras consolidaciones. No identifico otros hallazgos relevantes.
+
+descrip:
+RX  PORTATIL  TORAX

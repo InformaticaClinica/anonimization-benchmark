@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+control  colocacion PICc ETI.  (posible covid)
+BACTERIEMIA S.AUREUS
+
+conclusiones:
+Signos de EPOC.
+PICC en ESD con extremo distal en VCS.
+Sin otras alteraciones radiológicas pleuro- parenquimatosas ni mediastínicas significativas.
+
+descrip:
+RX  PORTATIL  TORAX

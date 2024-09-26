@@ -1,0 +1,69 @@
+T21	ENFERMEDAD 42 57	alérgica a AINE
+T22	ENFERMEDAD 377 387	hemoptisis
+T23	ENFERMEDAD 428 445	nódulos cavitados
+T24	ENFERMEDAD 563 599	Bronquiolitis infecciosa en LSD y LM
+T25	ENFERMEDAD 896 932	Bronquiolitis infecciosa en LSD y LM
+T26	ENFERMEDAD 2266 2287	Neumonía necrotizante
+T27	ENFERMEDAD 2290 2333	nódulos infecciosos pulmonares en LII y LID
+T28	ENFERMEDAD 2401 2425	bronquiolitis infecciosa
+T29	ENFERMEDAD 2664 2673	carcinoma
+T30	FARMACO 2868 2877	Omeprazol
+T31	FARMACO 2921 2932	Calcifediol
+T33	HUMANO 25 30	Mujer
+T34	HUMANO 109 117	Jubilada
+T35	HUMANO 229 236	sobrino
+T36	PROCEDIMIENTO 53 57	AINE
+T37	PROCEDIMIENTO 476 488	TAC de torax
+T38	PROCEDIMIENTO 791 807	drenaje torácico
+T39	PROCEDIMIENTO 809 821	TAC de torax
+T40	PROCEDIMIENTO 1351 1363	Eco cervical
+T41	PROCEDIMIENTO 1545 1553	ECO-PAAF
+T42	PROCEDIMIENTO 1768 1774	PET-TC
+T43	PROCEDIMIENTO 2532 2534	EF
+T44	PROCEDIMIENTO 2625 2646	biopsia de orofaringe
+T45	PROCEDIMIENTO 2696 2698	QT
+T46	SINTOMA 308 348	colonización por Pseudomonas aeruguinosa
+T47	SINTOMA 377 387	hemoptisis
+T48	ENFERMEDAD 390 411	episodios infecciosos
+T49	SINTOMA 428 445	nódulos cavitados
+T50	SINTOMA 1002 1029	Cavitación de ambos nódulos
+T51	SINTOMA 1116 1128	OSTEOPOROSIS
+T52	PROCEDIMIENTO 1184 1192	Exéresis
+T53	SINTOMA 1301 1326	tumoración laterocervical
+T54	SINTOMA 2543 2563	positivo en amígdala
+T55	SPECIES 183 191	animales
+T56	SPECIES 325 348	Pseudomonas aeruguinosa
+T57	ENFERMEDAD 60 87	intolerancia a la cortisona
+T58	FARMACO 78 87	cortisona
+T59	SINTOMA 162 177	fumadora pasiva
+T60	ENFERMEDAD 270 285	BRONQUIECTASIAS
+T61	HUMANO 463 466	Dra
+T62	ENFERMEDAD 500 561	Bronquiectasias irregulares con taponamientos endobronquiales
+T63	ENFERMEDAD 601 619	Atelectasia de LII
+T64	ENFERMEDAD 669 716	Cavitación de ambos nódulos en lingula y en LSD
+T65	ENFERMEDAD 721 755	NEUMONÍA CON DERRAME METANEUMÓNICO
+T66	ENFERMEDAD 833 894	Bronquiectasias irregulares con taponamientos endobronquiales
+T67	ENFERMEDAD 934 952	Atelectasia de LII
+T68	ENFERMEDAD 1002 1029	Cavitación de ambos nódulos
+T69	ENFERMEDAD 1133 1182	MELANOMA MALIGNO in situ supraescapular izquierdo
+T70	ENFERMEDAD 1242 1274	CARCINOMA ESCAMOSO DE OROFARINGE
+T71	SINTOMA 1281 1287	T1N1M0
+T72	ENFERMEDAD 1365 1379	Lesión tumoral
+T73	ENFERMEDAD 1512 1518	lesión
+T74	PROCEDIMIENTO 1688 1692	paaf
+T75	ENFERMEDAD 1698 1723	Metásasis de Ca. escamoso
+T77	ENFERMEDAD 1566 1655	Mazacote adenopatico de 25x20 mm a nivel del tercio superior de la cadena yugular interna
+T78	ENFERMEDAD 1743 1764	primariode Orofaringe
+T79	ENFERMEDAD 1843 1915	EEC infiltrando planos grasos adyacentes incluyendo a la grasasubcutánea
+T80	ENFERMEDAD 1787 1807	Mazacote adenopático
+T81	ENFERMEDAD 2033 2102	Adenopatías satélites y en Vb homolaterales así com una retrofaríngea
+T82	ENFERMEDAD 2117 2137	mazacote adenopático
+T83	SINTOMA 2588 2592	T1N1
+T84	HUMANO 2820 2823	Dra
+T85	HUMANO 2805 2808	Dra
+T86	PROCEDIMIENTO 2691 2693	RT
+T87	FARMACO 2700 2704	CDDP
+T88	FARMACO 2891 2897	Rilast
+T89	FARMACO 2958 2967	Denosumal
+T90	ENFERMEDAD 2019 2031	infiltración
+T91	ENFERMEDAD 1993 1999	lesión

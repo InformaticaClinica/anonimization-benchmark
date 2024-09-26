@@ -1,0 +1,37 @@
+Antecedentes personales:
+
+*ANTECEDENTES PERSONALES: 
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], ex fumador, sin alergias médicas conocidas.
+
+*ANTECEDENTES PATOLOGICOS
+1.- PERIAORTITIS/AORTITIS CRONICA CON COMPROMISO CORONARIO, ESTENOSIS DE AORTA ABDOMINAL-ARTERIAS ILIACAS Y ANEURISMA DE AORTA TORÁCICA.
+Presentación inicial como fibrosis retroperitoneal (TAC abdominal 05/100), con cuadro de dolor abdominal, estenosis de aorta distal e ilíacas primitivas, que precisó ATP+stents aorto-ilíacos bilaterales, conductos/vía testicular. Se inició tratamiento con prednisona 60 mg con mejoría inicial, desde entonces con corticoterapia, con requerimientos de prednisona igual o superiores a 10 mg/d. En marzo-12 se disminuyó la dosis a 7.5-5 mg/d. ANCA negativo desde [**FECHAS**](x5).
+En controles en [**INSTITUCION**], que mostraban estabilidad clínica y analítica (VSG normal), se realizaron angioTC de aorta y TSA, en agosto y marzo-12, respectivamente, en los que detectó engrosamiento claro de la pared aórtica a todos los niveles con signos de aortitis, aneurisma de aorta ascendente de 54 mm de diámetro y afectación de arterias coronarias por engrosamiento de pared. Mientras seguía pauta descendente de prednisona, con 5 mg/d, presentó empeoramiento de cuadro anginoso y de la claudicación intermitente, motivo por el que en marzo- 12 consultó en el [**INSTITUCION**] donde ingresó se realizó PET-TC aórtico que mostró la aortitis previa con captación evidente en aorta ascendente hasta cayado. Se realizaron además:
+
+# A) Eco-Doppler TSA: ejes carotideos sin placas ni estenosis. Flujo preservado en la aa carotidas y vertebrales. Circulación anterior y posterior preservada. Temporales no se observa el signo del halo.  
+# B) Ecocardio: Engrosamiento de la pared Ao concentrico desde la raiz hasta el cayado medio. Diametro Ao 53 mm. VI con funcion sistolica ligeramente deprimida con FEVI 52% hipoquinesia apical y anteroseptal media. Disfunción diastólica tipo I, IAo ligera. Se observa engrosamiento de la pared Ao desde la raiz hasta el 1/3 medio del cayado Ao. Podría corresponder a hematoma intramural Vs Aortitis.
+# C) Gammagrafía ósea: sin lesiones que sugieran la presencia de Erdheim-Chester. Las lesiones descritas son caracteristicas artrodegenerativas a nivel de la columna y acromioclavicular.
+# D) Gammagrafía Salival: compatible con Sd. Seco Estadio III.
+# E) Eco-Escroto: pequeño hidrocele izquierdo sin imagen tumoral.
+# F) AngioTC Torax: Dilatación de la Ao toracica ascendente hasta el istmo Ao alcanzando un diametro max de 54 mm en el plano axial descrito.
+# G) RM Ao: dilatación de la Ao ascendente con engrosamiento mural concentrico que por su distribución y señal de RM corresponda a cambios secundarios a Enf. Inflamatoria crónica.
+# H) RM Cerebral: normal.
+# I) Biopsia Glandula Salivares: normales.
+# J) PET: presencia de aortitis activa que afecta a la Ao ascendente hasta cayado.
+
+En abril-16, se aumenta la dosis de prednisona a 60 mg/d ([**HOSPITAL**]) en mayo-16 ingresó en [**CENTRO_SALUD**] para la realización de biopsia de arteria temporal, que resultó normal. Es dado de alta el día 3/06, continua pauta descendente de prednisona (inicial de 50 mg/d) y se inicia metotrexato a dosis de 17,5 mg/semana, que se aumente hasta 22,5mg/s con buena tolerancia clínica y analítica. También se constata una estabilización de la claudicación intermitente y mejoría de la clínica anginosa.
+
+Fue valorado por [**NOMBRE_PERSONAL_SANITARIO**] en [**INSTITUCION**], quien valoró una posible intervención siempre el diámetro aórtico exceda los 60 mm o se produzca yn crecimiento rápido. Posteriormente (7/3/16) en un TC de aorta (sin estudio angio-coronarion), se apreció una disminución del diámetro de la aorta ascendente de 54 a 48 mm (tras 2 meses de tratamiento intensivo) .
+
+2.- CARDIOPATÍA ISQUÉMICA. AFECTACIÓN DE LAS ARTERIAS CORONARIAS POR LA VASCULITIS AÓRTICA. Se inició como angor progresivo en nov-06. Prueba de esfuerzo clinica y ECG positiva. Colocación de stent CD, 2 DA seguido por [**NOMBRE_PERSONAL_SANITARIO**] ([**TERRITORIO**]). SPECT miocárdico en Febrero de [**FECHAS**]: realizado por dolor torácico. Imágenes sugestivas de isquemia anterior y apical ligera con necrosis apical e infero apical. FEVI 57%. Angor de esfuerzo que se ha intensificado en los últimos meses.
+
+3. CLAUDICACIÓN INTERMITENTE POR AFECTACIÓN VASCULÍTICA/PERIVASCULÍTICA/FIBRÓTICA CON ESTENOSIS DE AORTA ABDOMINAL Y AMBAS ILIACAS. Portador de STENT aorto-iliaco bilateral desde [**FECHAS**].
+Mayor afectación de EID. En últimos controles angio-TC (marzo-12) se aprecia trombosis parcial de la rama ilíaca derecha del stent (a nivel de la confluencia con la izquierda, con un segmento corto ocluido que se repermeabiliza de forma correcta con permeabilidad distal de ambas femorales comunes, y circulación colateral abdominal secundaria).
+Tratamiento con doble antiagregación. Pendiente de valoración por [**NOMBRE_PERSONAL_SANITARIO**] ([**INSTITUCION**])
+
+4.- OSTEOPENIA Densitometría (marzo-12): T -1.1: osteopenia. Tto profiláctico  
+5.- Dudodenitis erosiva (FG [**FECHAS**]) HDA 96
+6.- Vitíligo de inicio reciente (sus 4 primas y su [**FAMILIARES_SUJETO_ASISTENCIA**] vitíligo)
+7.- CIRUGÍAS: Apendicectomía. Intervenido de fisura anal.
+
+*MEDICACIÓN HABITUAL (actualizada [**FECHAS**]): Prednisona 5mg/24h, Metoject 15mg/semanal, Lederfolin 15mg/jueves, Fosamax semanal, Hemovás 600mg/12H, Clopidogrel 75mg/24h, Enalapril 5mg/24H, Adiro 100mg/24h, Carvedilol 3.13 mg/12h, Omeprazol 20mg/24H, Uniket retard 5mg/24h, Calcio, Atorvastatina 40mg/24H, furosemida 40mg

@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Descaratr encefalopatia anóxica.
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] SDRA por COVID-19. Complicado con NO y TEP. Presenta sangrado, shock hipovelemico y paracada cardio respiratoria. Tras más de una hora de respiración en gasping presneta signos de encefalopatia anoxica. No reflejos de tronco, pupilas midriaticas arrecativas.
+Ruego TC craneal
+Gracias
+COVID+
+
+protocolo:
+TC craneal basal URGENTE
+
+conclusiones:
+Se compara con TC del [**FECHAS**].
+Edema generalizado, con obliteración de surcos de ambas convexidades y del cerebelo, obliteración de cisternas de la base; estos hallazgos son sugestivos de encefalopatía hipóxico isquémica. Contaminación hemática tetraventricular, aumento de las dimensiones del IV ventrículo.
+Hiperintensidad relativa de los tálamos. Todos estos hallazgos son de nueva aparición respecto a TC previo.
+Estructuras de la línea media centradas.
+
+descrip:
+TC CEREBRAL

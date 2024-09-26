@@ -1,0 +1,27 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con AP FA y endoprotesis Ao en tto xarelto. En contexto de NAC presenta caida de sus propios pies y TCE. Interesa TC craneal. Gracias
+TCE POR CAÍDA DE SU PROPIO PIE.
+
+protocolo:
+TC craneal basal urgente.
+
+resultados:
+Se oberva una imagen basalmente hiperdensa, de morfología convexa en el aspecto lateral izquierdo de la hoz cerebral posterior, adyacente a la biburcación del trentorio, de 8 x 10 mm de diámetro (LL x CC). Tras la admiinistración de contraste muestra realce de forma homogénea, sugestivo de que se trate de un meningioma.
+Hematoma de partes blandas extracraneales en la región frontal derecha.
+No se observan signos de hemorragia aguda intracraneal. Tampoco se evidencian trazos de fractura ósea.
+Disminución global del volumen cerebral con leve prominencia secundaria del sistema ventricular, en relación con cambios involutivos.
+Estructuras de la línea media centradas.
+Cisternas de la base no colapsadas.
+Ocupación parcial de seno maxilar izquierdo de aspecto mucoso.
+Ensanchamiento escleroso de la rama mandibular izquierda, que probablemente corresponda a una displasia fibrosa.
+
+conclusiones:
+Hallazgos sugestivos de meningioma en hoz cerebral posterior izquierda.
+No se observan signos de patología traumática aguda intracraneal.
+
+descrip:
+TC CEREBRAL

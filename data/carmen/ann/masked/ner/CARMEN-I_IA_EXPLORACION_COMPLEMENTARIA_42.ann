@@ -1,0 +1,28 @@
+T2	PROCEDIMIENTO 15 28	TAC ABDOMINAL
+T3	ENFERMEDAD 366 376	neumatosis
+T4	ENFERMEDAD 414 462	proceso neoplásico primario de colon descendente
+T5	ENFERMEDAD 468 499	obstrucción intestinal mecánica
+T6	ENFERMEDAD 523 561	neumatosis en ciego y colon ascendente
+T7	ENFERMEDAD 1130 1138	nefritis
+T8	ENFERMEDAD 1236 1276	adenopatías retroperitoneales ni iliacas
+T9	ENFERMEDAD 1424 1472	proceso neoplásico primario de colon descendente
+T10	ENFERMEDAD 1478 1509	obstrucción intestinal mecánica
+T11	ENFERMEDAD 1533 1571	neumatosis en ciego y colon ascendente
+T12	ENFERMEDAD 1704 1722	Lesiones hepáticas
+T13	SINTOMA 43 115	engrosamiento hipercaptante de un segmento de 25 mm en colon descendente
+T14	ENFERMEDAD 166 213	dilatación de asas de colon e intestino delgado
+T15	ENFERMEDAD 248 268	dilatación del ciego
+T16	SINTOMA 293 350	imágenes aéreas en la pared del ciego y colon ascdentente
+T17	SINTOMA 694 732	Hígado de morfología y tamaño normales
+T18	SINTOMA 577 664	díquido libre perihepático, periesplénico, en ambas gotieras parietocólicas y en pélvis
+T19	ENFERMEDAD 789 843	lesiones focales hipodensas en ambos lóbulos hepáticos
+T20	ENFERMEDAD 976 1017	dilatación de la vía biliar intrahepática
+T21	SINTOMA 1587 1674	díquido libre perihepático, periesplénico, en ambas gotieras parietocólicas y en pélvis
+T22	PROCEDIMIENTO 1152 1154	TC
+T23	ENFERMEDAD 920 942	Dilatación de colédoco
+T24	SINTOMA 1019 1100	Bazo, páncreas, glándulas suprarrenales y riñones sin alteraciones significativas
+T25	SINTOMA 1180 1219	Eje porto-espleno-mesentérico permeable
+T26	SINTOMA 1319 1365	tórax, no se observan hallazgos significativos
+T27	ENFERMEDAD 1737 1767	M1s en ambos lóbulos hepáticos
+T28	SINTOMA 681 692	colecciones
+T29	SINTOMA 1691 1702	colecciones

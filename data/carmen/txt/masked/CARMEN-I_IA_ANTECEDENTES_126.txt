@@ -1,0 +1,10 @@
+
+Paciente de [**EDAD_SUJETO_ASISTENCIA**]. Sin alergias conocidas. Niega tabaquismo y enolismo.
+1. HIPERTENSIÓN ARTERIAL en tratamiento con lercanidipino 20 mg/día y candesartan/hidroclorotiazida 32/25mg/día.
+2. DIABETES MELLITUS TIPO 2 en tratamiento con glicazida 30 mg/día, sitagliptina/metformina 50/1000 mg/día
+3. DISLIPEMIA en tratamiento con simvastatina 40 mg/día.
+4. EPOC en tratamiento con symbicort, salbutamol
+5. HIPOTIROIDISMO en tratamiento sustitutivo con levotiroxina 75 mcg/día
+6. IQ: hernia umbilical, colecistectomía, hallux valgus.
+MEDICACIÓN HABITUAL: symbicort, omeprazol 20 mg/día, salbutamol, adiro 100mg/día, glicazida 30 mg/día, sitagliptina/metformina 50/1000 mg/día, simvastatina 40 mg/día, levotiroxina 75 mcg/día, paracetamol/tramadol 37.5/325, lercanidipino 20 mg/día, candesartan/hidroclorotiazida 32/25mg/día.
+ 

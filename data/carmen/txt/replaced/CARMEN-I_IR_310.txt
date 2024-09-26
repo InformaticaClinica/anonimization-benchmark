@@ -1,0 +1,39 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente de 77 años con antecedesntes de HTA, DM2, DL, EPOC, cirrosis por NASH, IRC en hemodiálisis. Ingresado desde el día 24/12 por coronavirus, actualmente parece resuelto, eupneico en basal.
+Desde el día 11/4 realiza fiebre sin claro foco (únicamente k.pneumonaie en orina, multiS) por lo que se pauta mero y teico. El día 17/1, empieza de nuevo con fiebre a pesar de tratamiento antibiótico. Como foco, únicamente presenta diarras abundantes con toxina de clostridium negativa. Abdomen globuloso, con timpanismo y con dolor difuso, sin peritonismo.
+
+protocolo:
+TC ABDOMINOPÉLVICO URGENTE: adquisición tras la administración de contraste ev (fase portal). Se compara con TC previa de 19/9/2008 de otro hospital (Historia clínica electrónica).
+
+resultados:
+Nefrectomía izquierda con discreto aumento de densidad con calcificaciones en el lecho quirúrgico.
+Riñón derecho de tamaño y morfología normal con hipocaptación difusa relativa en relación a ERC. Pequeños quistes corticales. No se observan litiasis renales ni ureterales.
+Leve dilatación de la vía excretora hasta el cruce con los vasos iliacos con normalización progresiva de calibre. Discreta hipercaptación del tercio ureteral distal, segmentario del tercio medio y de pelvis renal con trabeculación de la grasa adyacente que sugiere origen inflamatorio como primera opción, a correlacionar clínicamente y controlar.
+Hígado de bordes irregulares, compatible con hepatopatía crónica ya conocida. Quiste simple el seg. IVb.
+Vesicula biliar normal. Vía biliar no dilatada. Páncreas sin alteraciones a destacar. No se observa gl. suprarrenal izquierda.
+Pequeño nódulo de 9 mm en gl. suprarrenal derecha, inespecífico, sin cambios respecto 2007.
+Esplenomegalia homogénea (17 cm).
+Marco colónico normodistendido con diverticulosis sin signos de diverticulitis ni colitis. Correcta captación de asas intestinales.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Leve cantidad de líquido periesplénico, estable. No se observan colecciones intraabdominales ni neumoperitoneo.
+Eje portoesplenomesentérico permeable. Marcada ateromatosis aortoilíaca con discretas dilataciones aneurismáticas.
+Acuñamiento vertebral del cuerpo de T12. Marcados cambios degenerativos interapofisarios a nivel L4-L5-S1 de predominio izquierdo.
+En cortes basales torácicos se observan múltiples focos en vidrio deslustrado de predominio periférico, compatible con afectación bilateral por COVID-19.
+Cateter de dialisis con extremo en AD.
+
+conclusiones:
+Leve dilatación de la vía excretora proximal derecha hasta el cruce con los vasos iliacos, sin observar litiasis ni otra causa obstructiva.
+Discreta hipercaptación del tercio ureteral distal, segmentario del tercio medio y de pelvis renal con trabeculación de la grasa adyacente que sugiere origen inflamatorio como primera opción, a correlacionar clínicamente y controlar.
+No colecciones intraabdominales. Marco colónico y asas intestinales sin signos inflamatorios.
+Cambios en bases pulmonares por probable COVID-19.
+Resto del estudio sin cambios a destacar respecto estudio del 2007.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

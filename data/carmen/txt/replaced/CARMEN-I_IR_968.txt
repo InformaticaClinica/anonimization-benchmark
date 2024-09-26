@@ -1,0 +1,40 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+neoplasia mama m hepatiques, colestasis de rapida evolució, ecografia lleu dilatació via biliar
+agrairiem tc per completar estudi lesions heptiques i revalorar malaltia
+Neoplàsia maligna de localització no especificada, mama femenina no especificada
+
+protocolo:
+Se realiza estudio dinámico torácico durante la inyección de contraste ev. desde vértices pulmonares hasta diafragmas empleando técnica TC espiral. Se realizan secciones transversas a nivel hepático con técnica TC espiral en fase portal y tras la administración de contraste oral. A continuación se explora desde polos superiores renales hasta sínfisis púbica mediante nueva adquisición espiral.
+
+resultados:
+Se revisan estudios previos; último TC del 06/09/2015.
+Bocio multinodular, con ligera extensión endotorácica.
+Aumento del volumen de la mama izquierda, asociado engrosamiento cutáneo; sin cambios.
+Adenopatía mediastínica en ventana aortopulmonar de 13 mm, y otra paratraqueal derecha de 10 mm, con pequeños ganglios adyacentes.
+Ganglios calcificados subcarinales.
+En la región axilar izquierda, se visualiza disminución de tamaño de la adenopatía con clip en su interior, que ahora presenta un eje corto de 15 mm (previo de 20 mm). Posterior a esta adenopatía se aprecia otra de 13 mm en su eje corto que se ha formado por la confluencia de otras adenopatías presentes en TC previo, y otra retropectoral de 11 mm que ha crecido (previo 8 mm). No se observan adenopatías axilares derechas.
+Ausencia de derrame pleural, ni pericárdico.
+Foco consolidativo en vidrio deslustrado en segmento apicoposterior del culmen con morfología de neumonía organizativa; hallazgos en probable relación con cambios post-RT.
+Ténue patrón de atenuación en mosaico sugestivo de atrapamiento aéreo en relación a patología de la vía aérea.
+Múltiples nódulos pulmonares sólidos bilaterales, los de mayor tamaño de 8 mm en el segmento posterior del LSD y de 6 mm en el LM, sugestivos de M1, sin cambios. No se observa aparición de nuevas lesiones.
+Atelectasias laminares en el LM, língula y LLII.
+Hígado con ligera disminución de la atenuación de su parénquima, en relación a signos de esteatosis. Se visualiza una lesión de 4.7 cm en sg IV-VIII y otra de 4 cm en sg V; ambas sugestivas de M1.
+Edema perivesicular. Dilatación de la vía biliar intrahepática y del colédoco proximal, visualizándose un engrosamiento concéntrico de 4 mm en el colédoco medio (medido en plano sagital). Si bien este hallazgo podría ser sugestivo de colangiocarcinoma, dado el contexto de la paciente, habría que plantearse en el diagnóstico diferencial la posibilidad de metástasis.
+Bazo, glándulas suprarrenales y páncreas sin alteraciones. Riñones de morfología y tamaño normal, sin dilatación de la vía excretora. Pequeñas litiasis en el GCI del riñón izquierdo y otra en GCM del riñón derecho; no obstructivas. Pequeña imagen nodular cortical de densidad grasa en la valva anterior del tercio superior del riñón derecho, sugestivo de angiomiolipoma.
+Adenopatías retroperitoneales siendo la de mayor tamaño de 13 mm en espacio aortocava, de aspecto necrótico. Múltiples ganglios aumentados de tamaño en hilio hepático y también paraaórticos y retrocavos. No se observan adenopatías ilíacas de tamaño significativo.
+Discreta panniculitis mesentérica. Ausencia de líquido libre intraabdominal.
+Cambios degenerativos en columna torcolumbar.
+
+conclusiones:
+- Adenopatías axilares izquierdas, algunas han aumentado de tamaño y otras han disminuido. Aparición de adenopatías mediastínicas en ventana aortopulmonar y paratraqueal derecha.
+- Foco consolidativo en vidrio deslustrado apical en LSI con morfología de neumonía organizativa; en probable relación con cambios post-RT.
+- M1 pulmonares, sin cambios.
+- M1 hepáticas, de nueva aparición respecto TC previo. Adenopatías retroperitoneales.
+- Dilatación de la vía biliar intrahepática y del colédoco proximal, visualizándose un engrosamiento concéntrico en el colédoco medio; hallazgo que plantea el diagnóstico diferencial entre colangiocarcinoma vs metástasis.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

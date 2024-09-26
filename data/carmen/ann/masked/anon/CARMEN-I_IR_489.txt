@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+conclusiones:
+Aumento del indice cardiotoracico.
+Patron intersticial difuso bilateral.
+Pinzamiento de senos costofrenicos.
+Sutura de esternotomia media.
+
+descrip:
+RX  PORTATIL  TORAX

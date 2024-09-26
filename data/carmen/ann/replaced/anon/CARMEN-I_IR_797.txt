@@ -1,0 +1,21 @@
+
+prueba:
+ECO DOPPLER ARTERIAL EXTREMIDADES
+
+clinica:
+Paciente postCOVID-19, desaislada y anticoagulada por TEP con tinzaparina. Desde hoy inicia con aumento de volumen en extremidad inferior derecha (parece que en su estancia en intermedios se manipuló esta zona para colocación de vía central) con caída de Hb (11-->8.4).
+Solicito ecografía doppler de EI dereha a descartar pseudoaneurisma.Gracias
+descartar pseudoaneurisma
+
+protocolo:
+ECO DOPPLER ARTERIAL DE EXTREMIDAD INFERIOR DERECHA
+
+conclusiones:
+Extremidad inferior DERECHA
+V. femoral común, superficial y profunda derechas permeables y compresibles, sin signos eco-doppler de TVP.
+Arteria femoral común, superficial y profunda permeables, con registros Doppler con ondas de tipo trifásicas.
+En la cara interna del muslo/región inguinal, coincidiendo con la zona de punción se identifica imagen lobulada hipoecogénica de hasta 8 x 3 x8 cm, compatible con hematoma a este nivel. No se identifica registro doppler en el espesor del hematoma.
+Edema de tejido celular subcutáneo a este nivel.
+
+descrip:
+ECO DOPPLER ARTERIAL EXTREMIDADES

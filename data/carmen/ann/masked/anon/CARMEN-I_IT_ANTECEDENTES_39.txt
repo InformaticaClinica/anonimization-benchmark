@@ -1,0 +1,10 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin alergias a medicamentos. Natural de [**PAIS**], desde hace 21 años en [**TERRITORIO**]. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**] y sus [**FAMILIARES_SUJETO_ASISTENCIA**].
+ANTECEDENTES PATOLÓGICOS
+- HIPERTENSIÓN ARTERIAL en tratamiento con dos antihipertensivos.
+- HIPERTRIGLICERIDEMIA en tratamiento con gemfibrocilo.
+- ENFERMEDAD RENAL CRÓNICA E2 (FG entorno a 73 ml/min), nunca se ha biopsiado ni ha sido valorado por nefrología. Probable nefroangioesclerosis.
+- HIPERURICEMIA sin tratamiento.
+- ADENOMA TUBULAR de bajo grado, se realizó polipectomía el [**FECHAS**].
+- DIVERTICULOSIS no complicada.
+- ÚLCERA GASTRICA Forrest III por H. Pilory (confirmada por AP con hallazgos sugestivos de gastritis crónica) por la que realizó tratamiento erradicador. Tratado por Dr. de primaria.
+TRATAMIENTO HABITUAL ([**FECHAS**]): Lisinopril 20mg/24h, Omeprazol 40mg/24h, Gemfibroxilo 900mg/24h, Plantago ovata, Carvedilol 6.35mg/24h

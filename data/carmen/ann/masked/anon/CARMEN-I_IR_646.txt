@@ -1,0 +1,32 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], ALERGIA AL CONTRASTE YODADO. Ingresado en la [**NUMERO_IDENTIF**] [**NUMERO_IDENTIF**] por una hemorragia alveolar grave en contexto de una vasculitis ANCA positiva, además de PCR SARS-COV-2+. IOT + VM. Ahora con empeoramiento hemodinámico y respiratorio de probable origen septico, sin foco y sin aislamientos.
+Tras comentarlo con radiología (en contexto de alergia al contraste) se solcita TAC abdominal basal. Gracias
+GRANULOMATOSIS CON POLIANGEITIS
+
+protocolo:
+TC ABDOMINAL URGENTE
+BASAL (alergia cte yodado)
+
+resultados:
+Hígado de tamaño, morfología y coeficiente de atenuación normales sin lesiones focales aparentes.
+Vesícula biliar de tamaño y morfología normal.Sin dilatación de la vía biliar intrahepática. Colédoco de hasta 10 mm con normalización de su calibre intrapancreático sin causa obstructiva evidente.
+Sonda gástrica con curvatura intragástrica y extremo distal en fundus.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad, sin cambios densitométricos significativos.
+Sin adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Riñones de tamaño y morfología normal. Nódulo exofítico basalmente de 25 mm en valva posterior de tercio medio/inferior de RD, sugestivo de quiste complicado. Sin dilatación de la vía excretora.
+Discreta paniculitis mesentérica.
+Asas intestinales de calibre conservado.
+Leve cantidad de líquido libre perihepático, en gotiera paracólica derecha y en pelvis. Sin colecciones intraabdominales ni neumoperitoneo.
+CVC femoral derecho con extremo distal en v. ilíaca común ipsilateral.
+Vía central arterial femoral izquierda con extremo distal en a. ilíaca común izquierda.
+Leve derrame pleural bilateral que condiciona colapso pasivo del parénquima subyacente. Bases pulmonares con patrón en vidrio deslustrado difuso de distribución predominantemente peribroncovascular y engrosamientos septales bilaterales; hallazgos en probable relación a atc. de hemorragia alveolar por su patología de base (granulomatosis con poliangeitis) sin poder descartar algún foco sobreañadido en LLII de infección por COVID19, aunque de dificultosa evaluación.
+
+conclusiones:
+VR
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,97 @@
+T10	SINTOMA 387 406	Delirium hipoactivo
+T11	SINTOMA 1712 1731	disfunción hepática
+T12	SINTOMA 2290 2309	delirium hipoactivo
+T13	SINTOMA 2371 2385	desorientación
+T14	SINTOMA 2544 2555	pico febril
+T15	SINTOMA 3363 3373	consciente
+T16	SINTOMA 3376 3385	orientado
+T17	SINTOMA 3387 3395	eupneico
+T18	SINTOMA 283 302	diuresis conservada
+T19	SINTOMA 1734 1756	disfunción neurológica
+T20	SINTOMA 1765 1819	broncoaspirado [**FECHAS**] positivo para P.aeruginosa
+T21	SINTOMA 1852 1871	diuresis conservada
+T22	SINTOMA 2678 2716	Aislamiento de C.parapsilosis en orina
+T23	SINTOMA 2718 2750	C.albicans al BAS y úlcera sacra
+T24	SINTOMA 3249 3268	diuresis conservada
+T25	SINTOMA 3400 3422	saturaciones correctas
+T26	SINTOMA 677 703	distres respiratorio agudo
+T27	SINTOMA 3226 3243	diselectrolitemia
+T28	SINTOMA 1890 1910	creatininas elevadas
+T29	ENFERMEDAD 86 104	SDRA por SARS-CoV2
+T30	ENFERMEDAD 196 229	Insuficiencia renal aguda anúrica
+T31	ENFERMEDAD 387 406	Delirium hipoactivo
+T32	ENFERMEDAD 434 444	candidemia
+T33	ENFERMEDAD 470 502	Neumonía organizativa post-COVID
+T34	ENFERMEDAD 507 529	Lesión quística en LID
+T35	ENFERMEDAD 641 672	neumonía bilateral por covid-19
+T36	ENFERMEDAD 1236 1333	shock séptico secundario a neumonía asociada a la ventilación mecánica por Pseudomonas aeruginosa
+T37	ENFERMEDAD 1471 1489	fallo mutiorgánico
+T38	ENFERMEDAD 1611 1638	insuficiencia renal anúrica
+T39	ENFERMEDAD 1712 1731	disfunción hepática
+T40	ENFERMEDAD 2290 2309	delirium hipoactivo
+T41	ENFERMEDAD 2738 2750	úlcera sacra
+T42	ENFERMEDAD 3108 3127	insuficiencia renal
+T43	ENFERMEDAD 308 338	VAP por Pseudomonas aeruginosa
+T44	ENFERMEDAD 1734 1756	disfunción neurológica
+T45	ENFERMEDAD 2051 2070	disfunción orgánica
+T46	ENFERMEDAD 2416 2445	miopatía del paciente crítico
+T47	ENFERMEDAD 3487 3495	miopatía
+T48	FARMACO 454 464	fluconazol
+T49	FARMACO 1000 1007	kaletra
+T50	FARMACO 1009 1026	hidroxicloroquina
+T51	FARMACO 1028 1040	azitromicina
+T52	FARMACO 1042 1052	remdesivir
+T53	FARMACO 1120 1131	Ceftriaxona
+T54	FARMACO 1134 1146	Teicoplanina
+T55	FARMACO 1162 1173	Tocilizumab
+T56	FARMACO 1359 1370	Ceftazidima
+T57	FARMACO 1441 1450	Meropenem
+T58	FARMACO 2642 2651	meropenem
+T59	FARMACO 2652 2663	daptomicina
+T60	FARMACO 2666 2676	fluconazol
+T61	PROCEDIMIENTO 1071 1096	corticosteroides en bolus
+T62	PROCEDIMIENTO 1503 1515	vasopresores
+T63	PROCEDIMIENTO 2088 2106	soporte vasoactivo
+T64	SPECIES 316 338	Pseudomonas aeruginosa
+T65	HUMANO 3132 3140	paciente
+T66	SPECIES 95 104	SARS-CoV2
+T67	HUMANO 551 559	Paciente
+T69	SPECIES 1311 1333	Pseudomonas aeruginosa
+T70	SPECIES 1807 1819	P.aeruginosa
+T72	SPECIES 2693 2707	C.parapsilosis
+T73	SPECIES 2718 2728	C.albicans
+T74	ENFERMEDAD 2860 2875	lesión quística
+T75	FARMACO 1503 1515	vasopresores
+T76	PROCEDIMIENTO 115 118	IOT
+T77	PROCEDIMIENTO 124 129	prono
+T78	PROCEDIMIENTO 164 166	TQ
+T79	PROCEDIMIENTO 180 190	decanulado
+T80	PROCEDIMIENTO 240 265	terapia renal sustitutiva
+T81	PROCEDIMIENTO 777 799	intubación orotraqueal
+T82	PROCEDIMIENTO 821 841	ventilación mecánica
+T83	PROCEDIMIENTO 879 886	weaning
+T84	PROCEDIMIENTO 910 934	traqueostomía quirúrgica
+T85	PROCEDIMIENTO 1577 1586	pronación
+T86	PROCEDIMIENTO 1651 1668	hemodiafiltración
+T87	PROCEDIMIENTO 2138 2152	oxigenoterapia
+T88	PROCEDIMIENTO 2222 2240	se logró decanular
+T89	PROCEDIMIENTO 2816 2820	TCAR
+T90	PROCEDIMIENTO 3075 3080	TACAR
+T91	HUMANO 3011 3013	Dr
+T92	PROCEDIMIENTO 119 121	VM
+T93	PROCEDIMIENTO 135 142	Weaning
+T94	SINTOMA 135 153	Weaning prolongado
+T95	PROCEDIMIENTO 340 343	BAS
+T96	SINTOMA 879 897	weaning prolongado
+T97	PROCEDIMIENTO 1765 1779	broncoaspirado
+T98	SINTOMA 2560 2612	incremento significativo de reactantes de fase aguda
+T99	PROCEDIMIENTO 2678 2689	Aislamiento
+T100	PROCEDIMIENTO 2732 2735	BAS
+T101	SINTOMA 2836 2857	cambios organizativos
+T102	SPECIES 368 380	colonización
+T103	SPECIES 1820 1832	colonización
+T104	SINTOMA 3580 3599	estabilidad clínica
+T1	SINTOMA 718 767	empeoramiento respiratorio rápidamente progresivo
+T2	SINTOMA 1534 1572	empeoramiento del intercambio de gases
+T3	SINTOMA 2757 2772	mejoría clínica
+T4	SINTOMA 2775 2814	disminución de parámetros inflamatorios

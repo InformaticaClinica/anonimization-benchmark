@@ -1,0 +1,40 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] natura lde [**PAIS**], importante barrera idiomatica , AP en los que destasca HTA , Gota, IRC, hipotiroidismo Ingreso por Neumonia bilateral por COVID que requirio VMNI, con disminución de los requerimientos de O2, durante su estancia en intermedios probable TEP ( taquicardia, disnea, aumento de requierimientos de O2 y D dimero de 16000) que no se puede confirmar por inestabilidad en ese momento, se inicia anticoagulación a dosis plenas que como complicación presenta hematuria franca, actualmente con LN a 2l con persitencia de D dimero elevado 10.000 con HBPM a 60mg cada 24 horas. Rx de torax impresiona tendencia ala consolidación
+Ruego Angio TAC de torax para descartar TEP y valorar presencia de NOC.
+Abdomen: Durante su estancia en sala y en intermedios no presenta deposición alguna, ademas de varios arrancamientos de sonda vesical por proble obstrución de la misma con RAO posterior. En RX de abdomen no claro fecaloma a nivel distal,pero interesa valoración si hubiera obstrucción en colon derecho o mas proximal
+Muchas gracias
+Un saludo
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+ANGIO TC PULMONAR + TC ABDOMINAL
+
+resultados:
+TC TORAX
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Leves calcificaciones en topografía de arterias coronarias.
+No se observa derrame pericárdico. Severa ateromatosis calcificada a lo largo de aórta torácica. Pequeño trombo mural en aorta descendente torácica.
+Leve derrame pleural bilateral. Leve enfisema paraseptal. Afectación parenquimatosa bilateral y difusa consistente en vidrio deslustrado y áreas de reticulación con presencia de alguna banda subpleural.
+Dilataciones bronquiolares irregulares. Los hallazgos son coherentes con una neumonía bilateral por COVID-19 con leves signos organizativos.
+Imagenes de ocupacion e impactación mucosa bronquial especialmente a nivel de lóbulo inferior derecho.
+TC ADBOMEN
+Hígado de tamaño, morfología y atenuación normal sin lesiones focales evidentes. Vesícula biliar de paredes finas, sin dilatación de la vía biliar intrahepática. Leve ectasia de la vía biliar extrahepática sin causa obstructiva aparente. Vena porta permeable.
+Páncreas, bazo, glándulas suprarrenales y riñones sin alteraciones.
+Quistes corticales bilaterales de predominio izquierdo. No se observa dilatación de la vía excretora. Vejiga urinaria colapsada con balón de sonda en su interior. Próstata aumentada de tamaño. Asas de intestino delgado y marco colonico de aspecto normal, no distendidos.
+Severa ateromatosis calcificada a lo largo de aorta abdominal. Pequeño aneurisma sacular en aorta infrarrenal de 4 x 3.6 cm (CC x LL) con trombosis mural. No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico. No se observa líquido libre intraabdominal, colecciones ni neumoperitoneo. Hiperlordosis lumbar e importantes cambios espondiloartrosicos.
+
+conclusiones:
+No se observa TEP.
+Neumonia bilateral por COVID-19 con leves signos de organización.
+Pequeño trombo mural en aorta descendente torácica y pequeño aneurisma de aorta abdominal con trombosis mural.
+Asas de intestino delgado y marco colonico de aspecto normal, no distendidos.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

@@ -1,0 +1,22 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**], ingreso por neumonía COVID. Colestasis con GGT de 400 con Bil alta desde el ingreso que no se atribuye a medicación. EF normal. Ruego eco control
+colestasis
+
+protocolo:
+Ecografía abdominal portátil urgente
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes. Lesión nodular de 3 cm en el lóbulo hepático derecho (segmento VI-VII), hiperecogénica y sugestiva de corresponder a un hemangioma. A valorar la necesidad de ampliar el estudio mediante TC o RM para una mejor caracterización. No se observan otras lesiones focales hepáticas.
+Vena porta permeable de calibre normal y flujo hepatopetal.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No se observa líquido libre intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

@@ -1,0 +1,21 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con neumonia bilateral por SARS-CoV-2 grave con necesidad de ingreso en [**NUMERO_IDENTIF**]. Persiste con requerimientos de oxigenoterapia y con abundantes infiltrados alveolo-intersticiales bilaterales que impresionan de componente consolidativo. Agradeceriamos TC para descartar NO. Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Severa scalcificaciones coronarias.
+Opacidades reticulares y focos consolidativo speribroncovasculares, difusos, con mayor afectación del lado derecho compatibl econ neumoni acovid con cambios organizativos.
+En el hemitórax D se observan dos imágenes nodulares sólidas de 37mm en LSD y de 23mm en LID que tendrían que valorar en próximos controles.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

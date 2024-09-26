@@ -1,0 +1,63 @@
+T3	SINTOMA 336 343	vómitos
+T4	ENFERMEDAD 392 420	dilatacion intestino delgado
+T5	SINTOMA 568 574	disnea
+T6	SINTOMA 314 324	distensión
+T7	SINTOMA 425 444	abdomen con niveles
+T8	ENFERMEDAD 913 939	dilatación de asas ileales
+T9	SINTOMA 838 877	Anastomosis ileocólica sin alteraciones
+T10	SINTOMA 927 988	asas ileales de hasta 5.8 cm, sin observar cambios de calibre
+T11	SINTOMA 1110 1123	trabeculaicon
+T12	SINTOMA 1138 1171	líquido en mesenterio en el vacio
+T13	SINTOMA 1412 1445	lesiones hipervasculares en s. VI
+T14	SINTOMA 1537 1574	Eje portoesplenomesentérico permeable
+T15	SINTOMA 1576 1607	Bazo homogéneo de tamaño normal
+T16	ENFERMEDAD 1802 1837	dilatación de ambas vías excretoras
+T17	SINTOMA 2075 2109	engrosamientos bronquiales difusos
+T18	SINTOMA 1222 1233	colecciones
+T19	SINTOMA 1358 1394	Hígado de morfología y tamaño normal
+T20	SINTOMA 1489 1511	Vesicula biliar normal
+T21	SINTOMA 1513 1535	Vía biliar no dilatada
+T22	SINTOMA 1648 1708	Páncreas, riñones y glándulas suprarrenales sin alteraciones
+T23	ENFERMEDAD 92 96	EPOC
+T24	ENFERMEDAD 101 104	ICC
+T25	ENFERMEDAD 106 111	DM II
+T26	ENFERMEDAD 113 139	INSUFICIENCIA RESPIRATORIA
+T27	ENFERMEDAD 518 548	complicaciones postquirurgicas
+T28	ENFERMEDAD 559 563	EPOC
+T29	ENFERMEDAD 1086 1101	íleo paralítico
+T30	ENFERMEDAD 1204 1218	neumoperitoneo
+T31	ENFERMEDAD 1307 1343	hernia umbilical con contenido graso
+T32	ENFERMEDAD 1476 1487	hemangiomas
+T33	ENFERMEDAD 1576 1619	Bazo homogéneo de tamaño normal, con quiste
+T34	ENFERMEDAD 1867 1913	Diverticulosis colónica de predominio en sigma
+T35	ENFERMEDAD 1957 1997	adenopatías retroperitoneales ni ilíacas
+T36	ENFERMEDAD 2051 2073	atelectasias bibasales
+T37	ENFERMEDAD 2114 2129	bronquiectasias
+T38	PROCEDIMIENTO 10 28	TC ABDOMINOPELVICO
+T39	PROCEDIMIENTO 162 171	neovejiga
+T40	PROCEDIMIENTO 249 271	hemicolectomía derecha
+T41	PROCEDIMIENTO 274 289	anastomosis L-L
+T42	PROCEDIMIENTO 359 362	TAC
+T43	PROCEDIMIENTO 499 502	TAC
+T44	PROCEDIMIENTO 627 645	TC ABDOMINOPELVICO
+T45	PROCEDIMIENTO 675 704	aministración de contraste ev
+T46	PROCEDIMIENTO 735 737	TC
+T47	PROCEDIMIENTO 814 836	hemicolectomía derecha
+T48	PROCEDIMIENTO 1235 1270	Retirada del drenaje intraabdominal
+T49	PROCEDIMIENTO 1279 1297	Sonda nasogástrica
+T50	PROCEDIMIENTO 1748 1789	cistoprostatectomía radical con neovejiga
+T51	PROCEDIMIENTO 2189 2207	TC ABDOMINOPELVICO
+T52	HUMANO 290 298	Paciente
+T53	HUMANO 480 488	paciente
+T54	HUMANO 550 558	Paciente
+T55	HUMANO 1069 1077	paciente
+T56	ENFERMEDAD 148 158	NEO VEJIGA
+T57	ENFERMEDAD 141 146	SAHOS
+T58	ENFERMEDAD 188 222	Polipo con Displasia de ALto grado
+T59	PROCEDIMIENTO 241 244	FCS
+T60	PROCEDIMIENTO 422 432	Rx abdomen
+T61	PROCEDIMIENTO 594 610	cortes torácicos
+T62	SINTOMA 777 836	Cambiospostquirúrgicos en relación a hemicolectomía derecha
+T63	PROCEDIMIENTO 838 860	Anastomosis ileocólica
+T64	HUMANO 52 60	PACIENTE
+T1	SINTOMA 454 475	empeoramiento clinico

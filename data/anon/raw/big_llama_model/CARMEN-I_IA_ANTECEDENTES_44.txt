@@ -1,0 +1,29 @@
+ Varón de [**EDAD_SUJETO_ASISTENCIA**] años de edad. No alergias medicamentosas conocidas. No hábitos tóxicos. Independiente para las ABVD.
+ANTECEDENTES PATOLÓGICOS:
+1. LEUCEMIA MIELOIDE AGUDA post PV JAK-2 positiva ([**FECHAS**]), cariotipo complejo. No dianas moleculares (IDH1, IDH2, FLT3-ITD y TKD negativos por PCR e NGS) Diagnóstico de PV JAK29 ([**FECHAS**])(requirió flebotomías al diagnóstico)
+* AMO ([**FECHAS**]): grumoll present, hipercelular, amb 41% de blastos, signes de displàsia lleus en la serie megacariocitica i granulocitica.
+IF 12% de balsts mieloides que coexpressen aberrant CD7 i CD22.
+* Tratamiento: inicia el ([**FECHAS**]) EC GSCT857F6257 para tratamiento de la LMA/SMD en pacientes no candidatos a trasplante con un hipometilante + MBG453 (antiTIM3).
+* Ingreso del ([**FECHAS**]) al ([**FECHAS**]) de septiembre ([**FECHAS**]) por síndrome febril de foco respiratorio sin aislamiento microbiológico tratado con ceftriaxona + levofloxacino. Ha estado en regimen de hospitalización domiciliaria con tratamiento antibiótico hasta el ([**FECHAS**]).
+2. COLOCACIÓN MARCAPASOS ([**FECHAS**]) por bloqueo AV completo.
+3. IM SEVERA por válvula mixomatosa, reparación valvular mitral con anuloplastia ([**FECHAS**]).
+* Durante el postopratorio, presenta FA ([**FECHAS**]) que se organiza en flutter típico tras tratamiento con amiodarona. Ablación de flutter común antihorario ([**FECHAS**]).
+* Ecocardiograma ([**FECHAS**]): FEVI 60%. Reparación válvula mitral efectiva con leve insuficiencia residual (resección amplia P2, plicatura del anillo posterior, anillo Cosgrove 28 mm e implante de dos neocuerdas).
+Resto normal.
+* Holter ECG ([**FECHAS**], bajo tratamiento bisoprolol): extrasistole ventricular moderada intensidad. Extrasistole supraventricular infrecuente con 4 runs de TPSV de corta duración.
+* Implante de marcapasos definitivo el ([**FECHAS**]) por BAV con síncope cardiogénico secundario. Sin incidencias.
+4. FLUTTER AURICULAR paroxistico. En tto con digoxina desde el último ingreso en ([**FECHAS**]) tras valoración por cardiologia.
+5. HIPERTROFIA BENIGNA PRÓSTATA, sin tratamiento.
+6. EPISODIO DE BRONQUITIS en contexto de infección respiratoria, realizó tratamiento con formoterol y levofloxacino.
+7. HERNIA HIATO Y ERGE en tratamiento con IBP.
+8. COLELITIASIS con vesicula biliar escleroatrófica.
+9. Poliposis colónica ángulo hepático ([**FECHAS**]). AP: leiomioma submucoso.
+10. Quistes parapiélicos renales bilaterales
+INTERVENCIONES QUIRÚRGICAS: Anuloplastia ([**FECHAS**]), Apendicectomía, Amigdalectomía, Fimosis
+TRATAMIENTO ACTUAL ([**FECHAS**]):
+digoxina [**NUMERO_TELEFONO**]mg/[**NUMERO_TELEFONO**]h excepto domingo,
+Omeprazol [**NUMERO_TELEFONO**] mg/d.
+Alopurinol pensa [**NUMERO_TELEFONO**] mg/d.
+Furosemida cinfa [**NUMERO_TELEFONO**] mg/d (esmorzar).
+Paracetamol ratio [**NUMERO_TELEFONO**] mg/[**NUMERO_TELEFONO**]h, si ho precisa per dolor.
+Orfidal [**NUMERO_TELEFONO**] mg/nit, si ho precisa per insomni.

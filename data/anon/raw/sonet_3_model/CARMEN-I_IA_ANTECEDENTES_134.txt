@@ -1,0 +1,23 @@
+* ANTECEDENTES PERSONALES:
+[**EDAD_SUJETO_ASISTENCIA**], natural de [**TERRITORIO**] que reside en [**PAIS**] desde hace 2 años. Vive en [**CALLE**] con una amiga. Estudios: secundaria completa. Actualmente trabaja como [**PROFESION**]. No refiere alergias medicamentosas. No tabaquismo, alcohol ocasional, no drogas recreativas. No contacto con animales actual. Viajes: no desde que llegó a [**CALLE**] (hace dos años). [**SEXO_SUJETO_ASISTENCIA**]. No tratamiento hormonal sustitutivo. 
+Relaciones sexuales con preservativo, penetración oral y anal receptiva.
+- Antecedentes psiquiátricos: insomnio y ansiedad, actualmente en tratamiento con diazepam a demanda. Además tiene recetada amitriptilina.
+
+* ANTECEDENTES PATOLÓGICOS:
+1. INFECCIÓN POR VIH. Diagnóstico el [**FECHAS**] en [**INSTITUCION**] a raíz de test rápido de rutina. Última serología negativa en mayo de 2011 y test rápido negativo en enero 2012. Relaciones sexuales desprotegidas con una pareja y con algún cliente en los últimos meses. En tratamiento con TARGA ([**OTROS_SUJETO_ASISTENCIA**]) con buena adherencia. [**OTROS_SUJETO_ASISTENCIA**].
+* [**FECHAS**]: [**OTROS_SUJETO_ASISTENCIA**], genotipado en curso. [**OTROS_SUJETO_ASISTENCIA**].
+Cociente [**OTROS_SUJETO_ASISTENCIA**].
+
+*Serologías [**FECHAS**]:
+[**OTROS_SUJETO_ASISTENCIA**]
+
+2. HIPOTIROIDISMO. En tratamiento sustitutivo.
+
+* ANTECEDENTES QUIRÚRGICOS ELECTIVAS: prótesis mamarias, rinoplastia, silicón en glúteos.
+
+* TRATAMIENTO HABITUAL:
+- [**OTROS_SUJETO_ASISTENCIA**] 
+- [**OTROS_SUJETO_ASISTENCIA**]
+- [**OTROS_SUJETO_ASISTENCIA**]
+- [**OTROS_SUJETO_ASISTENCIA**]
+- [**OTROS_SUJETO_ASISTENCIA**]

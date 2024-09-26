@@ -1,0 +1,16 @@
+T5	ENFERMEDAD 271 292	Cardiopatia isquémica
+T6	ENFERMEDAD 377 387	Dislipemia
+T7	ENFERMEDAD 446 476	Hiperplasia prostática benigna
+T8	ENFERMEDAD 513 532	Hipertensión ocular
+T9	ENFERMEDAD 425 441	Temblor esencial
+T10	SINTOMA 294 301	Estable
+T11	ENFERMEDAD 196 219	alergias medicamentosas
+T12	FARMACO 341 344	AAS
+T13	FARMACO 347 372	mononitrato de isosorbide
+T14	FARMACO 408 420	simvastatina
+T15	FARMACO 497 508	tamsulosina
+T16	PROCEDIMIENTO 311 336	tratamiento antiagregante
+T17	HUMANO 1 6	Varón
+T18	HUMANO 166 172	cuñada
+T20	HUMANO 183 189	primos
+T1	ENFERMEDAD 223 238	habitos tóxicos

@@ -1,0 +1,26 @@
+T6	ENFERMEDAD 125 148	alergias medicamentosas
+T7	ENFERMEDAD 191 205	ASMA BRONQUIAL
+T8	ENFERMEDAD 264 268	Asma
+T9	ENFERMEDAD 300 308	Diabetes
+T10	ENFERMEDAD 314 323	Epilepsia
+T11	ENFERMEDAD 383 394	Infecciones
+T12	ENFERMEDAD 444 456	Hipertensión
+T13	ENFERMEDAD 537 544	Migraña
+T14	ENFERMEDAD 739 756	enfermedad Chagas
+T15	PROCEDIMIENTO 400 420	Cirugía ginecológica
+T16	ENFERMEDAD 582 595	Coagulopatías
+T17	PROCEDIMIENTO 658 694	Transfusiones de sangre o deriva dos
+T19	HUMANO 26 31	Mujer
+T20	HUMANO 212 220	infancia
+T22	SINTOMA 274 294	Problemas de espalda
+T23	ENFERMEDAD 358 377	Embarazos ectópicos
+T24	ENFERMEDAD 329 352	Problemas de fertilidad
+T25	ENFERMEDAD 426 438	Cardiopatías
+T26	ENFERMEDAD 519 531	Hepatopatías
+T27	SINTOMA 462 485	Incontinen cia de orina
+T28	SINTOMA 491 513	Incontinencia de heces
+T29	ENFERMEDAD 601 624	Enfermedades tir oideas
+T30	ENFERMEDAD 630 652	Reacciones anestésicas
+T31	ENFERMEDAD 700 723	Problemas inmunológicos
+T32	ENFERMEDAD 762 794	E nfermedades renales-urológicas
+T33	PROCEDIMIENTO 800 826	Vacunas: dTpa administrada

@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL
+
+conclusiones:
+Ligera mejoria radiologica de las opacidades alveolares en campo medio e inferior izquierdo y campo inferior derecho.
+
+descrip:
+RX  PORTATIL  TORAX

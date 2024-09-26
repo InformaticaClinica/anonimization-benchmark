@@ -1,0 +1,25 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con con 3 frotis negativo de COVID19. Al ingreso dudoso infiltrado, recibiendo tratmiento para COVID19. Solicitamos TCAR para reevaluar diagnostico.
+COVID19
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Ganglios paratraqueales derechos calcificados.
+Aumento de tamaño del lóbulo tiroideo derecho con leve extensión endotorácica.
+DAI en hemitórax izquierdo.
+Espacios pleurales libres.
+Engrosamientos parietales bronquiales difusos con algunas imágenes de impactaciones mucosas endobronquiales en el LID, sugestivo de signos de inflamación de la vía aérea.
+Tenues opacidades en vidrio deslustrado bilaterales de distribución peribroncovascular y periférica en LLSS, LM y en menos grado en porciones superiores de LLII, sugestivo de proceso infeccioso, con patrón de probable COVID-19 en el contexto actual.
+Micronódulo pulmonar probablemente granulomatoso en el LSD y pequeño ganglio intrapulmonar cisural izquierdo, sin cambios respecto a TC de [**FECHAS**].
+Fracturas costales izquierdas consolidadas en la 5º a 7º costillas.
+Colelitiasis.
+
+conclusiones:
+Signos de inflamación de la vía aérea.
+Tenues opacidades en vidrio deslustrado bilaterales de distribución peribroncovascular y periféricas en LLSS, LM y en menos grado en porciones superiores de LLII, sugestivo de proceso infeccioso, con patrón de probable COVID-19 en el contexto actual.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

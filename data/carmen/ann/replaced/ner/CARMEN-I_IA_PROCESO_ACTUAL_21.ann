@@ -1,0 +1,38 @@
+T4	SINTOMA 92 98	fiebre
+T5	SINTOMA 158 166	tos seca
+T6	SINTOMA 171 184	expectoración
+T7	SINTOMA 197 213	malestar general
+T8	SINTOMA 264 272	eupneico
+T9	SINTOMA 298 340	crepitantes de predominio en base pulmonar
+T10	SINTOMA 492 516	función renal preservada
+T11	SINTOMA 518 537	leve aumento de GGT
+T12	SINTOMA 590 602	leucocitosis
+T13	SINTOMA 608 618	linfopenia
+T14	SINTOMA 941 964	infiltrados bilaterales
+T15	SINTOMA 431 469	leve infiltrado intersticial bilateral
+T16	SINTOMA 1296 1311	hipoxemia grave
+T17	SINTOMA 1438 1454	hipoxemia severa
+T18	SINTOMA 1457 1493	alcalemia por alcalosis respiratoria
+T19	SINTOMA 353 406	Rx tórax revisada por radiólogo informada como normal
+T20	SINTOMA 967 987	infiltrado posterior
+T21	SINTOMA 789 795	fiebre
+T22	SINTOMA 820 870	empeoramiento de la sensación disneica de esfuerzo
+T23	SINTOMA 1341 1347	disnea
+T24	ENFERMEDAD 1246 1279	neumonía bilateral por SARS-CoV-2
+T25	FARMACO 135 146	paracetamol
+T26	FARMACO 726 737	paracetamol
+T27	FARMACO 739 746	codeína
+T28	FARMACO 749 759	salbutamol
+T29	PROCEDIMIENTO 576 585	hemograma
+T30	PROCEDIMIENTO 907 918	Rx de tórax
+T31	PROCEDIMIENTO 991 1001	Rx lateral
+T32	PROCEDIMIENTO 1363 1378	VK con FiO2 24%
+T33	PROCEDIMIENTO 1414 1433	gasometría arterial
+T34	HUMANO 83 91	paciente
+T35	HUMANO 1283 1291	paciente
+T36	SINTOMA 353 361	Rx tórax
+T37	PROCEDIMIENTO 1051 1054	GSA
+T38	SPECIES 1269 1279	SARS-CoV-2
+T39	PROCEDIMIENTO 1097 1106	Analítica
+T40	SINTOMA 649 668	estabilidad clínica
+T41	SINTOMA 551 574	función hepática normal

@@ -1,0 +1,33 @@
+
+prueba:
+TC TORACOABDOMINAL (TORAX)
+
+clinica:
+COVID positivo complicado con CID y embolia pulmonar con infarto pulmonar bilateral. Conectado a ECMO. Trombosis femoral bilateral en TAC previo.
+Sangrado en femoral derecha tras canulación.
+Desde hace 2-3 días aumento de diametro en el muslo contralateral (izquierdo). Sin poder progresar en el weaning de la ECMO por su situación pulmonar.
+Solicitamos AngioTAC pulmonar para reevaluación del parénquima pulmonar, TEP y también evaluación abdominal y del muslo izquierdo. Descartar sangrado.
+NEUMONIA COVID19
+
+protocolo:
+TC abdominal en fases arterial y portal
+
+resultados:
+Se compara con el TC previo de 7/3/12:
+Cánula en vena ilíaca externa derecha. Catéter de acceso venoso en vena femoral común izquierda.
+Persiste sin cambios significativos el extenso hematoma de márgenes mal delimitados que afecta al tejido celular subcutáneo de la pared abdominal anterior, en el flanco y la fosa ilíaca derechas.
+Se localiza en su parte profunda adyacente al recto anterior inferior, extendiéndose caudalmente por el canal inguinal hasta nivel escrotal, donde preenta una mayor extensión actualmente. Cranealmente se extiende hacia los vasos ilíacos y gotiera parietocólica derechos.
+Se identifica en el estudio actual un aumetno del mu úsculo iliaco izquierdo secundariamente a hematoma intramuscular, no visible en el estudio previo.
+En el estudio angiográfico no logran evidenciarse imágenes de extravasación de contraste que sugieran sagrado activo.
+Aorta abdominal infrarrenal y arterias ilíacas, femorales y sus principales ramas permeables, aunque de pequeño calibre (posiblemente en relación con la situación hemodinámica del paciente).
+Aumento del tamaño del ganglio iliaco externo izquierdo, de 12 mm, asi como de los ganglios inguinales ipsilaterales respecto al TC previo. No se identifican otros ganglios de tamaño patológico en el estudio actual.
+Se identifica con dificultad la imagen de trombosis venosa de la vena femoral profunda izquierda.
+Resto del estudio abdominal sin cambios respecto al TC previo.
+
+conclusiones:
+Persiste el extenso hematoma en pared abdominal inferior derecha con extensión a pelvis y canal inguinoescrotal, sin acmbios significativos.
+Aparición de hematoma en el espesor el músuclo ilíaco izquierdo.
+No se identifican signos de sangrado activo en el estudio actual.
+
+descrip:
+TC TORACOABDOMINAL (TORAX)

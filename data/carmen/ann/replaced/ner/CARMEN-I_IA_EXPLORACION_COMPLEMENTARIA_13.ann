@@ -1,0 +1,9 @@
+T3	PROCEDIMIENTO 31 54	Detecció virus Covid-19
+T4	PROCEDIMIENTO 94 117	Detecció virus Covid-19
+T5	ENFERMEDAD 46 54	Covid-19
+T6	ENFERMEDAD 109 117	Covid-19
+T7	PROCEDIMIENTO 3 16	MICROBIOLOGÍA
+T8	SINTOMA 31 80	Detecció virus Covid-19, mostra genèrica: Positiu
+T9	SINTOMA 94 143	Detecció virus Covid-19, mostra genèrica: Positiu
+T10	SPECIES 40 54	virus Covid-19
+T11	SPECIES 103 117	virus Covid-19

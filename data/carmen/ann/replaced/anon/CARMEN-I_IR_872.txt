@@ -1,0 +1,44 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con antecedente de colecistectomía y enfermedad de Crohn que requirió hace >20años resección de ileon terminal.
+Controlado hasta el momento con Imurel.
+Actualmente ingresado por politraumatismo secundario a colisión moto- camión (Fx brazo, columna, costales).
+Solicitamos TC control por hematoma mesentérico presente en TC de ingreso
+hematoma mesentérico
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en fases arterial y portal.
+
+resultados:
+Derrame pleural bilateral de predomino izquierdo. Áreas de colapso pasivo en ambios LI. Atelectasias laminares en língula y LID. No se osbserva neumotórax.
+Fracturas simples levemente desplazadas en tercios anterolaterales de 5º, 6º, y 7º arcos costales y posterior del 7º arco izquierdos.
+Fracturas sin desplazamiento en arcos posterior y lateral de 8ª costilla y posterior de 10ª costilla izquierdas.
+Hígado de tamaño y morfología normales. No se aprecian lesiones focales.
+Pequeñas imágenes metálicas en áreas capsulares del seg. VI, posiblemente relacionadas con cirugía previa.
+Ligera esplenomegalia de 14 cm. El bazo es homogéneo. Presenta dos pequeñas lobulaciones en sus polos anterior e inferior. Han desaparecido los pequeños hematomas perihepático y periesplénicos descritos en el TC anterior.
+No se osbervan focos de contusión hepáticos ni esplénicos.
+Colecistectomía. Vía biliar no dilatada. Venas porta y esplénica permeables. Pequeño trombo focal y parcial que ocupa menos de la mitad de la circunferencia de la VMS, de nueva aparición.
+Páncreas de tamaño preservado. Muestra una zona de pequeño tamaño y de límites imprecisos en el cuerpo, acompañada de aumento en la densidad focal en la grasa adyacente, que no estab presente en el TC anterior. En el contexto del paciente, sugiere contusión pancreática.
+Glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normales, con múltiples zonas hipodensas de morfología triangular y con base cortical, probablemente correspondientes a áreas de infarto. Son estables. No se aprecia dilatación de la vía excretora. Sonda vesical.
+Sutura mecánica en ileón terminal, en relación con resecciónintestinal previa.
+Persiste un aumento en la densidad de la grasa mesentéríca en el flanco D, la FID y en áreas centroabdominales que son menos extensas que en el TC anterior. Se aprecian dos imágenes sólidas en el seno de la grasa, de 20 mm (Im 81, serie 7) y de 17 mm (im 73, serie 7), ésta última de menor densidad, sugestivas de peqeuños hematomas. Se aprecia algún acúmulo de líquido en la grasa del meso del ID.
+Aumento en la densidad de la grasa del epiplon mayor que contiene una imagen nodular de 7 mm que también es sugestiva de hematoma mesentérico.
+No hay signos de isquemia en las paredes del ID. Algunas asas presentan aumento en su calibre, de hasta 4 cm, especialmente en el yeyuno distal
+- íleon proximal.
+Signos de paniculitis mesentérica.
+No se observan adenopatías retroperitoneales, ilíacas ni inguinales de tamaño patológico.
+No se evidencia ascitis difusa.
+
+conclusiones:
+Han desaparecido los focos de contusión hepatoesplénicos.
+Persisten imágenes sugestivas de hematomas mesentéricos, especielmente en flanco D y en el epiplon mayor. Trambosis focal de la VMS.
+No hay signos de isquemia de ID. No obstante, se observa dilatación intestional segmentaria en un tramo central del ID, a controlar de forma evolutiva.
+Signos sugestivos de pancreatitis focal, traumática.
+Lasiones hipodensas en ambos riñones de probable origen isquémico, sin cambios.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

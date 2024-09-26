@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con neumonía bilateral por SARS CoV2 que persiste febril.
+Solicitamos scanner por sospecha de NOC
+COVID-19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta iuna afectación parenquimatosa pulmonar difusa de predominio subpleural en forma de consolidaciones, vidrio deslustrado y patrón en empedrado, todo ello coherente con afectación por COVID-19. No identifico claros hallazgos de neumonía organizativa en el presente estudio.
+Muy discretos cambios degenerativos en la columna torácica. Fusión de la primera y la segunda costillas derechas (variante anatómica de la normalidad).
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TORAX

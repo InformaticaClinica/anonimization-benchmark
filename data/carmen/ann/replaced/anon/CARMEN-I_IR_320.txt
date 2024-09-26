@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+descrip:
+RX  PORTATIL  TORAX

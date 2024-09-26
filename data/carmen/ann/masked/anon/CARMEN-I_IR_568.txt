@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] de edad con neumonía por COVID. Presenta disminución de los reactantes de fase aguda pero persiste con VK al 60% y Dímero-D persistentemente >10000. SE solicita AngioTAC para descartar TEP. Muchas gracias.
+
+protocolo:
+ANGIO-TC PULMONAR
+
+resultados:
+Arterias pulmonares principales y ramas lobares permeables. Defectos de repleción en arteria para segmento posterobasal de lóbulo inferior derecho y algunas de sus ramas subsegmentarias. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Extensa afectación parenquimatosa bilateral y difusa (aprox 50% parenquima) en forma de vidrio deslustrado que predomina en LLSS y bandas subpleurales que predominan en LLII. En el seno de las bandas subpleurales se identifican algunas pequeñas dilataciones bronquiolares.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Calcificaciones groseras en mama dercha. Clips quirúrgicos en planos profundos de mama izquierda.
+Via venosa central subclavia derecha con extremo distal en unión cavo- atrial.
+En los cortes de hemiabdomen superior no se identifican imágenes patológicas.
+
+conclusiones:
+- TEP segmentario y subsegmentario en LID.
+- Hallazgos compatibles con infección pulmonar bilateral por COVID-19.
+
+descrip:
+ANGIO TC PULMONAR

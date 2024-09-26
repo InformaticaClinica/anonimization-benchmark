@@ -1,0 +1,19 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Sospecha ictus ACMI en paciente con estenosis ICAI
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+TC CRANEAL BASAL URGENTE
+
+conclusiones:
+Hipodensidad corticosubcortical frontal parasagital izquierda y en cabeza del núcleo caudado izquierdo; territorios de la ACA y de la ACM izquierdas [territorio ACIi]. Los hallazgos sugieren infarto isquémico ya establecido con leve efecto de masa, más evidente sobre el asta frontal del ventrículo lateral izquierdo.
+Resto del sistema ventricular sin alteraciones. Línea media centrada.
+Cisternas basales libres.
+Sin signos de sangrado intra o extraaxial.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,99 @@
+T6	SINTOMA 22 51	infiltrado alveolar bilateral
+T7	SINTOMA 622 648	Vesicula biliar distendida
+T9	SINTOMA 2596 2622	Vesicula biliar distendida
+T10	ENFERMEDAD 2871 2901	dilatación de la via excretora
+T11	SINTOMA 3941 3973	Vesícula biliar de tamaño normal
+T12	SINTOMA 3999 4041	Riñón izdo de tamaño y morfologia normales
+T13	SINTOMA 4092 4116	hematoma retroperitoneal
+T14	SINTOMA 4380 4395	sangrado activo
+T15	SINTOMA 4405 4413	hematoma
+T16	SINTOMA 94 118	hematoma retroperitoneal
+T17	SINTOMA 331 401	extravasación de contraste en fase arterial adyacente al músculo psoas
+T18	SINTOMA 455 470	sangrado activo
+T19	SINTOMA 552 588	Higado de tamaño y estructura normal
+T20	SINTOMA 678 700	Via biliar no dilatada
+T21	SINTOMA 702 748	Vena porta y eje esplenomesentérico permeables
+T22	SINTOMA 750 807	Bazo, páncreas y glándulas suprarrenales sin alteraciones
+T23	SINTOMA 809 846	Riñones de tamaño y morfología normal
+T24	SINTOMA 851 881	nefrograma simétrico bilateral
+T25	SINTOMA 1171 1236	focos consolidativos difusos identificados en paréqnuima pulmonar
+T26	SINTOMA 1336 1360	hematoma retroperitoneal
+T27	SINTOMA 1381 1405	sangrado activo arterial
+T28	SINTOMA 1611 1646	foco de extravasación a nivel de L2
+T29	SINTOMA 4575 4610	condensación de predominio en bases
+T30	SINTOMA 4645 4669	hematoma retroperitoneal
+T31	SINTOMA 3610 3647	áreas de patrón en vidrio deslustrado
+T32	SINTOMA 3661 3684	engrosamientos septales
+T33	SINTOMA 3686 3705	patrón en empedrado
+T34	SINTOMA 3721 3797	condensación peribronquial y periféricas de predominio en lóbulos inferiores
+T35	SINTOMA 3852 3939	Hígado, bazo, páncreas y glándulas suprarrenales de morfología tamaño y densidad normal
+T36	SINTOMA 3975 3997	Vía biliar no dilatada
+T37	SINTOMA 4187 4211	hematoma retroperitoneal
+T38	SINTOMA 2069 2093	hematoma retroperitoneal
+T39	SINTOMA 2397 2412	sangrado activo
+T40	SINTOMA 2526 2562	Higado de tamaño y estructura normal
+T41	SINTOMA 2652 2674	Via biliar no dilatada
+T42	SINTOMA 2676 2722	Vena porta y eje esplenomesentérico permeables
+T43	SINTOMA 2724 2781	Bazo, páncreas y glándulas suprarrenales sin alteraciones
+T44	SINTOMA 2783 2820	Riñones de tamaño y morfología normal
+T45	SINTOMA 2825 2855	nefrograma simétrico bilateral
+T46	SINTOMA 3203 3268	focos consolidativos difusos identificados en paréqnuima pulmonar
+T47	SINTOMA 3357 3381	hematoma retroperitoneal
+T48	SINTOMA 3428 3443	sangrado activo
+T49	ENFERMEDAD 481 504	hemoperitoneo en pelvis
+T50	ENFERMEDAD 536 550	neumoperitoneo
+T51	ENFERMEDAD 944 1020	adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales
+T52	SINTOMA 1039 1063	Sutura metálica en recto
+T53	ENFERMEDAD 1065 1095	Leve derrame pleural bilateral
+T54	ENFERMEDAD 1280 1299	infección por COVID
+T55	ENFERMEDAD 2423 2446	hemoperitoneo en pelvis
+T56	ENFERMEDAD 2510 2524	neumoperitoneo
+T57	ENFERMEDAD 2918 2994	adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales
+T58	SINTOMA 3071 3095	Sutura metálica en recto
+T59	ENFERMEDAD 3097 3127	Leve derrame pleural bilateral
+T60	ENFERMEDAD 3307 3312	COVID
+T61	ENFERMEDAD 3482 3494	Taqueostomía
+T62	ENFERMEDAD 3511 3548	adenopatías mediastínicas ni axilares
+T63	ENFERMEDAD 3584 3599	derrame pleural
+T64	ENFERMEDAD 3829 3850	infección por Covid19
+T65	PROCEDIMIENTO 2 10	RX TÓRAX
+T66	PROCEDIMIENTO 54 72	ANGIO-TC ABDOMINAL
+T67	PROCEDIMIENTO 1022 1037	Sondaje vesical
+T68	PROCEDIMIENTO 1443 1456	ARTERIOGRAFÍA
+T69	PROCEDIMIENTO 1545 1592	Arteriografías de arterias lumbares del L1 a L5
+T70	PROCEDIMIENTO 1683 1753	Embolizamos mediante glubran 1:3 la arteria lumbar L2 y espongostán L3
+T71	PROCEDIMIENTO 1762 1776	arteriografías
+T72	PROCEDIMIENTO 1795 1806	aortografía
+T73	PROCEDIMIENTO 1912 1930	TC ABDOMINOPÉLVICO
+T74	PROCEDIMIENTO 1962 1964	TC
+T75	PROCEDIMIENTO 2002 2014	embolización
+T76	PROCEDIMIENTO 2485 2487	TC
+T77	PROCEDIMIENTO 2996 3011	Sondaje vesical
+T78	PROCEDIMIENTO 3447 3465	TC TORACOABDOMINAL
+T79	PROCEDIMIENTO 4352 4354	TC
+T80	ENFERMEDAD 94 118	hematoma retroperitoneal
+T81	SINTOMA 521 532	colecciones
+T82	ENFERMEDAD 897 927	dilatación de la via excretora
+T83	PROCEDIMIENTO 1039 1063	Sutura metálica en recto
+T84	SINTOMA 1111 1149	copaso pasivo del paréqnquima pulmonar
+T85	ENFERMEDAD 1336 1360	hematoma retroperitoneal
+T87	SINTOMA 1823 1865	correcta oclusión de los vasos embolizados
+T88	SINTOMA 1883 1909	extravasación de contraste
+T89	SINTOMA 1990 2032	Cambios por embolización en retroperitoneo
+T90	ENFERMEDAD 2069 2093	hematoma retroperitoneal
+T91	PROCEDIMIENTO 3013 3031	Sonda nasogástrico
+T92	SINTOMA 3013 3069	Sonda nasogástrico con extremo distal en cuerpo gástrico
+T94	SINTOMA 3143 3181	colapso pasivo del parénquima pulmonar
+T95	ENFERMEDAD 3357 3381	hematoma retroperitoneal
+T96	ENFERMEDAD 4092 4116	hematoma retroperitoneal
+T97	ENFERMEDAD 4118 4137	Leve ecasia piélica
+T98	ENFERMEDAD 4187 4211	hematoma retroperitoneal
+T99	ENFERMEDAD 4405 4413	hematoma
+T100	SINTOMA 4457 4489	Sutura en recto sin alteraciones
+T101	PROCEDIMIENTO 4457 4472	Sutura en recto
+T102	ENFERMEDAD 4515 4546	afectación pulmonar por Covid19
+T103	SINTOMA 4552 4563	deslustrado
+T104	ENFERMEDAD 4645 4669	hematoma retroperitoneal
+T105	ENFERMEDAD 594 610	lesiones focales
+T106	ENFERMEDAD 2568 2584	lesiones focales
+T1	PROCEDIMIENTO 3071 3095	Sutura metálica en recto

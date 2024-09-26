@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Tenue opacidad en base pulmonar derecha que borra parcialmente el hemidiafragma derecho sugestivo de proceso infeccioso.
+
+descrip:
+RX  PORTATIL  TORAX

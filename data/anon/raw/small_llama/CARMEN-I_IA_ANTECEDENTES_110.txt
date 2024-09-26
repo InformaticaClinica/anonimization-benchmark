@@ -1,0 +1,12 @@
+ Varón [**EDAD_SUJETO_ASISTENCIA**], con alergia a la Penicilina por reacción cutanea. Ex- fumador desde el 2014, con dosis acumulada de 40 paquetes/año. Ex-enol desde el año 2000 aproximadamente. Ha trabajado de [**PROFESION**], en contacto con amianto. Vive con [**OTROS_SUJETO_ASISTENCIA**] e [**OTROS_SUJETO_ASISTENCIA**] en domicilio.
+VALORACIÓN GERIÁTRICA:
+- Valoración funcional: Deambulación correcta e independiente, Barthel 100.
+- Valoración social: vive en domicilio con su [**OTROS_SUJETO_ASISTENCIA**] y su [**OTROS_SUJETO_ASISTENCIA**]. Es el principal cuidador de su [**OTROS_SUJETO_ASISTENCIA**], junto con la [**OTROS_SUJETO_ASISTENCIA**].
+- Síndromes geriátricos: Presbicia e hipoacusia. No presenta polimedicación, tampoco caídas, síndrome ansioso-depresivo. Tampoco presenta incontinencia de esfínteres.
+* ANTECEDENTES PATOLÓGICOS
+- [**FAMILIARES_SUJETO_ASISTENCIA**]
+- [**FAMILIARES_SUJETO_ASISTENCIA**]
+- [**FAMILIARES_SUJETO_ASISTENCIA**], con cirugía desobstructiva en 2020.
+- [**FAMILIARES_SUJETO_ASISTENCIA**]. En un TC torácico del 2021 se evidencian placas pleurales calcificadas. Realiza controles en el [**HOSPITAL**].
+Destacaban adenopatías calcificadas paraaórticas e hiliar pulmonar izquierda y una opacidad nodular sólida puntiforme en el lóbulo superior derecho inespecífica.
+MEDICACIÓN HABITUAL (02/4/2026): [**MEDICAMENTOS**]

@@ -1,0 +1,13 @@
+
+prueba:
+RX TORAX PA L
+
+clinica:
+COVID-19
+
+conclusiones:
+Opacidad/consolidación  en LM.
+Sutura de esternotomia media.
+
+descrip:
+RX TORAX PA L

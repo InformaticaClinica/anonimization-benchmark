@@ -1,0 +1,4 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**], Alergia a Quinolonas y sulfamidas, de profesión [**PROFESION**], en contacto con pacientes covid positivo.
+ANTECEDENTES PATOLÓGICOS:
+- Miopía
+- IQ: Auto Injert cutani infancia per cremadura.

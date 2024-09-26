@@ -1,0 +1,10 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+control covid
+covid +
+
+descrip:
+RX  PORTATIL  TORAX

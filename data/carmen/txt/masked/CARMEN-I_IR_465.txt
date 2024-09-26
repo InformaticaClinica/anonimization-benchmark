@@ -1,0 +1,21 @@
+
+prueba:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II .
+
+clinica:
+Paciente COVID19 que presentó TEP masivo hace 2 semanas (requirió fibrinolisis) que se realiza hoy TC torácico para valoración de posible canulación de ECMO VV. Solicitamos revisión de VCI y venas femorales de cara a la posible canulación. Gracias, un saludo
+COVID19
+
+protocolo:
+Estudi Angio-TC en fase venosa després de l'administració de contrast
+
+resultados:
+Sense eivdènica de trombo a nivell de venes femorals, eixos ilíacs i vena cava inferior.
+Hematoma adjacent a l'artèria femoral dreta ( punció prèvia??) i que comprimeix discretament la vena femoral dreta.
+Sense altres troballes valorables a nivell vascular.
+
+conclusiones:
+Eixos venosos permeables.
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.

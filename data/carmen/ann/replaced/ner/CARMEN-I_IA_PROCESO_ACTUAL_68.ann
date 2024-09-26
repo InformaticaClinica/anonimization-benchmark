@@ -1,0 +1,26 @@
+T7	FARMACO 123 135	azitromicina
+T8	FARMACO 351 368	hidroxicloroquina
+T9	FARMACO 371 383	azitromicina
+T10	FARMACO 559 570	tocilizumab
+T11	FARMACO 582 599	metilprednisolona
+T12	FARMACO 862 871	quetipina
+T13	FARMACO 398 405	Kaletra
+T14	FARMACO 679 689	barcitinib
+T15	PROCEDIMIENTO 767 781	corticoterapia
+T16	SINTOMA 69 75	fiebre
+T17	SINTOMA 78 86	tos seca
+T18	SINTOMA 213 247	infiltrados alveolares bilaterales
+T19	SINTOMA 495 532	elevación de reactantes de fase aguda
+T20	ENFERMEDAD 262 280	neumonía bilateral
+T21	ENFERMEDAD 341 346	COVID
+T22	ENFERMEDAD 621 647	insuficiencia respiratoria
+T23	ENFERMEDAD 735 738	NOC
+T24	PROCEDIMIENTO 181 201	radiografia de tórax
+T25	PROCEDIMIENTO 995 1006	aislamiento
+T26	SINTOMA 410 418	QT largo
+T27	PROCEDIMIENTO 660 669	analítica
+T28	PROCEDIMIENTO 915 924	analítica
+T29	PROCEDIMIENTO 573 599	bolus de metilprednisolona
+T30	PROCEDIMIENTO 719 731	radiográfico
+T1	SINTOMA 897 924	mejoría clínica y analítica
+T2	SINTOMA 152 167	mejoría clínica

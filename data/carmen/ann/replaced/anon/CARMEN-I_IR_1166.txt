@@ -1,0 +1,27 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+El paciente referenciado ha presentado un TEP durante su ingreso hospitalario. Interesa estudio para descartar trombosis venosa profunda.
+Muchas gracias.
+TEP
+
+protocolo:
+Ecografía Doppler de EEII URGENTE
+
+resultados:
+EI derecha:
+Venas femoral común, superficial y profunda, poplitea, peroneas y tibiales posteriores compresibles, permeables, sin signos eco-Doppler de TVP.
+Venas musculares de la pantorrilla permeables.
+No se observan imágenes de trombosis superficial.
+EI izquierda:
+Venas femoral común, superficial y profunda, poplitea, peroneas y tibiales posteriores compresibles, permeables, sin signos eco-Doppler de TVP.
+Venas musculares de la pantorrilla permeables.
+No se observan imágenes de trombosis superficial.
+
+conclusiones:
+Exploración sin signos de TVP ni trombosis superficial en los territorios explorados.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

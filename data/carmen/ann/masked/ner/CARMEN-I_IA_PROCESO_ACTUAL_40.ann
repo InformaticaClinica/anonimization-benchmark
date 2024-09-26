@@ -1,0 +1,26 @@
+T5	SINTOMA 163 179	malestar general
+T6	SINTOMA 205 225	disconfort abdominal
+T7	SINTOMA 230 288	diarreeas líquidas con moco y posteriormente sangre fresca
+T8	SINTOMA 337 344	náuseas
+T9	SINTOMA 347 354	vómitos
+T10	SINTOMA 378 384	fiebre
+T11	SINTOMA 446 473	gota gruesa que es negativa
+T12	SINTOMA 840 848	malestar
+T13	SINTOMA 476 505	PCR SAR-COV-1 que se positiva
+T14	SINTOMA 658 707	coprocultivos con presenta crecimiento de E. Coli
+T15	SINTOMA 930 944	COVID positivo
+T16	SINTOMA 974 1024	lesiones eritematosas lineales con halo periférico
+T17	SINTOMA 1062 1118	brazo y antebrazo derecho (kissing and mirroring lesions
+T18	SINTOMA 1127 1174	quemazon, lo mismo a nivel toracico y abdominal
+T19	SINTOMA 813 835	persistencia diarreica
+T20	SPECIES 480 489	SAR-COV-1
+T21	SPECIES 700 707	E. Coli
+T22	ENFERMEDAD 930 935	COVID
+T23	PROCEDIMIENTO 544 548	gota
+T24	FARMACO 603 614	ceftriaxona
+T25	FARMACO 623 635	azitromicina
+T26	FARMACO 1194 1206	azitromicina
+T27	PROCEDIMIENTO 446 457	gota gruesa
+T28	PROCEDIMIENTO 476 489	PCR SAR-COV-1
+T29	PROCEDIMIENTO 658 671	coprocultivos
+T30	PROCEDIMIENTO 435 444	analítica

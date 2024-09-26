@@ -1,0 +1,20 @@
+
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentossas conocidas ni hábitos tóxicos. Independiente para las actividades básicas de la vida diaria.
+Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**].
+ANTECEDENTES PATOLÓGICOS.
+- HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+- DIABETES MELLITUS 2 en tratamiento con antidiabéticos orales.
+- DISLIPEMIA en tratamiento farmacológico.
+- LEVE DETERIORO COGNITIVO secundario a enfermedad de pequeño vaso cerebral.
+- INSUFICIENCIA RENAL CRÓNICA TERMINAL secunadria a GNMC. Inició hemodiálisis en [**FECHAS**]. Primer TRASPLANTE RENAL en [**FECHAS**]. Reinició hemodiálisis en [**FECHAS**]. Segundo TRASPLANTE RENAL en [**FECHAS**]. Creatininas habituales de 0,8 mg/dl. En los últimos meses presenta deterioro de la función renal hasta creatininas alrededor 2,5-3 mg/dl.
+En [**FECHAS**] se realizó biópsia renal con fibrosis intesticial con atrofia tubular grado 2, arteriolopatía compatible con toxicidad crónica por anticalcineurínicos y C4d focalmente positivo sin lesiones morfológicas propias de rechazo. En seguimiento en nuestro centro.
+- HIPERURICEMIA en tratamiento farmacológico. Episodio de gota en [**FECHAS**].
+- FLUTTER AURICULAR diagnosticado en [**FECHAS**], en tratamiento con Eliquis (mala tolerancia al Sintrom).
+- AVC isquémico protuberancia diagnosticado en [**FECHAS**] a raíz de Flutter auricular, en contexto de inestabilidad a la marcha, incontinencia urianria y pérdida de fuerza en extremidad superior izquierda. Recuperación ad integrum. RM: AVC isquémico en hemiprotuberancia izquierda y discretos signos de atrofia cerebral y moderados signos de leucoencefalopatia de probable origen hipóxicoisquémico crónico con focos de sangrado cronico.
+- ADENOCARCINOMA PROSTÁTICO Gleason 6 sin extensión extraprostática diagnosticado en [**FECHAS**] a raíz de ascenso de PSA el ultimo año (PSA hasta 5.2). Tratado con Radioterapia.
+- ADENOCARCINOMA PULMONAR (pT1bN0) intervenido en [**FECHAS**].
+Lobectomía lóbulo superior derecho por toracoscopia. En [**FECHAS**] en de control presenta nuevo nódulo pulmonar en LI izquierdo de 17mm de diámetro, podría ser infecciosao y se aconseja control. En el TC de [**FECHAS**] presenta disminución del tamaño.
+- CARCINOMA ESCAMOSO cutáneo intervenido.
+*MEDICACIÓN HABITUAL: Insulina actrapid 4Ui/6h, Insulina glargina 10 Ui/24h, Omeprazol 20mg/24h, Ipratropio 2 inhalaciones /8h, Prednisona 5mg/24h, Doxazosina 4mg/8h, Apixabán 2,5mg/12h, Amiodarona 200mg/48h, Bumetanida 1mg/8h, Alogliptina 25 mg/24h, Simvastatina 20mg/24h, Ondansetron 4mg/8h si precisa, fluoxetina 20mg/24h, Ácido micofenólico 180mg/12h, Tacrolimus 5mg/24h, calcifediol 266mcg/mes, Amlodipino 5mg/12h, Losartan+Hidroclorotiazida 50/12,5 mg/24h, Mirabegrón 50mg/24h.
+ 

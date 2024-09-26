@@ -1,0 +1,20 @@
+T6	ENFERMEDAD 31 57	insuficiencia respiratoria
+T7	ENFERMEDAD 847 879	insuficiencia respiratoria grave
+T8	FARMACO 269 280	paracetamol
+T9	FARMACO 519 529	prednisona
+T10	FARMACO 561 584	amoxicilina-clavulánico
+T11	HUMANO 190 217	médico de atención primaria
+T12	HUMANO 643 651	familiar
+T13	PROCEDIMIENTO 245 248	TAR
+T14	PROCEDIMIENTO 358 366	Rx tórax
+T15	PROCEDIMIENTO 479 499	radiografía de tórax
+T16	PROCEDIMIENTO 679 695	TAR/PCR covid-19
+T17	SINTOMA 123 129	fiebre
+T18	SINTOMA 134 159	expectoración amarillenta
+T19	SINTOMA 162 175	artromialgias
+T20	SINTOMA 378 409	opacidades alveolares y difusas
+T22	PROCEDIMIENTO 683 695	PCR covid-19
+T23	ENFERMEDAD 687 695	covid-19
+T24	PROCEDIMIENTO 698 754	Vacunado contra la Gripe y Covid- 19 (3ra Dosis Moderna)
+T1	ENFERMEDAD 717 722	Gripe
+T2	ENFERMEDAD 725 734	Covid- 19

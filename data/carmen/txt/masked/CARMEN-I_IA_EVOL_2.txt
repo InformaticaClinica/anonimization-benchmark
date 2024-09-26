@@ -1,0 +1,26 @@
+
+* EVOLUCIÓN SALA ENF. INFECCIOSAS:
+1. INSUFICIENCIA RESPIRATORIA.
+2. NEUMONÍA BILATERAL POR SARS-CoV-2.
+3. TROMBOEMBOLISMO PULMONAR MÚLTIPLE SEGMENTARIO Y SUBSEGMENTARIO BILATERAL.
+4. ASPERGILOSIS PULMONAR POSIBLE (ÍNDICE AGA 0.77).
+5. INMUNODEPRESIÓN POR INFECCIÓN POR VIH + ADENOCARCINOMA DE PRÓSTATA E- IV BAJO QUIMIOTERAPIA ACTIVA (último ciclo docetaxel [**FECHAS**]).
+1-2.- A su ingreso en Infecciosas, el paciente se mantiene estable, con tos leve y sin otra sintomatología, afebril y eupneico, con saturaciones de 93% basales y 98% con lentillas nasales a 2 L/min, por lo que se mantiene oxigenoterapia. El [**FECHAS**] finaliza la décima dosis de Remdesivir, y el [**FECHAS**] finaliza el séptimo día de dexametasona (y quedando con su prednisona basal) y la antibioterapia. Analíticamente se observa disminución de los reactantes de fase aguda, normalización de la calcemia, así como mejoría de la ferritina, LDH, anemia e hipoproteinemia, con una leve linfopenia absoluta sin repercusiones clínicas. A la radiografía de tórax de control, se observa estabilidad radiológica, sin progresión.
+Durante su estancia ha presentado buen estado general, quedando afebril y requiriendo oxigenoterapia con lentillas nasales a 2 L/min, consiguiendo buenas saturaciones (96%) sin desaturar al ejercicio con fisioterapeuta, así como sin crepitantes a la exploración. Dada la buena evolución clínico-analítica y radiológica, con saturaciones de oxígeno subóptimas, se pacta con el paciente alta a domicilio con Hospitalización Domiciliaria manteniendo oxigenoterapia.
+3.- Durante su ingreso en Infecciosas, el paciente se mantiene con dosis terapéuticas de enoxaparina. Al alta, definir duración por su equipo de Oncología.
+4.- Durante su ingreso en Infecciosas se mantiene tratamiento antifúngico con voriconazol endovenoso pendiente del resultado final del cultivo de BAL, que resulta negativo. EL índice AGA en sérum resulta 0.27 y no se detecta antígeno Aspergillus. Al alta con HDOM se pacta realizar TC torácico de control para acabar de descartar aspergilosis pulmonar, manteniendo al menos hasta entonces tratamiento con voriconazol oral. Se considera, de todas maneras, poco probable que tenga actualmente una aspergilosis pulmonar.
+5.- Drurante su ingreso se mantiene su tratamiento para VIH. Al alta, se informa a Oncología del episodio actual del paciente, y tras informar a su oncóloga se decide posponer el siguiente ciclo de quimioterapia a al menos 14 días.
+RESUMEN CRONOLÓGICO:
+Fecha de inicio de los síntomas: [**FECHAS**]
+Fecha de ingreso: [**FECHAS**]
+Fecha de frotis positivo (primera PCR): [**FECHAS**]
+Fecha de inicio tratamiento: [**FECHAS**]
+Tipo de Tratamiento:
+- [**FECHAS**] - [**FECHAS**]: Remdesivir 100 mg (ampliado 10 días).
+- [**FECHAS**] - [**FECHAS**]: Dexametasona 6mg (a parte, toma de forma bisemanal dexametasona 8mg/día peri-QT durante 5 días y el resto del tiempoprednisona 10mg/día).
+- Antibioterapia hasta [**FECHAS**]: Meropenem + levofloxacino + ceftarolina.
+- [**FECHAS**]: Voriconazol, mantener hasta TC torácico de control y valorar retirada o mantenimiento según resultados.
+TRATAMIENTO AL ALTA:
+Cotrimoxazol forte 800-160 mg Ma-Ju-Sa, Voriconazol 200 mg 1 cmp / 12 h, Tenofovir Alaf-Emtricitabina 25-200 mg 1 cmp / 24 h, Raltegravir 400 mg 1 cmp / 12 h, Omeprazol 20 1 cmp / 24 h, Prednisona 10 mg 1 cmp / 24 h, Enoxaparina 80 mg / 12 h, Clorazepato dipotásico 5 mg 1 cmp / 24 h, Lorazepam 1 mg 1 cmp / 24 h, Citalopram 5 mg 1 cmp / 24 h, Pregabalina 25 mg 1 cmp / 24 h, Fentanilo 25 mcg/h 4,2 mg percutáneo / 72 h, Fentanilo bucal (Actiq) 200 mcg 1 cmp / 4 h si precisa, Paracetamol 1 g 1 cmp / 6 h si precisa.
+   
+   

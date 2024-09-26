@@ -1,0 +1,26 @@
+ Antecedentes personales: [**SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], without AMC. No hábitos tóxicos.
+Parcialmente dependiente para las ABVD, camina with a walker. Lives in a residence.
+*ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL in medical treatment.
+2. DEMENCIA POR CUERPOS DE LEWY. Diagnosed in 2019 in C. La Salud.
+Follow-up by Neurology CAP (Dra. Luaces).
+3. Aneurysm of ACMI M1-M2 of 4 mm. Incidental. Under periodic imaging follow-up (last TC craneal in 2021: stable aneurysm). The patient declined surgical treatment.
+4. OSTEOPOROSIS in substitutive treatment.
+5. SÍNDROME DEPRESIVO of long evolution in medical treatment.
+6. NEUMOPATIA INTERSTICIAL. PROBABLE NEUMONÍA POR HIPERSENSIBILIDAD.
+The case was presented in the EPID Committee, recommending expanded study by MAS to rule out associated autoimmune disease (Scl-70 and ANA by IFI Hep2 positive). In treatment with Prednisona 5 mg/d. Under follow-up by Pulmonology C. La Salud.
+- Lung function: Spirometric deterioration and DLCO (FEV1-13 and DLCO- 16%) in relation to the study of 14.02.26.
+Admitted in December 2026 for pneumonia presented occasional episodes of desaturation with effort associated with tachypnea, so oxygen therapy was initiated 24H and subsequent follow-up with the Interstitials Team in 3 months.
+7. LUMBAR CANAL STENOSIS AND LUMBAR DISCOPATHY.
+It has been studied by the Raquis Unit of Traumatology in C. La Salud (Dr. Nanning) in December 2022. He was in Aspasia Medical Center until February 2023 for rehabilitation.
+*SURGICAL INTERVENTIONS: Faquectomía bilateral.
+*CURRENT MEDICATION (updated 16/03/2027):
+-[**MEDICATION_1**]
+-[**MEDICATION_2**]
+-[**MEDICATION_3**]
+-[**MEDICATION_4**]
+-[**MEDICATION_5**]
+-[**MEDICATION_6**]
+-[**MEDICATION_7**]
+-[**MEDICATION_8**]
+-[**MEDICATION_9**]

@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Varón de 42 años obeso, con neumonía bilateral por SARS-CoV-2, IOT el 23/11, traqueo el 2/12. Desde ayer presenta empeoramiento de la insuficiencia respiratoria, con PaFi 100, con pérdida de volumen en las bases en la Rx y más infiltrados. DD 2400. Se ha realizado FBS, sin hallazgos relevantes. Solicitamos angio-TC para descartar TEP/sobreinfección/NOC. Gracias.
+COVID
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+*Estudio artefactado por medidas antropométricas del paciente. Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+No se visualizan defectos de repleción intraluminal sugestivas de TEP en las arterias pulmonares principales, en sus ramas lobares ni segmentarias.
+Tronco de la arteria pulmonar permeable de calibre normal. No hay signos de sobrecarga ventricular derecha.
+CVC derecho con extremo distal en unión cavoatrial. Sonda nasogástrica con extremo distal en cuerpo gátrico. Intubación endotraqueal bien posicionada a 5 cm de la carina.
+No se visualizan adenopatías de tamaño patológico a nivel mediastínico, hiliar ni axilar. Lipomatosis mediastinica. Resto de estructuras mediastínicas sin alteraciones significativas.
+No hay derrame pericárdico. Mínimo derrame pleural bilateral.
+Parénquima pulmonar con opacidades en vidrio deslustrado de distribución bilateral y difusa, en el contexto clinico del paciente coherente con neumonía por COVID-19 de extensión moderada. No se observan cambios organizativos evidentes en el estudio actual ni signos de sobreinfección. Colapso completo de ambos LLII normocaptante y atelectasias lineales en língula.
+En los cortes de hemiabdomen superior incluidos se aprecia una lesion nodular periférica de 3 cm en seg. VI hepático que presenta captación periférica de contraste (solo fase arterial), podría tratarse de un hemangioma, a valorar estudio dirigido si procede.
+
+conclusiones:
+- Sin signos de TEP.
+- Hallazgos coherentes con neumonía por COVID-19 de extensión moderada.
+No se observan cambios organizativos evidentes en el estudio actual ni signos de sobreinfección.
+- Colapso completo de ambos LLII.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,29 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con ingreso en digestivo por PANCREATITIS AGUDA BILIAR GRAVE NECROTIZANTE (80-90%).COLECCIÓN NECRÓTICA DE 20*7CM DRENADA MEDIANTE USE+AXIOS.DIABETES PANCREATOPRIVA DE DEBUT.
+Ingreso actual por urgencias por dolor abdominal y vómito A/S : L: 28,000 sin alt del perfil pancreático, leve colestasis sin aumento BT.
+ECO: Compatible con colecistitis aguda.. disminución de colección descrita en TC previo del 13/01.
+Se solicita TAC urgente
+
+protocolo:
+TC ABDOMINAL con contraste endovenoso en fase portal
+
+resultados:
+Se compara con TC previa del 13/01/2024.
+Drenaje transgástrico con prótesis tipo Axios y catéter de drenaje tipo pigtail en su interior, que conectan la luz gástrica con la colección necrótica pancreática, que ha disminuido de tamaño de forma considerable, actualmente prácticamente no se identifica. Notable mejoría de los cambios inflamatorios peripancreáticos. Únicamente se identifica parénquima pancreático a nivel del proceso uncinado, cabeza e istmo (todo ello corresponde al 30% de la glándula).
+Las pequeñas colecciones periesplénicas han disminuido de tamaño (la mayor tamaño de 17 mm, con previo de 27 mm).
+Discreta dilatación de la vía biliar intrahepática, de predominio izquierdo, y moderada de la vía biliar extrahepática (calibre de 7 mm), que presenta realce parietal, hasta su tercio distal donde vemos una disminución progresiva de su calibre hasta la papila. La vesícula biliar se encuentra algo distendida, con paredes marcadamente engrosadas y edematosas, con litiasis en su interior, y con una pequeña solución de continuidad en el infundíbnulo y colección líquida perivesicular, hallazgos compatibles con colecistitis perforada.
+Vena porta, VMS y vena esplénica permeables. Resolución de la compresión parcial del confluente espleno-mesentérico. Tronco celiaco y AMS permeables, sin alteraciones.
+Persiste leve engrosamiento parietal de un segmento de colon en ángulo hepático, reactivo.
+No se observa líquido libre intrabdominal en el momento actual.
+Resto de la exploración sin cambios significativos: Parénquima hepático, bazo, glándulas suprarrenales y riñones sin alteraciones relevantes. Sin adenopatías retroperitoneales ni ilíacas valorables.
+
+conclusiones:
+Práctica resolución de la colección necrótica peripancreática, correctamente drenada, y mejoría de los cambios inlfamatorios por pancreatitis.
+Hallazgos compatibles con colecistitis perforada y leve dilatación de la vía biliar intra y extrahepática, hasta el tercio distal del colédoco.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

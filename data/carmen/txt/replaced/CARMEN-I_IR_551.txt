@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paient ingressat per COVID19 amb pneumònia bilateal i TEP bilateral subsegmetnari que presenta anemització en les darreres 48h, amb GCS 3 i aturada cardiorresiratòria aquest mati. Hb 4.5. Agrairiem TC cerebral + toracoabdminal per descartar sagnat , gràcies
+COVID+
+
+protocolo:
+TC CEREBRAL basal urgente
+
+conclusiones:
+Disminución global leve del volumen cerebral en relación con cambios involutivos.
+Sistema ventricular simétrico no dilatado.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso valorables por TC en el momento actual.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPITA COVID
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Consolidación: SI, pequeño foco consolidativo en campo pulmonar medio D.
+Patrón intersticial: SI
+Distribución: periférica.
+Campos pulmonares:
+-Derecho: medio / inferior.
+-Izquierdo: medio.
+CONCLUSION:
+Probable COVID.
+
+descrip:
+RX  PORTATIL  TORAX

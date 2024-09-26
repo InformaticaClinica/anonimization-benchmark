@@ -1,0 +1,25 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] que ha fet una pneumonia per COVID19, amb dolor toràcic persistent, que ha anat evolucionant a una consolidació al lòbul superior dret. Sospitem posssible NOC. A més, suggestiva dilatació d'aorta descendent per Rx tórax.
+COVID-19 +
+
+protocolo:
+TC de tórax adquirido con contraste EV.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Pequeña calcificación retrocrural izquierda.
+Dilatación de la aorta torácica ascendente (40 mm). Tronco de la arteria pulmonar de calibre normal. Leve dilatación de las arterias pulmonares principales. No se observan imágenes de TEP central en el estudio actual (no se ha adquirido angio-TC).
+Espacios pleurales libres.
+Bronquiectasias cilíndricas difusas.
+Focos consolidativos peribroncovasculares asociado a dilataciones bronquiales, de distribución perilobular, con distorsión parenquimatosa, localizados en regiones posteriores de LLSS y de segmentos apicales de LLII. Algunos focos parcheados de pequeño tamaño, de predominio en LLII, presentan morfología nodular. El área consolidativa periférica más extensa visualizada en la RX de [**FECHAS**] se localiza en los segmentos posterior del LSD y apical del LID y presenta contacto pleural (valorar posible causa de dolor pleurítico referido en el información clínica).
+Los hallazgos descritos son sugestivos de neumonía bilateral por COVID- 19 con patrón de neumonía organizativa. La neumonía organizativa es un patrón radiológico descrito en estadio evolucionado de la infección por COVID-19. Globalmente la afectación bilateral presenta mejoría progresiva respecto a la RX de tórax de [**FECHAS**].
+
+conclusiones:
+Focos consolidativos peribroncovasculares asociado a dilataciones bronquiales, de las características descritas, localizados en regiones posteriores de LLSS y de segmentos apicales de LLII. Los hallazgos descritos son sugestivos de neumonía bilateral por COVID- 19 con patrón de neumonía organizativa. La neumonía organizativa es un patrón radiológico descrito en estadio evolucionado de la infección por COVID-
+19. Globalmente la afectación bilateral presenta mejoría progresiva respecto a la RX de tórax de [**FECHAS**].
+
+descrip:
+TC TORAX

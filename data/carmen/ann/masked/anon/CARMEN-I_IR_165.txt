@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con TEP bilateral y hematoma intraparenquimatoso, ahora con dodis anticoagulante de enoxaparina.
+Solicitamos ANGioTAC para control de TEP y hematoma Asi mismo TCAR para valorar NO.
+Gracias
+HEMATOMA INTRAPARENQUIMATOSO PULMONAR
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+Se realizan secciones adicionales con técnica de alta resolución.
+
+resultados:
+Masa extrapulmonar hiperdensa posteriord de probable origen pleural, sin cambios valorables, compatible con hematoma aunque extraña su estabilidad evolutiva.
+Disminución de los defectos de repleción vasculares con perisistencia en LM y LID donde van adoptando morfología d ebandas.
+Enfisema pulmonar.
+Consolidaciones periféricas bilaterales con bandas fibróticas compatibl econ neumonia COVID con discreta mejoría radiológica respecto a TC previa.
+
+conclusiones:
+Hematoam pluarl izq sin cambios,
+Persistencia de imágenes de TEP en LM y LID
+Neumonia COVID con discreta mejoría respecto a TC previa.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

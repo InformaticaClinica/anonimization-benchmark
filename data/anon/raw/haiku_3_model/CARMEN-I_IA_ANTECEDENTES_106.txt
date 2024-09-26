@@ -1,0 +1,6 @@
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin alergias ni hábitos tóxicos. Natural de [**PAIS**], vive en [**TERRITORIO**] con su [**FAMILIARES_SUJETO_ASISTENCIA**] desde [**FECHAS**].
+ANTECEDENTES PATOLÓGICOS:
+- [**INSTITUCION**] desde [**FECHAS**], diagnosticada a raíz de hipertransaminasemia con biopsia sugestiva. [**NUMERO_IDENTIF**] positivos. Tratamiento corticoideo y con [**PROFESION**] semanal. Toma [**MEDICACION**] con normalización de la fosfatasa alcalina.
+- [**OTROS_SUJETO_ASISTENCIA**]. Dos abortos espontáneos con [**NUMERO_IDENTIF**] negativos.
+- [**OTROS_SUJETO_ASISTENCIA**], con una fractura de [**OTROS_SUJETO_ASISTENCIA**] patológica en [**FECHAS**] a raíz del tratamiento corticoideo que requirió colocación de [**OTROS_SUJETO_ASISTENCIA**]. Tratamiento con suplementos de [**OTROS_SUJETO_ASISTENCIA**].
+MEDICACIÓN HABITUAL: [**MEDICACION**], [**MEDICACION**] [**MEDICACION**] los [**FECHAS**], [**MEDICACION**] [**MEDICACION**], [**MEDICACION**] [**MEDICACION**] si precisa.

@@ -1,0 +1,29 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+ICTUS ACMD
+
+protocolo:
+TC ABDOMINOPELVICO con contraste e.v. en fase portal.
+
+resultados:
+Hígado de tamaño, morfología y coeficiente de atenuación normales.
+Vesícula biliar de tamaño y morfología normal. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeable.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad, sin cambios densitométricos significativos.
+SNG con extremo distal en cámara gástrica. Leve engrosamiento parietal difuso del sigma y colon izquierdo, con mínima trabeculación grasa circundante, que sugiere colitis incipiente. Diverticulosis colónica sin signos de diverticulitis. Ampolla rectal con contenido fecal, sin signos de proctitis. Resto de asas intestinales de calibre y captación normal.
+Riñones de nefrograma, tamaño y morfología normal. No hay dilatación de la vía excretora ni litiasis. Sonda vesical.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Minima lámina de liquido en pelvis, inespecífico.
+Cambios posquirúrgicos en región inguinal izquierda en relación a punción reciente. Arterias del eje ilíaco-femoral permeables.
+Trombosis venosa profunda desde los venas profundas de la extremidad inferior izquierda (safena, femoral superficial y profunda) hasta la vena cava inferior a la altura de L4. Cambios edematosos en tejido subcutáneo de extremidad inferior izquierda.
+Atelectasias bibasales en ambos LLII con algunas áreas de vidrio deslustrado periféricas basales en relación a neumonía por COVID-19 reciente. Tronco de arteria pulmonar de calibre normal.
+
+conclusiones:
+No se observan signos de pseudoclusión/oclusión intestinal.  Leve engrosamiento parietal difuso del sigma y colon izquierdo que sugiere colitis incipiente.
+Trombosis venosa profunda que afecta desde las venas femorales izquierdas hasta la VCI infrahepática.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

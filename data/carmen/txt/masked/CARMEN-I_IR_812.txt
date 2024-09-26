@@ -1,0 +1,31 @@
+
+prueba:
+SERIADA OSEA MIELOMA
+
+clinica:
+Se solicta Rx Seriada osea en paciente con Fractura patologica, asi gammapatia monoclonal con componente de mobilidad restringida IgA Lambda de caràcter monoclonal en sangre y orina. asi como cadenes Lleugeres Lambda Libres de caràcter monoclonal.
+Fractura no especificada de la diàfisi de l'húmer, extremitat superior no especificada, A
+
+conclusiones:
+RAYOS X SERIADA ÓSEA
+RAYOS-X FRENTE PERFIL CRÁNEO.
+Imágenes osteolíticas en calota craneal.
+RAYOS-X FRENTE PERFIL COLUMNA CERVICAL.
+Cambios degenerativos.
+RAYOS-X FRENTE PERFIL COLUMNA DORSAL.
+No se identifican imágenes focales.
+RAYOS-X FRENTE PERFIL COLUMNA LUMBAR.
+Ateromatosis aórtica calcificada.
+RAYOS-X FRENTE PELVIS.
+No se identifican imágenes focales.
+RAYOS-X FRENTE HÚMEROS Y FÉMURES.
+Fractura patológica del tercio distal del húmero izquierdo instrumentada con placa y tornillos.
+RAYOS-X FRENTE PERFIL TÓRAX.
+Clips quirúrgicoa en mama derecha. Osteosintesis e húmero izquierdo.
+Silueta cardíaca con índice cardiotorácico conservado, ateromatosis aórtica calcificada.
+No se identifican adenopatías en territorio mediastínico ni hiliar.
+No se aprecian imágenes de derrame pleural.
+En parénquima pulmonar no se aprecian condensaciones alveolares, patrones intersticiales ni imágenes nodulares.
+
+descrip:
+SERIADA OSEA MIELOMA

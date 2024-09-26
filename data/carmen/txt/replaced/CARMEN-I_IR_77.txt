@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Insuficiencia respiratoría crónica hipercápnica
+
+protocolo:
+TC CRANEAL URGENTE
+
+resultados:
+No se observan imágenes de hemorragia aguda intra ni extraaxial.
+Discreta dilatación de los surcos cerebrales y cerebelosos, en relación con cambios involutivos.
+Sistema ventricular no dilatado y simétrico.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso.
+Quiste de retención mucoso en seno maxilar derecho. Calcificaciones durales de la hoz.
+
+conclusiones:
+No se observan signos que sugieran patología intracraneal aguda.
+
+descrip:
+TC CEREBRAL

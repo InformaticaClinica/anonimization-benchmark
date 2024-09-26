@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+seguimiento de neumonia por covid / neumonitis persistente vs fibrosis ?
+NEMONIA POR SARS-COV-2
+
+protocolo:
+TC de tórax de alta resolución.
+
+resultados:
+Se compara con estudios previos, última TC del [**FECHAS**]:
+PICC con extremo distal en subclavia derecha. Traquoestomía con extremo distal a 3,5 cm de carina. SNG con extremo distal en estómago distal.
+No se observa derrame pleural ni pericárdico.
+Calcificaciones de las arterias coronarias.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Discreta disminución de las opacidades en vidrio deslustrado y áreas consolidativas bilaterales y multilobares. Asocia bandas parenquimatosas, bronquiectasias con distorsión bronquial.
+Estos hallazgos son compatibles con neumonía bilateral por COVID-19 con cambios organizativos en evolución.
+Cambios degenerativos en columna torácica. Fractura aplastamiento de plataforma superior de T10.
+
+conclusiones:
+Sin cambios significativos respecto estudio previo.
+Hallazgos compatibles con neumonía bilateral por COVID-19 con cambios organizativos en evolución.
+
+descrip:
+TC TORAX

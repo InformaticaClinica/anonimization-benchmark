@@ -1,0 +1,39 @@
+T7	SINTOMA 202 220	fiebre persistente
+T8	SINTOMA 700 739	infiltrados intersiticiales bilaterales
+T9	SINTOMA 826 836	leucopenia
+T10	SINTOMA 841 851	linfopenia
+T11	SINTOMA 270 277	vómitos
+T12	SINTOMA 552 577	hemodinamicamente estable
+T13	SINTOMA 579 586	afebril
+T14	SINTOMA 592 616	adecuada saturació basal
+T15	SINTOMA 640 668	crepitantes secos bilterales
+T16	SINTOMA 797 810	hipopotasemia
+T17	SINTOMA 866 879	QT prolongado
+T18	SINTOMA 1246 1271	empeoramiento radiológico
+T19	SINTOMA 1406 1424	cuadro confusional
+T20	SINTOMA 1429 1445	ideas delirantes
+T21	SINTOMA 1494 1501	asiedad
+T22	SINTOMA 771 795	RFA dicretamente elevado
+T23	SINTOMA 1003 1020	alteración ionica
+T24	SINTOMA 106 133	Portadora de SV permianente
+T25	ENFERMEDAD 86 89	HTA
+T26	ENFERMEDAD 91 93	DM
+T27	ENFERMEDAD 135 157	Sdme Ansioso depresivo
+T28	ENFERMEDAD 913 940	Neumonia bilateral COVID 19
+T29	FARMACO 1082 1089	Kaletra
+T30	FARMACO 1209 1220	Tocilizumab
+T31	FARMACO 1303 1317	corticoterapia
+T32	PROCEDIMIENTO 1357 1370	oxigenoterpia
+T33	PROCEDIMIENTO 674 676	RX
+T34	PROCEDIMIENTO 1584 1595	aislamiento
+T35	HUMANO 27 35	Paciente
+T36	ENFERMEDAD 95 97	CI
+T37	ENFERMEDAD 99 104	Angor
+T38	HUMANO 433 467	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T39	FARMACO 1164 1171	oxigeno
+T40	PROCEDIMIENTO 745 754	analítica
+T41	PROCEDIMIENTO 329 340	radiologica
+T42	PROCEDIMIENTO 1114 1125	radiológica
+T1	PROCEDIMIENTO 1260 1271	radiológico
+T2	SINTOMA 1131 1171	aumento de los requerimientos de oxigeno
+T3	SINTOMA 1322 1340	mejoria progresiva

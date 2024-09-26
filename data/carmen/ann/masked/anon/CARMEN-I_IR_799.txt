@@ -1,0 +1,26 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] amb 17 dies d'ingrés per SDRA per COVID, que va presentar miocarditis inicialmente, traqueostomitzat, que presenta quadre de febre alta persistent i augment de reactants de fase aguda que requereix manta hipotèrmica. Interessa TC toraco-abdominal per descartar causes de febre (inclòs angioTC per descartar TEP). Gràcies.
+RP per COVID-19
+
+protocolo:
+TC abdominal amb contrast ev
+
+resultados:
+SNG amb extrem a 1a porció duodenal.
+Fetge de mida, densitat i morfologia dintre de la normalitat, sense lesions focals. Via biliar no dilatada. Absència de bufeta biliar.
+Vena porta permeable.
+Pàncrees, melsa  i glàndules suprarrenals sense alteracions valorables.
+Ronyons de mida normal. Captació de contrast no valorable per artefactes.
+Hèrnia umbilical no complicada.
+No s'observen adenopaties retroperitoneals o pèlviques de mida significativa.
+Portador de sonda rectal.
+
+conclusiones:
+No identifico focus sèptics a nivell abdominal.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

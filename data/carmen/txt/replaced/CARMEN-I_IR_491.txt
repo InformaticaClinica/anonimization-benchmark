@@ -1,0 +1,22 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Empeoramiento clínico y radiológico. Agradeceríamos valoración. Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades parcheadas en vidrio deslustrado, alguna co imagen de empedrado ("crazy paving") y pequeños focos consolidativos subpleurales compatible con neumonia COVID.
+Hígado que presenta una disminución  global de su coeficiente de atenuación, compatible con hígado esteatósico.
+
+conclusiones:
+Neumonia COVID de extensión moderada.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

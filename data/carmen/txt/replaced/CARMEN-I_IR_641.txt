@@ -1,0 +1,41 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Paciente ingresada de urgencias por ictericia a estudio, con patrón de colestasis franca y BT 16. En ecografía abodminal, se objetiva vesícula alitiásica, con dilatación de vía biliar intrahepática y colédoco de 14mm. No se consigue visualizar colédoco distal ni cabeza de páncreas.
+Solicito por favor TC ABD preferente por sospecha de proceso neoproliferativo de cabeza de páncreas que requiere drenaje biliar urgente.
+Colestasis extrahepatica
+
+protocolo:
+TC toraco-abdominal tras administrar contraste e.v.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Elongación de aorta torácica.
+Pequeño foco en patrón en vídrio deslustrado en el LSD, de localización central, inespecífico.
+Pequeña atelectasia subpleural yuxtacisural en el LSD.
+Discretos engrosamientos peribronquiales en ambos lóbulos inferiores.
+Nódulo de 7mm en segmento apical del LII.
+No se observa derrame pleural.
+Antiguas fracturas costales en arcos anteriores bajos derechos.
+Hígado con leve esteatosis, sin lesiones focales.
+Dilatación de vía biliar intra y extrahepática, con colédoco de 19mm, que termina de fomra abrupta al entrar en páncreas. Lesión focal en cabeza pàncreática de 24mm, de bordes mal definidos y centro quístico- necrótico, compatible con proceso neoformativo primario. No se observan signos de invasión de estructuras vasculares: tronco celíaco, arteria hepática, AMS, vena porta, VMS y confluente venoso libres.
+Cuerpo y cola pancreáticos sin alteraciones, no se identifica dilatación del conducto pancreático principal. Dilatación focal de  conductos pancreáticos en proceso uncinado y porción postero-superior de cabeza pancreática.
+Vesícula biliar de paredes finas, distendida, sin litiasis por TC.
+Bazo y gl. suprarrenales sin alteraciones.
+Pequeñas adenopatías en espacio porto-cava e hilio hepático. No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable.
+Se aprecia una adenopatía borderline iliaca externa derecha de 11mm y otra iliaca externa izda, la ultima con centro graso, de probable naturaleza inflamatoria crónica.
+Riñones funcionantes, de morfología y tamaño normal. Pequeños quistes simples bilaterales.
+Útero de tamaño normal, con cavidad endometrial dilatada y ocupada por material heterogéneo, a valorar, si procede, con ecografía ginecológica.
+Las secciones pélvicas no muestran otras imágenes patológicas.
+
+conclusiones:
+Masa en cabeza pancreática compatible con proceso neoformativo, que dilata proximalmente la vía biliar, sin signos de invasión vascular ni a distancia.
+Pequeño foco en patrón en vídrio deslustrado en el LSD, de localización central, inespecífico.
+Nódulo pulmonar de 7mm en segmento apical del LII, indeterminado.
+Útero de tamaño normal, con cavidad endometrial dilatada y ocupada por material heterogéneo, a valorar, si procede, con ecografía ginecológica.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

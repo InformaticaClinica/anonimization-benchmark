@@ -1,0 +1,41 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado desde hace 3 semanas por ISQUEMIA MESENTÉRICA 2aria A TROMBOSIS MESENTÉRICA ARTERIAL de probable etiología aterotrombótica revascularidada con stent en AMS (DIVAS el [**FECHAS**]). IQ x 2 ([**FECHAS**] y [**FECHAS**]) con resecciones parciales de yeyuno y colon transverso + hemicolectomía derecha con ileostomía de descarga. Pequeño segmento en yeyuno con captación irregular (en TC de control [**FECHAS**]). Además HEMORRAGIA ESPONTÁNEA DE LA VAINA DE LOS RECTOS embolizada el [**FECHAS**].
+Durante el fin de semana presenta shock séptico con requerimiento creciente de DVA y crecimiento de BGN en esputo asociado a bacteriemia.
+Dados los posibles focos respiratorio y abdominal, ruego TC toracoabdomminal para mejor filiación del foco y descartar complicaciones asociadas a isquemia que originó ingreso. Grcias.
+ISQUEMIA INTESTINAL ARTERIA MESENTÉRICA SUPERIOR.
+
+protocolo:
+TC torácico y abdominal: Se obtiene estudio TC sobre el tórax en fase arterial y sobre el abdomen en fases arteriales precoz y tardía y portal.
+
+resultados:
+El estudio actual se compara con el TC abdominal previo del [**FECHAS**].
+SNG. Cánula de intubación en traqueotomía.
+No se observan adenopatías axilares ni mediastínicas de tamaño significativo.
+No se observa derrame pleural ni pericárdico. Calcificadas pleuoparenquimatosas bibasales de predominio derecho.
+Pequeño foco de consolidación pulmonar en el segmento posterior del lóbulo inferior derecho. Pequeños infiltrados periféricos de predominio bibasal que pueden guardar relación con enfermedad intersticial. No obstante, su valoración está dificultada debido a que el estudio no se ha efectuado en inspiración mantenida.
+Hígado de tamaño y morfología normales. Área hipodensa que afecta a los segmentos anteriores del LD, visibles en fases arterial y portal. La rama anterior de la AH derecha no se visualiza con nitidez. Las ramas portales intrahepáticas son permeables. Este hallazgo podría guardar relación con esteatosis, pero no puede excluirse un origen isquémico. No estaba presente en el TC anterior.
+Páncreas, bazo y glándula suprarrenal izquierda sin alteraciones significativas. Nódulo suprarrenal izquierdo de 1 cm sugestivo de adenoma.
+Vesícula biliar de tamaño normal y paredes finas. Vía biliar no dilatada. Tronco portal y eje espleno-mesentérico permables.
+Cambios postquirúrgicos en relación a hemicolectomía derecha y resección de ileon terminal. Ileostomía terminal en fosa ilíaca derecha.
+Aumento en el tamaño del hematoma de la pared abdominal anterior de 30 x 140 x 260 mm (AP x T x CC). Medía 20 x 118 x 240 mm en el TC previo).
+Contiene zonsa hiperdensas, hemáticas, zonas líquidas, y gas. Coil metálico en el seno del recto anterior derecho en relación a embolización arterial. No hay signos de sangrado activo en el hematoma de la vaina del los rectos ni en otras topografías.
+Las arterias celíaca, MS y MI son permeables hasta sus ramas de mediano calibre. Stent en el origen de la arteria mesentérica superior, permeable. Las asas intestinales presentan calibre normal y adecuado realce mural tanto en la fase arterial como portal.
+Ascitis difusa en escasa cuantía, que ha disminiudo con realción al TC anterior. Se observan pequeñas burbujas de neumoperitoneo de nueva aparición, por detrás de la pared abdominal antrolateral derecha y entre asas de ID.
+Riñones de tamaño normal. Infartos renales en polo inferior del RD y tercio medio del RI. No se observa dilatación de la vía excretora.
+Quistes simples corticales bilaterales.
+Sonda vesical.
+
+conclusiones:
+Ligero aumento en el tamaño del hematoma de pared anterior abdominal, con gas en su interior. No se observan puntos de sangrado activo.
+Pequeñas burbujas de neumoperitoneo, de nueva aparición.
+Stent en AMS permeable. Asas de intestino delgado de calibre normal y con correcta captación.
+Infartos renales bilaterales ya conocidos.
+Área hipodensa hepática en el LHD, de nueva aparición que plantea el DD mencionado.
+Moderada cantidad de líquido libre intraabdominal de distribución difusa, en menor cuantía que en el TC anterior.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

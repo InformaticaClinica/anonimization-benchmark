@@ -1,0 +1,41 @@
+T11	ENFERMEDAD 1431 1455	enfermedades infecciosas
+T12	FARMACO 989 999	remdesivir
+T13	FARMACO 1002 1013	baricitinib
+T14	FARMACO 1134 1141	oxígeno
+T15	FARMACO 1314 1325	ceftriaxona
+T16	HUMANO 282 319	Paciente [**SEXO_SUJETO_ASISTENCIA**]
+T17	HUMANO 872 880	paciente
+T18	PROCEDIMIENTO 137 140	TAR
+T19	PROCEDIMIENTO 440 443	TAR
+T20	PROCEDIMIENTO 625 633	RX tórax
+T21	PROCEDIMIENTO 717 732	perfil hepático
+T22	PROCEDIMIENTO 1189 1201	hemocultivos
+T23	PROCEDIMIENTO 1278 1290	hemocultivos
+T24	PROCEDIMIENTO 1534 1545	aislamiento
+T25	SINTOMA 99 117	fiebre persistente
+T26	SINTOMA 390 396	fiebre
+T27	SINTOMA 516 522	febril
+T28	SINTOMA 530 555	hemodinámicamente estable
+T29	SINTOMA 577 600	Crepitantes bilaterales
+T30	SINTOMA 663 695	infiltrado intesrsticial bibasal
+T31	SINTOMA 717 739	perfil hepático normal
+T32	SINTOMA 774 784	Leucopenia
+T33	SINTOMA 794 804	linfopenia
+T34	SINTOMA 894 912	fiebre persistente
+T35	SINTOMA 915 959	sat basal en el límite bajo de la normalidad
+T36	SINTOMA 1049 1056	afebril
+T37	SINTOMA 1148 1184	descenso de reactantes de fase aguda
+T38	SINTOMA 1219 1230	pico febril
+T39	SINTOMA 1231 1270	se aisla stafilococo coagulasa negativo
+T40	SPECIES 56 65	SARS-COV2
+T43	SPECIES 1240 1270	stafilococo coagulasa negativo
+T44	ENFERMEDAD 33 65	NEUMONÍA BILATERAL POR SARS-COV2
+T45	SINTOMA 137 149	TAR positivo
+T46	PROCEDIMIENTO 242 281	vacuna sinopharm ([**PAIS**]) (2 dosis)
+T47	SINTOMA 440 476	TAR el [**FECHAS**] que fue positivo
+T48	SINTOMA 638 652	poco inspirada
+T49	SINTOMA 741 760	ferritna no elevada
+T50	SINTOMA 762 772	LDH normal
+T51	PROCEDIMIENTO 1231 1239	se aisla
+T52	PROCEDIMIENTO 697 706	Analítica
+T53	PROCEDIMIENTO 1104 1115	radiológica

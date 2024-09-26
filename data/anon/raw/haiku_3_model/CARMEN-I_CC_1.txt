@@ -1,0 +1,35 @@
+Primera llamada HDOM COVID-19 POSITIVO
+.
+Trabaja en [**PROFESION**]
+Vive con [**FAMILIARES_SUJETO_ASISTENCIA**], empezaron con síntomas digestivos previos Ant med: [**OTROS_SUJETO_ASISTENCIA**]
+Tto: no
+Alergias: niega
+.
+Fecha frotis SARS-CoV-2: [**FECHAS**] por control rutinario Fecha inicio síntomas: [**FECHAS**] amb sx digestivos...
+.
+- Fiebre: no
+- Disnea: no
+- Tos: no
+- Diarrea: deposiciones más frecuentes
+- Otros: no
+.
+PLAN:
+Se explican medidas de aislamiento.
+Tomar temperatura dos veces al día. Doy teléfonos de contacto ([**NUMERO_TELEFONO**] / [**NUMERO_TELEFONO**]).Llamada de control COVID
+Fecha frotis SARS-CoV-2: [**FECHAS**] por control rutinario Fecha inicio síntomas: [**FECHAS**] amb sx digestivos...
+.
+Asintomático.
+Anticuerpos negativos tanto IgG como IgA.
+PLAN
+Llamar a final de semana.Llamada de control COVID
+Fecha frotis SARS-CoV-2: [**FECHAS**] por control rutinario Fecha inicio síntomas: [**FECHAS**] digestivos
+.
+Asintomático.
+Anticuerpos negativos, IgG e IgA
+PLAN
+Llamar [**FECHAS**]Llamada de control COVID
+Fecha frotis SARS-CoV-2: [**FECHAS**] por control rutinario Fecha inicio síntomas: [**FECHAS**] digestivos
+.
+Anticuerpos negativos [**FECHAS**], IgG e IgA
+.
+PLAN: alta HDOM, pendiente frotis por parte de [**INSTITUCION**].

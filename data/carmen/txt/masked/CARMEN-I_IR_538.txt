@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO - TC  AORTA TORACICA
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con neoplasia de lengua en progresión realizandose vaciamiento ganglionar y RT, se desestima QT.
+Acude por cuadro de tos y disnea de 5 días de evolución, evidenciandose en radiografía de tórax pulmón blanco izquierdo y en analítica sanguinea con DD de 2400.
+Ante paciente con neoplasia activa e insuficiencia respiratoria con DD elevado, se decide solicitar angioTAC para descartar TEP.
+Muchas gracias
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+Caso comentado con Dr. [**NOMBRE_PERSONAL_SANITARIO**] (radiología torácica). Se informa a clínico del cambio en informe.
+
+resultados:
+Se compara con PET-TC del [**FECHAS**].
+Exploración muy artefactada por movimientos del paciente. En estas condiciones:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Trónco de la arteria pulmonar de calibre normal (29 mm). No se observan signos de sobrecarga cardiaca derecha.  Cardiomegalia.
+Algunas adenopatías paratraqueales bajas y subcarinal (esta última la de mayor tamaño de 21 mm), de nueva aparición. No se evidencian adenopatías axilares de tamaño patológico.
+Leve/moderado derrame pleural izquierdo. No se observa derrame pleural derecho ni pericárdico.
+Consolidación bilobar que ocupa el LSI totalmente y parcialmente el LII.
+asociado a ocupación total del bronquio lobar superior izquierdo y algunos bronquios segmentarios del LII. Dentro de esta consolidación, se indentifica un área de menor densidad. Los hallazgos descritos y la evolución respecto a TC previo de [**FECHAS**], hacen más probable que el cuadro se trate de atelectasias obstructivas secundaria a tapones por secreciones inflamatorias, aunque su morfología no permite descartar proceso neoplásico primario a este nivel.
+
+conclusiones:
+No se observan signos de TEP agudo.
+Los hallazgos descritos y la evolución respecto a TC previo de [**FECHAS**], hacen más probable que el cuadro se trate de atelectasias obstructivas secundaria a tapones la posibilidad de tapones secundarios a secreciones inflamatorias, aunque su morfología no permite descartar proceso neoplásico primario a este nivel.
+Leve/moderado derrame pleural izquierdo.
+Algunas adenopatías paratraqueales bajas y subcarinal de nueva aparición.
+
+descrip:
+ANGIO - TC  AORTA TORACICA

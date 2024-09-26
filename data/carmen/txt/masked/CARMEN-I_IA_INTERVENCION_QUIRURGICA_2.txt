@@ -1,0 +1,5 @@
+
+1- TRASPLANTE RENAL - (alta infeccion COVID)
+.Paciente [**EDAD_SUJETO_ASISTENCIA**], IRC 2º poliquistosis hepatorrenal. Trasplante renal donante vivo pre-dialisis ([**FECHAS**]). ISS: Advagraf (Tacrolimus) + Certican (Everolimus) + prednisona. Función renal Cr 1.7mg/dL. Ingresa por Infeccion aguda COVID19. Durante el ingreso se interrumpre Advagraf y Certican por inhibicion muy importante del CYP4503A4. Se pauta prednisona 20mg. Presenta discreto deteriro de la función renal (Cr máxima 2.2 mg/dl FG 23). Se monitoriza con niveles de FK/EVR. Alta a [**INSTITUCION**] dia [**FECHAS**] con diuresis correcta y Cr alta 2.2 mg/dL.
+Dado que la paciente está tomando todavia Lopinavir/Ritonavir se administra dosis única de Advagraf de 0.5mg dia [**FECHAS**] con lo que se asegura que haya niveles en los próximos dias. Es importante que el dia [**FECHAS**] se haga analitica con niveles de Tacrolimus (dejo la petición en [**OTROS_SUJETO_ASISTENCIA**]^). UTR Dr [**NOMBRE_PERSONAL_SANITARIO**] ([**NUMERO_IDENTIF**])
+ 

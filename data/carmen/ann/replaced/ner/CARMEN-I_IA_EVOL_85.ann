@@ -1,0 +1,164 @@
+T11	SINTOMA 282 290	ANASARCA
+T12	SINTOMA 360 379	buen estado general
+T13	SINTOMA 381 388	afebril
+T14	SINTOMA 391 416	hemodinamicamente estable
+T15	SINTOMA 452 462	consciente
+T16	SINTOMA 465 474	orientada
+T17	SINTOMA 487 535	dolor en cabeza de húmero de extremidad superior
+T18	SINTOMA 546 589	abdomen distendido, doloroso a la palpación
+T19	SINTOMA 604 625	irritación peritoneal
+T20	SINTOMA 684 713	deterioro de la función renal
+T21	SINTOMA 804 845	Alteración del perfil hepáto- pancreático
+T22	SINTOMA 1132 1145	ritmo sinusal
+T23	SINTOMA 2209 2254	vesícula biliar de tamaño y morfología normal
+T24	SINTOMA 2393 2428	engrosamiento de la pared del recto
+T25	SINTOMA 2520 2560	alteración del perfil hepato-pancreático
+T26	SINTOMA 2644 2658	clínica febril
+T27	SINTOMA 2660 2672	RFA elevados
+T28	SINTOMA 2869 2875	exitus
+T29	SINTOMA 3059 3073	clínica febril
+T30	SINTOMA 3476 3488	hematoquecia
+T31	SINTOMA 3607 3617	ferropenia
+T32	SINTOMA 3880 3905	deposiciones hemorrágicas
+T33	SINTOMA 4314 4337	deposiciones diarreicas
+T34	SINTOMA 4521 4571	test antigénico para Covid-19 que resulta POSITIVO
+T35	SINTOMA 5649 5675	molestias osteoarticulares
+T36	SINTOMA 5908 5930	deterioro respiratorio
+T37	SINTOMA 6245 6309	anasarca de predominio en extremidades inferiores hasta rodillas
+T38	SINTOMA 1036 1069	alteraciones pluroparenquimatosas
+T39	SINTOMA 1150 1203	alteraciones de la repoalarización ni del segmento ST
+T40	SINTOMA 1267 1299	vesícula biliar de paredes finas
+T41	SINTOMA 1888 1924	aisalmiento de E. Coli multisenisble
+T42	SINTOMA 2000 2012	leucocituria
+T43	SINTOMA 2124 2136	alza térmica
+T44	SINTOMA 2139 2159	clínica bacteriemica
+T45	SINTOMA 2268 2290	vía biliar no dilatada
+T46	ENFERMEDAD 2351 2381	dilatación de la vía excretora
+T47	SINTOMA 2483 2503	clíncia bacteriémica
+T48	SINTOMA 2583 2621	colangio- RM que descarta alteraciones
+T49	SINTOMA 3240 3254	alzas térmicas
+T50	SINTOMA 3669 3712	fibrocolonoscopia que descarta alteraciones
+T51	SINTOMA 4064 4070	exitus
+T52	SINTOMA 4248 4275	sintomatología respiratoria
+T53	SINTOMA 4359 4383	copro y toxina negativos
+T54	SINTOMA 4589 4620	PCR de Covid19 también POSITIVO
+T55	SINTOMA 4628 4656	torax no muestra infiltrados
+T56	SINTOMA 4891 4924	adecuadas saturaciones de oxígeno
+T57	SINTOMA 5285 5305	exudado neutrofílico
+T58	SINTOMA 6471 6486	hipoalbuminemia
+T59	SINTOMA 6489 6504	hipoproteinemia
+T60	SINTOMA 3835 3857	deterioro hemodinámico
+T61	SPECIES 2508 2515	E. Coli
+T62	SINTOMA 3260 3288	aislamientos microbiológicos
+T63	ENFERMEDAD 49 55	SEPSIS
+T64	ENFERMEDAD 79 88	PROCTITIS
+T65	ENFERMEDAD 90 113	BACTERIEMIA POR E. COLI
+T66	ENFERMEDAD 117 130	ERC AGUDIZADA
+T67	ENFERMEDAD 142 145	TCE
+T68	ENFERMEDAD 221 230	PROCTITIS
+T69	ENFERMEDAD 234 253	INFECCION SARS-COV2
+T70	ENFERMEDAD 1097 1123	lesiones osteoligamentosas
+T71	ENFERMEDAD 1337 1359	colecistitis litiasica
+T72	ENFERMEDAD 1406 1421	patología aguda
+T73	ENFERMEDAD 1636 1642	sepsis
+T74	ENFERMEDAD 2059 2092	origen urinario de la bacteriemia
+T75	ENFERMEDAD 2292 2320	litiasis renales bilaterales
+T76	ENFERMEDAD 2452 2461	proctitis
+T77	ENFERMEDAD 2772 2784	endocarditis
+T78	ENFERMEDAD 3572 3578	anemia
+T79	ENFERMEDAD 3628 3645	trastorno crónico
+T80	ENFERMEDAD 4422 4438	sepsis abdominal
+T82	ENFERMEDAD 5005 5031	insuficiencia respiratoria
+T83	ENFERMEDAD 5154 5170	broncoaspiración
+T84	ENFERMEDAD 5182 5203	neumonía organizativa
+T85	ENFERMEDAD 5206 5221	derrame pleural
+T86	ENFERMEDAD 5499 5520	polimialgia reumática
+T87	ENFERMEDAD 5759 5780	neumonía por COVID-19
+T88	ENFERMEDAD 5954 5984	derrame articular glenohumeral
+T89	ENFERMEDAD 6371 6393	insuficiencia cardíaca
+T90	ENFERMEDAD 6431 6469	cuadro multifactorial por desnutrición
+T91	ENFERMEDAD 6551 6564	fallo derecho
+T92	FARMACO 176 188	acenocumarol
+T93	FARMACO 1723 1747	piperaciclina-tazobactam
+T94	FARMACO 2930 2955	piperaciclina- tazobactam
+T95	FARMACO 2996 3007	ceftriaxona
+T96	FARMACO 3147 3156	meropenem
+T97	FARMACO 3184 3193	linezolid
+T98	FARMACO 3522 3534	acenocumarol
+T99	FARMACO 4792 4802	Remdesivir
+T100	FARMACO 4805 4817	Dexametasona
+T101	FARMACO 5407 5424	metilprednisolona
+T102	FARMACO 5723 5733	prednisona
+T103	FARMACO 5793 5807	corticoterapia
+T104	FARMACO 5819 5831	dexametasona
+T105	PROCEDIMIENTO 158 171	anticoagulado
+T106	PROCEDIMIENTO 424 442	exploración física
+T107	PROCEDIMIENTO 926 935	Hemograma
+T108	PROCEDIMIENTO 1011 1031	Radiografía de tórax
+T109	PROCEDIMIENTO 1071 1092	radiografía de húmero
+T110	PROCEDIMIENTO 1125 1128	ECG
+T111	PROCEDIMIENTO 1227 1246	ecografía abdominal
+T112	PROCEDIMIENTO 1382 1392	TC craneal
+T113	PROCEDIMIENTO 1432 1446	curva de TnUSI
+T114	PROCEDIMIENTO 1685 1697	sueroterapia
+T115	PROCEDIMIENTO 1763 1771	cultivos
+T116	PROCEDIMIENTO 1926 1944	Sedimento de orina
+T117	PROCEDIMIENTO 2183 2195	TC abdominal
+T118	PROCEDIMIENTO 2720 2748	ecocardiograma transtorácico
+T119	PROCEDIMIENTO 2799 2805	PET-TC
+T120	PROCEDIMIENTO 2906 2925	esquema antibiótico
+T121	PROCEDIMIENTO 3026 3038	antibiograma
+T122	PROCEDIMIENTO 3096 3110	antibioterapia
+T123	PROCEDIMIENTO 3502 3517	anticoagulación
+T124	PROCEDIMIENTO 3776 3785	hemograma
+T125	PROCEDIMIENTO 4144 4160	autopsia clínica
+T126	PROCEDIMIENTO 4494 4506	colonoscopia
+T127	PROCEDIMIENTO 4699 4710	aislamiento
+T128	PROCEDIMIENTO 5055 5058	LAF
+T129	PROCEDIMIENTO 5105 5113	Angio-TC
+T130	PROCEDIMIENTO 5323 5332	citología
+T131	PROCEDIMIENTO 5892 5903	TC torácico
+T132	PROCEDIMIENTO 6015 6024	ecografía
+T133	PROCEDIMIENTO 6321 6343	tartamiento deplectivo
+T134	HUMANO 149 157	paciente
+T135	HUMANO 347 355	paciente
+T136	HUMANO 443 451	paciente
+T137	SPECIES 2017 2026	bacterias
+T138	HUMANO 3932 3940	paciente
+T139	HUMANO 4006 4016	familiares
+T140	HUMANO 4115 4125	familiares
+T141	HUMANO 4227 4235	paciente
+T142	HUMANO 5474 5482	Paciente
+T143	HUMANO 5679 5697	médico de cabecera
+T144	SPECIES 106 113	E. COLI
+T145	ENFERMEDAD 192 209	ANEMIZACIÓN AGUDA
+T146	SPECIES 244 253	SARS-COV2
+T147	ENFERMEDAD 257 278	POLIMIALGIA REUMÁTICA
+T148	ENFERMEDAD 1267 1310	vesícula biliar de paredes finas, litiásica
+T149	ENFERMEDAD 1588 1607	patología abdominal
+T150	SPECIES 1903 1924	E. Coli multisenisble
+T151	ENFERMEDAD 2139 2159	clínica bacteriemica
+T152	ENFERMEDAD 2209 2265	vesícula biliar de tamaño y morfología normal, litiásica
+T153	ENFERMEDAD 2483 2515	clíncia bacteriémica por E. Coli
+T154	PROCEDIMIENTO 2583 2595	colangio- RM
+T155	SPECIES 3260 3288	aislamientos microbiológicos
+T156	PROCEDIMIENTO 3260 3272	aislamientos
+T157	PROCEDIMIENTO 3669 3686	fibrocolonoscopia
+T158	PROCEDIMIENTO 4017 4045	priorizar medidas de confort
+T159	PROCEDIMIENTO 4359 4364	copro
+T160	PROCEDIMIENTO 4367 4373	toxina
+T161	PROCEDIMIENTO 4521 4550	test antigénico para Covid-19
+T162	PROCEDIMIENTO 4589 4603	PCR de Covid19
+T163	ENFERMEDAD 4542 4550	Covid-19
+T164	ENFERMEDAD 4596 4603	Covid19
+T165	PROCEDIMIENTO 4625 4633	Rx torax
+T166	PROCEDIMIENTO 5243 5269	toracocentesis diagnóstica
+T167	SINTOMA 5310 5321	ADA elevado
+T168	PROCEDIMIENTO 5335 5348	microbiología
+T169	SINTOMA 6062 6146	colección así como otra a nivel supraclavicular izquierdo con signos de organización
+T170	PROCEDIMIENTO 6151 6162	se punciona
+T171	SINTOMA 6180 6194	líquido turbio
+T172	PROCEDIMIENTO 6544 6549	IECAs
+T173	PROCEDIMIENTO 4929 4931	LN
+T174	PROCEDIMIENTO 3547 3578	analítica con estudio de anemia
+T1	SINTOMA 5365 5391	empeoramiento respiratorio

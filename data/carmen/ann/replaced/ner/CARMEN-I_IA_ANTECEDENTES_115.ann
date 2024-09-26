@@ -1,0 +1,36 @@
+T5	FARMACO 432 442	vitamina D
+T6	FARMACO 1201 1213	Levotiroxina
+T7	FARMACO 1231 1242	Calcifediol
+T8	FARMACO 1261 1272	Bimatoprost
+T9	FARMACO 1275 1282	Timolol
+T10	FARMACO 1322 1334	Brinzolamida
+T11	FARMACO 1337 1344	Timolol
+T12	FARMACO 1368 1379	Alendronato
+T13	PROCEDIMIENTO 363 371	colirios
+T14	FARMACO 423 429	calcio
+T15	PROCEDIMIENTO 445 457	bifosfonatos
+T16	FARMACO 1395 1401	Calcio
+T17	FARMACO 1404 1418	colecalficerol
+T18	ENFERMEDAD 489 520	lleu actitud escoliòtica lumbar
+T19	SINTOMA 676 695	edema ossi associat
+T20	ENFERMEDAD 703 748	signes espondilosics posteriors L2-L3 i L3-L4
+T21	SINTOMA 849 891	reducción de dimensiones del canal central
+T22	ENFERMEDAD 47 70	alergias medicamentosas
+T23	ENFERMEDAD 82 92	exfumadora
+T24	ENFERMEDAD 193 203	DISLIPEMIA
+T25	ENFERMEDAD 233 247	HIPOTIROIDISMO
+T26	ENFERMEDAD 298 326	HIPERPARATIROIDISMO PRIMARIO
+T27	ENFERMEDAD 331 339	GLAUCOMA
+T28	ENFERMEDAD 376 388	OSTEOPOROSIS
+T29	ENFERMEDAD 522 552	megaapòfisis transverses de L5
+T30	ENFERMEDAD 554 668	Discopatia en discs del segment compresos entre D12 i L5, amb canvis osteocondròtics en les plataformes vertebrals
+T31	ENFERMEDAD 750 817	Canvis degeneratius en articulacions interapofisàries L4-L5 i L5-S1
+T32	PROCEDIMIENTO 207 228	tratamiento dietético
+T33	PROCEDIMIENTO 461 479	RMN COLUMNA LUMBAR
+T34	SINTOMA 1064 1160	Dimensions canal central i calibres dels orificis de conjunció dins dels límits de la normalitat
+T36	HUMANO 26 31	Mujer
+T37	PROCEDIMIENTO 233 293	HIPOTIROIDISMO de larga evolución en tratamiento sustitutivo
+T38	ENFERMEDAD 391 403	FX VERTEBRAL
+T39	ENFERMEDAD 819 844	Protusión discal en L2-L3
+T40	ENFERMEDAD 987 1062	Herniacions intraesponjoses en plataformes inferior de D12 i superior de L1
+T41	ENFERMEDAD 893 985	Acunyament anterior del cos de D12 en relació a enfonsament de plataforma vertebral superior

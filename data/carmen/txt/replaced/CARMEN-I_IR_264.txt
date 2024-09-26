@@ -1,0 +1,32 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+disminucion brusca nivel consciencia
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+TC craneal basal + Angio-TC de troncos supraaórticos intra y extracraneal.
+
+resultados:
+Exploración artefactuada por movimiento del paciente.
+TC CRANEAL BASAL:
+No se observa hemorragia intra ni extraaxial.
+Dudosa área de hipodensidad en nucleo lenticular izquierdo.
+Resto del parénquima cerebral sin alteraciones densitométricas.
+Diferenciación cortico-subcortical conservada.
+Estructuras de la línea media centradas.
+Sistema ventricular de tamaño y morfología normal.
+Cisternas basales libres.
+ANGIO-TC EXTRA E INTRACRANEAL:
+Principales arterias cerebrales intracraneales permeables (ACAs, ACMs y ACPs). Sistema vertebrobasilar permeable.
+No se observan signos de ateromatosis en arco aórtico, arterias carótidas ni vertebrales. Estenosis no valorabls por el grosor de corte.
+En los cortes apicales se observan dos consolidaciones parenquimatosas en relación a su infección por COVID-19.
+
+conclusiones:
+Dudosa hipodensidad lenticular izquierda.
+Estudio Angio-TC con las principales arterias intracraneales permeables.
+
+descrip:
+TC CEREBRAL

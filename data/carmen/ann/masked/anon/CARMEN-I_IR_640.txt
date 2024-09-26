@@ -1,0 +1,21 @@
+
+prueba:
+ECO DOPPLER TRASPLANTE RENAL
+
+clinica:
+TRDC [**FECHAS**]
+TRDC DCD III ECD
+
+protocolo:
+Se realiza estudio basal y Doppler.
+
+resultados:
+Riñón trasplantado de tamaño y ecoestructura normal. No se observa dilatación de la vía excretora.
+No se observa líquido perirrenal ni colecciones evidentes.
+Los registros Doppler intraparenquimatosos muestra un IR= 0,78, dentro de los límites de la normalidad.
+
+conclusiones:
+Sin hallazgos significativos.
+
+descrip:
+ECO DOPPLER TRASPLANTE RENAL

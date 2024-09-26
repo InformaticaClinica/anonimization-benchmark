@@ -1,0 +1,29 @@
+T7	SINTOMA 150 183	opacidades alveolares bilaterales
+T8	SINTOMA 302 335	opacidades alveolares bilaterales
+T9	SINTOMA 45 56	infiltrados
+T10	SINTOMA 59 69	opacidades
+T11	SINTOMA 236 262	Senos costofrénicos libres
+T12	SINTOMA 1205 1304	focos consolidativos bilaterales y con distribución periférica, de predominio en lóbulos inferiores
+T13	SINTOMA 1330 1349	patrón crazy paving
+T14	ENFERMEDAD 1355 1381	dilataciones bronquiolares
+T15	SINTOMA 1503 1576	hígado con pequeña área triangular subcapsular hipodensa, en segmento IVa
+T16	SINTOMA 1653 1702	Bazo de tamaño en el límite alto de la normalidad
+T17	SINTOMA 1712 1749	Eje portoesplenomesentérico permeable
+T18	SINTOMA 556 577	opacidades alveolares
+T19	SINTOMA 678 724	opacidades en el campo pulmonar medio-inferior
+T20	SINTOMA 822 881	opacidades alveolares en el campo pulmonar medio e inferior
+T21	SINTOMA 953 999	opacidades en el campo pulmonar medio-inferior
+T22	SINTOMA 1084 1129	opacidades alveolo-intersticiales bilaterales
+T23	ENFERMEDAD 84 110	proceso neumónico COVID-19
+T24	ENFERMEDAD 1438 1468	derrame pleural ni pericárdico
+T25	ENFERMEDAD 1483 1492	TEP agudo
+T26	ENFERMEDAD 1635 1651	esteatosis focal
+T27	ENFERMEDAD 1764 1785	perforación abdominal
+T28	PROCEDIMIENTO 3 23	RADIOGRAFÍA DE TÓRAX
+T29	PROCEDIMIENTO 113 133	RADIOGRAFÍA DE TÓRAX
+T30	PROCEDIMIENTO 265 285	RADIOGRAFÍA DE TÓRAX
+T31	PROCEDIMIENTO 440 460	RADIOGRAFÍA DE TÓRAX
+T32	PROCEDIMIENTO 737 757	RADIOGRAFÍA DE TÓRAX
+T33	PROCEDIMIENTO 1013 1032	RADIOGRAFÍADE TÓRAX
+T34	PROCEDIMIENTO 1153 1172	TC TORACO-ABDOMINAL
+T35	PROCEDIMIENTO 1413 1425	radiografías

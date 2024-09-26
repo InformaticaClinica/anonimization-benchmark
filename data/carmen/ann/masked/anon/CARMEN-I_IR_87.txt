@@ -1,0 +1,26 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente [**EDAD_SUJETO_ASISTENCIA**] sin antecedentes de interés con clínica 12 días de COVID con neumonía y SDRA grave. Agradecería estudio para descartar neumonía organizativa por tendencia de infiltrados confluyentes en radiografías.
+Muchas gracias
+SDRA MODERADO
+
+protocolo:
+TC de tórax sin contraste EV
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Ganglio subcarinal de tamaño aumentado, reactivo.
+Discreto derrame pleural laminar bilateral.
+Opacidades en vidrio deslustrado parcheadas y periféricas, algunas de distribución perilobular, de predominio posterobasal, en relación a neumonía por COVID-19, de extensión leve-moderada, con cambios organizativos incipientes.
+Atelectasias subsegmentarias posterobasales.
+Pequeña hernia de hiato.
+Disminución difusa del coeficiente de atenuación hepático, en relación a esteatosis.
+
+conclusiones:
+Neumonía bilateral por COVID-19, de extensión leve-moderada, con cambios organizativos incipientes.
+Esteatosis hepática.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

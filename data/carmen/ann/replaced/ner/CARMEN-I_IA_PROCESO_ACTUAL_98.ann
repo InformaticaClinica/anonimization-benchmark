@@ -1,0 +1,27 @@
+T5	SINTOMA 82 111	disnea rapidamente progresiva
+T6	ENFERMEDAD 140 155	cuadro catarral
+T7	SINTOMA 157 160	tos
+T8	SINTOMA 163 190	expectoración mucopurulenta
+T9	SINTOMA 278 303	foco consolidativo en LID
+T10	SINTOMA 319 335	elevación de RFA
+T11	SINTOMA 358 369	neutrofilia
+T12	SINTOMA 375 429	frotis de virus respiratorios y antigenurias negativas
+T13	SINTOMA 854 867	disnea súbita
+T14	ENFERMEDAD 254 268	edema pulmonar
+T15	ENFERMEDAD 447 497	ICC de debut en contexto de infección respiratoria
+T16	ENFERMEDAD 475 497	infección respiratoria
+T17	ENFERMEDAD 776 812	cuerda rota con IM severa secundaria
+T18	ENFERMEDAD 962 985	rotura de cuerda con IM
+T19	ENFERMEDAD 988 1009	edema agudo de pulmón
+T20	FARMACO 635 658	amoxilicina/clavulánico
+T21	PROCEDIMIENTO 203 216	angioTC tórax
+T22	PROCEDIMIENTO 595 616	tratamiento diurético
+T23	PROCEDIMIENTO 619 630	antibiótico
+T24	PROCEDIMIENTO 737 746	ecoscopia
+T25	PROCEDIMIENTO 885 888	IOT
+T26	PROCEDIMIENTO 901 904	SVA
+T27	HUMANO 1 9	Paciente
+T28	PROCEDIMIENTO 375 419	frotis de virus respiratorios y antigenurias
+T29	SPECIES 385 404	virus respiratorios
+T30	PROCEDIMIENTO 305 314	Analítica
+T1	SINTOMA 674 709	leve empeoramiento de función renal

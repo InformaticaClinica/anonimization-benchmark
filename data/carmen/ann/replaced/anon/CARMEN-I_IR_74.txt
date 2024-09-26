@@ -1,0 +1,20 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+IRA
+
+protocolo:
+ECOGRAFÍA RENAL URGENTE (PORTÁTIL)
+
+resultados:
+Riñones de tamaño y ecoestructura normal, sin dilatación de vías excretoras. Quistes parapiélicos bilaterales. No se observa líquido ni colecciones perirrenales.
+Cistectomía.
+Moderada dilatación de asas de intestino delgado y colon.
+
+conclusiones:
+Sin dilatación de vías excretoras.
+
+descrip:
+ECO RENO-VESICAL

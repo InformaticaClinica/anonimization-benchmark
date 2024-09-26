@@ -1,0 +1,55 @@
+T20	FARMACO 77 100	Piperacilina/Tazobactam
+T21	FARMACO 1136 1147	Gemcitabina
+T22	FARMACO 1148 1156	Abraxane
+T23	FARMACO 2046 2057	gemcitabina
+T24	FARMACO 2365 2382	hidroxicloroquina
+T25	FARMACO 2385 2397	azitromicina
+T26	FARMACO 2409 2417	cefixima
+T27	PROCEDIMIENTO 1121 1123	QT
+T28	PROCEDIMIENTO 1302 1324	tratamiento oncológico
+T29	FARMACO 2360 2363	L/R
+T30	PROCEDIMIENTO 1048 1058	EC/CanStem
+T31	SINTOMA 1629 1660	tumoración la cola del páncreas
+T32	ENFERMEDAD 1663 1705	aumento de los ganglios en el área celíaca
+T33	SINTOMA 1837 1886	aislamiento microbiológico en HC de K. pneumoniae
+T34	SINTOMA 2251 2271	COVID-19 x2 negativo
+T35	ENFERMEDAD 102 111	Exfumador
+T36	ENFERMEDAD 270 280	Dislipemia
+T37	ENFERMEDAD 285 298	SAHS moderado
+T38	ENFERMEDAD 303 318	Artrosis lumbar
+T39	ENFERMEDAD 374 417	M1 pleural, pulmonar, hepáticas, vía biliar
+T40	ENFERMEDAD 419 444	carcinomatosis peritoneal
+T41	ENFERMEDAD 496 505	icterícia
+T42	SINTOMA 508 531	síndrome constitucional
+T43	ENFERMEDAD 605 726	enfermedad neoplásica diseminada con afectación pleural, pulmonar, ganglionar, peritoneal, hepática, biliar y pancreática
+T44	ENFERMEDAD 770 785	lesión hepática
+T45	ENFERMEDAD 806 820	adenocarcinoma
+T46	ENFERMEDAD 827 892	estenosis maligna de la vía biliar intrahepática y hepático común
+T47	ENFERMEDAD 967 993	Adenocarcinoma de páncreas
+T48	ENFERMEDAD 1388 1413	limfangitis carcinomatosa
+T49	ENFERMEDAD 1435 1456	metástasis pulmonares
+T50	ENFERMEDAD 1511 1546	metástasis en los segmentos II- III
+T51	ENFERMEDAD 1812 1831	episodio colangitis
+T52	ENFERMEDAD 2075 2139	Síndrome febril de foco respiratoria por infección virus gripe A
+T53	ENFERMEDAD 2214 2245	neumonía intersticial bilateral
+T54	PROCEDIMIENTO 582 588	TC T/A
+T56	PROCEDIMIENTO 920 952	prótesis biliar plástica derecha
+T57	PROCEDIMIENTO 1199 1201	TC
+T58	PROCEDIMIENTO 1921 1955	prótesis biliar plástica izquierda
+T59	PROCEDIMIENTO 2143 2170	Recambio de prótesis biliar
+T60	SINTOMA 2274 2290	TC indeterminado
+T61	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T62	PROCEDIMIENTO 2296 2324	aislamientos microbiológicos
+T63	HUMANO 2462 2466	Dra.
+T64	ENFERMEDAD 341 445	ADENOCARCINOMA DE PÁNCREAS E-IV (M1 pleural, pulmonar, hepáticas, vía biliar, carcinomatosis peritoneal)
+T65	PROCEDIMIENTO 762 785	Biopsia lesión hepática
+T66	PROCEDIMIENTO 1128 1156	esquema Gemcitabina-Abraxane
+T67	ENFERMEDAD 1461 1497	amento de los ganglios mediastínicos
+T68	ENFERMEDAD 1562 1611	dilatación segmentaria de la vía biliar izquierda
+T69	PROCEDIMIENTO 1837 1869	aislamiento microbiológico en HC
+T70	SPECIES 1873 1893	K. pneumoniae multiS
+T71	ENFERMEDAD 1987 2013	microangiopatía trombótica
+T72	SPECIES 2126 2139	virus gripe A
+T1	PROCEDIMIENTO 2274 2276	TC
+T2	ENFERMEDAD 162 177	hábitos tóxicos
+T3	ENFERMEDAD 2251 2259	COVID-19

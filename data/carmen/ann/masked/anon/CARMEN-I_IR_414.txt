@@ -1,0 +1,28 @@
+
+prueba:
+TC RODILLA
+
+clinica:
+FRACTURA DE MESETA TIBIAL SCHATZKER VI CON
+
+protocolo:
+TC TIBIA DCHA. URGENTE
+
+resultados:
+Hemartrosis con nivel-nivel.
+Fractura conminuta a nivel de la meseta tibial con fragmentos libres articulares, en la existe un decalaje de unos 16 mm. del área postero- externa (mide 28 x 22 mm) en la meseta tibial
+Al mismo tiempo por el margen anterior tibial proximal se extiende la fractura con disposición oblicua coronal que afecta claramente la TTA y la dsplaza anteriormente unos 8 mm. prolongándose caudalmente hacia diáfisis con desplazamiento posterior de unos 6 mm.
+Fractura oblicua conminuta en tercio proximal de la diáfisis peroneal.
+Tobillo-pie dcho. sin alteraciones remarcables.
+
+conclusiones:
+Fractura Schatzker tipo IV de meseta tibial, junto a fractura peroneal, de las caract. descritas.
+
+descrip:
+TC RODILLA
+
+descrip:
+TC PIERNA TIBIA PERONE
+
+descrip:
+TC RODILLA

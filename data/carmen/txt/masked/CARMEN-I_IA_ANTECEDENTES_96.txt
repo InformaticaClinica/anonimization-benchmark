@@ -1,0 +1,22 @@
+
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], con dudosa alergia al METAMIZOL (prurito). Ex- fumador desde hace 20 años con DA de 30 paquetes/año. Independiente para las actividades básicas e instrumentales de la vida diaria. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**].
+ANTECEDENTES PATOLOGICOS:
+1. HIPERTROFIA BENIGNA DE PRÓSTATA de larga evolución en seguimiento y tratamiento médico por Urología [**HOSPITAL**] (Dr [**NOMBRE_PERSONAL_SANITARIO**]).
+2. HEPATITIS en la infancia.
+3. LIPOMA INTRARAQUÍDEO que requirió resección quirúrgica
+HISTORIA ONCOLÓGICA:
+1. CARCINOMA UROTELIAL PAPILAR DE VEJIGA de alto grado ypT4aN2, con evidencia reciente de metastasis hepáticas y ganglionares.
+*Recibió QT neoadyuvante según esquema ddMVAC (2 ciclos, del [**FECHAS**] al [**FECHAS**]) sin más tratamiento por presentar una ileitis neutropénica que requirió antibiótico endovenoso e ingreso hospitalario. Actualmente en tratamiento biológico.
+*En [**FECHAS**] se realizó CISTOPROSTATECTOMIA RADICAL + BRICKER
+*El [**FECHAS**] presenta aparición de una masa de partes blandas de 3 x 2 cm en la cadena iliaca interna derecha, muy sugestiva de recidiva ganglionar, de márgenes irregulares y en contacto con varias ramas vasculares. Por ello, el [**FECHAS**] se realiza QT con Carbo + Gem.
+* TC toracoabdominal [**FECHAS**]: Aparición de múltiples lesiones hepáticas metastásicas de hasta 3,8 cm. Disminución del tamaño de la masa pélvica con respecto al estudio previo de [**FECHAS**].
+* Infección de tracto urinario por E. coli y K pneumoniae multisensibles tratadas con ceftriaxona en Hospitalización a Domicilio en [**FECHAS**].
+* Ingreso en ONC el [**FECHAS**] por pielonefritis en tto con Meropenem, sin aislamiento microbiológico. Alta [**FECHAS**].
+* TC [**FECHAS**]: Comparativamente con el control previo de [**FECHAS**] se observa discreto crecimiento de las múltiples lesiones focales hepáticas en relación a M1. Disminución del área triangular hipocaptante en bazo, posiblemente en relación a pequeño infarto. No se observan colecciones ni líquido libre intraabdominal ni otros hallazgos que sugieran proceso inflamatorio. El resto del estudio no presenta cambios significativos respecto al TC previo
+* Se valoró como mínima progresión, pero al haber sólo recibido 1 ciclo de inmunoterapia comentado con Dra.[**NOMBRE_PERSONAL_SANITARIO**] se continuaría tratamiento.
+*MULTIPLES INFECCIONES DE ORINA: en [**FECHAS**], [**FECHAS**], [**FECHAS**] y [**FECHAS**]. En [**FECHAS**]: SEPSIS POR INFECCIÓN URINARIA con aislamiento en Urocultivo de E. coli R Ampicilina y Ciprofloxacina.
+* Aislamientos: E. coli multisensible, Klebsiella pneumoniae, klebsiella oxytoca, enterobacter cloacae.
+* Ingreso hasta el [**FECHAS**] por fiebre de foco urinario vs tumoral sin aislamientos microbiológicos, TC sin abscesificaciones, ni colecciones.
+Recibió antibioterapia con meropenem durante 10 días.
+* MEDICACIÓN HABITUAL: Pregabalina 50mg/12h, Paracetamol 1g/8h, dexketoprofeno 25mg/8h.
+ 

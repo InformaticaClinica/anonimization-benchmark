@@ -1,0 +1,7 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**], trabaja como [**PROFESION**] en la industria textil. Natural de [**PAIS**], vive en [**TERRITORIO**] con [**FAMILIARES_SUJETO_ASISTENCIA**]. No alergias medicamentosas ni hábitos tóxicos.
+** ANTECEDENTES PATOLÓGICOS
+1. RINITIS ALÉRGICA con manejo sintomático.
+2. MIGRAÑA no complicada, en tratamiento abortivo con Ibuprofeno si precisa.
+** ANTECEDENTES QUIRÚRGICOS
+1. Colecistectomía por Colecistitis Aguda en [**FECHAS**]
+** MEDICACIÓN HABITUAL [**FECHAS**]: Niega medicación habitual, sólo uso ocasional de Cetirizina e Ibuprofeno.

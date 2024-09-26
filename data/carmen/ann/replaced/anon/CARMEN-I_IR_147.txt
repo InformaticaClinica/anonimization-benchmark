@@ -1,0 +1,30 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente con 14 dia desde inicio de sintomas or SARS-COv2, ingresa por registros subfebriles y persistencia de infiltrados radiologicos, solicitamos TC para descartar NOC asociada.
+Gracias.
+neumonía bilateral por SARS-CoV2
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; última RX del 26/09/2014.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño patológico. Ganglios paratraqueales derechos calcificados, de aspecto granulomatoso. Calcificación del anillo valvular aórtico.
+Calcificaciones coronarias.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación del parénquima pulmonar bilateral en forma de opacidades en vidrio deslustrado parcheadas, de predominio subpleural, en relación a proceso infeccioso por COVID-19, en fase inflamatoria. No se visualizan claros cambios organizativos asociados.
+Nódulo sólido espiculado de 24 mm paravertebral en segmento basal medial del LII, que condiciona retracción de la pleura adyacente, y nódulo sólido irregular y de bordes espiculados peribroncovascular de 17 mm en segmento apical del LSD, que también retrae la pleura; ambos sugestivos de procesos neoproliferativos primarios de pulmón.
+Engrosamientos parietales bronquiales difusos. Leve enfisema paraseptal biapical. Pequeños granulomas calcificados bilaterales. Resto del parénquima pulmonar sin otras alteraciones.
+Hernia de hiato.
+Cambios degenerativos en columna torácica.
+Gl suprarrenales engrosadas, de aspecto hiperplásico. Bazo accesorio.
+
+conclusiones:
+- Proceso infeccioso bilateral por COVID-19, de extensión leve-moderada, en fase inflamatoria. Sin claros cambios organizativos asociados.
+- Nódulos sólidos espiculados, uno en LII y otro en LSD, sugestivos de primarios de pulmón.
+
+descrip:
+TC TORAX

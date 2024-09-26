@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Mujer de 71 años, ingresada desde el 7/11 en el Hosp Santa Eulalia por insuficiencia respiratoria aguda grave por infección por COVID-19. Trasladada el mismo 7/11 desde H14A donde ingresó el 6/11 requiriendo IOT + VMI, pudiéndose extubar el 9/11 tras mejoría respiratoria.
+Desde su llegada a la sala el 111/4 ha presentado empeoramiento respiratorio progresivo en 24h con necesidad de FiO2 de 40%(inicialmente LN2L/min a la llegada). Analíticamente DDímero de 6600, LDH 700 en ascenso, PCR 2. Radiografía del 111/4 con persistencia de infiltrados pulmonares bilaterales hasta campos superiores de predominio periférico.
+Solicito Angio-TC pulmonar para descartar TEP que justifique empeoramiento respiratorio agudo post-extubación.
+Muchas gracias!
+Infección COVID-19. Sospecha de NOC
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural izquierdo o pericárdico.
+Presenta varios defectos de repleción endovasculares que afectan a las ramas segmentarias lateral del lóbulo medio desde su origen y a toda la pirámide basal derecha y a una de las ramas del segmento apical del lóbulo inferior derecho, siendo coherentes con trombosis endovascular arterial. El margen medial del trombo de la rama de la arteria del segmento lateral del lóbulo medio se extiende hasta el interior de la arteriqa interlobar derecha con unos márgenes irregulares. Recomiendo control evolutivo para determinar si puede existir crecimiento del trombo a partir de esta localización. Presenta extensas consolidaciones con patrón moteado en su interior, coherentes con infartos pulmonares, que afectan al segmento lateral del lóbulo medio, a la porción posterior del segmento apical del lóbulo inferior derecho y a los segmentos basales lateral, posterior y anterior del lóbulo inferior derecho. La rama segmentaria basal medial del lóbulo inferior se muestra permeable debido a que tiene su origen de forma independiente desde la arteria intermediaria.
+En el resto de parénquima pulmonar se identifican múltiples áreas parchreadas de vidrio deslustrado junto con distorsión parenquimatosa y bandas subnpleurales, todo ello coherente con afectación por COVID.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

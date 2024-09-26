@@ -1,0 +1,120 @@
+T10	ENFERMEDAD 364 388	tromboembolismo pulmonar
+T11	ENFERMEDAD 390 393	TEP
+T12	ENFERMEDAD 417 467	dilatación del tronco común de la arteria pulmonar
+T13	ENFERMEDAD 556 607	Ateromatosis calcificada de las arterias coronarias
+T14	ENFERMEDAD 636 676	Calcificación del anillo valvular mitral
+T15	ENFERMEDAD 789 856	Adenopatías mediastínicas de localización paratraqueal y subcarinal
+T16	ENFERMEDAD 913 960	derrame pleural izquierdo con extensión cisural
+T17	ENFERMEDAD 976 991	derrame pleural
+T18	ENFERMEDAD 1003 1022	derrame pericárdico
+T19	ENFERMEDAD 1024 1039	Hernia de hiato
+T20	ENFERMEDAD 1242 1257	bronquiectasias
+T21	ENFERMEDAD 1368 1399	infección pulmonar por COVID-19
+T22	ENFERMEDAD 1483 1526	calcificación grosera en el lóbulo hepático
+T23	ENFERMEDAD 1740 1762	quiste cortical simple
+T24	ENFERMEDAD 1764 1849	Litiasis aparentemente no obstructiva de 4 mm en el grupo calicial superior del riñón
+T25	ENFERMEDAD 1888 1911	Diverticulosis colónica
+T26	ENFERMEDAD 2033 2047	neumoperitoneo
+T27	ENFERMEDAD 2076 2123	Calcificación severa del anillo valvular mitral
+T28	ENFERMEDAD 2368 2393	derrame pleural bilateral
+T29	ENFERMEDAD 2454 2485	infección pulmonar por COVID-19
+T30	ENFERMEDAD 2532 2552	uropatía obstructiva
+T31	ENFERMEDAD 2619 2650	infección pulmonar por COVID-19
+T32	ENFERMEDAD 2819 2822	TEP
+T33	ENFERMEDAD 3364 3385	leves bronquiectasias
+T34	ENFERMEDAD 3473 3481	fibrosis
+T35	ENFERMEDAD 3485 3506	neumonía organizativa
+T36	ENFERMEDAD 3518 3557	adenopatías paratraqueales y subcarinal
+T37	ENFERMEDAD 3672 3687	derrame pleural
+T38	ENFERMEDAD 3837 3888	Ateromatosis calcificada de las arterias coronarias
+T39	ENFERMEDAD 3917 3957	Calcificación del anillo valvular mitral
+T40	ENFERMEDAD 4084 4099	derrame pleural
+T41	ENFERMEDAD 4111 4130	derrame pericárdico
+T42	ENFERMEDAD 4132 4147	Hernia de hiato
+T43	ENFERMEDAD 4337 4340	TEP
+T44	ENFERMEDAD 4370 4401	infección pulmonar por COVID-19
+T45	ENFERMEDAD 4629 4637	fibrosis
+T46	ENFERMEDAD 4641 4662	neumonía organizativa
+T47	ENFERMEDAD 4732 4759	sangrado agudo intracraneal
+T48	ENFERMEDAD 4841 4867	enfermedad de pequeño vaso
+T49	ENFERMEDAD 4952 4977	patología isquémica aguda
+T50	ENFERMEDAD 5038 5083	dilatación secundaria del sistema ventricular
+T51	ENFERMEDAD 5246 5274	patología aguda intracraneal
+T52	ENFERMEDAD 5347 5412	Orificios diverticulares localizados en sigma y colon descendente
+T53	ENFERMEDAD 6073 6096	Diverticulosis de colon
+T54	SINTOMA 2001 2029	líquido libre intraabdominal
+T55	ENFERMEDAD 2321 2348	bronquiectasias cilíndricas
+T56	ENFERMEDAD 2992 3019	sobrecarga cardiaca derecha
+T57	ENFERMEDAD 4149 4193	Lipoma de 15 mm en la musculatura tricipital
+T58	ENFERMEDAD 5792 5851	orificios diverticulares a lo largo de todo el marco cólico
+T59	SINTOMA 1536 1568	Vesícula biliar de tamaño normal
+T60	SINTOMA 1573 1606	barro biliar/microcalcificaciones
+T61	SINTOMA 1691 1728	Riñones de tamaño y morfología normal
+T62	SINTOMA 3243 3263	engrosamiento septal
+T63	SINTOMA 4446 4466	engrosamiento septal
+T64	SINTOMA 5421 5437	fijación de asas
+T65	SINTOMA 5456 5478	restos fecales sólidos
+T66	SINTOMA 5595 5611	restos hemáticos
+T67	SINTOMA 5910 5921	inflamación
+T68	SINTOMA 5925 5935	hemorragia
+T69	SINTOMA 6020 6036	restos hemáticos
+T70	PROCEDIMIENTO 3 23	RADIOGRAFÍA DE TÓRAX
+T71	PROCEDIMIENTO 217 226	ANGIO-TAC
+T72	PROCEDIMIENTO 1403 1415	TC ABDOMINAL
+T73	PROCEDIMIENTO 2592 2609	estudio abdominal
+T74	PROCEDIMIENTO 2654 2665	TC TORÁCICO
+T75	PROCEDIMIENTO 2689 2691	TC
+T76	PROCEDIMIENTO 3032 3034	TC
+T77	PROCEDIMIENTO 3067 3069	TC
+T78	PROCEDIMIENTO 3187 3189	TC
+T79	PROCEDIMIENTO 3628 3630	TC
+T80	PROCEDIMIENTO 3718 3720	TC
+T81	PROCEDIMIENTO 4479 4481	TC
+T82	PROCEDIMIENTO 4666 4676	TC CRANEAL
+T83	PROCEDIMIENTO 5217 5231	Exploración TC
+T84	PROCEDIMIENTO 5299 5311	COLONOSCOPIA
+T85	PROCEDIMIENTO 5640 5652	COLONOSCOPIA
+T86	PROCEDIMIENTO 5673 5685	colonoscopia
+T87	PROCEDIMIENTO 5691 5700	anestesia
+T88	PROCEDIMIENTO 5735 5780	Se explora todo el colon hasta el fondo cecal
+T89	SINTOMA 35 70	Infiltrados periféricos bilaterales
+T90	SINTOMA 99 143	opacidades focales en LSD y en Língula y LII
+T91	SINTOMA 253 325	defectos de repleción en arterias pulmonares principales, ramas lobares,
+T92	SINTOMA 469 505	Marcapasos en el hemitórax izquierdo
+T93	SINTOMA 508 554	electrodos en las cavidades cardíacas derechas
+T94	SINTOMA 609 634	Prótesis valvular aórtica
+T95	SINTOMA 681 749	arteria vertebral izquierda se origina directamente del arco aórtico
+T96	SINTOMA 1050 1094	áreas bilaterales con patrón en crazy paving
+T97	SINTOMA 1096 1114	vidrio deslustrado
+T98	SINTOMA 1117 1140	engrosamientos septales
+T99	SINTOMA 1262 1288	engrosamientos bronquiales
+T100	SINTOMA 1450 1473	Hígado de tamaño normal
+T101	SINTOMA 1608 1630	Vía biliar no dilatada
+T102	SINTOMA 1632 1689	Páncreas, bazo y glándulas suprarrenales sin alteraciones
+T103	SINTOMA 1861 1886	Vía excretora no dilatada
+T104	SINTOMA 1928 1985	ganglios retroperitoneales ni ilíacos de tamaño valorable
+T105	SINTOMA 2049 2074	Prótesis valvular aórtica
+T106	PROCEDIMIENTO 2049 2074	Prótesis valvular aórtica
+T107	SINTOMA 2125 2167	Electrodos en cavidades cardíacas derechas
+T108	SINTOMA 2178 2201	áreas en "crazy paving"
+T109	SINTOMA 2203 2221	vidrio deslustrado
+T110	SINTOMA 2224 2247	engrosamientos septales
+T111	SINTOMA 2706 2804	Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción
+T112	SINTOMA 2824 2871	Tronco de la arteria pulmonar de calibre normal
+T113	SINTOMA 2913 2956	Reflujo de contraste a venas suprahepáticas
+T114	SINTOMA 3109 3141	opacidades en vidrio deslustrado
+T115	SINTOMA 3265 3350	Ocupación endobronquial del bronquio principal izquierdo y el bronquio lobar inferior
+T116	SINTOMA 3390 3416	engrosamientos bronquiales
+T117	SINTOMA 3750 3786	Marcapasos en el hemitórax izquierdo
+T118	SINTOMA 3789 3835	electrodos en las cavidades cardíacas derechas
+T119	PROCEDIMIENTO 3890 3915	Prótesis valvular aórtica
+T120	SINTOMA 3890 3915	Prótesis valvular aórtica
+T121	SINTOMA 3962 4030	arteria vertebral izquierda se origina directamente del arco aórtico
+T122	SINTOMA 4490 4562	Ocupación endobronquial del bronquio para el LII y el bronquio principal
+T123	SINTOMA 4761 4826	Hipodensidad de la sustancia blanca periventricular y subcortical
+T124	SINTOMA 4999 5033	Pérdida global de volumen cerebral
+T125	ENFERMEDAD 4999 5033	Pérdida global de volumen cerebral
+T126	SINTOMA 5099 5118	cambios involutivos
+T127	SINTOMA 5120 5159	Estructuras de la línea media centradas
+T128	SINTOMA 5161 5188	Cisternas de la base libres
+T129	SINTOMA 4221 4292	cortes de hemiabdomen superior, no se observan hallazgos significativos

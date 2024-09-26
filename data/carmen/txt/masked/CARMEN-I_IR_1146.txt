@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] ingresada en hematologia para aloTPH por LAM, con plaquetopenia 20000, que comienza con insuficiencia respiratoria y hemoptisis. Ruego angioTC pulmonar. Gracias
+Hemoptisis
+
+protocolo:
+ANGIO-TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas. Leve hipertrofia de arterias bronquiales.
+Moderado derrame pleural bilateral con colapso parenquimatoso pasivo asociado.
+Presenta una afectación parenquimatosa pulmonar difusa en forma de áreas parcheadas de consolidación y de patrón en empedrado. Este tipo de afectación, en el contexto clínico de la paciente, sugiere una hemorragia alveolar difusa. No evidencio lesiones vasaculares que puedan ser resposables del sangrado.
+Pectus excavatum con un índice de Haller de 3,52.
+
+conclusiones:
+Afectación pulmonar sugestiva de hemorragia alveolar difusa.
+Pectus excavatum.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR DE ARTERIAS BRONQUIALE S
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con neumonia por covid 19. En analitica control se evidencia DDimero >10.000 (previo de 6700) y cambios en el EKG con Q en DIII y T negativa en DIII. Ruego AngioTC para descartar TEP. Gracias.
+Neumonía COVID19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Leve dilatación del tronco común de la arteria pulmonar (32 mm).  No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Extensas áreas con patrón en crazy paving (vidrio deslustrado + engrosamientos septales), bilaterales, difusas y con disposición predominantemente periférica; que se acompañan de bronquioloectasias de tracción e imágenes en halo reverso. En el contexto epidemiológico actual, los hallazgos descritos son compatibles con una infección pulmonar por COVID-19 con fibrosis asociada en forma de neumonía organizativa. No se observa derrame pleural ni pericárdico.
+Colelitiasis. Vesícula biliar normodistendida y con paredes de aspecto edematoso, sin trabeculación de la grasa perivesicular, líquido libre ni colecciones, siendo un hallazgo inespecífico.
+
+conclusiones:
+- No se observa TEP.
+- Hallazgos compatibles con infección pulmonar por COVID-19 con fibrosis asociada en forma de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR DE ARTERIAS BRONQUIALES

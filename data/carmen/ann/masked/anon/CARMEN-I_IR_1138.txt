@@ -1,0 +1,22 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], neumonia intersticial bilateral no covid, ingreso prolongado en uci. Tras extubación crisis comicial + hematoma parenquimatoso temporal derecho agudo. RMN con patrón de leucoencefalopatia, focos de HSA y otros focos de microsangrado. Tras disminución de sedoalangesia y nuevo despertar, paciente no conecta. Solicitamos TC de control.
+Hematoma cerebral agudo
+
+protocolo:
+TC CEREBRAL sin contraste yodado E.V urgente.
+
+resultados:
+Se compara con RM de [**FECHAS**] y TC del [**FECHAS**].
+Estabilidad en el hematoma agugo intraparenquimatoso temporal derecho, de 30 x 26 x 23 mm (vol: 12 cc). Sigue condicionando efecto masa sobre el atrio y astas occipital y temporal derechas, sin desviacion de la linea media.
+Cisternas basales libres. Resto del sistema ventricular de tamaño y situacion conservadas.
+No se observan  otras alteraciones significativas de la densidad del parénquima cerebral.
+
+conclusiones:
+Hematoma agudo intraparenquimatoso temporal derecho que se mantiene estable respecto a RM del [**FECHAS**].
+
+descrip:
+TC CEREBRAL

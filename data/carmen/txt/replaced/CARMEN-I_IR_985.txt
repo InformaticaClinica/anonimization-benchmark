@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con neumonia por covid, se solicita estudio de control de TEP y hematoma retroperitoneal. Alto riesgo de sangrado y necesidad de anticoagulación.
+
+protocolo:
+ANGIO TC PULMONAR y ABDOMINOPELVICO (multifásico)
+
+resultados:
+*Exploración límitada por deficiente opacificación del árbol vascular lo que límita su sensibilidad y nio permeite descartar trombos subsegmentarios
+Se compara con estudios TC previos del 14 y 10 de Abril
+Catéter yugular izquierdo con extremo en vena cava superior.
+Traqueostomía.
+Persiste la trombosis en rama segmentaria posterior de la arteria pulmonar derecha. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Leve aumento de las áreas de vidrio deslustrado periféricas en relación a neumonía por COVID-19. Mínimo aumento del leve derrame pleural derecho que condiciona la atelectasia pasiva por compresión del parénquima adyacente.
+No se observa derrame pericárdico.
+Severa ateromatosis de los vasos coronarios.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglio subcarinal calcificado.
+Estabilidad del hematoma retroperitoneal en el músculo psoas derecho (9 x 7.5 x 17 cm / LL x AP x CC) sin signos de sangrado activo. Existe una mínima cantiad de líquido libre perirrenal, en fascia pararrenal y a nivel presacro asociado. No se observan otras colecciones intraabdominales ni neumoperitoneo.
+Hígado de tamaño, morfología y atenuación normal sin lesiones focales evidentes. Vesícula biliar de paredes finas, sin dilatación de la vía biliar. Vena porta y eje porto-espleno-mesentérico permeable.
+Páncreas, bazo y glándula suprarrenal derecha sin alteraciones. Nódulo adrenal izquierdo de 2 cm, probable adenoma. Riñones funcionantes sin alteraciones relevantes. No se observa dilatación de la vía excretora.
+Vejiga urinaria escasamente distendida cuyas paredes son poco valorables pero están difusamente engrosadas, a correlacionar clínicamente (vejiga de lucha?). Presenta gas en su interior en probable relación al sondaje.
+Asas de intestino delgado sin alteraciones relevantes. Diverticulosis colonica sin signos de diverticulitis.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+
+conclusiones:
+ver informe
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

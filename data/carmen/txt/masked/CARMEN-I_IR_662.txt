@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Infecció COVID-19
+
+conclusiones:
+Discretas atelectasias laminares en bases.
+Sin otros hallazgos radiológicos valorables.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,18 @@
+T6	ENFERMEDAD 486 504	neumonía por COVID
+T7	ENFERMEDAD 328 333	COVID
+T8	SINTOMA 160 166	fiebre
+T9	SINTOMA 169 172	tos
+T10	SINTOMA 522 568	empeoramiento clínico, analítico y radiológico
+T11	SINTOMA 591 598	mejoría
+T12	FARMACO 230 240	Augmentine
+T13	FARMACO 389 400	lopinavir/r
+T14	FARMACO 403 420	hidroxicloroquina
+T15	FARMACO 423 435	azitromicina
+T16	FARMACO 438 449	ceftriaxona
+T17	FARMACO 452 464	teicoplanina
+T18	PROCEDIMIENTO 316 333	frotis para COVID
+T19	HUMANO 1 9	Paciente
+T20	HUMANO 573 581	paciente
+T21	SINTOMA 316 350	frotis para COVID resulta positivo
+T22	PROCEDIMIENTO 258 267	analítica
+T23	PROCEDIMIENTO 557 568	radiológico

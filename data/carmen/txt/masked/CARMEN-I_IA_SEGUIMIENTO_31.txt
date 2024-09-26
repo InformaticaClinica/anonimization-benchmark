@@ -1,0 +1,8 @@
+- Recurso asistencial para continuar desintoxicación ambulatoria: [**CENTRO_SALUD**]
+HORARIOS: Todos los días de 00:00h a 24:00h
+Dirección: [**CALLE**]
+Distrito: [**TERRITORIO**]
+Barrio: [**TERRITORIO**]
+Código postal: [**TERRITORIO**]
+Población: [**TERRITORIO**]
+- Alta a [**INSTITUCION**].

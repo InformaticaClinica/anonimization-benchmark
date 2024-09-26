@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+EMpeoramiento repsiratorio en paicente con neumonía pro COVID de larga evolución. Interesa descartar progresióin de neumoníaogranizativa o sobreinfección pulmonar o TEP.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE-
+
+resultados:
+Se compara con TC torácico previo del 02/08/2026
+Defecto de repleción laminar en la rama lobar inferior del LID, adherido a la pared, sugestivo de TEP crónico. Arterias pulmonares principales y resto de arterias lobares permeables, sin signos de TEP.
+Tronco de la arteria pulmonar permeable de calibre normal. No hay signos de sobrecarga ventricular derecha.
+Mínimo derrame pleural izquierdo. Leve derrame pericárdico. No se visualiza neumotórax.
+Se observa además gran cantidad de neumomediastino anterior que se extiende cranealmente hacia zona cervical y caudalmente a nivel paratraqueal, fosas supraclaviculares (der > izq) hasta retroesternal; que ha disminuido respecto TC previo.
+Afectación parenquimatosa bilateral consistente en áreas de vidrio deslustrado de distribución periférica y peribroncovascular que en algunos puntos presenta engrosamiento de septos interlobulillares formando un patrón en "empedrado". En otras zonas estas áreas tienen tendencia a la confluencia conformando consolidaciones. En los lóbulos inferiores se aprecian consolidaciones en forma de banda subpleural, áreas de reticulación y dilataciones bronquiales. Se aprecian aisladas zonas de halo reverso. Hallazgos compatibles con neumonía COVID-19 de extensión moderada con signos de organización y patrón de daño alveolar difuso. No se observan signos de sobreinfección.
+SNG. CVC subclavio derecho con extremo distal en VCS. IOT a 5 cm de la carina.
+
+conclusiones:
+- TEP crónico en rama lobar inferior del LID. Arterias pulmonares principales y resto de arterias lobares permeables, sin signos de TEP.
+- Resolución del neumotórax derecho.
+- Disminción de la gran cantidad de neumomediastino anterior que se extiende cranealmente hacia zona cervical y caudalmente a nivel paratraqueal, fosas supraclaviculares (der > izq) hasta retroesternal.
+- Hallazgos compatibles con neumonía COVID-19 de extensión moderada con signos de organización y patrón de daño alveolar difuso. No se observan signos de sobreinfección.
+
+descrip:
+ANGIO TC PULMONAR

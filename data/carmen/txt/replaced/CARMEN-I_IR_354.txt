@@ -1,0 +1,20 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+FIEBRE
+
+protocolo:
+TC CEREBRAL URGENTE sin contraste ev.
+
+conclusiones:
+No se observan signos de sangrado intra o extraaxial.
+Sin alteraciones densitométricas encefálicas destacables.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas. Cisternas basales libres.
+Ocupación parcial de senos maxilares por probable sinusopatía crónica.
+No se observan trazos de fractura ósea.
+
+descrip:
+TC CEREBRAL

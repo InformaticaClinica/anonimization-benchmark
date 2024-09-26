@@ -1,0 +1,111 @@
+T6	SINTOMA 131 142	Somnolienta
+T7	SINTOMA 409 434	Ruidos cardíacos rítmicos
+T8	SINTOMA 439 445	soplos
+T9	SINTOMA 461 482	hipoperfusión dista l
+T10	SINTOMA 580 588	eupneica
+T11	SINTOMA 590 619	murmullo vesicular conservado
+T12	SINTOMA 636 659	dificultad respiratoria
+T13	SINTOMA 670 698	Ruidos hidroaéreos presentes
+T14	SINTOMA 700 739	abdomen blando, depresible, no doloroso
+T15	SINTOMA 788 848	Extremidad superior derecha edematosa, sin eritema ni ca lor
+T16	SINTOMA 850 876	pulsos periférico presente
+T17	SINTOMA 924 943	Buen estado general
+T18	SINTOMA 945 959	normohidratado
+T19	SINTOMA 962 976	normocoloreado
+T20	SINTOMA 991 998	Afebril
+T21	SINTOMA 1032 1056	tonos cardíacos rítmicos
+T22	SINTOMA 1061 1067	soplos
+T23	SINTOMA 1072 1078	edemas
+T24	SINTOMA 1083 1104	ingurgitación yugular
+T25	SINTOMA 1106 1148	Pulsos periféricos presente s y simétricos
+T26	SINTOMA 1212 1220	eupneica
+T27	SINTOMA 1222 1251	murmullo vesicular conservado
+T28	SINTOMA 1267 1290	dificultad respiratoria
+T29	SINTOMA 1297 1373	abdomen blando y depresible, no doloroso a palpación superficial ni profunda
+T30	SINTOMA 1388 1393	masas
+T31	SINTOMA 1397 1412	visceromegalias
+T32	SINTOMA 1428 1449	irritación peritoneal
+T33	SINTOMA 1451 1475	Peristaltismo conservado
+T34	SINTOMA 1477 1497	percusión timpánic a
+T35	SINTOMA 1499 1538	Puñopercusión lumbar bilateral negativa
+T36	SINTOMA 1545 1555	consciente
+T37	SINTOMA 1557 1584	apertura oc ular espontánea
+T38	SINTOMA 1930 1990	E xtremidad superior derecha edematosa, sin eritema ni calor
+T39	SINTOMA 1992 2019	pulsos perif érico presente
+T40	SINTOMA 2059 2079	Buen estado gener al
+T41	SINTOMA 2080 2094	normohidratado
+T42	SINTOMA 2097 2111	normocoloreado
+T43	SINTOMA 2126 2133	Afebril
+T44	SINTOMA 2168 2192	tonos cardíacos rítmicos
+T45	SINTOMA 2197 2203	soplos
+T46	SINTOMA 2208 2214	edemas
+T47	SINTOMA 2219 2241	ing urgitación yugular
+T48	SINTOMA 2243 2284	Pulsos periféricos presentes y simétricos
+T49	SINTOMA 2349 2357	eupneica
+T50	SINTOMA 2359 2388	murmullo vesicular conservado
+T51	SINTOMA 2404 2427	dificultad respiratoria
+T52	SINTOMA 2434 2511	abdome n blando y depresible, no doloroso a palpación superficial ni profunda
+T53	SINTOMA 2526 2531	masas
+T54	SINTOMA 2535 2550	visceromegalias
+T55	SINTOMA 2565 2587	irritación peritonea l
+T56	SINTOMA 2615 2634	percusión timpánica
+T57	SINTOMA 2636 2676	Puñopercusión lumbar b ilateral negativa
+T58	SINTOMA 2683 2693	consciente
+T59	SINTOMA 3066 3125	Extremidad superior derecha edematosa, sin eritema ni calor
+T60	SINTOMA 3127 3153	pulsos periférico presente
+T61	SINTOMA 3168 3217	edemas con fóvea bimaleolares y en zonas decúbito
+T62	SINTOMA 3295 3300	vigil
+T63	SINTOMA 3394 3399	dolor
+T64	SINTOMA 3420 3428	miopatía
+T65	SINTOMA 3430 3437	rigidez
+T66	SINTOMA 3536 3543	eritema
+T67	SINTOMA 3547 3552	calor
+T68	SINTOMA 3839 3866	abdomen blando y depresible
+T69	SINTOMA 361 391	reflejo cutáneo plantar flexor
+T70	SINTOMA 754 759	masas
+T71	SINTOMA 978 988	HD estable
+T72	SINTOMA 1586 1612	responde ordenes sencillas
+T73	SINTOMA 1625 1676	nivel de conexió n ocn el entorno parece fluctuante
+T74	SINTOMA 1894 1924	reflejo cutáneo plantar flexor
+T75	SINTOMA 2113 2123	HD estable
+T76	SINTOMA 2589 2613	Peristaltismo conservado
+T77	SINTOMA 2695 2721	apertura ocular espontánea
+T78	SINTOMA 2723 2749	responde ordenes sencillas
+T79	SINTOMA 2762 2812	nivel de conexión co el entorno parece fl uctuante
+T80	SINTOMA 3030 3060	reflejo cutáneo plantar flexor
+T81	SINTOMA 3278 3288	HD estable
+T82	SINTOMA 3302 3324	descone xión del medio
+T83	SINTOMA 3334 3360	apertura ocular espontánea
+T84	SINTOMA 3381 3399	l ocaliza al dolor
+T85	SINTOMA 3366 3379	verbalización
+T86	SINTOMA 3453 3479	Es table hemodinámicamente
+T87	SINTOMA 3481 3491	normotensa
+T88	SINTOMA 3510 3530	EE normoperfundida s
+T89	SINTOMA 3554 3601	Edemas francos con fóvea en EEII hasta rodillas
+T90	SINTOMA 3672 3679	r oncus
+T91	SINTOMA 763 771	megalias
+T92	ENFERMEDAD 144 215	tetraparesia asimétrica de predominio proximal y en extremidad superior
+T93	ENFERMEDAD 1013 1024	adenopatias
+T94	ENFERMEDAD 1678 1725	tetraparesia asimétrica de predomini o proximal
+T95	PROCEDIMIENTO 880 891	EXPLORACIÓN
+T96	PROCEDIMIENTO 1150 1154	RESP
+T97	PROCEDIMIENTO 2023 2034	EXPLORACIÓN
+T98	PROCEDIMIENTO 2286 2290	RESP
+T99	PROCEDIMIENTO 3449 3451	CV
+T100	PROCEDIMIENTO 3621 3625	RESP
+T101	PROCEDIMIENTO 3648 3663	cánula de plata
+T102	PROCEDIMIENTO 3806 3830	valoración de Enfermería
+T103	PROCEDIMIENTO 3868 3885	nutrición enteral
+T104	PROCEDIMIENTO 74 88	Pulsioximetría
+T105	PROCEDIMIENTO 498 512	Cánula Shilley
+T106	PROCEDIMIENTO 1156 1210	Cánula Shilley destapada con FiO2 28% a través de VMSK
+T107	ENFERMEDAD 2148 2160	a denopatias
+T108	PROCEDIMIENTO 2292 2347	Cán ula Shilley destapada con FiO2 24% a través de VMSK
+T109	SINTOMA 2814 2860	tetraparesia asimétrica de predominio proximal
+T110	PROCEDIMIENTO 3627 3663	traqueostomizada con cánula de plata
+T111	PROCEDIMIENTO 3715 3748	FiO2 a 28% 4 L/min con venitmas k
+T112	PROCEDIMIENTO 3761 3787	Secreciones que se aspiran
+T113	SINTOMA 3761 3772	Secreciones
+T114	PROCEDIMIENTO 1292 1295	ABD
+T115	PROCEDIMIENTO 2429 2432	ABD
+T116	PROCEDIMIENTO 3834 3837	ABD

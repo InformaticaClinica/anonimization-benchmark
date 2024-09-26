@@ -1,0 +1,14 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**]. No refiere alergias medicamentosas conocidas. Prurito por atenolol (nombre comercial BLOKIUM). Sin hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS DE INTERÉS:
+- ESPONDILITIS ANQUILOSANTE HLA-B27+, en tratamiento con ADA biosimilar.
+- HIPERTENSIÓN ARTERIAL en tratamiento farmacológico
+- DIABETES MELLITUS, HbA1c 9,7% en [**FECHAS**], no consta tratamiento.
+- DISLIPEMIA, no consta tratamiento farmacológico.
+- ICTUS EN TERRITORIO ACMI en [**FECHAS**], con afasia y paresia en mano derecha. Recuperación ad integrum.
+INTERVENCIONES QUIRÚRGICAS PREVIAS:
+- Amigdalectomía en la infancia.
+- Accidente de tráfico [**FECHAS**]: Artrodesis vertebral de D9 a L3 ([**FECHAS**])
+- Fx diáfisis de fémur derecho--> Fijador externo ([**FECHAS**]) y Küntscher encerrojado (CFN) en fémur derecho [**FECHAS**]). Retirada de clavo endomedular ([**FECHAS**])
+- Varicectomía ([**FECHAS**])
+MEDICACIÓN HABITUAL: ADA biosimilar, amlodipino 10mg/24h.
+La familia refiere que no toma más medicación de forma voluntaria.

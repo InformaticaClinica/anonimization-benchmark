@@ -1,0 +1,8 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] sin alergias a medicamentos. Niega hábitos tóxicos, enol muy ocasional. Independiente para las ABVD, vive con su [**FAMILIARES_SUJETO_ASISTENCIA**], ha realizado [**PROFESION**].
+No vacunada.
+ANTECEDENTES PERSONALES
+- HIPERTENSIÓN ARTERIAL sin tratamiento médico.
+- DISLIPEMIA sin tratamiento médico.
+- HIPERGLICEMIA sin tratamiento médico.
+- OBESIDAD
+Sin tratamiento habitual.

@@ -1,0 +1,16 @@
+ Antecedentes personales: 
+**ANTECEDENTES PERSONALES: No alergias medicamentosas conocidas. No hábitos tóxicos, no fumador. Independiente para las actividades básicas de la vida diaria, vive solo y camina con ayuda de un bastón, tiene cuidadora [**EDAD_SUJETO_ASISTENCIA**].
+**ANTECEDENTES PATOLÓGICOS:
+1.- HTA en tratamiento farmacológico.
+2.- CARDIOPATIA ISQUÉMICA, en forma de Angor de esfuerzo en [**FECHAS**].
+* IAMSEST, realizaron un ecocardiograma que mostró ligera hipertrofia del ventrículo izquierdo con motilidad global conservada. Cateterismo cardiaco que mostró la descendente anterior (DA) con lesión severa y larga proximal calcificada, así como una arteria circunfleja (Cx) con una lesión proximal del [**NUMERO_TELEFONO**]. Ante estos hallazgos, se realizó revascularización percutánea con stent recubierto (Taxus) sobre DA proximal y Cx proximal. Se optimiza el tratamiento cardioprotector.
+- ETT ([**FECHAS**]): FE [**NUMERO_TELEFONO**], VI ligeramente hipertrófico no dilatado con motilidad conservada, AI moderadamente dilatada. IAo ligera, válvua trivalva esclerocalcificada con apertura conservada. Insuficiencia mitral ligera. VD no dilatada con motilidad normal. Sin derrame pericárdico.
+4.- BLOQUEO TRIFASCICULAR evidenciado en ECG de [**FECHAS**]. Con PR [**NUMERO_TELEFONO**]. Ha presetado varios episodios de mareo e inestabilidad, niega síncope, dolor torácico o disnea.
+4.- NEUMOPATIA CRÓNICA, de etiología no filiada.
+5.- ESPONDILOPATÍA ANQUILOSANTE diagnosticada hace [**EDAD_SUJETO_ASISTENCIA**] en tratamiento y seguimiento por reumatólogo. Recibió tratamiento en el diagnóstico con corticoides que se retiraron por crisis hipertensivas.
+6.- HIPERTROFIA BENIGNA DE PRÓSTATA.
+7.- TUBERCULOSIS PLEURAL durante la juventud ([**FECHAS**]).
+** ANTECEDENTES QUIRÚRGICOS:
+1.- IQ: herniorrafia inguinal.
+2.- Portador de prótesis de cadera izquierda. Se ha realizado cambio en [**NUMERO_TELEFONO**]. (portador de [**INSTITUCION**] con tratamiento supresivo con [**NUMERO_TELEFONO**]).
+**MEDICACIÓN HABITUAL ([**FECHAS**]): [**NUMERO_TELEFONO**] [**NUMERO_TELEFONO**] [**NUMERO_TELEFONO**] [**NUMERO_TELEFONO**] [**NUMERO_TELEFONO**], [**NUMERO_TELEFONO**], [**NUMERO_TELEFONO**]. [**NUMERO_TELEFONO**]

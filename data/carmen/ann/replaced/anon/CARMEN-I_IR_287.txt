@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Insuficiencia respiratoria
+
+conclusiones:
+RX deficient tècnicament- Repetir RX
+
+descrip:
+RX  PORTATIL  TORAX

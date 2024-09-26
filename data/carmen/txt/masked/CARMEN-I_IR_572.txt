@@ -1,0 +1,29 @@
+
+prueba:
+TC TORAX
+
+clinica:
+COVID >30 dias IOT con TEP asociado. PResenta inflamacion analitica con febricula peristente a pesar de amplia cobertura antibiotica por lo que interesa descartar NOC (sin ttpo corticoideo actualmente), gracias.
+NEUMONÍA POR SARS-CoV-2
+
+protocolo:
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con TC previo del [**FECHAS**].
+Traqueostomía con extremo distal del tubo a 4,5 cm de la carina. Dos vías venosas centrales con acceso yugular bilateral con extremo distal en VCS. SNG con extremo distal en antro gástrico.
+Tronco de la arteria pulmonar dilatado (34 mm). Cardiomegalia.
+Importantes calcificaciones coronarias.
+Dos adenopatías paratraqueales altas derechas y una parahiliar derecha, de 15 mm. No se observan otras adenopatías mediastínicas ni axilares de tamaño patológico.
+Mínimo derrame pericárdico.
+Moderado derrame pleural bilateral.
+Leve mejoría radiológica de la afectación parenquimatosa pulmonar conocida compatible con neumonía COVID19, con disminución de las áreas consolidativas de distribución peribroncovascular a nivel de ambos LLSS.
+Persisten ténues áreas en vidrio deslustrado de distribución periférica asociadas a áreas de engrosamiento septal (patrón en "crazy paving"). No se se observan claros cambios organizativos. Atelectasia pasiva con colapso completo del LII. Disminución de la atelectasia obstructiva del LID y LM, observándose actualmente mayor cantidad de parénquima expandido respecto a TC previo.
+En los cortes torácicos del estudio abdominal con contraste (ver informe de TC de abdomen) se observa un defecto de repleción a nivel de la arteria principal derecha distal en relación a TEP central, ya conocido, discretamente menos extenso que en TC previo.
+
+conclusiones:
+Leve mejoría radiológica de la afectación parenquimatosa pulmonar conocida compatible con neumonía COVID19 respecto a TC previo; no se observan claros signos organizativos.  Mayor cantidad de parénquima expandido respecto a TC previo en las atelectasias descritas previamente en LID y LM.
+Resto, sin cambios significativos respecto a TC previo.
+
+descrip:
+TC TORAX

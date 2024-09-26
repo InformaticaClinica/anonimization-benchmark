@@ -1,0 +1,86 @@
+T16	ENFERMEDAD 67 78	ex- fumador
+T17	ENFERMEDAD 204 225	hipertensión arterial
+T18	ENFERMEDAD 230 238	diabetes
+T19	ENFERMEDAD 243 253	dislipemia
+T20	ENFERMEDAD 534 588	hemorragia digestiva alta (HDA) por varices esofágicas
+T21	ENFERMEDAD 570 588	varices esofágicas
+T22	ENFERMEDAD 653 678	Hemorragia digestiva alta
+T23	ENFERMEDAD 859 869	hemorragia
+T24	ENFERMEDAD 902 944	Gastropatía de la hipertensión portal leve
+T25	SINTOMA 1109 1124	atrofia del LHD
+T26	ENFERMEDAD 1150 1169	hepatopatía crónica
+T27	ENFERMEDAD 1188 1198	esteatosis
+T28	SINTOMA 1499 1548	circulación colateral celíaca y en hilio hepático
+T29	ENFERMEDAD 1686 1693	ascitis
+T30	ENFERMEDAD 1783 1807	síndrome porto- pulmonar
+T31	ENFERMEDAD 2064 2089	insuficiencia tricuspidea
+T32	SINTOMA 2149 2184	temps de aceleración pulmonar curta
+T33	ENFERMEDAD 2187 2212	arteria pulmonar dilatada
+T34	ENFERMEDAD 2457 2477	insuficiencia mitral
+T35	ENFERMEDAD 2846 2850	EPOC
+T36	ENFERMEDAD 2924 2927	AKI
+T37	FARMACO 2005 2015	macicentan
+T38	FARMACO 2018 2028	tadalafilo
+T39	FARMACO 2979 2988	Omeprazol
+T40	FARMACO 2998 3008	Furosemida
+T41	FARMACO 3019 3034	Espironolactona
+T42	FARMACO 3046 3061	Sulfato ferroso
+T43	HUMANO 0 5	Varón
+T44	HUMANO 333 341	Jubilado
+T45	HUMANO 356 363	letrado
+T46	HUMANO 378 385	abuelos
+T47	HUMANO 397 405	cuidador
+T48	HUMANO 416 420	hijo
+T49	ENFERMEDAD 632 649	DESCOMPENSACIONES
+T50	PROCEDIMIENTO 698 722	colocación de early TIPS
+T51	PROCEDIMIENTO 741 755	cierre de TIPS
+T52	PROCEDIMIENTO 793 805	GASTROSCOPIA
+T53	PROCEDIMIENTO 949 968	ECOGRAFÍA ABDOMINAL
+T54	PROCEDIMIENTO 1698 1719	HEMODINÁMICA HEPÁTICA
+T55	PROCEDIMIENTO 2033 2047	ECOCARDIOGRAMA
+T56	PROCEDIMIENTO 2646 2677	PRUEBAS DE FUNCIÓN RESPIRATORIA
+T57	SINTOMA 859 869	hemorragia
+T58	SINTOMA 978 1008	Hígado de contornos iregulares
+T59	SINTOMA 1010 1047	alteración difusa de la ecoestructura
+T60	SINTOMA 1050 1076	aumento de la ecogenicidad
+T61	SINTOMA 1218 1234	lesiones focales
+T62	SINTOMA 1249 1271	Porta hiliar permeable
+T63	SINTOMA 1276 1313	flujo hepatopetal y velocidades bajas
+T64	SINTOMA 1432 1460	Vena cava inferior permeable
+T65	SINTOMA 1595 1612	TIPS no permeable
+T66	SINTOMA 1636 1660	Esplenomegalia homogénea
+T67	ENFERMEDAD 2253 2307	hipertrofia moderada-grave del septum interventricular
+T68	SINTOMA 2316 2362	motilidad global preservada sin segmentarismos
+T69	ENFERMEDAD 2479 2518	Aurícula izquierda ligeramente dilatada
+T70	ENFERMEDAD 2520 2559	Ventrículo derecho ligeramente dilatado
+T71	SINTOMA 2577 2607	Vena cava inferior no dilatada
+T72	SINTOMA 2610 2641	colapso inspiratorio preservado
+T73	SINTOMA 2687 2728	alteración obstructiva de leve intensidad
+T74	SINTOMA 2752 2819	capacidad de transferencia de CO disminución de moderada intensidad
+T75	ENFERMEDAD 114 126	ex- enolismo
+T76	ENFERMEDAD 453 478	CIRROSIS HEPÁTICA ENÓLICA
+T77	ENFERMEDAD 561 564	HDA
+T78	ENFERMEDAD 817 833	Varices fúndicas
+T79	ENFERMEDAD 839 842	VG1
+T80	PROCEDIMIENTO 692 695	EBL
+T81	SINTOMA 884 900	restos hemáticos
+T82	SINTOMA 1087 1106	hipertrofia del LHI
+T83	SINTOMA 1339 1377	flujo portal intrahepático hepatofugal
+T84	SINTOMA 1379 1411	VSH media y izquierda permeables
+T85	SINTOMA 1462 1484	V. esplenica permeable
+T86	SINTOMA 1558 1593	circulación colateral periesplénica
+T87	SINTOMA 1733 1768	Presiones cardiopulmonares elevadas
+T88	ENFERMEDAD 1905 1932	HIPERTENSIÓN PORTO-PULMONAR
+T89	SINTOMA 2407 2448	Válvula aórtica trivalva normofuncionante
+T90	SINTOMA 2520 2575	Ventrículo derecho ligeramente dilatado normocontráctil
+T91	SINTOMA 2730 2750	PBD no significativa
+T92	PROCEDIMIENTO 2730 2733	PBD
+T93	PROCEDIMIENTO 2752 2784	capacidad de transferencia de CO
+T94	ENFERMEDAD 2863 2887	ENFERMEDAD RENAL CRÓNICA
+T95	ENFERMEDAD 2932 2953	ANEMIA MULTIFACTORIAL
+T96	FARMACO 3062 3074	Ácido fólico
+T97	FARMACO 3075 3085	Alopurinol
+T98	ENFERMEDAD 1218 1234	lesiones focales
+T99	ENFERMEDAD 22 30	alergias
+T1	SINTOMA 2216 2248	Ventrículo izquierdo no dilatado
+T2	ENFERMEDAD 50 65	Hábitos tóxicos

@@ -1,0 +1,60 @@
+T9	ENFERMEDAD 181 202	Hipertensión arterial
+T10	ENFERMEDAD 369 388	infección protésica
+T11	ENFERMEDAD 1341 1372	Dehiscencia proximal al colgajo
+T12	ENFERMEDAD 1377 1440	infección y destrucción tendón rotuliano y del aparato extensor
+T13	ENFERMEDAD 61 68	fumador
+T14	ENFERMEDAD 1962 1985	AIT HEMISFÉRICO DERECHO
+T15	ENFERMEDAD 1987 2064	ICTUS ISQUÉMICO AGUDO EN EL TERRITORIO DE LA ARTERIA CEREBRAL MEDIA IZQUEIRDA
+T16	ENFERMEDAD 2073 2125	ESTENOSIS 50% DE LA ARTERIA CARÓTIDA INTERNA DERECHA
+T17	ENFERMEDAD 2135 2157	FORAMEN OVAL PERMEABLE
+T18	FARMACO 441 454	levofloxacino
+T19	FARMACO 457 468	rifampicina
+T20	FARMACO 723 734	ceftazidima
+T21	FARMACO 737 746	linezolid
+T22	FARMACO 988 998	ampicilina
+T23	FARMACO 1001 1015	ciprofloxacino
+T24	FARMACO 1783 1793	ampicilina
+T25	FARMACO 1796 1810	ciprofloxacino
+T26	FARMACO 2215 2226	enoxaparina
+T27	PROCEDIMIENTO 919 937	soporte vasopresor
+T28	FARMACO 1645 1650	vanco
+T29	FARMACO 1651 1656	genta
+T30	PROCEDIMIENTO 2195 2210	anticoagulacion
+T31	SINTOMA 617 635	supuración profusa
+T32	SINTOMA 1303 1337	Cultivos introperatorios negativos
+T33	ENFERMEDAD 51 59	alergias
+T34	ENFERMEDAD 1234 1277	fractura del condilo lateral del espaciador
+T35	FARMACO 2195 2210	anticoagulacion
+T36	PROCEDIMIENTO 236 263	Prótesis de rodilla derecha
+T37	PROCEDIMIENTO 750 779	Recambio en 2T de PTR derecha
+T38	PROCEDIMIENTO 782 808	cobertura mediante colgajo
+T39	PROCEDIMIENTO 881 916	transfusión de dos hemoconcentrados
+T41	PROCEDIMIENTO 1153 1167	desbridamiento
+T42	PROCEDIMIENTO 1170 1189	recambio espaciador
+T43	PROCEDIMIENTO 1462 1498	colocación de un espaciador estático
+T44	PROCEDIMIENTO 1577 1613	extracción patela y tejido infectado
+T45	PROCEDIMIENTO 1690 1742	artrodesis con FIJADOR EXTERNO DOBLE CUADRO ORTHOFIX
+T46	PROCEDIMIENTO 1815 1826	aislamiento
+T48	HUMANO 26 34	Paciente
+T49	SPECIES 394 422	aislamientos microbiológicos
+T50	SPECIES 700 703	BGN
+T51	SPECIES 706 719	estreptococos
+T52	SPECIES 1020 1045	aislamiento de E.faecalis
+T53	SPECIES 1048 1057	E.cloacae
+T54	PROCEDIMIENTO 206 231	tratamiento farmacológico
+T55	PROCEDIMIENTO 394 422	aislamientos microbiológicos
+T56	PROCEDIMIENTO 510 546	cirugía por luxaciones de repetición
+T57	ENFERMEDAD 522 546	luxaciones de repetición
+T58	ENFERMEDAD 571 635	solución de continuidad a nivel pretibial con supuración profusa
+T59	PROCEDIMIENTO 639 682	cultivo de líquido articular y de la lesión
+T60	SINTOMA 650 720	líquido articular y de la lesión (aislamientos de BGN y estreptococos)
+T61	ENFERMEDAD 1089 1106	herida quirúrgica
+T62	PROCEDIMIENTO 1234 1301	fractura del condilo lateral del espaciador que se fija con cemento
+T63	PROCEDIMIENTO 1303 1327	Cultivos introperatorios
+T64	PROCEDIMIENTO 1615 1656	colocación espaciado estático vanco-genta
+T65	PROCEDIMIENTO 1745 1765	REAVANCE COLGAJO ALT
+T66	SPECIES 1848 1858	E.faecalis
+T67	SPECIES 1861 1870	E.cloacae
+T1	ENFERMEDAD 104 119	hábitos tóxicos
+T2	PROCEDIMIENTO 1830 1837	cirugía
+T3	PROCEDIMIENTO 1535 1542	cirugía

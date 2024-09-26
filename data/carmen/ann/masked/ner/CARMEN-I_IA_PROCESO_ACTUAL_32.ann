@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 293 298	AINEs
+T2	SINTOMA 32 38	disnea
+T3	SINTOMA 137 145	ortopnea
+T4	SINTOMA 149 176	disnea paroxística nocturna
+T5	SINTOMA 181 184	tos
+T6	SINTOMA 189 201	expectoració
+T7	SINTOMA 206 211	febre
+T8	SINTOMA 303 334	exterioritzacions hemorràgiques
+T9	SINTOMA 339 351	palpitacions
+T10	SINTOMA 355 368	dolor toràcic
+T11	PROCEDIMIENTO 263 279	dieta hiposòdica

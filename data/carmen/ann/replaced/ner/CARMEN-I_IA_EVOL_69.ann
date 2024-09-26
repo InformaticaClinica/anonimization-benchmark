@@ -1,0 +1,69 @@
+T6	ENFERMEDAD 80 104	TROMBOSIS PORTAL CRÓNICA
+T7	ENFERMEDAD 895 906	anemización
+T8	ENFERMEDAD 1060 1082	encefalopatía hepática
+T9	ENFERMEDAD 1412 1425	encefalopatía
+T10	ENFERMEDAD 2006 2019	encefalopatía
+T11	ENFERMEDAD 2079 2101	encefalopatía hepática
+T12	ENFERMEDAD 2179 2186	ascitis
+T13	ENFERMEDAD 2259 2281	encefalopatía hepática
+T14	ENFERMEDAD 2295 2304	infección
+T15	ENFERMEDAD 2416 2458	descompensaciones agudas de la hepatopatía
+T16	PROCEDIMIENTO 1135 1148	se pancultiva
+T17	PROCEDIMIENTO 1161 1179	cobertura empírica
+T18	FARMACO 1184 1193	meropenem
+T19	FARMACO 1195 1207	teicoplanina
+T20	FARMACO 1210 1220	fluconazol
+T21	FARMACO 1922 1945	amoxicilina-clavulánico
+T22	FARMACO 2493 2500	sintrom
+T23	HUMANO 159 167	PACIENTE
+T24	HUMANO 214 222	Paciente
+T25	HUMANO 1802 1810	paciente
+T26	HUMANO 2792 2795	Dr.
+T27	PROCEDIMIENTO 857 872	perfil hepático
+T28	PROCEDIMIENTO 980 996	Tóxicos en orina
+T29	PROCEDIMIENTO 1008 1018	TC craneal
+T30	PROCEDIMIENTO 1106 1123	terapia catártica
+T31	PROCEDIMIENTO 1267 1291	administración de enemas
+T32	PROCEDIMIENTO 1355 1377	intubación orotraqueal
+T33	PROCEDIMIENTO 1474 1484	extubación
+T34	PROCEDIMIENTO 1600 1621	cobertura antibiótica
+T35	PROCEDIMIENTO 1696 1710	punción lumbar
+T36	PROCEDIMIENTO 1895 1903	cultivos
+T37	PROCEDIMIENTO 2032 2047	laxantes orales
+T38	PROCEDIMIENTO 2473 2488	anticoagulación
+T39	PROCEDIMIENTO 2625 2640	laxantes orales
+T40	PROCEDIMIENTO 2643 2660	pauta antibiótica
+T41	SINTOMA 292 317	bajo nivel de consciencia
+T42	SINTOMA 357 368	somnolencia
+T43	SINTOMA 384 399	hiporeactividad
+T44	SINTOMA 418 424	fiebre
+T45	SINTOMA 453 473	vómitos alimentarios
+T46	SINTOMA 597 621	estabilidad hemodinámica
+T47	SINTOMA 627 658	correctas saturaciones en basal
+T48	SINTOMA 660 666	febril
+T49	SINTOMA 673 707	deterioro del nivel de consciencia
+T50	SINTOMA 754 791	elevación de reactantes de fase aguda
+T51	SINTOMA 808 820	leucocitosis
+T52	SINTOMA 958 978	Alcoholemia negativa
+T53	SINTOMA 980 1006	Tóxicos en orina negativos
+T54	SINTOMA 1529 1536	afebril
+T55	SINTOMA 1541 1592	descenso progresivo de los parámetros inflamatorios
+T56	SINTOMA 1852 1859	afebril
+T57	SINTOMA 1872 1903	microorganismos en los cultivos
+T58	SINTOMA 2190 2196	edemas
+T59	SPECIES 72 75	VIH
+T60	SPECIES 1872 1887	microorganismos
+T61	ENFERMEDAD 30 60	HIPERTENSIÓN PORTAL IDIOPÁTICA
+T62	ENFERMEDAD 109 122	ENCEFALOPATÍA
+T63	ENFERMEDAD 140 183	SÍNDROME FEBRIL EN PACIENTE INMUNODEPRIMIDO
+T64	SINTOMA 831 855	función renal preservada
+T65	PROCEDIMIENTO 831 844	función renal
+T66	PROCEDIMIENTO 767 791	reactantes de fase aguda
+T67	ENFERMEDAD 1023 1038	lesiones agudas
+T68	FARMACO 926 933	sintrom
+T69	PROCEDIMIENTO 909 921	descoagulado
+T70	PROCEDIMIENTO 2145 2161	dieta hiposódica
+T71	FARMACO 2380 2387	ameride
+T72	PROCEDIMIENTO 732 741	Analítica
+T73	SINTOMA 1673 1691	cuadro neurológico
+T1	SINTOMA 1226 1252	escasa mejoría neurológica

@@ -1,0 +1,8 @@
+Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas. Niega hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS:
+-HIPERTENSIÓN ARTERIAL en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**] 
+-COLITIS ULCEROSA en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**].
+-SDR. DEPRESIVO en tratamiento con [**MEDICAMENTO**] [**MEDICAMENTO**] 
+-OSTEOPOROSIS en tratamiento con [**MEDICAMENTO**]
+TRATAMIENTO HABITUAL: [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**]; [**MEDICAMENTO**].

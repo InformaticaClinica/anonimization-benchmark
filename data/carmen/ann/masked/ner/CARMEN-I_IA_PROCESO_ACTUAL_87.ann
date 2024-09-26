@@ -1,0 +1,172 @@
+T22	SINTOMA 24 52	dolor lumbar agudo bilateral
+T23	SINTOMA 150 168	mal estado general
+T24	SINTOMA 174 192	sudoración profusa
+T25	SINTOMA 195 254	pérdida de fuerza y sensibilidad en extremidades inferiores
+T26	SINTOMA 286 293	diarrea
+T27	SINTOMA 298 304	fiebre
+T28	SINTOMA 307 327	clínica respiratoria
+T29	ENFERMEDAD 368 377	hipotenso
+T30	SINTOMA 379 391	taquicárdico
+T31	SINTOMA 393 404	diaforético
+T32	SINTOMA 407 418	taquipneico
+T33	SINTOMA 420 427	afebril
+T34	SINTOMA 464 477	hipoperfusión
+T35	SINTOMA 479 503	frialdad de extremidades
+T36	SINTOMA 506 525	mal relleno capilar
+T37	SINTOMA 527 540	cianosis acra
+T38	SINTOMA 647 682	infiltrados bilaterales algodonosos
+T39	SINTOMA 1085 1095	linfopenia
+T40	SINTOMA 2558 2565	afebril
+T41	SINTOMA 3206 3245	opacidades en vidrio deslustrado en LSD
+T42	SINTOMA 3611 3617	fiebre
+T43	SINTOMA 4085 4092	afebril
+T44	SINTOMA 4123 4135	leucocitosis
+T45	SINTOMA 4175 4198	alteraciones valvulares
+T46	SINTOMA 4405 4414	hipoxemia
+T47	SINTOMA 5690 5738	dolor en fosa poplítea de la extremidad inferior
+T48	SINTOMA 6839 6845	disnea
+T49	SINTOMA 92 110	síndrome miccional
+T50	SINTOMA 687 707	velamiento de pulmón
+T51	SINTOMA 773 792	acidosis metabólica
+T52	SINTOMA 859 895	perfil hepático y pancreático normal
+T53	ENFERMEDAD 947 959	hiponatremia
+T54	ENFERMEDAD 971 976	hipoK
+T55	SINTOMA 988 1010	procalcitonina elevada
+T56	SINTOMA 1059 1071	leucocitosis
+T57	SINTOMA 1098 1111	plaquetopenia
+T58	SINTOMA 1146 1165	taquicardia sinusal
+T59	SINTOMA 1236 1286	defectos de repleción en sistema vascular arterial
+T60	SINTOMA 1561 1638	defecto de repleción en la vena porta principal y en la vena esplénica distal
+T61	SINTOMA 1773 1823	frotis para SARS-CoV-2 ([**FECHAS**]) fue positivo
+T62	SINTOMA 3160 3184	foco hipocaptante en LII
+T63	SINTOMA 3187 3245	disminución de las opacidades en vidrio deslustrado en LSD
+T64	SINTOMA 3261 3302	focos consolidativos en LM, língula y LID
+T65	SINTOMA 4289 4300	infiltrados
+T66	SINTOMA 4555 4589	positivos un anticoagulante lúpico
+T67	SINTOMA 4771 4801	IgG anticardiolipina positivos
+T68	SINTOMA 6196 6204	sangrado
+T69	SINTOMA 6412 6458	pulsos tibiales posteriores y pedios presentes
+T70	SINTOMA 6848 6853	calor
+T71	SINTOMA 3057 3076	estabilidad del TEP
+T72	SINTOMA 3752 3788	hemocultivos del mismo día negativos
+T73	SINTOMA 3870 3882	leucocitosis
+T74	SINTOMA 4019 4064	hemocultivos posteriores no hubo aislamientos
+T75	SINTOMA 4483 4503	estado protrombótico
+T76	SINTOMA 6490 6521	se palpaban ambos pulsos pedios
+T77	SINTOMA 6878 6906	alteración de signos vitales
+T78	SINTOMA 3088 3132	aumento global del derrame pleural bilateral
+T79	SINTOMA 3681 3750	cultio de la punta se aislaron > 15 UFC de Staphylococcus epidermidis
+T80	SINTOMA 3812 3848	alza de los reactantes de fase aguda
+T81	ENFERMEDAD 733 770	insuficiencia respiratoria hipoxémica
+T82	ENFERMEDAD 1302 1427	trombos arteriales en múltiples localizaciones: arco aórtico, arteria esplénica, bifurcación aorto-ilíaca, ilíacas, femorales
+T83	ENFERMEDAD 1462 1552	TEP agudo en ramas lobar y segmentarias del LM y en las ramas segmentarias basales del LID
+T84	ENFERMEDAD 1653 1662	trombosis
+T85	ENFERMEDAD 1703 1712	COVID- 19
+T86	ENFERMEDAD 1724 1743	infartos esplénicos
+T87	ENFERMEDAD 1745 1768	hematomas suprarrenales
+T88	ENFERMEDAD 1854 1875	proceso protrombótico
+T89	ENFERMEDAD 1901 1924	infección por SARS-CoV2
+T90	ENFERMEDAD 1926 1963	síndrome antifosfolípido catastrófico
+T91	ENFERMEDAD 3107 3132	derrame pleural bilateral
+T92	ENFERMEDAD 3134 3154	atelectasias en LLII
+T93	ENFERMEDAD 3319 3341	infección por COVID-19
+T94	ENFERMEDAD 3363 3392	trombo parcial en a.esplénica
+T95	ENFERMEDAD 3432 3438	sepsis
+T96	ENFERMEDAD 3632 3649	sepsis de catéter
+T97	ENFERMEDAD 4320 4339	infartos pulmonares
+T98	ENFERMEDAD 4405 4414	hipoxemia
+T99	ENFERMEDAD 4973 4982	neoplasia
+T100	ENFERMEDAD 4985 4997	endocarditis
+T101	ENFERMEDAD 5037 5076	síndrome antifosfolipídico catastrófico
+T102	ENFERMEDAD 5200 5249	trombóticos arteriales en extremidades inferiores
+T103	ENFERMEDAD 3073 3076	TEP
+T104	ENFERMEDAD 5109 5116	COVID19
+T105	ENFERMEDAD 5699 5787	fosa poplítea de la extremidad inferior derecha, diagnosticándose un importante hematoma
+T106	PROCEDIMIENTO 1045 1054	hemograma
+T107	PROCEDIMIENTO 1139 1142	ECG
+T108	PROCEDIMIENTO 1201 1208	angioTC
+T109	PROCEDIMIENTO 1773 1795	frotis para SARS-CoV-2
+T110	PROCEDIMIENTO 2011 2039	soporte respiratorio con LAF
+T111	PROCEDIMIENTO 2574 2586	hemocultivos
+T112	PROCEDIMIENTO 3037 3045	Angio-TC
+T113	PROCEDIMIENTO 3752 3764	hemocultivos
+T114	PROCEDIMIENTO 3948 3970	se colocó un nuevo CVC
+T115	PROCEDIMIENTO 4019 4031	hemocultivos
+T116	PROCEDIMIENTO 4141 4144	ETT
+T118	PROCEDIMIENTO 4251 4262	TC torácica
+T119	PROCEDIMIENTO 5324 5347	trombectomía quirúrgica
+T120	PROCEDIMIENTO 5440 5477	heparina sódica en perfusión continua
+T121	PROCEDIMIENTO 5969 5992	se ha dejado un drenaje
+T122	PROCEDIMIENTO 6277 6301	debridamiento quirúrgico
+T123	PROCEDIMIENTO 6307 6314	drenaje
+T124	PROCEDIMIENTO 6388 6448	eco-doppler bedside con pulsos tibiales posteriores y pedios
+T125	PROCEDIMIENTO 6736 6757	recambios plasmáticos
+T126	PROCEDIMIENTO 6980 7020	se realizó recambio con 100% de albúmina
+T127	PROCEDIMIENTO 639 642	RxT
+T128	PROCEDIMIENTO 719 722	GSA
+T129	PROCEDIMIENTO 859 888	perfil hepático y pancreático
+T130	PROCEDIMIENTO 933 942	ionograma
+T131	PROCEDIMIENTO 2356 2366	VMK al 31%
+T132	PROCEDIMIENTO 2705 2731	bolus de metilprednisolona
+T133	PROCEDIMIENTO 3012 3018	VK 60%
+T134	PROCEDIMIENTO 3642 3673	catéter por lo que se retiraron
+T135	PROCEDIMIENTO 3681 3699	cultio de la punta
+T136	PROCEDIMIENTO 3914 3946	se retiraron todos los catéteres
+T137	PROCEDIMIENTO 4682 4718	mutaciones genéticas de trombofilias
+T138	PROCEDIMIENTO 4628 4658	anticuerpos antifosfolipídicos
+T139	PROCEDIMIENTO 4660 4663	AAF
+T140	PROCEDIMIENTO 4753 4756	AAF
+T141	PROCEDIMIENTO 4887 4923	mutaciones genéticas de trombofilias
+T142	PROCEDIMIENTO 4877 4880	AAF
+T143	PROCEDIMIENTO 5542 5572	recambios plasmáticos con IgEv
+T144	PROCEDIMIENTO 5871 5936	intervención quirúrgica local el mismo día por hematoma contenido
+T145	FARMACO 576 589	noradrenalina
+T146	FARMACO 2071 2074	HNa
+T147	FARMACO 2092 2103	Enoxaparina
+T148	FARMACO 2144 2161	hidroxicloroquina
+T149	FARMACO 2163 2182	Lopinavir/ritonavir
+T150	FARMACO 2185 2197	azitromicina
+T151	FARMACO 2235 2244	meropenem
+T152	FARMACO 2247 2258	daptomicina
+T153	FARMACO 2422 2431	meropenem
+T154	FARMACO 2436 2459	piperacilina-tazobactam
+T155	FARMACO 2714 2731	metilprednisolona
+T156	FARMACO 2751 2763	dexametasona
+T157	FARMACO 2799 2818	Lopinavir/ritonavir
+T158	FARMACO 2821 2838	hidroxicloroquina
+T159	FARMACO 3519 3528	meropenem
+T160	FARMACO 3530 3541	daptomicina
+T161	FARMACO 3544 3558	anidulafungina
+T162	FARMACO 3999 4010	ceftarolina
+T163	FARMACO 5440 5455	heparina sódica
+T164	FARMACO 5505 5522	metilprednisolona
+T165	FARMACO 6101 6116	heparina sódica
+T166	PROCEDIMIENTO 2051 2066	anticoagulación
+T167	PROCEDIMIENTO 5262 5288	tratamiento anticoagulante
+T168	FARMACO 5293 5297	HBPM
+T169	FARMACO 5568 5572	IgEv
+T170	PROCEDIMIENTO 6081 6096	anticoagulación
+T171	PROCEDIMIENTO 5422 5437	anticoagulación
+T172	PROCEDIMIENTO 553 589	soporte vasoactivo con noradrenalina
+T173	PROCEDIMIENTO 2207 2221	antibioterapia
+T174	PROCEDIMIENTO 2519 2542	tratamiento antibiótico
+T175	ENFERMEDAD 4154 4166	vegetaciones
+T179	SPECIES 2609 2623	S. epidermidis
+T180	SPECIES 3461 3471	bacteriana
+T181	SPECIES 3475 3482	fúngica
+T182	HUMANO 4070 4078	paciente
+T183	HUMANO 5167 5175	paciente
+T184	HUMANO 5664 5672	paciente
+T185	HUMANO 6032 6034	Dr
+T186	SPECIES 2626 2636	S. hominis
+T187	SINTOMA 1664 1689	Patrón pulmonar bilateral
+T188	SPECIES 1785 1795	SARS-CoV-2
+T189	SPECIES 1915 1924	SARS-CoV2
+T190	SPECIES 3724 3750	Staphylococcus epidermidis
+T191	SINTOMA 6541 6616	necrosis bien delimitadas en pulpejos de 2 dedo izquierdo, y 1er y 4to dedo
+T192	SINTOMA 2878 2897	estabilidad clínica
+T1	ENFERMEDAD 3397 3414	infarto esplénico
+T2	SINTOMA 2976 3010	empeoramiento a nivel respiratorio
+T3	SINTOMA 2325 2345	mejoría respiratoria
+T4	SINTOMA 2368 2410	mejoría hemodinámica y de la función renal
+T5	SINTOMA 4099 4117	mejoría de los RFA

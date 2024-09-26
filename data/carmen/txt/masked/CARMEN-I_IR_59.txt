@@ -1,0 +1,31 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Dolor hipocondri dret des d'aquest matí. A l'analítica destaca lleu elevació de GOT i GGGT, GPT 172, amilasa 319 i lipasa 298. Bilirrubina normal. Comentat amb Radiologia, sol·licitem TC abdomen per demà [**FECHAS**] matí per descartar pancreatitis aguda. Gràcies.
+COVID19
+
+protocolo:
+TC ABDOMINAL basal y tras administración de contraste e.v., con posterior adquisición en fase pancreatográfica y portal.
+
+resultados:
+En los cortes de tórax, o se observa derrame pleural ni pericárdico.
+Parénquima pulmonar con consolidaciones periféricas y patrón en vídrio deslustrado, áreas con signo de halo reverso, distorsión arquiterctural y bandas subpleurales, todo compatible con infección COVID-19 conocida con cambios organizativos, sin cambios significativos respecto a TC previo de ayer. Hernia de hiato. Elevación del hemidiafragma derecho.
+Hígado homogéneo de morfología, contornos y atenuación normales. Algunas imágenes hipodensas milimétricas en ambos lóbulos, inespecíficas. No se observan lesiones focales sospechosas.
+Vesícula biliar de tamaño y morfología normal, con contraste por excreción biliar. No se visualiza dilatación de la vía biliar intra y/o extrahepática.
+Vena porta y eje espleno-mesentérico permeables. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Páncreas de aspecto globuloso con trabeculación de grasa periférica, compatible con pancreatitis aguda edematoso-intersticial. No se observan colecciones ni líquido libre intraabdominal.
+Bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad. Bazo accesorio de 1 cm.
+Riñones de situación, tamaño y morfología dentro de los límites de la normalidad. Quistes simples corticales parapiélicos bilaterales y uno hemorrágico infracentimétrico en RD. No hay evidencia de dilatación de la vía excretora.
+Vejiga sin lesiones parietales evidentes.Hipertrofia prostática.
+No se identifican adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Cambios degenerativos en columna lumbosacra.
+
+conclusiones:
+- Signos de pancreatitis aguda edematoso-intersticial. No se observan colecciones ni líquido libre intraabdominal.
+- En los cortes de tórax, se observan signos de infección COVID19 con cambios organizativos conocidos, sin cambios significativos respecto a TC previo.
+Resto de la exploración, sin hallazgos destacables.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

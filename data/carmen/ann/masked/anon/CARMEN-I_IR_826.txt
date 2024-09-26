@@ -1,0 +1,17 @@
+
+prueba:
+ECOGRAFIA CON TORACOCENTESIS
+
+clinica:
+derrame pleural izquierdo con escoliosis severa
+derrame pleural izquierdo
+
+protocolo:
+TORACOCENTESIS GUIADA POR ECOGRAFÍA
+
+conclusiones:
+Se intenta abordaje ecográfico posterior del hemitórax izquierdo siendo imposible encontrar una ventana ecográfica adecuada.
+Tras movilizar a la paciente se intenta un abordaje mediaxilar izquierdo visualizando moderada cantidad de líquido.
+Mediante una aguja gris se punciona intercostal pero la aguja no consigue atravesar la pleura que muestra resistencia.
+Dada la dificultad de la punción condicionada por la proximidad de la aorta y el corazón además de la imposibilidad de atravesar la pleura se decide no continuar con el procedimiento.
+**El abordaje anterior no se ha considerado por la escoliosis basal de la paciente y la dificultad para mantener el brazo en alto durante el procedimiento.

@@ -1,0 +1,26 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente sin antecedentes que lleva 20 dias ingresado por neumonia covid y que presenta fiebre con bacteriemia persistente por Serratia. En un TAC de tórax se identifica una LOE hepática subcapsular.
+Hipertransaminasemia. Solicitamos caracterización (absceso?). Gracias
+NEUMONÍA BILATERAL POR SARS-COV2
+
+protocolo:
+ecografía abdominal.
+
+conclusiones:
+Fetge de mida, morfologia i ecostructura normal.
+La imatge hipodensa descrita a TC previ, es correspon a un quist hepàtic amb septe fi de 20mm, al segment VII.
+Vena porta permeable, de diàmetre normal, amb fluxe hepatopetal.
+Vesícula biliar poc distesa, aparentment alitiàsica i de paret fina.
+Via biliar no dilatada.
+Melsa homogènia de mida normal (8'5 cm)
+Pàncrees no valorable.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No hi ha dilatació de la via excretora.
+No hi ha líquid lliure intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

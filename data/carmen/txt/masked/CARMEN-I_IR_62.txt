@@ -1,0 +1,45 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas ni antecedentes de interés.
+1.- NEUMONÍA POR SARS-CoV2. INSUFICIENCIA RESPIRATORIA AGUDA GRAVE **Inicio de síntomas : [**FECHAS**]
+**Ingreso: [**FECHAS**] # UCI [**FECHAS**] : IOT + ECMO VV [**FECHAS**] # [**FECHAS**] TRAQUEOSTOMÍA
+- DECANULADO DE ECMO [**FECHAS**] # EX IOT [**FECHAS**] # DECANULADO [**FECHAS**]. NPT hasta [**FECHAS**] # NE (SNG bien tolerada) .
+**Traslado a sala: [**FECHAS**]
+**Tratamiento: Enoxaparina 40/24h; DXM [**FECHAS**]-[**FECHAS**]; Remdesivir [**FECHAS**]- [**FECHAS**]. Tocilizumab dosis única [**FECHAS**]
+1.1.- CAMBIOS ORGANIZATIVOS - no corticoterapia prologada (por sepsis??). MTP 40 mg iv ([**FECHAS**])
+1.2.- NEUMONÍA ASOCIADA A VM POR Pseudomonas aeruginosa R a carbapenems + K. pneumoniae MultiS + Serratia marcescens.
+.- BAS
+**([**FECHAS**]): 20.000 UFC/mL de Haemophilus influenzae S A Levofloxacino.
+Soca resistent a l'ampicil.lina i l'amoxicil.lina/ac. clavulànic per modificació de les PBPs.
+** ([**FECHAS**]): 200.000 UFC/mL de Pseudomonas aeruginosa multiS (incluido Q) ** ([**FECHAS**]): 400.000 UFC/mL de Pseudomonas aeruginosa ** [**FECHAS**]: 100.000 UFC/mL de Pseudomonas aeruginosa. 100.000 UFC/mL de Serratia marcescens
+** [**FECHAS**]: 400.000 UFC/mL de Serratia marcescens (S a Q, TMP-SMX, carbapenems, CAZ, AG y P/T) . 10.000 UFC/ml de Pseudomonas aeruginosa ** [**FECHAS**] 400.000 UFC/mL de Pseudomonas aeruginosa. Resistència a imipenem per pèrdua de porina OprD. Recomanem no utilizar carbapenems (IMI R) ** [**FECHAS**]: 10.000 UFC/ml de Klebsiella pneumoniae complex (TMP-SMX R, RESTO S). 100.000 UFC/mL de Pseudomonas aeruginosa
+**[**FECHAS**]: 400.000 UFC/mL de Pseudomonas aeruginosa
+5. BACTERIEMIA POR PSEUDOMONAS AERUGINOSA (R A CARBAPENEMS) .- HC ([**FECHAS**]): Pseudomonas aeruginosa multiS. [**FECHAS**] Y [**FECHAS**] HCX2: NEG .- HCX2 ([**FECHAS**]): Pseudomonas aeruginosa S a CAZ, P/T, ciprofloxacino y AG. Mero I, IMI R
+.- CATÉTER ARTERIAL [**FECHAS**]: NEG
+.- HC DE CATÉTER SUBCLAVIO ([**FECHAS**]): Cultiu semiquantitatiu = o > a 15 UFC per segment de catèter (recompte de colònies significatiu) de Pseudomonas aeruginosa
+**ANTIBIOTERAPIA: Ceftri + Clinda ([**FECHAS**]-[**FECHAS**]). Meropenem + Levo ([**FECHAS**]) # [**FECHAS**]: Tazocel + Cipro (pos Pae multiS en BAL) # que se mantiene por Pae en HC x2 # [**FECHAS**]: + Linezolid (hasta el [**FECHAS**] que se sustituye por Teicoplanina) + Isavuconazol profiláctico # [**FECHAS**] : Se sustituye P/T por Meropenem (por aislamiento de Pae, Serratia y Klebsiella en BAL) # [**FECHAS**] se sustituye de nuevo carbapenem por P/T por antibiograma de Pae R a carbapenems #P/T + Teico hasta el [**FECHAS**]. Por febrícula y aislamiento de Pae en HCx2 del [**FECHAS**] R a carbapenems: Amikacina + Ciprofloxacino el [**FECHAS**] # [**FECHAS**]: CAZ + Ciprofloxacino
+RUEGO TC DE CONTROL PARA VALORAR EXTENSIÓN DE N. ORGANIZATIVA Y DESCARTAR COMPLICACIONES (CAVITACIONES ABSCESOS) PREVIO [**FECHAS**]
+Intubación prolongada COVID
+
+protocolo:
+TC de tórax tras administración de contraste e.v. (adquisición de imágenes en fase arterial tardía).
+
+resultados:
+Se compara con estudios previos, última TC del [**FECHAS**] y última RX del [**FECHAS**]
+Trayecto fistuloso de pared traqueal anterior a superficie cutánea de 8 mm de grosor máximo.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Presenta varios defectos de repleción endovasculares en las ramas de la arteria pulmonar del lóbulo superior derecho compatibles con TEP agudo.
+Afectación parenquimatosa en forma de opacidades consolidativas en segmentos posterobasales de ambos LLII asociada a dilatacioens bronquiales bibasales, bandas parenquimatosas y distorsión parenquimatosa predominantemente bibasal más evidentes que estudio previo.
+Las opacidades en vidrio deslustrado descritas en estudio previo han disminuido en su extensión. Persisten predominantemente en segmentos superiores de LLSS.
+Mínimo derrame pleural bilateral. No se observa derrame pericárdico.
+Múltiples imágenes hipodensas en ambos lóbulos hepáticos compatibles con quistes simples, sin cambios. Resto de estructuras ed hemiabdomen superior sin hallazgos patológicos.
+
+conclusiones:
+Hallazgos en relación a neumonía organizativa por COVID-19 en evolución, con cambios de "fibrosis-like".
+TEP agudo en LSD.
+
+descrip:
+TC TORAX

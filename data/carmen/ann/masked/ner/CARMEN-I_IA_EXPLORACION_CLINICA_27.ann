@@ -1,0 +1,40 @@
+T8	SINTOMA 419 430	Taquipneica
+T9	SINTOMA 436 454	habla entrecortada
+T10	SINTOMA 569 596	crepitantes secos bibasales
+T11	SINTOMA 602 614	Taquicárdica
+T12	SINTOMA 775 818	dolor a la palpación superficial o profunda
+T13	SINTOMA 881 907	orientada en las 3 esferas
+T14	SINTOMA 924 940	signos meníngeos
+T15	SINTOMA 1085 1095	sibilantes
+T16	SINTOMA 1098 1104	roncus
+T17	SINTOMA 1142 1167	abdomen blando depresible
+T18	SINTOMA 1184 1207	extremidades sin edemas
+T19	SINTOMA 377 389	Palidez leve
+T20	SINTOMA 394 400	edemas
+T21	SINTOMA 456 512	Murmullo vesicular conservado en ambos campos pulmonares
+T22	SINTOMA 527 566	sibilates inspiratorios escasos difusos
+T23	SINTOMA 616 661	Ruidos cardiacos rítmicos de buena intensidad
+T24	SINTOMA 666 672	soplos
+T25	SINTOMA 674 702	Pulsos periféricos presentes
+T26	SINTOMA 704 710	IY (-)
+T27	SINTOMA 711 724	AB: Globuloso
+T28	SINTOMA 726 750	Peristaltismo conservado
+T29	SINTOMA 823 828	masas
+T30	SINTOMA 833 847	visceromegalia
+T31	SINTOMA 852 864	peritonismos
+T32	SINTOMA 870 879	Despierta
+T33	SINTOMA 909 919	Glasgow 15
+T34	SINTOMA 992 1014	Regular estado general
+T35	SINTOMA 1041 1079	hipofonesis en ambos campos pulmonares
+T36	SINTOMA 1106 1130	tonos cardíacos rítmicos
+T37	SINTOMA 1134 1140	soplos
+T38	PROCEDIMIENTO 598 600	CV
+T39	PROCEDIMIENTO 1019 1032	examen físico
+T40	PROCEDIMIENTO 83 97	Pulsioximetría
+T41	ENFERMEDAD 407 417	Escoliosis
+T42	SINTOMA 1169 1182	RHA presentes
+T43	ENFERMEDAD 1209 1242	ulcera crónica en maleolo externo
+T44	PROCEDIMIENTO 1227 1272	maleolo externo derecho al momento conaposito
+T45	PROCEDIMIENTO 343 356	EXAMEN FÍSICO
+T46	PROCEDIMIENTO 970 983	EXAMEN FÍSICO
+T47	PROCEDIMIENTO 401 405	RESP

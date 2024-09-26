@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Opacidades alveolare difusas bilaterales con ligero predominio izquierdo.
+
+descrip:
+RX  PORTATIL  TORAX

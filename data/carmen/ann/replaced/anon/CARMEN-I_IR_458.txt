@@ -1,0 +1,26 @@
+
+prueba:
+RM CONTRAST
+
+clinica:
+Intubación prolongada
+
+protocolo:
+Sagital T1
+Axial T2
+Axial FLAIR
+Axial Difusión
+Axial T1
+Sagital T1+gadolinio
+Axial T1+gadolinio
+
+resultados:
+Atrofia cerebral global grado 1
+No se objetivan lesiones hemorrágicas.
+No se identifican lesiones isquémicas agudas.
+Lesiones en sustancia blanca y focos de hemosiderina en hemisferio cerebeloso derecho y en hemisferios cerebrales todo ello en probable relación a microangiopatía.
+En el estudio realizado con contraste no se identifican realces patológicos.
+
+conclusiones:
+Atrofia cerebral
+Leucopatía isquémica

@@ -1,0 +1,127 @@
+T11	ENFERMEDAD 1626 1640	neumoperitoneo
+T12	ENFERMEDAD 1692 1722	patología aguda intraabdominal
+T13	ENFERMEDAD 1824 1840	neumonía COVID19
+T14	ENFERMEDAD 2228 2253	patología abdominal aguda
+T15	ENFERMEDAD 2357 2375	pólipos parietales
+T16	ENFERMEDAD 3413 3436	neumonia por SARS-CoV-2
+T17	ENFERMEDAD 3613 3629	neumonía en base
+T18	ENFERMEDAD 4434 4437	TEP
+T19	ENFERMEDAD 4473 4498	infección por SARS- CoV-2
+T20	FARMACO 211 222	Ceftriaxona
+T21	FARMACO 238 250	Metronidazol
+T22	FARMACO 266 278	Dexametasona
+T23	FARMACO 894 903	metasedin
+T24	FARMACO 3476 3478	O2
+T25	FARMACO 3649 3661	dexametasona
+T26	FARMACO 3889 3896	oxígeno
+T27	FARMACO 4089 4108	parches de nicotina
+T28	FARMACO 4111 4121	quetiapina
+T29	HUMANO 279 307	[**SEXO_SUJETO_ASISTENCIA**]
+T30	HUMANO 426 434	paciente
+T31	HUMANO 4163 4171	paciente
+T32	HUMANO 4745 4753	paciente
+T33	HUMANO 4828 4836	paciente
+T34	PROCEDIMIENTO 653 703	palpación profunda de flanco e hipocondrio derecho
+T35	PROCEDIMIENTO 883 892	analgesia
+T36	PROCEDIMIENTO 1171 1190	analítica sanguínea
+T37	PROCEDIMIENTO 1286 1314	perfil hepático, pancreático
+T38	PROCEDIMIENTO 1317 1326	ionograma
+T39	PROCEDIMIENTO 1432 1441	hemograma
+T40	PROCEDIMIENTO 1443 1454	Rx de tórax
+T41	PROCEDIMIENTO 1536 1549	Rx de abdomen
+T42	PROCEDIMIENTO 1653 1665	TC abdominal
+T43	PROCEDIMIENTO 1994 2007	examen físico
+T44	PROCEDIMIENTO 2050 2064	oxigenoterapia
+T45	PROCEDIMIENTO 2271 2290	ecografía abdominal
+T46	PROCEDIMIENTO 2468 2515	serologia de virus hepatotropos (VIH, VHC y VHB
+T47	PROCEDIMIENTO 2602 2619	estudio de esputo
+T48	PROCEDIMIENTO 2624 2628	BAAR
+T49	PROCEDIMIENTO 2639 2646	cultivo
+T50	PROCEDIMIENTO 2908 2936	oxigenoterapia con lentillas
+T51	PROCEDIMIENTO 3009 3030	Auscultación pulmonar
+T52	PROCEDIMIENTO 3186 3205	analítica sanguinea
+T53	PROCEDIMIENTO 3676 3683	angioTC
+T54	PROCEDIMIENTO 3697 3711	oxigenoterapia
+T55	PROCEDIMIENTO 4405 4419	oxigenoterapia
+T56	PROCEDIMIENTO 4451 4458	angioTC
+T57	PROCEDIMIENTO 4549 4560	aislamiento
+T58	SINTOMA 378 399	dolor abdominal agudo
+T59	SINTOMA 435 460	hemodinámicamente estable
+T60	SINTOMA 462 472	normotensa
+T61	SINTOMA 477 489	taquicárdica
+T62	SINTOMA 491 499	eupneica
+T63	SINTOMA 511 518	afebril
+T64	SINTOMA 549 576	mano en posición antiálgica
+T65	SINTOMA 603 703	abdomen blando y depresible, realiza defensa a la palpación profunda de flanco e hipocondrio derecho
+T66	SINTOMA 705 742	signo de Bloomberg y Rovsing negativo
+T67	SINTOMA 771 776	masas
+T68	SINTOMA 950 955	dolor
+T69	SINTOMA 1032 1070	dolor de inicio de hipocondrio derecho
+T70	SINTOMA 1228 1240	leucocitosis
+T71	ENFERMEDAD 1589 1607	dilatación de asas
+T72	SINTOMA 1739 1801	opacidades en vidrio deslustrado subpleurales en base pulmonar
+T73	SINTOMA 1881 1896	dolor abdominal
+T74	SINTOMA 1974 1989	dolor abdominal
+T75	SINTOMA 2021 2029	eupneica
+T76	SINTOMA 2091 2151	dolor a la palpación de hipocondrio derecho y flanco derecho
+T77	SINTOMA 2292 2324	Vesícula biliar de paredes finas
+T78	SINTOMA 2385 2407	Vía biliar no dilatada
+T79	SINTOMA 2416 2445	líquido libre intra-abdominal
+T80	SINTOMA 2468 2535	serologia de virus hepatotropos (VIH, VHC y VHB) resultado negativa
+T81	SINTOMA 2537 2588	antigenuria para S. pneumoniae y legionella negatva
+T82	SINTOMA 2602 2628	estudio de esputo sin BAAR
+T83	SINTOMA 2719 2734	dolor abdominal
+T84	SINTOMA 2753 2758	dolor
+T85	SINTOMA 2827 2835	eupneica
+T86	SINTOMA 2861 2879	desaturación de O2
+T87	SINTOMA 2993 3000	afebril
+T88	SINTOMA 3035 3055	ruidos sobreañadidos
+T89	SINTOMA 3099 3142	dolor a la palpación en hipocondrio derecho
+T90	SINTOMA 3157 3178	irritación peritoneal
+T91	SINTOMA 3370 3380	linfopenia
+T92	SINTOMA 3480 3495	dolor abdominal
+T93	SINTOMA 3595 3600	dolor
+T94	SINTOMA 3716 3755	disminución de reactantes de fase aguda
+T95	SINTOMA 3758 3777	aumento de d-dimero
+T96	SINTOMA 3854 3874	discurso incoherente
+T97	SPECIES 20 30	SARS-CoV-2
+T98	SPECIES 2481 2499	virus hepatotropos
+T99	SPECIES 2501 2504	VIH
+T100	SPECIES 2506 2509	VHC
+T101	SPECIES 2512 2515	VHB
+T102	SPECIES 2554 2567	S. pneumoniae
+T103	SPECIES 2570 2580	legionella
+T104	SPECIES 2624 2628	BAAR
+T105	SPECIES 3426 3436	SARS-CoV-2
+T106	SPECIES 4487 4498	SARS- CoV-2
+T107	ENFERMEDAD 3 30	NEUMONÍA LID POR SARS-CoV-2
+T108	SINTOMA 34 49	DOLOR ABDOMINAL
+T109	ENFERMEDAD 64 86	ABSTINENCIA A NICOTINA
+T110	PROCEDIMIENTO 121 124	TAR
+T111	PROCEDIMIENTO 142 145	PCR
+T112	SINTOMA 121 125	TAR+
+T113	SINTOMA 142 146	PCR+
+T114	PROCEDIMIENTO 705 733	signo de Bloomberg y Rovsing
+T116	SINTOMA 744 756	psoas dudoso
+T117	SINTOMA 780 788	megalias
+T118	PROCEDIMIENTO 790 794	PPRB
+T119	SINTOMA 790 803	PPRB negativa
+T120	ENFERMEDAD 821 838	lesiones cutáneas
+T121	SINTOMA 843 851	meralgia
+T122	FARMACO 917 926	buscapina
+T123	SINTOMA 1097 1100	tos
+T124	PROCEDIMIENTO 1271 1284	función renal
+T125	SINTOMA 1271 1343	función renal, perfil hepático, pancreático e ionograma sin alteraciones
+T126	SINTOMA 1470 1488	infiltrado en base
+T127	SINTOMA 1554 1575	heces en marco cólico
+T128	SINTOMA 2292 2338	Vesícula biliar de paredes finas, no litiásica
+T129	PROCEDIMIENTO 2938 2940	LN
+T130	SINTOMA 3057 3085	Adecuado patrón ventilatorio
+T131	SINTOMA 3836 3843	ansiosa
+T132	HUMANO 3984 3987	PSI
+T133	ENFERMEDAD 4019 4042	abstinencia de nicotina
+T134	PROCEDIMIENTO 583 594	exploración
+T135	SINTOMA 3315 3354	perfil hepatico dentro de la normalidad
+T1	SINTOMA 3459 3478	requerimiento de O2
+T2	SINTOMA 3688 3711	requerir oxigenoterapia
+T3	SINTOMA 4387 4419	requerimientos de oxigenoterapia

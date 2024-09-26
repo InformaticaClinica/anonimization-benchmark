@@ -1,0 +1,26 @@
+
+[**FECHAS**].
+* MIELOGRAMA ([**FECHAS**]): Aspirat medul·lar marcadament hipercel·lular amb disminució del greix. Presència de precursors de les tres sèries hematopoètiques, que mostren importants signes de megaloblastosi.
+Els megacariòcits són escassos, generalment amb el nucli lleugerament hipersegmentat. La sèrie granulocítica està conservada, presenta desgranulació i freqüents bandes i metamielòcits gegants. La sèrie vermella està molt augmentada, amb predomini de les formes semimadures (eritroblasts basòfils i policromatòfils), les quals mostren intensos canvis megaloblàstics (tamany augmentat, assincronisme maduratiu, romatines megaloblàstiques que arriben a ser perlades).
+I.D.: Pancitopènia per dèficit de factors maduratius.
+[**FECHAS**].
+* RADIOGRAFIA DE TÓRAX
+- [**FECHAS**]: Opacidades alveolo-intersticiales de distribución bilateral y difusa, de predominio en campos pulmonares medios e inferiores, sin cambios significativos respecto a RX de tórax previa de [**FECHAS**]. PROBABLE COVID-19.
+- [**FECHAS**]: Cateter ev amb extrem a AD. Afectació alveolar i intersticial bilateral difñus en camp esquerre i de predomini en camps superiors en el pulmó dret. Petit embassament pleural bilateral. - [**FECHAS**]: Mejoría radiológica de la afectación alveolo-intersticial bilateral difuso de predominio en campo superior derecho y en todos los campos izquierdos.
+* ANGIO-TC PULMONAR ([**FECHAS**]): No se observan defectos de repleción sugestivos de tromboembolismo pulmonar. No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Derrame pleural bilateral de grado moderado a severo. Atelectasia pasiva del parénquima subyacente. No se observa derrame pericárdico.
+Patrón en vidrio deslustrado y alveolar bilateral y difuso de predominio en campos superiores. Aunque la distribución no sea típica, en el contexto epidemiológico actual y clínico del paciente es sugestivo de afectación pulmonar por COVID. Las secciones abdominales incluidas en el estudio muestra colelitiasis. Conclusiones: Patrón pulmonar de las características descritas en el contexto clínico y epidemiológico actual es sugestivo de afectación pulmonar por COVID.
+*RADIOGRAFIA DE TORAX ([**FECHAS**]): Mejoría radiológica de la afectación alveolo-intersticial bilateral difuso de predominio en campo superior derecho y en todos los campos izquierdos.
+*RADIOGRAFIA DE TORAX ([**FECHAS**]): Con respecto a control previo de [**FECHAS**] se observa disminución del derrame pleural bilateral.
+[**FECHAS**].
+* MICROBIOLOGÍA
+* ANTIGENURIA NEUMOCOCO Y LEGIONELLA ([**FECHAS**]): En curso
+* FROTIS COVID 19 ([**FECHAS**]): En curso
+* UROCULTIVO ([**FECHAS**]): En curso
+* HEMOCULTIVO X2 ([**FECHAS**]): En curso
+* Detecció galactomanano, Aspergillus ([**FECHAS**]): En curs
+* Estudi de micobacteris, Quantiferon qualitatiu: En curs; Quantiferó quantitatiu: En curs
+* Detecció d'Antígen Cryptococcus neoformans: Negatiu
+*MICROBIOLOGIA ([**FECHAS**]): COVID-19 indetectable, virus gripe A en curso, virus gripe B en curso, Virus parainfluenzae-1 en curso, virus parainfleunzae -2 en curso, virus parainfluenzae-3 en curso, virus respiratorio sincitial en curso, citomegalovirus en curso, adenovirus en curso, influenzavirus b indetectable, influenzavirus c indetectable, influenzavirus a indetectable, virus respiratorio sincitial indetectable, enterovirus indetectable, adenovirus indetectable, metapneumovirus humano indetectable, coronavirus indetectable, bocavirus humano indetectable, rinovirus indetectable, virus parainfluenza (1,2,3,4) indetectable, legionella pneumophila indetectable, mycoplasma pneumoniae indetectable, clamydia pneumoniae indetectable. No se detectan ADN de M. tuberculosis, ni se observan bacilos acido-alcohol resistente.Citomegalovirus no se han detectado copias.
+*MICROBIOLOGIA ([**FECHAS**]): Deteccion Toxoplasma muestra no recibida, parvovirus b19 en curso, CMV <34,5 UI/mL.Se ha detectado un número de copias en un rango inferior al límite de cuantificación de la técnica, rango en que el número de copias no se puede determinar con exactitud.
+Prueba realizada con un volumen de muestra de 350 uL.Virus de epstein- Barr en curso, virus herpes simple 1 en curso, virus herpes simple 2 en curso, virus herpes simple humano 6 en curso, virus varicela zoster en curso, virus BK en curso, virus herpes simple humano 8 en curso
+ 

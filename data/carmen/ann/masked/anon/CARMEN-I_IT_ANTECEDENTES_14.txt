@@ -1,0 +1,13 @@
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. Autónomo para las ABVD. Ex-fumador. [**FAMILIARES_SUJETO_ASISTENCIA**] con aneurisma de aorta abdominal.
+Historia familiar de neoplasia de pulmón.
+ANTECEDENTES PATOLÓGICOS
+1- HIPERTENSIÓN ARTERIAL
+2- DISLIPEMIA
+3- MUTACIÓN G-20210-A DE PROTROMBINA en heterocigosis. Primer episodio de TVP de pierna izquierda en [**FECHAS**].
+4- ANEURISMA DE AORTA ABDOMINAL, hallado tras estudio por TAC por TVP.
+Reparación abierta con prótesis recta Gore-tex 14 mm en [**FECHAS**].
+Anticoagulado con dabigatran 150 mg/12h.
+** [**FECHAS**]: reparación de eventración mediante sutura y refuerzo con malla de Gore-Tex Micromesh 1.0 mm, sin incidencias intraoperatorias de interés.
+5- HBP que requirió cirugía en forma de RTUp el [**FECHAS**]. Desde entonces en tratamiento con tamsulosina. Intolerancia a los 5-ARIs. En seguimiento por Urología [**HOSPITAL**].
+++ PSA ([**FECHAS**]) 9,36 y 36%. Previos de 8-9 desde hace años.
+6- HEMATURIA FINAL de repetición, va ser estudiat durant el [**FECHAS**] amb RMN que va descartar etiologia neoplàsica. Medicación habitual: - Atorvastat ina 40 mg C/24h - Dabigatran 150 mg c/12h.

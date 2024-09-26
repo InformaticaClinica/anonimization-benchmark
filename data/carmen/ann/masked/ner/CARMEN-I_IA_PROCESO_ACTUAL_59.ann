@@ -1,0 +1,9 @@
+T3	SINTOMA 104 113	epistaxis
+T4	SINTOMA 253 274	sobrecarga de volumen
+T5	SINTOMA 297 307	colestasis
+T6	SINTOMA 310 329	hiperbilirrubinemia
+T7	SINTOMA 142 179	signos clínicos de sobrecarga hídrica
+T8	SINTOMA 276 295	congestión hepática
+T9	ENFERMEDAD 197 238	descompensación de insuficiencia cardíaca
+T10	HUMANO 1 9	Paciente
+T1	SINTOMA 333 366	empeoramiento de la función renal

@@ -1,0 +1,18 @@
+ 1. INFECCIÓN POR SARS-COV2
+*Inicio de sintomas. [**FECHAS**]
+*Diagnosticos: TAR [**FECHAS**] positivo, PCR [**FECHAS**] positiva (Ct 17) *Vacuna: NO
+*Tratamiento: Remdesivir [**FECHAS**]; Baricitinib desde [**FECHAS**]
+2. ITU BAJA NO COMPLICADA POR E COLI --> Fosfomicina [**FECHAS**]
+3. MIGRAÑAS
+--
+1. Paciente con los antecedentes clinicos mencionados, ingresa por infeccion secundaria SARS-CoV2. Desde el ingreso se mantiente estable, sin necesidad de oxigeno. Afebril. Sin odinofagia.
+Dolor toracico de caracter punzante que comenta al ingreso, localizado en zona para-esternal; ha mejorado progresivamente hasta EVA 4/10 al momento del alta.
+Ha deambulado por la habitacion sin sensacion de disnea.
+Analiticamente sin elevacion de parametros inflamatorios, sin elevacion de troponinas (solicitadas por el dolor toracico), sin linfopenia.
+Radiografia sin condensaciones evidentes.
+Continua con Baricitinib al momento del alta a completar 10 dias.
+2. Comenta disuria de 3 dias de evolucion, sin tenesmo ni urgencia miccional asociada. Sedimento urinario patologico y cultivo postivo por lo que recibe antibiotico empiricamente. Al momento del alta, con disminucion de la disuria, sin otro sintoma. Afebril en todo momento.
+3. Refiere cefalea, ya conocida, que se ha intensificado previo al alta; segun refiere secundario a que no ha podido descansar correctamente.
+Localizada en zona frontal, sin vomitos. Sin signos de meningismo ni foco neurologico.  Calma parcialmente con AINES.
+---
+Coagulacion con RIN 2.8, al momento del alta nueva pauta por parte de hemostasia para mantener RIN >3.5 segun recomendaciones de hemostasia.

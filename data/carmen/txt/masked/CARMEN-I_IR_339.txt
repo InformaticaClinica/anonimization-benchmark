@@ -1,0 +1,22 @@
+
+prueba:
+ECOGRAFIA RENOVESICOPROSTATICA
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], diabético, ingresado por neumonía bilateral por SARS-CoV 2 que presenta desde hace 2 semanas dolor lumbar izdo irradiado a región genital diagnosticándose de cólico nefrítico de forma ambulatoria, pero sin prueba de imagen, que al ingreso presenta una clara mejoría.
+Tiene un sedimento de orina patológico (nitritos positivos).
+Interesa descartar la presencia de litiasis.
+Muchas gracias
+Infecció per coronavirus no especificada
+
+resultados:
+Riñones de tamaño y ecoestructura normal.  No se observan litiasis renales evidentes. No se observa dilatación de la vía excretora.
+Presencia de quiste simple en el derecho.
+Vejiga urinaria de morfología normal y paredes lisas sin proliferaciones parietales evidentes.
+Próstata de morfología y tamaño normal, mal visualizada por vía suprapúbica.
+
+conclusiones:
+Sin litiasis renales concluyentes ni dilatación de la vía excretora.
+
+descrip:
+ECOGRAFIA RENOVESICOPROSTATICA

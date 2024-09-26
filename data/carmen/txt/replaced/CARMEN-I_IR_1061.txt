@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+FIBRILACIÓN AURICULAR CON RVR
+
+descrip:
+RX  PORTATIL  TORAX

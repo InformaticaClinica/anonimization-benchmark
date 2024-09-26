@@ -1,0 +1,15 @@
+T5	SINTOMA 101 108	náuseas
+T6	SINTOMA 110 117	vómitos
+T7	SINTOMA 119 134	dolor abdominal
+T8	SINTOMA 136 139	tos
+T9	SINTOMA 142 158	malestar general
+T10	SINTOMA 224 227	tos
+T11	SINTOMA 270 290	vomitos incoercibles
+T12	SINTOMA 304 322	leve epigastralgia
+T13	SINTOMA 440 446	fiebre
+T14	SINTOMA 448 454	disena
+T15	SINTOMA 456 473	clinica miccional
+T16	SINTOMA 478 505	alteraciones deposicionales
+T17	FARMACO 194 202	insulina
+T18	HUMANO 33 43	familiares
+T19	ENFERMEDAD 377 380	CAD

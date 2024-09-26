@@ -1,0 +1,101 @@
+T14	PROCEDIMIENTO 554 562	Rx tórax
+T15	PROCEDIMIENTO 607 610	ECG
+T16	PROCEDIMIENTO 701 729	frotis nasofaringeo COVID-19
+T17	PROCEDIMIENTO 1162 1176	oxigenoterapia
+T18	PROCEDIMIENTO 1187 1209	intubación orotraqueal
+T19	PROCEDIMIENTO 1212 1241	ventilación mecánica invasiva
+T20	PROCEDIMIENTO 1609 1621	hemocultivos
+T21	PROCEDIMIENTO 1914 1927	traqueostomía
+T22	PROCEDIMIENTO 2028 2040	TC torácicos
+T23	PROCEDIMIENTO 2234 2236	TC
+T24	PROCEDIMIENTO 2357 2360	ECG
+T25	PROCEDIMIENTO 2496 2525	ecocardiografía transtorácica
+T26	PROCEDIMIENTO 2687 2710	cardioversión eléctrica
+T27	PROCEDIMIENTO 3044 3056	angioplastia
+T28	PROCEDIMIENTO 3173 3278	triple derivación coronaria a descendente anterior proximal, a primera marginal y a descendente posterior
+T29	PROCEDIMIENTO 3345 3372	catéter de arteria pulmonar
+T30	PROCEDIMIENTO 3532 3552	soporte hemodinámico
+T31	PROCEDIMIENTO 343 350	VMK 31%
+T32	PROCEDIMIENTO 444 453	analítica
+T33	PROCEDIMIENTO 888 909	bolus de dexametasona
+T34	PROCEDIMIENTO 1872 1879	weaning
+T35	PROCEDIMIENTO 1963 1974	se decanula
+T36	PROCEDIMIENTO 2875 2886	cateterismo
+T37	PROCEDIMIENTO 3121 3144	intervención quirúrgica
+T38	PROCEDIMIENTO 3458 3461	CEC
+T39	PROCEDIMIENTO 3481 3486	clamp
+T40	PROCEDIMIENTO 3495 3509	Salió de bomba
+T41	PROCEDIMIENTO 3618 3658	Se implantan cables de MCP ventriculares
+T42	PROCEDIMIENTO 3660 3681	Transfusión de 2 CCHH
+T43	PROCEDIMIENTO 478 502	reactantes de fase aguda
+T44	PROCEDIMIENTO 3375 3410	CVC en vena yugular interna derecha
+T45	PROCEDIMIENTO 3413 3446	catéter arterial radial izquierdo
+T46	SINTOMA 168 174	fiebre
+T47	SINTOMA 192 195	tos
+T48	SINTOMA 197 223	disnea a mínimos esfuerzos
+T49	SINTOMA 226 251	dolor en punta de costado
+T50	SINTOMA 300 325	estable hemodinámicamente
+T51	SINTOMA 327 338	taquipneico
+T52	SINTOMA 404 410	roncus
+T53	SINTOMA 413 436	crepitantes bilaterales
+T54	SINTOMA 531 552	procalcitonina normal
+T55	SINTOMA 2362 2406	descenso ST en cara anterolateral e inferior
+T56	SINTOMA 2449 2472	elevación de troponinas
+T57	SINTOMA 2537 2584	disminución de la contractilidad a nivel apical
+T58	SINTOMA 2780 2826	elevación de troponinas con cambios eléctricos
+T59	SINTOMA 2829 2843	dolor torácico
+T60	SINTOMA 3683 3719	Pleura izquierda mínimamente abierta
+T61	ENFERMEDAD 62 71	exfumador
+T62	ENFERMEDAD 93 96	HTA
+T63	ENFERMEDAD 98 101	DLP
+T64	ENFERMEDAD 117 133	bronquitis aguda
+T65	ENFERMEDAD 353 388	insuficiencia respiratoria moderada
+T66	ENFERMEDAD 1343 1369	complicaciones infecciosas
+T67	ENFERMEDAD 1380 1415	traqueobronquitis por S. Malophilia
+T68	SINTOMA 1647 1690	Colonización por Pseudomonas y E. coli BLEE
+T69	ENFERMEDAD 1727 1770	estado protrombótico secundario al COVID-19
+T70	ENFERMEDAD 1781 1810	trombosis de la vena cefálica
+T71	ENFERMEDAD 2076 2097	neumonía organizativa
+T72	ENFERMEDAD 2641 2669	fibrilación auricular rápida
+T73	ENFERMEDAD 2902 2938	enfermedad de tronco común y 3 vasos
+T74	ENFERMEDAD 3608 3610	IC
+T75	FARMACO 788 805	hidroxicloroquina
+T76	FARMACO 807 826	lopinavir/ritonavir
+T77	FARMACO 828 840	azitromicina
+T78	FARMACO 842 853	ceftriaxona
+T79	FARMACO 856 865	linezolid
+T80	FARMACO 945 962	metilprednisolona
+T81	FARMACO 1005 1016	ivermectina
+T82	FARMACO 1325 1336	tocilizumab
+T83	FARMACO 1441 1450	meropenem
+T84	FARMACO 1468 1480	cotrimoxazol
+T85	FARMACO 1520 1531	ceftazidima
+T86	FARMACO 1541 1550	meropenem
+T87	FARMACO 1577 1591	anidulafungina
+T88	FARMACO 1845 1856	enoxaparina
+T89	FARMACO 2734 2744	amiodarona
+T90	FARMACO 3557 3567	dobutamina
+T91	PROCEDIMIENTO 615 617	QT
+T92	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T93	SPECIES 1484 1505	Pseudomona aeruginosa
+T94	SPECIES 1554 1564	candidemia
+T95	HUMANO 2110 2118	paciente
+T96	HUMANO 2164 2166	Dr
+T97	HUMANO 2990 2993	Dr.
+T98	SINTOMA 465 502	elevación de reactantes de fase aguda
+T99	SINTOMA 567 605	infiltrados intersticiales bilaterales
+T100	SINTOMA 615 626	QT en rango
+T101	ENFERMEDAD 721 729	COVID-19
+T102	SINTOMA 701 750	frotis nasofaringeo COVID-19 que resultó positivo
+T103	FARMACO 897 909	dexametasona
+T104	SINTOMA 1255 1294	aumento de los parámetros inflamatorios
+T105	SPECIES 1402 1415	S. Malophilia
+T106	SINTOMA 1609 1644	hemocultivos [**FECHAS**] negativos
+T107	SPECIES 1664 1675	Pseudomonas
+T108	SPECIES 1678 1690	E. coli BLEE
+T109	SINTOMA 2119 2147	estable a nivel respiratorio
+T110	SINTOMA 2377 2422	cara anterolateral e inferior con T negativas
+T111	SINTOMA 3513 3526	ritmo sinusal
+T112	SINTOMA 1106 1126	trabajo respiratorio
+T113	SINTOMA 1872 1885	weaning lento
+T1	SINTOMA 1129 1176	aumento de los requerimientos de oxigenoterapia

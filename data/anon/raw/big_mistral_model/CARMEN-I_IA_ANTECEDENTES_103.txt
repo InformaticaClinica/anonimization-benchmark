@@ -1,0 +1,9 @@
+ Antecedentes familiares: Sin interés
+Antecedentes personales:
+Varón de [**EDAD_SUJETO_ASISTENCIA**], jubilado, trabajaba en una farmacia, no alergias medicamentosas conocidas ni hábitos tóxicos, independiente para actividades básicas de la vida diaria.
+ANTECEDENTES PATOLÓGICO:
+1. CIRROSIS HEPÁTICA POR VHC.
+Complicaciones:
+- Ascitis controlada
+- Hemorragia digestiva alta variceal ([**AÑO**]) tx con banding
+- Trombosis venosa porto-espleno-mesenterica ([**NUMERO**])

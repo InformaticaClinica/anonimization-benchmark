@@ -1,0 +1,78 @@
+T13	ENFERMEDAD 66 83	alergia a codeina
+T14	ENFERMEDAD 85 95	angioedema
+T15	ENFERMEDAD 99 149	intolerancia digestiva a múltiples fármacos (AINEs
+T16	ENFERMEDAD 579 582	HTA
+T17	ENFERMEDAD 616 645	Menigoencefalitis por Brucela
+T18	ENFERMEDAD 666 677	Gonartrosis
+T19	ENFERMEDAD 679 694	cervicoartrosis
+T20	ENFERMEDAD 699 726	Insuficiencia renal crónica
+T21	ENFERMEDAD 747 776	Carcinoma basocelular en cara
+T22	ENFERMEDAD 875 888	Hiperuricemia
+T23	ENFERMEDAD 921 960	HIPOTIROIDISMO post-tiroidectomía total
+T24	ENFERMEDAD 1039 1068	HIPOPARATIROIDISMO post-HPTHP
+T25	ENFERMEDAD 1073 1084	hipocalemia
+T26	ENFERMEDAD 1253 1265	FIBROMIALGIA
+T27	ENFERMEDAD 1382 1425	isquémia aguda en cuerpo de caudado derecho
+T28	ENFERMEDAD 1427 1466	Leve atrofia cortico-subcortical difusa
+T29	ENFERMEDAD 1547 1602	leucoencefalopatía de origen hipóxico-isquémico crónico
+T30	ENFERMEDAD 99 161	intolerancia digestiva a múltiples fármacos (AINEs, colchicina
+T31	ENFERMEDAD 99 174	intolerancia digestiva a múltiples fármacos (AINEs, colchicina, amoxicilina
+T32	ENFERMEDAD 312 332	HEMORRAGIA DIGESTIVA
+T33	ENFERMEDAD 379 390	HEMORROIDES
+T34	ENFERMEDAD 747 784	Carcinoma basocelular en cara y muslo
+T35	ENFERMEDAD 982 993	BMN benigno
+T36	ENFERMEDAD 1087 1099	hipomagnesia
+T37	ENFERMEDAD 1300 1305	Ictus
+T38	ENFERMEDAD 1350 1354	LACI
+T39	ENFERMEDAD 1073 1141	hipocalemia y hipomagnesia de dificil control con clínica de tetania
+T40	ENFERMEDAD 1626 1641	microangiopatía
+T41	SINTOMA 514 525	inflamación
+T42	SINTOMA 529 539	hemorragia
+T43	ENFERMEDAD 453 498	orificios diverticulares localizados en sigma
+T44	ENFERMEDAD 1216 1224	litiasis
+T45	ENFERMEDAD 1468 1496	Lesiones en sustancia blanca
+T46	FARMACO 1026 1033	eutirox
+T47	FARMACO 1720 1730	Calcitriol
+T48	FARMACO 1750 1758	Atenolol
+T49	FARMACO 1759 1771	Clortalidona
+T50	FARMACO 1786 1796	Alopurinol
+T51	FARMACO 1810 1817	Eutirox
+T52	FARMACO 1859 1868	Omeprazol
+T53	FARMACO 1880 1891	Clopidogrel
+T54	FARMACO 1903 1919	Calcio carbonato
+T55	FARMACO 1942 1950	Magnesio
+T56	FARMACO 1959 1972	Atorvastatina
+T57	FARMACO 1985 1994	Fentanilo
+T58	FARMACO 2055 2066	Ca lcitriol
+T59	FARMACO 2085 2093	Atenolol
+T60	FARMACO 2094 2106	Clortalidona
+T61	FARMACO 2120 2130	Alopurinol
+T62	FARMACO 2142 2149	Eutirox
+T63	FARMACO 2151 2165	Fero- gradumet
+T64	FARMACO 2189 2198	Omeprazol
+T65	FARMACO 2210 2221	Clopidogrel
+T66	FARMACO 2232 2248	Calcio carbonato
+T67	FARMACO 2287 2300	Atorvastatina
+T68	FARMACO 2312 2321	Fentanilo
+T69	PROCEDIMIENTO 424 436	Colonoscopia
+T70	SINTOMA 545 565	signos de hemostasia
+T71	PROCEDIMIENTO 731 742	Vitrectomia
+T72	PROCEDIMIENTO 862 870	exéresis
+T73	PROCEDIMIENTO 1356 1359	RMN
+T74	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T75	HUMANO 209 243	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T76	FARMACO 76 83	codeina
+T77	PROCEDIMIENTO 144 149	AINEs
+T78	FARMACO 151 161	colchicina
+T79	FARMACO 163 174	amoxicilina
+T80	PROCEDIMIENTO 586 611	tratamiento farmacológico
+T81	SPECIES 638 645	Brucela
+T82	PROCEDIMIENTO 892 917	tratamiento farmacológico
+T83	PROCEDIMIENTO 1192 1211	reposicion de Ca ev
+T84	FARMACO 1206 1208	Ca
+T85	PROCEDIMIENTO 1226 1247	faquectomia bilateral
+T86	FARMACO 1285 1294	durogesic
+T87	FARMACO 1820 1834	Fero- gradumet
+T88	FARMACO 2270 2279	Magne sio
+T89	PROCEDIMIENTO 998 1033	tratamiento sustitutivo con eutirox
+T1	ENFERMEDAD 180 195	habitos tóxicos

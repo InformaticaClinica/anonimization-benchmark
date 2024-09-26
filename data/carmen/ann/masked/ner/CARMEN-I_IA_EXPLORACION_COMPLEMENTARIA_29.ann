@@ -1,0 +1,26 @@
+T3	PROCEDIMIENTO 3 7	CPRE
+T4	PROCEDIMIENTO 329 348	se consigue canular
+T5	PROCEDIMIENTO 363 373	Endoscopia
+T6	PROCEDIMIENTO 375 430	Exploración endoscópica limitada del esofago y estomago
+T7	PROCEDIMIENTO 621 625	CPRE
+T8	PROCEDIMIENTO 722 776	Se canula selectivamente la vía biliar con guía 0.035'
+T9	PROCEDIMIENTO 953 980	colangiograma de saturación
+T10	PROCEDIMIENTO 1247 1339	Se coloca una prótesis metálica autoexpandible no recubierta de 10mm x 80mm tipo BS WallFlex
+T11	PROCEDIMIENTO 1547 1578	Colocación de prótesis metálica
+T12	PROCEDIMIENTO 71 81	canulación
+T13	PROCEDIMIENTO 99 127	se canula primero el Wirsung
+T14	PROCEDIMIENTO 222 253	se pone una proteis de pancreas
+T15	PROCEDIMIENTO 501 549	se consigue canular en profundidad la via biliar
+T16	PROCEDIMIENTO 203 220	canular la papila
+T17	PROCEDIMIENTO 642 720	Papila esfinterotomizada (precorte previo) situada en segunda porción duodenal
+T18	PROCEDIMIENTO 778 814	Colangiografía: Se inyecta contraste
+T19	PROCEDIMIENTO 1075 1177	Se realiza dilatación progresiva de la estenosis de conducto hepático común con balón Hurricane de 4mm
+T20	PROCEDIMIENTO 1187 1197	dilatación
+T21	PROCEDIMIENTO 1535 1545	Dilatación
+T22	ENFERMEDAD 1236 1245	estenosis
+T23	ENFERMEDAD 1468 1533	Estenosis completa de aspecto maligno del conducto hepático común
+T24	SINTOMA 1404 1439	drenaje del contraste intrahepático
+T25	PROCEDIMIENTO 1585 1599	drenaje biliar
+T26	SINTOMA 375 456	Exploración endoscópica limitada del esofago y estomago sin apreciar alteraciones
+T27	SINTOMA 458 471	Papila normal
+T28	SINTOMA 805 877	contraste observando inicialmente amputación del conducto hepático común

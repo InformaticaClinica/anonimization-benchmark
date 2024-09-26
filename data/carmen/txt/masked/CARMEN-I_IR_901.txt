@@ -1,0 +1,30 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+covid 19
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: Si
+Distribución
+- Periférica
+Campos pulmonares:
+- Pulmón derecho:  medio
+- Pulmón izquierdo:  medio
+Otros hallazgos relevantes:
+Alteración de la silueta mediastínica izquierda con alteración del borde cardíaco. Este hallazgo ha aparecido en las últimas RX y recomiendo ampliación de estudio con TC torácico con contraste.
+EVOLUCION
+Extensión
+-Disminución
+Consolidación
+-Disminución
+Aparición de fibrosis No
+CONCLUSION:
+Afectación pulmonar por COVID que muestra estabilidad respecto a Rx previa
+Alteración de la silueta cardíaca izquierda a valorar con TC torácico con contraste e.v.
+
+descrip:
+RX  PORTATIL  TORAX

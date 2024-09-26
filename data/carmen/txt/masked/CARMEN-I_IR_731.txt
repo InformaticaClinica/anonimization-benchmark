@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], antecedentes de HTA, tno depresivo, ingreso hace 9 días por infección pulmonar por COVID-19.
+Ha completado el tratamiento antiviral
+Recibió tratamiento con tocilizumab, posteriormente se inició corticoterapia por sospechas de neumonía organizativa, estabilidad en la imagen radiológica y dificultades en descenso de FI02. (actualmente 35%) SOlicito TAC de tórax para valorar neumonía organizativa. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Calficifaciones coronarias.
+Ganglios prevasculares y paratraqueales infracentimétricos, inespecíficos.
+No se observan adenopatías axilares ni mediastíncias de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado subpleurales difusas que en lóbulos inferiores forman focos consolidativos. Asocian dilataciones bronquiales y bandas subpleurales. Los hallazgos actuales sugieren probable componente de neumonía organizativa por neumonía bilateral por COVID-19.
+Los cortes abdominales muestran quistes hepáticos simples, el mayor de 30 mm en segmento IVb.
+Quisres sinusales renales izquierdos.
+
+conclusiones:
+Neumonía bilateral por COVID19 con probable componente de neumonía organizativa.
+
+descrip:
+TC TORAX

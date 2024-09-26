@@ -1,0 +1,22 @@
+T3	SINTOMA 217 249	Desorientada en espacio y tiempo
+T4	SINTOMA 322 343	focalidad neurológica
+T5	SINTOMA 373 384	Taquipneica
+T6	SINTOMA 461 481	roncus generalizados
+T7	SINTOMA 483 511	disociación otraco abdominal
+T8	SINTOMA 514 520	tiraje
+T9	SINTOMA 589 609	hipoperfusión distal
+T10	SINTOMA 611 648	Abdomen: Globoso, blando, no doloroso
+T11	SINTOMA 664 684	irritación abdominal
+T12	SINTOMA 686 709	Extremidades eutróficas
+T13	SINTOMA 715 734	edemas bimaleolares
+T14	SINTOMA 251 277	entiende órdenes sencillas
+T15	SINTOMA 279 306	moviliza las 4 extremidades
+T16	SINTOMA 347 357	meningismo
+T17	SINTOMA 538 563	Ruidos cardiacos ritmicos
+T18	SINTOMA 568 574	soplos
+T19	SINTOMA 766 784	pulsos periféricos
+T20	PROCEDIMIENTO 176 194	EXPLORACIÓN FÍSICA
+T21	PROCEDIMIENTO 431 443	auscultación
+T22	PROCEDIMIENTO 71 86	Puls ioximetría
+T23	FARMACO 406 413	oxigeno
+T24	PROCEDIMIENTO 418 424	VK 60%

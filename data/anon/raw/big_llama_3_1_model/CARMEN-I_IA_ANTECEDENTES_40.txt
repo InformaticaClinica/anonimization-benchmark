@@ -1,0 +1,5 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**] años de edad. No alergias medicamentosas conocidas. No hábitos tóxicos.
+*ANTECEDENTES MÉDICOS:
+- INFECCIÓN POR VIH en [**FECHAS**] en tratamiento correcto, en seguimiento en [**HOSPITAL**]. Ultimo control [**FECHAS**] con CD4 altos y carga viral indetectable.
+- ASMA BRONQUIAL desde [**FECHAS**], en seguimiento en [**CENTRO_SALUD**] . Refiere que tiene pruebas de función pulmonar (no dispongo informes). En tratamiento broncodilatador en casa.
+*MEDICACIÓN HABITUAL ([**FECHAS**]): Triumeq por la noche, foster inh si precisa.

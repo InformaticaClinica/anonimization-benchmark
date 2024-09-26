@@ -1,0 +1,51 @@
+T6	ENFERMEDAD 1777 1801	artrosis interapofisaria
+T7	ENFERMEDAD 1803 1815	espondilosis
+T8	ENFERMEDAD 1818 1847	osteocondrosis intervertebral
+T9	ENFERMEDAD 1852 1905	protrusiones discales en el segmento de L2-L3 a L5-S1
+T10	ENFERMEDAD 1921 1960	estenosis de canal raquídeo y foraminal
+T11	ENFERMEDAD 2426 2463	adenopatías mediastínicas ni axilares
+T12	ENFERMEDAD 2489 2519	Calcificación valvular aórtica
+T13	ENFERMEDAD 2535 2564	derrame pleural o pericárdico
+T14	ENFERMEDAD 2575 2613	enfisema paraseptal y centrolobulillar
+T15	ENFERMEDAD 2971 3025	neumonía bilateral con afectación extensa por COVID-19
+T16	ENFERMEDAD 3054 3075	neumonía organizativa
+T17	ENFERMEDAD 3098 3134	Fracturas costales antiguas derechas
+T18	ENFERMEDAD 3267 3321	neumonía por COVID-19 con extensa afectación bilateral
+T19	ENFERMEDAD 3361 3382	neumonía organizativa
+T20	ENFERMEDAD 3405 3422	Enfisema pulmonar
+T21	ENFERMEDAD 346 370	colección postquirúrgica
+T22	ENFERMEDAD 528 580	Resto tumoral adyacente a la escotadura ciática izda
+T23	ENFERMEDAD 1419 1557	Resto tumoral adyacente a la escotadura ciática izda con aumento del componente sólido que invade hueso iliaco y atrapa raices L5, S1 y S2
+T25	ENFERMEDAD 2341 2384	ganglios mediastínicos aumentados de tamaño
+T26	SINTOMA 644 700	aumento del componente sólido que invade el hueso iliaco
+T27	SINTOMA 927 985	lesión contacta con el ms. piriforme con captación fascial
+T28	SINTOMA 1051 1099	nódulo satélite en la gras del espacio subglúteo
+T29	SINTOMA 1162 1206	Edema y captación en músculo oblicuo interno
+T30	SINTOMA 1231 1357	Edema y captación de músculos iliopsoas, aductores, tensor de la fascia lata y gluteos por componente inflamatorio/neuropático
+T31	SINTOMA 1559 1595	Nódulo satélite en espacio subglúteo
+T32	PROCEDIMIENTO 1 3	RX
+T33	PROCEDIMIENTO 97 106	RM PELVIS
+T34	PROCEDIMIENTO 239 241	RM
+T35	PROCEDIMIENTO 293 341	Resección vesical y de la masa pelvica izquierda
+T36	PROCEDIMIENTO 1706 1753	RM columna lumbar (solo de secciones sagitales)
+T37	PROCEDIMIENTO 2023 2043	RM de columna lumbar
+T38	PROCEDIMIENTO 2071 2095	TC TORAX ALTA RESOLUCION
+T39	SINTOMA 32 55	infiltrados periféricos
+T40	PROCEDIMIENTO 120 189	Imágenes axiales y coronales en T1, T2TIRM y T1FS sin y con contraste
+T41	SINTOMA 293 370	Resección vesical y de la masa pelvica izquierda con colección postquirúrgica
+T43	SINTOMA 776 884	Atrapa las raices L5, S1 y S2 izdas en el trayecto adyacente al músculo piriforme y en la escotadura ciática
+T44	SINTOMA 1386 1417	Resección tumoral con colección
+T46	SINTOMA 1602 1702	Edema-inflamación en musculatura de hemipelvis izda, entre postquirúrgico e inflamatorio/neuropático
+T47	SINTOMA 1755 1775	Signos degenerativos
+T48	PROCEDIMIENTO 2109 2306	Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar
+T49	SINTOMA 2658 2716	áreas en vidrio deslustrado de distribución difusa en LLSS
+T50	SINTOMA 2719 2758	parcheadas peribroncovasculares en LLII
+T51	ENFERMEDAD 2771 2795	dilataciones bronquiales
+T52	SINTOMA 2808 2831	engrosamientos septales
+T53	SINTOMA 2865 2937	focos consolidativos periféricos en porciones posteriores de LLSS y LLII
+T54	SINTOMA 3136 3199	Catéter pig tail bilateral con extremo proximal en pelvis renal
+T55	PROCEDIMIENTO 3201 3214	Filtro en VCI
+T56	SINTOMA 3201 3214	Filtro en VCI
+T58	ENFERMEDAD 927 933	lesión
+T1	PROCEDIMIENTO 1386 1403	Resección tumoral
+T2	PROCEDIMIENTO 264 271	cirugía

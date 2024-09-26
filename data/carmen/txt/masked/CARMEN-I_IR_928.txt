@@ -1,0 +1,25 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], sin AMC, portador de MCP por BAV, con COVID+ desde el [**FECHAS**], que presenta progresión radiológica, con insuficiencia respiratoria. Se solicita SCANNER para descartar sobreinfección bacteriana o neumonía organizativa
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+Tiroides aumentado de tamaño.
+Severa aterosclerosis calcificada vascular. Marcapasos.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Derrame pleural bilateral. No derrame pericardico.
+Areas en vidrio deslustrado difuso y bilateral con algunos focos de aspecto mas consolidativo peribroncovasclulares sin claras imágenes de organización.
+Enfisema pulmonar. Bronquiectasias en LM y  LLII.
+Hernia de hiato.
+
+conclusiones:
+ver resultados
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

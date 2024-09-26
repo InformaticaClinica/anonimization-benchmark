@@ -1,0 +1,38 @@
+T5	SINTOMA 26 104	infiltrados pulmonares bilaterales de tipo intersticial, predominio periférico
+T6	SINTOMA 137 213	Defecto de repleción en rama segmentaria del segmento basal anterior del LID
+T7	SINTOMA 241 285	Tronco de arteria pulmonar de calibre normal
+T8	SINTOMA 311 348	signos de sobrecarga cardíaca derecha
+T9	SINTOMA 482 553	opacidades en vidrio deslustrado bilaterales de distribución periférica
+T10	SINTOMA 567 628	patrón de "crazy paving", de predominio en LLII, LM y língula
+T11	SINTOMA 675 754	consolidaciones peribroncovasculares en los segmentos posteriores de ambos LLII
+T12	SINTOMA 1182 1219	signos de sobrecarga cardíaca derecha
+T13	SINTOMA 1377 1413	Hematoma en músculo ilíaco izquierdo
+T14	SINTOMA 1497 1522	signos de sangrado activo
+T15	SINTOMA 1668 1715	Vena porta y eje espleno mesentérico permeables
+T16	SINTOMA 1717 1749	Vejiga urinaria muy replecionada
+T17	SINTOMA 1862 1890	líquido libre intraabdominal
+T18	SINTOMA 2094 2130	Hematoma en músculo ilíaco izquierdo
+T19	SINTOMA 2214 2239	signos de sangrado activo
+T20	SINTOMA 636 665	opacidades tienden a confluir
+T21	SINTOMA 1545 1666	Hígado, vesícula (litiásica), vía biliar, bazo, páncreas, glándulas adrenales y ambos riñones sin alteraciones relevantes
+T22	SINTOMA 887 930	opacidades en campo pulmonar medio-inferior
+T23	ENFERMEDAD 230 239	TEP agudo
+T24	ENFERMEDAD 367 404	adenopatías axilares ni mediastínicas
+T25	ENFERMEDAD 441 471	derrame pleural ni pericárdico
+T26	ENFERMEDAD 781 798	infección COVID19
+T27	ENFERMEDAD 1117 1176	TEP segmentario en rama del segmento basal anterior del LID
+T28	ENFERMEDAD 1271 1293	infección por COVID-19
+T29	ENFERMEDAD 1909 1938	afectación pulmonar por COVID
+T30	ENFERMEDAD 2023 2053	derrame pleural ni pericárdico
+T31	ENFERMEDAD 2063 2078	hernia de hiato
+T32	PROCEDIMIENTO 1 21	Radiografía de tórax
+T33	PROCEDIMIENTO 107 129	ANGIO-TC TÓRAX URGENTE
+T34	PROCEDIMIENTO 830 841	RX de tórax
+T35	PROCEDIMIENTO 958 978	RX de tórax portátil
+T36	PROCEDIMIENTO 1340 1370	TC ABDOMINOPÉLVICO Y DE CADERA
+T37	PROCEDIMIENTO 1777 1784	sondaje
+T38	PROCEDIMIENTO 1991 1993	TC
+T39	SINTOMA 990 1061	cortes de hemiabdomen superior, no se observan hallazgos significativos
+T40	PROCEDIMIENTO 990 1020	cortes de hemiabdomen superior
+T41	ENFERMEDAD 1802 1858	ganglios intraabdominales de características patológicas
+T42	SINTOMA 1892 1938	Bases torácicas: afectación pulmonar por COVID

@@ -1,0 +1,24 @@
+T5	FARMACO 161 173	Dexametasona
+T6	PROCEDIMIENTO 98 101	TAR
+T7	PROCEDIMIENTO 583 593	radiología
+T8	PROCEDIMIENTO 710 722	auscultación
+T9	PROCEDIMIENTO 1036 1063	tratamiento antihistamínico
+T10	SINTOMA 474 480	disnea
+T11	SINTOMA 486 495	hipoxemia
+T12	SINTOMA 523 564	crepitantes bilaterales hasta campo medio
+T13	SINTOMA 595 645	infiltrados intersticiales periféricos bilaterales
+T14	SINTOMA 693 722	crepitantes a la auscultación
+T15	SINTOMA 756 791	ascenso de parámetros inflamatorios
+T16	SINTOMA 793 803	linfopenia
+T17	ENFERMEDAD 873 981	rash maculopapular distribuido en dorso de las manos y los pies, en rodillas y en región tibial, pruriginoso
+T18	ENFERMEDAD 986 990	rash
+T19	SPECIES 47 57	SARS-COV-2
+T21	ENFERMEDAD 24 57	NEUMONIA BILATERAL POR SARS-COV-2
+T22	SINTOMA 98 110	TAR positivo
+T23	PROCEDIMIENTO 117 120	PCR
+T24	PROCEDIMIENTO 138 146	vacunado
+T25	ENFERMEDAD 184 203	RASH MACULO-PAPULAR
+T26	PROCEDIMIENTO 288 301	02 bajo flujo
+T1	SINTOMA 307 325	mejoría progresiva
+T2	SINTOMA 648 666	mejoría progresiva
+T3	SINTOMA 279 301	requiere 02 bajo flujo

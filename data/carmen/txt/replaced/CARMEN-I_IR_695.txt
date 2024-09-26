@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con angio-TC torácico previo (01/09) que muestra posible infarto pulmonar vs. foco neumónico. No se pudo descartar TEP por interferencias visuales con los brazos del paciente, por lo que se recomienda volver a realizar angio TC con brazos levantados. Gracias.
+COVID-19
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Traquesostomía.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Bronquiectasias cilíndricas en LLII y língula.
+Parénquima pulmonar con ténues opacidades en vidrio deslustrado y atelectasias laminares con significativa mejoría respecto a TC previa correspondiente a neumonia COVID en resolución.
+No se observan imágenes de TEP.Disminución de tamaño del foco consolidativo hipocaptante portero basal del lID sugestivo de infarto pulmonar.
+
+conclusiones:
+Significativa mejoría radiológica con imágenes de neumonia COVID en resolución.
+Disminución de tamaño del infarto pulmonar en LID.
+
+descrip:
+ANGIO TC PULMONAR

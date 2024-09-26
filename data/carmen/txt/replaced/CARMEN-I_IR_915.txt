@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Covid 19 POSITIVO
+
+conclusiones:
+Discreta mejoria radiologica de la consolidación en LID.
+Sin cambios en la consolidación periferica pulmon izquierdo.
+
+descrip:
+RX  PORTATIL  TORAX

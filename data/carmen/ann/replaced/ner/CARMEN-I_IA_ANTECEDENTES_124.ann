@@ -1,0 +1,24 @@
+T21	ENFERMEDAD 85 93	fumadora
+T22	ENFERMEDAD 192 222	Hipertensión arterial esencial
+T23	ENFERMEDAD 381 391	dislipemia
+T24	ENFERMEDAD 393 401	Obesidad
+T25	ENFERMEDAD 435 460	hernia inguinal izquierda
+T26	FARMACO 562 572	Eurartesim
+T27	FARMACO 1253 1280	Valsartán/hidroclorotiazida
+T28	FARMACO 1300 1310	Amlodipino
+T29	FARMACO 1326 1336	Cetirizina
+T30	FARMACO 1345 1351	Atarax
+T31	ENFERMEDAD 31 53	alergiasmedicamentosas
+T32	SPECIES 490 503	P. falciparum
+T34	SPECIES 1183 1193	SARS-COV-2
+T35	SINTOMA 349 376	Glucemia alterada en ayunas
+T36	PROCEDIMIENTO 1159 1228	Vacunada de Pfizer para SARS-COV-2 con dos dosis (julio 2020 Moderna)
+T37	ENFERMEDAD 472 503	Malaria aguda por P. falciparum
+T38	PROCEDIMIENTO 531 542	parasitemia
+T39	FARMACO 574 584	artemisina
+T40	HUMANO 1126 1157	administrativo de centro médico
+T41	HUMANO 1113 1124	desempleada
+T42	ENFERMEDAD 18 26	Alergias
+T43	ENFERMEDAD 65 80	Hábitos tóxicos
+T44	ENFERMEDAD 95 139	Consumo de alrededor de 7-8 cervezas diarias
+T1	PROCEDIMIENTO 404 460	Intervenida quirúrgicamente de hernia inguinal izquierda

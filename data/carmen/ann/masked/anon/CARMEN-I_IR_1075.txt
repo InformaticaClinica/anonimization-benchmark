@@ -1,0 +1,18 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Paciente n internación por neumonía bilateral por COVID-19, quien tenia DRUM en vena braquial de miembro superior derecho, presenta posterior a retiro persistencia de induración en trayecto venoso, solicitamos descartar complicación.
+Miembro inferior derecho con asimetria con respecto a contralateral, sin signos clinicos de TVP, se diagnóstico TEP agudo a pesar de anticuagulación a dosis intermedias. Solicitamos descartar TVP en pierna derecha.
+Gracias.
+NEUMONIA BILATERAL POR SARS-COV-2
+
+resultados:
+Se confirma la presencia de tromboembolismo pulmonar desde vena femoral común hasta vena poplítea compatible con trombosis venosa profunda de extremidad inferior derecha
+
+conclusiones:
+Hallazgos compatibles con trombosis venosa profunda de extremidad inferior derecha
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

@@ -1,0 +1,45 @@
+T7	ENFERMEDAD 262 306	CARDIOPATÍA VALVULAR: ESTENOSIS MITRAL GRAVE
+T8	ENFERMEDAD 1066 1072	sepsis
+T9	ENFERMEDAD 1076 1089	celulitis EID
+T10	ENFERMEDAD 1152 1190	HIPOTIROIDISMO secundario a amiodarona
+T11	ENFERMEDAD 23 26	AMC
+T12	ENFERMEDAD 132 162	HIPERTENSIÓN ARTERIAL esencial
+T13	ENFERMEDAD 222 227	ACXFA
+T14	ENFERMEDAD 454 463	AC per Fa
+T15	ENFERMEDAD 473 510	Auricula esquerre severament dilatada
+T16	ENFERMEDAD 608 728	Valvula mitral amb afectació reumatica , valvula calcificada en grau sever amb insuficiencia lleu i estenosi molt severa
+T17	ENFERMEDAD 814 844	insufuciencia tricuspidea lleu
+T18	ENFERMEDAD 849 861	HTP moderada
+T19	ENFERMEDAD 872 899	Vena cava inferior dilatada
+T20	ENFERMEDAD 904 926	embassament pericardic
+T21	ENFERMEDAD 931 968	ISQUEMIA AGUDA de miembros inferiroes
+T22	ENFERMEDAD 978 1008	Oclusión femoropoplítea por FA
+T23	ENFERMEDAD 1195 1218	ENFERMEDAD DE PARKINSON
+T24	FARMACO 1180 1190	amiodarona
+T25	FARMACO 1573 1588	Sulfato ferroso
+T26	FARMACO 1603 1613	Bisoprolol
+T27	FARMACO 1626 1652	Losartán/hidroclorotiazida
+T28	PROCEDIMIENTO 231 257	tratamiento anticoagulante
+T29	FARMACO 1530 1539	Carmelosa
+T30	FARMACO 1508 1519	Paracetamol
+T31	FARMACO 1485 1494	Metamizol
+T32	FARMACO 1449 1467	Carbidopa+levodopa
+T33	FARMACO 1428 1438	Citalopram
+T34	FARMACO 1410 1418	Diazepam
+T35	FARMACO 1385 1397	Levotiroxina
+T36	FARMACO 1359 1371	Acenocumarol
+T37	FARMACO 1327 1337	Salbutamol
+T38	FARMACO 1307 1316	Omeprazol
+T39	SINTOMA 308 314	Disnea
+T41	ENFERMEDAD 1220 1244	Deterioro cognitivo leve
+T42	PROCEDIMIENTO 344 358	Ecocardiograma
+T43	PROCEDIMIENTO 1028 1048	trombectomia femoral
+T44	PROCEDIMIENTO 1093 1106	Dopler de TSA
+T45	HUMANO 1 6	Mujer
+T46	SINTOMA 370 415	Ventricle esquerre no dilatat, ni hipertrofic
+T47	SINTOMA 512 540	Arrel aortica de mida normal
+T48	SINTOMA 542 572	aorta ascendent de mida mormal
+T49	SINTOMA 574 607	Valvula aortica sense alteracions
+T50	SINTOMA 783 808	Ventricle dret no dilatat
+T51	SINTOMA 1093 1147	Dopler de TSA (marzo de 2016): dentro de la normalidad
+T1	ENFERMEDAD 31 46	hábitos tóxicos

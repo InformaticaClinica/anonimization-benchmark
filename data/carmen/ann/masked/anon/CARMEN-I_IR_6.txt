@@ -1,0 +1,28 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] ingresado desde hace 1 semana por neumonía grave poir covid-19 con insuficiencia respiratoria que requirió IOT + VMI.
+Actualmente traqueostomizado y sedoanelgesiado, conectado al ventilador y con hemodiálisis continuar debido a un fracaso renal agudo.
+En la analítica presenta progresiva colestasis con bilirrubina de 13 mg/dL a expensas de la directa. También leucocitosis.
+Intertesa ecografía abdominal para decartar complicaciones de la vía biliar/vesícular biliar.
+Muchas gracias
+colestasis
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica, con escasa cantidad de barro biliar.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal con flujo hepatopertal.
+Arteria hepática permeable.
+Páncreas (parcialmente explorado) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal
+
+descrip:
+ECO BASAL (ABDOMEN)
+
+descrip:
+ECOGRAFIA PORTATIL (ABDOMEN)

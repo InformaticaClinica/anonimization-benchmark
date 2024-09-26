@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+VIH mal controlado con cuadro de 3 semanas de evolución de fiebre y inestabilidad con caidas al suelo. Marcha en tandem alterada sin dismetrias. Interesa TC cerebral para descartar lesiones a este nivel.
+Muchas gracias!!
+FIEBRE POR VIH
+
+protocolo:
+TC craneal basal urgente.
+
+conclusiones:
+No se observan imágenes de sangrado agudointracraneal.
+Estructuras de la línea media centradas. Cavum septum pellúcidum et vergae como variante anatómica.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+No se observan alteraciones significativas de la densidad del parénquima cerebral.
+
+descrip:
+TC CEREBRAL

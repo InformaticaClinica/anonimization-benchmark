@@ -1,0 +1,35 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Pacient infecció COVID, intubat, portador de ECMO, que presenta sagnat important per punt d'entrada venos femoral dret, amb hematoma que progressa i amb requeriment transfusional de 10 CH.
+Per altra banda, es demana també TC pulmonar aprofitant el desplaçament, per valorar lesions cotonoses al pulmó i descartar sospita de TEP sobreafegit.
+Gràcies!
+NEUMONIA COVID19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Cánula de acceso venoso yugular derecho con extremo distal en VCS proximal. Catéter de acceso venoso yugular izquierdo con extremo distal en segmento proximal del tronco braquiocefálico izquierdo.
+Tubo endotraqueal normpoposicionado con extremo distal a unos 3-4 cm de la carina. Sonda nasogástrica.
+Se visualiza el extremo distal de la cánula venosa femoral derecha a nivel de VCI intrahepática.
+Defectos de repleción en el árbol arterial pulmonar afectando ramas segmentarias del LSD, lobar y segmentarias del LID, segmentarias del LM y dudosos en ramas segmentarias del LII. Hallazgos compatibles con TEP agudo bilateral.
+Prominencia del tronco común de la arteria pulmonar (30 mm). No se identifica una clara dilatación del ventrículo derecho ni rectificación del septo interventricular que puedan sugerir la presencia de sobrecarga ventrículo derecho.
+No se observa derrame pleural ni pericárdico. Sin evidencia de adenopatías axilares o mediastínicas valorables.
+Presencia de contenido endobronquial hipodenso (probables secreciones) a nivel de los bronquios segmentarios de ambos lóbulos inferiores, con claro predominio izquierdo donde parece ocluir casi por completo el bronquio lobar correspondiente.
+Colapso/consolidación parcial de ambos LLII, que presentan una hipocaptación parenquimatosa difusa de contraste a excepción de los segmentos apical y basal medial del LII. Estos hallazgos son sugestivos de corresponder a áreas de infarto pulmonar.
+Opacidades en vidrio deslustrado bilaterales de distribución de predominio periférico (algunas peribroncovasculares), más evidentes en lóbulos superiores. Focos subpleurales con tendencia a la consolidación en ambos LLSS sin evidenciarse claros signos de fibrosis en el momento actual. Estos hallazgos corresponden afectación pulmonar por COVID-19, sin poder descartar que algunos focos consolidativos correspondan a otras áreas de infarto pulmonar.
+
+conclusiones:
+-Afectación pulmonar por COVID-19.
+-TEP bilateral con zonas de infarto pulmonar en ambos lóbulos inferiores.
+-Secreciones endobronquiales en bronquios de ambos lóbulos inferiores, condicionando atelectasias.
+-Globalmente identificamos un 50% del pulmón normal (zonas no consolidadas, sin afectacion por COVID y zonas sin infarto pulmonar).
+
+descrip:
+TC TORAX
+
+descrip:
+ANGIO TC PULMONAR

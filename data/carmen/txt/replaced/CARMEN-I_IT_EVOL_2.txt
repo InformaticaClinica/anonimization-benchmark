@@ -1,0 +1,23 @@
+**EVOLUCIÓN EN SALA L581
+1. NEUMONÍA BILATERAL POR SARS-COV2.
+1.1.-AGUDIZACIÓN DE EPOC
+1.2.-INSUFICIENCIA RESPIRATORIA AGUDA SECUNDARIA
+1.3.-LARINGOESPASMO ASOCIADO A LAF (resuelto, con buena tolerancia posterior a OTAF)
+**Día de inicio sintomatología: 5/1 (tos y aumento de mucosidad)
+**Día PCR positiva: 6/4
+**Ingreso: 6/05
+**Tratamiento: Remdesivir (6/05-10/05). MTP 20 mg (6/05) - 8/05: DXM 6 MG/D - 10/05: DXM 20 MG/D
+**Techo terapéutico: intermedios/ LAF+-VMNI
+2. INSUFICIENCIA CARDIACA CRÓNICA DESCOMPENSADA
+3. DISELECTROLITEMIA (hipopotasemia e hipomagnesemia) probablemente secundaria a fcos. En resolución
+------------------
+Varón de 80 años, independiente para las ABVD, con antecedente de HTA, DLP, ACxFA, ICC, EPOC y SAOS. Consulta el 6/05 por 24h de malestar general, aumento de la disnea y abundante tos con expectoración blanquecina. A la anamnesis dirigida con cuñado refiere que el 01/03/2020 ya inicio aumento de tos con expectoración, sin dísnea asociada. Por ese motivo inició levofloxacino el lunes 5/2.
+A su llegada a Urgencias paciente febricular, taquipneico, con uso de musculatura abdominal. Sat02 93% basal. AC arítmico, no signos de ICC.
+AR sibilancias difusas. ABD dolor a palpación en flancos (por ataques de tos). Se realiza GSA (FiO2 21) que muestra pH 7.45, pO2 68.4, pCO2 40, HCO3 27.8. Analítica sanguínea muestra PCR 4.06, Cr 1.09, FG 62.4. GGT
+67. Ferritina normal. Hb 13.2, Hto 42%, VCM 102, leucocictos 5260 (N 4100, L 700), plaquetas 144000. D-dimero 200. Rx tórax mustra cardiomegalia, infiltrados intersticiales periféricos bilaterales.
+Se administra oxigenoterapia 3L, tratamiento broncodilatador (salbutamol + ipratropio), hidrocortisona y paracetamol iv. A la revaloración de la auscultación, roncus y sibilancias en ambos campos de menor intensidad.
+Tos seca irritativa, con esputo herrumbroso. Se solicita PCR COVID-19 que resulta positivo.
+A su llegada a sala, hemodinámicamente estable, buen estado general, sat 97% con LN 3l. Se inicia tratamiento con Remdesivir y MTP 20 mg/d con buena evolución inicial. Persiste fiebre el 06/05, el 7/05 febricular.
+Refiere ortopnea y disnea paroxística nocturna. No dolor torácico ni palpitaciones y SatO2 en torno a 95% con ln a 3 lpm. A la EF crepitantes bibasales y cambios tróficos en EEII con ligeros edemas.
+Durante el ingreso progresión de insuficiencia respiratoria, asociada a aumento franco de infiltrados pulmonares bilaterales y elevación de reactantes de fase aguda (PCR 17, FERRITINA 1000) el 09/05, asociado a signos clínicos y analíticos (pro-BNP 2300) de descompensación de IC, por lo que se optimiza tratamiento depletivo. El 10/05 empeoramiento rápidamente progresivo con aumento de requerimientos de O2 hasta VMK al 60% (GSA (10/05): pH 7.48, pCO2 37.9, pO2 61.3 (PaFi 102)), con DD estable en 800 (anticoagulado a dosis plenas por FA), reactantes en descenso y radiografía de tórax pendiente. Aumento corticoterapia a DXM 20 mg (está en >7d de síntomas y hoy completa tratamiento con RMD).
+Dada la progresión clínica, comento con intermedios para valorar traslado y me comentan que habrá disponibilidad de camas a lo largo de la tarde. Ante la insuficiencia respiratoria a pesar de VMK, colocamos LAF como puente al traslado, presentando el paciente laringoespasmo importante, que mejora tras Actocortina 200 y nebulizaciones. Dejo LAF 80%/40 lpm (no ha tolerado inicialmente flujos más altos) manteniendo SatO2 en torno a 89-90%.

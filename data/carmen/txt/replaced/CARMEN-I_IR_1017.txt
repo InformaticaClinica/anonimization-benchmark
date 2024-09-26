@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA BILATERAL COVID19
+
+conclusiones:
+Tenues opacidades en campo superior e inferior derecho indeterminado para COVID.
+
+descrip:
+RX  PORTATIL  TORAX

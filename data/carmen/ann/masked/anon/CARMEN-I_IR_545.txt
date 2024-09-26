@@ -1,0 +1,22 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paicent amb Covid passat que aporta TC del [**FECHAS**] on descriuen sospita de TEP. Des d'aleshores s'inicia anticoagulació per la sospita de TEP i una trombosi portal (que no té indicació d'anticoagulació). Interessa TC tòrax urg per descartar/confirmar TEP, ja que ens canviaria l'actitud respecte l'anticoagulació. Actualment presenta insuf respiratòria
+3. CIRROSIS HEPÁTICA CHILD A
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+No se observa TEP.
+No se observa derrame pleural ni pericárdico.
+Severo enfisema pulmonar. Mejoría radiológica d ela sconsolidacione sobservdas en TC`previa excepto de la consolidación nodular apical D que ha aumentado.Se aconsej avalorar etiología fúngica.
+Impactaciones mucosas en LII.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

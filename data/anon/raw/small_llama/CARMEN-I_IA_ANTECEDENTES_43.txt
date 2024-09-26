@@ -1,0 +1,15 @@
+ Antecedentes personales:
+Hombre de [**EDAD_SUJETO_ASISTENCIA**] años de edad
+*ANTecedentes MÉDICOS
+1. LINFOMA FOLICULAR diagnóstico en Agosto 1991
+* Grado I/II EC IV-A--> CHOP x 8 --> respuesta parcial * FCM x 6 --> Estabilidad + TASP (BEAM) 1994.
+* Recaída en 1/2001 con progresión LF grado IIIa/IIIb--> R-ESHAP x 4 alcanzando RP + RDT 04/2002--> RC.
+* Seguimiento por H Virgen del Carmen Hematología (Dr. Souhaib)
+2. MIOCARDIOPATÍA TÓXICA POST-QUIMIOTERAPIA
+* IC: EAP, CF IV en 03/2001
+* Seguimiento por Cardiología (Dr. Isla)
+* FEVI 35% (2013)
+3. HTA
+4. DM TIPO 2
+6. BBDHH + HBA + PR 240 ms.
+7. Insuf renal: FG 35 ml/min. 27/08/2010. Medicación habitual: [**NUMERO_MEDICAMENTOS**]

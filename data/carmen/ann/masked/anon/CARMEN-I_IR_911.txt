@@ -1,0 +1,34 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] con antecedentes a destacar de trasplante car´diaco en [**FECHAS**]. Ingresado en contexto de disfunción vnetricular severa con sospecha de rechazo humoral (biopsia negativa) y hallazgo incidental en ingreso covid +.
+Buena evolución hasta la mañana [**FECHAS**] que presenta desaturación y taquipnea a 25 rpm. Ayer vía central yugular derecha para realizar plasmaféresis con placa sin signos de neumotórax. No signos de fallo. No auscultación patológica.
+Placa ligero infiltrado en base derecha.
+Sospecha diagnóstica efecto secundario plasmaféresis vs. afectación pulmonar covid vs. TEP.
+Solciitamos valoración.
+Desaturación + taquipnea
+
+protocolo:
+Se practica estudio de angio-TC pulmonar.
+
+resultados:
+CVC con entrada yugular derecha y extremo distal en vena cava superior.
+Cambios posquirúrgicos con esternotomía media. Se observan algunas colecciones mediastínicas posquirúrgicas residuales, sin signos indirectos de sobreinfección en el momento actual.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal. No se observan signos de se sobrecarga ventricular derecha.
+Múltiples ganglios mediastíninos infracentimétricos de aspecto reactivo.
+Adenopatía hiliar de 15 mm. No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural. Ligera/moderada cantidad de derrame pericárdico de predominio en saco anterior (grosor máximo de 20 mm)
+Afectación parenquimatosa pulmonar bilateral en forma de ténues opacidades en vidrio deslustrado peribroncovasculares y subpleurales, de predominio en lóbulos inferiores, asociadas a dilataciones bronquiales y a algunas bandas perilobulares y áres de retoculación subpleural; todo ello en relación a neumonía por COVID-19 de aspecto reabsotivo y extensión leve, sin claros cambios organizativos asociados en el momento actual. Leve enfisema paraseptal de predominio en lóbulos superiores.
+Impactaciones mucosas en bronquiolos.
+Cambios degenerativos en columna torácica.
+Aerobilia. Sin otros hallazgos relevantes en los cortes abdominales.
+
+conclusiones:
+No se observa TEP.
+Hallazgos coherentes con neumonía por COVID-19 de extensión leve sin claros signos organizativos en el momento actual.
+
+descrip:
+TC TORAX

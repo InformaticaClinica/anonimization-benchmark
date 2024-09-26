@@ -1,0 +1,32 @@
+
+prueba:
+TAC CONTRAST 100cc
+
+clinica:
+Paciente con antec dente de hernia umbilical complicada que requirio hernioplastia con malla el [**FECHAS**]. Actualmente ingresada por colangitis y colecistitis biliar cronificada, sin embargo comienza con dolor en zona de hernioplastia junto con zona indurada a la palpación. Se solicita tc de pared abdominal en zona umbilical. Muchas gracias.
+hernioplastia umbilical
+
+protocolo:
+TC abdominopélvico tras la administración de contraste e.v.
+
+resultados:
+* Se compara con TC previo del [**FECHAS**].
+Hígado de tamaño normal con hipertrofia del lóbulo caudado. Imagen nodular hipocaptante con márgenes levemente hipercaptantes, subcapsular de 11 mm en s.VII, inespecífica, estable respecto al TC previo del [**FECHAS**].
+Se observan dos áresa de hipocatación heterogénea, subcapsulares, en segmento IVa adyacente al ligamento falciforme y segmento VIII inespecíficas, no presentes en estudio previo que platea el DD entre area de esteatosis vs hepatitis.
+Vesícula biliar colapsada,litiásica, de paredes desestructuradas e hipercaptantes y con aire en su interior. Trabeculación de la grasa perivesical. Sugestivo de colecistitis cronificada. No se observa líquido libre intraabdominal.
+Vía biliar intrhapetica no dilatada, con aerobilia
+Colédoco de calibre normal de contornos discretamente irregulares rodeado por vasos de circulación colateral. Hallazgos que podrian estar en relacion con una colangiopatia portal
+Cavernomatosis portal en hilio hepático, ramas intrahepáticas y cabeza pancreática.  En el hilio hepatico se obervaa una colateral que sigue el trayecto de la vena porta extrahepatica.
+No se visualiza  la vena esplénica ni origen de VMS con una repermeabilizacion distal que se comunica con vasos de circulacion colateral.
+Vasode circulacion colateral ligamento gastro-hepatico, perigrastrico e hilio esplenico.
+Ateromatosis del eje aortoilíaco.
+Páncreas, bazo y glándulas suprarenales sin alteraciones significativas.
+Diverticulosisi colónica sin signos de diverticulitis aguda.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. No se observa dilatación de la vía excretora.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+
+conclusiones:
+ver resultado.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neoplasia laringea T4N0M0 evienciado en TC cervicotroxacio de estudio neoplasico el [**FECHAS**]. Ingreso por insuficiencia respiratoria y covid. Traqueostomía el [**FECHAS**] por riesgo de via aerea. Ahora ingresado a la espera de negativización de PCR (hoy dia 12 de covid, pdte de resultado, muestra tomada hoy) para progamar IQ (Laringectomía.
+EN Analítica se evidencia aumentod e dimero D. Se comenta con emdicina interna quien reocmienda AngioTC para descatar TEP.
+INFECCIÓN POR SARS-COV-2
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Traqueostomía.  Imágenes de neumomediastino prevascular.
+No se observa derrame pleural ni pericárdico.
+No se observan imágenes de TEP.
+Engrosaminetos difusos de paredes bronquiales. ténues micronódulos con morfología de árbol en brote sugestivos de bronquioliits infecciosa.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

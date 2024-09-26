@@ -1,0 +1,34 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Hombre 74a, ingresado por neumonia covid19, en las últimas 24h deterioro hemodinámico con altos requerimientos de NA, ecoscopia impresiona disfución ventricular derecha. Descartar TEP, gracias!
+2. NEUMONÍA BILATERAL POR SARS-COV-2.
+
+protocolo:
+Estudio anguioTC torácico tras la administación de contraste ev.
+
+resultados:
+Se compara con los estudios previos, el último la TC de ayer del 11/04/2026.
+Tubo endotraqueal con extremo distal a 4.3 cm de la carina.
+Vía venosa central yugular izquierda con extremo distal en tronco braquiocefálico venoso.
+SNG con extremo distal en cámara gástrica
+No se observan signos radiológicos evidentes de TEP.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Aumento significativo del derrame pleural izdo, de aspecto loculado, a expensas de un contenido basalmente hiperdenso más evidente en región posterobasal, sugestivo de hemotórax. Se observa un gran componente subpulmonar que condiciona efecto de masa sobre diafragma con desplazamiento y abombamiento caudal del mismo y desplazamiento inferior de estructuras de hipocondrio izdo. Asi como desplazamiento de estructuras mediastínicas hacia el lado derecho.
+Foco hiperdenso en región apical y medial izda, de morfología tubular, que si bien podría corresponder a una estructura vascular en este contexto es altamente sospechoso de sangrado activo.
+Aumento del colpaso pasivo del pulmón izdo, siendo completo en LII y parcial de língula y LSI.
+Estabilidad del mínimo derrame pleural derecho y mínimo derrame pericárdico.
+Parénquima pulmonar con persistencia de ténues opacidades en vidrio deslutrado residuales peribroncovasculares y subpleurales, sin cambios.
+
+conclusiones:
+Respecto al estudio previo TC de ayer (11/04/26) se observa:
+Aumento significativo del derrame pleural izdo, ahora con contenido de aspecto hemático en relación con hemotórax. Signos altamente sospechosos de sangrado activo en región apical y medial izda.
+Muestra un marcado componente subpulmonar que condiciona efecto de masa sobre diafragma y estructuras de hipocondrio izdo y discreto desplazamiento de estructuras mediastínicas hacia el lado derecho.
+Aumento del colpaso pasivo del pulmón izdo.
+No se observan signos radiológicos evidentes de TEP.
+Resto sin cambios valorables respecto previo.
+
+descrip:
+ANGIO TC PULMONAR

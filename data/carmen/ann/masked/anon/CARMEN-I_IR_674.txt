@@ -1,0 +1,27 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+TEP bilateral con signos de sobrecarga en paciemte hta y obesa.
+Confirmado por TAC
+Reviosando HC hoy en el sincope ha presetado TCE leve con contusión frontal. Es posible que la paciente pueda ser candidata a fibrinolisis (cierta tendencia a la hipotensión), por lo que interesa realizar TAC para descartar subdural
+Gracias
+sospecha TEP
+
+protocolo:
+TC craneal basal URGENTE
+
+resultados:
+No se observan imágenes de sangrado agudo intracraneal.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Sistema ventricular simétrico y no dilatado.
+Ténue hipodensidad de la sustancia blanca periventricular y subcortical que sugiere afectación leve por enfermedad de pequeño vaso.
+No se observan fracturas.
+
+conclusiones:
+No se observan imágenes de sangrado agudo intracraneal.
+
+descrip:
+TC CEREBRAL

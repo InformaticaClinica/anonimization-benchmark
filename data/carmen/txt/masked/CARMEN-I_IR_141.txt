@@ -1,0 +1,27 @@
+
+prueba:
+TC TORAX
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**], mieloma múltiple. Neumonia bilateral por covid >1mes evolución. Fiebre persistente (>38ºC) y weaning prolongado. Solicitamos TC para descartar componente organizativo. Gracias!
+NEUMONIA POR SARS-COV2
+
+protocolo:
+TC de tórax sin contraste EV
+
+resultados:
+Se compara con TC previo de [**FECHAS**].
+Tubo de traqueostomía. CVC central derecha y reservorio port-a-cath D, ambos con extremo distal en unión atriocaval. Sonda nasogástrica con extremo distal en antro gástrico.
+Bocio multinodular con calcificaciones de predominio del LTI y extensión endotorácica izq.
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Persiste el moderado derrame pleural izquierdo de aspecto loculado.
+Ausencia de derame pleural derecho, ni pericárdico. Resolución del mínimo neumotórax laminar derecho.
+Leve disminución de los focos consolidativos en el segmento posterior del LSD y de segmentos basales del LID. Práctica resolución de los focos consolidativos del LSI, persistiendo opacidades en vidrio deslustrado en la língula. Persiste sin cambios significativos la consolidación con broncograma de casi todo el LII. Los focos consolidativos en el LID presentan características de cambios organizativos.
+Cambios degenerativos en columna torácica.
+Lesión nodular suprarrenal izquierda, de aspecto adenomatoso, sin cambios. Mínima cantidad de líquido libre periesplénico.
+
+conclusiones:
+Leve mejoría radiológica respecto al TC previo de [**FECHAS**].
+
+descrip:
+TC TORAX

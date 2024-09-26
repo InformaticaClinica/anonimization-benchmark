@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INSUFICIENCIA RESPIRATORIA AGUDA
+
+conclusiones:
+Evolución asimétrica de los focos consolidativos pulmonares con disminución de densidad de muchos de ellos pero aumento de tamaño y densidad de los focos de campos medio e inferior del hemitórax derecho.
+
+descrip:
+RX  PORTATIL  TORAX

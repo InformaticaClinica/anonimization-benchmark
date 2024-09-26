@@ -1,0 +1,27 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], ingreso prolongado por COVID que presenta neumonía necrotizante con mala evolución clínica. Comentado con Cirugía torácica y Dr. [**NOMBRE_PERSONAL_SANITARIO**], solicitamos TC de tórax CON CONTRASTE para valorar situación actual de cara a tratamiento quirúrgico. Gracias.
+VAP. S AURES + SHOCK SE´PTICO
+
+protocolo:
+TC de tórax con contraste EV.
+
+resultados:
+Se compara con TC previa de [**FECHAS**].
+Traqueostomía con extremos distal a 25 mm de carina. SNG.
+Ganglios mediastínicos paratraqueales derechos y prevasculares aumentados de tamaño, reactivos. No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Dilatación del tronco de la arteria pulmonar de 35 mm.
+Leve derrame pleural bilateral de predominio del lado derecho y de aspecto loculado, sin cambios.
+Persiste sin cambios significativos la extensa afectación parenquimatosa bilateral con opacidades en vidrio deslustrado y focos consolidativos de predominio posterobasal.
+Persiste la extensa consolidación del LID y el área consolidativa pleuroparenquimatosa nodular, heterógenea y cavitada de localización lateral en el LID, de 7 cm de diámetro mayor, con focos hiperdensos en su interior, pudiendo corresponder en parte a componente de hematoma y empiema. Condiciona efecto masa sobre el parénquima pulmonar adyacente del LID sugestivo de origen pleural.
+Múltiples lesiones cavitadas subpleurales bilaterales de predominio en el pulmón derecho sin cambios valorables, destacando cavitación en el segmento apicoposterior del LSD y segmento apical del LID y lesiones cavitadas de localización lateral y posterobasal en el LID. Dos pequeñas lesiones cavitadas en el LSI/língula, estables.
+Angiomiolipoma renal izquierdo. Edema periportal.
+
+conclusiones:
+Extensa afectación parenquimatosa bilateral de las características descritas, sin cambios valorables. Múltiples lesiones cavitadas subpleurales bilaterales de predominio en el pulmón derecho sin cambios valorables. Destaca la consolidación del LID y el área consolidativa pleuroparenquimatosa nodular y cavitada de localización lateral en el LID, de 7 cm de diámetro mayor, con focos hiperdensos en su interior, pudiendo corresponder en parte a componente de hematoma y empiema.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

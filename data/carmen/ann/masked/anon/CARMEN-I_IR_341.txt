@@ -1,0 +1,29 @@
+
+prueba:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDAD ORAL/ FARINGE/LARINGE/TIROIDES)
+
+clinica:
+Estadificació en pacient amb melanoma intervingut que presenta metàstasi cerebrals de nova aparició. Interessa descartar recidiva locorregioonal (primari cervical) o a distància.
+Té antecedent de limfoma curat al [**FECHAS**]. Gràcies.
+Neoplàsia maligna secundària, encèfal
+
+protocolo:
+Exploración TC de cuello mediante secciones axiales durante la administración de un bolus de contraste endovenoso, con posteriores reconstrucciones.
+
+resultados:
+Se realiza estudio comparativo respecto al TC de cuello previo, realizado en [**FECHAS**].
+A nivel intracraneal, aunque parcialmente explorado, se identifica aparicion de varias lesiones focales supratentoriales, la de mayor tamaño a nivel occipital derecho, de aproximadamente 23 x 30 mm y con contenido necrotico, y al menos otras dos de menores dimensiones una adyacente al asta frontal izquierda, de aproximadamente 14 mm, y la otra capsuloganglionar izquierda, de aproximadamente 9 mm., con leve desviacion de las estructuras de la linea media hacia la derecha y un aumento de tamaño del asta tempora. y occipital izquierda.
+Creo recomendable estudio mediante RM cerebral.
+Cambios posquirurgicos con clips laterocervicales izquierdos.
+Densificacion de planos grasos mediales al ECM izquierdo, aunque no aprecio lesiones focales concluyentes que sugieran adenopatias.
+Fosas infratemporales, cavum, pilares amigdalinos, planos grasos parafaringeos, glandulas salivares, hipofaringe y laringe sin alteraciones destacables.
+No se aprecian adenopatías aumentadas significativamente de tamaño.
+Mediante TC no se aprecian alteraciones destacables en la glandula tiroides.
+
+conclusiones:
+Destaca la aparicion de varias lesiones focales intracraneales supratentoriales, la de mayor tamaño a nivel occipital derecho y al menos otras dos de menores dimensiones, una adyacente al asta frontal izquierda y la otra capsuloganglionar izquierda, con leve desviacion de las estructuras de la linea media hacia la derecha y un aumento de tamaño del asta tempora. y occipital izquierda.
+Creo recomendable estudio mediante RM cerebral.
+Densificacion de planos grasos mediales al ECM izquierdo, aunque no aprecio lesiones focales concluyentes que sugieran adenopatias.
+
+descrip:
+TC PARTES BLANDAS CUELLO (CAVUM/CAVIDADORAL/ FARINGE/LARINGE/TIROIDES)

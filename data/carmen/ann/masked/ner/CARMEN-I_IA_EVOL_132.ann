@@ -1,0 +1,63 @@
+T16	FARMACO 374 385	ceftriaxona
+T17	FARMACO 388 400	teicoplanina
+T18	FARMACO 428 439	Tocilizumab
+T19	FARMACO 1325 1344	lopinavir/ritonavir
+T20	FARMACO 1346 1358	azitromicina
+T21	FARMACO 1361 1378	hidroxicloroquina
+T22	FARMACO 1418 1429	ceftriaxona
+T23	FARMACO 1432 1444	teicoplanina
+T24	FARMACO 1621 1632	tocilizumab
+T25	FARMACO 2621 2629	insulina
+T26	FARMACO 320 323	HDQ
+T27	FARMACO 344 347	L/r
+T28	FARMACO 456 459	DXM
+T29	PROCEDIMIENTO 1390 1413	tratamiento antibiótico
+T30	PROCEDIMIENTO 1656 1667	corticoides
+T31	PROCEDIMIENTO 2516 2527	corticoides
+T32	PROCEDIMIENTO 1286 1378	tratamiento triple según protocolo con lopinavir/ritonavir, azitromicina y hidroxicloroquina
+T33	SINTOMA 364 371	diarrea
+T34	SINTOMA 793 799	fiebre
+T35	SINTOMA 801 809	tos seca
+T36	SINTOMA 811 829	disnea de esfuerzo
+T37	SINTOMA 846 871	hemodinámicamente estable
+T38	SINTOMA 873 884	taquipneico
+T39	SINTOMA 971 994	crepitantes bilaterales
+T40	PROCEDIMIENTO 1000 1025	auscultación respiratoria
+T41	SINTOMA 1041 1057	elevación de RFA
+T42	SINTOMA 1088 1104	elevación de LDH
+T43	SINTOMA 1192 1212	opacidades en LID/LM
+T44	SINTOMA 1536 1588	elevación de los parámetros inflamatorios progresiva
+T45	PROCEDIMIENTO 1842 1856	oxigenoterapia
+T46	SINTOMA 2097 2159	alteración del perfil hepático ccon elevación de transaminasas
+T48	ENFERMEDAD 95 126	NEUMONÍA BILATERAL POR COVID-19
+T49	ENFERMEDAD 131 157	INSUFICIENCIA RESPIRATORIA
+T50	ENFERMEDAD 590 611	hipertensión arterial
+T51	ENFERMEDAD 613 637	diabetis mellitus tipo 2
+T52	ENFERMEDAD 640 678	síndrome de apneas-hipoapneas nocturna
+T53	ENFERMEDAD 767 791	infección por SARS-CoV-2
+T54	ENFERMEDAD 1230 1263	neumonía bilateral por SARS-CoV-2
+T55	ENFERMEDAD 1507 1533	insuficiencia respiratoria
+T56	ENFERMEDAD 2189 2213	infección por SARS-CoV-2
+T57	ENFERMEDAD 2217 2248	síndrome activación macrofágica
+T58	ENFERMEDAD 2252 2267	hepatotoxicidad
+T59	ENFERMEDAD 2459 2483	DIABETIS MELLITUS TIPO-2
+T60	FARMACO 1390 1413	tratamiento antibiótico
+T61	FARMACO 1656 1667	corticoides
+T62	FARMACO 2516 2527	corticoides
+T63	PROCEDIMIENTO 199 205	frotis
+T64	PROCEDIMIENTO 900 914	oxigenoterapia
+T65	PROCEDIMIENTO 1131 1151	Radiografía de tórax
+T66	PROCEDIMIENTO 2049 2063	oxigenoterapia
+T67	PROCEDIMIENTO 2370 2381	aislamiento
+T68	HUMANO 473 501	[**SEXO_SUJETO_ASISTENCIA**]
+T69	HUMANO 1466 1474	paciente
+T70	HUMANO 1751 1759	paciente
+T71	SPECIES 781 791	SARS-CoV-2
+T72	SINTOMA 1113 1123	limfopenia
+T73	SINTOMA 1156 1189	infiltrado intersticial bilateral
+T74	SPECIES 1253 1263	SARS-CoV-2
+T76	SPECIES 2203 2213	SARS-CoV-2
+T77	PROCEDIMIENTO 1027 1036	Analítica
+T78	PROCEDIMIENTO 2022 2031	analítica
+T79	SINTOMA 2299 2318	estabilidad clínica
+T1	SINTOMA 1794 1856	disminución progresiva de los requerimientos de oxigenoterapia

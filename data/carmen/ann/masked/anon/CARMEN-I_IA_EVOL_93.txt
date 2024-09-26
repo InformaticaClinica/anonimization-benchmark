@@ -1,0 +1,19 @@
+***EVOLUCIÓN SALA COVID-19
+1. NEUMONÍA POR SARS-CoV-2
+2. NINE CON EXACERBACIÓN AGUDA
+3. EMTC (U1-RNP+)
+4. BICITOPENIA: LEUCOPENIA-NEUTROPENIA-LINFOPENIA + ANEMIA MACROCÍTICA
+5. OSTEOPOROSIS MULTIFACTORIAL A DESCARTAR
+Fecha de inicio de los síntomas: [**FECHAS**]
+Fecha de ingreso: [**FECHAS**]
+Fecha de PCR positiva: [**FECHAS**]
+1-3 A su llegada a sala, en buen estado general, estable hemodinámicamente, SatO2 98% basal, FR 16x' y afebril. Auscultación CP con MVC con crepitantes bibasales.
+Analítica donde destaca PCR 6mg/dL, Ferritina 1973g/mL (en ascenso) y ligera alteración de perfil hepático (AST/ALT 41/86, GGT/FA 87/106). Rx de tórax con infiltrados intersticiales bibasales (D>I), sin consolidación.
+Se solicita TCAR de tórax que muestra cambios compatibles con neumonía bilateral por COVID-19 de extensión moderada y hallazgos compatibles con exacerbación aguda de su EPI. Se discute caso con NMO (Dr [**NOMBRE_PERSONAL_SANITARIO**]) quien sugiere inicio de pulsoterapia con MPDN 250mg/d durante 3 días ([**FECHAS**]) y posteriormente  se mantiene  tratamiento corticoideo a 40mg dia  de prednisona hasta visita con  NMO donde se definira tto de fondo ( si mantiene MTX vs cambio)
+Respecto a la intercurrencia de  infección por SARS-CoV-2  ya ha cumplido el aislamiento desde el inicio de los sintomas
+Durante su estancia en sala, permanece en buen estado general, sin requerimiento de soporte ventilatorio, afebril, con analítica de control con disminución de reactantes de fase aguda
+Dada la buena evolución clinica, la ausencia de requerimiento de O2 suplementario se decide el alta  hospitalaria
+Debera realizar  controles por Neumologia, programada  telefonica para el [**FECHAS**]
+Se realizara  un TAC de control programado para el [**FECHAS**]
+4. Durante el ingreso llama la atención leucopenia-neutropenia (nadir 1920-1100) y anemia macrocítica en contexto de toma de metotrexato, por lo cual se suspende temporalmente, se  cursoa analitica con estudio de anemias, se le recomienda control para revisión y  tratamiento por su CAP y medicos habituales
+5. Paciente con antecedente de menopausia precoz, ex-fumadora, antecedente familiar en primer grado de osteoporosis, con requerimiento de tratamiento prolongado con glucocorticoides, por lo que se inicia alendronato el [**FECHAS**] y se continuan suplementos de Ca/VD. Al alta se solicita DMO ambiulatoria (tiene controles en  RMT como en NMO para ajuste del tto antiresortivo  )

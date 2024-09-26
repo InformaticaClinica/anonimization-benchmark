@@ -1,0 +1,16 @@
+ Paciente de [**EDAD_SUJETO_ASISTENCIA**], con alergia a la penicilina. Independiente para las actividades básicas de la vida diaria. No refiere hábitos tóxicos. Vive con su sobrina y su prima. Trabaja por las tardes en el negocio familiar (desde hace [**NUMERO_ANIO**] años).
+ANTECEDENTES PATOLÓGICOS:
+1. BOCIO MUTINODULAR con CÁNCER PAPILAR IZQUIERDO-ISTMO BAJO GRADO (12/2010). PAAF: BETHESDA V. Se realizó, intervención quirúrgica con TIROIDECTOMIA TOTAL + GANGLIO CENTINELA + VACIAMIENTO CENTRAL el 3.1.2011.
+**Actualmente presenta un Hipotiroidismo secundario por el cual recibe tratamiento sustitutivo con eutirox.
+** Último control 12/02/12: ecografia de tiroides sin imágenes de recidiva local.
+2. HIPERTENSIÓN ARTERIAL. Mantiene tratamiento sintomático. No presenta lesión en órganos diana. Seguimiento por su médico de atención primaria.
+3. GASTRITIS CRÓNICA ATRÓFICA LEVE-MODERADA CON METAPLASIA INTESTINAL.
+Hizo tratamiento por HP positivo (que negativizó posteriormente). Última FGS (21/08/11) con mucosa gástrica atrófica. Biopsias: periste GCA leve- moderado con ausencia de microorganismos compatibles con HP. Ausencia de metaplasia intetsinal. Mantiene tratamiento sintomático y con FGS control con biopsias en 2a.
+5.Tendinitis manguito rotadores. Epicondilitis. Esguince de tobillo.
+- RMN cervical (4/10): Discopatía degenerativa y artrosis facetaria en C3- C4,C4-C5, C5-C6 y C6-C7 sin compromiso de espacio mielorradicular.
+6. DOLOR TORÁCICO ATÍPICO en tratamiento antiagregante y betabloqueante.
+diagnosticado el 8/07/11 a raiz de episodios de dolor torácico atípico al esfuerzo de 3 años de evolución que mejora en reposo.
+**ETT (04/12) con VI ligeramente hipertrófico, no dilatado, sin segmentarismos, FEVI 60%.
+**[**FRECUENCIA_LATIDO_MINUTO**], [**TIEMPO_INTERVALO_PR**], eje +30o, QRS [**DURACION_QRS**] ms, Q en DIII con ST rectificado y T aplanado en cara inferior, T aplanadas en I y AVL y T negativas V4-V6.
+**Coronariografia (6/08/11): Conclusiones: dominancia derecha con arterias coronarias sin lesiones angiográficamente significativas.
+TRATAMIENTO HABITUAL: eutirox [**DOSIS_EUTIROX**]mg/dia, bisoprolol [**DOSIS_BISOPROLOL**]mg/24h, AAS [**DOSIS_AAS**]mg/dia, ramipril [**DOSIS_RAMIPRIL**]mg/dia, omeprazol [**DOSIS_OMEPRAZOL**] mg /12h, atorvastatina [**DOSIS_ATORVASTATINA**] mg/24h, paracetamol [**DOSIS_PARACETAMOL**] mg /8h.

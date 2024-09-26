@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresada por neumonia por covid, DD >100000. Solicitamos Angio TC para descartar TEP.
+INFECCIÓN POR COVID
+
+protocolo:
+ANGIO-TC PULMONAR mediate energia dual + TC ABDOMINO-PELVICO-EEII (hasta rodillas.)
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tras el posprocesado de las imágenes adquiridas mediante energía dual no se observan defectos de perfusión en los mapas de iodo. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Áreas de consolidación bilaterales y subpleurales situadas predominantemente a nivel de ambos lóbulos inferiores con disposición en banda que presentan ténues áreas de vidrio deslustrado circundante, todo en relación a neumonía por COVID-19. Afectan aproximadamente a un 20% del parénquima pulmonar. En algunos puntos se identifican áreas de halo reverso así como bronquiolectasias lo que podría estar en relación a áreas de neumonia organizativa sobreañadida. Granuloma calcificado en segmento posterobasal de lóbulo inferior izquierdo.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Calcificaciones ateromatosas en vasos coronarios.
+Leve derrame pleural bilateral. Leve derrame pericardico
+Calcificaciones groseras en ambas glándulas mamarias.
+Hígado sin alteraciones. Vena porta permeable. Páncreas, bazo, glándulas suprarrenales y riñones sin alteraciones. No se observa dilatación de la vía excretora. Vejiga urinaria colapsada con sonda Foley en su interior.
+Severa ateromatosis calcificada en el eje aortoiliaco. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+Asas de intestino delgado y marco colonico sin alteraciones relevantes.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Leve cantidad de líqudo en fondo de saco de Douglas.
+Ambas v. femorales comúnes, superficiales y profundas permeables. V.
+poplíteas permeables.
+
+conclusiones:
+- No se observa TEP ni TVP.
+- Hallazgos en relación a neumonia bilateral por COVID-19 con zonas de neumonia organizativa sobreañadida.
+
+descrip:
+ANGIO TC PULMONAR

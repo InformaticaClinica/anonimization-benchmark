@@ -1,0 +1,69 @@
+ Primera llamada HDOM COVID-19 POSITIVO
+Trabaja en [**PROFESION**]
+Vive con hermana comparten baño
+Ant med: niega
+Alergias: niega
+Fecha frotis: [**FECHAS**]
+Fecha inicio síntomas: [**FECHAS**] con fiebre y cefalea.
+- Fiebre: [**NUMERO_TELEFONO**]
+- Dísnea:-
+- Tos: seca
+- Diarrea:-
+- Otros:-
+med: paracetamol [**NUMERO_TELEFONO**]
+PLAN: se explican medidas de aislamiento, nueva llamada en [**FECHAS**].
+Tomar temperatura dos veces al día.Doy teléfonos de contacto de lunesa domingo de [**NUMERO_TELEFONO**] y fuera de este horario [**NUMERO_TELEFONO**]
+Llamada de control HDOM COVID-19 positivo
+Fecha frotis SARS-Cov2: [**FECHAS**]
+Tto med: paracetamol [**NUMERO_TELEFONO**]
+- Fiebre: [**NUMERO_TELEFONO**]
+- Dísnea: -
+- Tos: -
+- Diarrea: -
+- Otros: -
+PLAN: recuerdo medidas de aislamiento. Nueva llamada el [**FECHAS**]
+Llamada de control HDOM COVID-19 positivo
+Fecha frotis SARS-Cov2: [**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+.
+- Fiebre: -
+- Dísnea: -
+- Tos: muy leve, seca, no productiva.
+- GI: 2 deposiciones de consistencia blanda ayer, no productos patol. No náuseas, no vómitos.
+- Otros: no anosmia, no ageusia.
+.
+PLAN: recuerdo medidas de aislamiento. Nueva llamada el [**FECHAS**]
+Llamada de control HDOM COVID-19 positivo:
+Fecha frotis SARS-Cov2: [**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: muy leve, seca.
+- GI: 1 deposicion ayer de consistencia blanda, no productos patologicos. No náuseas, no vómitos.
+- Otros: No anosmia, No ageusia.
+PLAN:
+Recuerdo medidas de aislamiento.
+Hidratacion.
+Nueva llamada en [**FECHAS**]
+Llamada de control HDOM COVID-19 positivo:
+Fecha frotis SARS-Cov2: [**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: - (no desde el [**FECHAS**])
+- GI: -
+- Otros: ha recuperado gusto y olfato.
+.
+Desde el martes [**FECHAS**] no diarrea.
+.
+PLAN: valorar alta lunes [**FECHAS**]
+Llamada de control HDOM COVID-19 positivo:
+Fecha frotis SARS-Cov2: [**FECHAS**]
+Tto med: - (no toma paracetamol desde [**FECHAS**])
+- Fiebre: -
+- Dísnea: -
+- Tos: - (no desde el [**FECHAS**])
+- GI: -
+- Otros: ha recuperado gusto y olfato.
+Desde el martes [**FECHAS**] no diarrea.
+PLAN: Doy Alta

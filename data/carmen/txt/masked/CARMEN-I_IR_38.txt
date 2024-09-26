@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+paciente que presenta 3 crisis convulsivas mientras esperaba en urgencias por metrorragia. Se procede a sedación e IOT. Ruego descartar complicación SNC ya que no tiene antecedentes previos y realizar TC tórax para descartar infección por covid
+Convulsión
+
+protocolo:
+TC tórax realizado en condiciones basales
+
+resultados:
+Exploración parcialmente valorable por artefactos de movimiento.
+Tubo endotraqueal con extremo distal a 30 mm de la carina.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Focos consolidativos nodulares y en vidrio dslustrado en segmento basal lateral de lóbulo inferior derecho y menos evidentes en lóbulo inferior izquierdo. Patrón COMPATIBLE con infección por COVID19, dado el contexto epidemiológico actual.
+Atelectasias laminares bibasales.
+
+conclusiones:
+Patrón COMPATIBLE con infección por COVID19, dado el contexto epidemiológico actual.
+
+descrip:
+TC TORAX

@@ -1,0 +1,21 @@
+
+prueba:
+ESTUDIO DEGLUCION
+
+clinica:
+Paciente post covid portador de traqueostomia, con sospecha de neumonia de aspiración, solicitamos estudio para descartar anomalía en deglución.
+Gracias.
+Intubación prolongada
+
+protocolo:
+Estudio de la deglución
+
+resultados:
+Movimientos deglutorios muy lentos en la fase oral.
+Administramos  la tres texturas de contraste con volúmenes progresivos de 5, 10 y 20 ml sin observar paso de contraste a vías aéreas.
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

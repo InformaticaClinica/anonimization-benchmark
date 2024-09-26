@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] con neumonía bilateral por COVID desde el [**FECHAS**] con requerimientos crecientes de O2; actualmente con LAF 60%. Ruego angioTC preferente para descartar NOC/TEP. Gracias
+NEUMONIA COVID-2
+
+protocolo:
+Estudio de angio-TC pulmonar.
+
+resultados:
+Aneurisma de aorta toracica
+AA 6cm AD 4cm
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Multiples áreas en vidrio deslustrado de distribución periferica y bilateral con presencia de bandas subpleurales y de halo invertido.
+algunos focos nodulares de aspecto mas consolidativo. Todo ello sugestivo de evolucion a neumopatia organizativa.
+No imágenes de TEP.
+
+conclusiones:
+ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,8 @@
+T1	ENFERMEDAD 29 41	colelitiasis
+T2	ENFERMEDAD 156 169	neo de vejiga
+T3	ENFERMEDAD 89 108	cálculo en colédoco
+T4	PROCEDIMIENTO 66 108	CPRe con extracción de cálculo en colédoco
+T5	PROCEDIMIENTO 199 222	colecistectomia por LPS
+T6	HUMANO 1 9	Paciente
+T7	SINTOMA 117 169	portador de Bricker por antecedente de neo de vejiga
+T8	PROCEDIMIENTO 117 136	portador de Bricker

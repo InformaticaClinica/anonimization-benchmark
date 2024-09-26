@@ -1,0 +1,19 @@
+T6	SPECIES 7 17	SARS-CoV-2
+T7	SPECIES 165 174	S. aureus
+T8	SPECIES 206 232	flora habitual o sapròfita
+T9	SPECIES 240 250	SARS-CoV-2
+T10	SPECIES 310 320	SARS-CoV-2
+T11	SPECIES 112 132	BGNs multiresistents
+T12	PROCEDIMIENTO 73 86	FROTIS RECTAL
+T13	PROCEDIMIENTO 134 140	Cultiu
+T14	PROCEDIMIENTO 3 44	PCR SARS-CoV-2 frotis naso- y orofaríngeo
+T15	SINTOMA 7 69	SARS-CoV-2 frotis naso- y orofaríngeo ([**FECHAS**]): positivo
+T16	PROCEDIMIENTO 152 164	FROTIS NASAL
+T17	SINTOMA 134 148	Cultiu Negatiu
+T18	SINTOMA 73 132	FROTIS RECTAL ([**FECHAS**]): Detecció BGNs multiresistents
+T19	SINTOMA 152 174	FROTIS NASAL S. aureus
+T20	PROCEDIMIENTO 236 277	PCR SARS-CoV-2 frotis naso- y orofaríngeo
+T21	SINTOMA 240 302	SARS-CoV-2 frotis naso- y orofaríngeo ([**FECHAS**]): positivo
+T22	SINTOMA 310 372	SARS-CoV-2 frotis naso- y orofaríngeo ([**FECHAS**]): positivo
+T23	PROCEDIMIENTO 306 347	PCR SARS-CoV-2 frotis naso- y orofaríngeo
+T24	PROCEDIMIENTO 191 205	Cultiu S'aïlla

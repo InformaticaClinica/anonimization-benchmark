@@ -1,0 +1,22 @@
+T8	ENFERMEDAD 35 43	Covid-19
+T9	PROCEDIMIENTO 384 396	Urinocultivo
+T10	SINTOMA 411 439	Leucocitos en orina negativo
+T11	SINTOMA 441 467	nitritos en orina negativo
+T12	PROCEDIMIENTO 3 16	MICROBIOLOGÍA
+T13	PROCEDIMIENTO 70 104	Antigenúria Legionella pneumophila
+T14	PROCEDIMIENTO 180 191	Urinocultiu
+T15	PROCEDIMIENTO 269 276	Cultivo
+T16	PROCEDIMIENTO 289 299	Hemocultiu
+T17	PROCEDIMIENTO 346 357	Hemocultivo
+T18	SPECIES 314 327	S.epidermidis
+T19	SPECIES 82 104	Legionella pneumophila
+T20	SPECIES 29 43	virus Covid-19
+T21	PROCEDIMIENTO 20 43	Detecció virus Covid-19
+T22	SINTOMA 29 66	virus Covid-19 (16/01/2025): Positivo
+T23	SINTOMA 70 127	Antigenúria Legionella pneumophila (18/01/2025): Negativo
+T24	SPECIES 142 154	S. pneumonia
+T25	PROCEDIMIENTO 130 154	Antigenúria S. pneumonia
+T26	SINTOMA 130 177	Antigenúria S. pneumonia (18/01/2025): Negativo
+T27	SINTOMA 269 285	Cultivo Negativo
+T28	SINTOMA 289 327	Hemocultiu (18/01/2025): S.epidermidis
+T29	SINTOMA 346 380	Hemocultivo (21.01.2025): negativo

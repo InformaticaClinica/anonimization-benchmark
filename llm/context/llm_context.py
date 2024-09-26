@@ -1,6 +1,4 @@
-# llm_context/llm_context.py
 from llm.strategy.llm_strategy import LLMStrategy
-
 
 class LLMContext:
     def __init__(self, strategy: LLMStrategy):

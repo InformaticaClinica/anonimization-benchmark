@@ -1,0 +1,27 @@
+
+prueba:
+TC CADERA
+
+clinica:
+Sospecha de fractura patológica. Podría requerir síntesis con prótesis de vástago largo. Por favor valorar fémur completo.
+Gracias
+Fractura trocanteriana no especificada,fèmur esquerre, A
+
+protocolo:
+TAC FEMUR IZQUIERDO
+
+resultados:
+Fractura conminuta pertrocantérea con leve corticalización de algúnos márgenes, lo que sugiere subaguda. No hay lisis de márgenes que sugieran lesión subyacente.
+Hay conminuta y desplazamiento del trocánter menor y mayor, con tumefacción de p.blandas.
+Osificación anterosuperior al trocánter mayor (tal vez por entesopatía previa).
+Liquido articular y tumefacción de p.blandas musculares, subcutáneas e intermusculares que se extiende a muslo, postraumático.
+Cadera izda con pinzamiento articular por cambios degenerativos.
+Osificación del lig. transvero sugeriría hiperóstosis ósea esquelética difusa.
+Calcificaciones entesopáticas.
+Cadera dcha con clavo endomedular por fractura previa de fémur consolidada.
+
+conclusiones:
+Fractura conminuta pertrocantérea izda subaguda sin consolidar, sin lesiones subyacentes que sugiera patológica.
+
+descrip:
+TC CADERA

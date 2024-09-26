@@ -1,0 +1,33 @@
+T3	PROCEDIMIENTO 112 126	Pulsioximetría
+T4	PROCEDIMIENTO 279 306	Auscultación cardiopulmonar
+T5	PROCEDIMIENTO 561 588	Auscultación cardiopulmonar
+T6	PROCEDIMIENTO 384 416	palpación en hipocondrio derecho
+T7	PROCEDIMIENTO 666 698	palpación en hipocondrio derecho
+T8	SINTOMA 209 228	buen estado general
+T9	SINTOMA 491 510	buen estado general
+T10	SINTOMA 182 207	hemodinámicamente estable
+T11	SINTOMA 230 254	Ictericia subconjuntival
+T12	SINTOMA 256 262	Febril
+T13	SINTOMA 264 272	Eupneico
+T14	SINTOMA 464 489	hemodinámicamente estable
+T15	SINTOMA 512 536	Ictericia subconjuntival
+T16	SINTOMA 538 544	Febril
+T17	SINTOMA 546 554	Eupneico
+T18	SINTOMA 370 416	Doloroso a la palpación en hipocondrio derecho
+T19	SINTOMA 418 426	Murphy +
+T20	SINTOMA 315 356	ABD blando y depresible, ruidos presentes
+T21	SINTOMA 361 368	ascitis
+T22	SINTOMA 279 313	Auscultación cardiopulmonar normal
+T23	SINTOMA 561 595	Auscultación cardiopulmonar normal
+T24	SINTOMA 597 638	ABD blando y depresible, ruidos presentes
+T25	SINTOMA 643 650	ascitis
+T26	SINTOMA 428 438	NRL normal
+T27	SINTOMA 700 708	Murphy +
+T28	SINTOMA 652 698	Doloroso a la palpación en hipocondrio derecho
+T29	SINTOMA 710 720	NRL normal
+T30	ENFERMEDAD 361 368	ascitis
+T31	ENFERMEDAD 643 650	ascitis
+T32	HUMANO 173 181	paciente
+T33	HUMANO 455 463	paciente
+T34	PROCEDIMIENTO 418 424	Murphy
+T35	PROCEDIMIENTO 700 706	Murphy

@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente que presentó eumonía grave por SARS-CoV-2, actualmente tras un mes de evolución persiste con requerimeitno de LN a 1-2L. Solicitamos TC torácico para descartar neumonía organizativa.
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+Catéter venoso central en vena subclavia derecha con extremo distal en vena cava superior.
+Discretas calcificaciones parietales aórticas, principalmente a nivel de cayado, y de arterias coronarias.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+Parénquima pulmonar con presencia de escasas y tenues opacidades en vidrio deslustrado y múltiples focos consolidativos, de distribución peribroncovascular y periférica, algunos con  morfología perilobular y asociado a ectasias bronquiales y bandas subpleurales, con una mayor afectación de LSI y ambos LLII. Hallazgos en relación con cambios organizativos postneumonia bilateral por COVID-19 en resolución.
+Bronquiectasias cilíndricas difusas de predominio bibasal.
+No se observa derrame pleural ni pericárdico.
+Cambios degenerativos en columna torácica.
+
+conclusiones:
+Afectación parenquimatosa pulmonar descrita en relación con cambios organizativos postneumonia bilateral por COVID-19 en resolución.
+
+descrip:
+TC TORAX

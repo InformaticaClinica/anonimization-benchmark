@@ -1,0 +1,46 @@
+T10	FARMACO 154 164	Ibuprofeno
+T11	FARMACO 322 332	penicilina
+T12	FARMACO 399 410	Ceftriaxona
+T13	FARMACO 275 285	penicilina
+T14	PROCEDIMIENTO 952 975	tratamiento erradicador
+T15	SINTOMA 198 208	hemoptisis
+T16	SINTOMA 295 308	caída de pelo
+T17	SINTOMA 558 568	hemoptisis
+T18	SINTOMA 605 630	Rx tórax sin alteraciones
+T19	SINTOMA 632 661	TAC torácico sin alteraciones
+T20	SINTOMA 745 755	hemoptisis
+T21	SINTOMA 786 811	Rx tórax sin alteraciones
+T22	SINTOMA 933 942	dispepsia
+T23	ENFERMEDAD 1524 1598	cambios degenerativos en las articulaciones interapofisarias L4-L5 y L5-S1
+T24	ENFERMEDAD 76 91	hábitso tóxicos
+T25	ENFERMEDAD 244 261	reacción alérgica
+T26	ENFERMEDAD 367 384	reacción alérgica
+T27	ENFERMEDAD 980 1005	HIPOTIROIDISMO SUBCLÍNICO
+T28	ENFERMEDAD 1080 1135	OSTEOPOROSIS CON FRACTURA DE RAMA ILEO E ISQUIO-PUBIANA
+T29	ENFERMEDAD 1151 1168	LUMBALGIA CRÓNICA
+T30	ENFERMEDAD 1247 1286	Megaapofisis transversa izquierda de L5
+T31	ENFERMEDAD 1356 1372	discopatia L4-L5
+T32	ENFERMEDAD 1494 1504	discopatia
+T33	ENFERMEDAD 1704 1769	pseudoprotrusiones discales asociadas a las listesis que en L4-L5
+T34	ENFERMEDAD 1909 1943	estenosis de los recesos laterales
+T35	PROCEDIMIENTO 1190 1193	RNM
+T37	HUMANO 26 31	Mujer
+T38	HUMANO 169 177	paciente
+T39	SPECIES 884 893	H. PYLORI
+T40	ENFERMEDAD 265 285	alergia a penicilina
+T41	ENFERMEDAD 144 164	alergia a Ibuprofeno
+T42	SINTOMA 472 482	HEMOPTISIS
+T43	ENFERMEDAD 521 532	ANEMIZACIÓN
+T44	SINTOMA 493 517	REPERCUSIÓN HEMODINÁMICA
+T45	SINTOMA 579 603	repercusión hemodinámica
+T46	PROCEDIMIENTO 605 613	Rx tórax
+T47	PROCEDIMIENTO 632 644	TAC torácico
+T48	SINTOMA 760 784	repercusión hemodinámica
+T49	PROCEDIMIENTO 786 794	Rx tórax
+T50	ENFERMEDAD 870 893	GASTRITIS POR H. PYLORI
+T51	ENFERMEDAD 1171 1187	DISCOPATÍA L4-L5
+T52	SINTOMA 1201 1245	Incremento de la lordosis fisiologica lumbar
+T53	ENFERMEDAD 1218 1226	lordosis
+T54	ENFERMEDAD 1615 1669	anterolistesis grado I de L4 sobre L5 y de L5 sobre S1
+T55	SINTOMA 1849 1890	reducen las dimensiones del canal central
+T56	SINTOMA 1386 1463	discos lumbares muestra una alteracion de su señal que traduce deshidratacion

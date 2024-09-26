@@ -1,0 +1,5 @@
+
+PAciente de [**EDAD_SUJETO_ASISTENCIA**] derivada de residencia por gonalgia izquierda y exudado purulento a dicho nivel.
+PAciente con antecente de artrodesis rodilla izquierda.
+[**FECHAS**] GEMINI izq [**FECHAS**] REVISION APARATO EXTENSOR - SUTURA +BOTON PATELAR + EPIFLEX [**FECHAS**] DAIR PTR izq [**FECHAS**] EMO PTR + ESPACIADOR BLOQUE CON ALMA METÁLICA + COLGAJO GEMELO [**FECHAS**] Infeccion persistente sobre espaciador rodilla izq: artrodesis con FE + colgajo gemelo interno. (cultivos intraop negativos). Micro: [**FECHAS**]. E. Coli BLEA / Pseudomona. [**FECHAS**]: MRSA en frotis herida.
+ 

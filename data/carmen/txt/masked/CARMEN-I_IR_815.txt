@@ -1,0 +1,29 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente con resección intestinal por isquemia intestinal hace 2 meses, ahora COVID+. Presenta empeoramiento respiratorio franco con roncus y crepitantres. Abdomen con defensa en fosa iliaca derecha. Pico febril.
+Está anúrico. Ya cubierto con antibioterapia. Rogamos TAC para descartar colección a nivel abdominal, y a nivel respiratorio empeoramiento COVID vs neumonia broncoaspirativa.
+
+protocolo:
+TC abdominal  con administración de contraste e.v. y adquisición de imágenes en fases arterial tardía y portal.
+
+resultados:
+Se compara con estudio previo del [**FECHAS**].
+Cambios postquirúrgicos en relación a hemicolectomía derecha y resección de asas ileo-yeyunales con ileostomía terminal en FID y anastomosis yeyuno-ileal latero-lateral. Muñón libre de cólon transverso distal en mesogastrio.
+Colección polilobulada de paredes captantes y con alguna burbuja de gas en su interior localizada en la fosa ilíaca derecha, adyacente al aspecto craneal de la anastomosis yeyuno-ileal, con la cual presenta un dudoso trayecto de comunicación. Estos hallazgos no permiten descartar una dehiscencia/perforación de la misma.
+Leve cantidad de líquido libre entre asas intestinales, en raíz del mesenterio y pelvis, en cantidad discretamente mayor respecto el estudio previo.
+SNG con extremo distal en región antropilórica. Hernia de Spiegel en FII que contiene grasa mesentérica, un segmento de sigma y una mínima cantidad de líquido, sin cambios. No se aprecia dilatación del sigma ni signos de sufrimiento. Resto de asas intestinales de calibre conservado y con una normocaptación parietal de contraste.
+Colección laminar de paredes captantes y 8 mm de grosor en el tejido celular subcutáneo de la pared abdominal anterior, coincidiendo con la localización del hematoma descrito en el estudio previo. Coil metálico en el m. recto abdominal anterior derecho en relación a embolización arterial.
+Hígado de tamaño y morfología normales. Estabilidad de la ténue hipodensidad subcapsular en el aspecto anterior del segmento IVb-V, en probable relación a esteatosis focal. No se identifican otras lesioes focales sólidas. Vesícula biliar de paredes finas y litiásica. Vía biliar no dilatada.
+Vena porta y eje espleno-mesentérico permeables. Ateromatosis calcificada aortoilíaca. Aorta, tronco celíaco y arterias mesentéricas superior e inferior permeables. Stent en el origen de la AMS, permeable.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones. No se aprecian adenopatías retroperitoneales ni pélvicas valorables. Riñones de tamaño y morfología normales, con una correcta captación de contraste. Quistes corticales simples bilaterales, el mayor de 4.4 cm en riñón derecho. Vías excretoras no dilatadas. Vejiga urinaria colapsada con sonda vesical en su interior.
+
+conclusiones:
+- Cambios postquirúrgicos en relación a hemicolectomía derecha y resección de asas ileo-yeyunales.
+- Colección polilobulada de nueva aparición en FID localizada adyacente a la anastomosis yeyuno-ileal, con la cual presenta un dudoso trayecto de comunicación. Hallazgos que no permiten descartar una dehiscencia/perforación de la misma.
+- Leve cantidad de líquido libre intraabdominal en cantidad discretamente mayor respecto el estudio previo.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

@@ -1,0 +1,27 @@
+
+* MICROBIOLOGÍA:
+* FROTIS NASOFARÍNGEO PCR SARS-Cov2
+- ([**FECHAS**]): positivo
+- ([**FECHAS**]): negativo
+* HEMOCULTIVOS:
+- [**FECHAS**] (2/2): Staphylococcus epidermidis
+- [**FECHAS**] (2/2): Staphylococcus hominis hominis
+- [**FECHAS**] (2/2): negativo
+- [**FECHAS**] catéter vascular arterial: negativo
+- [**FECHAS**] (2/2): negativo
+- [**FECHAS**] (1/2): Staphylococcus haemolyticus (probable contaminación)
+- [**FECHAS**] catéter vascular arterial: negativo
+- [**FECHAS**] (2/2): Staphylococcus epidermidis
+- [**FECHAS**] catéter vascular venoso: <15 UFC S.epidermidis
+- [**FECHAS**] (2/2): Negativo
+* DETERMINACIÓN AGA ([**FECHAS**], [**FECHAS**], [**FECHAS**]): negativo
+* BRONCOASPIRADO:
+- [**FECHAS**] negativo
+- [**FECHAS**] y [**FECHAS**]: se aislan colonias de Fusarium prolificans
+- [**FECHAS**] negativo
+* ANTIGENURIA S.pneumoniae y L.pneumophila ([**FECHAS**]): negativo
+* QUANTIFERON ([**FECHAS**]): indeterminado
+* URINOCULTIVO ([**FECHAS**]): P.aeruginosa multisensible
+* CATÉTER VASCULAR ([**FECHAS**]): En curso
+* COPROCULTIVO ([**FECHAS**]): Toxina C. difficile negativa. Coprocultivo en curso.
+ 

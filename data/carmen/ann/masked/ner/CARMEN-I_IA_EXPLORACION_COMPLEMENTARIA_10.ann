@@ -1,0 +1,54 @@
+T6	PROCEDIMIENTO 3 17	ECOCARDIOGRAMA
+T7	PROCEDIMIENTO 774 788	ECOCARDIOGRAMA
+T8	PROCEDIMIENTO 1369 1372	ECG
+T9	PROCEDIMIENTO 1488 1508	RADIOGRAFÍA DE TÓRAX
+T10	PROCEDIMIENTO 2316 2357	estudio adquirido sincronizado con el ECG
+T11	PROCEDIMIENTO 2359 2370	Gated-SPECT
+T12	PROCEDIMIENTO 2628 2657	cálculo automático de la FEVI
+T13	PROCEDIMIENTO 431 525	Substitució de vàlvula aòrtica i aorta ascendent per biopròtesi MAGNA25 més injert Vascutek 28
+T14	PROCEDIMIENTO 1678 1760	TOMOGAMMAGRAFÍA MIOCÁRDICA DE PERFUSIÓN POSTINTERVENCIÓN FARMACOLÓGICA Y EN REPOSO
+T15	PROCEDIMIENTO 2291 2308	estudio de reposo
+T16	PROCEDIMIENTO 2119 2187	estudio realizado después del esfuerzo farmacológico con Regadenoson
+T17	SINTOMA 160 195	hipocinesia severa segments mitjans
+T18	SINTOMA 246 251	massa
+T19	SINTOMA 660 685	Ventricle dret no dilatat
+T20	SINTOMA 948 983	hipocinesia severa segments mitjans
+T21	SINTOMA 1034 1059	Ventricle dret no dilatat
+T22	SINTOMA 1399 1412	Q en III, avF
+T23	SINTOMA 1414 1434	T invertidas difusas
+T24	SINTOMA 1465 1484	alteraciones del ST
+T25	SINTOMA 1623 1650	ensanchamiento mediastinico
+T26	SINTOMA 2407 2473	engrosamiento sistólico de la zona apical del ventrículo izquierdo
+T27	SINTOMA 2483 2494	hipocinesia
+T28	ENFERMEDAD 317 324	trombus
+T29	ENFERMEDAD 326 364	Insuficiència mitral lleugera-moderada
+T30	ENFERMEDAD 563 599	Hipertensió pulmonar moderada-severa
+T31	ENFERMEDAD 604 658	insuficiència tricuspídea lleugera-moderada secundària
+T32	ENFERMEDAD 750 770	vessament pericàrdic
+T33	ENFERMEDAD 1174 1203	Insuficiència mitral moderada
+T34	ENFERMEDAD 1270 1306	Hipertensió pulmonar moderada-severa
+T35	ENFERMEDAD 1311 1365	insuficiència tricuspídea lleugera-moderada secundària
+T36	ENFERMEDAD 1563 1578	derrame pleural
+T37	ENFERMEDAD 1812 1834	dilatación ventricular
+T38	ENFERMEDAD 2696 2719	miocardiopatía dilatada
+T39	ENFERMEDAD 2737 2745	isquemia
+T40	ENFERMEDAD 2881 2909	infarto apical no transmural
+T41	ENFERMEDAD 34 75	Ventricle esquerre severament hipertròfic
+T42	SINTOMA 369 429	jet excèntric dirigit a paret lateral de l'aurícula esquerra
+T43	SINTOMA 660 709	Ventricle dret no dilatat, severament hipocinètic
+T44	SINTOMA 711 742	Cable de MCP en cavitats dretes
+T45	SINTOMA 34 158	Ventricle esquerre severament hipertròfic, no dilatat amb motilitat global severament reduïda per acinèsia/discinèsia apical
+T46	SINTOMA 1034 1083	Ventricle dret no dilatat, severament hipocinètic
+T47	ENFERMEDAD 1101 1115	trombus apical
+T48	SINTOMA 1208 1268	jet excèntric dirigit a paret lateral de l'aurícula esquerra
+T49	ENFERMEDAD 805 846	Ventricle esquerre severament hipertròfic
+T50	SINTOMA 805 946	Ventricle esquerre severament hipertròfic, no dilatat a nivell basal i amb motilitat global severament reduïda per acinèsia/discinèsia apical
+T51	SINTOMA 533 561	fuites residuals detectables
+T52	SINTOMA 1534 1557	redistribucion vascular
+T53	SINTOMA 1583 1611	alteraciones parenquimatosas
+T54	SINTOMA 2204 2245	defecto de perfusión apical y laterobasal
+T55	PROCEDIMIENTO 2673 2692	Patrón gammagráfico
+T56	PROCEDIMIENTO 2797 2816	Patrón gammagráfico
+T57	SINTOMA 1851 1874	actividad extracardiaca
+T58	SINTOMA 1913 1936	actividad extracardiaca
+T59	SINTOMA 2584 2607	actividad extracardiaca

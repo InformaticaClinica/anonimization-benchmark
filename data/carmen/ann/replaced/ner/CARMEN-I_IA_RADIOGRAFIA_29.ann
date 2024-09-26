@@ -1,0 +1,52 @@
+T17	PROCEDIMIENTO 1 9	Rx tórax
+T18	PROCEDIMIENTO 217 228	radiografía
+T19	PROCEDIMIENTO 681 686	TACAR
+T20	PROCEDIMIENTO 757 763	PET-TC
+T21	PROCEDIMIENTO 1448 1456	Rx tórax
+T22	PROCEDIMIENTO 1656 1664	Rx tórax
+T23	PROCEDIMIENTO 1923 1931	Rx tòrax
+T24	PROCEDIMIENTO 2210 2218	Rx tórax
+T25	PROCEDIMIENTO 2497 2502	TACAR
+T26	PROCEDIMIENTO 2747 2749	TC
+T27	PROCEDIMIENTO 37 39	Rx
+T28	PROCEDIMIENTO 567 578	radiografía
+T29	PROCEDIMIENTO 1643 1645	RX
+T30	PROCEDIMIENTO 2532 2534	TC
+T31	SINTOMA 1132 1145	consolidación
+T32	SINTOMA 1158 1183	broncograma aéreo) en LSI
+T33	SINTOMA 2773 2791	vidrio deslustrdao
+T34	SINTOMA 2803 2838	opacidades reticulares subplaurales
+T35	SINTOMA 2853 2931	consolidaciones en ambos lLSS de distribución perilobular y peribroncovascular
+T36	ENFERMEDAD 261 280	infección por COVID
+T37	ENFERMEDAD 426 440	sobreinfección
+T38	ENFERMEDAD 502 520	neumonía por COVID
+T39	ENFERMEDAD 665 679	sobreinfección
+T40	ENFERMEDAD 713 743	derrame pleural ni pericárdico
+T41	ENFERMEDAD 1240 1261	infección por COVID19
+T42	ENFERMEDAD 1590 1595	COVID
+T43	ENFERMEDAD 1829 1858	afectación pulmonar por COVID
+T44	ENFERMEDAD 2565 2602	adenopatías mediastínicas ni axilares
+T45	ENFERMEDAD 2638 2653	derrame pleural
+T46	ENFERMEDAD 2664 2683	derrame pericárdico
+T47	SINTOMA 63 73	OPACIDADES
+T48	SINTOMA 101 123	opacidades bilaterales
+T49	SINTOMA 351 393	Consolidación lobar campo superior del LII
+T50	SINTOMA 442 460	PATRÓN INTRSTICIAL
+T51	SINTOMA 587 633	Consolidación presente en campo medio pulmonar
+T52	SINTOMA 811 889	afectación consolidativa con cambios organizativos de ambos lóbulos inferiores
+T53	SINTOMA 939 1023	focos de vidrio deslustrado periféricos y subpleurales en lóbulos superiores y medio
+T54	SINTOMA 1036 1062	área de vidrio deslustrado
+T55	SINTOMA 1074 1097	engrosamientos septales
+T56	SINTOMA 1099 1111	crazy paving
+T57	SINTOMA 1273 1325	afetación es exclusiva de lóbulos superiores y medio
+T58	SINTOMA 1469 1569	Focos alveolares y en vidrio deslustrado de predominio periférico en campos medios de ambos pulmones
+T59	SINTOMA 1676 1798	Opacidades alveolo-intersticiales bilaterales de predominio periférico, con mayor afectación de campos superiores y medios
+T60	SINTOMA 1956 2017	opacidades alveolo-intersticiales en ambos lóbulos superiores
+T61	SINTOMA 2082 2095	consolidación
+T62	SINTOMA 2243 2304	opacidades alveolo-intersticiales en ambos lóbulos superiores
+T63	ENFERMEDAD 2936 2960	dilataciones bronquiales
+T64	PROCEDIMIENTO 526 542	radiológicamente
+T1	SINTOMA 298 323	empeoramiento radiológico
+T2	PROCEDIMIENTO 312 323	radiológico
+T3	SINTOMA 2697 2716	Mejoría radiológica
+T4	PROCEDIMIENTO 2705 2716	radiológica

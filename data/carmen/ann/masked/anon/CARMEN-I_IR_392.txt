@@ -1,0 +1,21 @@
+
+prueba:
+OTRAS EMBOLIZACIONES
+
+clinica:
+Fibrilación auricular
+
+resultados:
+Acceso vascular por la arteria femoral común derecha (5 Fr).
+Realizamos aortografía y arteriografía desde arteria ilíaca común izquierda sin evidencia de focos de sangrado activo.
+Oclusión de la arteria ilíaca interna izquierda en el origen.
+La arteria iliolumbar nace de la ilíaca común en una disección en la luz falsa.
+Estudiamos desde L3 a L5 selectivamente e iliolumbar y embolizamos mediante espongostán dado que no se observan extravasaciones de contraste en este momento.
+
+conclusiones:
+No se aprecia hemorragia activa en este momento.
+Embolizamos mediante espongostán iliolumbar y lumbares izquiedas L3 y L5.
+Cierre mediante StarClose.
+
+descrip:
+OTRAS EMBOLIZACIONES

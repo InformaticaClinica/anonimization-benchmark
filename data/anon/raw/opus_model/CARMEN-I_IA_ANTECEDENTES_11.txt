@@ -1,0 +1,15 @@
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] sin alergias medicamentosas conocidas, exfumadora de [**FECHAS**], sin hábito enólico. Vive sola pero con apoyo cercano de sus hijos. Independiente para las actividades de la vida diaria. No vacunada contra SARS-CoV-2.
+ANTECEDENTES PATOLÓGICOS:
+- HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+- DISLIPEMIA en tratamiento farmacológico.
+- HERNIA DE HIATO. Pendiente de intervención quirúrgica que la paciente ha rechazado con anterioridad. *Fibrogastroscopia de [**FECHAS**]: Mucosa heterotópica de afectación circunferencial en tercio distal del esófago. Hernia de hiato de gran tamaño. Antritis moderada no erosiva.
+*Anatomía patológica de esófago : Metaplasia columnar de mucosa esofágica sin signos de displaisa. Inflamación crónica sin signos de actividad.
+*Anatomía patológica de estómago: Gastritis crónica atrófica con actividad focal leve. No se identifican gérmenes.
+- ESÓFAGO DE BARRET sin displasia en anatomía patológica de [**FECHAS**].
+- PROLAPSO DE VÁLVULA MITRAL con insuficiencia mitral leve diagnosticado por cardiologo de la privada a raíz  de cuadro de dolores torácicos atípicos. Se realizó una prueba de esfuerzo que fué normal y un AngioTC de coronarias con leve ateromatosis de las coronarias sin enfermedad coronaria significativa.
+Ecocardiograma (según informe de cardiologo privado): Prolapso mitral con leve insuficiencia mitral e hipertrofia ventricular izquierda leve con disfunción diastólica.
+INTERVENCIONES QUIRÚRGICAS:
+- Apendicectomía.
+- Herniorrafía inguinal.
+TRATAMIENTO HABITUAL: Rabeprazol 20mg/24h, simvastatina 40mg/24h, loracepam 1 mg/24h, ibuprofeno 600mg a demanda,
+hidroclorotiazida/valsartan 80/12.5 mg/24h.

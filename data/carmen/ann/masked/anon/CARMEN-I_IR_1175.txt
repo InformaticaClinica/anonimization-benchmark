@@ -1,0 +1,23 @@
+
+prueba:
+PET CEREBRAL FDG
+
+clinica:
+UNIDAD DE EPILEPSIA
+--------
+Paciente ingresada por acúmulo de crisis focales motoras de la pierna izquierda. Se solicita PET para determinar la zona epileptógena.
+Epil. i síndr. epilèpt. simpt. localitzades amb atacs parcials simples, no resist. al tractament, sense estat epilèpt.
+
+protocolo:
+Radiofármaco: 18F-fluorodesoxiglucosa (FDG). Dosis: 5,6 mCi. Glicemia en el momento de inyección de la FDG:85 mg/dL.
+Las imágenes PET muestran el metabolismo glicolítico regional cerebral y cerebeloso.
+
+resultados:
+El estudio PET/TC muestra una distribución normal del radiotrazador en el encéfalo, sin que se aprecien alteraciones valorables del metabolismo cerebral.
+No vemos áreas hipometabólicas, que sugieran la presencia de foco epileptógeno.
+
+conclusiones:
+PET/TC sin evidencia de foco epileptógeno.
+
+descrip:
+PET CEREBRAL FDG

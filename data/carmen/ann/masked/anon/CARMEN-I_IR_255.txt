@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente ingresado en neumología por neumonia bilobar PSI II adquirida en la comunidad. Rogamos realizar TAC de torax.
+NEUMONIA ADQUIRIDA EN LA COMUNIDAD
+
+protocolo:
+Se realiza estudio dinámico torácico durante la inyección de contraste ev. empleando técnica TC espiral.
+
+resultados:
+Adenopatía hiliar D de 10 mm, ganglios subcarinal y paratraqueal derecho bajo en el límite superior de la normalidad.
+No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Discreto enfisema centrolobulillar. Extensa área de vidreo deslustrado que afecta gran parte de lóbulo inferior derecho y zona yuxtacisural de lóbulo superior y lóbulo medio , que confluye en área de consolidación peribroncovascular que presenta broncograma áereo. Vompatoble con neumoní aen resolución
+Dichos hallazgos son compatibles con proceso bronconeumónico de probable origen bacteriano.
+No se observan imágenes de empiema ni absccesificación.
+
+conclusiones:
+Imágenes compatibles con neumonia en resolución.
+
+descrip:
+TC TORAX

@@ -1,0 +1,17 @@
+Antecedentes personales:
+Antecedentes Personales:
+- No reacciones alérgicas a medicamentos conocidas.
+- No factores de riesgo cardiovascular conocidos, salvo obesidad tipo I (IMC 34.9).
+- No refiere hábitos tóxicos.
+- Enfermedad de Chagas diagnosticada en torno al [**FECHAS**] en [**PAIS**].
+Tratamiento en su CAP ([**CENTRO_SALUD**])con Benznidazol en [**FECHAS**]. En seguimiento por SINT desde [**FECHAS**]
+**Miocardiopatía dilatada con FE conservada. Implante de marcapasos bicameral St. Jude Medical y modelo ENDURITY CORE (SN: [**NUMERO_IDENTIF**]) en [**FECHAS**] por disfunción sinusal (BIRDHH+HBAIHH que evolucionó a BAV con bradicardia sintomática a 35lpm).
+**Se realizó pruebas digestivas, que refiere fueron normales.
+- Hipercalcemia diagnosticada como parte de estudio de litiasis renales bilaterales recidivantes, secundaria a adenomas paratiroideos inferior izquierdo (más dudoso por SPECT) y derecho (este último intervenido en [**FECHAS**]).
+Intervenciones Quirúrgicas:
+Colecistectomizada, paratiroidectomía derecha en [**FECHAS**].
+Tratamiento Habitual:
+Ninguno.
+Situación Basal:
+IABVD. Natural de [**PAIS**] ([**TERRITORIO**]), lleva en [**PAIS**] desde [**FECHAS**].
+Trabaja de [**PROFESION**]. Vive sola.

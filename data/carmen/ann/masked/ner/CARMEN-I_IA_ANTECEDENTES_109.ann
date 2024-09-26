@@ -1,0 +1,45 @@
+T7	ENFERMEDAD 306 350	CARDIOPATÍA VALVULAR: ESTENOSIS MITRAL GRAVE
+T8	ENFERMEDAD 1123 1129	sepsis
+T9	ENFERMEDAD 1133 1146	celulitis EID
+T10	ENFERMEDAD 1208 1246	HIPOTIROIDISMO secundario a amiodarona
+T11	ENFERMEDAD 67 70	AMC
+T12	ENFERMEDAD 176 206	HIPERTENSIÓN ARTERIAL esencial
+T13	ENFERMEDAD 266 271	ACXFA
+T14	ENFERMEDAD 503 512	AC per Fa
+T15	ENFERMEDAD 522 559	Auricula esquerre severament dilatada
+T16	ENFERMEDAD 657 777	Valvula mitral amb afectació reumatica , valvula calcificada en grau sever amb insuficiencia lleu i estenosi molt severa
+T17	ENFERMEDAD 863 893	insufuciencia tricuspidea lleu
+T18	ENFERMEDAD 898 910	HTP moderada
+T19	ENFERMEDAD 921 948	Vena cava inferior dilatada
+T20	ENFERMEDAD 953 975	embassament pericardic
+T21	ENFERMEDAD 980 1017	ISQUEMIA AGUDA de miembros inferiroes
+T22	ENFERMEDAD 1035 1065	Oclusión femoropoplítea por FA
+T23	ENFERMEDAD 1251 1274	ENFERMEDAD DE PARKINSON
+T24	FARMACO 1236 1246	amiodarona
+T25	FARMACO 1631 1646	Sulfato ferroso
+T26	FARMACO 1661 1671	Bisoprolol
+T27	FARMACO 1684 1710	Losartán/hidroclorotiazida
+T28	PROCEDIMIENTO 275 301	tratamiento anticoagulante
+T29	FARMACO 1588 1597	Carmelosa
+T30	FARMACO 1566 1577	Paracetamol
+T31	FARMACO 1543 1552	Metamizol
+T32	FARMACO 1507 1525	Carbidopa+levodopa
+T33	FARMACO 1486 1496	Citalopram
+T34	FARMACO 1468 1476	Diazepam
+T35	FARMACO 1443 1455	Levotiroxina
+T36	FARMACO 1417 1429	Acenocumarol
+T37	FARMACO 1385 1395	Salbutamol
+T38	FARMACO 1365 1374	Omeprazol
+T39	SINTOMA 352 358	Disnea
+T41	ENFERMEDAD 1276 1300	Deterioro cognitivo leve
+T42	PROCEDIMIENTO 388 402	Ecocardiograma
+T43	PROCEDIMIENTO 1085 1105	trombectomia femoral
+T44	PROCEDIMIENTO 1150 1163	Dopler de TSA
+T45	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T46	SINTOMA 419 464	Ventricle esquerre no dilatat, ni hipertrofic
+T47	SINTOMA 561 589	Arrel aortica de mida normal
+T48	SINTOMA 591 621	aorta ascendent de mida mormal
+T49	SINTOMA 623 656	Valvula aortica sense alteracions
+T50	SINTOMA 832 857	Ventricle dret no dilatat
+T51	SINTOMA 1150 1203	Dopler de TSA ([**FECHAS**]): dentro de la normalidad
+T1	ENFERMEDAD 75 90	hábitos tóxicos

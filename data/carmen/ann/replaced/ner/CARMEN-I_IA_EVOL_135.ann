@@ -1,0 +1,57 @@
+T12	SINTOMA 152 155	tos
+T13	SINTOMA 158 167	febrícula
+T14	SINTOMA 169 192	deposiciones diarreicas
+T15	SINTOMA 226 259	infiltrado intersticial bilateral
+T16	SINTOMA 820 828	eupneico
+T17	SINTOMA 1155 1192	elevación de parametros inflamatorios
+T18	SINTOMA 1560 1623	infiltrados intersticiales bilaterales de predominio periférico
+T19	SINTOMA 1739 1755	disnea en reposo
+T20	SINTOMA 1884 1891	Afebril
+T21	SINTOMA 134 150	dinea progresiva
+T22	SINTOMA 793 818	estado general conservado
+T23	SINTOMA 921 954	infiltrado intersticial bilateral
+T24	SINTOMA 969 987	condensación en LM
+T25	SINTOMA 1857 1882	Estable hemodinamicamente
+T26	ENFERMEDAD 45 52	COVID19
+T27	ENFERMEDAD 83 86	HTA
+T29	ENFERMEDAD 586 618	NEUMONIA BILATERAL POR SARS-COV2
+T30	ENFERMEDAD 1114 1152	neumonia bilateral con i. respiratoria
+T31	FARMACO 674 685	Ivermectina
+T32	FARMACO 697 707	Remdesivir
+T33	FARMACO 715 725	Siltuximab
+T34	FARMACO 727 733	SILCOR
+T35	FARMACO 741 744	DXM
+T36	FARMACO 1321 1331	remdesivir
+T37	FARMACO 1368 1378	siltuximab
+T38	FARMACO 1655 1667	dexametasona
+T39	FARMACO 1690 1702	dexametasona
+T40	FARMACO 1794 1796	O2
+T41	FARMACO 2241 2253	dexametasona
+T42	PROCEDIMIENTO 200 211	Rx de tórax
+T43	PROCEDIMIENTO 895 906	Rx de tórax
+T44	PROCEDIMIENTO 1982 1993	Rx de tórax
+T45	PROCEDIMIENTO 2112 2126	oxigenoterapia
+T46	PROCEDIMIENTO 2399 2414	TACAR de pulmon
+T47	HUMANO 56 64	paciente
+T48	HUMANO 438 446	paciente
+T49	HUMANO 780 788	Paciente
+T50	SINTOMA 274 292	condensación en LM
+T51	ENFERMEDAD 389 396	COVID19
+T52	SINTOMA 397 423	elevación de PCR, LDH y DD
+T53	SPECIES 609 618	SARS-COV2
+T54	PROCEDIMIENTO 883 885	LN
+T55	PROCEDIMIENTO 1359 1365	ensayo
+T56	PROCEDIMIENTO 1437 1451	oxigenoterapia
+T57	PROCEDIMIENTO 1458 1466	VMSK 40%
+T58	SINTOMA 2006 2016	infiltrado
+T60	PROCEDIMIENTO 328 330	GN
+T61	PROCEDIMIENTO 337 346	analítica
+T62	PROCEDIMIENTO 1522 1533	radiológica
+T1	SINTOMA 1404 1451	aumento de los requerimientos de oxigenoterapia
+T2	SINTOMA 1489 1518	discreto trabajo respiratorio
+T3	HUMANO 518 539	gestor de camas COVID
+T4	HUMANO 494 515	responsable de planta
+T5	SINTOMA 1703 1727	mejoría clínica evidente
+T6	PROCEDIMIENTO 1893 1907	Analíticamente
+T7	SINTOMA 1893 1915	Analíticamente mejoría
+T8	SINTOMA 1930 1966	parámetros inflamatorios en descenso

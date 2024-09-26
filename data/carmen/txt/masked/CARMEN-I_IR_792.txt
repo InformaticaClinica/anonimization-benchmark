@@ -1,0 +1,31 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente [**EDAD_SUJETO_ASISTENCIA**], ingreso prolongado por neumonia covid91, complicaciones intercurrentes: TEP (portador FVC) y neumotórax a tensión drenado izquierdo ([**FECHAS**]). En las últimas 48h ha presentado empeoramiento de RFA, abdomen distendido e IRA oligoanúrica que requiere HDFVV. Resumen: sepsis origen indeterminado con abdomen patológico.
+
+protocolo:
+TC abdominal en condiciones basales con posterior administración de contraste e.v. y adquisición de imágenes en fases arterial y portal.
+Obs Dr. [**NOMBRE_PERSONAL_SANITARIO**]
+
+resultados:
+Se compara con los estudios previos del [**FECHAS**] (TC torácica) y del [**FECHAS**] (TC abdominal).
+SNG con extremo distal en primera porción duodenal. Filtro de VCI.
+Catéter de acceso venoso central en vena femoral común izquierda con extremo distal en vena ilíaca externa izquierda. Sonda rectal. Sonda vesical.
+Hígado de tamaño y morfología normal con una imagen hipodensa de 7 mm en segmento II, inespecífica y estable. No se observan lesiones focales sospechosas. Vena porta y eje espleno-mesentérico permeables. Vesícula biliar distendida y de paredes finas con contenido denso en su interior en probable relación a contraste de exploraciones previas. Mínima cantidad de líquido perivesicular que ha disminuido respecto el estudio previo. Los hallazgos no sugieren una colecistitis aguda. Vía biliar no dilatada.
+Páncreas con infiltración grasa difusa. Bazo y glándulas suprarenales sin alteraciones significativas. Bazo accesorio de 11 mm. No se observan adenopatías retroperitoneales ni pélvicas valorables. Riñones de tamaño y morfología normal con una correcta captación de contraste. Quistes corticales renales bilaterales. No hay dilatación de la vía excretora.
+Marco colónico y asas intestinales de calibre y captación parietal conservados.
+Leve cantidad de líquido libre perihepático, periesplénico, en ambas gotieras parietocólicas y pelvis, mayor que en el estudio previo. No se observan colecciones intraabdominales ni neumoperitoneo. Trabeculación difusa de la grasa subcutánea en relación a anasarca.
+SECCIONES TORÁCICAS: Moderado derrame pleural derecho con extensión cisural y leve derrame pleural izquierdo que han aumentado respecto el estudio previo y condicionan atelectasia pasiva del parénquima adyacente (subtotal a nivel del LID). Dudosa área de parénquima colapsado en LID (segmentos basal posterior-lateral) con una aparente hipocaptación de contraste respecto el resto del parénquima. Si bien puede estar en relación a un infarto pulmonar, no permite descartar un foco de sobreinfección, a correlacionar con la clínica.
+Defecto de repleción conocido en arteria pulmonar principal derecha, parcialmente visualizado. Aparición de un nuevo efecto de repleción en una arteria subsegmentaria posterobasal del LII, sugestivo de TEP agudo.
+Tubo de drenaje pleural izquierdo con entrada en el 5º espacio intercostal. Disminución del neumotórax anterior izquierdo, parcialmente visualizado. Resto del parénquima pulmonar con los signos conocidos de neumonía bilateral por COVID-19.
+
+conclusiones:
+- Leve cantidad de líquido libre intraabdominal que ha aumentado respecto el estudio previo. No se aprecian colecciones intraabdominales ni neumoperitoneo.
+- Derrame pleural de predominio derecho que ha aumentado respecto el estudio previo.
+- Dudosa área de parénquima colapsado en LID con una aparente hipocaptación de contraste respecto el resto del parénquima que, si bien puede estar en relación a un infarto pulmonar, no permite descartar un foco de sobreinfección, a correlacionar con la clínica.
+- TEP conocido en arteria pulmonar principal derecha. Defecto de repleción de nueva aparición en rama subsegmentaria del LII.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

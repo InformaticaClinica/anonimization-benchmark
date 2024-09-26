@@ -1,0 +1,32 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+CONTROL MAÑANA.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX de tórax portátil. Se compara con RX del [**FECHAS**] ([**OTROS_SUJETO_ASISTENCIA**]).
+
+resultados:
+HALLAZGOS:
+Opacidades: Si
+Patrón intersticial: No
+Distribución: Periférica
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho: medio / inferior
+- Pulmón izquierdo: medio / inferior
+EVOLUCION
+Extensión: Estabilidad
+Consolidación: Estabilidad
+Aparición de fibrosis: No
+
+conclusiones:
+Afectación pulmonar por COVID que muestra estabilidad respecto a Rx previa ([**FECHAS**]).
+
+descrip:
+RX  PORTATIL  TORAX
+
+descrip:
+RX  PORTATIL  TORAX

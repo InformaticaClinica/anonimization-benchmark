@@ -1,0 +1,33 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+paciente con antecedente de EPOC y TEP, ingresa por neumonia grave por covid-19 , iot y prono por 3 ocasiones.
+Deterioro clinico con altos requerimientos de oxigenoterapia, asilamientoe de aspergillus en BAS.
+solicitamos angiotc y TCAR para completar estudio.
+gracias.
+SDRA POR COVID
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+IOT.SNG.
+Adenopatías hiliares izquierdas.
+Severo enfisema centrolobulillar confluente y destructivo.
+Tapones mucosos en ambos LLII con atelectasias asociadas.
+Foco consolidativo en LM y escasos nódulos mal definidos en LSD sugestivo de sobreinfección.
+Mínimo derrame pleural.
+Escaso vidrio deslsutrado y algun abanda parenquimatosa residual a la neumonia COVID..
+No se observa TEP.
+Ausencia de bazo. Bazo accesorio.
+
+conclusiones:
+vr
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO
+
+descrip:
+ANGIO TC PULMONAR

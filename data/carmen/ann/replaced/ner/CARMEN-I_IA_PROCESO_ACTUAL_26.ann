@@ -1,0 +1,39 @@
+T5	ENFERMEDAD 831 840	infección
+T6	FARMACO 936 948	dexametasona
+T7	FARMACO 958 969	paracetamol
+T8	FARMACO 978 989	enoxaparina
+T9	HUMANO 578 586	paciente
+T10	HUMANO 802 810	Paciente
+T11	PROCEDIMIENTO 427 447	Radiografía torácica
+T12	PROCEDIMIENTO 775 791	Frotis SARS-CoV2
+T13	SINTOMA 89 109	sensación distérmica
+T14	SINTOMA 111 118	astenia
+T15	SINTOMA 121 129	mialgias
+T16	SINTOMA 150 156	fiebre
+T17	SINTOMA 165 168	tos
+T18	SINTOMA 171 224	disnea progresiva hasta hacerse de pequeños esfuerzos
+T19	SINTOMA 227 243	falta de apetito
+T20	SINTOMA 253 260	anosmia
+T21	SINTOMA 263 270	ageúsia
+T22	SINTOMA 285 296	taquipneico
+T23	SINTOMA 301 321	trabajo respiratorio
+T24	SINTOMA 344 370	crepitantes en ambas bases
+T25	SINTOMA 412 425	acceso de tos
+T26	SINTOMA 452 484	infiltrado intesticial bilateral
+T27	SINTOMA 653 660	astenia
+T28	SINTOMA 662 678	malestar general
+T29	SINTOMA 681 701	sensación distérmica
+T30	SINTOMA 711 717	fiebre
+T31	SINTOMA 723 743	sensación distérmica
+T32	SINTOMA 775 800	Frotis SARS-CoV2 positivo
+T34	SPECIES 14 23	SARS-CoV2
+T36	SPECIES 782 791	SARS-CoV2
+T37	PROCEDIMIENTO 0 46	Vacunado para SARS-CoV2 el día 23/02 (Janssen)
+T38	SINTOMA 382 403	sibilante espiratorio
+T39	SINTOMA 524 534	limfopenia
+T40	SINTOMA 557 573	Ddímero negativo
+T41	PROCEDIMIENTO 536 546	bioquímica
+T42	PROCEDIMIENTO 587 636	se vacunó el pasado 23/02 vacuna mondosis Janssen
+T43	SINTOMA 851 867	elevación de RFA
+T45	PROCEDIMIENTO 510 519	Analítica
+T46	PROCEDIMIENTO 874 883	analítica

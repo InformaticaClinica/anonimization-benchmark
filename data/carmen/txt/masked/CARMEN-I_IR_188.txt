@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+pacietn de [**EDAD_SUJETO_ASISTENCIA**] ingressada per infección por SARS-CoV2. Neumonía leve diagnósticad durant ingrés en un altre centre per Fractura cerrada de acetábulo con impactación de cabeza femoral izda pendent d'IQ. Presenta taquicàrdia mantinguda durant l'ingrés actual amb bon Spo2 i augment Dimer >10.000 . Valrorem per descartar TEP.
+FRACTURA DE ACETÁBULO IZQ. + COVID 19 POSITIVO
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+No se observan adenopatías axilares ni mediastíncias de tamaño patológico.
+No se observa derrame pericárdico.
+Derrame pleural bilateral leve de  predominio izquierdo. Asocia atelectasia pasiva del parénquima pulmonar adyacente.
+Tractos fibrocicatriciales crónicos en ambos ápex pulmonares. Pequeña y tenue opacidad en vidrio deslustrado yuxtacisural en lóbulo superior derecho. Resto del parénquima pulmonar sin hallazgos valorables.
+Importante cifoescoliosis de convexidad dorsal izquierda.
+
+conclusiones:
+-No se observan signos de TEP
+-Importante cifoescoliosis de convexidad dorsal derecha -Derrame pleural bilateral leve de predominio izquierdo.
+
+descrip:
+ANGIO TC PULMONAR

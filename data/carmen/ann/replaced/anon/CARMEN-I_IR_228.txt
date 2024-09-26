@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX DE TÓRAX PORTATIL
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: Si
+Distribución Periférica
+Campos pulmonares:
+-Pulmón derecho: medio / inferior
+-Pulmón izquierdo: medio / inferior
+Opacidades alveolo-intersticiales periféricas en campo medio e inferior de ambos pulmones. *Otros hallazgos relevantes: Cardiomegalia a expensas del VI. Leve derrame pleural derecho. Imagen lineal en LID sugestiva de pequeña atelectasia.
+EVOLUCION: Comparativamente con RX previa de hace 2 días (21/6/2013) se observa un leve aumento de la extensión de las opacidades descritas, así como aumento del derrame pleural derecho.
+CONCLUSION: Afectación pulmonar por COVID conocido que muestra leve progresión respecto RX de hace 2 días. Cardiomegalia. Leve aumento del derrame pleural derecho.
+
+descrip:
+RX  PORTATIL  TORAX

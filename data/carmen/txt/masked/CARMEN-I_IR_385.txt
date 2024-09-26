@@ -1,0 +1,14 @@
+
+prueba:
+INTERC. RADIOLOGIA TORAX
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] que ingresa por neumonía bilateral por SARS-CoV-2, mientras se encontraba en estudio por adenopatía laterocervical. Biopsia compatible con granulomas caseificantes. Inciió tratamiento antituberculostático. En TC realizado en [**HOSPITAL**] no se evidencia patología torácica. Agradeceríamos reevaluación de las imágenes del TC torácico.
+NEUMONÍA BILATERAL POR SARS-COV2
+
+conclusiones:
+En TC torácico del [**FECHAS**] ([**OTROS_SUJETO_ASISTENCIA**]), sólo se visualizan discretas opacidades en vidrio deslutrado peribroncovasculares en LSD, indeterminadas. Engrosamientos parietales bronquiales difusos.
+Atelectasias laminares en LII.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Ausencia de derrame pleural. Leve derrame pericárdico.
+Calcificación de la válvula mitral.
+Marcados cambios degenerativos en columna torácica.

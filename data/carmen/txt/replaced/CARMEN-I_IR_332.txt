@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Covid, día 16.
+Está peor de su disnea, y fiebre de reciente inicio sin otra causa aparente.
+Sospecha TEP vs NOC.
+
+protocolo:
+Se realiza angioTC torácico tras la administración de contraste ev.
+
+resultados:
+No se observan defectos de repleción en tronco arterial de la pulmonar, arterias pulmonares, lobares ni primeras segmentarias sugestivos de TEP.
+Pequeña adenopatía subcarinal de 14mm, probablemente reactiva.
+No se observan adenopatías axilares ni otras mediastínicas de tamaño valorable.
+Parénquima pulmonar con presencia de múltiples áreas de densidad vidrio deslustrado parcheadas y focos consolidativos, con leve ectasia bronquial, de afectación bilateral y multilobar, de distribución de predominio peribroncovascular y subpleural. Se observan incipientes bandas parenquimatosas subpleurales y perilobulares de predominio en LLII. Hallazgos en relación con neumonia pulmonar bilateral por COVID-19 con incipientes cambios de organización.
+Ligero derrame pleural bilateral de localización posterior.
+Ausencia de derrame pericárdico.
+
+conclusiones:
+No se observan signos radiológicos de TEP.
+Cambios parenquimatosos en relación con neumonia pulmonar bilateral por COVID-19 con incipientes cambios de organización.
+Ligero derrame pleural bilateral.
+
+descrip:
+ANGIO TC PULMONAR

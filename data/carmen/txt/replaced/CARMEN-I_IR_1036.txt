@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente 70 años. Neumonía bilateral por COVID-19. IOT des del 13/6. TC previo con TEP bilateral. Presenta nuevo deterioro clínico des del punto de vista respiratorio. Impresiona en rx tórax condensación en lóbulo inferior derecho. Rogamos TC para control de TEP + probable sobreinfección bacteriana.
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+ANGIOTC PULMONAR URGENTE.
+
+resultados:
+TET a 2.5 cms de carina. CVC yugular derecho y PICC derecho con extremos en unión cavoatrial. SNG.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de arteria pulmonar de tamaño límite (30 mm). No se observan signos de sobrecarga derecha.
+Adenopatía paratraqueal derecha de 12 mm. Múltiples ganglios mediastínicos de predominio derecho de aspecto reactivo. No se observan otras adenopatías mediastínicas ni axilares de tamaño patológico.
+Leve derrame pleural bilateral, de predominio izquierdo. No se observa derrame pericárdico.
+Consolidación predominantemente hipocaptante de LID con broncograma aéreo y líquido, sugestivo de proceso neumónico lobar (sobreinfección bacteriana del paréntesis.
+Atelectasia/colapso de LII con componente pasivo y obstructivo, observando ocupaciones mucosas endobronquiales en bronquio de LII.
+Existe atelectasias subsegmentarias en ambos lóbulos superiores.
+Áreas parcheadas de vidrio deslustrado periféricos y peribroncovasculares, en relación a neumonía bilateral por COVID-19 en evolución.
+
+conclusiones:
+No se observa TEP.
+Leve derrame pleural bilateral de predominio izquierdo.
+Consolidación hipocaptante de LID, sugestivo de proceso neumónico lobar (probable sobreinfección bacteriana).
+Atelectasia mixta total de LII y subsegmentarias en LLSS.
+
+descrip:
+ANGIO TC PULMONAR

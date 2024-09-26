@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA DE CORONAVIRUS.
+
+protocolo:
+RX tórax
+
+conclusiones:
+Opacidades alveolo-intersticiales de predominio en campos superiores bilateral  que muestra leve mejoría en relación a la realizada el [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

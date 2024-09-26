@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+protocolo:
+RX TÓRAX PORTÁTIL
+Se compara con la RX previa del [**FECHAS**]
+
+conclusiones:
+Ligera disminución de la densidad de las consolidaciones de predominio en LSD, LID LM y en LII, en relación a mejoría radiológica Cardiomegalia.
+
+descrip:
+RX  PORTATIL  TORAX

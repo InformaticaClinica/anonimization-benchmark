@@ -1,0 +1,32 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Mujer de 77 años. Ingreso prolongado por neumonía por CoVID, con NOC asociada grave.
+Empeoramiento respiratorio súbito en la tarde del 09-jun con necesidad de doblar la FiO2, taquicardia >140 lpm. Dímero D ascenso hasta >4000.
+Solicitamos AngioTC torácico para estudio de posible TEP. Gracias
+NEUMONÍA BILATERAL POR SARS CoV2
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; último TC del 08/06/2014.
+TOT con extremo distal a 1,6 cm de la carina. Vía central derecha, con extremo en unión atriocaval. Vía central izquierda, con extremo distal en tronco braquiocefálico venoso/VCS. SNG, con extremo distal en cámara gástrica.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Calcificaciones coronarias.
+Resolución de las burbujas aéreas residuales en relación a neumomediastino previo.
+Moderado derrame pleural bilateral, estable. Ausencia de derrame pericárdico.
+Secreciones endobronquiales a nivel de carina y en bronquio principal izquierdo. Ocupación endobronquial por secreciones de la rama lateral del LM, con atelectasia del segmento lateral del LM de nueva aparición.
+También se visualiza alguna ocupación endobronquial en la rama medial del LM.
+Estabilidad de la afectación parenquimatosa pulmonar bilateral, con persistencia de las opacidades en vidrio deslutrado con engrosamientos septales, de predominio en LLSS. Persisten marcadas dilataciones bronquiales de aspecto arrosariado en LLII y algunas bandas subpleurales, en relación a cambios organizativos.
+
+conclusiones:
+- Ausencia de signos de TEP.
+- Estabilidad del derrame pleural bilateral. Resolución del neumomediastino.
+- Secreciones endobronquiales a nivel de carina y en bronquio principal izquierdo. Ocupación endobronquial por secreciones de la rama lateral del LM, con atelectasia asociada. También se visualiza alguna ocupación endobronquial en la rama medial del LM.
+- Estabilidad de la afectación parenquimatosa pulmonar bilateral, en relación a proceso infeccioso por COVID-19 (vr).
+
+descrip:
+ANGIO TC PULMONAR

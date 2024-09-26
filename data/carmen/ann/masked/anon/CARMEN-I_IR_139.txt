@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+1. INFECCIÓN RESPIRATORIA POR COVID-19
+
+resultados:
+Pequeños focos consolidativos bilaterales sugestivos d3e afectación pulmonar por COVID.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

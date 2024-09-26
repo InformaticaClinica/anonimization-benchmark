@@ -1,0 +1,6 @@
+T5	PROCEDIMIENTO 25 44	PCR para SARS-CoV-2
+T6	SINTOMA 192 198	disnea
+T7	SINTOMA 201 230	afectación del estado general
+T8	HUMANO 1 9	Paciente
+T9	HUMANO 98 104	marido
+T10	SPECIES 34 44	SARS-CoV-2

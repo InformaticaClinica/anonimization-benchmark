@@ -1,0 +1,37 @@
+T4	PROCEDIMIENTO 466 484	electrocardiograma
+T5	PROCEDIMIENTO 545 565	radiografía de tórax
+T6	PROCEDIMIENTO 649 668	analítica sanguínea
+T7	PROCEDIMIENTO 893 908	Perfil hepático
+T8	PROCEDIMIENTO 1252 1275	tratamiento antibiótico
+T9	PROCEDIMIENTO 910 920	troponinas
+T10	PROCEDIMIENTO 1390 1444	requerimientos de oxígeno necesitando una FiO2 del 31%
+T11	SINTOMA 44 47	tos
+T12	SINTOMA 49 62	artromialgias
+T13	SINTOMA 65 71	fiebre
+T14	SINTOMA 87 94	ageusia
+T15	SINTOMA 97 129	alteración del hábito intestinal
+T16	SINTOMA 297 309	asintomático
+T17	SINTOMA 349 359	normotenso
+T18	SINTOMA 393 403	febricular
+T19	SINTOMA 432 453	crepitantes bibasales
+T20	SINTOMA 530 540	QTc normal
+T21	SINTOMA 574 612	infiltrados intersticiales bilaterales
+T22	SINTOMA 677 714	elevación de reactantes de fase aguda
+T23	SINTOMA 812 823	neutrofilia
+T24	SINTOMA 1484 1495	taquicardia
+T25	SINTOMA 1498 1507	taquipnea
+T26	ENFERMEDAD 1035 1101	infección por COVID 19 en forma de neumonía intersticial bilateral
+T27	FARMACO 158 169	paracetamol
+T28	FARMACO 1154 1161	Kaletra
+T29	FARMACO 1280 1291	ceftriaxona
+T30	FARMACO 1294 1306	teicoplanina
+T31	HUMANO 228 236	familiar
+T32	HUMANO 262 296	[**FAMILIARES_SUJETO_ASISTENCIA**]
+T33	SINTOMA 466 525	electrocardiograma que se encuentra dentro de la normalidad
+T34	FARMACO 1162 1179	hidroxicloroquina
+T35	FARMACO 1180 1186	azitro
+T36	SINTOMA 1197 1241	aumento evidente de reactantes de fase aguda
+T37	SINTOMA 1340 1370	deterioro a nivel respiratorio
+T38	SINTOMA 852 867	DDímero elevado
+T39	PROCEDIMIENTO 411 422	exploración
+T1	SINTOMA 1375 1415	aumento de los requerimientos de oxígeno

@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+resultados:
+Persisten las consolidaciones periféricas bilaterales sin cambios significativos respecto al último control.
+Elongación y calcificación aórtica.
+
+conclusiones:
+Afectación por COVID estable.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,51 @@
+T3	PROCEDIMIENTO 144 157	examen físico
+T4	PROCEDIMIENTO 319 340	radiografía de cadera
+T5	PROCEDIMIENTO 398 418	radiografía de tórax
+T6	PROCEDIMIENTO 507 555	implantación de hemiartroplastia de Austin Moore
+T7	PROCEDIMIENTO 1120 1134	rehabilitación
+T8	PROCEDIMIENTO 1282 1291	hemograma
+T9	PROCEDIMIENTO 1372 1379	angioTC
+T10	PROCEDIMIENTO 785 836	controles analíticos y radiológicos postoperatorios
+T11	PROCEDIMIENTO 1721 1727	frotis
+T12	PROCEDIMIENTO 2058 2088	se controla con antipsicóticos
+T13	SINTOMA 109 119	normotensa
+T14	SINTOMA 121 129	eupneica
+T15	SINTOMA 132 139	afebril
+T16	SINTOMA 167 187	impotencia funcional
+T17	SINTOMA 190 232	actitud en rotación externa y acortamiento
+T18	SINTOMA 243 296	dolor con la palpación de zona trocantérea, en cadera
+T19	SINTOMA 630 637	afebril
+T20	SINTOMA 640 660	clínicamente estable
+T21	SINTOMA 710 718	exudados
+T22	SINTOMA 722 739	signos flogóticos
+T23	SINTOMA 898 939	dolor migratorio en lumbares y en glúteos
+T24	SINTOMA 1005 1044	dificultad para iniciar la deambulación
+T25	SINTOMA 1225 1245	función renal normal
+T26	SINTOMA 1250 1262	hiponatremia
+T27	SINTOMA 1301 1312	neutrofilia
+T28	SINTOMA 1597 1609	asintomática
+T29	SINTOMA 1649 1656	afebril
+T30	SINTOMA 1942 1962	SÍNDROME CONFUSIONAL
+T31	SINTOMA 2010 2041	desorientación tempor- espacial
+T32	SINTOMA 2044 2053	agitación
+T33	SINTOMA 2111 2121	consciente
+T34	SINTOMA 2124 2133	orientada
+T35	ENFERMEDAD 355 385	fractura bacicervival de fémur
+T36	ENFERMEDAD 423 438	derrame pleural
+T37	ENFERMEDAD 754 779	trombosis venosa profunda
+T38	ENFERMEDAD 986 994	fractura
+T39	ENFERMEDAD 1151 1174	INFECCIÓN POR SARS-COV2
+T40	ENFERMEDAD 1393 1396	TEP
+T41	ENFERMEDAD 1558 1580	infección por COVID-19
+T42	ENFERMEDAD 1699 1707	COVID-19
+T43	HUMANO 1986 1994	paciente
+T44	ENFERMEDAD 37 64	FRACTURA BACICERVICAL FÉMUR
+T45	ENFERMEDAD 665 682	herida quirúrgica
+T46	SPECIES 1165 1174	SARS-COV2
+T47	SINTOMA 1343 1359	dímero-d elevado
+T48	SINTOMA 1420 1491	opacidades parcheadas en vidrio deslustrado en ambos lóbulos superiores
+T49	SINTOMA 1805 1817	asintomática
+T50	PROCEDIMIENTO 1182 1191	analítica
+T1	SINTOMA 871 878	mejoría
+T2	SINTOMA 1867 1906	mejoría de los parámetros inflamatorios
+T51	PROCEDIMIENTO 1852 1861	analítica

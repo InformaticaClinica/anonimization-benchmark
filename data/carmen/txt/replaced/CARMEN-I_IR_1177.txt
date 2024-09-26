@@ -1,0 +1,40 @@
+
+prueba:
+RM PANCREATICA (INCLUYE COLANGIOPANCREAT OGRAFIA RM)
+
+clinica:
+Paciente con antecedente de hepaticoyeyunostomía y colecistectomía por pancreatitis crónica con estenosis benigna de la vía biliar. Ingresado actualmente por shock séptico por colangitis posiblemente ascendente.
+Solicitamos RMN para estudio
+
+protocolo:
+RM hepàtica basal, contrastada i amb seqüències colangioRM No dispossem d'estudis previs per valoració comparativa.
+
+resultados:
+Fetge de mida normal, amb important caiguda de senyal entre seqüències fora de fase i fase a lòbul esquerre, suggereix malaltia per dipòsits de ferro.
+No hi ha lesions focals hepàtiques.
+No hi ha dilatació de la via biliar intrahepàtica.
+Hepatojejunostomia.
+Colecistectomia.
+Pàncrees amb porció cefàlica globulosa i trabeculació del greix circundant, que suggereixen pancreatitis aguda.
+Imatges quístiques a cap (15mm) i vora superior del cos pancreàtics (16mm), que donats els antecedents de pancreatitis crònica podrien correspondre a pseudoquists.
+Conducte de Wirsung dilatat fins a 6mm a porció caudal pancreàtica, essent de calibre normal a porció cefàlica (2mm)
+Petita col.lecció en forma de ferradura (28 x 13mm) al voltant de la segona porció duodenal
+Disminució de calibre del confluent porto-espleno-mesentéric en relació a patologia pancreàtica crònica/ aguda, essent permeable tot l'eix eplàcnic.
+Gangli a lligament gastro-hepàtic de 13mm eix curt, probablement reactiu. No hi ha adenopaties retroperitoneals altes de mida valorable.
+Melsa, suprarrenals i ronyons, sense alteracions.
+Líquid lliure perihepàtic, periesplènic i en ambdós degotalls.
+Vessament pleural bilateral
+
+conclusiones:
+Troballes que suggereixen nou episodi de pancreatitis aguda edematosa intersticial que afecta a la porció cefàlica, en un pacient amb signes de pancreatitis crònica.
+Petita col.lecció en forma de ferradura (28 x 13mm) al voltant de la segona porció duodenal, en probable relació a pancreatitis, encara que per la seva localització no es pot descartar que sigui secundària a ulcus duodenal/ duodenitis.
+Moderada quantitat de líquid lliure perihepàtic, periesplènic i en ambdós degotalls.
+Vessament pleural bilateral
+Via biliar inrahepàtica no dilatada. Hepaticojejunostomia.
+Fetge amb signes de malaltia de dipòsit de Fe
+
+descrip:
+RM PANCREATICA (INCLUYE COLANGIOPANCREATOGRAFIA RM)
+
+descrip:
+RM COLANGIOGRAFIA

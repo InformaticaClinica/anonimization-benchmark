@@ -1,0 +1,26 @@
+EVOLUCIÓN [**NUMERO_IDENTIF**] [**NUMERO_IDENTIF**] ([**NOMBRE_PERSONAL_SANITARIO**])
+1. NEUMONÍA BILATERAL POR SARS-CoV2.
+1.1. SINDROME DE DISTRÉS RESPIRATORIO AGUDO: IOT 7/1- Traqueostomia 22/1- miopatia del paciente crítico.
+1.2 NEUMOTORAX DERECHO ASOCIADO A LA VENTILACIÓN MECÁNICA
+1.3 SOSPECHA TROMBOEMBOLISMO PULMONAR SEGMENTARIO BASAL DERECHO Y NEUMONIA ORGANIZATIVA
+-Fecha de inicio de síntomas: [**FECHAS**]
+-Tratamiento: Dexametasona 6 mg ([**FECHAS**]). Ivermectina ([**FECHAS**])
+A su llegada con Venturi al 35%. AS: PCR 16, linfopenia de 400/uL, LDH 400, D-dímero 400ng/L. Radiografia de tórax con opacidades bilaterales extensas de predominio en hemitórax izquierdo y bases. En sala de S.INT ([**FECHAS**]), mantiene SatO2 92-94% con VMK al 60% y taquipnea a 34 rpm, sin sensación disneica, afebril y emodinámicamente estable. Inician Dexametasona iv (dosis única de ivermectina asociada). Dada persistencia de la hipoxemia se decide ingreso en cama de UCI de la [**NUMERO_IDENTIF**].
+A su llegada paciente taquipnéico (36xmin), hemodinámicamente estable con SpO2: 92-93% con VMK al 60%. El paciente evoluciona desfavorablemente , con aumento de necesidaddes de FiO2 con LNAF (70%) y taquipnea por lo que se preocede a IOT el [**FECHAS**] sin incidencias. Por weaning prolongado en relación a mal despertar , se realiza traqueostomía quirúrgica el [**FECHAS**].
+Como complicaciones de la VM presentó un neumotorax derecho el [**FECHAS**] que precisó drenaje torácico hasta_________ por resolución del mismo.
+Además se completó estudio con AngioTC torácico que no permite descartar TEP (defecto de repleción vs artefacto) en LID así como focos compatibles con neumonia organizativa, se inicio metilprednisolona a 0.5mg/kg/24h en pauta descendiente y se mantiene con enoxaparina por DDimero elevado.
+Buena evolución posterior, se ha podido progresar en el weaning y desde el [**FECHAS**] se mantiene en respiración espontánea, inicialmente con LNAF y posteriormente con termovent alterno con venturi. Se cambia a cánula Shilley fenestrada ([**FECHAS**]), pendiente de iniciar oclusión.
+Muy miopático y desocnectado del medio, con episodios fluctuantes de agitación y desorientación por lo que se inició paracetamol.
+2. COMPLICACIONES INFECCIOSAS
+En los frotis de vigilancia de la [**NUMERO_IDENTIF**] se aisla en aspirado traqueal un S.Aureus ademas de aumento de reactantes de fase agudo y pico febril por lo que recibió tratamiento con linezolid y meropenem de forma empirica y posteriormente se descalo a meropenem segun antibiograma([**FECHAS**]-[**FECHAS**])
+Durante el ingreso por nuevo pico febril y aumento de rectantes se tomaron cultivos aislandose un s. coagulasa negativo 1/2 hemocultivos ([**FECHAS**]) por lo que se cambiaron cateteres y recibió daptomicina y meropenem ([**FECHAS**]-[**FECHAS**]) , manteniéndose posteriormente afebril y con descenso de reactantes.
+Resto de cultivos realizados durante el ingreso sin hallazgos a destacar
+2. ANEMIA MICROCÍTICA CRÓNICA A ESTUDIO (transufisiones durante el ingreso)+ TROMBOCITOSIS ( Sospecha SMP)
+El paciente se encontraba a estudio por anemia microcitica ( sospecha B talasemia) , durante el ingreso precisó transfusión de 2CHM por anemización aguda en dos ocasiones , no exterorización de sangrado.
+En las analiticas de control se objetivan cifras de plaquetas de hasta 700.000, inicialmente se orientó como reactante de fase aguda, sin embargo actualmente no presenta elevación de otros reactantes y persisten elevadas.
+En este contexto y dado que también presenta una esplenomegalia que se identificó de forma incidental (ver punto 3) , se ha solicitado IC a Hematología por sospecha de sindrome mieloproliferativo.
+3 BILIRRUBINEMIA INESPECIFICA
+3.1 ESPLENOMEGALIA Y LESIONES ESPLÉNICAS INCIDENTALES a estudio
+Por hiperbilirubinemia se realizó ecografia abdominal durante el ingreso que visualiza vesicula biliar distendida con barro biliar, y como hallazgo incidental esplenomegalia y quistes esplénicos inespecificos, recomiendan ampliar estudio por TC que se realiza el [**FECHAS**] y plantea el diagnóstico diferencial entre infartos vs abscesos.
+En conjunto con infecciones se decidió completar estudio de posibles abscesos esplénicos, dado que el paciente se mantuvo febricular a finales de [**FECHAS**]. Se realiza ecotransesofágico ([**FECHAS**]) que descarta endocarditis y ante la baja sospecha clinica de infeccion activa y imagen radiológica dudosa se decide parar meropenem que llevaba de forma empirica y recomentar imagenes con equipo de TC abdomen.
+En el momento del traslado, afebril, sin antibioterapia activa.

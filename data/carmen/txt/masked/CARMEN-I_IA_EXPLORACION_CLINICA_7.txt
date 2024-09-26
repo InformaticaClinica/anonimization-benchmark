@@ -1,0 +1,9 @@
+
+[**FECHAS**]-16:00:00: FiO2 (%) 35, Frecuencia respiratoria (rpm) 35, Puls ioximetría (%) 90, Tª axilar (ºC) 36.4. [**FECHAS**]-00:00:00 : PAS (mm Hg ) 181, PAD (mm Hg) 91.
+* EXPLORACIÓN FÍSICA EN SALA:
+Neurológico: Desorientada en espacio y tiempo, entiende órdenes sencillas, moviliza las 4 extremidades, sin signos de focalidad neurológica ni meningismo.
+Respiratorio: Taquipneica, con SaO2 de 90% con oxigeno con VK 60%. A la auscultación con presencia de roncus generalizados, disociación otraco abdominal y tiraje.
+Cardiovascular: Ruidos cardiacos ritmicos, no soplos, no signos de hipoperfusión distal.
+Abdomen: Globoso, blando, no doloroso, sin signos de irritación abdominal.
+Extremidades eutróficas, con edemas bimaleolares, llenado capilar < 2 segundos, pulsos periféricos.
+ 

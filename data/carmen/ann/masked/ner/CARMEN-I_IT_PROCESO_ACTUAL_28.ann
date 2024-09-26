@@ -1,0 +1,26 @@
+T8	ENFERMEDAD 333 359	insuficiencia respiratoria
+T9	ENFERMEDAD 376 397	infección porCOVID 19
+T10	ENFERMEDAD 805 835	descompensación de la diabetes
+T11	ENFERMEDAD 840 853	hiperglucemia
+T12	FARMACO 427 429	O2
+T13	FARMACO 578 588	remdesevir
+T14	FARMACO 628 640	dexametasona
+T15	FARMACO 728 736	losartan
+T16	FARMACO 750 760	amlodipino
+T17	FARMACO 887 895	insulina
+T18	HUMANO 0 8	Paciente
+T19	HUMANO 277 285	paciente
+T20	PROCEDIMIENTO 39 56	transplante renal
+T21	PROCEDIMIENTO 874 895	perfusion de insulina
+T22	SINTOMA 109 125	malestar general
+T23	SINTOMA 127 134	astènia
+T24	SINTOMA 136 149	artromialgias
+T25	SINTOMA 152 155	tos
+T26	SINTOMA 231 249	sensacion disneica
+T27	SINTOMA 649 682	empeoramiento de la función renal
+T28	PROCEDIMIENTO 298 315	TAR+ para CoVid19
+T29	SINTOMA 298 315	TAR+ para CoVid19
+T30	ENFERMEDAD 308 315	CoVid19
+T31	PROCEDIMIENTO 535 542	Monagan
+T32	SINTOMA 765 792	cifras tensionales elevadas
+T1	SINTOMA 403 429	altos requerimientos de O2

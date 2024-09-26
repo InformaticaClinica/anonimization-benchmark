@@ -1,0 +1,41 @@
+T11	ENFERMEDAD 1324 1348	enfermedades infecciosas
+T12	FARMACO 882 892	remdesivir
+T13	FARMACO 895 906	baricitinib
+T14	FARMACO 1027 1034	oxígeno
+T15	FARMACO 1207 1218	ceftriaxona
+T16	HUMANO 227 241	Paciente mujer
+T17	HUMANO 765 773	paciente
+T18	PROCEDIMIENTO 112 115	TAR
+T19	PROCEDIMIENTO 341 344	TAR
+T20	PROCEDIMIENTO 518 526	RX tórax
+T21	PROCEDIMIENTO 610 625	perfil hepático
+T22	PROCEDIMIENTO 1082 1094	hemocultivos
+T23	PROCEDIMIENTO 1171 1183	hemocultivos
+T24	PROCEDIMIENTO 1427 1438	aislamiento
+T25	SINTOMA 83 101	fiebre persistente
+T26	SINTOMA 291 297	fiebre
+T27	SINTOMA 409 415	febril
+T28	SINTOMA 423 448	hemodinámicamente estable
+T29	SINTOMA 470 493	Crepitantes bilaterales
+T30	SINTOMA 556 588	infiltrado intesrsticial bibasal
+T31	SINTOMA 610 632	perfil hepático normal
+T32	SINTOMA 667 677	Leucopenia
+T33	SINTOMA 687 697	linfopenia
+T34	SINTOMA 787 805	fiebre persistente
+T35	SINTOMA 808 852	sat basal en el límite bajo de la normalidad
+T36	SINTOMA 942 949	afebril
+T37	SINTOMA 1041 1077	descenso de reactantes de fase aguda
+T38	SINTOMA 1112 1123	pico febril
+T39	SINTOMA 1124 1163	se aisla stafilococo coagulasa negativo
+T40	SPECIES 40 49	SARS-COV2
+T43	SPECIES 1133 1163	stafilococo coagulasa negativo
+T44	ENFERMEDAD 17 49	NEUMONÍA BILATERAL POR SARS-COV2
+T45	SINTOMA 112 124	TAR positivo
+T46	PROCEDIMIENTO 190 226	vacuna sinopharm (Chequia) (2 dosis)
+T47	SINTOMA 341 369	TAR el 5/02 que fue positivo
+T48	SINTOMA 531 545	poco inspirada
+T49	SINTOMA 634 653	ferritna no elevada
+T50	SINTOMA 655 665	LDH normal
+T51	PROCEDIMIENTO 1124 1132	se aisla
+T52	PROCEDIMIENTO 590 599	Analítica
+T53	PROCEDIMIENTO 997 1008	radiológica

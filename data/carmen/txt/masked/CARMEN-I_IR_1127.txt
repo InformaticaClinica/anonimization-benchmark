@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA COVID-19
+
+protocolo:
+RX TORAX PA Y L
+
+conclusiones:
+Patrón alveolar bilateral y difuso de predominio periférico con mayor afectación de campos inferiores y medios, sugestivo de neumonía por COVID.
+
+descrip:
+RX  PORTATIL  TORAX

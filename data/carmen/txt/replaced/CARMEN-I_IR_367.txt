@@ -1,0 +1,19 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX de tórax portátil AP. Se compara con RX previa del 27/08/2022.
+
+resultados:
+Se observa patrón alveolo-intersticial en campos inferiores bilaterales de predominio derecho en relación con probable COVID que, a pesar de diferencias técnicas entre ambas adquisiciones, no se aprecia una progresión remarcable.
+Índice cardiotorácico aumentado, botón aórtico prominente y calcificaciones ateromatosas, sin cambios.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+RX  PORTATIL  TORAX

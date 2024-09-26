@@ -1,0 +1,24 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] amb limfoma d'alt grau i COVID19. Presenta empitjorament clínic i radiològic amb tendència a la consolidació.
+Interessa descartar NO. Moltes gràcies.
+COVID19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Moderado derrame pleural bilateral.
+No se evidencia derrame pleural o pericárdico.
+Presenta múltiples áreas parcheadas de vidrio deslustrado y consolidación bilaterales de predomionio superior coherentes con afectación pulmonar por COVID. No objetivo claras imágenes que sugieran neumonía organizativa.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

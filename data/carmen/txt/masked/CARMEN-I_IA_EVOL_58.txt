@@ -1,0 +1,30 @@
+1. MM sintomático, recibió tratamiento con Isa-KRD con múltiples complicaciones.
+* Actualmente VRD x 4. Pendiente realizar TASP
+2. Síncopes de repetición asociados a estrés.
+3. Hiperferretinemia -> eritroaféresis
+4. Infección por SARS-CoV-2
+* COVID-19 ([**FECHAS**])  Vacuna x 3 / Ab+ ([**FECHAS**])
+* Inicio de sintomatología [**FECHAS**]
+* PCR+ CT 35 ([**FECHAS**])
+----------------------
+Paciente con MM en tratamiento con VRD. Pauta de vacunación completa 3 dosis. Antecedente de infección por COVID en [**FECHAS**] y presencia de anticuerpos anti-COVID en [**FECHAS**].
+Inicia con fiebre y sintomatología respiratoria de vías altas el [**FECHAS**] motivo por el cual se realiza un test antigénico que va a ser positivo.
+La evolución clínica ha sido satisfactoria, con rápida resolución de los síntomas. El [**FECHAS**] se realiza una PCR de control que es positiva, decidiéndose ingrear para valorar si requiere tratamiento. El CT de la PCR es de 35. Se comenta con infecciosas y debido a que el CT es muy alto, es probablemente no infectivo, por lo que se decide realizar RNA subgenómico y repetir la PCR ([**FECHAS**]).
+Actualmente el paciente se encuentra asintomático, con analítica normal, sin encontrar parámetros inflamatorios elevados. La nueva PCR es positiva pero con un CT >37, debido a esto, se decide alta.
+
+NOTA DE ALTA
+1. MM sintomático, recibió tratamiento con Isa-KRD con múltiples complicaciones.
+* Actualmente VRD x 4. Pendiente realizar TASP
+2. Síncopes de repetición asociados a estrés.
+3. Hiperferretinemia -> eritroaféresis
+4. Infección por SARS-CoV-2
+* COVID-19 ([**FECHAS**])  Vacuna x 3 / Ab+ ([**FECHAS**])
+* Inicio de sintomatología [**FECHAS**]
+* PCR+ CT 35 ([**FECHAS**])
+----------------------
+Paciente con MM en tratamiento con VRD. Pauta de vacunación completa 3 dosis. Antecedente de infección por COVID en [**FECHAS**] y presencia de anticuerpos anti-COVID en [**FECHAS**].
+Inicia con fiebre y sintomatología respiratoria de vías altas el [**FECHAS**] motivo por el cual se realiza un test antigénico que va a ser positivo.
+La evolución clínica ha sido satisfactoria, con rápida resolución de los síntomas. El [**FECHAS**] se realiza una PCR de control que es positiva, decidiéndose ingrear para valorar si requiere tratamiento. El CT de la PCR es de 35. Se comenta con infecciosas y debido a que el CT es muy alto, es probablemente no infectivo, por lo que se decide realizar RNA subgenómico y repetir la PCR ([**FECHAS**]).
+Actualmente el paciente se encuentra asintomático, con analítica normal, sin encontrar parámetros inflamatorios elevados. La nueva PCR es positiva pero con un CT >37, debido a esto, se decide alta.
+Tiene visita de seguimiento en Hematología el [**FECHAS**] con Dra.
+[**NOMBRE_PERSONAL_SANITARIO**]. Tratamiento sin cambios.

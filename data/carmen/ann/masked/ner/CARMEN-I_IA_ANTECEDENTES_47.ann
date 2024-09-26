@@ -1,0 +1,40 @@
+T13	ENFERMEDAD 324 345	Hipertensión arterial
+T14	ENFERMEDAD 372 396	Diabetes Mellitus tipo 2
+T15	ENFERMEDAD 729 739	nefropatía
+T16	ENFERMEDAD 756 773	Parálisis de Bell
+T17	ENFERMEDAD 778 824	Colecistitis crónica secundaria a colelitiasis
+T18	ENFERMEDAD 958 982	ectasia de vías biliares
+T19	ENFERMEDAD 996 1015	hipertensión portal
+T20	ENFERMEDAD 1244 1264	angiomiolipoma renal
+T21	ENFERMEDAD 1405 1425	contractura cervical
+T22	ENFERMEDAD 1482 1497	fracturas óseas
+T23	ENFERMEDAD 1545 1560	Amaurosis Fugax
+T24	ENFERMEDAD 1269 1286	Cefalea Tensional
+T25	ENFERMEDAD 67 90	alergias medicamentosas
+T26	ENFERMEDAD 493 590	retinopatía diabética desde [**FECHAS**] (hemorragia superonasal derecha y exudados paramaculares
+T27	SINTOMA 647 685	Prueba de esfuerzo [**FECHAS**] normal
+T28	SINTOMA 1317 1338	focalidad neurológica
+T29	ENFERMEDAD 1635 1648	Hipermenorrea
+T30	FARMACO 1362 1373	paracetamol
+T31	FARMACO 1764 1773	Glicazida
+T32	FARMACO 1784 1807	Linagliptina/Metformina
+T33	FARMACO 1825 1834	Enalapril
+T34	PROCEDIMIENTO 279 291	DIU hormonal
+T35	PROCEDIMIENTO 416 437	antidiabéticos orales
+T36	PROCEDIMIENTO 847 876	colecistectomía laparoscópica
+T37	PROCEDIMIENTO 893 912	Ecografía abdominal
+T38	PROCEDIMIENTO 1428 1438	TC craneal
+T39	PROCEDIMIENTO 1457 1477	Radiografía cervical
+T40	HUMANO 1 29	[**SEXO_SUJETO_ASISTENCIA**]
+T41	SINTOMA 704 715	albuminuria
+T42	SINTOMA 930 943	hígado normal
+T43	ENFERMEDAD 948 952	LOEs
+T44	SINTOMA 1017 1047	área pancreática sin hallazgos
+T45	SINTOMA 1049 1070	bazo de tamaño normal
+T46	SINTOMA 1073 1111	riñones sin alteraciones en morfología
+T47	SINTOMA 1149 1188	ecorrefringencia nodular cortical renal
+T48	SINTOMA 1428 1455	TC craneal sin alteraciones
+T49	PROCEDIMIENTO 1666 1676	DIU mirena
+T50	PROCEDIMIENTO 1718 1730	Cribaje mama
+T51	SINTOMA 1718 1739	Cribaje mama correcto
+T1	ENFERMEDAD 216 231	hábitos tóxicos

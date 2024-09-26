@@ -1,0 +1,28 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Consolidación: SI, en campo pulmonar superior derecho y otra pequeña en campo inferior izquierdo.
+Patrón intersticial: SI
+Distribución: difusa de predominio periférico.
+Campos pulmonares:
+-Derecho: superior / medio / inferior.
+-Izquierdo: medio / inferior.
+Otros hallazgos relevantes: elongación aórtica y probable cardiomegalia (difícil de valorar por rx oblicuada).
+EVOLUCION (se compara con RX previa de hace 5 dias)
+Extensión opacidades: Progresión
+Consolidación: Progresión. La consolidación en campo pulmonar superior derecho ha aumentado y condiciona retracción mediastínica, por lo que es sugestiva de atelectasia obstructiva.
+CONCLUSION:
+Afectación pulmonar por COVID que muestra progresión respecto a la RX previa.
+
+descrip:
+RX  PORTATIL  TORAX

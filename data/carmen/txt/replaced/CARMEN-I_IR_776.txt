@@ -1,0 +1,14 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA COVID 19
+
+conclusiones:
+Elevación hemidiafragma derecho.
+Mejría radiólogia con disminución de la densidas de la consolidación en LSI.
+Aparición de pequeños focos consolidativos en pulmón derecho, subplaural en campo medio y yuxtadiafrgmático en accampo inferior.
+
+descrip:
+RX  PORTATIL  TORAX

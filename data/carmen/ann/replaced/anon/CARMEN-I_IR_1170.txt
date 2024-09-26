@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Deterioro cognitivo
+FRA AKIN I SOBRE ERC
+
+protocolo:
+TC craneal basal
+
+resultados:
+No hay evidencia de lesiones ocupantes de espacio ni de patología hemorrágica aguda.
+Moderado ensanchamiento de los surcos cerebrales de predominio silviano por cambios de atrofia cortical.
+Moderadas áreas hipodensas en sustancia blanca periventricular en relación a patología de pequeño vaso, con afectación lacunar crónica capsuloganglionar.
+No se observan desplazamientos valorables de las estructuras de línea media.
+Cisternas basales amplias y libres.
+
+conclusiones:
+Atrofia cortical de predominio temporal y perisilviano
+Signos de leucoraiosis por patología de pequeño vaso y lesiones lacunares isquémicas crónicas en ganglios basales.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,25 @@
+T4	SPECIES 39 114	Escherichia coli soca productora de betalactamasa d´espectre ampliat (BLEA)
+T6	ENFERMEDAD 198 206	COVID-19
+T7	SINTOMA 620 665	Vesícula biliar distendida, con paredes finas
+T8	SINTOMA 882 913	Bazo homogéneo de tamaño normal
+T9	ENFERMEDAD 620 702	Vesícula biliar distendida, con paredes finas y abundantes litiasis y barro biliar
+T10	ENFERMEDAD 753 771	colecistitis aguda
+T11	FARMACO 127 136	Amikacina
+T12	FARMACO 138 149	Gentamicina
+T13	FARMACO 151 162	Tobramicina
+T14	FARMACO 177 187	Piper/Tazo
+T15	PROCEDIMIENTO 3 16	MICROBIOLOGÍA
+T16	PROCEDIMIENTO 20 31	HEMOCULTIVO
+T17	PROCEDIMIENTO 226 245	ECOGRAFÍA ABDOMINAL
+T18	SINTOMA 20 55	HEMOCULTIVO 16/08: Escherichia coli
+T19	PROCEDIMIENTO 164 175	Carbapenems
+T20	PROCEDIMIENTO 191 206	FROTIS COVID-19
+T21	SINTOMA 191 222	FROTIS COVID-19 16/08: Positivo
+T22	SINTOMA 253 304	Hígado de tamaño normal con ecoestructura homogénea
+T23	SINTOMA 338 396	Vena porta permeable de calibre normal y flujo hepatopetal
+T24	ENFERMEDAD 402 504	leve dilatación de la vía biliar intrahepática en el lóbulo hepático izuqierdo y del conducto colédoco
+T25	SINTOMA 794 847	Páncreas (cabeza y cuerpo) sin alteraciones evidentes
+T26	SINTOMA 849 880	conducto de Wirsung no dilatado
+T27	SINTOMA 915 991	Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora
+T28	SINTOMA 1007 1035	líquido libre intraabdominal
+T29	ENFERMEDAD 310 326	lesiones focales

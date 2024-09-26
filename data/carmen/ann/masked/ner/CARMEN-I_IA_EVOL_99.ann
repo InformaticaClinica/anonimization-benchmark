@@ -1,0 +1,116 @@
+T9	FARMACO 1205 1224	Ritonavir/Lopinavir
+T10	FARMACO 1226 1243	Hidroxicloroquina
+T11	FARMACO 1246 1258	Azitromicina
+T12	FARMACO 1329 1340	Ceftriaxona
+T13	FARMACO 1343 1355	Teicoplanina
+T14	FARMACO 1613 1624	Tocilizumab
+T15	FARMACO 1734 1753	Ritonavir/Lopinavir
+T16	FARMACO 2750 2762	azitromicina
+T17	FARMACO 2765 2782	hidroxicloroquina
+T18	FARMACO 3501 3511	Loperamida
+T19	FARMACO 3514 3528	Plantago ovata
+T20	FARMACO 3530 3539	Plantaben
+T21	FARMACO 4032 4043	Tocilizumab
+T22	FARMACO 4048 4060	azitromicina
+T23	FARMACO 4065 4082	hidroxicloroquina
+T24	FARMACO 4087 4099	teicoplanina
+T25	FARMACO 4466 4476	metformina
+T26	FARMACO 4496 4508	linagliptina
+T27	FARMACO 1459 1461	O2
+T28	FARMACO 1900 1907	oxígeno
+T29	PROCEDIMIENTO 3551 3563	sueroterapia
+T30	FARMACO 3601 3607	calcio
+T31	FARMACO 3610 3617	potasio
+T32	FARMACO 4251 4259	insulina
+T33	SINTOMA 164 174	normotensa
+T34	SINTOMA 176 188	taquicárdica
+T35	SINTOMA 202 213	Taquipneica
+T36	SINTOMA 235 267	Desorientada en tiempo y espacio
+T37	SINTOMA 307 344	crepitantes en ambas bases pulmonares
+T38	SINTOMA 394 435	elevación de los reactantes de fase aguda
+T39	ENFERMEDAD 516 529	Hiperglucemia
+T40	SINTOMA 594 624	Alteración del perfil hepático
+T41	SINTOMA 642 672	Alteración de la función renal
+T42	SINTOMA 731 755	alteración del ionograma
+T43	SINTOMA 968 987	taquicardia sinusal
+T44	SINTOMA 989 998	PR normal
+T45	SINTOMA 1000 1012	QRS estrecho
+T46	SINTOMA 1014 1024	QTc normal
+T47	SINTOMA 1029 1062	alteraciones de la repolarización
+T48	SINTOMA 1399 1421	deterioro respiratorio
+T49	SINTOMA 1478 1519	elevación de los reactantes de fase aguda
+T50	SINTOMA 1922 1930	eupneica
+T51	SINTOMA 2070 2092	elevación del dímero D
+T52	SINTOMA 2202 2225	infiltrados bilaterales
+T53	SINTOMA 2317 2327	linfopenia
+T54	SINTOMA 2600 2627	SARS-CoV- 2 que es positivo
+T55	SINTOMA 3346 3373	alteraciones electrolíticas
+T56	ENFERMEDAD 3378 3391	hipopotasemia
+T57	ENFERMEDAD 3404 3418	hipomagnesemia
+T58	SINTOMA 3938 3945	afebril
+T59	ENFERMEDAD 37 55	NEUMONÍA BILATERAL
+T60	ENFERMEDAD 1134 1176	neumonía bilateral por probable SARS-CoV-2
+T61	ENFERMEDAD 2156 2159	TEP
+T62	ENFERMEDAD 2787 2812	INSUFICIENCIA RENAL AGUDA
+T63	ENFERMEDAD 3049 3097	insuficiencia renal aguda de etiología pre-renal
+T64	ENFERMEDAD 3202 3245	DIARREAS POR ILEOSTOMÍA y DISELECTROLITEMIA
+T65	ENFERMEDAD 3432 3444	hipocalcemia
+T66	ENFERMEDAD 3694 3705	NEUTROPENIA
+T67	ENFERMEDAD 4153 4156	DM2
+T68	FARMACO 1294 1315	cobertura antibiótica
+T69	FARMACO 3551 3563	sueroterapia
+T70	PROCEDIMIENTO 275 293	exploración física
+T71	PROCEDIMIENTO 811 829	Sedimento de orina
+T72	PROCEDIMIENTO 856 876	Radiografía de tórax
+T73	PROCEDIMIENTO 945 963	Electrocardiograma
+T74	PROCEDIMIENTO 1950 1964	oxigenoterapia
+T75	PROCEDIMIENTO 2017 2031	rehabilitación
+T76	PROCEDIMIENTO 2126 2142	angioTC pulmonar
+T77	PROCEDIMIENTO 2466 2490	aislamiento en domicilio
+T78	PROCEDIMIENTO 2510 2519	anamnesis
+T79	PROCEDIMIENTO 2684 2695	aislamiento
+T80	PROCEDIMIENTO 3110 3139	hidratación endovenosa y oral
+T81	HUMANO 1381 1389	paciente
+T82	HUMANO 1805 1813	paciente
+T83	HUMANO 2439 2447	paciente
+T84	HUMANO 2708 2716	paciente
+T85	HUMANO 3023 3031	paciente
+T86	HUMANO 3249 3257	paciente
+T87	HUMANO 3917 3925	paciente
+T88	HUMANO 4546 4573	Médico de Atención Primaria
+T89	ENFERMEDAD 69 77	COVID-19
+T90	SINTOMA 190 200	Febricular
+T91	SINTOMA 542 552	Linfopenia
+T92	SINTOMA 564 580	Dímero D elevado
+T93	SINTOMA 881 943	infiltrados pulmonares bilaterales, de distribución periférica
+T94	PROCEDIMIENTO 1091 1104	radiográficos
+T95	SPECIES 1166 1176	SARS-CoV-2
+T96	PROCEDIMIENTO 1692 1702	ileostomía
+T97	SINTOMA 1670 1702	débito líquido por la ileostomía
+T98	SINTOMA 1975 1994	deterioro funcional
+T99	PROCEDIMIENTO 2161 2177	Radiológicamente
+T100	SINTOMA 2342 2361	estabilidad clínica
+T101	SPECIES 2600 2611	SARS-CoV- 2
+T102	PROCEDIMIENTO 2575 2611	frotis nasofaríngeo para SARS-CoV- 2
+T103	ENFERMEDAD 3202 3225	DIARREAS POR ILEOSTOMÍA
+T104	PROCEDIMIENTO 3286 3296	ileostomía
+T105	SINTOMA 3267 3296	débito líquido por ileostomía
+T106	FARMACO 3591 3599	magnesio
+T107	SINTOMA 3812 3859	descenso progresivo de las cifras de leucocitos
+T108	ENFERMEDAD 2813 2816	AKI
+T109	PROCEDIMIENTO 1464 1473	analítica
+T110	PROCEDIMIENTO 2871 2880	analítica
+T111	PROCEDIMIENTO 4126 4135	analítica
+T112	PROCEDIMIENTO 4176 4185	analítica
+T113	PROCEDIMIENTO 4578 4587	analítica
+T114	PROCEDIMIENTO 3763 3773	analíticas
+T115	PROCEDIMIENTO 1294 1324	cobertura antibiótica empírica
+T116	PROCEDIMIENTO 3734 3759	tratamiento farmacológico
+T117	PROCEDIMIENTO 3996 4021	tratamiento farmacológico
+T118	PROCEDIMIENTO 4423 4448	tratamiento farmacológico
+T1	SINTOMA 1426 1461	aumento de los requerimientos de O2
+T2	SINTOMA 1852 1907	disminuir progresivamente los requerimientos de oxígeno
+T3	PROCEDIMIENTO 2228 2242	analíticamente
+T4	SINTOMA 2243 2282	mejoría de los parámetros inflamatorios
+T5	SINTOMA 3144 3162	mejoría progresiva
+T6	SINTOMA 3622 3640	mejoría progresiva

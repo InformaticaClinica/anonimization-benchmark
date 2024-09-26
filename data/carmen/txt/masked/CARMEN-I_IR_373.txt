@@ -1,0 +1,34 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] amb IRC en HD i pneumopatia crònci aingressada per infecció per SARS-CoV-2 amb insuficiència respiratòria (inici de símptomes el [**FECHAS**]). S'inicia tractament amb dexametasona, però tot i així (avui dia 9) presenta progressió clínica amb augment de requeriment d'oxigen (fins a FiO2 40%), crepitants bilaterals fins a camps mitjos.
+Hemodiàlisi ahir. Anlítica amb descens de PCR, però ferritina de 1266. I augment del Ddímer (1500). Sol·licito angioTAC per a descartar TEP +/- pneumònia organitzativa.
+COVID +
+
+protocolo:
+AngioTC pulmonar urgente.
+Obs. Dr. [**NOMBRE_PERSONAL_SANITARIO**].
+
+resultados:
+Estudio comparativo con TC torácico del [**FECHAS**].
+Sin evidencia de defectos de repleción de contraste que sugieran TEP en arterias pulmonares principales, ramas lobares ni segmentarias.
+Árbol tráqueo-bronquial principal sin alteraciones aparentes (estudio adquirido en espiración).
+Aislados infiltrados pulmonares en vidrio deslustrado de distribución periférica en lóbulos superiores, compatible con neumonía por Covid-19 con afectación de < 50% del parénquima pulmonar.
+No signos de neumonía organizativa.
+Atelectasia pasiva de segmentos basales de ambos LLII.
+Discretas opacidades reticulares en el LM y LII, sugestivo de neumopatía intersticial incipiente, inespecíficas y sin cambios.
+Adenopatías hiliares derechas en rango patológico, no presentes en estudio previo, de probable carácter reactivo. No adenopatías axilares ni mediastínicas de tamaño valorable.
+Cardiomegalia con dilatación auricular izquierda. Calcificaciones coronarias. Calcificación valvular aórtica. Marcapasos.
+Leve derrame pleural con componente cisural y de engrosamiento de septos interlobulillares, asociado a discreto reflujo de contraste a VCI, compatible con signos de insuficiencia cardíaca.
+Cifoescoliosis que condiciona deformidad de la caja torácica.
+Riñones atróficos con quistes corticales bilaterales, el más craneal del RD con contenido basalmente hiperdenso, probable contenido hemorrágico- proteináceo.
+
+conclusiones:
+Sin evidencia de TEP.
+Neumonía bilateral por Covid-19 (<50% del parénquima), sin signos de neumonía organizativa.
+Hallazgos sugestivos de insuficiencia cardíaca.
+
+descrip:
+ANGIO TC PULMONAR

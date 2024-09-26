@@ -1,0 +1,33 @@
+
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] de edad. Alérgico a la amiodarona y enalapril con mala tolerancia a los nitratos por cefalea. Sin hábitos tóxicos.
+Independiente para las ABVD. Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**].
+**ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico
+2. DISLIPEMIA en tratamiento con estatinas
+3. FIBRILACIÓN AURICULAR CRÓNICA PERMANENTE. Se han relizado previamente 3 cardioversiones y ablación en dos ocasiones, actualmente en tratamiento frenador con calcio antagonistas y beta bloqueantes, anticoagulado con sintrom.
+* En el [**FECHAS**], recibió tratamiento ablativo con RF en 2 ocasiones.
+* En el [**FECHAS**], 3 cardioversiones eléctricas.
+* En el [**FECHAS**] ablación de las venas pulmonares. Actualmente sigue en FA.
+4. CARDIOPATÍA ISQUÉMICA CRÓNICA: Debut en el [**FECHAS**] en forma de IAM inferior, se colocó STENT en la CD.
+* Angina Inestable en [**FECHAS**]. Se realiza coronariografía que objetiva Stent en CD proximal permeable. TC 20%. Sin estenosis angiográficamente significativas. Cuadro coronario igual al cateterismo del [**FECHAS**].
+Se realiza ecocardiograma que muestra VI no dilatado, motilidad global conservada, hipocinesia inferior leve. FE estimada 57%. VD ligeramente dilatado e hipocinético. Moderada dilatación AI. Insuficiencia mitral y aórtica ligeras. En conclusión, sin cambios respecto a última ecografía de [**FECHAS**].
+Desde entonces, Angina de esfuerzo que segun CAR es de origen vasoespástico debido a la normalidad de las pruebas realizadas en el ultimo ingreso. Última consulta por dolor anginoso el [**FECHAS**].
+5. SAHS, portador de CPAP nocturna.
+**ANTECEDENTES QUIRURGICOS.
+1. NEOPLASIA DE PRÓSTATA adenocarcinoma tratado con exéresis quirúrgica en [**FECHAS**], recidiva local tratada con radioterapia en [**FECHAS**]. Seguimiento por servicio de Urología, libre de enfermedad.
+2. COLECISTECTOMIA
+* MEDICACIÓ HABITUAL (Actualizado el [**FECHAS**]):
+Pantecta 20mg Cada 12 horas.
+Amlodipino 2,5 MG/d
+Paracetamol 1000 MG/d
+Bisoprolol 5 MG/12h
+AAS 100 MG/d.
+Atorvastatina 20 MG/d
+Alprazolam 0,75 MG/d
+Tobradex colirio
+Sintrom SEGÚN PAUTA
+Elidel 10 mg/g crema
+Cafinitrina a demanda
+Alprazolam 1.5mg/d
+Diltiazem 150mg/d.
+ 

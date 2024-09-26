@@ -1,0 +1,42 @@
+T5	ENFERMEDAD 653 679	insuficiencia respiratoria
+T6	ENFERMEDAD 730 761	neumonía intersticial bilateral
+T7	ENFERMEDAD 1073 1106	neumonia bilateral por SARS-CoV-2
+T8	ENFERMEDAD 1120 1145	sobreinfección bacteriana
+T9	FARMACO 1195 1206	ceftarolina
+T10	FARMACO 1278 1288	remdesivir
+T11	HUMANO 48 56	paciente
+T12	HUMANO 1486 1496	familiares
+T13	HUMANO 1517 1525	paciente
+T14	PROCEDIMIENTO 122 138	test de antígeno
+T15	PROCEDIMIENTO 623 642	gasometría arterial
+T16	PROCEDIMIENTO 702 722	radiografía de tórax
+T17	PROCEDIMIENTO 818 837	analítica sanguínea
+T18	PROCEDIMIENTO 1167 1190	tratamiento antibiótico
+T19	PROCEDIMIENTO 1209 1236	tratamiento broncodilatador
+T20	PROCEDIMIENTO 1239 1250	corticoideo
+T21	PROCEDIMIENTO 1348 1383	cánulas nasales de alto flujo a 40%
+T22	PROCEDIMIENTO 1543 1565	intubación orotraquela
+T23	SINTOMA 174 177	tos
+T24	SINTOMA 182 195	expectoración
+T25	SINTOMA 211 222	sibilancias
+T26	SINTOMA 225 241	malestar general
+T27	SINTOMA 305 317	desaturación
+T28	SINTOMA 436 458	regular estado general
+T29	SINTOMA 463 492	tiraje clavicular y abdominal
+T30	SINTOMA 554 564	sibilantes
+T31	SINTOMA 577 588	crepitantes
+T32	SINTOMA 766 802	infiltrado asimétrico y condensativo
+T33	SINTOMA 848 885	elevación de reactantes de fase aguda
+T34	SINTOMA 935 947	leucocitosis
+T35	SINTOMA 1005 1015	linfopenia
+T36	SINTOMA 1437 1457	trabajo respiratorio
+T38	SPECIES 1096 1106	SARS-CoV-2
+T39	SPECIES 1135 1145	bacteriana
+T40	PROCEDIMIENTO 0 30	Vacunado con 3 dosis de Pfizer
+T41	ENFERMEDAD 57 62	COVID
+T42	SINTOMA 57 63	COVID+
+T43	SINTOMA 122 155	test de antígeno que fué positivo
+T44	SINTOMA 293 302	febricula
+T45	SINTOMA 952 963	neutrofilia
+T46	SINTOMA 1408 1430	correctas saturaciones
+T47	PROCEDIMIENTO 531 542	exploración

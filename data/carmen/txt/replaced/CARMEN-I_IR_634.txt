@@ -1,0 +1,20 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+elevación de BT en paciente ingresado x COVID
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+Ecografía abdominal PORTÁTIL urgente.
+
+conclusiones:
+Exploración muy limitada por condiciones basales del paciente.
+Hígado de tamaño normal y ecoestructura homogénea, de bordes lisos. No se observan lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal, con flujo hepatopetal.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No se aprecia líquido libre intraabdominal.

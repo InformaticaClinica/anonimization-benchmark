@@ -1,0 +1,5 @@
+
+- Control por médicos de referencia de UTR (Dr. [**NOMBRE_PERSONAL_SANITARIO**]) en 2 semanas
+- Analitica en [**HOSPITAL**], visita telefonica.
+- Se explican criterios de reconsulta.
+ 

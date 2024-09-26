@@ -1,0 +1,36 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Sospecha alta de TEP (claudicación respiratoria súbita) y VD dilatado por ecocardio a pie de cama. PACIENTE COVID+
+Infeccion COVID
+
+protocolo:
+ANGIO-TC PULMONAR y FASE TARDIA TORÁCICA URGENTE
+Contraste administrado vía CVC femoral.
+
+resultados:
+Estudio artefactado de endurecimiento del haz por los brazos del paciente y de movimiento cardíaco.
+Tubo de IOT con extremo a 1 cm de la carina.
+No se observan defectos de repleción en arterias pulmonares, ramas lobares o ramas segmentarias que sugieran la presencia de tromboembolismo pulmonar agudo.
+Tronco de la arteria pulmonar de 32 mm.  Aorta torácica ascendente de 37 mm. Arteria subclavia derecha aberrante.
+Arteria subclavia dolicoectasica (hasta 20 mm) y trombosis parcial (aproximadamente del 50%) a nivel del segmento subclavio-axilar. Debería valorarse antecedente de fístula de diálisis en ESI.
+Cardiomegália. Calcificación de arterias coronarias.
+Ganglios mediastínicos múltiples aumentados de tamaño y de aspecto reactivo.
+No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+No se observa neumotórax ni neumomediastino.
+Enfismea centrolobulillar y paraseptal de predominio en lóbulos superiores. Se observa un quiste aéreo de 19 mm en LSD y en LII.
+Áreas de vidrio deslustrado periféricas subpleurales difusas en ambos hemitórax que en algún punto asocian engrosamientos septaés condicionando un patrón de crazy-paving.
+Se observa consolidaciones bilaterales posterobasales con broncograma aéreo, que en el estudio tardío presenta hipocaptación de contraste y que por tante es compatible con proceso neumónico. Estas áreas asocian algunas bronquiectasias con discreta distorsión parenquimatosa en probable relación a componente de neumonía organizativa.
+En los cortes abdominales se observan ambos riñones poliquísticos.
+Pequeñas áreas hipocaptantes en bazo en relación a áreas hipoperfundidas.
+
+conclusiones:
+- No se observan signos de tromboembolismo pulmonar agudo.
+- Hallazgos en parénquima pulmonar compatibles con infección vírica por COVID-19 en el contexto epidemiológico actual con afectación de todos los lóbulos bilaterales, consolidación bibasal y probable componente de neumonía organizativa
+- Arteria subclavia izquierda elongada y tortuosa con trombosis parcial, cardiomegalia global, poliquistosis renal, pequeños infartos esplénicos.
+
+descrip:
+ANGIO TC PULMONAR

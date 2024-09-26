@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con ictus en tandem izquierdo que precisó colocación de stent carotídeo. En Tc de control focod e HSA silviana motivo por el que está únicamente monoantiagregado. Ruego realización de TC craneal por la mañana para valorar reintroducir doble antiagregación. Gracias.
+Hematoma Occipital Derecho
+
+protocolo:
+TC craneal basal de URGENCIA
+
+resultados:
+Se compara estudio con previo del [**FECHAS**]:
+Discreta disminución del hematoma silviano izquierdo. Alrededor del hematoma se observa un área de hipodensidad que ha aumentado de tamaño respecto al estudio previo sugestiva de lesión isquémica establecida.
+Sistema ventricular libre, de morfología y tamaño normal.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+
+conclusiones:
+Discreta disminución del hematoma silviano. Alrededor del hematoma se observa un área de hipodensidad que ha aumentado de tamaño respecto al estudio previo sugestiva de lesión isquémica establecida.
+
+descrip:
+TC CEREBRAL

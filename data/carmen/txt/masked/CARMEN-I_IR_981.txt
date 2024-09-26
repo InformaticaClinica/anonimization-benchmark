@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA COVID
+
+protocolo:
+RX torax portátil bipedestación. Se compara con RX del [**FECHAS**].
+
+resultados:
+EVOLUCION
+Extensión: Disminución
+Consolidación: Disminución
+Aparición de fibrosis: No
+
+conclusiones:
+Afectación pulmonar por COVID que muestra mejoría respecto a Rx previa ([**FECHAS**]).
+
+descrip:
+RX  PORTATIL  TORAX
+
+descrip:
+RX  PORTATIL  TORAX

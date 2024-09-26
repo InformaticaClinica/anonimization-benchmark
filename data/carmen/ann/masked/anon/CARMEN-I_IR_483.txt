@@ -1,0 +1,27 @@
+
+prueba:
+ANGIOPLASTIA TERRITORIO CAVA INFERIOR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] ingresada por ictus con diagnóstico de TVP extensa EII y TEP durante el ingreso. Actualmente en tratamiento con heparina sódica. Esta mañana presenta aumento del edema en EII y progresión hasta región proximal. Comentado con especialistas que recomiendan realización de trombectomía. Gracias.
+TROMBOSIS VENOSA PROFUNDA EXTENSA
+
+protocolo:
+Flebografia, Trombectomia i angioplàstia
+
+resultados:
+Sota anestèssia local i sedació e.v per part del Servei d'Anestèssia es realitza punció de vena jugular interna dreta i es col.loca filytre de tipus Celect a VCI , sense alliberar.
+Posteriorment es realitza punció de vena femoral superificial en direcció anterògrada i retrògrada.
+La flebografia demostra tombosi complerta de l'eix fémoro-popliti i dels troncs distals. S'adminitren 400000 UI d'uroquinasa.
+Es realitza trombectomia amb sistema de tromboaspiració "Indigo" obtenint abundant trombo.
+En el control es demostra dificultat de pas a la desembocadura de la vena ilíaca comú amb VCI. Es realiza dilatació amb balons de 12 i 16 mm x40mm. Discreta milloria post-dilatació.
+Es dóna per finalitzar el procediment.
+Decidim alliberar filtre a VCI i en 48 hores aproximadament es retirarà i es col.locarà stent a ilíaca primitiva esquerra, un cop hagin passat 48 hores amb decoagulació.
+Es retiren introductors femorals i es fa compressió manual 5 minuts.
+Sense incidències durant el procediment.
+
+conclusiones:
+.
+
+descrip:
+ANGIOPLASTIA TERRITORIO CAVA INFERIOR

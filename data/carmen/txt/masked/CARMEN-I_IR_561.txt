@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumonia por COVID. No mejoria clinica tras cortis. VM 60%. Hoy D-dimero >10.000. Valorar TEP.
+NEUMONIA POR COVID-19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Cardiomegalia con leve aumento de calibre del tronco de la arteria pulmonar (33 mm).
+Ateromatosis aórtica calcificada con calcificación de la válvula aórtica y calcificaicones coronarias.
+Ganglios paratraqueales derechos de tamaño borderline, inespecíficos. No se observan adenopatías axilares o mediastínicas de tamaño significativo.
+No se evidencia derrame pleural ni pericárdico.
+Extensos focos en vidrio deslustrado con engrosamiento de septos asociados (crazy paving) subpleurales , bilaterales y de distibución periférica. Se observa una tendencia a la consolidación de dichos focos, más marcado en segmentos posterobasales. Los hallazgos descritos son compatibles con infección pulmonar por COVID-19. Se observa un pequeño componente de distorsión parenquimatosa en bases que podría estar en relación a cierto grado de fibrosis (neumonia organizativa).
+Pequeña hernia de hiato.Nódulo suprarrenal derecho de 3 cm caracterizable como adenoma suprarrenal (-15UH).
+
+conclusiones:
+No se observa TEP.
+Hallazgos radiológicos compatibles con infección pulmonar por COVID-19 con tendencia a la consolidación en segmentos posterobasales. Se observa cierto componente de fibrosis en forma de NO.
+
+descrip:
+ANGIO TC PULMONAR

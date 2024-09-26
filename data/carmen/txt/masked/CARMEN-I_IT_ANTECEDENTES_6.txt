@@ -1,0 +1,22 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], no AMC, no hábitos tóxicos. Independiente para ABVD.
+Vive con su familia en domicilio, [**FAMILIARES_SUJETO_ASISTENCIA**] e [**FAMILIARES_SUJETO_ASISTENCIA**] (ambos SARS-CVO2 positivos paucisintomáticos).
+ANTECEDENTES PATOLÓGICOS:
+- DIABETES MELLITUS TIPO 2 en tratamiento con ADOs desde hace 5 años aprox. Seguimientos en Endocrino privado.
+FdO sin alteraciones.
+- DISLIPEMIA en tratamiento
+- HIPERTENSIÓN ARTERIAL en tratameinto hace >10 años.
+*Ecocardio [**FECHAS**]: FE 58%, valvulas normales, ligera hipertrofia septal, no dilatación de cavidades, patrones de disfunción diastólica tipo I, no trastornos de la contractilidad, FSG conservada, no IT ni signos de HTP.
+*ECG: RS a 98 lpm, eje a 0o, PR <0.20seg, QRS estrecho, buena progresión de onda R en precordiales, no alteraciones de la repolarización ni signos de isquemia aguda.
+- LITIASIS RENALES POR ÁCIDO ÚRICO en tratamiento con alopurinol sin nuevos episodios desde hace 15 años (no tenemos informes).
+- DMO normal
+MEDICACIÓN HABITUAL [**FECHAS**]
+- Metformina 425 mg/8h
+- Atorvastatina 20 mg/24h solamente L-Mx-V
+- Fenofibrato 145 mg/24 h????
+- Bisoprolol 2,5 mg/24 h
+- Hidroclorotiazida 12,5 mg/valsartan 160 mg/24h
+- Alopurinol 100 mg/24h
+TRAUMÁTICAS:
+- Fractura maleolo peroneal izquierdo ([**FECHAS**]) de alto impacto
+QUIRÚRGICAS:
+Rizòlisis de piramidal y troncater para liberación del femorocutaneo ([**FECHAS**]).

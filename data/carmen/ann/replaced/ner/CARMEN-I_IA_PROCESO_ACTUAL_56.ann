@@ -1,0 +1,22 @@
+T6	HUMANO 0 14	Paciente mujer
+T7	HUMANO 208 216	paciente
+T8	HUMANO 276 291	personas COVID+
+T9	HUMANO 303 310	hermana
+T10	HUMANO 326 335	bisabuela
+T11	HUMANO 452 457	amigo
+T12	PROCEDIMIENTO 479 498	vacunación completa
+T13	PROCEDIMIENTO 710 733	test de antígeno rápido
+T14	SINTOMA 48 64	malestar general
+T15	SINTOMA 76 79	tos
+T16	SINTOMA 84 104	expectoración blanca
+T17	SINTOMA 106 112	disnea
+T18	SINTOMA 120 126	vómito
+T19	SINTOMA 137 157	sensación distérmica
+T20	SINTOMA 162 171	temblores
+T23	ENFERMEDAD 285 290	COVID
+T24	SINTOMA 285 291	COVID+
+T25	ENFERMEDAD 365 370	COVID
+T26	SINTOMA 365 371	COVID+
+T27	SINTOMA 710 759	test de antígeno rápido que ha resultado negativo
+T28	PROCEDIMIENTO 514 522	vacunado
+T1	SINTOMA 654 688	empeoramiento de la sintomatología

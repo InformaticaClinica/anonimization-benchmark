@@ -1,0 +1,29 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Paciente con disminución brusca del nivel de conciencia.
+Hiponatremia resuelta.
+Episodios de sangrado sistémicos por coagulaopatia.
+Descartar sangrado, otra posibilidad diagnóstica seríamielinolisis central pontina.
+Gracias
+SEPSIS DE FOCO URINARIO POR E.COLI BLEA
+
+protocolo:
+TC craneal basal URGENTE
+
+resultados:
+Interpretación limitada por artefacto secundarios a movimientos del paciente. En estas condiciones:
+No se observan signos de sangrado intra ni extraaxial.
+Estructuras de la línea media centradas.
+Cisternas de la base libres.
+Leve dilatación del sistema ventricular asociada a ensanchamiento de surcos cerebrales en relación a cambios involutivos.
+Ténues áreas hipodensas en sustancia blanca periventricular en relación a patología de pequeño vaso. No se observan otras alteraciones significativas de la densidad del parénquima cerebral.
+Ocupación de aspecto mucoso del seno esfenoidal.
+
+conclusiones:
+Exploración sin signos de patología intracraneal aguda evidente por TC.
+
+descrip:
+TC CEREBRAL

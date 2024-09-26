@@ -1,0 +1,129 @@
+T6	SPECIES 618 624	HONGOS
+T7	SPECIES 626 633	ESPORAS
+T8	SPECIES 636 647	PSEUDOHIFAS
+T9	SPECIES 672 687	Microorganismes
+T10	SPECIES 699 710	flora mixta
+T11	SPECIES 714 750	cocs gram positius tipus estreptococ
+T12	SPECIES 753 760	llevats
+T13	SPECIES 880 908	colònies de: Aspergillus spp
+T14	SPECIES 942 971	colònies de: Candida albicans
+T15	SPECIES 994 999	Virus
+T16	SPECIES 1002 1018	bacteris atípics
+T17	SPECIES 1039 1055	Influenzavirus B
+T18	SPECIES 1057 1073	Influenzavirus C
+T19	SPECIES 1075 1091	Influenzavirus A
+T20	SPECIES 1093 1121	Virus respiratorio sincitial
+T21	SPECIES 1123 1134	Enterovirus
+T22	SPECIES 1136 1146	Adenovirus
+T23	SPECIES 1148 1170	Metapneumovirus humano
+T24	SPECIES 1172 1183	Coronavirus
+T25	SPECIES 1185 1201	Bocavirus humano
+T26	SPECIES 1203 1212	Rinovirus
+T27	SPECIES 1214 1243	Virus parainfluenza (1,2,3,4)
+T28	SPECIES 1245 1267	Legionella pneumophila
+T29	SPECIES 1269 1290	Mycoplasma pneumoniae
+T30	SPECIES 1292 1312	Chlamydia pneumoniae
+T31	SPECIES 1340 1352	micobacteris
+T32	SPECIES 1503 1514	Aspergillus
+T33	SPECIES 1535 1556	Pneumocystis jiroveci
+T34	SPECIES 1569 1580	P. jiroveci
+T35	SPECIES 1628 1636	bacteris
+T36	SPECIES 1706 1721	Microorganismes
+T37	SPECIES 1733 1744	flora mixta
+T38	SPECIES 1748 1784	cocs gram positius tipus estreptococ
+T39	SPECIES 1787 1794	llevats
+T40	SPECIES 1862 1890	colònies de: Aspergillus spp
+T41	SPECIES 1924 1953	colònies de: Candida albicans
+T42	SPECIES 2083 2095	micobacteris
+T43	HUMANO 3371 3379	paciente
+T44	SPECIES 545 560	MICROORGANISMOS
+T45	SPECIES 773 778	fongs
+T46	SPECIES 801 806	hifes
+T47	SPECIES 809 816	llevats
+T48	SPECIES 1418 1448	bacils àcid-alcohol resistents
+T49	SPECIES 1639 1644	fongs
+T50	SPECIES 1807 1812	fongs
+T51	SPECIES 1837 1842	hifes
+T52	SPECIES 2000 2012	Micobacteris
+T53	SPECIES 2161 2191	bacils àcid-alcohol resistents
+T55	SPECIES 3268 3275	fúngica
+T56	SPECIES 893 908	Aspergillus spp
+T57	SPECIES 955 971	Candida albicans
+T58	SPECIES 1937 1953	Candida albicans
+T59	SPECIES 1875 1890	Aspergillus spp
+T60	SINTOMA 60 119	Traquea y árbol bronquial permeable con secreciones mucosas
+T61	SINTOMA 2999 3011	nódulo mural
+T62	ENFERMEDAD 2266 2303	adenopatías mediastínicas ni axilares
+T63	ENFERMEDAD 2399 2429	derrame pleural ni pericárdico
+T64	ENFERMEDAD 2689 2718	bronquiolectasias de tracción
+T65	ENFERMEDAD 2721 2736	bronquiectasias
+T66	ENFERMEDAD 2794 2852	destrucción parenquimatoso (enfisema) centrrado en língula
+T67	ENFERMEDAD 2822 2830	enfisema
+T68	ENFERMEDAD 3403 3446	bronquiectasias en campos pulmonares medios
+T69	PROCEDIMIENTO 15 32	FIBROBRONCOSCOPIA
+T70	PROCEDIMIENTO 100 134	secreciones mucosas que se aspiran
+T71	PROCEDIMIENTO 202 205	BAS
+T72	PROCEDIMIENTO 211 233	estudio microbiológico
+T73	PROCEDIMIENTO 238 296	Lavado broncoalveolar en LM con 100ml de suero fisiológico
+T74	PROCEDIMIENTO 341 376	estudio citológico y microbiológico
+T75	PROCEDIMIENTO 441 462	LAVADO BRONCOALVEOLAR
+T76	PROCEDIMIENTO 817 855	Detecció galactomanano Index AGA a BAL
+T77	PROCEDIMIENTO 862 868	Cultiu
+T78	PROCEDIMIENTO 1353 1371	Estudi microscòpic
+T79	PROCEDIMIENTO 1373 1385	Baciloscopia
+T80	PROCEDIMIENTO 1450 1456	Cultiu
+T81	PROCEDIMIENTO 1591 1615	ASPIRADO BRONQUIALVEOLAR
+T82	PROCEDIMIENTO 1646 1660	Tinció de gram
+T83	PROCEDIMIENTO 1844 1850	Cultiu
+T84	PROCEDIMIENTO 1985 1998	Broncoaspirat
+T85	PROCEDIMIENTO 2097 2115	Estudi microscòpic
+T86	PROCEDIMIENTO 2116 2128	Baciloscopia
+T87	PROCEDIMIENTO 2207 2216	TAC TÓRAX
+T88	SINTOMA 34 58	Cuerdas vocales normales
+T89	ENFERMEDAD 403 418	inmunodeprimido
+T90	PROCEDIMIENTO 466 483	EXTENDIDO CELULAR
+T91	SINTOMA 466 529	EXTENDIDO CELULAR MACROFÁGICO CON LEVE FONDO INFLAMATORIO AGUDO
+T92	PROCEDIMIENTO 568 584	TINCIÓN DE PLATA
+T93	PROCEDIMIENTO 649 670	LAVADO BRONCOALVEOLAR
+T94	SINTOMA 532 584	PRESENCIA DE MICROORGANISMOS CON LA TINCIÓN DE PLATA
+T95	SINTOMA 699 760	flora mixta de cocs gram positius tipus estreptococ i llevats
+T96	PROCEDIMIENTO 762 789	Tinció per fongs Calcofluor
+T97	SINTOMA 801 816	hifes i llevats
+T98	PROCEDIMIENTO 871 888	S'aillen colònies
+T99	SINTOMA 871 908	S'aillen colònies de: Aspergillus spp
+T100	PROCEDIMIENTO 933 950	S'aillen colònies
+T101	SINTOMA 933 971	S'aillen colònies de: Candida albicans
+T102	PROCEDIMIENTO 1019 1037	Detecció molecular
+T103	PROCEDIMIENTO 1330 1352	Estudi de micobacteris
+T104	PROCEDIMIENTO 1387 1402	Tinció Auramina
+T105	SINTOMA 1394 1448	Auramina: No s´observen bacils àcid-alcohol resistents
+T106	PROCEDIMIENTO 1486 1514	Lateral Flow per Aspergillus
+T107	SINTOMA 1503 1523	Aspergillus: positiu
+T108	PROCEDIMIENTO 1558 1580	Tinció per P. jiroveci
+T109	SINTOMA 1558 1590	Tinció per P. jiroveci: negativa
+T110	PROCEDIMIENTO 1618 1644	Estudi de bacteris i fongs
+T111	SINTOMA 1733 1794	flora mixta de cocs gram positius tipus estreptococ i llevats
+T112	PROCEDIMIENTO 1796 1824	Tinció per fongs: Calcofluor
+T113	SINTOMA 1826 1842	S´observen hifes
+T114	PROCEDIMIENTO 1853 1870	S'aillen colònies
+T115	SINTOMA 1853 1890	S'aillen colònies de: Aspergillus spp
+T116	PROCEDIMIENTO 1915 1932	S'aillen colònies
+T117	SINTOMA 1915 1953	S'aillen colònies de: Candida albicans
+T118	PROCEDIMIENTO 2073 2095	Estudi de micobacteris
+T119	PROCEDIMIENTO 2130 2145	Tinció Auramina
+T120	SINTOMA 2137 2191	Auramina: No s´observen bacils àcid-alcohol resistents
+T121	ENFERMEDAD 2227 2249	ganglios mediastínicos
+T122	SINTOMA 2326 2383	Estructuras mediastínicas sin alteraciones significativas
+T123	SINTOMA 2431 2475	Vidrio deslustrado difuso en ambos hemitórax
+T124	ENFERMEDAD 2560 2581	infección por COVID19
+T125	SINTOMA 2605 2648	desestructuración parenquimatosa subpleural
+T126	SINTOMA 2750 2778	afectación de tipo fibrótico
+T127	ENFERMEDAD 3253 3275	sobreinfección fúngica
+T128	SINTOMA 3335 3358	afectación intersticial
+T129	SINTOMA 3472 3492	afectación fibrótica
+T130	SINTOMA 2875 2915	imagen quística de 40 mm en lóbulo medio
+T131	PROCEDIMIENTO 3508 3517	ANALÍTICA
+T132	PROCEDIMIENTO 420 439	ANATOMÍA PATOLÓGICA
+T133	PROCEDIMIENTO 3518 3528	BIOQUÍMICA
+T134	PROCEDIMIENTO 4134 4143	HEMOGRAMA
+T135	PROCEDIMIENTO 148 159	exploración

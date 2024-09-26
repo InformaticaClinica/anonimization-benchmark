@@ -1,0 +1,20 @@
+T6	SINTOMA 39 93	patrón intersticial bilateral de predominio periférico
+T7	SINTOMA 140 179	Pinzamiento leve de senos costofrénicos
+T8	SINTOMA 642 696	opacidades bilaterales en campos pulmonares inferiores
+T9	SINTOMA 95 130	Infiltrado pseudonodular parahiliar
+T10	SINTOMA 245 297	patrón intersticial bilaterales, de predominio basal
+T11	SINTOMA 319 353	Pinzamiento de senos costofrénicos
+T12	SINTOMA 821 848	Elevación del hemidiafragma
+T13	SINTOMA 591 612	opacidades alveolares
+T14	SINTOMA 230 240	opacidades
+T15	SINTOMA 437 474	opacidades intersticiales bilaterales
+T16	SINTOMA 900 933	opacidades alveolares bilaterales
+T17	SINTOMA 1048 1075	elevación del hemidiafragma
+T18	ENFERMEDAD 714 742	atelectasias subsegmentarias
+T19	ENFERMEDAD 744 759	Derrame pleural
+T20	ENFERMEDAD 991 1029	Atelectasia laminar en lóbulo inferior
+T21	PROCEDIMIENTO 2 22	RADIOGRAFÍA DE TÓRAX
+T22	PROCEDIMIENTO 182 202	RADIOGRAFÍA DE TÓRAX
+T23	PROCEDIMIENTO 408 428	RADIOGRAFÍA DE TÓRAX
+T24	PROCEDIMIENTO 542 562	RADIOGRAFÍA DE TÓRAX
+T25	PROCEDIMIENTO 859 879	RADIOGRAFÍA DE TÓRAX

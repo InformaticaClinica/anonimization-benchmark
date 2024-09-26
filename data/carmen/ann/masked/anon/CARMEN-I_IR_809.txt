@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+22.4 semanas de gestación. COVID+. Sospecha TEP por taquipnea y taquicardia. Consensuado con infecciosas y anestesia se indica angio TC.
+COVID+
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+* Se explican los riesgos de la radiación al clínico, quien estima que los beneficios de la prueba son mayores a los riesgos. Se toman las medidas de protección para la paciente.
+
+resultados:
+Exploración artefactada por movimientos de la paciente.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar de calibre normal (29 mm).
+Cardiomegalia en probable relación a gestación.
+No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Mínimo derrame pleural bilateral. No se observa derrame pericárdico.
+Atelectasias laminares en ambos LLII. No se observan signos sugestivos de infección COVID19 en el parénquima pulmonar evidentes por TC.
+En los cortes de hemiabdomen superior, hepatomegalia, en probable relación a gestación.
+
+conclusiones:
+No se observan signos de TEP.
+No se observan signos sugestivos de infección COVID19 en el parénquima pulmonar evidentes por TC.
+Resto, sin alteraciones significativas.
+
+descrip:
+ANGIO TC PULMONAR

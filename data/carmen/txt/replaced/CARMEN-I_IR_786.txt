@@ -1,0 +1,38 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+paciente ingresado de urgencias por ictericia obstructiva, con ecografía sugesitva de neoplasia de páncreas con VB 20mm y Wirsung 7mm.
+Analíticamente colestasis franca con BT 13 en ascenso.
+Solicito TC TA para completar estudio de extensión y valorar resecabilidad
+SOSPECHA DE NEOPLASIA PANCREÁTICA.
+
+protocolo:
+TC toràcic i abdominal amb contrast ev
+
+resultados:
+TC DE TÒRAX:
+No s'aprecien adenopaties mediastíniques ni axil·lars de mida significativa.
+Resta d'estructures del mediastí sense alteracions.
+Parènquima pulmonar sense troballes valorables.
+Espais pleurals normals.
+TC D'ABDOMEN:
+Fetge de mida,densitat i morfologia dintre de la normalitat. QUist simpl en s VI de 12mm.
+Vena porta permeable.
+Marcada dilatació de la via biliar intra i extrahepàtica, acompanyada d'hidrops vesicular. Està causada per una lesió hipervascular ben deilimitada, de 22mm, que rodeja l'extrem distal de la mateixa situada en regió ampular.  El seu aspecte radiològic no és típic per adenocarcinoma. Podria ser un colangiocarcinoma distal com a opció més probable, o bé un tumor  neuroendocrí o un GIST però no identifico un clar component endoluminal.
+Lesió de 15 mm de similars característiques en cara lateral de 2a porció duodenal que possiblement siguin adenopaties regionals.
+Pàncrees de mida normal, amb dilatació del conducte de wirsung secundari a l'atrapament tumoral.  Quist en cos de pàncrees de 9 mm, inespecífic.
+L'artèria i la vena mesentèriques superiors no estan infiltrades per la lesió. Tronc celíac lliure.
+Melsa i glàndules suprarrenals sense alteracions valorables.
+Ronyons de mida i morfologia dintre de la normalitat i presenten un nefrograma bilateral i simètric. Quists renals bilaterals, un d'ells en ronyó dret, hiperdens.
+Diverticles en el colon.
+Lipoma en paret lateral dreta de 4 cm.
+No s'observen adenopaties retroperitoneals o pèlviques de mida significativa.
+
+conclusiones:
+Lesió hipervascular en regió ampular. Per les seves característiques radiològiques podria ser un colangiocarcinoma distal. La lesió és fàcilment accesible a la punció guiada per eco-endoscopica.
+Adenopaties regionals hipervasculars.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

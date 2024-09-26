@@ -1,0 +1,10 @@
+T1	PROCEDIMIENTO 68 82	Pulsioximetría
+T2	PROCEDIMIENTO 240 271	Auscultacion cardiorespiratoria
+T3	SINTOMA 139 149	Consciente
+T4	SINTOMA 231 238	afebril
+T5	SINTOMA 280 295	Abdomen anodino
+T6	SINTOMA 152 161	orientado
+T7	SINTOMA 163 201	Moderada afectacion del estado general
+T8	SINTOMA 203 228	Hemodinamicamente estable
+T9	SINTOMA 240 278	Auscultacion cardiorespiratoria normal
+T10	SINTOMA 301 322	focalidad neurologica

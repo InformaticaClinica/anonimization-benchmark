@@ -1,0 +1,15 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente ingresada por neumonía bilateral por Covid, elevación importante del Dímero D, en tratamiento con Enoxaparina/12h.
+Insuficiencia respiratoria grave con requerimientos iniciales de LAF.
+Actualmente, con VK 31% y mejoría clínica. Alta sospecha de TEP. Se solicita estudio para confirmar. Gracias
+Infecció per coronavirus no especificada
+
+conclusiones:
+ya informado
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

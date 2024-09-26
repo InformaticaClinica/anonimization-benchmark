@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Covid grave que ha requerido IOT+ 6 sesiones de prono. Sobreinfección por aspergillus y S. Malthopila. Mala evolución. Día 24 de IOT.
+Solicitamos TCAR+ AngioTC.
+
+protocolo:
+TC torácica de alta resolución + Angio-TC pulmonar adquirida mediante energía dual.
+
+resultados:
+Se compara con el estudio previo del 22/06/2026.
+CVC yugular izquierdo con extremo distal en VCS. TET con extremo distal a 6 cm de la carina. SNG normoposicionada.
+Pequeño defecto de repleción de nueva aparición en una rama subsegmentaria de la arteria pulmonar para el segmento basal medial del LII, sugestivo de TEP agudo. Tronco de la arteria pulmonar de calibre normal. No hay dilatación de cavidades cardíacas derechas.
+Aumento de tamaño de las adenopatías hiliares izquierdas conocidas (hasta 12 mm) con aparición de adenopatías paratraqueales bilaterales, subcarinales e hiliares derechas de hasta 17 mm, inespecíficas. No se evidencian adenopatías axilares valorables.
+Leve derrame pleural bilateral que ha aumentado respecto el estudio previo y asocia atelectasia pasiva del parénquima adyacente. No se observa derrame pericárdico.
+Severo enfisema centrolobulillar confluente y destructivo. Práctica resolución de la consolidación en LM presente en el estudio previo.
+Marcados engrosamientos parietales bronquiales con impactaciones mucosas y atelectasias asociadas de predominio en lóbulos inferiores. Persiste alguna ténue opacidad en vidrio deslsutrado y alguna banda subpleural residuales a la neumonia por COVID conocida.
+Cambios degenerativos en columna torácica.
+Ausencia quirúrgica de bazo. Bazo accesorio de 25 mm. Cambios posquirúrgicos en pared abdominal anterior.
+Trabeculación difusa del tejido celular subcutáneo no presente en el estudio previo que sugiere edema.
+
+conclusiones:
+- TEP agudo subsegmentario en una rama para el segmento basal medial del LII, sin signos de hipertensión pulmonar ni sobrecarga cardíaca derecha.
+- Aumento de las adenopatías hiliares izquierdas con aparición nuevas adenopatías hiliares derechas y mediastínicas, inespecíficas.
+- Aumento del derrame pleural bilateral conocido.
+- Práctica resolución de la consolidación en LM presente en el estudio previo.
+- Resto de la exploración sin cambios significativos respecto el estudio previo.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

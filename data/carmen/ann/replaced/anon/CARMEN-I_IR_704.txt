@@ -1,0 +1,24 @@
+
+prueba:
+ECO RENO-VESICAL
+
+clinica:
+Paciente receptora de trasplante de progenitores hematopoyeticos que presenta cistitis hemorragica por virus BK con importante agudización del dolor suprapubico y uretral y orina por rebosamiento.
+Se solicita ecografia para descartar coágulos de gran tamaño a nivel vesical y valroación de colocacion de sona de lavados.
+Garcias
+Estat de trasplantament de cèl·lules mare
+
+resultados:
+Riñones de tamaño y morfología dentro de la normalidad.
+No se aprecian masas ni litiasis.
+No existe dilatación de la vía excretora.
+Vejiga urinaria colapsada de paredes aparentemente engrosadas de manera difusa. Mínima burbuja de gas intravesical en relación a lavado reciente. No se identifican coágulos perisonda. Globo de sonda vesical correctamente situado en luz vesical.
+No líquido libre intraabdominal.
+Resto de la exploración abdominal sin alteraciones evidentes.
+
+conclusiones:
+Ausencia de coágulos intravesicales. Globo correctamente situado.
+Paredes vesicales engrosadas de dificil valoración.
+
+descrip:
+ECO RENO-VESICAL

@@ -1,0 +1,8 @@
+ANTECEDENTES PERSONALES:
+Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, exfumador desde 2004 (DA < 5 paq/año), consumo de enol moderado (semanalmente destilados), no consumo de otros tóxicos.
+Natural de [**PAIS**], en [**TERRITORIO**] desde hace 5 años, tiene tres [**FAMILIARES_SUJETO_ASISTENCIA**] en [**PAIS**]. Vive con su [**OTROS_SUJETO_ASISTENCIA**] en [**CALLE**] y trabaja de [**PROFESION**].
+Barrera idiomática
+ANTECEDENTES PATOLÓGICOS:
+1.- [**APENDICITIS AGUDA**] en [**PAIS**].
+INTERVENCIONES QUIRÚRGICAS: apendicectomía.
+MEDICACIÓN HABITUAL: no refiere.

@@ -1,0 +1,120 @@
+T3	SINTOMA 160 170	Consciente
+T4	SINTOMA 172 181	orientada
+T5	SINTOMA 184 196	colaboradora
+T6	SINTOMA 279 293	edemas en EEII
+T7	SINTOMA 437 464	Abdomen blando y depresible
+T8	SINTOMA 551 562	peritonismo
+T9	SINTOMA 750 760	Consciente
+T10	SINTOMA 762 771	orientada
+T11	SINTOMA 789 800	Diaforética
+T12	SINTOMA 868 882	edemas en EEII
+T13	SINTOMA 1027 1054	Abdomen blando y depresible
+T14	SINTOMA 1231 1240	orientada
+T15	SINTOMA 1242 1256	normohidratada
+T16	SINTOMA 1259 1273	normocoloreada
+T17	SINTOMA 1275 1282	Afebril
+T18	SINTOMA 1354 1379	Tonos cardíac os rítmicos
+T19	SINTOMA 1393 1434	Pulsos periféricos presentes y simétricos
+T20	SINTOMA 1488 1499	taquipneica
+T21	SINTOMA 1590 1617	abdomen blando y depresible
+T22	SINTOMA 1697 1718	irritación peritoneal
+T23	SINTOMA 1819 1850	alteraciones de la sensibilidad
+T24	SINTOMA 1897 1912	fasciculaciones
+T25	SINTOMA 2010 2042	alteracion es en pares craneales
+T26	SINTOMA 2100 2105	vigil
+T27	SINTOMA 2107 2117	consciente
+T28	SINTOMA 2120 2129	orientada
+T29	SINTOMA 2131 2145	normohidratada
+T30	SINTOMA 2148 2162	normocoloreada
+T31	SINTOMA 2244 2268	Tonos cardíacos rítmicos
+T32	SINTOMA 2282 2323	Pulsos periféricos presentes y simétricos
+T33	SINTOMA 2328 2334	edemas
+T34	SINTOMA 2488 2515	abdomen blando y depresible
+T35	SINTOMA 2595 2617	irrita ción peritoneal
+T36	SINTOMA 2751 2790	fuerza conservada en las 4 extremidades
+T37	SINTOMA 58 83	Hemodinámicamente estable
+T38	SINTOMA 231 255	Tonos cardíacos rítmicos
+T39	SINTOMA 298 311	signos de TVP
+T40	SINTOMA 329 358	Murmullo vesicular conservado
+T41	SINTOMA 360 395	crepitantes de predominio en pulmón
+T42	SINTOMA 408 422	broncoespasm o
+T43	SINTOMA 466 525	Doloroso a la palpación pro funda en zona epigástrica y FID
+T44	SINTOMA 648 673	Hemodinámicamente estable
+T45	SINTOMA 820 844	Tonos cardíacos rítmicos
+T46	SINTOMA 887 900	signos de TVP
+T47	SINTOMA 918 948	Murmullo ve sicular conservado
+T48	SINTOMA 950 985	crepitantes de predominio en pulmón
+T49	SINTOMA 998 1012	bron coespasmo
+T50	SINTOMA 1131 1153	signos de periton ismo
+T51	SINTOMA 1056 1115	Doloroso a la palpa ción profunda en zona epigástrica y FID
+T52	SINTOMA 1186 1208	regular estado general
+T53	SINTOMA 1210 1215	vígil
+T54	SINTOMA 1217 1228	cons ciente
+T55	SINTOMA 1290 1316	hemo dinámicamente estable
+T56	SINTOMA 1439 1446	e demas
+T57	SINTOMA 1451 1472	ingurgitación yugular
+T58	SINTOMA 1523 1552	murmullo vesicular conservado
+T59	SINTOMA 1720 1745	Peristalt ismo conservado
+T60	SINTOMA 1768 1808	Puñopercusión lumbar bilateral neg ativa
+T61	SINTOMA 1852 1892	fuerza conservada en la s 4 extremidades
+T62	SINTOMA 1916 1942	signos de atrofia muscular
+T63	SINTOMA 1944 1971	ROTs presentes y simétricos
+T64	SINTOMA 1976 1985	dismetria
+T65	SINTOMA 1987 2004	Marcha conservada
+T66	SINTOMA 2047 2055	flapping
+T67	SINTOMA 2078 2098	buen estado gen eral
+T68	SINTOMA 2164 2172	Af ebril
+T69	SINTOMA 2180 2205	hemodinámicamente estable
+T70	SINTOMA 2339 2360	ingurgitación yugular
+T71	SINTOMA 2376 2384	eupneica
+T72	SINTOMA 2430 2460	murmullo vesicular conserv ado
+T73	SINTOMA 2619 2643	Peristaltismo conservado
+T74	SINTOMA 2645 2664	percusión timpánica
+T75	SINTOMA 2666 2706	Puñoperc usión lumbar bilateral negativa
+T76	SINTOMA 2717 2749	alteraciones de la sensibilida d
+T77	SINTOMA 2795 2822	signos de atrofia muscula r
+T78	SINTOMA 2824 2851	ROTs presentes y simétricos
+T79	SINTOMA 2856 2865	dismetria
+T80	SINTOMA 2867 2884	Marcha conservada
+T81	SINTOMA 2890 2922	alt eraciones en pares craneales
+T82	SINTOMA 2927 2935	flapping
+T83	SINTOMA 198 210	Diaf orética
+T84	SINTOMA 272 274	IY
+T85	SINTOMA 530 537	defensa
+T86	SINTOMA 774 787	colaborado ra
+T87	SINTOMA 861 863	IY
+T88	SINTOMA 1385 1391	soplos
+T89	SINTOMA 850 856	soplos
+T90	SINTOMA 1477 1480	RHY
+T91	SINTOMA 1557 1583	crepitantes en ambas bases
+T92	SINTOMA 1622 1642	doloroso a palpación
+T93	SINTOMA 1657 1662	masas
+T94	SINTOMA 1666 1681	visceromegalias
+T95	SINTOMA 1747 1766	percusión timpánica
+T96	SINTOMA 2274 2280	soplos
+T97	SINTOMA 2555 2560	masas
+T98	SINTOMA 2564 2579	visceromegalias
+T99	SINTOMA 2520 2540	doloroso a palpación
+T100	SINTOMA 2365 2368	RHY
+T101	SINTOMA 2465 2481	ruidos agregados
+T102	SINTOMA 261 267	soplos
+T103	SINTOMA 1120 1127	defensa
+T104	PROCEDIMIENTO 1334 1352	soporte vasoactivo
+T105	PROCEDIMIENTO 2223 2242	soporte vasoacti vo
+T106	PROCEDIMIENTO 1 19	EXPLORACIÓN FÍSICA
+T107	PROCEDIMIENTO 566 584	EXPLORACIÓN FÍSICA
+T108	PROCEDIMIENTO 1482 1486	RESP
+T109	PROCEDIMIENTO 2370 2374	RESP
+T110	ENFERMEDAD 308 311	TVP
+T111	ENFERMEDAD 608 632	ENFERMEDADES INFECCIOSAS
+T112	ENFERMEDAD 897 900	TVP
+T113	PROCEDIMIENTO 1504 1511	VMK 40%
+T114	PROCEDIMIENTO 1768 1798	Puñopercusión lumbar bilateral
+T115	ENFERMEDAD 1926 1942	atrofia muscular
+T116	PROCEDIMIENTO 2389 2391	LN
+T117	PROCEDIMIENTO 2666 2697	Puñoperc usión lumbar bilateral
+T118	ENFERMEDAD 2805 2822	atrofia muscula r
+T119	PROCEDIMIENTO 1585 1588	ABD
+T120	PROCEDIMIENTO 2483 2486	ABD
+T121	SINTOMA 1590 1630	abdomen blando y depresible, no doloroso
+T122	SINTOMA 2488 2528	abdomen blando y depresible, no doloroso

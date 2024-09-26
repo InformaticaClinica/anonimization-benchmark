@@ -1,0 +1,22 @@
+
+prueba:
+MAMOGRAFIA DE CRIBADO/SCREENING 2P
+
+clinica:
+evaluacion preTOH
+
+protocolo:
+Se realiza mamografía 2D
+
+resultados:
+Mamas con moderada cantidad de tejido fibroglandular de distribución simétrica (tipo b).
+Cambios post-quirúrgicos en mama izquierda (desconocemos AP).
+Calcificaciones en MI sin criterios de sospecha.
+No se observan signos radiológicos de sospecha de malignidad.
+No disponemos de estudios previos para comparar.
+
+conclusiones:
+BI-RADS 2. Hallazgos benignos.
+
+descrip:
+MAMOGRAFIA DE CRIBADO/SCREENING 2P

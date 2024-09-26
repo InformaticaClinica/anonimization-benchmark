@@ -1,0 +1,32 @@
+
+prueba:
+PET TC COS SENCER FDG I CONTRAST IODAT E V
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] que ingresa por neumonia secundaria a SARS-CoV2 que presenta ingreso muy complicado con estancia en la uci dos veces presentadno NOC y bacteriemia por S. epidermitis considerada verdadera (mismo aislamiento en CVC y en Hmc con fiebre y alteración analítica).
+Ha recibido ciclos de tratamiento con ceftriaxona + teicoplanina luego meropenem y linezolid, luego piperacilina-tazobactam y ahora con meropenem y linezolid de nuevo.
+Va reinciando ciclos de antibioterpia porque a pesar de ser antibioticos sensibles y realizar ciclos de 7 días vueleve a presentar fiebre + hipotensión + RFA elevados sin calro foco.
+Por favor descartar infección oculta.
+Bcateriemia por S.Epidermidis
+
+protocolo:
+Radiofármaco: Fluorodesoxiglucosa-F18 (FDG).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 8.4 mCi de FDG.
+Glucemia en el momento de la inyección de FDG: 116 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga). Al inyectarse la dosis por PICC derecho no es posible la actividad metabólica en su trayecto. Presencia de múltiples focos de intensa contaminación cutánea.
+En las imágenes del TC se aprecia la colección ya conocida de la hoja peritoneal del flanco izquierdo, en contacto con la cara anterior del polo renal inferior izquierdo y ya descrita en estudios TC diagnósticos previos. La misma muestra intensa actividad del radiofármaco (SUVmáx: 9.51) que interpretamos como probable eliminación urinaria por fistula renal. Esta colección discurre en sentido caudal formando dos trayectos, uno adyacente al colon descendente y otro trayecto fistuloso que alcanza la superficie cutánea siguiendo el antiguo recorrido del catéter de drenaje.
+Tenue aumento de captación difuso en cambios parenquimatosos secundarios a infección por SARS-CoV-2 en ambos pulmones que interpretamos como de probable carácter inflamatorio.
+Presencia de adenopatías mediastínicas paratraqueales derechas con discreta actividad hipermetabólica de aspecto reactivo.
+Como hallazgo incidental se aprecia un intenso aumento de captación focal (SUVmáx: 23.37) en silla turca que en las imágenes del TC parece corresponder con lesión de partes blandas ocupante de espacio sin poder descartar erosión ósea asociada. Aconsejamos ampliar estudio con RM con el fin de descartar macroadenoma hipofisiario.
+En el resto de los sectores corporales estudiados no se aprecian otros depósitos patológicos del radiofármaco ni hallazgos sugestivos de émbolos sépticos.
+
+conclusiones:
+Estudio PET/TC que muestra hallazgos sugestivos de fístula renal izquierda con colección asociada y trayecto fistuloso cutáneo. No es posible descartar la posibilidad de proceso infeccioso sobreañadido.
+Aconsejamos realización de RM para descartar macroadenoma hipofisiario.
+Cambios pulmonares secundarios a infección por SARS-CoV-2.
+
+descrip:
+PET TC COS SENCER FDG I CONTRAST IODAT EV

@@ -1,0 +1,25 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Home de 89a ingressat per pneumònia bilateral per COVID-19 que ahir presenta empitjorament marcat a nivell respiratori que requereix FiO2 100% i DD > 9000 pel que se sospita TEP i s'inicia de forma empírica enoxa a dosi anticoagulant. No es fa TC ahir per mala evolució. Avui pacient més estable, O2 que s'ha anat reduint fins FiO2 31% i pacient ha menjat, clínicament molt millor pel que demano TC per descartar TEP.
+Moltes gràcies!
+COVID 19
+
+protocolo:
+Se practica estudio de angio-TC pulmonar adquirido mediante energía dual.
+
+resultados:
+En el momento actual no se aprecian claros defectos de repleción en el árbol arterial pulmonar ni alteraciones en los mapas de yodo que sugieran TEP agudo. Tronco de la arteria pulmonar de calibre prominente (31 mm).
+Ateromatosis calcificada aórtica. Calcificaciones en el anillo valvular mitral. Ligera dilatación de la aurícula izquierda (44 mm). No se observa derrame pleural ni pericárdico.
+Ganglio de tamaño borderline a nivel paratraqueal izquierdo bajo, inespecífico. No se observan adenopatías mediastínicas ni axilares valorables.
+Focos consolidativos bilaterales de predominio periférico en lóbulos inferiores y segmentos posteriores de ambos lóbulos superiores que asocian distorsión de la arquitectura del parénquima pulmonar y dilataciones bronquiales. Estos hallazgos son compatibles con afectación por COVID-19 con cambios organizativos y signos incipientes de fibrosis en probable relación a evolución natural de la enfermedad.
+En las secciones abdominales incluidas en el estudio se aprecian múltiples quistes corticales en riñón izquierdo y múltiples granulomas calcificados en el bazo.
+
+conclusiones:
+- SIN signos de TEP agudo en el momento actual.
+- Parénquima pulmonar con hallazgos compatibles con afectación por COVID-19 con cambios organizativos y signos incipientes de fibrosis en probable relación a evolución natural de la enfermedad.
+
+descrip:
+ANGIO TC PULMONAR

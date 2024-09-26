@@ -1,0 +1,2 @@
+Paciente que tras un contacto con COVID el día [**FECHAS**] (frotis negativo el [**FECHAS**]), presenta el [**FECHAS**] mialgias y diarrea, seguidas el [**FECHAS**] de intenso cansancio y progresivo enlentecimiento del pensamiento y el lenguaje acompañado de ideas de perjuicio. La noche del mismo día [**FECHAS**] se despierta a las 3am con un cuadro de desorientación, confusión, intranquilidad y alteración para la emisión y comprensión del lenguaje.
+Es llevado entonces a [**CENTRO_SALUD**] y tras evaluación inicial a nuestro centro para valoración.

@@ -1,0 +1,21 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Paciente ingresado por Neumonía bilateral por SARS-COV2 n NOC postinfección. Presenta en zona de colocación de via perifética zona indurada eriteratosa en antebrazo derecho con cordón, solicito ecodoppler descartar posible tromboflebitis. Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Ecografia Doppler Venosa ESD
+
+resultados:
+Absència de compressibilitat i ocupació per material ecogènic de vena cefàlica al terç mig del braç, compatible amb tromboflebitis superficial.
+Venes cefàlica i basílica al llarg del braç i vena mediana a flexura del colze permeables sense signes ecogràfics de trombosi.
+Venes braquials, axilar, subclàvia i jugular interna dretes permeables i compressibles sense signes ecogràfics de TVP.
+
+conclusiones:
+.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

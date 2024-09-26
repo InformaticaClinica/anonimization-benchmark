@@ -1,0 +1,34 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. Ex-fumador (60 cig/día durante 30 años, hasta [**FECHAS**]). Ex-consumo de enol (1L al día hasta [**FECHAS**]). Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**]. Previo a último ingreso hospitalario, independiente para las actividades básicas de la vida diaria. mRS 0.
+* ANTECEDENTES PATOLÓGICOS:
+1. EPOC GOLD B en tratamiento con broncodilatadores. Seguimiento por Neumología [**HOSPITAL**]. No exacerbaciones en el último año. Ultimas PFR en [**FECHAS**], con GSA normal.
+2. DISLIPEMIA en tratamiento farmacológico.
+3. INSUFICIENCIA AÓRTICA operada en [**FECHAS**] con colocación de PRÓTESIS AÓRTICA MECÁNICA TIPO ON X 21, compatible con RM. Último ecocardiograma en [**FECHAS**] informa de prótesis normofuncionante y fracción de eyección del 60%. Anticoagulado con simtron hasta diagnostico de neoplasia, cuando se rotó a Bemiparina.
+4. FIBRILACIÓN AURICULAR PAROXÍSTICA en postoperatorio de valvulopatia.
+5. ICTUS ISQUEMICO EN TERRITORIO DE LA ACA IZQUIERDA de etiología cardioembólica por FA infracoagulada en [**FECHAS**]. Recuperado ad-integrum.
+6. EPISODIOS DE DEBILIDAD DE EXTREMIDADES INFERIORES a estudio que se autolimitan en el tiempo. Se ha realizado un EMG que no muestra alteraciones.
+* HISTORIA ONCOLOGICA: CARCINOMA VESICAL E-IV
+Diagnostico en [**FECHAS**] raiz de autopalpación de adenopatias induradas supraclaviculares.
+EXPLORACIONES COMPLEMENTARIAS:
+- PAAF [**FECHAS**]: cel malignas compatibles con carcinoma. El perfil inmunohistoquímico muestra que las células malignas son positivas para CK7 y CK20, con expresion focal para p40, y son negativas para CDX2 y TTF1. Posible neoplasia de origen urotelial
+- TAC Torax [**FECHAS**]: Conglomerado adenopático en disposición supraclavicular izquierda (parcialmente incluido en el estudio por lo que recomiendo ampliación de estudio con TC de cuello). Ganglios axilares izquierdos aumentados de tamaño aunque inespecíficos. Enfisema centrolobulillar de predominio superior. Microgranulomas calcificados en el pulmón derecho. Presenta varias lesiones óseas blásticas que podrían corresponder a metástasis.
+- TAC cuello  [**FECHAS**]: Extensa tumoracion solida, heterogenea, hipercaptante de contraste de bordes polilobulados, mal definidos de 57 x 38 x 103 mm a nivel laterocervical izquierdo que contacta extensamente con la vena yugular interna, no presenta planos grasos de separacion con los musculos escalesnos e infiltra extensamente el triangulo cervical
+- TAC TA [**FECHAS**]; Masa captante vesical compatible con tumor primario.
+Litiasis de 3 mm en uréter inferior derecho que se encuentra situada a 2,5 cm de la unión vesicoureteral y que condiciona muy leve ectasia de la vía excretora proximal apreciándose paso de contraste ureteral distal (parcialmente obstructiva). Múltiples lesiones óseas blásticas (columna vertebral y cintura pélvica) sugestivas de estar en relación con M1.
+- MKT [**FECHAS**]: CEA 15 (+), CYFRA 21.1 +, ProGRP +.
+- [**FECHAS**] citoscopia con tumor extenso que depende de la CLD, citologia positiva para carcinoma, pero no presenta las caracteristicas clásicas
+- RTU [**FECHAS**]: carcinoma urotelial.
+- BAG de cuello: compatible con carcinoma urotelial
+* VALORACIÓN INICIAL: Neoplasia vesical E_IV (oseas y adenopaticas), con hematuria tumoral, pendiente de inicio QT con esquema cisplatino- gemcitabina y RT hemostatica
+Seguimiento por Dra [**NOMBRE_PERSONAL_SANITARIO**]
+* MEDICACIÓN HABITUAL (Según [**OTROS_SUJETO_ASISTENCIA**] [**FECHAS**]):
+- Omeprazol 20mg/12h
+- Bemiparina 10000U/24h
+- Atorvastatina 40mg/24h
+- Loracepam 1mg/24h
+- Citalopram 20mg/24h
+- Paracetamol 500mg/8h
+- Bisoprolol 2'5mg/12h
+- Budesonida+Formoterol
+- Tiotropio
+- Pregabalina 25mg/24h.

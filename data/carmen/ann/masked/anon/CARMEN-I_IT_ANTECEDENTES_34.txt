@@ -1,0 +1,12 @@
+Varon de [**EDAD_SUJETO_ASISTENCIA**], no alergias a medicamenos. Procedente de [**PAIS**], [**TERRITORIO**]. Vive en [**PAIS**] desde [**FECHAS**], última visita a su país en [**FECHAS**]. Vive con [**FAMILIARES_SUJETO_ASISTENCIA**], [**FAMILIARES_SUJETO_ASISTENCIA**] y [**FAMILIARES_SUJETO_ASISTENCIA**] en una casa. Jubilado, [**PROFESION**].
+ANTECEDENTES PATOLOGICOS
+- HTA en tratamiento médico
+- Diabetes mellitus 2 con nefropatia diabética y retinopatia diabética.
+Tratamiento con hipoglicemiantes orales e insulina.
+- Cardiopatía hiprtensiva. Insuficiencia cardíaca en contexto de ERC pre-diálisis. Ecocardio [**FECHAS**] con VI con hipertrofia moderada-severa, sin segmentarismos, FEVI 57% difunción diastólica, válvulas normofuncionantes. Sin IT que permita estimar PAP.
+- Dislipemia
+- Enfermedad renal crónica E-V en hemodiálisis M-J-S en [**CENTRO_SALUD**] a través de CVC Yug Derecho tunelizado. FAVI humero-cefálica izquierda realizada en [**FECHAS**], no madurada. Valoración para traplante.
+- Retinopatía diabtética panfotocoagulada.
+- SAOS que abandonó CPAP por cuenta propia.
+- Obesidad IMC 30.
+Tratamiento habitual: insulina lantus 25U por la mañana, insulina rápidade rescate mediodía y noche, amlodipino 5 mg/12h, adiro 100 mg 0- 1-0, omeprazol 20 mg/24, atorvastatina 20 mg/24g, alopurinol 100mg/24h, atenolol 25 mg 0-0-1.

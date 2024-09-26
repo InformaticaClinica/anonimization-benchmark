@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+COVID GREU, IOT FA 5 DIES AMB PAFI <120 MALGRAT PRONO. D-Dimer>35000 inici i infiltrats extensos Rx, interess estudi per descartar trombus o pneumotòrx/mediastí que estiguin complicant evolució més enllà del propi Covid. Gràcies.
+NEUMONIA COVID-19
+
+protocolo:
+ANGIOTC URGENT
+
+resultados:
+SNG. CVC amb entrada jugular dreta i extrem distal a vena cava superior.
+Tub endotraquial a 3 cm de la carina.
+Defecte de repleció intraluminal en branques subsegmentàries de lòbul inferior dret, en relació a TEP agut. S'observen altres dubtosos defectes de repleció en branques subsegmentàries de lòbul inferior esquerre, també en probable relació a TEP.
+Tronc de l'artèria pulmonar de diàmetre normal, sense signes d'hipertensió pulmonar. No s'observen signes de sobrecàrrega ventricular dreta.
+No s'observen adenopaties axil·lars de mida patològica. Ganglis mediastínics infracentimètrics d'asepcte reactiu.
+No s'observa vessament pericàrdic. Lleu vessament pleural bilateral.
+Afectació parenquimatosa pulmonar bilateral en forma d'opacitats en vidre esmerilat subpleurals, de predomini en lòbuls superiors, associades a extens component consolidatiu en lòbuls inferiors amb bandes perilobulars i dilatacions bronquials. Tot plegat en relació a extensa pneumònia per COVID-19 amb canvis organitzatius.
+A nivel del parènquima col·lapsat de base pulmonar esquerra s'identifica zona d'hipocaptació parenquimatosa subpleural, que no permet descartar infart pulmonar a aquest nivell (vs zona de sobreinfecció).
+
+conclusiones:
+- Troballes en relació a pneumònia per COVID-19 amb canvis organitzatius associats.
+- TEP subsegmentari amb probable zona d'infart a base pulmonar esquerra. No hi ha signes de sobrecàrrega ventricular dreta.
+
+descrip:
+ANGIO TC PULMONAR

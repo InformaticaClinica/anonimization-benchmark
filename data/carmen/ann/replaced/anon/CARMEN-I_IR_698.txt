@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente masculino, dx covid-19 19/01 acude a urgencias por persistencia de la fiebre, ahí se objetiva sato2 90% basal que mejora con LN2lts. En la rx neumonía multifocal sospecha de NOC. Favor de valoración.
+sospecha NOC
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Focos en vidrio deslustrado y consolidativos bilaterales de distribución periférica, compatible con neumonía por COVID-19 con signos de evolución a neumonía organizada.
+Granulomas calcificados en pulmón izquierdo.
+
+conclusiones:
+Afectación pulmonar por COVID-19 con signos de evolución a neumonía organizada.
+
+descrip:
+TC TORAX

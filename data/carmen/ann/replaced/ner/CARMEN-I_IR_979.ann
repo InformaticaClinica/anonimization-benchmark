@@ -1,0 +1,32 @@
+T3	SINTOMA 116 143	aislamiento de K. aerogenes
+T4	SINTOMA 731 773	Consolidación con broncograma aéreo en LID
+T5	SINTOMA 781 854	interior del parenquima consolidado se observan pequeñas zonas hipodensas
+T6	SINTOMA 891 926	Pequeña consolidación psotero basal
+T7	SINTOMA 933 972	opaciddaes en vidrio deslustrado en LSI
+T8	ENFERMEDAD 51 58	fumador
+T9	ENFERMEDAD 89 111	Infección respiratoria
+T10	ENFERMEDAD 218 234	neumonia bibasal
+T11	ENFERMEDAD 330 346	absceso pulmonar
+T12	ENFERMEDAD 543 571	Enfisema subcutáneo cervical
+T13	ENFERMEDAD 685 702	derrame pleural D
+T14	ENFERMEDAD 868 889	neunonía necrotizante
+T15	ENFERMEDAD 1015 1031	broncoaspiración
+T16	FARMACO 148 169	cobertura antibiótica
+T17	PROCEDIMIENTO 10 18	TC TORAX
+T18	PROCEDIMIENTO 174 185	radiografía
+T19	PROCEDIMIENTO 303 314	TC torácico
+T20	PROCEDIMIENTO 360 363	PCR
+T21	PROCEDIMIENTO 390 415	estudio dinámico torácico
+T22	PROCEDIMIENTO 427 452	inyección de contraste ev
+T23	PROCEDIMIENTO 515 525	TC espiral
+T24	PROCEDIMIENTO 573 586	Traqueostomía
+T25	PROCEDIMIENTO 587 600	Tubo traqueal
+T26	PROCEDIMIENTO 1067 1075	TC TORAX
+T27	HUMANO 32 38	Hombre
+T28	ENFERMEDAD 74 77	PCR
+T29	PROCEDIMIENTO 79 87	Intubado
+T30	PROCEDIMIENTO 602 605	SNG
+T31	PROCEDIMIENTO 606 645	Vía central en tronco innominado venoso
+T32	PROCEDIMIENTO 647 676	Stent en descendente anterior
+T33	ENFERMEDAD 703 729	Mínimo derrame pleural izq
+T34	SPECIES 131 143	K. aerogenes

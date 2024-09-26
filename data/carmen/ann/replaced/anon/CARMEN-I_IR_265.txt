@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Infecció per coronavirus no especificada
+
+conclusiones:
+Opacidades alveolointersticiales bilaterales que han progresado respecto a Rx previa.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+resultados:
+Aumento de densidad en las porciones periféricas de los campos medios de ambos hemitórax coherente con afectación por COVID.
+
+conclusiones:
+Probable COVID.
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,28 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+SOSPITA BONO PER PULMÓ BLANC EN CONTEXT COVID-19
+
+protocolo:
+TC TORAX ALTA RESOLUCION URGENTE : adquisición basal.
+
+resultados:
+Port-a-cath en región pectoral derecha con extremo en unión cavoatrial.
+Vía central con entrada por v. yugular izquierda y extremo en v.
+innominada.
+No se observan adenopatías axilares o mediastínicas de tamaño patológico.
+Calcificaciones coronarias.
+Moderado derrame pleural derecho con áreas hiperdensas a nivel basal y declive, que sugieren áreas hemáticas/hemohidrotórax. Fracturas agudas de 10º y 11º arcos costales posteriores derechas.
+Pequeña lámina pleural izquierda. Se observan áreas hiperdensas  No se observa derrame pericárdico.
+Se observan áreas consolidativas peribroncovasculares con zonas de vidrio deslustrado periférico y engrosamientos septales con formación de patrón en empedrado. Las consolidaciones presentan distribución bilateral y predominio superior con cierto respeto subpleural y se asocian a bronquiectasias de tracción, distorsión del parenquima con tractos fibróticos y signo del halo inverso.
+Dada la evolución temporal comparando con las radiografías previas los hallazgos son compatibles con infección por COVID-19 evolucionada con componente predominantemente fibrótico y neumonía organizativa.
+Quistes renales parapiélicos bilaterales. Quistes hepáticos bilobares.
+
+conclusiones:
+Hallazgos compatibles con infección por COVID-19 evolucionada con componente predominantemente fibrótico y neumonía organizativa con afectación de predominio en lóbulos superiores.
+Moderado hidrohemotórax derecho con fracturas costales recientes del 10º y 11º arcos derechos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

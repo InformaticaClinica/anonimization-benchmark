@@ -1,0 +1,34 @@
+T10	SINTOMA 73 122	movimientos aparentemente involuntarios en el pie
+T11	SINTOMA 575 606	dificultad para la deambulación
+T12	SINTOMA 751 854	movimientos erráticos de extremidad inferior izquierda de aspecto mioclonias o distónico a nivel distal
+T13	SINTOMA 1771 1803	temblor y disestesias en la mano
+T14	SINTOMA 1816 1825	disartria
+T15	SINTOMA 138 200	movimientos fueron progresando a ambas extremidades inferiores
+T16	SINTOMA 251 285	TAC/RMN de cráneo sin alteraciones
+T17	SINTOMA 314 342	cambios degerativos en L4-L5
+T18	SINTOMA 381 465	EEG ([**FECHAS**]) con informe de probable actividad epileptiforme MD central medial
+T19	SINTOMA 988 1016	rotuliano izquierdo exaltado
+T20	SINTOMA 1019 1059	Reflejo cutáneo plantar flexor bilateral
+T21	SINTOMA 1231 1254	actividad epileptiforme
+T22	SINTOMA 1259 1305	correlato de los movimientos del pie izquierdo
+T23	ENFERMEDAD 2042 2058	stress emocional
+T24	ENFERMEDAD 1470 1490	trastorno conversivo
+T25	FARMACO 487 495	rivotril
+T26	FARMACO 1582 1592	sertralina
+T27	FARMACO 1620 1630	duloxetina
+T28	FARMACO 1632 1643	pregabalina
+T29	FARMACO 1646 1656	clonazepam
+T30	PROCEDIMIENTO 288 302	TAC de columna
+T31	HUMANO 1 9	Paciente
+T32	HUMANO 1720 1728	paciente
+T33	HUMANO 1941 1949	paciente
+T34	HUMANO 2000 2008	paciente
+T35	HUMANO 2090 2100	familiares
+T36	HUMANO 2129 2137	paciente
+T37	PROCEDIMIENTO 251 268	TAC/RMN de cráneo
+T38	PROCEDIMIENTO 381 384	EEG
+T39	PROCEDIMIENTO 1137 1161	maniobras de distracción
+T40	SINTOMA 1086 1161	modificación del patrón de los movimientos con las maniobras de distracción
+T41	PROCEDIMIENTO 1186 1189	EEG
+T42	PROCEDIMIENTO 1313 1316	EEG
+T1	SINTOMA 515 530	mejoría clínica

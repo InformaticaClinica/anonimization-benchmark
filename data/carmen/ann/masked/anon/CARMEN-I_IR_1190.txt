@@ -1,0 +1,35 @@
+
+prueba:
+ANGIO TC AORTA TORACICA
+
+clinica:
+Estenosis mitral en anillo mitral muy calcificado. Rechazada para cirugía. Interesa TAC para valorar Valve-in-valve. Estudio retrospectivo, interesa medición del anillo mitral y neo LVOT.
+
+protocolo:
+Mediante scanner Siemens Somaton Definition FLASH, se realiza un scout premilinar, seguido de protocolo de evaluación calcio del anillo mitral.
+Tras la administración de contraste iodado endovenoso, se adquirieren imágenes axiales de alta resolución usando gatillado ECG restrospectivo.
+- Radiación estimada: DLP (mSv)
+- Calidad de imagen obtenida: Excelente/Buena/Diagnóstica/Subóptima
+
+resultados:
+- Válvula mitral con apertura reducida(área por planimetría 0.9 cm2).Se observa calcificación de predominio en el  velo anterior ( con protrusión hacia el TSVI), y a nivel de la comisura posteromedial con compromiso ligero del velo posterior. La calcificación NO cubre  240º de la circunferencia del anillo lo que sugiere que no sería candidata para implantación de TAVR en posición mitral(dificultad para el anclaje)
+- Ventrículos no dilatados ni hipertróficos con función global biventricular conservada.
+- Aurícula izquierda aneurismática( 62 cm2). Dilatación severa de AD(39 cm2). Orejuela izquierda libre de trombos.
+- Venas pulmonares dilatadas.
+- Nacimiento normal de las arterias coronarias.
+- Dilatación ligera del tronco pulmonar y ramas principales.
+- Se visualiza una adenopatía paratraqueal baja derecha de 16 mm de eje corto y con centro hipodenso. En el parénquima pulmonar, parcialmente incluido, se visualiza un patrón en mosaico y nódulos en vidrio deslustrado de predominio subpleural (tree-in-bud). Antes estos hallazgos se recomienda realizar TACAR y TC con contraste para valorar el resto del mediastino.
+
+conclusiones:
+Calcificación incompleta del anillo mitral lo que precluye la colocación de TAVR en esta posición.
+Aurícula izquierda aneurismática sin evidencia de trombos.
+En el parénquima pulmonar, parcialmente incluido, se visualiza un patrón en mosaico y nódulos en vidrio deslustrado de predominio subpleural (tree-in-bud). Antes estos hallazgos se recomienda realizar TACAR y TC con contraste para valorar el resto del mediastino.
+
+descrip:
+ANGIO TC CORONARIAS
+
+descrip:
+TC MEDICION DE CALCIO CARDIACO (CALCIO SCORING)
+
+descrip:
+ANGIO TC AORTA TORACICA

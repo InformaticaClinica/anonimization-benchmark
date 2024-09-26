@@ -1,0 +1,44 @@
+
+prueba:
+ANGIOTC PROTOCOL TAVI
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] que ingressa per insuficiència cardíaca en el context d'Estenosi valvular aòrtica greu.
+En screening preingrés PCR positiva per Covid sense clínica ni analítica suggestiva.
+Sol·licitem angioTC d'estudi TAVI per valorar factibilitat anatòmica.
+Programar durant la setmana vinent. Gràcies!
+1. EDEMA AGUDO DE PULMÓN. CARDIOPATÍA VALVULAR.
+
+protocolo:
+Estudio segun protocolo TAVI.
+
+resultados:
+Válvula aórtica tricúspide severamente calcificada. Agatston de 3995.
+Origen y distribución anatómica normal de las arterias coronarias.
+Aterosclerosis coronaria.
+Distancia entre el tronco común y el anillo aórtico: 1cm.
+Distancia entre la arteria coronaria derecha y el anillo aórtico: 1.3 cm.
+Diámetro del anillo aórtico: 2.5 x 2cm. Area: 3.7cm2. Perímetro: 7cm
+Diámetro a nivel de la unión sino-tubular sin calcificacion: 2.7 x 2.6cm.
+Tracto de salida con placa de calcio que se extiende desde el velo coronario izquierdo.
+Aorta torácica ascendente ligeramente calcificada de 3.4 x 3.4 cm,
+Cayado justo despues de la salida de la subclavia: 2.2cm
+El diámetro menor de la aorta abdominal se localiza a nivel prebifurcación y es de 1.6 x 1.5cm.
+Sector iliaco no calcificado.
+Arteria ilíaca primitiva derecha: 0.7 x 0.7 cm,
+Arteria ilíaca externa derecha: 0.7 x 0.7  cm,
+Arteria femoral derecha: 0.7 x 0.6 cm,
+El sector iliaco izquierda es de similares caracteristicas que el derecho.
+No imagenes de TEP.
+Derrame pleural bilateral y discreto pericardico.
+Hernia de hiato.
+Múltiples opacidades peribroncovasculares en LLSS, LM y en LLII.
+Alguna imagen en halo invertido y alguna lesión mas consolidativa focal que podria hacer pensar en cierta organización. Todo ello en relación con infección por COVID 19.
+Imagen focal de 35mm subcapsular hepatica en segmento 6 hipodensa probalbmente quistica o hemangiomatosa.
+Resto sin alteraciones radiologicas significativas.
+
+conclusiones:
+ver resultados
+
+descrip:
+ANGIOTC PROTOCOL TAVI

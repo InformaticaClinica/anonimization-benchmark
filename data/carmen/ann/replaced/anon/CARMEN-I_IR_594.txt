@@ -1,0 +1,27 @@
+
+prueba:
+RM CEREBRAL
+
+clinica:
+ataxia e ictus tronco
+COVID +
+
+protocolo:
+RM CEREBRAL CON CONTRASTE.
+T1, T2, FLAIR, DWI-ADC, SWI, T1 + CONTRASTE.
+
+resultados:
+INFORME:
+Supratentorialmente, se observa algún foco aislado de hiperintensidad de señal T2 en sustancia blanca profunda de lóbulos frontales, de naturaleza inespecífica.
+La distribución y morfología de la sustancia gris y sustancia blanca de características normales.
+Retracción cortical supratentorial en relación con cambios involutivos acordes para la edad.
+No se observan signos de isquemia aguda extensa ni de sangrado intra o extraaxial.
+Sistema ventricular de tamaño normal, centrado en línea media. Cisternas basales libres.
+Infratentorialmente, no se observan lesiones focales ni alteraciones de señal en cerebelo, ni en tronco.
+Engrosamiento mucoso de seno esfenoidal derecho.
+
+conclusiones:
+vr
+
+descrip:
+RM CEREBRAL

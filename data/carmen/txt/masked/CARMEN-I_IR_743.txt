@@ -1,0 +1,25 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neumonía LII COVID 19
+
+protocolo:
+RX Tórax portátil
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Consolidación: NO
+Patrón intersticial: SI
+Distribución: difusa de predominio periférico.
+Campos pulmonares:
+-Derecho: superior/ medio / inferior.
+-Izquierdo: medio / inferior.
+EVOLUCION (se compara con RX previa de [**FECHAS**])
+CONCLUSION:
+Afectación pulmonar por COVID que muestra progresion afectando los mismos campos pulmonares
+
+descrip:
+RX  PORTATIL  TORAX

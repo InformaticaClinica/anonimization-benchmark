@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+LEUCÈMIA AGUDA
+
+protocolo:
+RX de tòrax anteroposterior portàtil.
+
+resultados:
+Reforç de la trama broncovascular perihiliar.
+
+conclusiones:
+Troballes superposables a les de l´estudi TACAR realitzades avui.
+
+descrip:
+RX  PORTATIL  TORAX

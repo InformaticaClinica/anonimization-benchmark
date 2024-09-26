@@ -1,0 +1,176 @@
+T31	SINTOMA 3763 3782	Funció renal normal
+T32	SINTOMA 4729 4750	abdominal sense dolor
+T33	SINTOMA 7596 7621	hemodinámicamente estable
+T34	SINTOMA 7624 7631	afebril
+T35	SINTOMA 7637 7652	dolor abdominal
+T36	SINTOMA 328 343	frotis positivo
+T37	SINTOMA 1176 1247	col·leccions perihepàtiques (amb aïllament de C albicans i C tropicalis
+T38	SINTOMA 1521 1560	frotis de COVID-19, que resulta positiu
+T39	SINTOMA 1660 1670	infiltrats
+T40	SINTOMA 2192 2197	febre
+T41	SINTOMA 2256 2267	taquicàrdia
+T42	SINTOMA 2269 2280	desaturació
+T43	SINTOMA 2310 2320	hipotensió
+T44	SINTOMA 2444 2469	col·lecció postquirúrgica
+T45	SINTOMA 2555 2596	opacitats bilaterals en vidre desllustrat
+T46	SINTOMA 2717 2771	frotis de COVID19 el [**FECHAS**], que resulta negatiu
+T47	SINTOMA 3784 3802	Diuresi preservada
+T48	SINTOMA 4045 4151	aillament en líquid peritoneal i de la ferida quirúrgica d'E.Coli BLEA, E.faecium, C.albicans i tropicalis
+T49	SINTOMA 4276 4287	leucocitosi
+T50	SINTOMA 4321 4330	febrícula
+T51	SINTOMA 4910 4929	deposició diarreica
+T52	SINTOMA 6578 6591	líquido libre
+T53	SINTOMA 7085 7123	colección adyacente al ángulo hepático
+T54	SINTOMA 7818 7837	leucocitos normales
+T55	SINTOMA 305 317	asintomática
+T57	SINTOMA 2859 2887	drenatge, francament hemàtic
+T58	SINTOMA 3591 3597	sagnat
+T59	SINTOMA 3688 3700	sagnat actiu
+T60	SINTOMA 3903 3913	bona SatO2
+T61	SINTOMA 4494 4550	ferida quirúrgica per part de CGI refereixen bon aspecte
+T62	SINTOMA 4628 4678	Drenatge peritoneal 15ml en 24h de coloració fosca
+T63	SINTOMA 6595 6640	colecciones en la vecindad de las anastomosis
+T64	SINTOMA 6991 7015	material de embolización
+T65	SINTOMA 7018 7034	burbujas de aire
+T66	SINTOMA 7185 7223	colección fusiforme en pared abdominal
+T67	SINTOMA 7232 7305	Coleccion de gasa en en la sutura de la linea media en la pared abdominal
+T68	SINTOMA 4827 4880	alteració del perfil hepàtic amb colestasi dissociada
+T69	SINTOMA 4860 4880	colestasi dissociada
+T70	ENFERMEDAD 227 250	INFECCIÓ PER SARS-CoV-2
+T71	ENFERMEDAD 1343 1364	fístula enterocutània
+T72	ENFERMEDAD 1531 1539	COVID-19
+T73	ENFERMEDAD 1709 1717	COVID-19
+T74	ENFERMEDAD 2416 2441	enteritis postobstructiva
+T75	ENFERMEDAD 2538 2541	TEP
+T76	ENFERMEDAD 2641 2665	bronquiolitis infecciosa
+T77	ENFERMEDAD 5196 5230	perforación intestinal iatrogénica
+T78	ENFERMEDAD 5287 5309	peritonitis fecaloidea
+T79	ENFERMEDAD 5544 5564	cuadros suboclusivos
+T80	ENFERMEDAD 5678 5700	suboclusión intestinal
+T81	ENFERMEDAD 6289 6324	dehiscencia de la herida quirúrgica
+T82	ENFERMEDAD 7307 7352	Ulceración en tejido subcutáneo periumbilical
+T83	ENFERMEDAD 70 88	OCLUSIÓ INTESTINAL
+T84	ENFERMEDAD 253 277	BRONQUIOLITIS INFECCIOSA
+T85	ENFERMEDAD 503 529	SAGNAT ARTÈRIA EPIGÀSTRICA
+T86	ENFERMEDAD 575 614	HEMATOMA DE LA VAINA DEL RECTE ANTERIOR
+T87	ENFERMEDAD 623 635	SHOCK SÈPTIC
+T88	ENFERMEDAD 1002 1019	pòlip endometrial
+T89	ENFERMEDAD 1029 1047	perforació uterina
+T90	ENFERMEDAD 1029 1076	perforació uterina i intestinal jejunal i ileal
+T91	ENFERMEDAD 1176 1203	col·leccions perihepàtiques
+T92	ENFERMEDAD 1426 1446	suboclusió intestina
+T93	ENFERMEDAD 1802 1852	oclusió intestinal per aplastronament d'anastòmosi
+T94	ENFERMEDAD 2444 2469	col·lecció postquirúrgica
+T95	ENFERMEDAD 2613 2620	COVID19
+T96	ENFERMEDAD 2727 2734	COVID19
+T97	ENFERMEDAD 3083 3165	hematoma de recte anterior dret 11x6x14 en context de sagnat d'artèria epigàstrica
+T98	ENFERMEDAD 5443 5458	ileo paralítico
+T99	ENFERMEDAD 5929 5963	hematoma de la vaina de los rectos
+T100	ENFERMEDAD 6877 6911	hematoma de la vaina de los rectos
+T101	ENFERMEDAD 7429 7451	evisceración contenida
+T102	ENFERMEDAD 2679 2703	sobreinfecció bacteriana
+T103	ENFERMEDAD 4603 4614	evisceració
+T104	PROCEDIMIENTO 200 203	NPT
+T105	PROCEDIMIENTO 1898 1909	laparotomia
+T106	PROCEDIMIENTO 2094 2109	retirada de SNG
+T107	PROCEDIMIENTO 2351 2368	angioTC abdominal
+T108	PROCEDIMIENTO 2507 2523	angioTC pulmonar
+T109	PROCEDIMIENTO 3061 3068	angioTC
+T110	PROCEDIMIENTO 3605 3617	TC abdominal
+T111	PROCEDIMIENTO 5239 5252	histeroscopia
+T112	PROCEDIMIENTO 5347 5371	resecciones intestinales
+T113	PROCEDIMIENTO 5803 5827	resección de anastomosis
+T114	PROCEDIMIENTO 5837 5868	confección de nueva anastomosis
+T115	PROCEDIMIENTO 5977 6020	embolización de arteria epigástrica derecha
+T116	PROCEDIMIENTO 6380 6393	curas tópicas
+T117	PROCEDIMIENTO 6414 6433	TAC abdominopélvico
+T118	PROCEDIMIENTO 6490 6562	resección intestinal con dos suturas metálicas latero-terminales ileales
+T119	PROCEDIMIENTO 6946 6948	TC
+T120	PROCEDIMIENTO 7140 7142	TC
+T121	PROCEDIMIENTO 7417 7420	VAC
+T122	PROCEDIMIENTO 7486 7489	TAC
+T123	PROCEDIMIENTO 7702 7734	Se retira drenaje intraabdominal
+T124	PROCEDIMIENTO 7900 7929	se decide retirar terapia VAC
+T125	PROCEDIMIENTO 107 134	RESECCIÓ ANASTOMOSIS PREVIA
+T126	PROCEDIMIENTO 328 334	frotis
+T127	PROCEDIMIENTO 510 558	ARTÈRIA EPIGÀSTRICA [**FECHAS**] -> embolització
+T128	PROCEDIMIENTO 964 977	histeroscòpia
+T129	PROCEDIMIENTO 1094 1122	resecció de zones perforades
+T130	PROCEDIMIENTO 1521 1539	frotis de COVID-19
+T131	PROCEDIMIENTO 1571 1582	TC de tòrax
+T132	PROCEDIMIENTO 1930 1949	resecció intestinal
+T133	PROCEDIMIENTO 1985 2006	col· locació de malla
+T134	PROCEDIMIENTO 2299 2307	FiO2 60%
+T135	PROCEDIMIENTO 2717 2734	frotis de COVID19
+T136	PROCEDIMIENTO 3146 3182	artèria epigàstrica, que s'embolitza
+T137	PROCEDIMIENTO 3301 3343	transfusió de 4 hemoconcentrats d'hematies
+T138	PROCEDIMIENTO 3431 3443	embolització
+T139	PROCEDIMIENTO 4376 4401	s'ha decidit retirar PICC
+T140	PROCEDIMIENTO 4448 4467	via central jugular
+T141	PROCEDIMIENTO 5020 5034	monitorització
+T142	PROCEDIMIENTO 5267 5298	cirugía urgente por peritonitis
+T143	PROCEDIMIENTO 5756 5774	revisón quirúrgica
+T144	PROCEDIMIENTO 6226 6236	dieta oral
+T145	PROCEDIMIENTO 6629 6640	anastomosis
+T146	PROCEDIMIENTO 6654 6691	Drenaje quirúrgico con entrada en FID
+T147	PROCEDIMIENTO 6831 6848	sutura quirurgica
+T148	PROCEDIMIENTO 7941 7954	curas tópicas
+T149	PROCEDIMIENTO 137 196	RECONFECCIÓ LT, MALLA DE SUBSTITUCIÓ A APONEUROSI POSTERIOR
+T150	PROCEDIMIENTO 1249 1256	drenada
+T151	PROCEDIMIENTO 4194 4206	antibiograma
+T152	PROCEDIMIENTO 7003 7015	embolización
+T153	FARMACO 703 712	Meropenem
+T154	FARMACO 735 744	Linezolid
+T155	FARMACO 767 781	Anidalafungina
+T156	FARMACO 804 815	Enoxaparina
+T157	FARMACO 3482 3495	noradrenalina
+T158	FARMACO 3719 3730	enoxaparina
+T159	FARMACO 3993 4002	Meropenem
+T160	FARMACO 4004 4013	Linezolid
+T161	FARMACO 4016 4030	Anidulafungina
+T162	FARMACO 383 386	HDQ
+T164	FARMACO 467 474	kaletra
+T165	PROCEDIMIENTO 1272 1282	antibiòtic
+T166	PROCEDIMIENTO 2073 2076	NPT
+T167	PROCEDIMIENTO 3287 3299	sueroteràpia
+T168	PROCEDIMIENTO 3353 3369	suport vasoactiu
+T169	FARMACO 3882 3888	oxigen
+T170	PROCEDIMIENTO 4792 4811	nutrició parenteral
+T171	ENFERMEDAD 479 498	patologia abdominal
+T172	ENFERMEDAD 7564 7572	hematoma
+T173	FARMACO 200 203	NPT
+T174	FARMACO 2073 2076	NPT
+T175	FARMACO 3287 3299	sueroteràpia
+T176	FARMACO 3353 3369	suport vasoactiu
+T177	FARMACO 4792 4811	nutrició parenteral
+T178	PROCEDIMIENTO 2028 2062	tancament total de paret posterior
+T179	SPECIES 4934 4946	T. difficile
+T180	HUMANO 5167 5175	paciente
+T181	HUMANO 5395 5403	paciente
+T182	HUMANO 7376 7384	paciente
+T183	HUMANO 7577 7585	paciente
+T184	SPECIES 240 250	SARS-CoV-2
+T185	SPECIES 1222 1232	C albicans
+T186	SPECIES 1235 1247	C tropicalis
+T187	PROCEDIMIENTO 1209 1218	aïllament
+T188	SPECIES 2693 2703	bacteriana
+T189	SINTOMA 2798 2824	inestabilitat hemodinàmica
+T190	ENFERMEDAD 3659 3667	hematoma
+T191	PROCEDIMIENTO 4045 4101	aillament en líquid peritoneal i de la ferida quirúrgica
+T192	ENFERMEDAD 4084 4101	ferida quirúrgica
+T193	SPECIES 4104 4115	E.Coli BLEA
+T194	SPECIES 4117 4126	E.faecium
+T195	SPECIES 4128 4151	C.albicans i tropicalis
+T196	ENFERMEDAD 4494 4511	ferida quirúrgica
+T197	SINTOMA 4934 4955	T. difficile negativa
+T198	ENFERMEDAD 6351 6359	hematoma
+T199	ENFERMEDAD 7683 7700	herida quirúrgica
+T200	PROCEDIMIENTO 4208 4217	Analítica
+T201	PROCEDIMIENTO 4813 4822	Analítica
+T202	PROCEDIMIENTO 90 92	IQ
+T203	HUMANO 838 845	Pacient
+T204	FARMACO 423 435	Azitromicina
+T1	PROCEDIMIENTO 1125 1139	anastòmosi L-T
+T2	PROCEDIMIENTO 5376 5390	anastomosis LL
+T3	PROCEDIMIENTO 7754 7768	Analíticamente
+T4	SINTOMA 7777 7812	mejoría de reactantes de fase aguda

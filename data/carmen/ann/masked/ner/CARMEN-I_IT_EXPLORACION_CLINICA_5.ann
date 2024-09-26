@@ -1,0 +1,98 @@
+T2	ENFERMEDAD 107 128	hipertensión arterial
+T3	ENFERMEDAD 181 189	Obesidad
+T4	SINTOMA 294 315	reflujo hepatoyugular
+T5	PROCEDIMIENTO 350 352	AR
+T6	ENFERMEDAD 896 912	Obesidad mórbida
+T7	FARMACO 154 165	paracetamol
+T9	PROCEDIMIENTO 317 346	Correcta perfusión periférica
+T10	PROCEDIMIENTO 562 586	palpación de hipogastrio
+T11	PROCEDIMIENTO 961 963	CV
+T12	SINTOMA 36 58	Regular estado general
+T13	SINTOMA 60 74	Normohidratado
+T14	SINTOMA 77 90	normocolerado
+T15	SINTOMA 198 230	tonos cardíacos rítmicos rápidos
+T16	SINTOMA 236 256	ruidos sobreañadidos
+T17	SINTOMA 270 291	ingurgitación yugular
+T18	SINTOMA 389 418	escasa excursión respiratoria
+T19	SINTOMA 423 450	movilización de secreciones
+T20	SINTOMA 452 489	Crepitantes en ambas bases pulmonares
+T21	SINTOMA 493 537	Abdomen: globuloso, pero blando y depresible
+T22	SINTOMA 547 586	molestias a la palpación de hipogastrio
+T23	SINTOMA 591 602	peritonismo
+T24	SINTOMA 626 650	Extremidades: sin edemas
+T25	SINTOMA 659 669	Consciente
+T26	SINTOMA 672 681	orientado
+T27	SINTOMA 729 740	somnolencia
+T28	SINTOMA 747 774	focalidad neurológica aguda
+T29	SINTOMA 781 794	rigidez nucal
+T30	SINTOMA 852 866	normocoloreado
+T31	SINTOMA 868 879	euhidratado
+T32	SINTOMA 881 887	febril
+T33	SINTOMA 965 990	hemodinámicamente estable
+T34	SINTOMA 1065 1110	Pulsos radiales presentes simétricos rítmicos
+T35	SINTOMA 1115 1129	edemas en MMII
+T36	SINTOMA 1137 1148	Taquipneico
+T37	SINTOMA 1248 1294	crepitante bilaterales hasta campos superiores
+T38	SINTOMA 1299 1305	roncus
+T39	SINTOMA 1309 1320	sibilancias
+T40	SINTOMA 1322 1342	ABD: Globoso, blando
+T41	SINTOMA 1364 1372	doloroso
+T42	SINTOMA 1377 1391	organomegalias
+T43	SINTOMA 1403 1413	Consciente
+T44	SINTOMA 1415 1426	colaborador
+T45	SINTOMA 1448 1468	lenguaje hipofluente
+T46	SINTOMA 1484 1490	disnea
+T47	SINTOMA 1530 1553	Moviliza 4 extremidades
+T48	SINTOMA 1555 1583	Pupilas isocóricas reactivas
+T49	SINTOMA 1621 1646	hemodinámicamente estable
+T50	SINTOMA 1652 1676	tonos cardíacos rítmicos
+T51	SINTOMA 1682 1688	soplos
+T52	SINTOMA 1693 1707	edemas en MMII
+T53	SINTOMA 1712 1714	IY
+T54	SINTOMA 1722 1733	Taquipneico
+T55	SINTOMA 1802 1816	ABD: Globuloso
+T56	SINTOMA 1827 1842	poco depresible
+T57	SINTOMA 1847 1870	doloroso a la palpación
+T58	SINTOMA 1875 1889	organomegalias
+T59	SINTOMA 1901 1911	Consciente
+T60	SINTOMA 1913 1924	colaborador
+T61	SINTOMA 1930 1951	focalidad neurológica
+T62	SINTOMA 1955 1965	meningismo
+T63	SINTOMA 1967 1995	Pupilas isocóricas reactivas
+T64	SINTOMA 2033 2058	hemodinámicamente estable
+T65	SINTOMA 2064 2088	tonos cardíacos rítmicos
+T66	SINTOMA 2094 2100	soplos
+T67	SINTOMA 2105 2119	edemas en MMII
+T68	SINTOMA 2124 2126	IY
+T69	SINTOMA 2134 2152	Eupneico en reposo
+T70	SINTOMA 2162 2190	crepintantes finos bibasales
+T71	SINTOMA 2192 2206	ABD: Globuloso
+T72	SINTOMA 2217 2232	poco depresible
+T73	SINTOMA 2237 2260	doloroso a la palpación
+T74	SINTOMA 2265 2279	organomegalias
+T75	SINTOMA 2291 2301	Consciente
+T76	SINTOMA 2305 2314	orientado
+T77	SINTOMA 2316 2327	colaborador
+T78	SINTOMA 2333 2354	focalidad neurológica
+T79	SINTOMA 2358 2368	meningismo
+T80	SINTOMA 2370 2398	Pupilas isocóricas reactivas
+T81	ENFERMEDAD 2400 2428	Miopatía del enfermo crítico
+T82	PROCEDIMIENTO 193 196	ACV
+T83	SINTOMA 354 384	tórax globalmente hipofonético
+T84	SINTOMA 607 622	ruidos de lucha
+T85	SINTOMA 1024 1046	R1 y R2 normofonéticos
+T86	PROCEDIMIENTO 1131 1135	Resp
+T87	PROCEDIMIENTO 1180 1185	VK40%
+T88	PROCEDIMIENTO 1210 1216	VK 60%
+T89	SINTOMA 1230 1243	MV conservado
+T90	SINTOMA 1393 1397	RHA+
+T91	SINTOMA 1492 1528	Mirada en posición primaria centrada
+T92	SINTOMA 1748 1751	MVC
+T93	SINTOMA 1756 1800	crepintantes bilaterales hasta campos medios
+T94	SINTOMA 1891 1895	RHA+
+T95	SINTOMA 2154 2157	MVC
+T96	SINTOMA 2281 2285	RHA+
+T97	PROCEDIMIENTO 1 19	EXPLORACIÓN FÍSICA
+T98	PROCEDIMIENTO 1586 1597	EXPLORACIÓN
+T99	PROCEDIMIENTO 1998 2009	EXPLORACIÓN
+T100	PROCEDIMIENTO 797 815	EXPLORACIÓN FÍSICA

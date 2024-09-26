@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+neumonía covid
+
+descrip:
+RX  PORTATIL  TORAX

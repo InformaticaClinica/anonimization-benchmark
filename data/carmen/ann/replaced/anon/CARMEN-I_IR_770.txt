@@ -1,0 +1,30 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Hombre de 75 años ingresado por neumonía por COVID, que presentó neumotórax a tensión hace 4 días que requirió drenaje torácico. A pesar de permeabilidad del drenaje con fuga persistente, existe empeoramiento respiratorio y ausencia de slidding pleural en ecografía. Ruego TC torácico para descartar aumento de neumotórax (posibilidad de fístula broncopulmonar?)
+
+protocolo:
+TC TORAX
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se compara con angio-TC torácico previo del 31/01/2022:
+Leve neumotórax izquierdo que ha disminuido considerablemente respecto TC previo, sin derrame pleural ipsilateral asociado, con re-expansión casi completa del parénquima pulmonar izquierdo.
+Tubo de drenaje pleural entre 5º y 6º arcos costales laterales izquierdos.
+Parénquima pulmonar con opacidades en vidrio deslustrado difusos y bilaterales con engrosamiento de septos (crazy paving) que a nivel de bases pulmonares tienen cierta tendencia a la confluencia conformando focos consolidativos, todo ello en relación a neumonía por COVID-19.
+Engrosamientos peribronquiales.
+Sin signos de neumonía organizativa en el estudio actual.
+Leve aumento del derrame pleural derecho, de 55 mm de grosor máximo actualmente (previo de 44mm).
+Resto del estudio sin cambios significativos respecto TC previo: Traquestomía con tubo endotraqueal con extremo distal a 4 cms de carina.
+CVC yugular derecho con extremo distal en VCS. Filtro de vena cava inferior parcialmente visualizado. Sonda nasogástrica.
+Ateromatosis calcificada coronaria.
+Adenopatías mediastínicas e hiliares descritas en TC previo estables.
+
+conclusiones:
+Leve neumotórax izquierdo, sin derrame pleural asociado con reexpansión casi completa del parénquima pulmonar ipsilateral.
+Opacidades en vidrio deslustrado compatibles con infección por COVID19, sin signos de neumonía organizativa en el momento actual.
+
+descrip:
+TC TORAX

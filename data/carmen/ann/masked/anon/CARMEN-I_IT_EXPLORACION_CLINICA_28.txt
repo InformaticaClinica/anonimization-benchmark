@@ -1,0 +1,12 @@
+[**FECHAS**]-01:40:00: Frecuencia respiratoria (rpm) 22, PAS (mm Hg) 111, PAD (mm Hg) 76, Pulsioximetría (%) 92. [**FECHAS**]-01:41:00 : Peso (Kg) 8 0, Talla (cm) 170, Ta axilar (oC) 36.8. [**FECHAS**]-09:00:00 : FiO2 (%) 3
+5. [**FECHAS**]-07:00:00 : Glicemia capilar (mg/dl) 217.
+** EXPLORACIÓN FÍSICA EN URGENCIAS:
+Paciente consciente y orientado en las 3 esferas, afebril, eupneico.
+A la exploración física presenta ruidos cardíacos rítmicos sin soplos, tórax simétrico, normoexpansible, MVA en ambos campos pulmonares con crepitantes bibasales, abdomen blando, depresible, no doloroso a la palpación. Extremidades simétricas sin edemas.
+Neurológico conservado.
+** EXPLORACIÓN FÍSICA EN PLANTA:
+Paciente consciente y orientado en las tres esferas.
+Piel y mucosas: Normocoloreado y normohidratado.
+Cardiovascular: Auscultación sin soplos. Pulsos periféricos arrítmicos, presentes y simétricos. No edemas en extremidades inferiores. No ingurgitación yugular ni reflejo hepatoyugular.
+Respiratorio: Crepitantes bibasales.
+Abdomen: Blando y depresible, no doloroso a la palpación superficial ni profunda. No se palpan megalias. Peristaltismo presente.

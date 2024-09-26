@@ -1,0 +1,59 @@
+T13	SINTOMA 277 284	T4bN+M0
+T14	SINTOMA 441 451	rpTis rpN0
+T15	ENFERMEDAD 496 518	isquemia de la plastia
+T16	SINTOMA 669 691	colección mediastínica
+T17	SINTOMA 693 714	paresia diafragmática
+T18	SINTOMA 744 763	taquicardia sinusal
+T19	SINTOMA 902 925	ingesta oral conservada
+T20	SINTOMA 1114 1208	positiva en esputo con H. influenzae, S.aureus sensible a oxacilina y Streptococcus pneumoniae
+T21	SINTOMA 1490 1510	S. Pneumoniae en BAS
+T22	SINTOMA 1706 1767	se aisla Corynebacterium striatum y Klebsiella BLEE en esputo
+T23	SINTOMA 1587 1589	RS
+T24	PROCEDIMIENTO 305 308	QMT
+T25	PROCEDIMIENTO 382 405	esofaguectomía Mc Keown
+T26	PROCEDIMIENTO 885 897	yeyunostomía
+T27	PROCEDIMIENTO 1056 1072	broncoaspiración
+T28	PROCEDIMIENTO 1248 1259	antibiótico
+T29	PROCEDIMIENTO 1371 1389	cultivo del esputo
+T30	PROCEDIMIENTO 1536 1539	IOT
+T31	PROCEDIMIENTO 1623 1642	sonda naso-duodenal
+T32	SINTOMA 1824 1842	clínica infecciosa
+T33	ENFERMEDAD 26 34	ALERGIAS
+T34	ENFERMEDAD 83 106	alergias medicamentosas
+T35	ENFERMEDAD 135 145	Ex-fumador
+T36	ENFERMEDAD 183 204	Hipertensión arterial
+T37	ENFERMEDAD 635 667	Insuficiencia respiratoria aguda
+T38	ENFERMEDAD 726 742	broncoaspiración
+T39	SINTOMA 765 803	portador de Klebsiella pneumoniae BLEE
+T40	ENFERMEDAD 929 937	Neumonía
+T41	ENFERMEDAD 1454 1479	neumonia broncoaspirativa
+T42	ENFERMEDAD 1514 1521	gripe A
+T43	ENFERMEDAD 1569 1571	FA
+T44	FARMACO 1264 1287	Piperacilina/Tazobactam
+T45	FARMACO 1303 1326	Amoxicilina/Clavulánico
+T46	FARMACO 1943 1964	Bromuro de ipratropio
+T47	FARMACO 1972 1982	Budesonida
+T48	FARMACO 1990 2001	esomeprazol
+T49	FARMACO 2013 2024	paracetamol
+T50	FARMACO 2033 2047	metoclopramida
+T52	PROCEDIMIENTO 550 562	esofagostoma
+T55	HUMANO 1870 1878	Paciente
+T56	ENFERMEDAD 250 276	Carcinoma escamoso esófago
+T57	PROCEDIMIENTO 309 320	RDT radical
+T58	ENFERMEDAD 422 440	carcinoma escamoso
+T59	PROCEDIMIENTO 511 547	plastia que precisa resección distal
+T60	PROCEDIMIENTO 577 604	Reconstrucción del tránsito
+T61	SPECIES 777 803	Klebsiella pneumoniae BLEE
+T62	SPECIES 1137 1150	H. influenzae
+T63	SPECIES 1152 1181	S.aureus sensible a oxacilina
+T64	SPECIES 1184 1208	Streptococcus pneumoniae
+T65	PROCEDIMIENTO 1100 1113	microbiología
+T66	PROCEDIMIENTO 1507 1510	BAS
+T67	SPECIES 1490 1503	S. Pneumoniae
+T68	FARMACO 1608 1611	NAD
+T69	PROCEDIMIENTO 1706 1714	se aisla
+T70	SPECIES 1715 1739	Corynebacterium striatum
+T71	SPECIES 1742 1757	Klebsiella BLEE
+T72	FARMACO 2054 2064	complejo B
+T73	PROCEDIMIENTO 347 370	Intervención quirúrgica
+T74	ENFERMEDAD 322 330	Recidiva

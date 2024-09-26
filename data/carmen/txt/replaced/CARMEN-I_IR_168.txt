@@ -1,0 +1,21 @@
+
+prueba:
+TC TORAX
+
+clinica:
+PAciente COVID-19 Foco consoloditativo. Interesa valoración para descartar NOC
+NEUMONÍA POR COVID-19
+
+protocolo:
+TC de tórax sin contraste ev.
+
+resultados:
+Opacidades en vidrio deslustrado bilaterales y difusas, con disposición predominantemente periférica y conformando bandas subpleurales con pequeñas dilataciones bronquiales asociadas. Los hallazgos son compatibles con una infección pulmonar por COVID-19, con tendencia a la fibrosis (signos de probable neumonía organizativa asociada).
+No se observa derrame pleural ni pericárdico.
+Cambios posquirúrgicos en la mama y axila derechas. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+
+conclusiones:
+Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de probable neumonía organizativa).
+
+descrip:
+TC TORAX

@@ -1,0 +1,6 @@
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**]. Sin alergias medicamentosas conocidas. No hábitos tóxicos.
+* ANTECEDENTES PATOLÓGICOS:
+1. Mutación heterozigota factor V Hon Kong y Mutación heterozigota factor XII. Nunca episodios trombóticos.
+- Antecedentes quirúrgicos: quistectomía OI [**FECHAS**] (benigno), conización CIN 1 [**FECHAS**], polipectomía por histeroscópica [**FECHAS**], [**FECHAS**], legrado por aborto difereido en [**FECHAS**] y [**FECHAS**], miomectomía por laparoscopia en [**FECHAS**] i miomectomía por histeroscopica [**FECHAS**]. Técnica antiincontinencia por IUE en [**FECHAS**] con banda. Colecistectomía en [**FECHAS**].
+- Antecedentes ginecológicos: TPAL 0030 (aborto diferido que requirió legrado, aborto bioquímico, TM 10 (4 primeros abundante)/28-34. SUA (cambio compresa c/2h), Última RG y citología [**FECHAS**]: normal.
+* MEDICACIÓN HABITUAL: no refiere.

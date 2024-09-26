@@ -1,0 +1,15 @@
+
+prueba:
+ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Pacient amb antecedent d'haver portat port-a-cath a subclàvies bilaterals i que presenta impossibilitat de col·locació de CVC jugulars i PICC per braç dret. Interessa descartar trombosi venosa crònica d'aquests territoris. Gràcies.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+conclusiones:
+V. Yugular interna derecha permeable, con estenosis marcada en segmento distal adyacente a unión yugulosubclavia.
+V. subclavia derecha permeable sin signos evidentes de trombosis.
+V. yugular izquierda permeable, de pequeño calibre, con adecuado drenaje a V. subclavia izquierda que se encuentra permeable.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

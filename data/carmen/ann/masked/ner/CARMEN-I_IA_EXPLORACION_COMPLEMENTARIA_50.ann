@@ -1,0 +1,58 @@
+T12	SPECIES 421 424	MDR
+T13	SPECIES 592 627	Staphylococcus aureus Oxacil.lina S
+T14	SPECIES 653 662	bacterias
+T15	SPECIES 769 790	Chlamydia trachomatis
+T16	SPECIES 805 826	Neisseria gonorrhoeae
+T17	SPECIES 845 866	Mycoplasma genitalium
+T18	SPECIES 1067 1081	flora habitual
+T19	SPECIES 1088 1091	VHB
+T20	SPECIES 1102 1105	VIH
+T21	SPECIES 1130 1133	VHB
+T22	SPECIES 1165 1168	VHB
+T23	ENFERMEDAD 356 364	COVID-19
+T24	ENFERMEDAD 478 486	COVID-19
+T25	SPECIES 533 542	S. aureus
+T26	SPECIES 544 548	MRSA
+T27	SPECIES 549 553	MSSA
+T28	SINTOMA 41 73	ventrículo izquierdo no dilatado
+T29	SINTOMA 125 156	VD no dilatado normofuncionante
+T30	SINTOMA 224 257	líneas B bilaterales coalescentes
+T31	ENFERMEDAD 187 206	derrame pericárdico
+T32	PROCEDIMIENTO 3 28	ECOSCOPIA (a pie de cama)
+T33	PROCEDIMIENTO 210 222	ECO PULMONAR
+T34	PROCEDIMIENTO 311 324	MICROBIOLOGÍA
+T35	PROCEDIMIENTO 688 702	Frotis uretral
+T36	PROCEDIMIENTO 877 917	Frotis muestra respiratoria [**FECHAS**]
+T37	PROCEDIMIENTO 930 956	Detección Ag galactomanano
+T38	PROCEDIMIENTO 982 993	Quantiferón
+T39	SINTOMA 97 123	función ventricular normal
+T40	ENFERMEDAD 158 182	VCI ligeramente dilatada
+T41	SINTOMA 268 298	consolidación en base pulmonar
+T42	SINTOMA 1102 1114	VIH negativo
+T43	SINTOMA 1116 1142	IgG anti-core VHB positivo
+T44	SINTOMA 1144 1177	IgG anti- superficie VHB negativo
+T45	PROCEDIMIENTO 1116 1133	IgG anti-core VHB
+T46	PROCEDIMIENTO 1144 1168	IgG anti- superficie VHB
+T47	PROCEDIMIENTO 1084 1091	DNA VHB
+T48	SINTOMA 1084 1100	DNA VHB negativo
+T49	SINTOMA 982 1021	Quantiferón [**FECHAS**]: indeterminado
+T50	SINTOMA 940 979	Ag galactomanano [**FECHAS**]: negativo
+T51	SINTOMA 877 927	Frotis muestra respiratoria [**FECHAS**]: positivo
+T52	PROCEDIMIENTO 739 790	detecció àc. nucleics per PCR Chlamydia trachomatis
+T53	SINTOMA 769 803	Chlamydia trachomatis, PCR Negatiu
+T54	SINTOMA 805 839	Neisseria gonorrhoeae, PCR Negatiu
+T55	PROCEDIMIENTO 841 866	PCR Mycoplasma genitalium
+T56	SINTOMA 845 874	Mycoplasma genitalium Negatiu
+T57	PROCEDIMIENTO 630 662	Frotis uretral estudio bacterias
+T58	SINTOMA 630 685	Frotis uretral estudio bacterias [**FECHAS**]: negativo
+T59	PROCEDIMIENTO 516 554	Detecció/Control S. aureus (MRSA/MSSA)
+T60	SPECIES 579 613	colònies de: Staphylococcus aureus
+T61	SINTOMA 516 613	Detecció/Control S. aureus (MRSA/MSSA) [**FECHAS**]: se aislan colònies de: Staphylococcus aureus
+T62	PROCEDIMIENTO 450 486	Frotis muestra respiratoria COVID-19
+T63	SINTOMA 478 513	COVID-19 [**FECHAS**]: indetectable
+T64	PROCEDIMIENTO 407 424	Frotis rectal MDR
+T65	SINTOMA 407 447	Frotis rectal MDR [**FECHAS**]: negativo
+T66	PROCEDIMIENTO 328 364	Frotis muestra respiratoria COVID-19
+T67	SINTOMA 356 404	COVID-19 ([**HOSPITAL**]) [**FECHAS**]: positivo
+T68	PROCEDIMIENTO 1038 1052	Broncoaspirado
+T69	SINTOMA 1038 1081	Broncoaspirado [**FECHAS**]: flora habitual

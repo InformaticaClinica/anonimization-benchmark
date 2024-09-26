@@ -1,0 +1,57 @@
+
+**EVOLUCIÓN EN SALA [**NUMERO_IDENTIF**] (PARTE 1)
+.
+1. - NEUMONÍA BILATERAL POR SARS-CoV2. NEUMONÍA ORGANIZATIVA EN PACIENTE CON NEUMOPATÍA INTERSTICIAL NO FILIADA DESDE [**FECHAS**] (post- infecciosa, por hipersensibilidad)
+- Inicio de síntomas: indermetinado (2-3 semanas según refiere - 15/10 aprox)
+- Ingreso: [**FECHAS**]
+- Fecha PCR positiva: [**FECHAS**]
+.
+- Tratamientos:
+Dexametasona ([**FECHAS**]) - Bolo de metilprednisolona 500mg los [**FECHAS**], [**FECHAS**] y [**FECHAS**]- MTP 40/12h [**FECHAS**]-[**FECHAS**] -- MTP 40/24 [**FECHAS**].
+.
+2. - Probable sobreinfección respiratoria en paciente inmunodeprimido (CD4115). Aislamiemto de Aspergillus fumigatus en cultivo de esputo del [**FECHAS**] (AGA neg). No se observa imagen de aspergilosis angioinvasiva en TC del [**FECHAS**] (revisado por Radiología, imágenes de traqueobronquitis sin imágenes de angioinvasión) - Probable traqueobronquitis por Aspergillus fumigatus- El [**FECHAS**] se inició Posaconazol y el [**FECHAS**] se suspendió antibioterapia empírica de amplio espectro (mero + line) tras 4 días.
+.
+3. - PARADA RESPIRATORIA REMONTADA EN SEGUNDOS CON AMBÚ TRAS RETIRADA ACCIDENTAL DE OXIGENOTERAPIA - quedando posteriormente con reservorio a10 lpm para SatO2 95-97%
+.
+4. - DELIRIUM 2o A PROCESO CRÍTICO
+.
+5. - ERCT MULTIFACTORIAL (monorreno secundario a intervención por neoplasia de vejiga, NAE, DM2) en HEMODIÁLISIS desde el [**FECHAS**] a través de CVC YD (recambio de acceso el [**FECHAS**]). Se había intentado realizar FAV en MSD en tres ocasiones con disfunción primaria de las mismas.
+Turno M-J-S [**INSTITUCION**] ([**INSTITUCION**] [**CALLE**])
+.
+6. - NEUMOPATÍA NO FILIADA: Ingreso en [**FECHAS**] por Neumonía por Gripe A (TC vidrio deslustrado sugestivo de gripe, y nódulos centrolobulillares en vidrio deslustrado y imágenes de tree in bud en relación a patología de vía aérea). Reingreso en [**FECHAS**] por Sepsis urinaria por E. faecalis, con aumento progresivo de aumento de las opacidades pulmonares bilaterales de predominio periférico y de distribución difusa. TC ambulatorio ([**FECHAS**]): hallazgos son sugestivos de neumonía organizativa post-infecciosa. Ingreso el [**FECHAS**] por emergencia HT con EAP (TAC: NOC). .
+Analíticamente
+En todo el proceso se ha descartado razonablemnte COVID: * PCR COVID-19 (23/04, 27/04, 1/05, 18/05 Y 21/05): indetectables
+* SEROLOGÍAS DE COVID-19 ([**FECHAS**]): anticuerpos totales covid-19 (IgA+IgM+IgG) negativos
+.
+7. OTROS: Antecedentes de HTA, DM mal controlada con LOD (retinopatía, nefropatía), DLP, FA paroxística (Sintrom+Bisoprolol) y disfunción del seno con pausas por lo que se colocó MCP ([**FECHAS**]), IC (ETT ([**FECHAS**]): FEVI 55%, HVI lig-mod)). NEOPLASIA VESICAL con CISTOPROSTATECTOMÍA RADICAL + BRICKER en [**FECHAS**] (presenta diuresis residual). Posteriormente se realizó NEFRECTOMÍA.
+.
+---------------
+.
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**], con los antecedentes descritos, a destacar ERCT en hemodiálisis y neumopatía intersticial no filiada desde [**FECHAS**], que acude el [**FECHAS**] a Urgencias por presentar cuadro de 2-3 semanas, de sensación de inestabilidad cefálica con sensación distermica no cuantificada y disnea de pequeños esfuerzos. Niega tos, ageusia, anosmia. No acudió a última sesión de diálisis.
+.
+A su llegada urgencias en buenas condiciones generales, satO2 basal correcta. EF anodino. Se realiza analítica sanguinea con aumento de PCR (10.15 mg/dL), linfopenia de 0.6?10*9/L, ionograma dentro de la normalidad. Rx de tórax: IC >0.5 infiltrados intersiticiales bilaterales de predominios en base similares a previa. Se completa estudio con frotis nasofaringeo de SARS-CoV2 resultado positivo, por lo que se decide ingreso en sala de hospitalización.
+.
+A su llegada a sala, se buen estado general, SatO2: 99% basal, consciente y orientado, a la auscultación pulmonar crepitantes en ambas bases, sin ingurgitación yugular ni edemas en EEII.Se decide inicio de Dexametasona y Ceftriaxona empírica (aislamiento previo de E. cloacae sensible)
+    
+**EVOLUCIÓN EN SALA [**NUMERO_IDENTIF**] (PARTE 2):
+.
+1,2 y 6
+.
+Aumento progresivo de requerimientos de O2 hasta VMK al 60% ell [**FECHAS**] por lo que se realiza TC en la que se objetiva neumopatía intersticial compatible con COVID vs neumonitis por hipersensibilidad y afectación parenquimatosa y de v. aérea suestivo de traqueobronquitis, por lo que se decide administran bolus de MTP 500 mg 3 días ([**FECHAS**]-[**FECHAS**]), manteniendo después MTP en pauta descendente, y antibioterapia empírica por sospecha de sobreinfección bacteriana (Meropenem + Linezolid del [**FECHAS**] al [**FECHAS**]).
+En el cultivo de esputo del [**FECHAS**] se aísla Aspergillus spp. pendiente de tipificar, por lo que se inicia tratamiento con Posaconazol el [**FECHAS**] como tratamiento de posible traqueobronquitis por Aspergillus (cultivo esputo del [**FECHAS**] y AGA negativos) y se suspende antibioterapia. Cierta mejoría clínica posterior, permitiendo bajar el VMK al 40% y descenso de RFA en la analítica y ligera mejoría radiológica, pero empeoramiento progresivo posterior con aumento de requerimientos de O2, por lo que se decide colocar LAF el [**FECHAS**] (es su techo terapéutico, paciente LET con voluntades anticipadas) inicialmente a 60/60 que se ha ido aumentando a 85/60 para SatO2 en torno a 95%. Aumento de infiltrados bilaterales en RxT del [**FECHAS**] comparándola con la realizada el [**FECHAS**]. Se completa estudio con autoinmunidad en la que se objetvan ANA positivo (homogéneo, 160 URF), Anti-músculo liso positivo (80 URF), IgG antinucleares (IFI Hep2) POSITIVO INTENSO(homogéneo 5-6), IgG anticitoplasmáticos (IFI Hep2) POSITIVO MODERADO, homogéneo difuso 3-4, todo ello muy inespecífico y, en cualquier caso, sugestivo de IPAF (comentado con U. Autoinmunes) con poca probabilidad dada la nula respuesta a corticoterapia a altas dosis.
+.
+Dado que se trata de un paciente inmunodeprimido (hemodiálisis, corticoterapia prolongada a dosis elevadas), con empeoramiento clínico, analítico (elevación de RFA) y radiológico tras bolos de corticoide, cabría descartar oportunistas (Pneumocystis y CMV), por lo que solicito CV CMV en sangre y comento con microbiología para realización de PCR de Pneumocystis en vía aérea superior (imposibilidad de realizar broncoscopia por situación clínica actual, finalmente no se realiza por imposibilidad para expectoración) y beta-D-glucano en sangre.
+.
+3 y 4
+.
+El [**FECHAS**], sobre las 21:00h me avisan por que no funciona el humidificador de las LAF (no pasa el suero y se ha recalentado). Se desconectan la LAF con imposibilidad de colocar otra toma de O2, por lo que el paciente se queda unos minutos sin oxigenoterapia. Comienza con sensación de inestabilidad y giro de objetos, con taquipnea, trabajo respiratorio y posterior desconexión del medio. Queda en parada respiratoria unos segundos y comenzamos ventilación con ambú, remontando inmediatamente con mejoría de la mecánica respiratoria y recuperación del nivel de consciencia. Cifras tensionales estables y pulso central presente en todo momento. Lo trasladamos de nuevo a su habitación y colocamos mascarilla reservotio a 15 lpm, captando SatO2 de 100%, por lo que lo dejo a 10 lpm(SatO2 en torno a 97%), con buena mecánica respiratoria y mejoría del estado general. Destaca cuadro de delirium con alucinaciones visuales y discurso incoherente, aunque se encuentra orientado en espacio (ha presentado episodios de delirium las noches previas)
+.
+Mala evolución durante el fin de semana, con episodios de agitación psicomotriz, desasosiego y disnea, que ha precisado rescates de mórficos, benzodiacepinas y neurolépticos con mal control. El [**FECHAS**] por la mañana somnolencia, con episodios de inquietud y desasosiego, por lo que llamo a la [**FAMILIARES_SUJETO_ASISTENCIA**], y de acuerdo con lo hablado previamente tanto con el paciente (tiene voluntades anticipadas y reclamaba adecuación del esfuerzo terapéutico si mala evolución) como con su [**FAMILIARES_SUJETO_ASISTENCIA**], se inicia perfusión de sedación.
+.
+El paciente es EXITUS LETALIS EL [**FECHAS**] A LAS
+Causas del fallecimiento:
+-INMEDIATA: Fracaso multiorgánico
+-Intermedias: Sobreinfección respiratoria. Neumopatía intersticial.
+Enfermedad renal crónica terminal
+-Fundamental: COVID-19
+    

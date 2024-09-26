@@ -1,0 +1,26 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con AP de artritis reumatoide,ingresada tras infeccion por sarscov2 , traqueostomizada.
+En analitica D Dimero 5800.
+Solicitamos TC para descartar TEP.
+Gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+No se observan defectos de repleción en a. pulmonares sugestivos de TEP.
+Arterias pulmonares de calibre normal.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades alveolares y en vidrio deslustrado bilaterales, de predominio periférico, compatible con afectación pulmonar por COVID. Signos de fibrosis (bronquiectasias de tracción, distorsión parenquimatosa, atelectasias subsegmentarias) sugestivo de neumonía organizada.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

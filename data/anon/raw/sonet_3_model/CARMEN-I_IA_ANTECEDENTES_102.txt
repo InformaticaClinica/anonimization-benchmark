@@ -1,0 +1,17 @@
+Alergia al [**ACIDO CLAVULÁNICO**]. Intolerancia al melón. No hábitos tóxicos.[**FAMILIARES_SUJETO_ASISTENCIA**] con ca. mama metastasico.
+* ANTECEDENTES PATOLÓGICOS:
+1. APLASIA MEDULAR GRAVE. Dx [**FECHAS**] [**CENTRO_SALUD**].
+>TTO:  CsA desde [**FECHAS**]: sin respuesta. - ATG caballo [**FECHAS**] + CsA [**DOSIS**] + Eltrombopag [**DOSIS**] (inicia [**FECHAS**]-STOP [**FECHAS**] por completar 6m). - CsA [**DOSIS**] (stop [**FECHAS**] por temblores) + reinicio Eltrombopag [**FECHAS**] - Stop eltrombopag [**FECHAS**] por ausencia de respuesta. - Danazol [**DOSIS**] + Tacrolimus (inicia el [**FECHAS**])
+* AMO ([**FECHAS**]): hipocelular, elementos del estroma (linfocitos y plasmocitos). Poblaciones linfocitarias con inversión de cociente CD4/CD8. Presencia de clona HPN (neutrófilos [**PORCENTAJE**], monocitos [**PORCENTAJE**], eritrocitos [**PORCENTAJE**]).
+Progresión de la aplasia medular con soporte transfusional + corta duración de la respuesta a ATG e imposibilidad para CsA, se decide realizar TPH haploidéntico.
+REEVALUACIÓN
+- AMO ([**FECHAS**]): Hipocelular, presencia de precursores granulocíticos ymegacariocíticos con refuerzo de la granulación.  
+- QM en SP ([**FECHAS**]): QM completa del donante en leucocitos totales.
+2. ESCLEROSIS MÚLTIPLE R/R. Seguimiento por [**INSTITUCION**]. Brotes en [**FECHAS**] y [**FECHAS**]. RM craneal con criterios de diseminación en tiempo y espacio.
+Seqüeles: visió borrossa. Hipoestèsia i disestèsies mà dreta.
+3.METRORRAGIAS
+4.QUISTE PILONIDAL estable
+* TRATAMIENTO HABITUAL ([**FECHAS**]): CsA [**DOSIS**], Aciclovir [**DOSIS**].
+Pentamidina (última [**FECHAS**]). Pantoprazol [**DOSIS**]. Mg [**DOSIS**].
+Calcio [**DOSIS**]. Zolpidem [**DOSIS**]. Gembifrozilo [**DOSIS**], Gabapentina [**DOSIS**]. Hidroferol/[**FRECUENCIA**], Clonazepam [**DOSIS**] (la dosis de la noche PRN). Lorazepam [**DOSIS**] (no lo toma). Movicol sp. Posaconazol [**DOSIS**] (stop [**FECHAS**]). G-CSF semanal ([**DIA**]), Zolpidem PRN, Lederfolin [**DOSIS**].
+VACUNACIÓN COVID 19: Moderna. 1a dosis [**FECHAS**]; 2a dosis [**FECHAS**] (serología negativa [**FECHAS**]); 3a dosis al [**MES**]. [**MES**] serologia negativa.

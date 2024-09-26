@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+PROBABLE AIT
+
+protocolo:
+TC craneal sin CIV.
+
+resultados:
+Craneostomía frontal derecha para catéter de DVP con extremo en asta frontal del VLD adyacente al agujero de Monro.
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en relación con cambios involutivos.
+Leucopatía isquémica por afectación vascular de pequeño vaso.
+Estructuras de la línea media centradas. Cisternas de la base libres.
+No se observan imágenes de sangrado agudo intra ni extraaxial, ni signos isquémicos.
+No se observan otras alteraciones significativas de la densidad del parénquima cerebral ni cerebeloso.
+
+conclusiones:
+Estudio sin signos de patología aguda.
+
+descrip:
+TC CEREBRAL

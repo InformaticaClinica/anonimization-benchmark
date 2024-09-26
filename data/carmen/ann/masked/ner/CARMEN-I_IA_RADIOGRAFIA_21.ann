@@ -1,0 +1,43 @@
+T4	SINTOMA 998 1059	opacidades centrolobulillares en vidrio deslustrado en el LSD
+T5	SINTOMA 653 730	Paso de contraste oral a la cavidad tumoral mediastínica y al hidroneumotórax
+T6	SINTOMA 765 801	Ocupación del bronquio intermediario
+T7	SINTOMA 806 851	colapso total e hipocaptante del LID y del LM
+T8	SINTOMA 954 995	foco consolidativo posterobasal en el LII
+T9	SINTOMA 1215 1242	líquidolibre intraabdominal
+T10	SINTOMA 1167 1212	burbujas de aire adyacentes a la gastrostomía
+T11	SINTOMA 1328 1383	fuga de contraste oral evidente a la cavidad peritoneal
+T12	SINTOMA 1433 1505	Arterias pulmonares principales, ramas lobares y segmentarias permeables
+T13	SINTOMA 1510 1549	defectos de repleción sugestivos de TEP
+T14	SINTOMA 1551 1608	Tronco de la arteria pulmonar permeable de calibre normal
+T15	SINTOMA 1805 1850	patrón en vidrio deslustrado difuso bilateral
+T16	SINTOMA 1863 1907	focos más evidentes subpleurales bilaterales
+T17	SINTOMA 2137 2190	Cavidad tumoral mediastínica de contenido heterogéneo
+T18	SINTOMA 2373 2411	alteaciones en el hemiabdomen superior
+T19	SINTOMA 2055 2093	Enfisema paraseptal y centrolobulillar
+T20	ENFERMEDAD 901 921	leve derrame pleural
+T21	ENFERMEDAD 1074 1092	proceso infeccioso
+T22	ENFERMEDAD 1131 1150	leve neumoperitoneo
+T23	ENFERMEDAD 1621 1648	ssevero derrame pericárdico
+T24	ENFERMEDAD 1681 1696	hidroneumotórax
+T25	ENFERMEDAD 1754 1769	derrame pleural
+T26	ENFERMEDAD 1941 1962	infección por COVID19
+T27	ENFERMEDAD 1983 2022	sobreinfección por otra etiología viral
+T28	ENFERMEDAD 2026 2029	PCP
+T29	ENFERMEDAD 2192 2214	Adenopatía retrocrural
+T30	ENFERMEDAD 2422 2518	Metástasis óseas en cuerpo vertebral y elementos posteriores de L1 y en 9º arco costal posterior
+T31	PROCEDIMIENTO 3 26	GASTROSTOMÍA PERCUTÁNEA
+T32	PROCEDIMIENTO 317 400	es decideix col·locar gastrostomía de 20F a través d'introductor pelable telescopat
+T33	PROCEDIMIENTO 618 636	TC TORACOABDOMINAL
+T34	PROCEDIMIENTO 743 750	drenaje
+T35	PROCEDIMIENTO 877 879	TC
+T36	PROCEDIMIENTO 1298 1310	gastrostomía
+T37	PROCEDIMIENTO 1408 1416	ANGIO-TC
+T38	PROCEDIMIENTO 43 50	Sedació
+T39	PROCEDIMIENTO 89 177	Es col·loca catèter a l'estòmac a través del nas mitjançant guía Terumo per a insuflació
+T40	PROCEDIMIENTO 179 223	Es coloquen tres pèxies a la pared abdominal
+T41	PROCEDIMIENTO 402 449	S'infla el baló amb 10 cc d'aigua bidestil·lada
+T42	PROCEDIMIENTO 503 544	consversió en sonda de gastrojejunostomía
+T43	ENFERMEDAD 1546 1549	TEP
+T44	SINTOMA 1681 1748	hidroneumotórax derecho conocido con tubo de drenaje en su interior
+T45	SINTOMA 2095 2135	Catéter venoso central con extremo en AD
+T46	SINTOMA 2278 2348	Doble endoprótesis esofágica con extremo distal en la cavidad gástrica

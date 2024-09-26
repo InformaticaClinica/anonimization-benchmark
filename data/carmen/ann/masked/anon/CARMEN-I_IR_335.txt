@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONIA POR SARS-CoV-19
+
+conclusiones:
+Tenues opacidades periféricas en campos inferiores que en el contexto epidemiológico actual es sugestivo de afectación pulmonar por COVID.
+
+descrip:
+RX  PORTATIL  TORAX

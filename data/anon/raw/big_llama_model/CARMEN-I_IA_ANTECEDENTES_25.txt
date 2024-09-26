@@ -1,0 +1,16 @@
+ ANTECEDENTES PERSONALES MEDICOQUIRÚRGICOS
+No AMC
+Timpanoplastia en [**FECHAS**]. Niega otros AP
+* Medicación Habitual : Niega
+ANTECEDENTES PSIQUIÁTRICOS PERSONALES
+Niega.
+ANTECEDENTES PSIQUIÁTRICOS FAMILIARES
+Familiar primer grado Trastorno Depresivo en tratamiento farmacológico.
+ANTECEDENTES TOXICOLÓGICOS
+- TUS Nicotina [**NUMERO_TELEFONO**] paq./día
+- Consumo irregular de cannabis [**NUMERO_TELEFONO**] UPE/semana según refiere
+- Enol [**NUMERO_TELEFONO**] UBE/semana cerveza
+- Niega otros tóxicos.
+PSICOBIOGRAFIA
+Natural de [**PAIS**]. En [**TERRITORIO**] desde hace [**EDAD_SUJETO_ASISTENCIA**] años. Tiene tres sobrinos.
+Prima en la carcel. Madre no mantiene contacto. Vendedor puerta a puerta. Actualmente viviendo en casa ocupa en [**CALLE**] con dos amigos. Familiares en [**PAIS**] de orígen, una sobrina vive en [**TERRITORIO**].

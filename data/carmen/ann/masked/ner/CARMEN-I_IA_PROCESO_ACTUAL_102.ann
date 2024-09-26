@@ -1,0 +1,31 @@
+T2	SINTOMA 25 33	nicturia
+T3	SINTOMA 36 47	polaquiuria
+T4	SINTOMA 77 83	fiebre
+T5	SINTOMA 101 110	hematúria
+T6	SINTOMA 223 229	fiebre
+T7	SINTOMA 234 241	disuria
+T8	SINTOMA 258 269	polaquiuria
+T9	SINTOMA 358 369	escalofrios
+T10	SINTOMA 619 635	malestar general
+T11	SINTOMA 639 658	episodios amnesicos
+T12	SINTOMA 751 758	astenia
+T13	SINTOMA 796 813	sudoració profusa
+T14	SINTOMA 85 98	sd. miccional
+T15	SINTOMA 277 307	urinocultivo crécio un E. coli
+T16	SINTOMA 553 566	sd. miccional
+T17	SINTOMA 572 581	hematúria
+T18	SINTOMA 593 601	anorèxia
+T19	SINTOMA 603 614	decaimiento
+T20	SINTOMA 434 477	sedimento que no reporta datos de infeccion
+T21	SINTOMA 816 827	escalofrios
+T22	ENFERMEDAD 142 160	infección de orina
+T23	ENFERMEDAD 410 415	gripe
+T24	FARMACO 177 185	cefixima
+T25	FARMACO 684 695	tamsulocina
+T26	HUMANO 1 9	Paciente
+T28	SPECIES 300 321	E. coli multisensible
+T29	PROCEDIMIENTO 277 289	urinocultivo
+T30	PROCEDIMIENTO 394 415	vacunacion para gripe
+T31	FARMACO 500 511	tamsulocina
+T32	FARMACO 488 499	dutasteride
+T33	FARMACO 696 707	dutasteride

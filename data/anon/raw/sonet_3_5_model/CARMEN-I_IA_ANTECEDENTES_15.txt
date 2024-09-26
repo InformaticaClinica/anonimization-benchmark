@@ -1,0 +1,14 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**] de [**EDAD_SUJETO_ASISTENCIA**] de edad, con antecedente de dudosa RAM a amoxicilina y reacción de urticaria con angioedema por metamizol, autónoma para las ABVD con movilidad limitada por intervención de rodilla derecha con secuelas.
+ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL
+2. DISLIPEMIA
+3. FIBRILACIÓN AURICULAR de debut en [**FECHAS**] consultando a urgencias de [**CENTRO_SALUD**] por cuadro de palpitacones y siendo altada con betabloqueantes y rivaroxaban. Se programa cardioversión eléctrica que se realizó el [**FECHAS**] de forma exitosa revirtiendo a ritmo sinusal.
+Actualmente sigue todavía tratamiento con rivaroxaban y betabloqueantes.
+* ECOCARDIOGRAFÍA [**FECHAS**]: FEVI 60%, ventrículo izquierdo de dimensiones y motilidad normal, insuficiencia aórtica mínima, insificiencia mitral y tricuspidea ligeras, aurícula izquierda severamente dilatada y ventrículo izquierdo derecho no diltado con motilidad conservada.
+4. GONARTROSIS BILATERAL
+- IQ prótesis ([**FECHAS**]) con complicación infecciosa postoperatoria.
+5. DOLOR LUMBAR CRÓNICO con radiculopatía crónica L5-S1
+6. DEPRESIÓN
+7. GLAUCOMA
+MEDICACIÓN HABITUAL ([**FECHAS**]): omeprazol 20mg/d, rivaroxaban 15mg/d, furosemida 40mg/d, simvastatina 20mg/d, fluoxetina 20mg/d, paracetamol prn, latanoprost 2gts/d, sulfato ferroso oral, losartán 25mg/d.

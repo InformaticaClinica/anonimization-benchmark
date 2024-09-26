@@ -1,0 +1,26 @@
+
+prueba:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO
+
+clinica:
+TOH
+
+protocolo:
+ECO BASAL ABDOMEN URGENTE
+
+conclusiones:
+Injerto hepático de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal y flujo hepatopetal.
+Velocidad preanastomosis = 43 cm/s -- Velocidad postanastomosis= 49 cm/s
+Arteria hepática permeable con IRs discretamente elevados de morfología conservada. IR hilio= 0,85 - IR AHI= 0,75 - IR AHD=0,85
+Venas suprahepáticas permables.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal (10 cm).
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+Vejiga urinaria con sonda en su interior.
+No líquido libre intra-abdominal
+Derrame pleural derecho.
+
+descrip:
+ECOGRAFIA DOPPLER TRASPLANTE  HEPATICO

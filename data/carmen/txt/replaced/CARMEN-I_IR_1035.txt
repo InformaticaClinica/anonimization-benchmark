@@ -1,0 +1,23 @@
+
+prueba:
+TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con antecedentes de obesidad morbida , cursa internacion por Neumonia por covid 19 + DIA +11 DE SINTOMAS SIN MEJORIA CLINICA Y PROGRESION RADIOLOGICA.
+INFECCIÓN POR SARS-COV-2
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Vía central izq con extremo en tronco innominado venoso.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades parecheadas en vidrio deslustrado de distribución peribroncovascular y subpleural , con mayor afectación del hemitórax D.
+compatible con neumoni aCOVID. No se observan signos de neumoní organizativa.
+
+conclusiones:
+Neumonia COVID sin signos de neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

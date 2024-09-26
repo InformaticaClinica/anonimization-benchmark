@@ -1,0 +1,21 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Commoció sense pèrdua de consciència, A
+
+protocolo:
+Se realiza TC craneal SIN contraste e.v. URGENTE (Dr. Rocher)
+
+resultados:
+Se compara con TC del 28/12/2022.
+Persisten sin cambios significativos los focos de contusión hemorrágica frontobasal y en polo temporal izquierdos sin cambios significativos en tamaño o densidad. Discreta disminución en los mínimos focos de HSA en surcos cerebrales frontotemporales izquierdos. Muy discreto hematoma subdural en convexidad cerebral izquierda y en tentorio izquierdo que no ha variado significativamente respecto a previo. No se observan nuevos focos de sangrado agudo intraaxial.
+Estructuras de la línea media centradas. Sistema ventricular de tamaño y morfología conservados.Cisternas basales no colapsadas.
+
+conclusiones:
+Discreta disminución de los focos de HSA descritos en previo.
+Estabilidad en los focos de contusión hemorrágica parenquimatosa parenquimatosos y en el discreto hematoma subdural en convexidad y tentorio izquierdo.
+
+descrip:
+TC CEREBRAL

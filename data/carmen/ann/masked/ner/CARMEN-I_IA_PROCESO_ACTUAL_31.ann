@@ -1,0 +1,47 @@
+T11	ENFERMEDAD 1487 1490	ICC
+T12	ENFERMEDAD 1706 1712	anemia
+T13	ENFERMEDAD 1842 1860	neumonía bilateral
+T14	ENFERMEDAD 2057 2094	insuficiencia respiratoria hipoxémica
+T15	ENFERMEDAD 1716 1741	alteraciones plaquetarias
+T16	ENFERMEDAD 1878 1886	COVID-19
+T17	SINTOMA 122 130	tos seca
+T18	SINTOMA 133 140	cefalea
+T19	SINTOMA 152 158	disnea
+T20	SINTOMA 226 232	fiebre
+T21	SINTOMA 234 241	anosmia
+T22	SINTOMA 245 252	ageusia
+T23	SINTOMA 257 271	dolor torácico
+T24	SINTOMA 275 283	diarreas
+T25	SINTOMA 465 498	infiltrados bilaterales discretos
+T26	SINTOMA 842 872	disnea hasta mínimos esfuerzos
+T27	SINTOMA 875 895	sensación distérmica
+T28	SINTOMA 925 931	fiebre
+T29	SINTOMA 1065 1088	infiltrados bilaterales
+T30	SINTOMA 1220 1245	estable hemodinámicamente
+T31	SINTOMA 1247 1257	normotenso
+T32	SINTOMA 1264 1275	taquicardia
+T33	SINTOMA 1277 1288	taquipneico
+T34	SINTOMA 1398 1408	febricular
+T35	SINTOMA 1444 1471	crepitantes secos bibasales
+T36	SINTOMA 1553 1588	función renal e ionograma correctos
+T37	SINTOMA 1667 1679	leucocitosis
+T38	SINTOMA 1683 1693	linfopenia
+T39	ENFERMEDAD 1500 1517	focos infecciosos
+T40	FARMACO 1982 1992	Remdesivir
+T41	FARMACO 1995 2006	Tocilizumab
+T42	PROCEDIMIENTO 405 425	radiografía de tórax
+T43	PROCEDIMIENTO 594 611	PCR de SARS CoV 2
+T44	PROCEDIMIENTO 683 697	oxigenoterapia
+T45	PROCEDIMIENTO 986 1006	radiografía de tórax
+T46	PROCEDIMIENTO 1351 1368	lentillas nasales
+T47	PROCEDIMIENTO 1416 1434	exploración física
+T48	PROCEDIMIENTO 1755 1775	Radiografía de tórax
+T50	SPECIES 601 611	SARS CoV 2
+T51	SINTOMA 594 647	PCR de SARS CoV 2 ([**FECHAS**]) que resultó positiva
+T52	ENFERMEDAD 1948 1959	infecciones
+T53	PROCEDIMIENTO 1140 1151	radiológica
+T54	PROCEDIMIENTO 1814 1825	radiológica
+T55	PROCEDIMIENTO 1910 1921	radiológica
+T1	SINTOMA 1024 1049	empeoramiento radiológico
+T2	PROCEDIMIENTO 1038 1049	radiológico
+T3	SINTOMA 666 697	requerimiento de oxigenoterapia

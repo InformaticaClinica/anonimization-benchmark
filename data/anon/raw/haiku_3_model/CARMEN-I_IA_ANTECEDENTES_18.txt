@@ -1,0 +1,25 @@
+Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias médicas conocidas. Hábitos tóxicos: ex- fumador (dosis acumulada [**OTROS_SUJETO_ASISTENCIA**]),  ex- enolismo ([**OTROS_SUJETO_ASISTENCIA**]), actualmente abstinente). Factores de riesgo cardiovascular: no hipertensión arterial, no diabetes, no dislipemia.
+Sociofuncional: independiente para las actividades básicas de la vida diaria. Jubilado, trabajó como [**PROFESION**]. Vive con sus [**FAMILIARES_SUJETO_ASISTENCIA**]. Tiene [**OTROS_SUJETO_ASISTENCIA**].
+** ANTECEDENTES PATOLÓGICOS
+1. CIRROSIS HEPÁTICA ENÓLICA - CHILD B7
+- Diagnóstico en [**FECHAS**] a raíz de episodio de hemorragia digestiva alta (HDA) por varices esofágicas.
+- En seguimiento por [**HOSPITAL**].
+- DESCOMPENSACIONES
+** Hemorragia digestiva alta, tratada con EBL y colocación de early TIPS en [**FECHAS**] y cierre de TIPS en [**FECHAS**]
+- ÚLTIMAS PRUEBAS
+** GASTROSCOPIA - [**FECHAS**]: Varices fúndicas tipo VG1. No estigmas de hemorragia reciente, sin restos hemáticos. Gastropatía de la hipertensión portal leve.
+** ECOGRAFÍA ABDOMINAL [**FECHAS**]: Hígado de contornos iregulares, alteración difusa de la ecoestructura y aumento de la ecogenicidad.
+Presenta hipertrofia del LHI y atrofia del LHD, todo ello en relación a hepatopatía crónica con componente de esteatosis. No se identifican lesiones focales evidentes. V. Porta hiliar permeable con flujo hepatopetal y velocidades bajas ([**OTROS_SUJETO_ASISTENCIA**]). Dirección del flujo portal intrahepático hepatofugal. VSH media y izquierda permeables de pequeño calibre. Vena cava inferior permeable. V. esplenica permeable con abundante circulación colateral celíaca y en hilio hepático. Marcada circulación colateral periesplénica. TIPS no permeable (cerrado previamente). Esplenomegalia homogénea ([**OTROS_SUJETO_ASISTENCIA**]). No se observa ascitis.
+** HEMODINÁMICA HEPÁTICA [**FECHAS**]: 1.- Presiones cardiopulmonares elevadas en relación a síndrome porto- pulmonar, con mejoría de PAP en relación a estudio previo: PAP: [**OTROS_SUJETO_ASISTENCIA**], PCP: [**OTROS_SUJETO_ASISTENCIA**], IC; [**OTROS_SUJETO_ASISTENCIA**].
+2. HIPERTENSIÓN PORTO-PULMONAR
+- En seguimiento por Neumología [**HOSPITAL**].
+- En tratamiento con macicentan y tadalafilo.
+** ECOCARDIOGRAMA [**FECHAS**]
+- Mínima insuficiencia tricuspidea que no permite estimar la PAP con seguridad. Solo presenta temps de aceleración pulmonar curta y arteria pulmonar dilatada.
+- Ventrículo izquierdo no dilatado con hipertrofia moderada-grave del septum interventricular, con la motilidad global preservada sin segmentarismos. Patrón diastólico de grado II. FEVE [**OTROS_SUJETO_ASISTENCIA**].
+- Válvula aórtica trivalva normofuncionante. Mínima insuficiencia mitral. Aurícula izquierda ligeramente dilatada. Ventrículo derecho ligeramente dilatado normocontráctil. Vena cava inferior no dilatada y colapso inspiratorio preservado.
+** PRUEBAS DE FUNCIÓN RESPIRATORIA [**FECHAS**]: alteración obstructiva de leve intensidad, PBD no significativa, capacidad de transferencia de CO disminución de moderada intensidad que no corrige con VA.
+3. EPOC GOLD 1B.
+4. ENFERMEDAD RENAL CRÓNICA, atribuida a múltiples episodios de AKI.
+5. ANEMIA MULTIFACTORIAL.
+** MEDICACIÓN HABITUAL: Omeprazol [**OTROS_SUJETO_ASISTENCIA**] Furosemida [**OTROS_SUJETO_ASISTENCIA**] Espironolactona [**OTROS_SUJETO_ASISTENCIA**] Sulfato ferroso Ácido fólico Alopurinol.

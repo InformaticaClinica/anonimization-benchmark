@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente con SDRA por Sars cov2, IOT tras claudicación respiratoria el día 05.09 con sobreinfeccion respiratoria por P. aeruginosa. Aumento de Dímero D hasta 30.000, interesa confirmar/descartar TEP. Anticoagulado a dosis plenas ajustado por función renal.
+
+protocolo:
+Angio-TC pulmonar urgente adquirida mediante energía dual.
+
+resultados:
+Es compara amb l'estudi previ del 20/2/2015.
+CVC jugular dret amb extrem distal a la VCS. TOT amb l'extrem distal a 3,8 cm de la carina. SNG normoposicionada.
+No s'identifiquen defectes de replecció a l'arbre arterial pulmonar que suggereixin un TEP. Tronc de l'artèria pulmonar de calibre normal.
+Adenopatia hiliar dreta de fins a 13 mm, d'aspecte reactiu. No s'aprecien altres adenopaties mediastíniques ni axil·lars valorables.
+Lleu embassament pleural bilateral de predomini dret. Mínim embassament pericàrdic (fins a 5 mm de gruix).
+Extenses opacitats en vidres esmerilat i focus consolidatius difusos que associen uns lleus engruiximents septals (patró en "crazy paving") i presenten un gradient antero-posterior, destacant la consolidació amb broncograma aeri de la pràctica totalitat dels dos lòbuls inferiors.
+Troballes suggestives d'un síndrome de distrés respiratori (SDRA) en el context de la pneumònia per COVID-19 coneguda. S'identifiquen algunes zones de parènquima consolidat que presenten una discreta hipocaptació de contrast, fet que no permet descartar un component de sobreinfecció.
+Canvis per nefrectomia radical dreta. Ronyó esquerre parcialment inclòs, d'aspecte discretament més atròfic respecte l'estudi previ i amb una dilatació dels grups calicials més evident. Lleu quantitat de líquid lliure difús a hemiabdomen superior.
+Discrets canvis degeneratius a la columna toràcica. Fractura per aixafament de la plataforma superior de T10 amb pèrdua d'alçada d'un 50%.
+
+conclusiones:
+- Exploració sense signes de TEP.
+- Lleu embassament pleural bilateral i mínim embassament pericàrdic.
+- Afectació parenquimatosa pulmonar bilateral suggestiva d'un síndrome de distrés respiratori en relació a la pneumònia per COVID-19 coneguda.
+Associa troballes que no permeten descartar un component de sobreinfecció.
+- Lleu quantitat de líquid lliure difús a hemiabdomen superior.
+
+descrip:
+ANGIO TC PULMONAR

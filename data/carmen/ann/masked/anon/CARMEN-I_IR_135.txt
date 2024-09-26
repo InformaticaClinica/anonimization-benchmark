@@ -1,0 +1,15 @@
+
+prueba:
+ANGIO TC REGION ESPLACNICA (TC, AMS)
+
+clinica:
+[**EDAD_SUJETO_ASISTENCIA**], POP aneurisma micótico, dolor no responde a analgesia.
+Disrtensión abdominal ++. Ruego TC abdomen. En tto con heparina por TEP.
+Gracias
+TEP
+
+conclusiones:
+Doc. duplicado
+
+descrip:
+ANGIO TC REGION ESPLACNICA (TC, AMS)

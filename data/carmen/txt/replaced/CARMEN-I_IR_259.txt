@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID + Irenal
+
+descrip:
+RX  PORTATIL  TORAX

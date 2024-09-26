@@ -1,0 +1,20 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**], posible alergia a las cefalosporinas y al diclofenaco.
+No hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS:
+1. HTA. DLP.
+2. DM, actualmente en tratamiento con insulina.
+* Retinopatía diabética desde noviembre-[**FECHAS**].
+* Nefropatía diabética.
+3. Transplante renal de donante cadáver ([**FECHAS**]) por insuficiencia renal crónica secundaria a nefropatía diabética en hemodiálisis desde [**FECHAS**].
+* Ingresada durante [**21 días**] [**FECHAS**] por úlcera + celulitis perianal ([**INSTITUCION**] + [**INSTITUCION**]) + ITU ([**INSTITUCION**]) + IRA AKIN-I sbre IRC trasplantada en [**FECHAS**] + EAP recuperado (iniciado [**FECHAS**] en contexto de sobrecarga hídrica) + ACxFA de novo paroxística (evidenciada en ECG [**FECHAS**]), siendo tratada con meropenem, linezolid y anadilafungina. El frotis de control de la herida perianal del día [**FECHAS**] resulta positivo para [**INSTITUCION**].
+4. Cardiopatía isquémica revascularizada: IAM apical Killip III ([**FECHAS**]), con regreso el mes de [**FECHAS**] del mismo año por angor post-IAM, realizándose cateterismo y ACTP a DA con stent farmacoactivo y ACTP a OM1 (intentando implantación de stent sin éxito).
+PRUEBA DE ESFUERZO ([**FECHAS**]): Prueba de sobrecarga farmacológica con dipiridamol clínicamente negativa y eléctricamente no valorable para isquemia miocárdica. Pendiente de realización de SPECT de perfusión miocárdica (protocolo largo) para completar el estudio.
+ÚLTIMO ECOCARDIOGRAMA ([**FECHAS**]):
+Insuficiencia mitral moderada con "jet" excéntrico, velos discretamente engrosados y restricción de la valva posterior. Ventrículo izquierdo ligeramente hipertrófico con motilidad global moderadamente reducida por hipocinesia difusa con marcado movimiento anómalo del septum. Patrón diastólico de alteración de la relajación. Esclerosis aórtica sin disfunción valvular. Ligera dilatación de la aurícula izquierda.
+Ventrículo derecho normocontràctil. No se detecta derrame pericárdico.
+5. Obesidad grado I (IMC [**32**]).
+6. FIBRILACIÓN AURICULAR PAROXÍSTICA en tratamiento frenador. En seguimiento por Cardiología, se decidió no anticoagular.
+***IQ: cesárea ([**x2**]), amigdalectomía.
+***MEDICACIÓN HABITUAL
+- Insulina rápida [**10 UI**] en las comidas con variaciones según necesidades. - Insulina glargina [**32UI**] [**18-0-14**] - Cefditoreno [**200mg**] [**c/12h**]
+- Omeprazol [**20mg**] [**c/24h**] - Salbutamol [**100mcg**] [**2inh c/8h**] - AAS [**100mg**] [**c/24h**] - Amiodarona [**200mg**] [**5 comprimidos c/7d**] - Mononitrato de isosorbida [**50mg**] [**24h**] - Nitroglicerina + Cafeína si precisa - Furosemida [**40mg**] [**C712h**] - Atorvastatina [**10mg**] [**c/24h**] - Paracetamol [**500mg**] si precisa - Acido Micofenolico [**180mg**] [**c/12h**] - Tacrolimus [**0,5mg**] ([**0-0-1**]) - Bisoprolol [**1,25mg**] [**24h**] - Acetilcisteína [**600mg**] [**c/24h**].

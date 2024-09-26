@@ -1,0 +1,21 @@
+Mujer de [**EDAD_SUJETO_ASISTENCIA**] de edad, dudosa alergia a la penicilina, no fumadora ni bebedora de enol.
+VALORACIÓN GERIÁTRICA:
+- FUNCIONAL: polifarmacia, Barthel 60 (dependencia leve), camina con bastón y ha presentado 2 caídas en el último año.
+- SOCIAL: vive con su nuera quien es su cuidadora principal.
+- COGNITIVO: deterioro cognitivo con Pffeifer 5 errores.
+- COMORBILIDAD: Charlson 11.
+ANTECEDENTES PATOLÓGICOS:
+1. DIABETES MELLITUS TIPO 2 diagnosticada en [**FECHAS**], en tratamiento con ADOs e insulina, sin complicaciones retinianas, con nefropatía probablemente diabética.
+2. HIPERTENSIÓN ARTERIAL diagnosticada en [**FECHAS**].
+3. CARDIOPATÍA ISQUÉMICA diagnosticada en [**FECHAS**] por IAM no Q, se realizó cateterismo que mostraba arteria coronaria derecha distal ocluida crónica, lesión del tronco común 50% y lesión significativa de la descendente anterior a nivel medio. La paciente se rechazó para cirugía por alto riesgo quirúrgico, colocándose stent en DA.
+* Episodio de dolor torácico en [**FECHAS**], se realizó cateterismo de arterias coronarias que mostraba tronco común izquierdo con lesión en segmento medio del 30% y lesión distal del 80%, DA con ateromatosis difusa, stent sin reestenosis, con lesión significativa en segmento medio-distal; CD con ateromatosis difusa. El [**FECHAS**] se realizó triple bypass a DA media (arteria mamaria izquierda), a segunda marginal (vena safena) y segunda diagonal (vena safena).
+* Prueba de esfuerzo [**FECHAS**] clínicamente negativa y eléctricamente positiva, SPECT sin isquemia aguda.
+4. INSUFICIENCIA CARDÍACA FEVI PRESERVADA. Varios episodios de insuficiencia cardíaca en forma de edemas y aumento de la dísnea, tratados con diuréticos sin requerir diurético basal, clase funcional basal NYHA II (disnea a moderados esfuerzos). Última agudización en [**FECHAS**].
+* Última ecocardiografía ([**FECHAS**]) FE 55-60%. Ventrículo izquierdo de movilidad normal. Dilatación del ventrículo derecho y discinesia (movimiento en parte por marcapasos), insuficiencia tricuspídea grave que permite estimar hipertensión pulmonar grave (65 mmHg de PAP Sistólica estimada). Vena cava inferior gravemente dilatada.
+5. HIPOTIROIDISMO SUBCLÍNICO diagnosticado en [**FECHAS**] en tratamiento con levotiroxina 25 mcg/día.
+6. DISLIPEMIA en tratamiento farmacológico.
+7. RITMO NODAL PERSISTENTE que requirió implante de MARCAPASOS VVI en [**FECHAS**] (en [**HOSPITAL**]).
+8. ESTENOSIS CAROTÍDEA IZQUIERDA.
+9. ENFERMEDAD RENAL CRÓNICA ESTADIO G3B A3 probablemente secundaria a diabetes mellitus tipo 2.
+10. HEMORRAGIA DIGESTIVA BAJA NO FILIADA. Ingreso en [**FECHAS**], pero dado el contexto de la paciente (IAMSEST con episodios de dolor torácico, cambios eléctricos con ascenso de TpI a 0.826 ng/ml y descompensación de insuficiencia cardíaca), se desestima continuar estudio de hemorragia digestiva con fibrocolonoscopia.
+MEDICACIÓN HABITUAL: Insulina lantus 18 UI/24h, Omeprazol 20mg/24h, Apixaban 2,5mg/12h, Nitroglicerina spray sublingual si precisa, Mononitrato de isosorbida 20mg/8h, Furosemida 40mg 2-1-0, Espironolactona 25mg/12h, Linagliptina 5mh/24h, Atorvastatina 40mg/24h, Levotiroxina 25mcg/24h, Lormetazepam 2mg/24h, Citalopram 20mg/24h, Calcifediol 266mcg/mes, Sulfato ferroso 80mg/12h, Bisoprolol 1,25mg/24h, Enalapril 5mg 2-0-1.

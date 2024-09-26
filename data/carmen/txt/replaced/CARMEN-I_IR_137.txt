@@ -1,0 +1,21 @@
+
+prueba:
+ECOGRAFIA ABDOMINAL Y DOPPLER
+
+clinica:
+Paciente con elevación de transaminsas, sin causa.
+HEPATITIS AGUDA
+
+conclusiones:
+Fetge de mida, morfologia, ecogenicitat i ecostructura normals, sense lesions focals evidents. Contorns hepàtics regulars.
+Vena porta permeable, de diàmetre normal amb fluxe hepatopetal.
+Vesícula biliar alitiàsica, de paret fina.
+Via biliar no dilatada.
+Melsa homogènia de mida normal.
+Pàncrees (cap.cos) de morfologia i ecogenicitat normal.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No hi ha dilatació de la via excretora.
+No hi ha líquid lliure intraabdominal.
+
+descrip:
+ECOGRAFIA ABDOMINAL Y DOPPLER

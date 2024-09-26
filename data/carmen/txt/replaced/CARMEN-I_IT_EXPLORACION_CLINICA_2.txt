@@ -1,0 +1,6 @@
+31/07/2021-07:40:00: Frecuencia respiratoria (rpm) 20, PAS (mm Hg) 155, PAD (mm Hg) 89, Pulsioximetría (%) 94. 31/07/2021-07:42:00 : Ta axilar ( oC) 38.5. 03/08/2021-17:00:00 : FiO2 (%) 60.
+Buen estado general, alerta, con constantes vitales estables, sin signos de dificultad respirtoria, con sensación de escalofrío durante la valoración
+-CABEZA Y CUELLO: mucosas secas, normocrómicas, escleras anictericas, cuello sin ingurgitación yugular
+-TORAX:  normoexpansible, sin uso de musculatura accesoria, con estertores secos en bases, bilateral, ruidos cardíacos ritmicos sin soplos
+-ABDOMEN: ruidos intestinales presentes,  dolor a la palpacion de fosa iliaca izquierda, sin signos de irrtación peritoneal , puñopercusión negativa bilateral
+-EXTREMIDADES: sin edema, llenado capilar menor a dos segundos , sin cianosis

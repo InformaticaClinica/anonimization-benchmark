@@ -1,0 +1,23 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+Pacient de [**EDAD_SUJETO_ASISTENCIA**] ingressada per pneumonia per covid amb traqueostomía que presenta despertar molt lent malgrat fa dies que no porta sedació.
+Fluctuant nivell de consciència sense clara focalitat. Ha estat anticoagulada. Interessa TC per descartar complicacions intracraneals.
+Gràcies.
+
+protocolo:
+TC CEREBRAL en condiciones basales.
+
+conclusiones:
+No hay evidencia de sangrado agudo extra y/o intraaxial.
+No se observan hipodensidades ni desdiferenciación corticosubcortical sugestivas de isquémia.
+No se identifican LOEs.
+Parénquima cerebral sin alteraciones relevantes.
+Sistema ventricular de morfología y tamaño normales.
+Estructuras de la línea media centradas.
+Cisternas basales y peritronculares libres.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,37 @@
+
+* EVOLUCIÓN EN [**NUMERO_IDENTIF**]:
+1. INSUFICIENCIA CARDIACA DESCOMPENSADA EN PACIENTE CON DISFUNCIÓN VENTRICULAR GRAVE A ESTUDIO. PROBABLE CARDIOAPTÍA ISQUÉMICA.
+2. DERRAME PLEURO-PERICÁRDICO GRAVE DE PREDOMINIO POSTERIOR A ESTUDIO.
+SIN SIGNOS DE TAPONAMIENTO.
+3. ANTECEDENTE DE COVID-19.
+4. HEMATURIA.
+5. FEBRÍCULA.
+1-2. A su llegada a la [**NUMERO_IDENTIF**], hemodinámicamente estable, afebril. SatO2 99% con LN4L. Glasgow 15. Tonos cardíacos rítmicos de intensidad disminuida, no soplos. Hipofonesis bilateral, sin crepitantes. Edemas en miembros inferiores de grado II.
+Analítica sin elevación de reactantes de fase aguda, función renal y hepática estables. Hemograma y coagulación normales. Troponinas normales.
+Se realiza nueva ecoscopia que destaca ventrículo izquierdo ligeramente dilatado, con motilidad global severamente disminuida por hipocinesia difusa más marcada a nivel anterior e inferior. FEV 25-30%. IM ligera- moderada. VD no dilatado normocontráctil. Derrame pericárdico severo circunferencial con colapso sistólico de AD, sin compromiso de VD ni alteración flujo transmitral. VCI dilatada. Eco pulmonar con abundantes líneas B 30% de campos, con derrame pleural 1L izq, 1,2L der.
+Ecoabdominal: mínima lámina de ascitis
+Se trata de un paciente con derrame pericárdico grave sin signos de taponamiento y en que el que se decide, dado que es de predominio posterior, no realizar por el momento pericardiocentesis. Dado que presenta clínica de insuficiencia cardiaca congestiva se inicia tratamiento deplectivo con furosemida ev con buen respuesta.
+Con el tratamiento pautado, realizó balances claramente negativos las primeras 24 horas (2L) con lo que mejoró el patrón respiratorio y la clínica congestiva. Se decidió disminuir furosemida paulatinamente dado que se trata de un paciente con riesgo de taponamiento y que ya se resolvió la ICC, por lo que se mantiene con furosemida 10 mg/6h.
+Para compeltar estudio, dado que también tiene derrame pleural asociado, se realiza toracocentesis diagnóstica con líquido que presenta características de trasudado, aunque con linfocitos elevados, hallazgos sugestivos de derrame crónico. Gram y tinción por BAAR negativos, cultivos negativos. Citología sin atípias, con componente inflamatorio de predominio limfocitario. Covid-19 en líquido pleural negativo.
+Durante el pocedimiento se extrayeron 250 cc de líquido seroso. Para completar estudio, se ha solicitado estudio de autoinmunidad (complemento, antiDNA negativos) sin hallazgos significativos.
+3. Presenta como antecedente una infección por Covid-19 con frotis positivo el [**FECHAS**], que cursó asintomático, y por el cual estuvo ingresado para vigilancia 7 días. No consta que realizara tratamiento específico. Posteriormente, le realizaron 2 nuevos frotis (último en [**FECHAS**] que fue negativo).
+A raíz de este ingreso, se solicitó un frotis en [**HOSPITAL**] ([**FECHAS**]) que fue positivo y otro en [**HOSPITAL**] que ha sido negativo ([**FECHAS**]). El paciente ha estado asintomático en todo momento. Se han solicitado anticuerpos ([**FECHAS**]) para completar estudio, con resultado positivo tanto para IgG como IgM.
+4-5. Se realizó sondaje vesical en el [**HOSPITAL**] que fue traumático, objetivándose aquí hematuria sin coágulos. Por comodidad del paciente se decidió retirada de sonda vesical tras lo cual, ha realizado micción espontánea aunque persiste con algo de hematuria, que posteriormente se ha aclarado hasta orinas claras sin restos hemáticos.
+En este contexto el [**FECHAS**] presenta febrícula de 37,5oC y en la analítica destaca aumento de la PCR a 15 mg/dL. No semiología infecciosa; únicamente presenta deposiciones diarreicas por lo que se cursa coprocultivo, que resulta negativo. Posteriormente queda afebril sin tratamiento ATB, pendiente de cultivos.
+Por buena evolución clínica se decide traslado a sala pendiente de completar estudio.
+    
+EVOLUCIÓ CARDIOLOGIA
+1. MIOCARDIOPATIA DILATADA ISQUÈMICA
+2. INSUFICIÈNCIA CARDIACA DESCOMPENSADA SECUNDÀRIA A 1
+3. VESSAMENT PLEURO-PERICÀRDIC SEVER. SENSE TAPONAMENT CARDIAC.
+4. INFECCIÓ PER COVID-19 EL [**FECHAS**]. ÚLTIM FROTIS POSITIU [**FECHAS**].
+5. FEBRÍCULA. COL·LONITZACIÓ PER E. COLI BLEA.
+A sala [**NUMERO_IDENTIF**] es realitza coronariografia per completar estudi que objectiva malaltia arterial coronària de 2 vasos: s'objectiva OCT de DA ostial, sense visualitzar-se el vas distal, i aterosclerosi de TC distal que afecta de forma moderada ostium de CX. La CX és un vas amb ateromatosi difusa, amb lesions significatives de OM1 i OM2 però que són de fi calibre i no es considera que es puguin beneficiar de ICP. La CD és dominant, amb aterosclerosi difusa sense lesions significatives.
+Donades les troballes de la coronariografia i l'ecocardiograma es decideix realitzar RM cardiaca per completar estudi de viabilitat que mostra part del territori de DA amb viabilitat residual (veure informe adjunt), amb FE del 19%.
+Es comenta en Heart Team. L'anatomia coronària no és adequada per revascularització quirúrgica. La ICP sobre CX tampoc és possible. No es visualitza vas distal de la DA. Per tot això, es decideix conjuntament repetir RM en 3 mesos i citar a consulta d'OCT amb Dr. [**NOMBRE_PERSONAL_SANITARIO**]. En aquell moment es revalorarà ICP sobre OCT de DA. S'adjunten cites.
+Durant la seva estada a sala el pacient s'ha mantingut estable hemodinàmicament en tot moment, amb milloria dels símptomes i signes d'insuficiència cardíaca. S'han realitzat ecocsòpies de control revisades amb equip d'Imatge, que han mostrat milloria del vessament, que segueix essent circumferencial, però que ha disminuït de quantitat i que no presenta compromís hemodinàmic. A més, es troba de predomini a sac posterior. Per tot això es decideix no realitzar pericardiocentesi.
+S'ha optimitzat tractament iniciant antagonistes d'aldosterona, sacubitril-valsartan, betabloquejant i resta de maneig de cardiopatia isquèmica.
+5. En frotis rectal es detecta col·lonització per E. coli BLEA. A UC del [**FECHAS**] i [**FECHAS**] s'aïlla E. coli BLEA. HC negatius. Es comenta amb Infeccions i donat que el pacient habia presentat determinació febricular puntual, es trobava assimptomàtic i amb RFA en descens, inicialment es va decidir no iniciar ATB. El [**FECHAS**] presenta nova determinació febricular, s'obtenen nous HC i UC, es recanvien vies perifèriques i es decideix iniciar ciprofloxacino oral per cobrir E.
+coli, que haurà de completar durant 10 dies. Posteriorment el pacient s'ha mantingut afebril. UC novament amb E. coli BLEA. HC amb aïllament a 1/2 de Corynebacterium jeikeium, que s'atribueix a contaminació, donada absència de clínica ni de RFA a l'analítica.
+Donat que l'estudi s'ha completat i que el pacient es manté amb bona evolució, es decideix trasllat a hospital de referència per completar evolució.
+    

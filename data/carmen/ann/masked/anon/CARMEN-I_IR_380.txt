@@ -1,0 +1,24 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+pacient amb deterioraemtn cognitiu, ha presentat hamtoma en paret toràcica, que va requerir embolitzacio per DIVAS. Prego TC per a descartar sagnat en SNC Gràcies
+Hematoma de pared torácica
+
+protocolo:
+TC CEREBRAL sin contraste yodado E.V urgente.
+
+resultados:
+No se observan imágenes de sangrado agudo intra ni extraaxial.
+Estructuras de la línea media centradas. Cisternas de la base libres.
+Disminución global del volumen cerebral con dilatación secundaria del sistema ventricular, en probable relación a cambios involutivos.
+Moderada hipodensidad periventricular sugestiva de afectación vascular de pequeño vaso.
+No se observan otras alteraciones de la densidad del parénquima cerebral ni cerebeloso.
+Ocupación mucosa de características crónicas en ambos senos maxilares.
+
+conclusiones:
+No se observan signos que sugieran patología intracraneal aguda.
+
+descrip:
+TC CEREBRAL

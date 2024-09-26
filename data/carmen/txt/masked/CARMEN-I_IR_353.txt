@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Ruego descartar neumonía organizativa en paciente de [**EDAD_SUJETO_ASISTENCIA**] que acude en el día + 16 de síntomas por persistencia de fiebre y disnea con requerimientos de oxígeno. Infiltrados periféricos. Gracias
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante TCMD.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Patrón en vidrio deslustrado bilateral de predomino periférico y peribroncovascular, con áreas consolidativas de predominio en campos inferiores, compatible con infección pulmonar por COVID-19. Se observan ectasias bronquiales, signos del halo reverso y algunas bandas parenquimatosas, en relación a signos incipientes de neumonía organizada.
+Nódulo suprarrenal izquierdo de 19 mm, hipodenso, sugestivo de adenoma.
+
+conclusiones:
+Neumonía bilateral por COVID-19 con signos incipientes de neumonía organizada.
+
+descrip:
+TC TORAX

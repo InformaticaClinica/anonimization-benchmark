@@ -1,0 +1,40 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Pancreatitis aguda hace 1 mes con colecciones peripancreaticas en ultima prueba de imagen que acude por molestias abdominales, fiebre y vomitos.
+Analitica séptica. Paciente xocado (hipotenso, taquicardico). Interesa TC abdomen ante sospecha de colecciones
+infectadas por si se tiene que drenar. Pendiente de traslado a la UCI.
+Gracias
+Febre no especificada
+
+protocolo:
+TC abdominal en condiciones basales con posterior administración de contraste ev y adquisición de imágenes en fases pancreatográfica, y portal.
+
+resultados:
+Se compara con el estudio previo [**FECHAS**].
+Glándula pancreática de tamaño y morfología preservadas, con realce homogéneo, sin que se identifiquen áreas de necrosis. No se observa dilatación del conducto de Wirsung.
+Múltiples colecciones necróticas agudas conocidas y probablemente comunicadas entre si. Respecto el estudio previo destaca:
+- Disminución de tamaño de la colección polilobulada peripancreática con extensión hacia el mesocólon transverso (diámetros axiales actuales: 5,7 x 8,6 cm; previos: 6,4 x 12,4 cm). Actualmente tiene un aspecto más heterogéneo y se identifican algunas burbujas aéreas en su interior no presentes en el estudio previo, lo que sugiere una sobreinfección de la misma.
+- Aumento de tamaño de la colección localizada en flanco y fosa ilíaca derechas, con unos diámetros axiales actuales de 7 x 5,3 cm (previamente de 5,9 x 4 cm).
+- Resto de las colecciones sin cambios significativos respecto el estudio previo.
+Importantes cambios inflamatorios en región peripancreática que han aumentado respecto el estudio previo y que dificultan la valoración del duodeno. Discreta distensión de asas yeyunales sin claros cambios de calibre, de probable origen reactivo. Tambien se observa un engrosamiento hipodenso de la pared del angulo hepático y colon transverso de aspecto reactivo.
+Persiste sin cambios la marcada reducción del calibre de de la VMS inmediatente distal al confluente descrita previamente, probablemente secundaria al efecto masa ejercido colecciones.
+Vena porta, vena esplénica y confluente espleno-mesentérico permeables.
+Aorta, tronco celíaco y arterias mesentéricas superior e inferior permeables. Variantes anatómicas: origen aórtico de la rama anterior de la arteria hepática derecha y origen de la arteria hepática izquierda en AMS.
+Leve ascitis de distribución difusa con predominio en pelvis, estable.
+Hígado de morfología y tamaño normal, sin lesiones focales valorables.
+Vena porta permeable. Discreta dilatación de la vía biliar intrahepática y del colédoco, que presenta hipercaptación de sus paredes, hallazgos de aspecto reactivo. Vesícula biliar, bazo y glándulas suprarrenales sin alteraciones. No se observan adenopatías retroperitoneales ni ilíacas de tamaño valorable. Riñones de morfología y tamaño normal, con algunas cicatrices corticales y quistes parapiélicos bilaterales. Vías excretoras no dilatadas. Vejiga urinaria distendida, sin alteraciones parietales valorables.
+Leve derrame pleural bilateral de predominio izquierdo que ha disminuido respecto el estudio previo y asocia atelectasia pasiva del parénquima adyacente.
+
+conclusiones:
+- Pancreatitis necrotizante conocida con múltiples colecciones necrotizantes. Destaca una disminución de tamaño de la colección peripancreática, que en la actualidad es más heterogéna y presenta burbujas aéreas en su interior, hallazgos que sugieren su infección.
+Ligero aumento de tamaño de la colección localizada en FID.
+- Cambios inflamatorios peripancreáticos más evidentes que en el estudio previo que dificultan la valoración del duodeno. Distensión de asas yeyunales de aspecto reactivo.
+- Tambien se observa un engrosamiento hipodenso de la pared del angulo hepático y colon transverso de aspecto reactivo.
+- Disminución del derrame pleural bilateral.
+- Resto de la exploración sin cambios significativos respecto el estudio previo del [**FECHAS**].
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

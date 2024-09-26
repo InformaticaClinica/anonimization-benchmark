@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumonía por SARS-COV-2, extuabada el [**FECHAS**], mejoría progresiva con VMK al 35%. Hoy episodio súbito de desaturación estando en sala que obliga a subir soporte a LNAF 60%/60L. Interesa realizar angioTC para descartar TEP. Comento caso al busca de TC de tórax. Paciente que trasladaremos a la [**NUMERO_IDENTIF**].
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+Estudio de angio-TC pulmonar.
+
+conclusiones:
+Defectos de repleción a nivel de rama segmentaria del LM compatible con TEP segmentario.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Espacios pleurales libres.
+Areas en vidrio deslustrado peribroncovasculares en LLSS.
+Consolidación con broncograma aereo en segmentos basales posteriores de los LLII. Atelectasias subsegmentarias en LII. Todo ello en relación con su proceso infeccioso.
+
+descrip:
+ANGIO TC PULMONAR
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

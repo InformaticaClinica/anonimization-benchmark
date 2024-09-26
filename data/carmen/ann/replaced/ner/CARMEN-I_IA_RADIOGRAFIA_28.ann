@@ -1,0 +1,32 @@
+T9	SINTOMA 252 278	infiltrados intersticiales
+T10	SINTOMA 530 577	opacidades en vidrio deslustrado y en empedrado
+T11	SINTOMA 1092 1133	infiltrados en lóbulos medios bilaterales
+T12	SINTOMA 74 95	marco óseo conservado
+T13	SINTOMA 97 126	Patrón intersticial bilateral
+T14	SINTOMA 131 195	áreas consolidativas en lóbulos inferiores derechos e izquierdos
+T15	SINTOMA 452 494	afectación parenquimatosa bilateral difusa
+T16	SINTOMA 629 668	bullas (en mayor grado en LSI y língula
+T17	SINTOMA 949 979	focos consolidativos bibasales
+T18	SINTOMA 1181 1200	lesiones pulmonares
+T19	SINTOMA 1269 1288	lesiones pulmonares
+T20	SINTOMA 1350 1369	lesiones pulmonares
+T21	ENFERMEDAD 304 308	SDRA
+T22	ENFERMEDAD 374 404	Leve derrame pleural bilateral
+T23	ENFERMEDAD 777 792	bronquiectasias
+T24	ENFERMEDAD 878 930	SDRA avanzado con componente organizativo- fibrótico
+T25	ENFERMEDAD 981 1019	Enfisema centrolobulillar y paraseptal
+T26	PROCEDIMIENTO 2 19	PRUEBAS DE IMAGEN
+T27	PROCEDIMIENTO 23 34	RX DE TÓRAX
+T28	PROCEDIMIENTO 208 219	RX DE TÓRAX
+T29	PROCEDIMIENTO 312 320	TC tórax
+T30	PROCEDIMIENTO 349 351	TC
+T31	PROCEDIMIENTO 420 422	TC
+T32	PROCEDIMIENTO 510 512	TC
+T33	PROCEDIMIENTO 1023 1034	RX DE TÓRAX
+T34	PROCEDIMIENTO 1137 1148	RX DE TÓRAX
+T35	PROCEDIMIENTO 1217 1228	RX DE TÓRAX
+T36	PROCEDIMIENTO 1305 1316	RX DE TÓRAX
+T37	SINTOMA 590 635	distorsión arquitectural con quistes y bullas
+T38	ENFERMEDAD 619 669	quistes y bullas (en mayor grado en LSI y língula)
+T1	SINTOMA 1048 1067	mejoría radiológica
+T2	PROCEDIMIENTO 1056 1067	radiológica

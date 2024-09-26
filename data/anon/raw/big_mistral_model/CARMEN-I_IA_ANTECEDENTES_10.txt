@@ -1,0 +1,12 @@
+ ANTECEDENTES:
+- No alergias conocidas
+- No hábitos tóxicos.
+- [**EDAD_SUJETO_ASISTENCIA**] en tratamiento.
+- Tuberculosis pulmonar en la infancia.
+- Herida por arma de fuego en tórax en la juventud.
+- Neumonía en lóbulo inferior derecho en [**FECHAS**]
+- Síndrome depresivo.
+- Neumonitis por hipersensibilidad fibrótica, seguimiento en consultas: No se descarta una EAS asociada aunque baja probabilidad (RNAPIII sin clínica). En comité se decide inicio de prednisona con TCARde control con progresión con mayor aspecto de NINE por lo que se inició[**PROFESION**].
+- Osteoporosis.
+*Pendiente de realizar ecografía abdominal para descartar litiasis.
+TRATAMIENTO HABITUAL: PDN 5, MPA 720/1

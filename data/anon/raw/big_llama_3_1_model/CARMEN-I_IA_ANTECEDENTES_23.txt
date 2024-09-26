@@ -1,0 +1,6 @@
+ Antecedentes personales:
+Hombre de [**EDAD_SUJETO_ASISTENCIA**], sin alergias conocidas. Consumo de alcohol (2-3 UBE/d), exconsumidor de cannabis y cocaína ocasional. Natural de [**PAIS**], vive en [**TERRITORIO**] desde hace [**FECHAS**] años. Trabajador de [**PROFESION**].
+ANTECEENTES PERSONALES:
+- Dermatitis seborreica.
+Medicación habitual: tópica para dermatitis seborreica.
+* No vacunado del SARS-COV2 por decisión personal.

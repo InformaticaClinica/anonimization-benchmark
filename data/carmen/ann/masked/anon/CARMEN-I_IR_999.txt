@@ -1,0 +1,31 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**EDAD_SUJETO_ASISTENCIA**], pluripatológico, derivado desde urgencias a [**INSTITUCION**], clínica de cefalea y malestar general de dos semanas de evolución, esta mañana caída en casa con importante dolor en zona escapular derecha. A su llegada a [**INSTITUCION**] dolor incapacitante y además disnea y St basal 95-96%. Se revisa analítica de urgencias con Dímero D 10000, por lo que solicito angioTC para descartar TEP
+COVID-19
+
+protocolo:
+Angio-TC torácica urgente adquirida mediante energía dual.
+
+resultados:
+En el momento actual no se aprecian defectos de repleción en el árbol arterial pulmonar que sugieran TEP agudo.
+Cardiomegalia a expensas de un ventrículo izquierdo hipertrófico.
+Ateromatosis calcificada aórtica y de arterias coronarias. Aorta torácica ascendente de calibre prominente (41 mm). Dilatación del tronco principal de la arteria pulmonar (39 mm) que sugiere componente de hipertensión pulmonar.
+Sin evidencia de adenopatías axilares o mediastínicas valorables.
+Leve-moderado derrame pericárdico de predominio anterior (hasta 13 mm).
+Leve derrame pleural izquierdo y mínimo derecho que asocia atelectasia pasiva del parénquima adyacente.
+Leve engrosamiento difuso de las paredes bronquiales asociado a algunos nódulos centrolobulillares con patrón de árbol en brote de predominio en segmento ápicoposterior del lóbulo superior izquierdo. Hallazgos sugestivos de un proceso infeccioso de pequeña vía aérea (bronquiolitis).
+Ténue opacidad en vidrio deslustrado subpleural de 16 mm de diámetro máximo en el segmento apical del lóbulo superior derecho. No se aprecian otros focos de características similares, por lo que estos hallazgos NO sugieren afectación pulmonar por COVID-19.
+Atelectasias laminares bibasales y en língula.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- Sin signos de TEP agudo en el momento actual.
+- Dilatación de la arteria pulmonar que sugiere componente de hipertensión pulmonar.
+- Leve-moderado derrame pericárdico y leve derrame pleural bilateral de predominio izquierdo.
+- Parénquima pulmonar con hallazgos que sugieren un proceso infeccioso de pequeña vía aérea (bronquiolitis). Sin claros hallazgos que sugieran afectación por COVID-19 en el momento actual.
+
+descrip:
+ANGIO TC PULMONAR

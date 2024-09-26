@@ -1,0 +1,24 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCIÓN POR SARS-COV-2
+
+protocolo:
+RX de tórax portátil.
+
+resultados:
+HALLAZGOS:
+Opacidades: Si
+Patrón intersticial: No
+Distribución: Periférica
+Campos pulmonares (borrar los que no estén afectados):
+- Pulmón derecho: medio / inferior
+- Pulmón izquierdo: medio / inferior
+
+conclusiones:
+Probable COVID
+
+descrip:
+RX  PORTATIL  TORAX

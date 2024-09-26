@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+inmunodeprimida, sospecha covid, pero frotis negativo, interesa para valorar tto gracias
+SOSPECHA DE COVID 19
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Se compara con TC previa del [**FECHAS**]:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Tronco bibronquial discretamente hipertrófico.
+Nódulo infracentrimétrico hipodenso en lóbulo tiroideo derecho, inespecífico mediante TC.
+Catéter venoso central de inserción periférica con extremo distal en unión atriocaval.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglios mediastínicos e hiliares derechos calcificados, sin cambios.
+No se observa derrame pleural ni pericárdico.
+Granulomas calcificados. Discretas bronquiectasias cilíndricas difusas.
+Resto del parénquima pulmonar sin alteraciones destacables ni signos que sugieran infección por COVID-19.
+Hepatoesplenomegalia.
+
+conclusiones:
+No se observa TEP ni signos radiológicos que sugieran proceso infeccioso en estudio actual.
+Resto del estudio sin cambios significativos respecto TC previa del [**FECHAS**].
+
+descrip:
+ANGIO TC PULMONAR

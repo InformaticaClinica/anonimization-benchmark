@@ -1,0 +1,13 @@
+ Natural de [**PAIS**] (Ibadán). Vive en [**TERRITORIO**] desde el 2001 y no viaja a su país de origen desde hace 8 years. No allergies medicamentosas ni alimentarias. Niega hábitos tóxicos desde hace 1 mes. Antecedentes de consumo de tabaco desde los [**EDAD_SUJETO_ASISTENCIA**] years hasta los [**OTROS_SUJETO_ASISTENCIA**] years de medio paquete al día. Consumo de enol since the [**EDAD_SUJETO_ASISTENCIA**] years. [**PROFESION**], currently not working. Lives with his small granddaughter and is independent for the ABVD.
+
+* MEDICAL HISTORY:
+- GRADE I OBESITY (IMC of 31.1Kg/m2).
+- CHRONIC ENOLISM since the [**EDAD_SUJETO_ASISTENCIA**] years. The patient reports increased alcohol intake in the last 3 years in the context of psychosocial problems, assessed by CAS and currently in alcohol dehabituation, has required treatment with Disulfiram which is currently not taking.
+- MAJOR DEPRESSION since 6 years, assessed by primary care physician, required treatment with Citalopram and Mirtazapine.
+- History of incised wound by knife attack 7 years ago, without visceral damage so it did not require surgical intervention.
+- Explains history of headache and neck pain.
+Assessed by neurology in 2003, a cranial CT was performed with normal results.
+- Gynecological history: 3 pregnancies. 2 living daughters currently. 1 abortion (TPAL 2002 (IVE)). Menstrual ataxia in the last year. Anemia secondary to metrorrhagias, studied in UDR (digestive origin ruled out), finally resolved after menopause.
+
+* SURGICAL HISTORY: Abdominoplasty after pregnancy and weight gain.
+* CURRENT MEDICATION: Does not report.

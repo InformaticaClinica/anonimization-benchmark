@@ -1,0 +1,38 @@
+T3	PROCEDIMIENTO 246 262	antihistamínicos
+T4	PROCEDIMIENTO 436 454	exploración física
+T5	PROCEDIMIENTO 615 635	Radiografía de tórax
+T6	PROCEDIMIENTO 730 737	biopsia
+T7	PROCEDIMIENTO 1128 1144	antihistamínicos
+T8	PROCEDIMIENTO 1190 1202	crema tópica
+T9	PROCEDIMIENTO 1241 1256	biopsia cutánea
+T10	PROCEDIMIENTO 119 139	frotis para COVID-19
+T11	PROCEDIMIENTO 747 763	anthisitamínicos
+T12	SINTOMA 317 322	mareo
+T13	SINTOMA 394 401	afebril
+T14	SINTOMA 404 429	hemodinámicamente estable
+T15	SINTOMA 995 1002	afebril
+T16	SINTOMA 1005 1030	hemodinámicamente estable
+T17	ENFERMEDAD 173 221	lesiones cutáneas en cara, tronco y extremidades
+T18	ENFERMEDAD 466 548	lesiones urticariformes, eritemato-habonosas diseminadas por tronco y extremidades
+T19	ENFERMEDAD 1048 1108	lesiones cutáneas persistían y se volvieron más pruriginosas
+T20	SINTOMA 1447 1465	afectación cutánea
+T21	SINTOMA 1475 1494	estabilidad clínica
+T22	ENFERMEDAD 603 613	linfopenia
+T23	ENFERMEDAD 781 829	infección por coronavirus con afectación cutánea
+T24	ENFERMEDAD 8 30	INFECCIÓN POR COVID-19
+T25	ENFERMEDAD 131 139	COVID-19
+T26	FARMACO 1154 1163	cortisona
+T27	SINTOMA 640 685	pinzamiento muy discreto de seno costofrénico
+T28	ENFERMEDAD 35 68	AFECTACIÓN CUTÁNEA Y PLEURAL LEVE
+T29	ENFERMEDAD 1272 1281	urticaria
+T30	FARMACO 868 885	hidroxicloroquina
+T31	FARMACO 888 900	azitromicina
+T32	FARMACO 903 914	enoxaparina
+T33	PROCEDIMIENTO 1300 1324	tratamiento profiláctico
+T34	PROCEDIMIENTO 1329 1333	HBPM
+T35	HUMANO 70 75	Mujer
+T36	HUMANO 1523 1526	MAP
+T37	SPECIES 795 806	coronavirus
+T38	PROCEDIMIENTO 550 559	Analítica
+T39	PROCEDIMIENTO 1335 1344	Analítica
+T40	SINTOMA 131 148	COVID-19 positivo

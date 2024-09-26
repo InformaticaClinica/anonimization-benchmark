@@ -1,0 +1,22 @@
+
+prueba:
+TC TORAX
+
+clinica:
+N
+
+protocolo:
+TC TORAX URGENTE. Adquisición técnicamente subóptima.
+
+resultados:
+*Estudio técnicamente subóptimo que dificulta la valoración del parénquima pulmonar.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Se observa foco consolidativo nodular de pequeño tamaño de localización periférica en el segmento basal posterior-apical del LID asociado a pequeños focos nodulares en vidrio deslustrado adyacentes. Los hallazgos descritos obligan a descartar infección por COVID-19 (patrón TC Probable COVID-19).
+Atelectasias laminares basales bilaterales.
+
+conclusiones:
+Foco consolidativo nodular de pequeño tamaño de localización periférica en el segmento basal posterior-apical del LID asociado a pequeños focos nodulares en vidrio deslustrado adyacentes. Los hallazgos descritos obligan a descartar infección por COVID-19 (patrón TC Probable COVID- 19).
+
+descrip:
+TC TORAX

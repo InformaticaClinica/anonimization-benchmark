@@ -1,0 +1,27 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Descartar TEP paciente con infección por COVID con requerimeintos de oxigeno alto y aumento progresivo del dimero D
+Solcito Angio TAC para desctar TEP
+Gracias
+Neumonia por COVID
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+
+resultados:
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+Permeabilidad del tronco pulmonar principal, de calibre normal.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+No hay derrame pericárdico. Leve derrame pleural bilateral.
+Tractos fibrocicatriciales biapicales con calcificaciones en ápex izquierdo.
+Extensas opacidades en vidrio deslustrado subpleurales con áreas de crazy paving de predominio en LLSS que tienden a la consolidación en las porciones basales y declives. Amplios focos consolidatovos en ambos LLII y porciones posteriores de los LLSS y LM que intercalan areas en vidrio deslustrado en su espesor. Todos etos hallazgos están en relación con onfección por COVID.
+Hernia de hiato.
+
+conclusiones:
+NO hay signos de TEP
+
+descrip:
+ANGIO TC PULMONAR

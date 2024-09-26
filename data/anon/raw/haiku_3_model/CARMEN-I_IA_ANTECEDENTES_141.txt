@@ -1,0 +1,21 @@
+Antecedentes personales:
+Mujer de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. Ex-fumadora con dosis acumulada de 50 paq-año, ex-enolismo hasta hace 4 años (hasta 1 botella vino/d; 6UBE). Jubilada había trabajado de [**PROFESION**], [**PROFESION**], [**PROFESION**]. Reside en [**TERRITORIO**] con su sobrino y durante el dia pasa el dia con su nuera ([**FAMILIARES_SUJETO_ASISTENCIA**]).
+Actualmente 7/14 ingresada en [**INSTITUCION**] para recuperación tras ingreso prolongado.
+* ANTECEDENTES PATOLÓGICOS:
+1. [**HIPERTENSIÓN ARTERIAL**] en tratamiento farmacológico.
+2. [**DISLIPIDEMIA**] en tratamiento farmacológico.
+* INTERVENCIONES QUIRÚRGICAS: [**OTROS_SUJETO_ASISTENCIA**] hace 30 años, [**OTROS_SUJETO_ASISTENCIA**].
+* MEDICACIÓN HABITUAL: [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**].
+* HISTORIA ONCOLÓGICA:
+1. [**CARCINOMA ESCAMOSO DE LARINGE IZQUIERDO T3N0M0**]. En curso de [**OTROS_SUJETO_ASISTENCIA**].
+- 1er sintoma (5.2013) [**OTROS_SUJETO_ASISTENCIA**] que evoluciona a [**OTROS_SUJETO_ASISTENCIA**]. EF ORL: lesión de aspecto neoplásico, [**OTROS_SUJETO_ASISTENCIA**] en hemilaringe izq, fijada (min mov de aritenoides) afecta a [**OTROS_SUJETO_ASISTENCIA**], [**OTROS_SUJETO_ASISTENCIA**].
+- [**OTROS_SUJETO_ASISTENCIA**]: Tumoración que afecta a [**OTROS_SUJETO_ASISTENCIA**] extensión craneal paraglotica, [**OTROS_SUJETO_ASISTENCIA**] y subglotica. Deforma vía aerea. Esclerosis pancartilaginosa izquierda.
+1er diagnóstico (5.3.14) [**OTROS_SUJETO_ASISTENCIA**]: [**OTROS_SUJETO_ASISTENCIA**]
+[**OTROS_SUJETO_ASISTENCIA**]: Se valora como un [**OTROS_SUJETO_ASISTENCIA**]. Afecta [**OTROS_SUJETO_ASISTENCIA**] y [**OTROS_SUJETO_ASISTENCIA**].
+- [**OTROS_SUJETO_ASISTENCIA**]:  aumento de captación de FDG en la tumoración [**OTROS_SUJETO_ASISTENCIA**] zq y [**OTROS_SUJETO_ASISTENCIA**]. Dudosa imagen en nivel [**OTROS_SUJETO_ASISTENCIA**]. Pequeño foco nodular mixto de 8 mm [**OTROS_SUJETO_ASISTENCIA**], inespecífico (control 6m) Lesión nodular pélvica anexial izq de 24 mm, con discreto aumento de captación de FDG, inespecífica ([**OTROS_SUJETO_ASISTENCIA**])
+* Tratamiento realizado y evolución:
+Valorado como un [**OTROS_SUJETO_ASISTENCIA**] se realiza [**OTROS_SUJETO_ASISTENCIA**] para asegurar via aeria y tto posterior.
+Inicia tratamiento con [**OTROS_SUJETO_ASISTENCIA**] el 28/4/2014. Completó QT, última dosis el 2/6/14, no finalizó la radioterapia por ingreso en 6/14.
+**6/14 [**OTROS_SUJETO_ASISTENCIA**], ([**OTROS_SUJETO_ASISTENCIA**]), [**OTROS_SUJETO_ASISTENCIA**] en contexto de choque, dificultad para movilización de secreciones.
+Pendiente de valoración radiológica de respuesta al tratamiento
+* Seguimiento en [**CENTRO_SALUD**] por [**NOMBRE_PERSONAL_SANITARIO**] y [**NOMBRE_PERSONAL_SANITARIO**].

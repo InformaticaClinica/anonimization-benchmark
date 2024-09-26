@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+protocolo:
+Rx torax portátil
+
+conclusiones:
+Disminución de la densidad y tamaño de los focos de condensación alveolar periféricos en LSI y LID que se apreciaban en Rx de [**FECHAS**].
+
+descrip:
+RX  PORTATIL  TORAX

@@ -1,0 +1,9 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+hemoptisis por aspergilosis pulmonar
+
+descrip:
+ANGIO TC PULMONAR

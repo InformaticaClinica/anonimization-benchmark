@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Extensas consolidaciones periféricas bilaterales sin cambio significativos respecto a Rx previa
+
+descrip:
+RX  PORTATIL  TORAX

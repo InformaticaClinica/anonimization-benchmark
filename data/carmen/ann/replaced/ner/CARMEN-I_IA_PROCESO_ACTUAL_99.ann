@@ -1,0 +1,46 @@
+T12	FARMACO 239 256	Hidroxocloroquina
+T13	FARMACO 258 277	Lotinavir/Ritonavir
+T14	FARMACO 280 292	Azitromicina
+T15	FARMACO 318 337	Ritonavir/Ritonavir
+T16	FARMACO 408 419	Tocilizumab
+T17	FARMACO 446 455	entecavir
+T18	FARMACO 458 469	ivermectina
+T19	FARMACO 1079 1096	Metilprednisolona
+T20	PROCEDIMIENTO 202 220	terapia antivírica
+T21	PROCEDIMIENTO 472 486	corticoterapia
+T22	SINTOMA 114 120	fiebre
+T23	SINTOMA 122 130	tos seca
+T24	SINTOMA 139 145	disnea
+T25	SINTOMA 147 155	mialgias
+T26	SINTOMA 157 172	dolor abdominal
+T27	SINTOMA 175 182	diarrea
+T28	SINTOMA 562 577	AgVHBs negativo
+T29	SINTOMA 579 593	AgHbc positivo
+T30	SINTOMA 853 878	distorsión parenquimatosa
+T31	ENFERMEDAD 998 1027	neumonía en fase organizativa
+T32	ENFERMEDAD 1042 1051	TEP agudo
+T33	FARMACO 472 486	corticoterapia
+T34	FARMACO 1269 1276	oxígeno
+T35	PROCEDIMIENTO 488 523	Serología Strongyloides stercoralis
+T36	PROCEDIMIENTO 542 553	Estudio VHB
+T37	PROCEDIMIENTO 639 650	Quantiferon
+T38	PROCEDIMIENTO 668 685	ANGIO-TC PULMONAR
+T39	PROCEDIMIENTO 961 963	TC
+T40	HUMANO 1 7	Hombre
+T41	SPECIES 498 523	Strongyloides stercoralis
+T42	SPECIES 599 606	antiHbc
+T43	SPECIES 621 624	VHB
+T44	SINTOMA 488 540	Serología Strongyloides stercoralis (27/2): negativa
+T45	PROCEDIMIENTO 595 606	IgG antiHbc
+T46	PROCEDIMIENTO 579 584	AgHbc
+T47	SINTOMA 595 615	IgG antiHbc positivo
+T48	PROCEDIMIENTO 617 624	DNA-VHB
+T49	SINTOMA 617 637	DNA-VHB indetectable
+T50	SINTOMA 639 666	Quantiferon (5/3): negativo
+T51	SINTOMA 703 747	opacidades bilaterales en vidrio deslustrado
+T52	SINTOMA 752 775	engrosamientos septales
+T53	SINTOMA 792 813	patrón "crazy paving"
+T54	SINTOMA 815 848	Bronquios dilatados e irregulares
+T55	SINTOMA 924 949	afectación parenquimatosa
+T56	SINTOMA 1211 1230	estabilidad clínica
+T1	SINTOMA 1236 1276	mejoría de los requerimientos de oxígeno

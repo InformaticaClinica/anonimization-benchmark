@@ -1,0 +1,9 @@
+T3	ENFERMEDAD 78 86	Covid-19
+T4	ENFERMEDAD 110 114	grip
+T5	SINTOMA 98 177	Virus de la grip i virus respiratori sincitial urgent (2/12/2018): Indetectable
+T6	PROCEDIMIENTO 1 14	MICROBIOLGOIA
+T7	SPECIES 117 144	virus respiratori sincitial
+T8	SPECIES 98 114	Virus de la grip
+T9	SPECIES 72 86	virus Covid-19
+T10	SINTOMA 72 95	virus Covid-19: Positiu
+T11	PROCEDIMIENTO 18 86	Mostra respiratòria NASOFARINGEO (2/12/2018) Detecció virus Covid-19

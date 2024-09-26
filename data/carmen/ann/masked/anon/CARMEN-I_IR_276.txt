@@ -1,0 +1,29 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+[**SEXO_SUJETO_ASISTENCIA**] [**EDAD_SUJETO_ASISTENCIA**]. COVID +. Ingresa por hemorragai cerebral que requier eIOT + VM. Hoy respiración de cheyne-stokes. Intresa descartar progresión de edema cerebral. Adicionalmente D-dímero elevado. Sin profilaxis antitrombótico, encamammiento y COVID. Interesa descartar TEP.
+Infecció per coronavirus no especificada
+
+protocolo:
+Angio-TC pulmonar urgente adquirida mediante energía dual.
+
+resultados:
+NOTA: exploración parcialmente valorable en relación a los movimientos respiratorios del paciente.
+IOT con extremo distal del tubo a 4.2 cm de la carina. PICC izquierdo con extremo distal en VCS. SNG con loop en la cámara gástrica y extremo distal en fundus.
+Defectos de repleción en la arteria pulmonar principal derecha, en las ramas lobares y segmentarias del LM y LID y más dudosos en ramas subsegmentarias del LSD, compatible con TEP agudo. Tronco de la arteria pulmonar de calibre normal. No hay dilatación de cavidades cardíacas derechas.
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Leve derrame pleural bilateral de predominio derecho. No se observa derrame pericárdico.
+Colapso subtotal del LID y atelectasias subsegmentarias en LII con presencia de discretas secreciones endoluminales en los bronquios lobar y segmentarios del LID así como ocupación de bronquios subsegmentarios basales como probable causa de las atelectasias.
+Destaca una hipocaptación del parénquima colapsado del LID en comparación con el contralateral, hallazgo que no permite descartar la presencia de infartos pulmonares subyacentes. Parénquima pulmonar sin otras alteraciones valorables.
+Fracturas crónicas de los arcos posteriores de las 7a la 9a costillas izquierdas. Material de artrodesis en vértebras de T9 a T12. Anquilosis de cuerpos vertebrales en relación a su enfermedad de base.
+Secciones abdominales incluidas en el estudio sin hallazgos valorables.
+
+conclusiones:
+- TEP agudo lobar y segmentario en LM y LID, sin signos de hipertensión pulmonar ni de sobrecarga cardíaca derecha.
+- Leve derrame pleural.
+- Colapso subtotal del LID y atelectasias en LII probablemente secundarios a la presencia de secreciones endobronquiales de predominio en el LID. El parénquima colapsado del propio LID presenta hallazgos que no permiten descartar infartos pulmonares subyacentes.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,29 @@
+Varón de [**EDAD_SUJETO_ASISTENCIA**] de edad. No alergias medicamentosas conocidas. No hábitos tóxicos. Independiente para las ABVD.
+ANTECEDENTES PATOLÓGICOS:
+1. LEUCEMIA MIELOIDE AGUDA post PV [**OTROS_SUJETO_ASISTENCIA**] ([**FECHAS**]), cariotipo complejo. No dianas moleculares ([**OTROS_SUJETO_ASISTENCIA**]) Diagnóstico de PV [**FECHAS**](requirió flebotomías al diagnóstico)
+* AMO ([**FECHAS**]): grumoll present, hipercelular, amb [**OTROS_SUJETO_ASISTENCIA**] de blastos, signes de displàsia lleus en la serie megacariocitica i granulocitica.
+IF [**OTROS_SUJETO_ASISTENCIA**] de balsts mieloides que coexpressen aberrant [**OTROS_SUJETO_ASISTENCIA**].
+* Tratamiento: inicia el [**FECHAS**] [**OTROS_SUJETO_ASISTENCIA**] para tratamiento de la LMA/SMD en pacientes no candidatos a trasplante con un hipometilante + [**OTROS_SUJETO_ASISTENCIA**].
+* Ingreso del [**FECHAS**] por síndrome febril de foco respiratorio sin aislamiento microbiológico tratado con ceftriaxona + levofloxacino. Ha estado en regimen de hospitalización domiciliaria con tratamiento antibiótico hasta el [**FECHAS**].
+2. COLOCACIÓN [**OTROS_SUJETO_ASISTENCIA**] [**FECHAS**] por bloqueo AV completo.
+3. [**OTROS_SUJETO_ASISTENCIA**] por válvula mixomatosa, reparación valvular mitral con anuloplastia ([**FECHAS**]).
+* Durante el postopratorio, presenta [**OTROS_SUJETO_ASISTENCIA**] que se organiza en flutter típico tras tratamiento con amiodarona. Ablación de flutter común antihorario ([**FECHAS**]).
+* Ecocardiograma ([**FECHAS**]): [**OTROS_SUJETO_ASISTENCIA**]. Reparación válvula mitral efectiva con leve insuficiencia residual (resección amplia P2, plicatura del anillo posterior, anillo Cosgrove [**OTROS_SUJETO_ASISTENCIA**] e implante de dos neocuerdas).
+Resto normal.
+* Holter ECG ([**FECHAS**], bajo tratamiento bisoprolol): extrasistole ventricular moderada intensidad. Extrasistole supraventricular infrecuente con [**OTROS_SUJETO_ASISTENCIA**] de corta duración.
+* Implante de [**OTROS_SUJETO_ASISTENCIA**] el [**FECHAS**] por BAV con síncope cardiogénico secundario. Sin incidencias.
+4. [**OTROS_SUJETO_ASISTENCIA**] paroxistico. En tto con digoxina desde el último ingreso en [**FECHAS**] tras valoración por cardiologia.
+5. [**OTROS_SUJETO_ASISTENCIA**], sin tratamiento.
+6. [**OTROS_SUJETO_ASISTENCIA**] en contexto de infección respiratoria, realizó tratamiento con formoterol y levofloxacino.
+7. [**OTROS_SUJETO_ASISTENCIA**] en tratamiento con IBP.
+8. [**OTROS_SUJETO_ASISTENCIA**] con vesicula biliar escleroatrófica.
+9. [**OTROS_SUJETO_ASISTENCIA**] ángulo hepático ([**FECHAS**]). AP: [**OTROS_SUJETO_ASISTENCIA**].
+10. [**OTROS_SUJETO_ASISTENCIA**]
+INTERVENCIONES QUIRÚRGICAS: [**OTROS_SUJETO_ASISTENCIA**], Apendicectomía, Amigdalectomía, Fimosis
+TRATAMIENTO ACTUAL ([**FECHAS**]):
+digoxina [**OTROS_SUJETO_ASISTENCIA**] excepto domingo,
+Omeprazol [**OTROS_SUJETO_ASISTENCIA**].
+Alopurinol pensa [**OTROS_SUJETO_ASISTENCIA**].
+Furosemida cinfa [**OTROS_SUJETO_ASISTENCIA**] (esmorzar).
+Paracetamol ratio [**OTROS_SUJETO_ASISTENCIA**], si ho precisa per dolor.
+Orfidal [**OTROS_SUJETO_ASISTENCIA**], si ho precisa per insomni.

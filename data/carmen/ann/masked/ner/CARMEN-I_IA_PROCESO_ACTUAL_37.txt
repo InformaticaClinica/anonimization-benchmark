@@ -1,0 +1,3 @@
+
+Paciente de [**EDAD_SUJETO_ASISTENCIA**] que acudió a [**HOSPITAL**] el día [**FECHAS**] por fiebre de 3 días de evolución y pruebas complementarias compatibles con infección respiratoria por SARS-CoV-2, confirmándose posteriormente por PCR-Covid positiva. Realizó tratamiento con hidroxicloroquina + azatioprina (lopinavir/r suspendido por alteración perfil hepático). Presentó empeoramiento clínico, requiriendo dosis única de Tocilizumab 600 mg, y tras buena evolución clínica se traslada a [**INSTITUCION**] para finalizar período de aislamiento epidemiológico.
+ 

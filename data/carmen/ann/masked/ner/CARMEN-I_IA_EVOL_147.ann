@@ -1,0 +1,37 @@
+T3	SINTOMA 295 320	estable hemodinámicamente
+T4	SINTOMA 326 332	fiebre
+T5	SINTOMA 340 348	disneico
+T6	SINTOMA 375 385	consciente
+T7	SINTOMA 388 400	desorientado
+T8	ENFERMEDAD 435 460	hematomas en extremidades
+T9	SINTOMA 462 471	taquipnea
+T10	SINTOMA 475 495	roncus respiratorios
+T11	SINTOMA 891 900	agitacion
+T12	SINTOMA 919 930	taquipneico
+T13	SINTOMA 932 941	hipotenso
+T14	SINTOMA 623 646	infiltrado intersticial
+T15	SINTOMA 695 723	frotis COVID siendo positivo
+T16	SINTOMA 903 917	desorientacion
+T17	ENFERMEDAD 4 35	INFECCIÓN DE VÍAS RESPIRATORIAS
+T18	ENFERMEDAD 39 42	ERC
+T19	ENFERMEDAD 167 204	infección de vías respiratorias bajas
+T20	FARMACO 762 779	Hidroxicloroquina
+T21	FARMACO 781 792	ceftriaxona
+T22	FARMACO 795 807	azitromicina
+T23	PROCEDIMIENTO 224 235	antibiótico
+T24	PROCEDIMIENTO 407 425	exploración física
+T25	PROCEDIMIENTO 501 522	auscultación pulmonar
+T26	PROCEDIMIENTO 600 611	RX de tórax
+T27	PROCEDIMIENTO 1133 1158	terapia renal sustitutiva
+T28	HUMANO 43 71	[**SEXO_SUJETO_ASISTENCIA**]
+T29	HUMANO 286 294	paciente
+T30	HUMANO 1097 1107	familiares
+T31	PROCEDIMIENTO 695 707	frotis COVID
+T32	PROCEDIMIENTO 1026 1038	hemodialisis
+T33	PROCEDIMIENTO 1171 1199	priorizar medidas de confort
+T34	PROCEDIMIENTO 530 539	analítica
+T35	PROCEDIMIENTO 977 986	analítica
+T36	FARMACO 882 889	oxigeno
+T1	SINTOMA 809 833	Empeoramiento progresivo
+T2	SINTOMA 849 889	aumento de los requerimientos de oxigeno
+T37	ENFERMEDAD 702 707	COVID

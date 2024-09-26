@@ -1,0 +1,24 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Descartar TEP. COmentado con Radiólogo.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se realiza estudio angio-TC pulmonar.
+
+resultados:
+Discreto derrame pleural izq. Colapso del LII por tapones mucosos.
+Mínimo derrame pleural derecho.
+No se observa TEP.
+Discretas opacidades bilaterales en vidrio deslustrado sugestivo de neumonia COVID en resolución.
+Dudoso nódulo pulmonar en LID.Se aconseja valoración en próximos TC.
+Hematoma perirrenal izq.
+
+conclusiones:
+vr
+
+descrip:
+ANGIO TC PULMONAR

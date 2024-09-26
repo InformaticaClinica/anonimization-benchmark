@@ -1,0 +1,20 @@
+
+prueba:
+GAMMAGRAFIA OSSIA
+
+clinica:
+dolor articular
+
+protocolo:
+Radiofármaco: 99mTc-HMDP, 25 mCi.
+Se realiza rastreo corporal a las 2 horas p.i. del trazador.
+
+resultados:
+Estudio que muestra una distribución del radiotrazador en la que no se observan hipercaptaciones patológicas sugestivas de proceso metastásico óseo activo.
+Destaca un aumento de captación de trazador en la cortical de los huesos largos de extremidades. Se trata de un patrón de periostitis generalizada por un cuadro paraneoplasico de esteoartropatia hipertrófica pneumica en relación con su proceso pulmonar de base.
+
+conclusiones:
+Gammagrafía ósea sin evidencia de M1 activa.
+
+descrip:
+GAMMAGRAFIA OSSIA

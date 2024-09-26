@@ -1,0 +1,14 @@
+
+* ELECTROCADRIOGRAMA:
+* INTERCONSULTA PSIQUIATRÍA:
+ANTECEDENTES MEDICOQUIRÚRGICOS: -Obesidad -No alergias medicamentosas conocidas.
+ANTECEDENTES PSIQUIÁTRICOS PERSONALES:
+-Déficit intelectual moderado-grave: Tutelado por Fundación Ayuda; vive en residencia. No disponemos de informe de CI. Los tutores informan que tiene escasa capacidad de lenguaje, y elevado grado de dependencia.
+Refieren que en 2005 tuvo un episodio psicótico, por lo que fue atendido en Hospital Universitario Catalunya. Realiza seguimiento en SESM-DI, en tratamiento (según RE 01/03/2020) con risperidona 0,5-1-3mg, paroxetina 20mg 1-0-0 y topiramato 50mg 1-1-1. Los tutores informan de que no suele tener alteraciones conductuales en residencia. No historia de ingresos en psiquiatría ni visitas a urgencias (exceptuando en 2005).
+* ANTECEDENTES FAMILIARES: Madre con esquizofrenia y deterioro cognitivo, fallecido este año; abuelo también fallecido. Hermano con discapacidad intelectual.
+* PSICOBIOGRAFÍA: Ambos suegros fallecidos, no tiene soporte familiar.
+Actualmente en residencia, y con tutela. .
+* EA: Paciente que ingresa ayer por neumonía COVID. El personal sanitario refiere que ayer por la noche se encontraba con tendencia a la somnolencia, y poco comunicativo. Hoy se encuentra más alerta y comunicativo. Está recibiendo tratamiento con ritonavir/lopinavir, hidroxicloroquina y azitromicina. QTc normal. Realizan consulta telefónica para valorar ajuste de medicación psiquiátrico por riesgo de interacción farmacológica.
+* PLAN: Revisando la bibliografía actualizada a día 27/10/17 no existe riesgo de interacción clínicamente relevante con topiramato; sí existiendo riesgo de aumento de niveles plasmáticos y alargamiento de QT con risperidona y paroxetina. Dicha medicación no altera los niveles de ritonavir/lopinavir, hidroxicloroquina o azitromicina. Dado que las dosis de los fármacos mencionados son bajas de base, concluimos que existe bajo riesgo de toxicidad por la interacción fármacos, y dado que existe escaso riesgo de descompensación psiquiátrica en base a los antecedentes, recomendamos bajar dosis de paroxetina a 10mg/día y risperidona a 0-0-3mg; con monitorización de QT. Mantener topiramato igual. En caso de que durante el ingreso requiera algún rescate por inquietud/agitación dar olanzapina 5mg vtab PRN. En caso de dudas respecto al manejo psicofarmacológico del paciente, contactar con busca 258484.
+Cuando finalice medicación por COVID, pautar medicación habitual (risperidona 0,5-1-3mg; paroxetina 20mg 1-0-0, topiramato 50mg 1-1-1) y al alta control por psiquiatra de referencia en SESM-DI.
+ 

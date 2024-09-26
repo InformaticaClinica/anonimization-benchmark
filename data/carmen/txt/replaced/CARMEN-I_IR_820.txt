@@ -1,0 +1,16 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID19
+
+protocolo:
+RX DE TORAX PORTATIL
+
+conclusiones:
+*Material metalico (probablemente cinturon de contencion) que artefacta el estudio. Ademas la RX esta escasamente inspirada y artefactada por superposicion de partes blandas.
+Consolidaciones en ambos pulmones de predominio periferico, afectando a campos superior, medio e inferior de ambos pulmones, correspondientes a afectacion pulmonar por COVID. La comparacion con la RX previa del 7/3/2017 es dificil, por los motivos tecnicos descritos, no obstante no se observa un claro empeoramiento de la afectacion pulmonar (parece estable).
+
+descrip:
+RX  PORTATIL  TORAX

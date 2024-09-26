@@ -1,0 +1,16 @@
+
+prueba:
+RETIRADA Y CONTROL DE CATETER
+
+clinica:
+retirada del PAC per infecció (sortida de material purulent en punxar- lo)
+lbdcg
+
+resultados:
+Paciente que acude a nuestro servicio de angioradiologia para retirada de PAC. No existen contraindicaciones para la intervencion. Se realiza bajo anestesia local segun protocolo. Se realiza sin incidencias
+
+conclusiones:
+Paciente que acude a nuestro servicio de angioradiologia para retirada de PAC. No existen contraindicaciones para la intervencion. Se realiza bajo anestesia local segun protocolo. Se realiza sin incidencias
+
+descrip:
+RETIRADA Y CONTROL DE CATETER

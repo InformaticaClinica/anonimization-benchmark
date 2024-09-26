@@ -1,0 +1,27 @@
+T6	ENFERMEDAD 301 311	hipertenso
+T7	ENFERMEDAD 669 681	hiponatremia
+T8	ENFERMEDAD 745 751	anemia
+T9	ENFERMEDAD 918 951	neumonía bilateral por SARS CoV 2
+T10	ENFERMEDAD 1050 1087	insuficiencia respiratoria hipoxémica
+T11	PROCEDIMIENTO 183 213	vacunación completa con Pfizer
+T12	PROCEDIMIENTO 397 415	Exploración física
+T13	PROCEDIMIENTO 454 479	auscultación respiratoria
+T14	PROCEDIMIENTO 532 551	analítica sanguínea
+T15	PROCEDIMIENTO 731 740	hemograma
+T16	PROCEDIMIENTO 825 845	Radiografía de tórax
+T17	PROCEDIMIENTO 875 891	Frotis SARS CoV2
+T18	SINTOMA 78 87	tiritonas
+T19	SINTOMA 92 98	fiebre
+T20	SINTOMA 101 109	tos seca
+T21	SINTOMA 143 172	disnea de moderados esfuerzos
+T22	SINTOMA 274 299	estable hemodinámicamente
+T23	SINTOMA 301 311	hipertenso
+T24	SINTOMA 335 346	taquicardia
+T25	SINTOMA 348 356	eupneico
+T26	SINTOMA 388 395	afebril
+T27	SINTOMA 420 447	crepitantes secos bibasales
+T28	SINTOMA 779 789	linfopenia
+T29	SINTOMA 850 873	infiltrados bilaterales
+T30	SINTOMA 875 900	Frotis SARS CoV2 positivo
+T32	SPECIES 882 891	SARS CoV2
+T33	SPECIES 941 951	SARS CoV 2

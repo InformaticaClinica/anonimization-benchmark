@@ -1,0 +1,132 @@
+T14	SINTOMA 476 507	Bazo homogéneo de tamaño normal
+T15	SINTOMA 613 641	líquido libre intraabdominal
+T16	SINTOMA 2149 2173	desplazamiento del riñón
+T17	SINTOMA 2282 2299	líquido en pelvis
+T18	SINTOMA 2417 2465	Vesícula biliar de tamaño normal y paredes finas
+T19	SINTOMA 4009 4053	Cambios degenerativos en la columna torácica
+T20	SINTOMA 6216 6260	Cambios degenerativos en la columna torácica
+T21	SINTOMA 31 82	Hígado de tamaño normal con ecoestructura homogénea
+T22	SINTOMA 116 175	Vena porta y eje esplenoportal permeables de calibre normal
+T23	SINTOMA 197 251	Vesícula biliar de paredes finas y repleta de litiasis
+T24	SINTOMA 280 293	líquido libre
+T25	SINTOMA 295 322	colecciones perivesiculares
+T26	SINTOMA 397 419	Vía biliar no dilatada
+T27	SINTOMA 421 464	Páncreas (cabeza y cuerpo) sin alteraciones
+T28	SINTOMA 509 561	Riñones de pequeño tamaño y con ecoestructura normal
+T29	SINTOMA 676 748	hematoma de psoas ilíaca esquerre amb obertura a l'espai retroperitoneal
+T30	SINTOMA 782 800	nivell líquid-sang
+T31	SINTOMA 861 902	extravasació de contrast en fase arterial
+T32	SINTOMA 983 1017	sagnat acctiu arterial d'alt debit
+T33	SINTOMA 1041 1110	líquid lliure en espais prerrenals esquerres, perihepátic i en pelvis
+T34	SINTOMA 1144 1191	Fetge de morfologia, marges i atenuació normals
+T35	SINTOMA 1223 1264	Vesícula de mida normal i de parets fines
+T36	SINTOMA 1266 1288	Via biliar no dilatada
+T37	SINTOMA 1290 1332	vEna porta i eix espleno-portal permeables
+T38	SINTOMA 1334 1406	Pàncrees, melsa i glàndules suprarenals sense alteracions significatives
+T39	SINTOMA 1515 1553	sangrado activo proveniente de rama L3
+T40	SINTOMA 1806 1896	Aumento de tamaño del hematoma del psoas izquierdo con apertura al espacio retroperitoneal
+T41	SINTOMA 1951 1984	focos de sangrado activo arterial
+T42	SINTOMA 2048 2072	hematoma retroperitoneal
+T43	SINTOMA 2329 2382	Hígado de morfología, contornos y atenuación normales
+T44	SINTOMA 2467 2489	Vía biliar no dilatada
+T45	SINTOMA 2491 2532	Vena porta y eje espleno-portal permables
+T46	SINTOMA 2708 2745	extravasacionnde contraste en L3 y L5
+T47	SINTOMA 2884 2975	aortografia y arteriogrsfia de hipogastrica izquierda no muestran signos de sangrado activo
+T49	SINTOMA 3171 3214	hematoma que ocupa el hemiabdomen izquierdo
+T50	SINTOMA 3216 3240	Vasos renales permeables
+T51	SINTOMA 3259 3336	Vesícula biliar distendida de paredes finas con colelitiasis múltiple y barro
+T52	SINTOMA 3356 3369	líquido libre
+T53	SINTOMA 178 195	flujo hepatopetal
+T54	ENFERMEDAD 567 597	dilatación de la vía excretora
+T55	SINTOMA 3002 3050	Riñones de tamaño y grosor cortical en el límite
+T56	SINTOMA 3694 3766	defectos de repleción endovasculares en las ramas de la arteria pulmonar
+T57	SINTOMA 3818 3856	focos parcheados de vidrio deslustrado
+T58	SINTOMA 3867 3909	bandas parenquimatosas de predominio basal
+T59	SINTOMA 3912 3937	distorsión parenquimatosa
+T60	SINTOMA 4087 4138	disminución del tamaño del hematoma retroperitoneal
+T61	SINTOMA 4154 4179	signos de sangrado activo
+T62	SINTOMA 4310 4353	proceso activo en válvula protésica aórtica
+T63	SINTOMA 4368 4439	áreas en vidrio deslustrado parcheadas en parénquima pulmonar bilateral
+T64	SINTOMA 4444 4469	distorsión parenquimatosa
+T65	SINTOMA 4472 4500	leve captación difusa de FDG
+T66	SINTOMA 4604 4620	captación de FDG
+T67	SINTOMA 4633 4728	hematoma retroperitoneal izquierdo ya conocido que muestra un refuerzo de captación perioférico
+T68	SINTOMA 4949 5065	Venas femoral superficial (tercio medio -distal) , poplitea, perones y tibiales posteriores compresibles, permeables
+T69	SINTOMA 5071 5102	signos eco-doppler de trombosis
+T70	SINTOMA 5145 5247	Prótesis mecánica (Overline núm. 22) + Tubo Hemashiel núm. 30 en la aorta ascendente normofuncionantes
+T71	SINTOMA 5285 5312	complicaciones perianulares
+T72	SINTOMA 5343 5372	Válvula ligeramente engrosada
+T73	SINTOMA 5404 5432	Buena dinàmica biventricular
+T74	SINTOMA 5739 5772	áreas parcheadas de consolidación
+T75	SINTOMA 5774 5792	vidrio deslustrado
+T76	SINTOMA 5795 5814	bandas subpleurales
+T77	SINTOMA 5962 6083	foco consolidativo subpleural de morfología triangular que se localiza en el segmento basal posterior del lóbulo inferior
+T78	SINTOMA 6328 6352	hematoma retroperitoneal
+T79	SINTOMA 88 104	lesiones focales
+T80	SINTOMA 1207 1221	lesions focals
+T81	SINTOMA 1726 1734	sangrado
+T82	SINTOMA 5679 5720	afectación parenquimatosa pulmonar difusa
+T83	SINTOMA 6280 6308	colección líquida subfrénica
+T84	ENFERMEDAD 356 374	colecistitis aguda
+T85	ENFERMEDAD 2314 2327	hemoperitoneo
+T86	ENFERMEDAD 3506 3521	hernia de hiato
+T87	ENFERMEDAD 3539 3558	derrame pericárdico
+T88	ENFERMEDAD 3569 3593	moderado derrame pleural
+T89	SINTOMA 3608 3637	colapso parenquimatoso pasivo
+T90	ENFERMEDAD 3657 3672	derrame pleural
+T91	ENFERMEDAD 3797 3800	TEP
+T92	ENFERMEDAD 3989 3994	COVID
+T93	ENFERMEDAD 4535 4556	neumonía por COVID-19
+T94	ENFERMEDAD 4558 4582	Moderado derrame pleural
+T95	ENFERMEDAD 4861 4947	trombo parcial en venas femoral comun y en tercio proximal de vena femoral superficial
+T96	ENFERMEDAD 5266 5278	vegetaciones
+T97	ENFERMEDAD 5314 5341	Insuficiencia mitral mínima
+T98	ENFERMEDAD 5390 5402	vegetaciones
+T99	ENFERMEDAD 5640 5655	derrame pleural
+T100	ENFERMEDAD 5830 5859	bronquiolectasias de tracción
+T101	ENFERMEDAD 5873 5890	lesiones posCOVID
+T102	ENFERMEDAD 5907 5915	fibrosis
+T103	ENFERMEDAD 6139 6155	infarto pulmonar
+T104	ENFERMEDAD 6158 6194	sobreinfección (bacteriana o fúngica
+T105	SPECIES 6174 6184	bacteriana
+T106	SPECIES 6187 6194	fúngica
+T107	PROCEDIMIENTO 3 22	ECOGRAFIA ABDOMINAL
+T108	PROCEDIMIENTO 645 662	ANGIOTC ABDOMINAL
+T109	PROCEDIMIENTO 1410 1425	ANGIORADIOLOGIA
+T110	PROCEDIMIENTO 1434 1457	Punción femoral derecha
+T111	PROCEDIMIENTO 1475 1500	Arteriografía diagnóstica
+T112	PROCEDIMIENTO 1595 1597	TC
+T113	PROCEDIMIENTO 1599 1666	Se emboliza con particulas beadblock 200-500 y coils vortes 2,5 x 3
+T114	PROCEDIMIENTO 1738 1755	ANGIOTC ABDOMINAL
+T115	PROCEDIMIENTO 1780 1782	TC
+T116	PROCEDIMIENTO 2536 2551	ANGIORADIOLOGIA
+T117	PROCEDIMIENTO 2809 2880	embolizamos con glubran 1:3 L3 y L5 y resto de srterias con espongostan
+T118	PROCEDIMIENTO 2898 2937	arteriogrsfia de hipogastrica izquierda
+T119	PROCEDIMIENTO 2978 2993	ECO RENOVESICAL
+T120	PROCEDIMIENTO 3242 3257	Sondaje vesical
+T121	PROCEDIMIENTO 3411 3420	ecografía
+T122	PROCEDIMIENTO 3463 3489	ANGIOTC TORACICO ABDOMINAL
+T123	PROCEDIMIENTO 4057 4070	TAC ABDOMINAL
+T124	PROCEDIMIENTO 4225 4232	PET-TAC
+T125	PROCEDIMIENTO 4242 4256	Estudio PET/TC
+T126	PROCEDIMIENTO 4812 4829	ECODPPLER DE EEII
+T127	PROCEDIMIENTO 5106 5135	ECOCARDIOGRAMA TRANSESOFÁGICO
+T128	PROCEDIMIENTO 5601 5612	TC TORÁCICO
+T129	ENFERMEDAD 197 251	Vesícula biliar de paredes finas y repleta de litiasis
+T130	ENFERMEDAD 676 709	hematoma de psoas ilíaca esquerre
+T131	ENFERMEDAD 1126 1134	hematoma
+T132	SINTOMA 1987 2038	áreas heterogéneas en relación a coágulos recientes
+T133	ENFERMEDAD 2048 2072	hematoma retroperitoneal
+T134	PROCEDIMIENTO 2560 2617	Acceso vascular por la arteria femoral comun derrcha 5 Fr
+T135	PROCEDIMIENTO 2757 2807	estudiamos arteria iliolumbar y circunfleja iliaca
+T136	PROCEDIMIENTO 2884 2895	aortografia
+T137	ENFERMEDAD 3056 3089	dilatación de las vías excretoras
+T138	ENFERMEDAD 3171 3214	hematoma que ocupa el hemiabdomen izquierdo
+T139	ENFERMEDAD 3307 3319	colelitiasis
+T140	ENFERMEDAD 4009 4053	Cambios degenerativos en la columna torácica
+T141	ENFERMEDAD 4114 4138	hematoma retroperitoneal
+T142	ENFERMEDAD 4633 4657	hematoma retroperitoneal
+T143	ENFERMEDAD 5093 5102	trombosis
+T144	ENFERMEDAD 5561 5585	placas ateroescleróticas
+T145	ENFERMEDAD 6216 6260	Cambios degenerativos en la columna torácica
+T146	ENFERMEDAD 6328 6352	hematoma retroperitoneal

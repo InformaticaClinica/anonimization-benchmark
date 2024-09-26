@@ -1,0 +1,27 @@
+Antecedentes personales:
+[**SEXO_SUJETO_ASISTENCIA**], [**EDAD_SUJETO_ASISTENCIA**].IABVD. Natural de [**TERRITORIO**], vive en una habitación con dos amigos. Cuidadora privada 8 horas. Tiene [**FAMILIARES_SUJETO_ASISTENCIA**]: [**FAMILIARES_SUJETO_ASISTENCIA**] y [**FAMILIARES_SUJETO_ASISTENCIA**], come en casa de su [**FAMILIARES_SUJETO_ASISTENCIA**]. Jubilado.
+No alergias conocidas. Exfumador (abstinente desde [**FECHAS**]) con dosis acumlada 33 paq/año, exenol crónico desde [**FECHAS**]. Consumo de alcohol previo: 10UBE/día.
+ANTECEDENTES PATOLOGICOS:
+1. CIRROSIS HEPÁTICA POR OH. CHILD C(11). MELD 21. Diagnóstico en [**FECHAS**], en evaluación pre-TOH.
+DESCOMPENSACIONES PREVIAS.
+- Debut en [**FECHAS**] con primera descompensación ascítico-edematosa.
+Actualmente, con ascitis abdominal y torácica refractarias con paracentesis evacuadoras programadas c/2 semanas en [**HOSPITAL**] y tratamiento diurético.
+- Primer espisodio de encefalopatía hepática grado II en [**FECHAS**] en contexto de aumento de diuréticos y deshidratación secundaria.
+Posteriormente ha presentado más episodios en contexto de estreñimiento, con profilaxis con lactitol y rifaximina.
+-En profilaxis primaria de PBE con Norfloxacino.
+- Nunca HDA variceal.
+ULTIMAS PRUEBAS COMPLEMENTARIAS.
+Ecografía abdomen ([**FECHAS**]): Higado compatible con hepatopatía crónica en fase de cirrosis. No LOEs excepto un microquiste de 4 mm en s IV.
+Via biliar no dilatada. Vesicula biliar alitiasica. Esplenomegalia homogenea.
+* FGS [**FECHAS**] ([**HOSPITAL**]): Varices esofágicas pequeñas. Gastropatía de la Hipertensión Portal moderada. Antritis erosiva severa
+2. FIBRILACIÓN AURICULAR CRÓNICA diagnosticada en [**FECHAS**]. No realiza tratamiento anticoagulante ni frenador.
+Ecocardiograma ([**FECHAS**]): Esclerosis valvular
+aórtica con insuficiencia ligera. Válvula mitral con insuficiencia ligera. Aurícula izquierda severamente dilatada por volumen indexado.
+Ventrículo derecho no dilatado con motilidad normal. Sin signos indirectos de hipertensión pulmonar
+3.OSTEOPOROSIS + FRACTURAS VERTEBRALES (L5, L2, T12) en tratamiento con bifosfonatos. Se retiró Ca + vitD por hipercalcemia e hipofosfatemia.
+4. ESTENOSIS CANAL MEDULAR secundaria a fracturas vertebrales.
+5. ANEMIA MICROCÍTICA con sangre oculta en heces positiva detectada en [**FECHAS**], por lo que se realiza colonoscopia.
+Colonoscopia ([**FECHAS**]): Colon con restos semisólidos que no impiden una correcta evaluación de toda la mucosa (Escala de Boston= 2+2+2=6). Se explora todo el colon hasta el ciego. Hemorroides internas congestivas grado II-III. Conclusión: Hemorroides internas.
+6. HIPERTENSIÓN ARTERIAL tratado previamente con Enalapril. Actualmente sin tratamiento.
+- IQ: Apendicectomía. Fimosis.
+MEDICACIÓN HABITUAL ([**FECHAS**]): Rifaximina 400c/12h, Norfloxacino 400mg/24h, Furosemida 40mg/24h, Espironolactona 100mg/24h, Ursobilane 300mg/12h, Colestiramina, Lactitol 2-2-2, Risendronato.

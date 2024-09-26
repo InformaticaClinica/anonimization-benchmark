@@ -1,0 +1,77 @@
+T6	ENFERMEDAD 686 703	Vessament pleural
+T7	ENFERMEDAD 899 943	pólipos de hiperplasia de glándulas fúndicas
+T8	ENFERMEDAD 1332 1348	absceso hepático
+T9	ENFERMEDAD 2268 2288	Leve derrame pleural
+T10	ENFERMEDAD 2301 2339	atelectasia pasiva del lóbulo inferior
+T11	ENFERMEDAD 2583 2599	absceso hepático
+T12	ENFERMEDAD 2655 2670	Quiste hepático
+T13	ENFERMEDAD 2877 2885	abscesos
+T14	ENFERMEDAD 3056 3063	quistes
+T15	ENFERMEDAD 3089 3109	uropatia obstructiva
+T16	ENFERMEDAD 3127 3167	adenopatías retroperitoneales ni ilíacas
+T17	ENFERMEDAD 3244 3339	diverticulosis es especialmente severa a nivel del colon descendente distal y de sigma proximal
+T18	ENFERMEDAD 3476 3490	diverticulitis
+T19	ENFERMEDAD 3511 3543	atrofia del músculo psoas-ilíaco
+T20	ENFERMEDAD 3572 3587	Derrame pleural
+T21	ENFERMEDAD 3870 3886	absceso hepático
+T22	ENFERMEDAD 3988 4056	diverticulitis Hinchey Ia en colon descendente distal/sigma proximal
+T23	ENFERMEDAD 4240 4266	enfermedad de pequeño vaso
+T24	ENFERMEDAD 2105 2120	Útero miomatoso
+T25	ENFERMEDAD 3203 3239	divertículos en todo el marco cólico
+T26	ENFERMEDAD 3555 3570	Utero miomatoso
+T27	ENFERMEDAD 4135 4162	sangrado intra o extraaxial
+T28	PROCEDIMIENTO 12 31	ECOGRAFÍA ABDOMINAL
+T29	SINTOMA 32 67	Fetge de mida i ecostructura normal
+T30	SINTOMA 89 168	Lesió hipoecoica de vores mal delimitades, amb algunes petites àrees anecoiques
+T31	SINTOMA 535 605	Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats
+T32	SINTOMA 745 760	Esófago: normal
+T33	SINTOMA 985 998	Píloro normal
+T34	SINTOMA 999 1040	Bulbo y segunda porción duodenal normales
+T35	SINTOMA 1190 1236	Lesión hipoecoica de contornos mal delimitados
+T36	SINTOMA 1950 1971	Bazo de tamaño normal
+T37	SINTOMA 2048 2093	Vejiga urinaria replecionada sin alteraciones
+T38	SINTOMA 2992 3034	Riñones de tamaño y morfología conservados
+T39	SINTOMA 4164 4214	Hipodensidad de la sustancia blanca supratentorial
+T40	ENFERMEDAD 2402 2431	lesión hepática multitabicada
+T41	ENFERMEDAD 2726 2752	lesiones focales hepáticas
+T42	ENFERMEDAD 3689 3718	lesión hepática multitabicada
+T43	ENFERMEDAD 4277 4356	lesiones hipodensas, en región capsuloganglionar izquierda y lenticular derecho
+T44	PROCEDIMIENTO 721 731	ENDOSCOPIA
+T45	PROCEDIMIENTO 732 743	EXPLORACIÓN
+T46	PROCEDIMIENTO 1094 1130	ECOGRAFÍA ABDOMINAL CON CONTRASTE EV
+T47	PROCEDIMIENTO 1370 1394	estudio con contraste ev
+T48	PROCEDIMIENTO 1723 1730	drenaje
+T49	PROCEDIMIENTO 1768 1777	ecografía
+T50	PROCEDIMIENTO 2220 2222	TC
+T51	PROCEDIMIENTO 2361 2373	TC abdominal
+T52	PROCEDIMIENTO 3920 3929	ecografía
+T53	PROCEDIMIENTO 3956 3977	colocación de drenaje
+T54	PROCEDIMIENTO 4097 4109	TC CEREEBRAL
+T55	SINTOMA 414 436	Via biliar no dilatada
+T56	SINTOMA 371 412	Vesícula biliar alitiàsica, de paret fina
+T57	SINTOMA 315 369	Venes suprahepàtiques permeables i de calibres normals
+T58	SINTOMA 251 313	Vena porta permeable, de diàmetre normal amb fluxe hepatopetal
+T59	SINTOMA 438 468	Melsa homogènia de mida normal
+T60	SINTOMA 479 533	Pàncrees (cap-cos) de morfologia i ecogenicitat normal
+T61	ENFERMEDAD 616 645	dilatació de la via excretora
+T62	SINTOMA 656 684	líquid lliure intraabdominal
+T63	SINTOMA 791 814	Estómago: fundus normal
+T64	SINTOMA 950 983	Incisura y antro sin alteraciones
+T65	SINTOMA 1132 1188	Hígado de tamaño y morfología normal, de contornos lisos
+T66	SINTOMA 1635 1683	zona flemonosa con pequeños focos abscesificados
+T67	SINTOMA 1779 1823	Vesícula biliar alitiásica, de paredes finas
+T68	SINTOMA 1825 1869	Vía biliar intra y extrahepática no dilatada
+T69	SINTOMA 1871 1903	Vena porta permeable hepatopetal
+T70	SINTOMA 1905 1948	Páncreas (cabeza y cuerpo) sin alteraciones
+T71	SINTOMA 1973 2010	Riñones de tamaño y morfología normal
+T72	ENFERMEDAD 2016 2046	dilatación de la vía excretora
+T73	SINTOMA 2122 2188	Imagen nodular dependiente de la cara lateral derecha de la vejiga
+T74	SINTOMA 2238 2266	líquido libre intraabdominal
+T75	SINTOMA 2601 2653	Higado de tamaño normal, homogéneo y de bordes lisos
+T76	SINTOMA 2754 2802	Vesícula biliar de tamaño normal y paredes finas
+T77	SINTOMA 2804 2826	Vía biliar no dilatada
+T78	SINTOMA 2828 2859	Bazo de tamaño normal homogéneo
+T79	SINTOMA 2887 2938	Páncreas y glándulas suprarrenales sin alteraciones
+T80	SINTOMA 2940 2990	Vena porta permeable en tronco y ramas principales
+T81	PROCEDIMIENTO 1042 1057	OD: Exploración
+T82	SINTOMA 1042 1081	OD: Exploración dentro de la normalidad
