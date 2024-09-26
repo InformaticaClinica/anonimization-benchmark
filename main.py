@@ -9,6 +9,7 @@ from llm import BigMistralModel, Sonet3_5Model, SmallLlamaModel
 from metrics import Metrics
 import os
 import re
+import json
 
 PATH = './data/carmen/'
 
@@ -31,14 +32,25 @@ def store_text(text, filename, name_model):
     with open(file_path, 'w') as file:
         file.write(text)
 
-def post_processing_replace_text(text, dictionary):
+def post_processing_replace_text(text, json_strings):
+    # Merge all dictionaries parsed from JSON strings
+    merged_dict = {}
+    
+    for json_string in json_strings:
+        dictionary = json.loads(json_string)  # Parse JSON string to dictionary
+        merged_dict.update(dictionary)
+    
     def replacement_match(match):
-        keyword = match.group(1)  
-        return dictionary.get(keyword, keyword)  
+        keyword = match.group(1)
+        return merged_dict.get(keyword, keyword)
+    
+    # Using a regular expression to find texts inside [**]
     modified_text = re.sub(r'\[\*\*(.*?)\*\*\]', replacement_match, text)
     return modified_text
 
-def anonimized_loop(llm, name_model, data):
+
+def anonimized_loop(llm, name_model):
+    data = {}
     start_time = time.time()
     counter = 0
     context = LLMContext(llm)
@@ -46,15 +58,17 @@ def anonimized_loop(llm, name_model, data):
     for filename in sorted(os.listdir(f'{PATH}txt/replaced/')):
         metrics.set_filename(filename)
         try:
+            data["system"] = read_text("prompts/system_prompt1.txt")
             data["user"] = read_text(f'{PATH}txt/replaced/{filename}')
             ground_truth = read_text(f'{PATH}txt/masked/{filename}')
             # First iteration
             text_generated = context.generate_response(data)
             # Second iteration
-            # TODO: Handle system prompt because of performance
             data["system"] = read_text("prompts/system_prompt2_beta.txt")
             data["user"] = text_generated
+            context = LLMContext(llm)
             dictionary = context.generate_response(data)
+            #dictionary = json.load(dictionary)
             text_generated = post_processing_replace_text(text_generated, dictionary)
             print(text_generated)
             #metrics.calculate(ground_truth, text_generated)
@@ -70,8 +84,8 @@ def anonimized_loop(llm, name_model, data):
     metrics.save_metrics()
     save_time_to_file(name_model, start_time)
 
-def call_models(data):
-    anonimized_loop(SmallLlamaModel(),  "small_llama",         data)
+def call_models():
+    anonimized_loop(SmallLlamaModel(),  "small_llama")
     # anonimized_loop(BigMistralModel(),  "big_mistral_model",   data)
     # anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model", data)
     # anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model",     data)
@@ -84,9 +98,7 @@ def call_models(data):
 
 
 def main():
-    data = {}
-    data["system"] = read_text("prompts/system_prompt1.txt")
-    call_models(data)
+    call_models()
 
 if __name__ == "__main__":
     main()
