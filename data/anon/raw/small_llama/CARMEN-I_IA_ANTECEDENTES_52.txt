@@ -1,5 +1,0 @@
- ANTECEDENTES PERSONALES
-Varón de [**EDAD_SUJETO_ASISTENCIA**] natural de [**PAIS**], refiere reacción cutánea en una ocasión a la administración de penicilina.
-No antecedentes médicos relevantes.
-No toma medicación habitual.
-Situación social: Hermana [**OTROS_SUJETO_ASISTENCIA**] afecta de COVID19.

@@ -1,1 +1,0 @@
-Hombre de [**EDAD_SUJETO_ASISTENCIA**] sin alergias a medicamentos conocidas. Exfumador de 1paq/día hasta los [**EDAD_SUJETO_ASISTENCIA**] sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Jubilado, trabajaba de [**PROFESION**]. Vive en domicilio con sus [**FAMILIARES_SUJETO_ASISTENCIA**] y sus [**FAMILIARES_SUJETO_ASISTENCIA**].

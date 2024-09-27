@@ -1,7 +1,0 @@
- Varón de [**EDAD_SUJETO_ASISTENCIA**], procedente de [**PAIS**] vive 30 años en [**TERRITORIO**], no fuma, bebe alcohol 2 copas (cervezas o vino o alcohol) dia. No refiere alergias medicamentosas conocidas. Vive en su domicilio con su mujer e hijos, trabaja de investigador bioquímico aunque actualmente se encontraba de baja por la fractura del pie izquierdo.
-ANTECEDENTES PATOLOGICOS:
-1.HTA en tto con [**MEDICACION**].
-2.Hiperuricemia 1 episodio de Gota.
-3.Hepatitis A en la infancia
-4.Fractura de la falange del pie izquierdo.
-MEDICACION HABITUAL: [**MEDICACION**]

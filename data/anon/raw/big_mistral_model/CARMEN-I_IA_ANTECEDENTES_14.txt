@@ -1,1 +1,0 @@
- Doctores de [**HOSPITAL**], atendieron a un paciente natural de [**PAIS**], que viajó en Diciembre de [**FECHAS**]. El paciente es un [**PROFESION**] de [**EDAD_SUJETO_ASISTENCIA**] años y presenta dolor lumbar crónico y problemas de movilidad.

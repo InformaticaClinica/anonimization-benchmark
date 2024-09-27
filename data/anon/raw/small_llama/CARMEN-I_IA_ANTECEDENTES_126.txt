@@ -1,8 +1,0 @@
- Paciente de [**EDAD_SUJETO_ASISTENCIA**]. Sin alergias conocidas. Niega tabaquismo y enolismo.
-1. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**] 20 mg/día y [**MEDICAMENTO**] 32/25mg/día.
-2. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**] 30 mg/día, [**MEDICAMENTO**] 50/1000 mg/día
-3. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**] 40 mg/día.
-4. [**ENFERMEDAD**] en tratamiento con [**MEDICAMENTO**], [**MEDICAMENTO**]
-5. [**ENFERMEDAD**] en tratamiento sustitutivo con [**MEDICAMENTO**] 75 mcg/día
-6. [**ANTecedentes_MEDICOS**]: [**ANTecedentes_MEDICOS**], [**ANTecedentes_MEDICOS**], [**ANTecedentes_MEDICOS**].
-MEDICACIÓN HABITUAL: [**MEDICAMENTO**], [**MEDICAMENTO**] 20 mg/día, [**MEDICAMENTO**], [**MEDICAMENTO**] 100mg/día, [**MEDICAMENTO**] 30 mg/día, [**MEDICAMENTO**] 50/1000 mg/día, [**MEDICAMENTO**] 40 mg/día, [**MEDICAMENTO**] 75 mcg/día, [**MEDICAMENTO**]/[**MEDICAMENTO**] 37.5/325, [**MEDICAMENTO**] 20 mg/día, [**MEDICAMENTO**] 32/25mg/día.

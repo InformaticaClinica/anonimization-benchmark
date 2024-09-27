@@ -1,0 +1,2 @@
+,filename,precision,recall,f1,cosine_sim,levenshtein_distance,labels,inv_levenshtein,overall,language
+0,CARMEN-I_CC_1.txt,,,,0.9531893143103303,182,,0.005494505494505495,,es

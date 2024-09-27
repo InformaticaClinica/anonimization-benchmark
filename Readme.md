@@ -53,3 +53,4 @@ Finally, when you have iterated enough times and want to retrieve a CSV file con
 This function is responsible for saving the list of all experiments conducted up to that point in a CSV format.
 
 # TODO
+- We can mesure the times of the model is unable to return a good structure (prompt2)

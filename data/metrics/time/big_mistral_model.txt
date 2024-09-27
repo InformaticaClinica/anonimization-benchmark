@@ -1,1 +1,0 @@
-Execution time of big_mistral_model: 2019.4506759643555 seconds

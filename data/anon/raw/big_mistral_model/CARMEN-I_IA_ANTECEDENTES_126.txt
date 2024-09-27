@@ -1,8 +1,0 @@
- Paciente de [**EDAD_SUJETO_ASISTENCIA**]. Sin alergias conocidas. Niega tabaquismo y enolismo.
-1. HIPERTENSIÓN ARTERIAL en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**]/hidroclorotiazida.
-2. DIABETES MELLITUS TIPO 2 en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**]/metformina.
-3. DISLIPEMIA en tratamiento con [**MEDICAMENTO**].
-4. EPOC en tratamiento con [**MEDICAMENTO**] y [**MEDICAMENTO**].
-5. HIPOTIROIDISMO en tratamiento sustitutivo con [**MEDICAMENTO**].
-6. IQ: hernia umbilical, colecistectomía, hallux valgus.
-MEDICACIÓN HABITUAL: [**MEDICAMENTO**], omeprazol, [**MEDICAMENTO**], adiro, [**MEDICAMENTO**], [**MEDICAMENTO**]/metformina, [**MEDICAMENTO**], [**MEDICAMENTO**]/hidroclorotiazida.

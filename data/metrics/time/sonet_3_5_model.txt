@@ -1,1 +1,0 @@
-Execution time of sonet_3_5_model: 2936.395355939865 seconds

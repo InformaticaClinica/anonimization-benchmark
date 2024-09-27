@@ -190,11 +190,22 @@ class Metrics:
                   classification_bool = True, 
                   cosine_sim_bool = True, 
                   levenshtein_bool = True):
+        '''
+            That functions calculates all the metrics and stores them in the metrics_data variable
+            Args:
+                ground_truth: The ground truth labels
+                generated: The generated labels
+                classification_bool: Whether to calculate the classification metrics
+                cosine_sim_bool: Whether to calculate the cosine similarity
+                levenshtein_bool: Whether to calculate the levenshtein distance
+            Returns:
+                None
+        '''
         if classification_bool: self.evaluate(ground_truth, generated)
         if cosine_sim_bool: self.get_cos_sim(ground_truth, generated)
         if levenshtein_bool: self.levenshtein_distance(ground_truth, generated)
         if levenshtein_bool: self.calculate_inv_levenshtein()
-        self.calculate_overall()
+        if classification_bool and levenshtein_bool and cosine_sim_bool: self.calculate_overall()
         self.add_language()
 
     def add_language(self):

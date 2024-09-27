@@ -1,8 +1,0 @@
- Paciente de [**EDAD_SUJETO_ASISTENCIA**] años. Sin alergias conocidas. Niega tabaquismo y enolismo.
-1. HIPERTENSIÓN ARTERIAL en tratamiento con lercanidipino [**NUMERO_TELEFONO**] mg/día y candesartan/hidroclorotiazida [**NUMERO_TELEFONO**]mg/día.
-2. DIABETES MELLITUS TIPO 2 en tratamiento con glicazida [**NUMERO_TELEFONO**] mg/día, sitagliptina/metformina [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**] mg/día
-3. DISLIPEMIA en tratamiento con simvastatina [**NUMERO_TELEFONO**] mg/día.
-4. EPOC en tratamiento con symbicort, salbutamol
-5. HIPOTIROIDISMO en tratamiento sustitutivo con levotiroxina [**NUMERO_TELEFONO**] mcg/día
-6. IQ: hernia umbilical, colecistectomía, hallux valgus.
-MEDICACIÓN HABITUAL: symbicort, omeprazol [**NUMERO_TELEFONO**] mg/día, salbutamol, adiro [**NUMERO_TELEFONO**]mg/día, glicazida [**NUMERO_TELEFONO**] mg/día, sitagliptina/metformina [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**] mg/día, simvastatina [**NUMERO_TELEFONO**] mg/día, levotiroxina [**NUMERO_TELEFONO**] mcg/día, paracetamol/tramadol [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**], lercanidipino [**NUMERO_TELEFONO**] mg/día, candesartan/hidroclorotiazida [**NUMERO_TELEFONO**]/[**NUMERO_TELEFONO**]mg/día.

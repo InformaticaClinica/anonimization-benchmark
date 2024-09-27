@@ -1,7 +1,0 @@
- Varón de [**EDAD_SUJETO_ASISTENCIA**] años, procedente de [**PAIS**], vive [**TERRITORIO**] años en [**TERRITORIO**], no fuma, bebe alcohol [**2 copas**] día. No refiere alergias medicamentosas conocidas. Vive en su domicili con su mujer en hijos, trabaja de [**PROFESION**] aunque actualmente se encontraca de baja por la [**EDAD_SUJETO_ASISTENCIA**] de [**HOSPITAL**].
-ANTECEDENTES PATOLOGICOS:
-1.[**FAMILIARES_SUJETO_ASISTENCIA**] en tto con [**MEDICACION HABITUAL**].
-2.[**FAMILIARES_SUJETO_ASISTENCIA**] 1 episodio de [**FAMILIARES_SUJETO_ASISTENCIA**].
-3.[**FAMILIARES_SUJETO_ASISTENCIA**] en la infancia
-4.[**FAMILIARES_SUJETO_ASISTENCIA**] de la [**HOSPITAL**].
-MEDICACION HABITUAL: [**MEDICACION HABITUAL**] [**MEDICACION HABITUAL**] [**MEDICACION HABITUAL**]

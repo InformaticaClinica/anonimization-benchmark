@@ -1,2 +1,0 @@
- Paciente de [**EDAD_SUJETO_ASISTENCIA**], alérgica al nolotil, sin antecedentes médicos de interés.
-- Antecedente de internación a los [**NUMERO_IDENTIF**] años por fiebre de origen desconocido no filiada.

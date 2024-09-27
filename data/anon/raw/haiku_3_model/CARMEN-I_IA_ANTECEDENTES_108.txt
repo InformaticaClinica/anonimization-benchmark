@@ -1,4 +1,0 @@
-Paciente de [**EDAD_SUJETO_ASISTENCIA**], Alergia a Quinolonas y sulfamidas, de profesión [**PROFESION**], en contacto con pacientes covid positivo.
-ANTECEDENTES PATOLÓGICOS:
-- [**OTROS_SUJETO_ASISTENCIA**]
-- [**OTROS_SUJETO_ASISTENCIA**]: Auto [**OTROS_SUJETO_ASISTENCIA**] cutani infancia per [**OTROS_SUJETO_ASISTENCIA**].

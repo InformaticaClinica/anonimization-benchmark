@@ -1,1 +1,0 @@
-Execution time of opus_model: 6549.907265901566 seconds

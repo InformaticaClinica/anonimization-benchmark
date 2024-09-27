@@ -1,8 +1,0 @@
-Antecedentes personales:
-Mujer de [**EDAD_SUJETO_ASISTENCIA**], sin alergias médicas conocidas. Natural de [**PAIS**].
-**ANTECEDENTES PATOLÓGICOS:  
-1. Infecciones urinarias de repetición
-2. Prolapaso de vávula mitral diagnósticada hace [**FECHAS**]. Sin tratamiento
-3. Bursitis de tobillo derecho. En tratamiento análegsico
-4. Lumbalgía mecánica
-**MEDICACIÓN HABITUAL: niega.

@@ -1,9 +1,0 @@
- Antecedentes personales:
-Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. Autónomo [**PROFESION**], sin deterioro cognitivo. Exfumador hasta los [**EDAD_SUJETO_ASISTENCIA**] años (DA 88 paq-año), bebedor de 1 vaso vino/día. Vive en domicilio con su marido.
-
-* ANTECEDENTES PATOLÓGICOS
-1. HIPERTENSIÓN ARTERIAL
-2. DISLIPEMIA
-3. NAC FINE III EN LSD que requirió ingreso en [**FECHAS**]
-
-* Medicación habitual (18/06/2022): [**MEDICACION**] 10mg/d, [**MEDICACION**] 5mg/d, [**MEDICACION**] 50mg/d.

@@ -1,6 +1,0 @@
-Mujer de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas, no refiere hábitos tóxicos.
-- Anemia cronica.
-- Hipotiroidismo en tto con levotiroxina.
-- El [**FECHAS**] consulta al [**PROFESION**] por edema a nivel parotideo bilateral (D>I), no asociado a fiebre/tiritona. Orientado como parotiditis, inician tratamiento con amoxicilina y paracetamol. Convive con [**FAMILIARES_SUJETO_ASISTENCIA**] quien se encuentra asintomática.
-- Quirúrgicos: cesárea.
-PSICOBIOGRAFÍA: Vive con su [**FAMILIARES_SUJETO_ASISTENCIA**] e [**FAMILIARES_SUJETO_ASISTENCIA**]. Actualmente se encuentran bien,asintomáticos. Trabaja en [**PROFESION**] (actualmente en contacto con pacientes [**OTROS_SUJETO_ASISTENCIA**]).

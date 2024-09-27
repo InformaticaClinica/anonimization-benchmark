@@ -1,7 +1,0 @@
- Hombre de [**EDAD_SUJETO_ASISTENCIA**], natural de [**PAIS**] (barrera idiomática), trabaja de [**PROFESION**]. Independiente para ABVD. Fumador 2 paquetes/día, enol 100cc/día. No alergias medicamentosas conocidas.
-*ANTECEDENTES PATOLÓGICOS:
-1. HIPERTENSIÓN ARTERIAL en tratamiento médico.
-2. ICTUS en [**FECHAS**] y [**FECHAS**] sin secuelas (no disponemos de informes).
-*MEDICACIÓN HABITUAL:
-- Rilmenidina
-- Perindopril/indapamida

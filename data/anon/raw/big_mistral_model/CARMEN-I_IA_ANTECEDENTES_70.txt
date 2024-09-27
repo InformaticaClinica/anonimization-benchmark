@@ -1,6 +1,0 @@
- Hombre de [**EDAD_SUJETO_ASISTENCIA**], trabaja como [**PROFESION**], vive con cuñado. Niega alergias. Independiente para ABVD. Fumador desde los 13 a 46 años de edad: 2 paquetes dia (DA= 70 paquetes-año)
-ANTECEDENTES PATOLÓGICOS:
-1. [**FAMILIARES_SUJETO_ASISTENCIA**] en tratamiento farmacológico.
-ANTECEDENTES QUIRÚRGICOS:
-Apendicectomia a los 17 años de edad.
-* MEDICACIÓN HABITUAL: [**NUMERO_IDENTIF**] 20mg al día.

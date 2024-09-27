@@ -1,6 +1,0 @@
- Paciente de [**EDAD_SUJETO_ASISTENCIA**] años, sin alergias ni hábitos tóxicos. Natural de [**PAIS**], vive en [**CALLE**] con su suegro desde [**FECHAS**].
-ANTECEDENTES PATOLÓGICOS:
-- OVERLAP HEPATITIS AUTOIMMUNE/COLANGITIS BILIAR PRIMARIA/ARTRITIS REUMATOIDE desde [**FECHAS**], diagnosticada a raíz de hipertransaminasemia con biopsia sugestiva. Anti M2 positivos. Tratamiento corticoideo y con metotrexate semanal. Toma ursodesoxicólico con normalización de la fosfatasa alcalina.
-- POSIBLE SÍNDROME ANTIFOSFOLÍPIDO. Dos abortos espontáneos con anticuerpos para SAF negativos.
-- OSTEOPOROSIS CORTICOIDEA, con una fractura de Colles patológica en [**FECHAS**] a raíz del tratamiento corticoideo que requirió colocación de placas. Tratamiento con suplementos de calcio.
-MEDICACIÓN HABITUAL: omeprazol 20 mg/24h, ácmetotrexate 12.5 mg/semana los martes, ursosdesoxicólico 300 mg/8h, ácido fólico posterior, diazepam 5 mg si precisa.

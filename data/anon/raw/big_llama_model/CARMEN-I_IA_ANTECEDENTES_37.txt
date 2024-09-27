@@ -1,5 +1,0 @@
- Antecedentes personales:
-Mujer de [**EDAD_SUJETO_ASISTENCIA**] años, SAMC. No hábitos tóxicos. Independiente para ABVD, vive sola.
-Antecedentes patológicos:
-1. HTA en tto farmacológico.
-Tto actual: enalapril [**NUMERO_TELEFONO**]mg/d, Trankimazin sp.

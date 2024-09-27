@@ -1,7 +1,0 @@
-Mujer de [**EDAD_SUJETO_ASISTENCIA**], trabaja como [**PROFESION**] en la [**INSTITUCION**]. Natural de [**PAIS**], vive en [**TERRITORIO**] con esposo y [**FAMILIARES_SUJETO_ASISTENCIA**]. No alergias medicamentosas ni hábitos tóxicos.
-** ANTECEDENTES PATOLÓGICOS
-1. [**OTROS_SUJETO_ASISTENCIA**] con manejo sintomático.
-2. [**OTROS_SUJETO_ASISTENCIA**] no complicada, en tratamiento abortivo con [**OTROS_SUJETO_ASISTENCIA**] si precisa.
-** ANTECEDENTES QUIRÚRGICOS
-1. [**OTROS_SUJETO_ASISTENCIA**] por [**OTROS_SUJETO_ASISTENCIA**] en [**FECHAS**]
-** MEDICACIÓN HABITUAL [**FECHAS**]: Niega medicación habitual, sólo uso ocasional de [**OTROS_SUJETO_ASISTENCIA**] e [**OTROS_SUJETO_ASISTENCIA**].

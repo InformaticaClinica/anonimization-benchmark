@@ -1,9 +1,0 @@
-Varón de [**EDAD_SUJETO_ASISTENCIA**] independiente para las actividades de vida diaria.
-Tiene ayuda varios días a la semana por una [**OTROS_SUJETO_ASISTENCIA**]. Hasta el momento del ingreso vivía con la [**FAMILIARES_SUJETO_ASISTENCIA**] (tienen [**FAMILIARES_SUJETO_ASISTENCIA**]).
-Sin alergias medicamentosas ni habitos tóxicos.
-* ANTECEDENTES PATOLÓGICOS:
-1. Cardiopatia isquémica. Estable. Realiza tratamiento antiagregante con [**MEDICAMENTO**] y [**MEDICAMENTO**].
-2. Dislipemia. En tratamiento con [**MEDICAMENTO**].
-3. Temblor esencial.
-4. Hiperplasia prostática benigna. En tratamiento con [**MEDICAMENTO**].
-5. Hipertensión ocular. En tratamiento.

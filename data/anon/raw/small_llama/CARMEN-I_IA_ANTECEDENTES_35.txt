@@ -1,5 +1,0 @@
- Hombre de [**EDAD_SUJETO_ASISTENCIA**] años sin alergias a medicamentos conocidas. Exfumador de [**1paq/día**] hasta los [**EDAD_SUJETO_ASISTENCIA**] años sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Jubilado, trabajaba de [**PROFESION**]. Vive en domicilio con su [**OTROS_SUJETO_ASISTENCIA**] y sus [**OTROS_SUJETO_ASISTENCIA**].
-* Antecedentes patológicos:
-- [**FAMILIARES_SUJETO_ASISTENCIA**] de próstata en tratamiento con [**TRATAMIENTO_HABITUAL**].
-INTERVENCIONES QUIRÚRGICAS: [**INTERVENCIONES QUIRÚRGICAS**].
-TRATAMIENTO HABITUAL: [**TRATAMIENTO_HABITUAL**].

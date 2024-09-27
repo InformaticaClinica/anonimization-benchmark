@@ -1,9 +1,0 @@
- Varón de [**EDAD_SUJETO_ASISTENCIA**], sin alergias medicamentosas conocidas. No hábitos tóxicos. Vive en [**TERRITORIO**] con su marido y un hijo (tiene 2 yernos, abuelo vive fuera de [**TERRITORIO**]). IABVD. Autónomo, actualmente preocupado por situación laboral (realizaba trabajo como [**PROFESION**]).
-* ANTECEDENTES FAMILIARES: No refiere.
-* ANTECEDENTES PATOLÓGICOS:
-1.- DISLIPEMIA en tratamiento con Atorvastatina.
-2.- HERNIA DE HIATO diagnosticada hace años. Desde hace aproximádamente un mes ([**FECHAS**]), refiere comienzo de Omeprazol cada día por dolor epigástrico que ha aumentado en frecuencia.
-3.- DOLOR TORÁCICO EN ESTUDIO. Desde hace aproximádamente un año ([**FECHAS**]) refiere inicio de dolor torácico punzante de forma intermitente, no relacionado con esfuerzo, sin cortejo vegetativo ni disnea, no irradiado y que no empeora con los movimientos respiratorios aunque sí se modifica con los cambios posturales. Respuesta parcial a AINEs (Naproxeno), no se modifica con el Omeprazol. Se ha realizado estudio mediante ECGs previos y Radiografía de tórax donde no se han evidenciado alteraciones. No tiene prueba de esfuerzo ni estudio Holter o ecocardiograma.
-4.- TRASTORNO ANSIOSO-DEPRESIVO en tratamiento con Alprazolam a demanda (2 comprimidos al día aproximádamente) por situación laboral actual en contexto de pandemia de Covid-19.
-* ANTECEDENTES QUIRÚRGICOS: No refiere.
-* MEDICACIÓN HABITUAL (actualizada a fecha de [**FECHAS**]): Omeprazol 20 mg/24h, Atorvastatina 40 mg/24 horas.
