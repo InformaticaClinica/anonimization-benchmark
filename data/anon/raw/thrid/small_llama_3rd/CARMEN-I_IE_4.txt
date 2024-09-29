@@ -1,0 +1,37 @@
+ NEUMONÍA INTERSTICIAL BILATERAL POR FAMILIARES_SUJETO_ASISTENCIA
+
+
+## DIAG
+INFECCIÓN URINARIA
+
+
+## DIAG
+PANCREATITIS CRÓNICA
+
+
+## DIAG
+DESNUTRICIÓN CALÓRICO-PROTEICA
+
+
+## DIAG
+ALTERACIONES HIDROELECTROLÍTICAS
+
+
+## CAUSA
+
+Causa de muerte inmediata: Shock séptico de origen urinario Causa de muerte intermedia: Neumonía intersticial por FAMILIARES_SUJETO_ASISTENCIA Causa de muerte subyacente: Pancreatitis crónica, desnutrición calórico- proteica
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con Antecedentes patológicos relevantes de HTA, DM2 (OTROS_SUJETO_ASISTENCIA), Ca escamosos de cuero cabelludo infiltrante, HBP, OTROS_SUJETO_ASISTENCIA PNP S-MenttoconB1-B6-B12.
+Ingresado actualmente por los siguientes problemas clínicos
+1. NEUMONÍA INTERSTICIAL FAMILIARES_SUJETO_ASISTENCIA (inicio de síntomas 21/04/17; frotis positivo 29/04/17). Realizó tratamiento con azitromicina e hidroxicloroquina (este último incompleto por efecto adverso).
+2. DIARREA DE CAUSA FARMACOLÓGICA
+3. ÚLCERA SACRA.
+4. DESNUTRICIÓN PROTEICO-CALÓRICA.
+5. TENDENCIA A FRACASO RENAL CON DESHIDRATACION HIPERNATREMIA
+Durante el ingreso el paciente presenta infección urinaria por OTROS_SUJETO_ASISTENCIA (urocultivo), por lo que se instaura tratamiento con piperacilina-tazobactam, sin respuesta a la misma. Durante las últimas 24 horas el paciente presenta empeoramiento del estado clínico, con hipotensión mantenida y aumento del trabajo respiratorio, taquipneico, con livideces en extremidades inferiores, corazon hiperdinámico y vena cava colapsada con inspiración. Se instaura tratamiento con sueroterapia y aumento del soporte ventilatorio, al que el paciente no responde.
+De acuerdo al criterio médico previamente establecido, y con la familia próxima, se limita el esfuerzo terapéutico más allá del descrito anteriormente, siendo el paciente Exitus Laetalis el 14.05.2017 a las 22:30 horas.
+ 
+
+
+## OBSER
+
+Se informa a los familiares del Exitus.

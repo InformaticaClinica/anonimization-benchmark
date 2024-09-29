@@ -1,0 +1,23 @@
+ En seguimiento por Neumología [**Sala de Neumología**], continua con dialisis intermitente, se realizó FGS por melenas con hallazgo de úlcera duodenal tratada con Clip. Se ha mantenido hemodinamicamente estable, presencia de drenaje derecho con fuga continúa.
+Se solicita nueva TC de control.
+NEUMONÍA BILATERAL POR [**SARS-COV-2**]
+
+protocolo:
+TC de tórax sin contraste [**EV**]
+
+resultados:
+Se compara con TC previo de [**5/10/2021**].
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Disminución de tamaño de ganglios mediastínicos subcarinales, reactivos.
+Disminución del moderado hidroneumotórax derecho con disminución del contenido heterogéneo en su interior. Tubo de drenaje pleural derecho con entrada en el 6º espacio intercostal lateral y extremo distal de localización posterior en el interior del contenido pleural. Discreto derrame pleural izquierdo.
+Mejoría radiológica de la afectación parenquimatosa bilateral con marcada disminución de las opacidades en vidrio deslustrado peribroncovacsulares bilaterales, persistiendo opacidades lineales de distribución perilobular asociado a bronquioloectasias, en relación a cambios organizativos en evolución.
+Lesiones cavitadas de aspecto residual en el segmento anterior del [**LSD**] y posterobasal del [**LII**] con disminución del engrosamiento de sus paredes.
+Atelectasias subsegmentarias posterobasales en el [**LID**] y segmento posterior del [**LSD**].
+Ausencia de líquido libre intraabdominal en los cortes de [**abdomen superior**].
+
+conclusiones:
+Mejoría radiológica respecto al TC previo de [**5/10/2021**].
+Disminución del moderado hidroneumotórax derecho con disminución del contenido heterogéneo en su interior. Marcada disminución de las opacidades en vidrio deslustrado peribroncovacsulares bilaterales con presencia de cambios organizativos bilaterales en evolución.
+Lesiones cavitadas en el [**LSD**] y [**LII**] con disminución del engrosamiento de sus paredes.
+
+descrip:
+[**TC TORAX**]

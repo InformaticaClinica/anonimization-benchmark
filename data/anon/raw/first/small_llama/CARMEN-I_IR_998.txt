@@ -1,0 +1,21 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Pacient de [**82 anys**] ingressada per pneumònia bilateral Covid-19 i TEP.
+Presenta alteració de perfil hepàtic amb transaminases de 150-200 i GGT de 600 no present a analítica de divendres 16/01. No dolor abdominal, no icterícia, no nous fàrmacs. Interessa descartar patologia aguda a aquest nivell. Gràcies!!
+Nuemonia Bilateral COVID.
+
+protocolo:
+Ecografía abdominal basal
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar poco distendida.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Quistes cortico-sinusales bilaterales.
+No líquido libre intra-abdominal
+
+descrip:
+ECO BASAL (ABDOMEN)

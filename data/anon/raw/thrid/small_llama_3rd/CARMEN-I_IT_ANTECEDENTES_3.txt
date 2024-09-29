@@ -1,0 +1,12 @@
+ Antecedentes personales:
+Hombre de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas ni hábitos tóxicos. Residente en TERRITORIO. Independiente para las actividades básicas de la vida diaria.
+*Antecedentes patológicos:
+1. HIPERTENSIÓN ARTERIAL ESENCIAL en tratamiento con un OTROS_SUJETO_ASISTENCIA. Realiza controles tensionales en domicilio cada 2 semanas, con cifras tensionales correctas. No refiere afectación micro ni mascrovascular.
+*Antecedentes quirúrgicos:
+1. OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA en INSTITUCION (4/2005).
+2. Colecistectomía laparoscópica por OTROS_SUJETO_ASISTENCIA (11/2005).
+3. Herniorrafia umbilical.
+4. Litiasis ureteral derecha. Realizaron tratamiento con OTROS_SUJETO_ASISTENCIA mayo y julio 2009 sin expulsión de restos. Posteriormente OTROS_SUJETO_ASISTENCIA el 10/2009, sin incidencias.
+**Ecografía reno-vesico-prostática (12/2008): Riñones con situación, tamaño y ecoestructura conservados. Litiasis en grupo calicilar superior de TERRITORIO de 6 mm. Leve ectasia pielocalicilar derecha sin evidencia de una causa obstructiva. No se aprecian imágenes de hidronefrosis. Vejiga urinaria distendida con paredes lisas. Ausencia de lesiones endocavitarias. Glándula prostática de 21 g de peso.
+5. Dacriocistorrinostomía bilateral.
+*Medicación habitual (Registro de farmacia 9/07/2013): OTROS_SUJETO_ASISTENCIA 20 mg/24 h.

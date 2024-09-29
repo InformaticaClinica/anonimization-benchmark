@@ -1,0 +1,21 @@
+ TC TORAX
+
+clinica:
+Home de EDAD_SUJETO_ASISTENCIA ingressat per COVID-19 que va requerir ingrés a UCI per OTROS_SUJETO_ASISTENCIA, no intubat. Actualment a dia FECHAS de símptomes, presenta infiltrats OTROS_SUJETO_ASISTENCIA. Sol·licitem TAC per descartar pneumònia organitzativa, gràcies.
+NEUMONÍA BILATERAL POR OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+TC de tórax sin contraste OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Catéter venoso yugular izquierdo con extremos distal en OTROS_SUJETO_ASISTENCIA.
+Ausencia de derrame pleural.
+Extensas opacidades en vidrio deslustrado parcheadas, peribroncovasculares y periféricas, asociado a tenues bandas parenquimatosas periféricas, de predominio OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, todo ello en relación a neumonía por OTROS_SUJETO_ASISTENCIA, de extensión OTROS_SUJETO_ASISTENCIA, con mínimos cambios organizativos.
+Múltiples granulomas calcificados en el OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Neumonía bilateral por OTROS_SUJETO_ASISTENCIA, de extensión OTROS_SUJETO_ASISTENCIA, con mínimos cambios organizativos de predominio OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+INSTITUCION

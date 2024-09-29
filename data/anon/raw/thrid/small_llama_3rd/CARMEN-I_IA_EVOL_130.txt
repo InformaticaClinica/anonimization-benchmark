@@ -1,0 +1,25 @@
+ *-*
+::: INFECCIONES:::
+1. NEUMONÍA BILATERAL COVID-19
+*Inicio síntomas: FECHAS
+*Diagnostico: PCR+ FECHAS (no tenemos Ct), PCR+ FECHAS con Ct 18; PCR FECHAS (Ct 31-33);
+*Vacunado: sí (x2) - Serologías POSITIVAS
+*Tratamiento: Remdesivir (FECHAS-FECHAS), Teicoplanina (FECHAS-FECHAS), Plasma (FECHAS)
+2. PROBABLE SOBREINFECCION BACTERIANA --> Ceftriaxona (FECHAS)
+3. SINDROME FEBRIL --> Inflamatorio? ? Secundario a NOC?
+4. LINFOMA FOLICULAR  en RC x4 Rituximab (ultima FECHAS -
+1,2. Paciente con los antecedentes comentados: Linfoma folicular en respuesta completa según ultimo PET-TC realizado el FECHAS.
+Ingresa por fiebre y tos con expectoración herrumbrosa.
+Desde su llegada se mantiene en aire ambiente, sin sensación de disnea; saturaciones entre 95-97% y sin hipoxemia con el esfuerzo. Excelente estado general.
+Persiste con tos productiva, que ha ido disminuyendo durante su estadía, moviliza secreciones con esputo herrumbroso.
+Febril los primeros 2 días; (FECHAS) y defervescencia posterior aunque se mantiene con registros subfebriles diarios (V. Punto 3).
+A nivel analítico presenta inicialmente aumento de PCR (hasta FECHAS), sin franca elevación del resto de parámetros inflamatorios, y leve elevación de procalcitonina. Por lo tanto, aparte del tratamiento antiviral, recibe tratamiento antibiótico ante la sospecha de sobre infección bacteriana, manteniendo conducta expectante ante el tratamiento antinflamatorio con tocilizumb.
+Microbiología con Ag?s urinarios, hemocultivos y esputo negativos. Por lo que cumple empíricamente 10 días con ceftriaxona.
+Radiologicamente se observa infiltrados periféricos bilaterales, a predominio de campo medio izquierdo.
+Recibe tratamiento antiviral con plasma, teicoplanina y remdesivir según prolotocolo hospitalario de pacientes hematológicos, sin incidencias y con buena respuesta viral (Ct 31-33) por lo que suspendemos remdesivir.
+Dado que tiene serologías POSITIVAS no administramos anticuerpo monoclonal.
+3. Desde el ingreso tiene registros subfebriles diarios (max FECHAS), predominantemente vespertinos (luego de las FECHAS), sin repercusión sistémica, sin escalofríos, sin signo clínico de otro foco infeccioso además de la tos que tiene desde su llegada y un episodio aislado de flebitis en antebrazo derecho que resuelve en 48 hs luego de el cambio de lugar del acceso venoso. Solicitamos PCR?s virales en plasma y cultivos micobacterias para descartar otras etiologías como causa de la fiebre.
+Al momento del alta tiene analítica con elevación de PCR (hasta 12), sin embargo sin empeoramiento clinico ni foco de infección activo.
+Dada la sospecha de origen inflamatorio (neumonía organizativa) solicitamos TAC de tórax que informa la presencia de cambios organizativos incipientes, por lo que inicia corticoterapia por diagnostico de NOC.
+4. Tiene ultimo PET días previos al ingreso con respuesta completa, en TAC realizado FECHAS no se visualizan adenopatías mediastínicas.
+Continuara seguimiento con heamtologia

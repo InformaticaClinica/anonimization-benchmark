@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+NEUMONIA COVID 19 Y VIH
+
+protocolo:
+RX de tórax portátil
+
+conclusiones:
+Opacidades alveolo-intersticiales periféricas y bilaterales que afectan de manera simétrica a campos superior, medio e inferior de ambos pulmones y que han aumentado en extensión de forma significativa respecto a RX previa del FECHAS (dónde sólo se identificaban algunas pequeñas opacidades periféricas muy sutiles). No identifico consolidaciones parenquimatosas ni otros hallazgos relevantes.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

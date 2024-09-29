@@ -1,0 +1,16 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+POSIBLE FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX tòrax anteroposterior portàtil.
+
+conclusiones:
+L´exploració es compara amb la realitzada el FECHAS.
+Persisteixen canvis fibrotics pleuropulmonars biapicals, sense canvis.
+Asimetria de densitat de parènquima pulmonar per mastectomia dreta i placa rotada.
+No evidenciem opacitats pulmonars suggestives de FAMILIARES_SUJETO_ASISTENCIA ni canvis respecte estudi previ.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

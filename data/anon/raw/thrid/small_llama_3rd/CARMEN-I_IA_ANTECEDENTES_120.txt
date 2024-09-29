@@ -1,0 +1,24 @@
+ ANTECEDENTES PERSONALES:
+Paciente de EDAD_SUJETO_ASISTENCIA, alérgico a la OTROS_SUJETO_ASISTENCIA, fumador y enolismo crónico hasta los EDAD_SUJETO_ASISTENCIA con dosis acumulada de más de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Vive en una INSTITUCION. Hermano como único FAMILIARES_SUJETO_ASISTENCIA.
+Parcialmente dependiente para las OTROS_SUJETO_ASISTENCIA. Barthel EDAD_SUJETO_ASISTENCIA.
+* ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2. CARDIOPATÍA VALVULAR POR ESTENOSIS AÓRTICA MODERADA-GRAVE objetivada por ecocardiograma en mayo del FECHAS. No ha presentado descompensaciones.
+3. NEOPLASIA VESICAL de tipo CARCINOMA PAPILAR DE BAJO GRADO diagnosticado en FECHAS sin evidencia de extensión a distancia y con múltiples resecciones transuretrales por recidiva (última en septiembre de FECHAS).
+- PERFORACIÓN VESICAL CON URINOMA PREVESICAL CONTENIDO en el que se implantó drenaje con retirada posterior por parte del paciente. En control radiológico en diciembre de FECHAS, persistendia de leve fuga en mucha menor cantidad que en estudios previos.
+4. INSUFICIENCIA RENAL CRÓNICA estadio V en hemodiálisis (Ma-Ju-Sa) a través de PTFE en extremidad superior izquierda.
+5. TRASTORNO POR USO DE ALCOHOL con ingresó en 2014 para deshabituación.
+6. EMPIEMA PLEURAL IZQUIERDO en agosto de 2008 que requirió toracotomía y desbridamiento pleural.
+7. ANEMIA MACROCÍTICA CRÓNICA en tratamiento con PROFESION y PROFESION.
+8. BACTERIEMIA POR GEMELLA HAEMOLYSANS DE PROBABLE FOCO ORAL (boca séptica) evidenciada en mayo del FECHAS. Ecocardiograma sin vegetaciones y PET-TAC con lesión en L3 sugestiva de patología no crónica (no sospecha de espondilodiscitis). Durante el ingreso además, presenta infección urinaria por OTROS_SUJETO_ASISTENCIA.
+9. BACTERIEMIA POR PSEUDOMONAS AERUGINOSA en julio del FECHAS. En PET de agosto del FECHAS se evidencia capatación de FAVI izquierda y probable lesión neoplásica en recto con metástasis pulmonares.
+10. ADENOCARCINOMA DE RECTO diagnosticado en FECHAS tras evidencia de lesión rectal en PET y biopsia mediante fibrocolonoscopia. Sin tratamiento oncoespecífico por el momento.
+11. PATOLOGÍA VERTEBRAL L1 CON ESTENOSIS RAQUIDEO L4-5.
+- RMN FECHAS: Imagen de antigua fractura aplastamiento con deformación ecnu ña de L1, sin alteración de señal que sugiera fractura subaguda.
+Excluir osteoporosis vertebral, por densitometria ósea . Canal raquídeo hasta L4-L5 de características normales. Leves signos de degeneración y protrusión global L1-L2. Imagen de estenosis adquirida del canal raquídeo lumbar a la altura del espacio discal L4-L5 secundaria artrosis interapofisaria hipertrófica, con engrosamiento de ligamentos amarillos y quiste sinovial Izdo., asociado a protrusión global de predominio mediolateral izquierda, que condiciona estenosis concéntrica del saco dural a dicho nivel. No se detectan alteraciones discales significativas L5-S1. Moderada artrosis interapofisaria hipertrófica L5-S1. No se evidencian imágenes sugestivas de espondilodiscitis lumbar. No se detectan cambios significativos en comparación con estudio de RM lumbar previo del FECHAS. Visualización marginal de divertículos vesicales en las secciones sagitales.
+* MEDICACIÓN HABITUAL actualizado el FECHAS:
+- PROFESION 600mg/8h
+- Hierro oral 1 comprimido/24h
+- PROFESION 10mg/24h
+- PROFESION 10mg/24h
+- PROFESION 50mg/24h.

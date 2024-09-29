@@ -1,0 +1,21 @@
+ En seguimiento por Hematología [**TC TORÁCICO**]: SIN CONTRASTE
+
+resultados:
+Se compara con TC previo del [**16/01/2021**]:
+Aumento de tamaño de las adenopatías mediastínicas paratraqueales derechas altas y bajas y subcarinales, probablemente reactivas.
+Aumento de diámetro de la arteria aorta torácica ascendente de [**44 mm de diámetro**]. Calcificaciones aórticas y de arterias coronarias.
+Catéter yugular derecho con extremo en vena cava superior.
+No se observa derrame ni pericárdico.
+Aumento de cuantía del derrame pleural bilateral, de moderada cantidad derecho y mínimo izquierdo. Se observa una burbuja de gas en el seno del derrame pleural derecho ([**antecedente de toracocentesis?**]).
+Bronquiectasias cilíndricas difusas.
+Aparición de extensa consolidación parenquimatosa con broncograma aéreo en el segmento posterior del [**LSD**] asociado a opacidades en vidrio deslustrado difusas con patrón "en empedrado" de localización apical.
+Aparición de focos consolidativos y en vidrio deslustrado bilaterales, algunos de morfología nodular, destacando consolidación nodular con broncograma aéreo en el segmento apical del [**LII**] y otros pequeños focos consolidativos peribronquiales en el [**LM**] y en la [**língula**]. Estas consolidaciones se acompañan de múltiples nodulos centrolobulillares.
+algunos en árbol en brote de pequeño tamaño agrupados, asociados a engrosamientos bronquiales, sugieriendo bronquiolitis infecciosa.
+Los hallazgos descritos son compatibles con proceso infeccioso con marcado empeoramiento radiológico respecto al estudio anterior ([**16/01/2021**]). Encontramos hallazgos que sugieren origen bacteriano con componente de bronquiolitis infecciosa y otros que no permiten descartar [**COVID**] (patrón TC probable); pudiendo coexistir ambas etiologías. Los hallazgos descritos obligan a descartar infección [**COVID-19**].
+
+conclusiones:
+Empeoramiento radiológico respecto a TC previo del [**16/01/2021**] de las características descritas, compatibles con proceso infeccioso. Presenta hallazgos que sugieren origen bacteriano con componente de bronquiolitis infecciosa y otros que no permiten descartar [**COVID**] (patrón TC probable), pudiendo coexistir ambas etiologías. Los hallazgos descritos obligan a descartar infección [**COVID-19**].
+Aumento de tamaño de las adenopatías mediastínicas, probablemente reactivas y del derrame pleural bilateral.
+
+descrip:
+[**TC TORÁCICO**]

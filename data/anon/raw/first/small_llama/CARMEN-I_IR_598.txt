@@ -1,0 +1,27 @@
+ PET TC COS SENCER [**FDG**]
+
+clinica:
+Pacietne portador [**marcapasos**] desde 2006. Recambio reciente de generador (13 de [**marzo**]). Sospecha de infección [**bolsa marcapasos**] por enrojecimiento y tumefacción de la [**bolsa**].
+Solicito PET-TC para completar estudio.
+
+protocolo:
+Radiofármaco: [**Fluorodesoxiglucosa-F18**] ( [**FDG**] ).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 8.14 mCi de [**FDG**].
+Glucemia en el momento de la inyección de [**FDG**]: 91 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de [**FDG**] (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Estudio PET/TC que muestra intensa captación patológica de [**FDG**] (SUVmáx: 10.49) en el [**bolsillo del marcapasos**], compatible con la sospecha de proceso infeccioso activo en esta localización.
+Intenso aumento de captación focal (SUVmáx: 4.68) en el trayecto intravascular del [**cable del marcapasos**] en región de vena cava superior.
+Este hallazgo podría explicarse en relación a actividad inflamatoria, no obstante aconsejamos con control evolutivo. No se aprecian otros depósitos patológicos de [**FDG**] en el resto del [**cable**].
+Refuerzo de captación de discreta intensidad y límites mal definidos (SUVmáx: 1.84) que en las imágenes del TC coinciden con áreas en vidrio deslustrado del parénquima pulmonar del [**LSD**] en probable relación con proceso inflamatorio/infeccioso.
+Aumento de captación difuso en el parénquima esplénico que interpretamos como de probable carácter reactiva.
+Refuerzo de captación focal en ambos trocánteres femorales en probable relación a entesopatía inflamatoria.
+En el resto de los sectores corporales estudiados no se aprecian otros depósitos patológicos del radiofármaco ni hallazgos sugestivos de émbolos sépticos.
+
+conclusiones:
+Estudio PET/TC compatible con la sospecha de proceso infeccioso activo en el [**bolsillo del marcapasos**]. Captación focal en el trayecto intravascular del [**cable del marcapasos**]. Probable proceso inflamatorio/infeccioso pulmonar derecho (Ver resultados).
+
+descrip:
+PET TC COS SENCER [**FDG**]

@@ -1,0 +1,1 @@
+ Paciente OTROS_SUJETO_ASISTENCIA el día FECHAS. Refiere fiebre de FECHAS de evolución con picos de OTROS_SUJETO_ASISTENCIA que no cede con antitérmicos. Desde el día FECHAS inicia clínica de tos con expectoración de mucosidad verdosa por el que visitó al INSTITUCION el día FECHAS y le realizaron placa de tórax en el que se observaba radiopacidad en campo medio izquierdo.

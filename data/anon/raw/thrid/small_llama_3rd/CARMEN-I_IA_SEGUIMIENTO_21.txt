@@ -1,0 +1,3 @@
+ Se explican signos de alarma ante los cuales la paciente debería reconsultar a OTROS_SUJETO_ASISTENCIA: fiebre >37,8oC que no cede con OTROS_SUJETO_ASISTENCIA, malestar general intenso, sensación de OTROS_SUJETO_ASISTENCIA, dolor en el OTROS_SUJETO_ASISTENCIA, tos intensa que no cede.
+Acudir a control por su OTROS_SUJETO_ASISTENCIA en 1 FAMILIARES_SUJETO_ASISTENCIA.
+NO reincorporarse a trabajar hasta el FECHAS (ya que es PROFESION).

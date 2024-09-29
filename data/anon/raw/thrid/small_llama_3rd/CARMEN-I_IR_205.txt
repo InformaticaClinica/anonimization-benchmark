@@ -1,0 +1,17 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+NEUMONÍA BILATERAL por PROBABLE COVID-19
+
+protocolo:
+Rx de tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el FECHAS.
+Franca milloria radiològica d'opacitats pulmonars respecte d'estudi previ.
+
+conclusiones:
+Franca milloria radiológica de possible OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

@@ -1,0 +1,26 @@
+ TC CEREBRAL
+
+clinica:
+TCE
+ADK DE PULMON
+
+protocolo:
+TC CEREBRAL URGENTE en condiciones basales y tras la administración de contraste ev.
+
+resultados:
+Se compara con RM previa del FECHAS:
+No se observan signos de sangrado intra o extraaxial.
+No se observan captaciones patológicas de contraste ev.
+Macada hipodensidad de la sustancia blanca supratentorial sugestivo de OTROS_SUJETO_ASISTENCIA, hallazgos estables respecto a estudios previos y que podría estar relación a cambios postratamiento.
+Disminución global del volumen encefálico que condiciona leve dilatación del sistema ventricular, estable.
+Estructuras de la línea media centradas. Cisternas basales no ocupadas.
+Ocupación mucosa parcial de las OTROS_SUJETO_ASISTENCIA y ambos OTROS_SUJETO_ASISTENCIA.
+No se observan trazos de fractura ni lesiones óseas sospechosas.
+
+conclusiones:
+No se observa sangrado intra ni extraaxial.
+No se observan lesiones sospechosas en el estudio basal ni tras la administración de contraste ev.
+Resto del estudio estable respecto RM previa del FECHAS.
+
+descrip:
+TC CEREBRAL

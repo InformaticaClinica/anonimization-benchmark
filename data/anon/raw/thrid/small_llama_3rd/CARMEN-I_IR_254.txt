@@ -1,0 +1,20 @@
+ RX  OTROS_SUJETO_ASISTENCIA  TORAX
+
+clinica:
+sábado EDAD_SUJETO_ASISTENCIA  Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX DE HOSPITAL OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+HALLAZGOS:
+Opacidades: SI
+Patrón intersticial: No
+Distribución  Periférica
+Campos pulmonares: Pulmón derecho: superior
+Consolidación periférica en LSD. Sin otros hallazgos en parénquima pulmonar.
+EVOLUCION: Estabilidad respecto a RX previa del FECHAS (2d).
+CONCLUSION: Afectación pulmonar por OTROS_SUJETO_ASISTENCIA (PCR+). Sólo se identifica una consolidación periférica en LSD, estable respecto a RX previa de hace FECHAS.
+
+descrip:
+RX  OTROS_SUJETO_ASISTENCIA  TORAX

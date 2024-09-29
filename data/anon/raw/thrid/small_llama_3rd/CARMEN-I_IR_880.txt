@@ -1,0 +1,25 @@
+ En seguimiento por Hematología OTROS_SUJETO_ASISTENCIA. Ingressa per neumonia bilateral per FECHAS que requereix FECHAS, a les 48 hores autoextubació, posteriorment evoluciona tórpidament amb augment d'infiltrats bilaterals en rx de tórax. Solicito tc per valoració de parenquima pulmonar
+SOSPECHA SOBREINFECCIÓN EN PACIENTE INMUNODEPRIMID
+
+protocolo:
+TC DE TÓRAX DE ALTA RESOLUCIÓN
+
+resultados:
+Se compara con estudios previos, última TC del FECHAS.
+Cambios posquirúrgicos en relación a sustitución valvular mecánica aórtica y mitral. Cerclaje esternal.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Ateromatosis calcificada en arco aórtico, coronarias, aorta descendente y tronco celíaco y sus ramas.
+Respecto a estudio previo, destaca mayor afectación pulmonar en forma de opacidades en vidrio deslutrado bilaterales y multilobares, de predominio basal, asociados a múltiples zonas de engrosamientos septales ("crazy paving"). Asocia varias bandas parenquimatosas perilobulares, mayores focos consolidativos en segmentos póstero-basales de ambos LLII, patrón de halo invertido en ambas bases pulmonares y dilataciones bronquiales bibasales. Hallazgos en relación a neumonía bilateral por COVID-19 con signos incipientes de organización. Llama la atención la atención de un foco consolidativo en el segmento posterior del lóbulo superior en una área previamente no afecta y que podría sugerir una sobreinfección bacteriana.
+Atelectasias subpleurales y laminares bibasales, sin cambios.
+Aparición de derrame pleural derecho y aumento del derrame pleural izquierdo. Ausencia de derrame pericárdico.
+Calcificaciones hepáticas puntiformes, probable granulomas calcificados.
+Esplenomegalia homogénea con calcificaciones en su interior. Riñones nativos atróficos.
+Vía central con extremo distal en VCS.
+
+conclusiones:
+Respecto a estudio previo destaca:
+- Mayor compromiso parenquimatoso pulmonar por COVID-19.
+- Foco de nueva aparición en el segmento posterior del lóbulo superior derecho que podría corresponder a una sobreinfección bacteriana.
+- Aparición de derrame pleural derecho y aumento del derrame pleural izquierdo con extensión a cisuras mayores.
+
+descrip:
+TC TORAX

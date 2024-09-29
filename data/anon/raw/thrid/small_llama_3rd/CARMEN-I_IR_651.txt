@@ -1,0 +1,23 @@
+ ECO RENO-VESICAL
+
+clinica:
+Mujer EDAD_SUJETO_ASISTENCIA con AP OTROS_SUJETO_ASISTENCIA y reciente ingreso por intento autolisis (precipitación). Reingreso actualmente por OTROS_SUJETO_ASISTENCIA, persiste FECHAS y con OTROS_SUJETO_ASISTENCIA tras 5 días tto amplio espectro.
+Interesa descartar patología obstructiva. Gracias!
+
+protocolo:
+Ecografía abdominal urgente.
+
+resultados:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar colapsada, sin litiasis valorables. Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. No litiasis valorables.
+Vejiga urinaria con sonda en su interior, no valorable.
+No líquido libre intra-abdominal.
+
+conclusiones:
+Riñones sin alteraciones valorables y sin dilatación de la vía excretora.
+
+descrip:
+ECO RENO-VESICAL

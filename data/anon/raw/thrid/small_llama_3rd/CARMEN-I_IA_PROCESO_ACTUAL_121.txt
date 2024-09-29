@@ -1,0 +1,1 @@
+ Paciente que se realiza PCR para SARS-CoV-2 que resulta positiva el FECHAS por contacto con su OTROS_SUJETO_ASISTENCIA que estuvo ingresada en nuestro INSTITUCION, también positiva. El FECHAS inicia cuadro de disnea y afectación del estado general por lo que acude a HOSPITAL el FECHAS.

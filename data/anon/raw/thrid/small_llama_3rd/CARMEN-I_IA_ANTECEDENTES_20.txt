@@ -1,0 +1,10 @@
+ Antecedentes personales:
+         EDAD_SUJETO_ASISTENCIA, autónomo para actividades básicas. Natural de PAIS. Vive en TERRITORIO.
+         1) DM2 de hace >20 años de evolución actualmente con OTROS_SUJETO_ASISTENCIA.
+         2) HTA en tratamiento médico.
+         3) ACxFA en tto anticoagulante (OTROS_SUJETO_ASISTENCIA) y OTROS_SUJETO_ASISTENCIA.
+         4) Hipotiroidismo en tratamiento médico.
+         5) OTROS_SUJETO_ASISTENCIA
+         6) OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA hace FECHAS
+         7) Nefrectomía radical derecha FECHAS por carcinoma de células claras.
+         Actualmente en seguimiento por PROFESION. Sin tratamiento oncoespecífico. Existencia de dos OTROS_SUJETO_ASISTENCIA estables según pruebas de imágen de control.

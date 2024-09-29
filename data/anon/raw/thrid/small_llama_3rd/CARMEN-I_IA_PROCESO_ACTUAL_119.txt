@@ -1,0 +1,12 @@
+ DATOS DEL VIAJE
+Viaje a PAIS en octubre de FECHAS, zona continental, a visitar a FAMILIARES_SUJETO_ASISTENCIA (zona rural) desde el FECHAS - FECHAS.Durante su estancia, ha vivido en casa de sus FAMILIARES_SUJETO_ASISTENCIA, ha tomado comida local y agua no embotellada, corriente, del TERRITORIO.
+Abundantes picaduras de OTROS_SUJETO_ASISTENCIA, tanto durante el día, como durante la noche (si bien de éstas ha sido menos consciente, desconocemos si picaduras de OTROS_SUJETO_ASISTENCIA) .No ha realizado quimioprofilaxis de OTROS_SUJETO_ASISTENCIA, no ha utilizado OTROS_SUJETO_ASISTENCIA ni OTROS_SUJETO_ASISTENCIA. No contacto con OTROS_SUJETO_ASISTENCIA domésticos ni de granja. No contacto con OTROS_SUJETO_ASISTENCIA sugestivas de sufrir la enfermedad de OTROS_SUJETO_ASISTENCIA. No visitas a INSTITUCION ni INSTITUCION. Baños en TERRITORIO de agua dulce.
+ENFERMEDAD ACTUAL
+Paciente en seguimiento en consultas tras ingreso por ENFERMEDAD en noviembre de FECHAS.
+En visita de seguimiento el 12/02 (RMJCAB80L), la paciente explica prurito de unas dos semanas de evolución, por lo que ha acudido a INSTITUCION donde se ha prescrito OTROS_SUJETO_ASISTENCIA.
+Se revisan análíticas, objetivando en análíticas durante ingreso con eosinofilia relativa entre 6-8% con contaje manual inferior a 500, pero que en análítica del FECHAS pasa a ser de 1400 (15%).
+No se objetivan lesiones cutáneas.
+Se decide cursar nueva analítica con serologías OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y microfilarias en sangre.Se añade OTROS_SUJETO_ASISTENCIA al tratamiento para control del prurito.
+Avisa microbiología por presencia de microfilarias en sangre (OTROS_SUJETO_ASISTENCIA).
+La paciente presenta persistencia de prurito generalizado, así como prurito y sensación de cuerpo extraño ocular bilateral, de predominio izquierdo.
+Se comenta el caso en sesión y se decide ingreso y tratamiento con Albendazol, seguido de ivermectina.

@@ -1,0 +1,14 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+Control EC-NFECCION RESPIRATORIA POR SARS-CoV2. NEUMONIA COV
+
+protocolo:
+RX tórax portátil.
+Se compara con la RX previa del FECHAS
+
+conclusiones:
+Persisten sin modificación significativa los pequeños y tenues focos consolidativos bilaterales.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

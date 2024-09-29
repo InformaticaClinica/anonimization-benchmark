@@ -1,0 +1,30 @@
+ En seguimiento por Hematología [**TC TORAX**]
+
+clinica:
+Hombre de [**59 años**], DM tipo 2. Ingresa en [**AVI**] por insuficiencia respriatoria pro COVID. Evolución tórpida que empeora tras la retirad de [**dexametasona**]. Interesa TC de tórax para descartar neumonía organizativa.
+Gracias.
+[**NEUMONÍA INTERSTICIAL BILATERAL POR SARS-COV2**]
+
+protocolo:
+TC de tórax sin contraste [**EV**]
+
+resultados:
+Se compara con angio-TC pulmonar previo de [**23/11/2016**].
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Disminución de tamaño de los ganglios mediastínicos infracentimétricos, probablemente reactivos.
+No se observa derrame pleural ni pericárdico.
+Tronco de la arteria pulmonar de calibre conservado.
+Comparativamente con el TC previo se observa la aparición de extensos focos consolidativos peribroncovasculares asociado a dilatación y distorsión bronquial, de distribución perilobular, de predominio en [**LLII**] y en segmentos posteriores de [**LLSS**], todo ello sugestivo de neumonía organizativa secundaria a la neumonía bilateral por [**COVID-19**] conocida.
+Disminución de las tenues opacidades parcheadas en vidrio deslustrado peribronquiales de distribución bilateral, de predominio en [**LLSS**].
+No se observan imágenes que sugieran sobreinfección en el estudio actual.
+Vía venosa central yugular izquierda con extremo distal en [**VCS**].
+Leve [**bocio multinodular**] a expensas del lóbulo tiroideo izquierdo.
+Pequeña [**hernia de hiato**].
+Cambios degenerativos en [**columna torácica**].
+
+conclusiones:
+Aparición de extensos focos consolidativos de las características descritas con morfología de neumonía organizativa de predominio en [**LLII**] y segmentos posteriores de [**LLSS**]. Disminución de las tenues opacidades parcheadas en vidrio deslustrado bilaterales, de predominio en [**LLSS**].
+Hallazgos en relación a la neumonía por [**COVID-19**] conocida.
+No se observan imágenes que sugieran sobreinfección en el estudio actual.
+
+descrip:
+[**TC TORAX**]

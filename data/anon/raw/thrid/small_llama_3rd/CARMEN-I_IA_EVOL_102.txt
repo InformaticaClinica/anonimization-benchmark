@@ -1,0 +1,15 @@
+ *INGRESO en sala de Infecciosas HOSPITAL*
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con AP: HTA, dislipemia, ERCT > HD L-X-V, HBP. Ingresa por:
+- COVID-19: Neumonía intersticial bilateral por OTROS_SUJETO_ASISTENCIA
+- Cambios fibróticos residuales por COVID.
+- Sobreinfección bacteriana por OTROS_SUJETO_ASISTENCIA.
+- Hipoxemia secundaria.
+- Anemia crónica con déficit de vitamina D y ácido fólico.
+- ERCT en programa de hemodiálisis.
+Inicio de síntomas: 29/08
+PCR 11/09: Positiva, CT 17
+Tratamiento: dexametasona 6mg 21-13/09 > metilprednisolona 60mg 14/09- 16/09 > Prednisona VO 30mg 16/09-alta, ceftriaxona 21-16/09, cotrimoxazol 26-21/09.
+A su llegada a planta, el paciente se encuentra hemodinámicamente estable, precisando oxigenoterapia a bajo flujo para mantener saturaciones adecuadas. Dado el tiempo de evolución de la infecicón, con infiltrado significativo y desaturación, se solicita angio-TAC para valorar posibles complicaciones, que descarta TEP pero describen tractos fibrosos bibasales secundarios a infección por OTROS_SUJETO_ASISTENCIA. Ante dichos hallazgos, se inica corticoterapia a altas dosis, estando al alta con prednisona 30mg VO.
+Además, ante sospecha de sobreinfección bacteriana, se inicia a su ingreso tratamiento empírico con ceftriaxona. Las antigenurias son negativas, pero en el cultivo de esputo se aísla flora mixta con presencia de OTROS_SUJETO_ASISTENCIA, por lo que se ajusta antibioterapia a cotrimoxazol.
+El paciente evoluciona favorablemente, manteniéndose afebril y hemodinámicamente estable, pero con requerimientos de oxígeno a bajo flujo para mantener saturaciones adecuadas. Presenta así mismo mejoría de los parámetros inflamatorios en analítica. Durante el ingreso, por ajuste logístico, se dializa en turno M-J-S con buena adaptación. Previo al alta se objetiva anemia de 79mg/L, por lo que se transfunden 2 concentrados de hematíes intradiálisis.
+En el momento del alta se coordina con Nefrología, que gestionan plaza en centro de diálisis con pacientes con PCR positiva para OTROS_SUJETO_ASISTENCIA (iniciando el miércoles 22 de septiembre) hasta que negativice la PCR.

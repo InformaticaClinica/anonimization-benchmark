@@ -1,0 +1,9 @@
+ SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, procedente de PAIS vive OTROS_SUJETO_ASISTENCIA en CALLE, no fuma, bebe alcohol OTROS_SUJETO_ASISTENCIA dia. No refiere alergias medicamentosas conocidas. Vive en su domicilio con su mujer y hijos, trabaja de PROFESION aunque actualmente se encontraba de OTROS_SUJETO_ASISTENCIA.
+
+ANTECEDENTES PATOLOGICOS:
+[1.]HTA en tto con enalapril.
+[2.]Hiperuricemia 1 episodio de Gota.
+[3.]Hepatitis A en la infancia
+[4.]Fractura de la falange del pie izquierdo.
+
+MEDICACION HABITUAL: MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL

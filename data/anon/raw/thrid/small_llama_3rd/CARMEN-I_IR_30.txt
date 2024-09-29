@@ -1,0 +1,33 @@
+ EMBOLIZACION CAROTIDA EXTERNA
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con fractura patológica de C2 (M1)que requiere fijación occipito-cervical.
+Tumoración de origen renal. Rogamos valoreis si es factible embolización selectiva del tumos preoperatoria.
+Muchas gracias.
+Fractura patològica, altres localitzacions, OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Técnica: Primera parte con anestesia local para estudio diagnóstico, posteriormente anestesia general para tratamiento.
+Punción femoral derecha. Inicialmente introductor corto 5F para diagnóstico y luego introductor 6F para tratamiento.
+Catéter diagnóstico Chaperon 6F. Microcatéter Sl-10.
+Guía hidrofílica Terumo 0.035". Microguía Synchro 14.
+Coils: Target 360 soft (7 mm x 15 cm, 6 mm x 30 cm,  5 mm x 15 cm, 4 mm x 10 cm).
+Vasos explorados: Arteria vertebral izquierda, derecha, a. HOSPITAL derecha.
+
+resultados:
+En la serie diagnóstica se confirma la presencia de importante vascularización tumoral de predominio en odontoides - columna anterior del cuerpo vertebral C2, a través de colaterales con origen preferente de a. vertebral derecha en segmento V2 distal, con afilamiento progresivo secundario a atrapamiento neoplásico. Distalmente se observa PICA derecha permeable (V3 distal).
+No alteraciones en la vascularización intracraneal.
+Se decide realizar coling a través de microcatéter a través de a.
+vertebral izquierda contralateral, avanzando de forma retrograda en la a. vertebral derecha, logrando posicionar microcatéter en la transición V2-V3, colocando 4 coils Target 360, consiguiendo correcta compactación y sin evidencia de flujo anterogrado.
+En el cateterismo desde a. subclavia derecha se observa aporte desde a.
+tiroidea superior y en la cateterización selectiva de a. vertebral derecha, se observa además aporte vascular espinal anterior a través de rama accesoria con origen en V2 proximal, considerando alto riesgo de lesión medular en caso de proceder a embolización.
+No se observa aporte arterial desde ramas de HOSPITAL.
+Drenaje venoso prominente de predominio en región paravertebral posterior.
+Cierre de acceso femoral derecho mediante sutura PROGLIDE, el cual es efectivo.
+Se deja vendaje compresivo, debiendo el paciente mantener inmóvil el miembro inferior derecho por 12 horas siguientes al procedimiento.
+
+conclusiones:
+.
+
+descrip:
+EMBOLIZACION CAROTIDA EXTERNA

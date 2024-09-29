@@ -1,0 +1,24 @@
+ En seguimiento por Hematología TC TORAX
+
+Paciente de EDAD_SUJETO_ASISTENCIA, antecedentes de OTROS_SUJETO_ASISTENCIA, tno OTROS_SUJETO_ASISTENCIA, ingreso hace FECHAS por infección pulmonar por OTROS_SUJETO_ASISTENCIA.
+Ha completado el tratamiento antiviral
+Recibió tratamiento con OTROS_SUJETO_ASISTENCIA, posteriormente se inició OTROS_SUJETO_ASISTENCIA por sospechas de neumonía organizativa, estabilidad en la imagen radiológica y dificultades en descenso de OTROS_SUJETO_ASISTENCIA. (actualmente OTROS_SUJETO_ASISTENCIA) SOlicito OTROS_SUJETO_ASISTENCIA de OTROS_SUJETO_ASISTENCIA para valorar neumonía organizativa. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+Calficifaciones coronarias.
+Ganglios prevasculares y paratraqueales infracentimétricos, inespecíficos.
+No se observan adenopatías axilares ni mediastínces de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslustrado subpleurales difusas que en lóbulos inferiores forman focos consolidativos. Asocian dilataciones bronquiales y bandas subpleurales. Los hallazgos actuales sugieren probable componente de neumonía organizativa por neumonía bilateral por OTROS_SUJETO_ASISTENCIA.
+Los cortes abdominales muestran quistes hepáticos simples, el mayor de OTROS_SUJETO_ASISTENCIA en segmento OTROS_SUJETO_ASISTENCIA.
+Quisres sinusales renales izquierdos.
+
+conclusiones:
+Neumonía bilateral por COVID19 con probable componente de neumonía organizativa.
+
+descrip:
+TC TORAX

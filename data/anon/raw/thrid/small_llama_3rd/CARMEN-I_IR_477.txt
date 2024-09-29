@@ -1,0 +1,25 @@
+ En seguimiento por Hematología EDAD_SUJETO_ASISTENCIA con AP de OTROS_SUJETO_ASISTENCIA, ingresa por COVID moderado y presenta en Rx infiltrado con atelectasia en TERRITORIO + crecimiento de Aspergillus en cultivo de esputo, por lo que solicito TC torácico para completar estudio. Gracias.
+COVID-19
+
+protocolo:
+Estudio TC torácico basal.
+
+resultados:
+Se revisan estudios previos; última RX del FECHAS.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Ganglio subcarinal con calcificaciones puntiformes en su interior. Discretas calcificaciones coronarias y en anillo valvular aórtico.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación del parénquima pulmonar en forma de opacidades en vidrio deslutrado bilaterales, de distribución peribroncovascular y subpleural, asociadas a discretas dilataciones bronquiales; hallazgos sugestivos de proceso infeccioso por OTROS_SUJETO_ASISTENCIA, en fase inflamatoria.
+Enfisema pulmonar paraseptal y centrolobulillar bilateral.
+Engrosamientos parietales bronquiales difusos.
+Lesiones fibrocicatriciales biapicales con pérdida de volumen, calcificaciones y bronquiectasias, de predominio en TERRITORIO; todo ello de aspecto post-infeccioso. Pequeños granulomas calcificados bilaterales.
+Resto del parénquima pulmonar sin alteraciones valorables.
+Pequeña hernia de hiato.
+Discretos cambios degenerativos en columna torácica.
+Pequeños granulomas calcificados hepáticos y esplénicos. Quiste simple hepático en sg VI y quistes corticales renales bilaterales.
+Engrosamientos de ambas gl suprarrenales bilaterales, de aspecto hiperplásico.
+
+conclusiones:
+Proceso infeccioso bilateral por OTROS_SUJETO_ASISTENCIA, en fase inflamatoria.
+
+descrip:
+TC TORAX

@@ -1,0 +1,19 @@
+ VENTRICULOGRAFIA ISOTOPICA
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA de edad con debut de Melanoma con M1 cerebrales interesa estudio previo inicio de tratamiento
+gracias!
+Neoplàsia maligna secundària, encèfal
+
+protocolo:
+25 mCi 99mTc-OTROS_SUJETO_ASISTENCIA. Estudio sincronizado con el ECG. 45º y 6º
+
+resultados:
+La fracción de eyección del ventrículo izquierdo ha sido de un EDAD_SUJETO_ASISTENCIA con una frecuencia cardíaca de FECHAS.
+En las imágenes paramétricas de amplitud y fase no se observan alteraciones valorables del movimiento de pared ni del sincronismo de la contracción ventricular.
+
+conclusiones:
+Ventriculografía isotópica que muestra una función sistólica conservada (FEVI 62%).
+
+descrip:
+VENTRICULOGRAFIA ISOTOPICA

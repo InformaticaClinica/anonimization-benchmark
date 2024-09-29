@@ -1,0 +1,21 @@
+ En seguimiento por Hematología HOSPITAL: SIN CONTRASTE
+
+resultados:
+Se compara con TC previo del FECHAS:
+Aumento de tamaño de las adenopatías mediastínicas paratraqueales derechas altas y bajas y subcarinales, probablemente reactivas.
+Aumento de diámetro de la arteria aorta torácica ascendente de OTROS_SUJETO_ASISTENCIA. Calcificaciones aórticas y de arterias coronarias.
+Catéter yugular derecho con extremo en vena cava superior.
+No se observa derrame ni pericárdico.
+Aumento de cuantía del derrame pleural bilateral, de moderada cantidad derecho y mínimo izquierdo. Se observa una burbuja de gas en el seno del derrame pleural derecho (antecedente de toracocentesis?).
+Bronquiectasias cilíndricas difusas.
+Aparición de extensa consolidación parenquimatosa con broncograma aéreo en el segmento posterior del TERRITORIO asociado a opacidades en vidrio deslustrado difusas con patrón "en empedrado" de localización apical.
+Aparición de focos consolidativos y en vidrio deslustrado bilaterales, algunos de morfología nodular, destacando consolidación nodular con broncograma aéreo en el segmento apical del TERRITORIO y otros pequeños focos consolidativos peribronquiales en el TERRITORIO y en la TERRITORIO. Estas consolidaciones se acompañan de múltiples nodulos centrolobulillares.
+algunos en árbol en brote de pequeño tamaño agrupados, asociados a engrosamientos bronquiales, sugieriendo bronquiolitis infecciosa.
+Los hallazgos descritos son compatibles con proceso infeccioso con marcado empeoramiento radiológico respecto al estudio anterior (FECHAS). Encontramos hallazgos que sugieren origen bacteriano con componente de bronquiolitis infecciosa y otros que no permiten descartar OTROS_SUJETO_ASISTENCIA (patrón TC probable); pudiendo coexistir ambas etiologías. Los hallazgos descritos obligan a descartar infección OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Empeoramiento radiológico respecto a TC previo del FECHAS de las características descritas, compatibles con proceso infeccioso. Presenta hallazgos que sugieren origen bacteriano con componente de bronquiolitis infecciosa y otros que no permiten descartar OTROS_SUJETO_ASISTENCIA (patrón TC probable), pudiendo coexistir ambas etiologías. Los hallazgos descritos obligan a descartar infección OTROS_SUJETO_ASISTENCIA.
+Aumento de tamaño de las adenopatías mediastínicas, probablemente reactivas y del derrame pleural bilateral.
+
+descrip:
+HOSPITAL

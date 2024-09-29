@@ -1,0 +1,8 @@
+ INFECCIÓN DE VÍAS RESPIRATORIAS
+2. ERC
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con los antecedentes mencionados y con reciente diagnóstico de infección de vías respiratorias bajas en tratamiento con antibiótico es traido por el INSTITUCION.
+A su llegada encontramos al paciente estable hemodinámicamente, con fiebre de FECHAS, disneico, saturación de FECHAS basal, consciente y desorientado.
+A la exploración física destacan hematomas en extremidades, taquipnea, y roncus respiratorios a la auscultación pulmonar.
+En la analítica obtenemos PCR de FECHAS, Cr FECHAS, K FECHAS, Hb FECHAS, linfocitos FECHAS En RX de tórax se observa infiltrado intersticial sin poder visualizarse por completo.
+Se realiza frotis COVID siendo positivo. Se inicia tratamiento especifico con OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.
+Empeoramiento progresivo tanto clinico (aumento de los requerimientos de oxigeno, agitacion y desorientacion, taquipneico, hipotenso) como analitico (se adjunta última analítica) con mala tolerancia a las sesiones de hemodialisis. Valorado en conjunto con PROFESION y de acuerdo con los FAMILIARES_SUJETO_ASISTENCIA, se decide suspensión de terapia renal sustitutiva y se decide priorizar medidas de confort.

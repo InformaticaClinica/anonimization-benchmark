@@ -1,0 +1,2 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA sin hábitos tóxicos ni alergias a medicamentos, consta alergia a OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA pero según el informe del INSTITUCION la paciente nunca ha recibido esta medicación.
+Sin antecedentes patológicos ni tratamiento habitual.

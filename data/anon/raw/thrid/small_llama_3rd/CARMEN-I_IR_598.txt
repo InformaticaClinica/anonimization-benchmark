@@ -1,0 +1,27 @@
+ PET TC COS SENCER NUMERO_IDENTIF
+
+clinica:
+Pacietne portador OTROS_SUJETO_ASISTENCIA desde 2006. Recambio reciente de generador (13 de FECHAS). Sospecha de infección bolsa marcapasos por enrojecimiento y tumefacción de la OTROS_SUJETO_ASISTENCIA.
+Solicito PET-TC para completar estudio.
+
+protocolo:
+Radiofármaco: NUMERO_IDENTIF ( NUMERO_IDENTIF ).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 8.14 mCi de NUMERO_IDENTIF.
+Glucemia en el momento de la inyección de NUMERO_IDENTIF: 91 mg/dL.
+Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de NUMERO_IDENTIF (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Estudio PET/TC que muestra intensa captación patológica de NUMERO_IDENTIF (SUVmáx: 10.49) en el OTROS_SUJETO_ASISTENCIA, compatible con la sospecha de proceso infeccioso activo en esta localización.
+Intenso aumento de captación focal (SUVmáx: 4.68) en el trayecto intravascular del OTROS_SUJETO_ASISTENCIA en región de vena cava superior.
+Este hallazgo podría explicarse en relación a actividad inflamatoria, no obstante aconsejamos con control evolutivo. No se aprecian otros depósitos patológicos de NUMERO_IDENTIF en el resto del cable.
+Refuerzo de captación de discreta intensidad y límites mal definidos (SUVmáx: 1.84) que en las imágenes del TC coinciden con áreas en vidrio deslustrado del parénquima pulmonar del INSTITUCION en probable relación con proceso inflamatorio/infeccioso.
+Aumento de captación difuso en el parénquima esplénico que interpretamos como de probable carácter reactiva.
+Refuerzo de captación focal en ambos trocánteres femorales en probable relación a entesopatía inflamatoria.
+En el resto de los sectores corporales estudiados no se aprecian otros depósitos patológicos del radiofármaco ni hallazgos sugestivos de émbolos sépticos.
+
+conclusiones:
+Estudio PET/TC compatible con la sospecha de proceso infeccioso activo en el OTROS_SUJETO_ASISTENCIA. Captación focal en el trayecto intravascular del OTROS_SUJETO_ASISTENCIA. Probable proceso inflamatorio/infeccioso pulmonar derecho (Ver resultados).
+
+descrip:
+PET TC COS SENCER NUMERO_IDENTIF

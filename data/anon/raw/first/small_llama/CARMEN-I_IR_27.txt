@@ -1,0 +1,17 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+01/03/2020
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+RX [**PORTATIL**] [**TORAX**]
+
+resultados:
+Con respecto a la radiografía previa del [**24/10/2021**] y TC torácico de [**25/10/2021**] se observa marcada mejoría de las opacidades alveolares pseudonodulares bilaterales con persistencia de alguna imagen residual en el hemitórax derecho.
+
+conclusiones:
+Resolución de gran parte de las opacidades alveolares bilaterales con persistencia de alguna imagen nodular aislada de predominio derecho.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

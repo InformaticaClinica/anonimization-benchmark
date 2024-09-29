@@ -1,0 +1,25 @@
+ En seguimiento por Hematología [**Clinica**] (Hombre [**65 años**] fumador y trasplantado hepático hace >10 años con neoplasia urotelial hace 10 años, operada y QT adyuvante, libre de enfermedad en el seguimiento).
+Recientemente a raíz de adenopatía laterocervical se realiza exéresis y AP no es capaz de confirmar si es recaída urotelial vs nuevo primario ORL metastásico a adenopatías.
+En PET/TC previo se informaba captación dudosa de base lengua pero no hubo lesiones evidentes en nasofibroscopia.
+Ingresa ahora por disfagia, interesa reevaluación con nuevo PET/TC para valorar evolución o lesiones de nueva aparición que permitan completar el proceso diagnóstico.
+
+protocolo:
+PET: Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 5,7 mCi de 18F FDG (18F-Fluordesoxiglucosa). Glucemia en el momento de la inyección de FDG: 94 mg/dL.
+Se realiza TAC así como PET de cuerpo entero y de partes blandas de cuello.
+Se obtienen imágenes tomográficas de PET (con y sin corrección de atenuación) e imágenes fusionadas.
+
+resultados:
+Se compara el estudio con el realizado el 26.3.2023.
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (cerebro, región orofaríngea, miocardio, hígado, bazo y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Cambios posquirurgicos a nivel laterocervical alto izdo, sin evidencia en la actualidad de captaciones patológicas en la zona.
+Aumento de captación de FDG en maxilar superior, derecho, menor al observado en el control de marzo del 2023 (SUV máx 6,7 - SUV previo 10), en probable relación con proceso alveolodentario asociado.
+Normalización del aumento en la representación de la base de la lengua, izquierda descrita en el estudio previo.
+Los cambios cicatriciales pulmonares del LSI, ya conocidosno presentan captación significativa de FDG.
+Cambios postnefroureterectomía izquierda.
+No se observan otras captaciones patológicas de FDG en el resto de sectores corporales estudiados sugestivos de actividad macroscópica tumoral con avidez por la FDG.
+
+conclusiones:
+Estudio PET/TC con FDG sin signos metabólicos de actividad por enfermedad macroscópica tumoral con avidez para la FDG.
+
+descrip:
+PET TC COS SENCER FDG

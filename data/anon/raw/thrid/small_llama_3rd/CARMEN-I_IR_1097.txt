@@ -1,0 +1,13 @@
+ ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Mujer EDAD_SUJETO_ASISTENCIA. Doble neoplasia sincrónica: carcinoma seroso de ovario OTROS_SUJETO_ASISTENCIA y CDI mama triple negativo E-IV. Ingresada por neumonía bilateral por COVID. Sospecha de trombosis OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA. Solicitamos ecografía doppler para descartar. Gracias!
+OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA
+Vena TERRITORIO, permeables y compresibles sin signos de OTROS_SUJETO_ASISTENCIA.
+V. TERRITORIO con cateter en su interior, identificadose permeable en segmento medio y distal, llamando la atención que se encuentra parcialmente ocupada y no compresible en pequeño segmento adyacente a cayado con V. TERRITORIO indicativo de signos de trombosis en este segmento.
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

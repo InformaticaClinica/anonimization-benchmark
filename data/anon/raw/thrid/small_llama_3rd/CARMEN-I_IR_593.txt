@@ -1,0 +1,26 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente ingresado por neumonía bilateral por OTROS_SUJETO_ASISTENCIA. Actualmente imágenes sugestivas de NO.
+Favor realizar TAC torácico para descartar neumonía organizada en paciente con OTROS_SUJETO_ASISTENCIA.
+Muchas gracias,
+De NOMBRE_PERSONAL_SANITARIO
+Neumonía organizada por OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Cateter ev con extremo distal atrio-caval.
+Discreto derrame pleural bilateral de predominio derecho.
+Enfisema centrolobulillar y paraseptal en LLSS.
+Discretas areas en vidrio deslustrado con engrosamientos peribronquiales de predominio periferico bilaterales.
+Hernia de OTROS_SUJETO_ASISTENCIA.
+Colelitiasis.
+
+conclusiones:
+ver resultados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

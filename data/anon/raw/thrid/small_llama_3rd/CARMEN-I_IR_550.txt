@@ -1,0 +1,12 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+Neumonia bilat
+NEUMONIA BILATERAL probable COVID-19
+
+conclusiones:
+RX TÓRAX PORTÁTIL
+Condensaciones alveolares periféricas en tercio medio de ambos hemitórax compatibles con Covid que han mejorado en relación al control previo efectuado el FECHAS
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

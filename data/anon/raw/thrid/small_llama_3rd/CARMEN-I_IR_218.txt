@@ -1,0 +1,25 @@
+ INTERC. RADIOLOGIA VASCULAR
+
+clinica:
+Cirrosis hepática. Antecedente de pseudoaneurisma de la arteria hepática D con fistula arteriobiliar que requirió tratamiento endovascular el 28/7.
+Nuevo episodio de hemorragia digestiva. Se realiza AngioTAC en HOSPITAL que descarta sangrado activo en relación a pseudoaneurisma. Ruego revisión de TAC. Gracias
+HEMORRAGIA DIGESTIVA. CIRROSIS HEPATICA
+
+protocolo:
+Interconsulta de TC
+
+resultados:
+Interconulta de TC abdominal realizada en HOSPITAL hace 24h.
+No se visualizan signos de sangrado activo intraabdominal en el estudio realizado. Eje aortoilíaca permeable, así como sus principales ramas abdominales (OTROS_SUJETO_ASISTENCIA, tronco celiaco, arterias renales, OTROS_SUJETO_ASISTENCIA).
+Hígado de características de CH sin lesiones focales.
+Tips aparentemente permeable, aunque su tercio proximal es de difícil valoración por TC.
+Trombosis periférica/crónica de la vena mesentérica y de la vena porta hiliar y origen de la porta derecha, con extremo muy próximo al TIPS.
+Branquias portales intrahepáticas permeables.
+Trombosis que afecta >50% de la VMS proximal (estable según TC de 23/7/2023).
+Stent en rama posterior derecha de la arteria hepática.
+Vesícula biliar de tamaño normal, litásica. Vía biliar no dilatada.
+Mielos, riñones, páncreas y glándulas suprarrenales sin alteraciones valorables.
+Ascitis masiva.
+
+conclusiones:
+El estudio TC realizado en HOSPITAL no muestra signos de sangrado activo y es superponible al realizado en nuestro centro el pasado 23 de julio de 2023.

@@ -1,0 +1,15 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+Infecció per [**coronavirus no especificada**]
+
+protocolo:
+RX [**tórax portátil**].
+
+conclusiones:
+Opacidades alveolares en campos inferiores de ambos pulmones, con extensión similar al estudio del [**17/4/2011**], que en el contexto epidemiológico actual es compatible con [**covid 19**]
+Estructuras mediastínicas e hilios pulmonares, sin alteraciones.
+Senos costofrénicos libres.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

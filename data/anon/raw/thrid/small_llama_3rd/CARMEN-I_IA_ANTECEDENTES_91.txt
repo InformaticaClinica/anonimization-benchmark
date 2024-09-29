@@ -1,0 +1,46 @@
+ Antecedentes personales:
+Hombre de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas. Ex-fumador desde el 1992 (120 paq-año) y ex-enol desde 2006 (dos carajillos + 4 cervezas dia, 3 UBE/día).
+VALORACIÓN GERIÁTRICA:
+- SÍNDROMES GERIÁTRICOS: polifarmacia, incontinencia urinaria y fecal, deterioro cognitivo por demencia de cuerpos de Lewy, escara en talón izquierdo, disminución de la agudeza visual por retinopatía diabética.
+- COMORBILIDAD: Charlson 7.
+- FUNCIONAL: Barthel 25/100. Vida TERRITORIO. Amputación supracondilea de extremidad inf izquierda.
+- COGNITIVO: Pfeiffer 7 errores.
+- SOCIAL: vive en INSTITUCION desde enero 2011, hasta entonces vivía con OTROS_SUJETO_ASISTENCIA en casa, no tiene OTROS_SUJETO_ASISTENCIA.
+ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL diagnosticada hace 30-35 años aproximadamente.
+Tratamiento con 4 fármacos (NUMERO_IDENTIF+NUMERO_IDENTIF+NUMERO_IDENTIF+NUMERO_IDENTIF).
+- INSUFICIENCIA CARDÍACA diagnosticado en diciembre/11 en contexto de neumonía de lóbulo inferior derecho.
+-> Ecoscopia a pie de cama con función ventricular en el límite inferior de la normalidad por discreta acinesia anterior, con VI moderadamente hipertrófico, sin valvulopatías significativas y sin derrame pericárdico.
+2. DIABETIS MELLITUS TIPO 2 diagnosticada hace 30-35 años aproximadamente. Retinopatía diabética, nefropatía diabética. Con hb glicada de 6.2% en abril de 2011.
+3. DISLIPEMIA en tratamiento hipolipemiante.
+4. ENFERMEDAD RENAL CRÓNICA estadio 3b-4A3 conocida desde el año 2007 por probable nefropatía diabética + nefroangioesclerosis. En seguimiento por INSTITUCION.
+5. ICTUS en 1996, con secuelas de espasticidad en hemicuerpo derecho.
+6. NEURITIS ÓPTICA RETROBULBAR.
+7. DEMENCIA POR CUERPOS DE LEWY GRADO 2.
+8. VASCULOPATÍA PERIFÉRICA:
+- Angioplastia ilíaca derecha en Abril de 1982.
+- Derivación iliofemoral EID Gore-Tex 6mm en Octubre de 2001.
+- Trombectomía de prótesis vascular iliofemoral, tratada mediante trombectomía en Agosto de 2002.
+- Amputación distal de segundo dedo pie izquierdo en 2010 tras episodio de osteomielitis.
+- Amputación supracondilea de extremidad inf izquierda (02/2012).
+9. HERNIA HIATAL.
+10. HERNIA DISCAL LUMBAR diagnosticada en 2007.
+11. COLECISTECTOMIA LAPAROSCOPICA por COLEDOCOLITIASIS en octubre 2011.
+* Complicaciones tras CPRE: pancreatitis aguda que se resolvió de forma conservadora, sangrado papilar que requirió coagulación con adrenalina y argón BEAM además de trasfusion sanguínea de vario hemoconcentrados.
+AISLAMIENTOS MICROBIOLÓGICOS
+- Junio/2012: MRSA en frotis de úlcera de EII.
+- Septiembre /2012 Klebsiella pneumoniae BLEA en urocultivo y MRSA en frotis de úlcera.
+*Hospitalizado por neumonía lobar basal derecha en diciembre (+ insuficiencia cardiaca de debut) y enero del 2012.
+MEDICACIÓN HABITUAL
+- Repaglinida 0.5mg/24h.
+- Pantoprazol 20 mg/24h.
+- Atorvastatina 40mg/24h.
+- Bisoprolol 2,5mg/24h.
+- AAS 100 mg/24h.
+- Optovite B12 IM c/mes
+- Mastical 500 mg 1-1-1
+- Darbepoetina 50 mcg c/semana
+- Furosemida 40 mg 1-1-0
+- Magnogene 53 mg/24h.
+- Enoxaparina 40 mg SC c/24h
+- Prednisona 10 mg/24 h (pauta descendente).

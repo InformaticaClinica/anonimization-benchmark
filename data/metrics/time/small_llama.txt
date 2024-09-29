@@ -1,2 +1,3 @@
 Execution time of small_llama: 9.047667980194092 seconds
 Execution time of small_llama: 10.277253150939941 seconds
+Execution time of small_llama: 10819.103033065796 seconds

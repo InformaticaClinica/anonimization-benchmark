@@ -1,0 +1,19 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA ingresado por neumonía bilateral por COVID-19 y neumonía necrotizante por OTROS_SUJETO_ASISTENCIA. Actualmente en OTROS_SUJETO_ASISTENCIA.
+Elevación de bilirrubina progresiva durante la última semana.
+Solicitamos ecografía abdominal para descartar OTROS_SUJETO_ASISTENCIA vs OTROS_SUJETO_ASISTENCIA.
+COVID-19
+
+protocolo:
+OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA normal.
+Bufeta distesa, de OTROS_SUJETO_ASISTENCIA no engruixides.
+Via biliar no dilatada.
+Reste de l'estudi de valoració limitada per OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+ECO BASAL (ABDOMEN)

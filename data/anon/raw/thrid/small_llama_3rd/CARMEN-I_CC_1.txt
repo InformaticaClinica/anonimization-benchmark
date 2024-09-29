@@ -3,7 +3,7 @@
 Trabaja en PROFESION
 Vive con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, empezaron con sintomas digestivos previos Ant med: OTROS_SUJETO_ASISTENCIA
 Tto: no
-Alergias: niega
+Alergias: OTROS_SUJETO_ASISTENCIA
 .
 Fecha frotis SARS-CoV-2: FECHAS por control rutinario Fecha inicio síntomas: FECHAS amb sx digestivos...
 .

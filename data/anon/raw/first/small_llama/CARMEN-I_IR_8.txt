@@ -1,0 +1,17 @@
+ RM [**CRANEAL**] Y ANGIO RM [**ARTERIAL INTRACRANEAL**]
+
+clinica:
+Paciente de [**53 años**] politoxicomano que acude por cuadro hemimotor hemisensitivo derecho tras consumo de [**cocaína**] y [**THC**]. Ruego RM NIT para producir estudio. PACIENTE [**COVID-19**] POSITIVO. Gracias.
+SÍNDROME HEMIMOTOR HEMISENSITIVO DERECHO
+
+protocolo:
+RM Y ANGIORM [**CRANEOENCEFALICAS**]
+
+resultados:
+En el estudio efectuado se aprecia una fosa posterior de morfología y señal normales.  Supratentorialmente el sistema ventricular es de forma, tamaño y situación normales.  No se aprecian alteraciones morfológicas ni de la señal en el parénquima cerebral. ESTUDIO ANGIOGRAFICO INTRACANEAL SIN ALTERACIONES
+
+conclusiones:
+Examen RM [**craneal**] dentro de límites normales.
+
+descrip:
+RM [**CRANEAL**] Y ANGIO RM [**ARTERIAL INTRACRANEAL**]

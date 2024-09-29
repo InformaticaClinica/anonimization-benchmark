@@ -1,0 +1,1 @@
+ La paciente es dada de alta a INSTITUCION (CALLE) Seguir controles por unidad de HOSPITAL (OTROS_SUJETO_ASISTENCIA)

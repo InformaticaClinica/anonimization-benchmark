@@ -1,0 +1,24 @@
+ Antecedentes personales:
+Mujer de EDAD_SUJETO_ASISTENCIA alérgica a OTROS_SUJETO_ASISTENCIA e intolerancia a la OTROS_SUJETO_ASISTENCIA.
+Independiente PROFESION. Jubilada, cuidadora de personas mayores a domicilio (OTROS_SUJETO_ASISTENCIA). No animales en casa. Vive sola, buen soporte del OTROS_SUJETO_ASISTENCIA.
+
+* ANTECEDENTES PATOLÓGICOS:
+1.- FAMILIARES_SUJETO_ASISTENCIA (VEMS 58%). No consta colonización por OTROS_SUJETO_ASISTENCIA. Ha presentado episodios de OTROS_SUJETO_ASISTENCIA y episodios infecciosos reiterados, con nódulos cavitados. Seguimiento por Dra. NOMBRE_PERSONAL_SANITARIO.
+* TAC de torax abril 2025 Bronquiectasias irregulares con taponamientos endobronquiales. Bronquiolitis infecciosa en TERRITORIO y TERRITORIO. Atelectasia de LII sin burbuja de gas y sin cambios significativos. Cavitación de ambos nódulos, con disminución de tamaño del situado en TERRITORIO y estabilidad del situado en TERRITORIO.
+2. NEUMONÍA CON DERRAME METANEUMÓNICO IZQUIERDO en agosto 2022. Preciso drenaje torácico. TAC de torax abril 2025 Bronquiectasias irregulares con taponamientos endobronquiales. Bronquiolitis infecciosa en TERRITORIO y TERRITORIO. Atelectasia de LII sin burbuja de gas y sin cambios significativos. Cavitación de ambos nódulos, con disminución de tamaño del situado en TERRITORIO y estabilidad del situado en TERRITORIO.
+3. OSTEOPOROSIS.
+4. FAMILIARES_SUJETO_ASISTENCIA in situ supraescapular izquierdo. Exéresis (FECHAS). Ampliación de márgenes (OTROS_SUJETO_ASISTENCIA)
+5. CARCINOMA ESCAMOSO DE OROFARINGE P16+, T1N1M0
+*Enero 2025: OTROS_SUJETO_ASISTENCIA
+*Junio 2025:
+-  Eco cervical: Lesión tumoral bien delimitada, polilobulada en contacto con el polo inferior de la parótida y a menos de 5 mm de los grandes vasos del cuello. La lesión mide OTROS_SUJETO_ASISTENCIA
+-  ECO-PAAF (24/07/25): Mazacote adenopatico de OTROS_SUJETO_ASISTENCIA a nivel del tercio superior de la cadena yugular interna derecha sobre el que se realiza paaf. AP: Metásasis de Ca. escamoso. p16 + sopechoso deprimariode OTROS_SUJETO_ASISTENCIA.
+- PET-TC (31/07/25): Mazacote adenopático IIb derecho de OTROS_SUJETO_ASISTENCIA con signos de EEC infiltrando planos grasos adyacentes incluyendo a la grasasubcutánea y obliterando a la vena yugular. La ACI homolateral está en contacto con la lesión sin que se aprecie infiltración. Adenopatías satélites y en Vb homolaterales así com una retrofaríngea derecha. Gran mazacote adenopático IIb derecho (OTROS_SUJETO_ASISTENCIA) e ipsilaterales satélites (OTROS_SUJETO_ASISTENCIA). Vb y retrofaríngea (OTROS_SUJETO_ASISTENCIA) la captación es mucho menor. OTROS_SUJETO_ASISTENCIA y nódulos infecciosos pulmonares en TERRITORIO y TERRITORIO, ya conocidos, éste último con leve aumento del tamaño y asociado a bronquiolitis infecciosa.
+- Comité ORL-ONC (04/08/25): Se considera N sin T de probable origen orofaríngeo (TERRITORIO). EF con NBI positivo en TERRITORIO. Se valora como T1N1 p16 probablemente positivo. La biopsia de orofaringe es positiva para OTROS_SUJETO_ASISTENCIA
+Inicio 21/8/2025 RT + QT (OTROS_SUJETO_ASISTENCIA; OTROS_SUJETO_ASISTENCIA; OTROS_SUJETO_ASISTENCIA) del 21/8/2025 al 3/10/25), pendiente reevaluación
+Seguimiento por Dra. NOMBRE_PERSONAL_SANITARIO y Dra. NOMBRE_PERSONAL_SANITARIO.
+MEDICACIÓN HABITUAL 11/9.2025
+- Omeprazol 20 mg/24 h
+- Rilast 160/4,5 mg inhalador
+- Calcifediol 1 ampolla cada 15 días
+- Denosumal 1/6 meses.

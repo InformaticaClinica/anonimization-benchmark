@@ -1,0 +1,20 @@
+ ANGIO TC PULMONAR
+
+clinica:
+paciente de [**29 años**] en la [**seman 3-4 puerperio**]. Sd [**HELP**] que requirió ingreso en UCI i cesarea. Contacto [**COVID**] i confirmado caso [**COVDI**] positiva por fiebre hace 15 días. Consulta por disnea. SpO2 97%, FC 110.
+Rx tora noraml. comentado, agradeceremos descartar [**TEP**]
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un [**TEP**]. Tampoco se evidencia dilatación del tronco común de la arteria pulmonar. No se observan [**ganglios axilares**] ni [**mediastínicos**] de tamaño valorable.
+Se visualizan algunas ténues opacidades redondeadas en vidrio deslustrado con disposición periférica en ambos lóbulos inferiores, que si bien son inespecíficas, no permiten descartar que se trate de afectación pulmonar por [**COVID-19**]. Resto del parénquima pulmonar sin otros hallazgos. No se observa [**derrame pleural**] ni [**pericárdico**].
+
+conclusiones:
+No se observa [**TEP**].
+Muy ténues opacidades redondeadas en vidrio deslustrado con distribución periférica en ambos lóbulos inferiores, que dado el contexto podrían corresponder a afectación pulmonar leve por [**COVID-19**]
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,45 @@
+ En seguimiento por Cardiología [**RM CARDIACA**].
+
+varón de [**64 años**] con AP de HTA y FA en tratamiento con [**flecainida**] y [**bisoprolol**].
+Ingresado por presentar episodio de [**TVMS**] mal tolerada, cardiovertida con éxito, y posteriormente episodios de [**flutter típico**].
+Solicitamos RM cardiaca para descartar cardiopatía estructural.
+TAQUIARRÍTIMAS: [**TVMS**] - [**flutter atípico**]
+
+protocolo:
+Se realiza estudio morfológico y funcional con secuencias de cine-RM en los planos habituales. Estudio de mapas de T1 nativo. Se realizan secuencias de cine-SSFP multiplanares, evaluación de isquemia mediante perfusión (FGRE) de primer paso en pico de estrés luego de la administración de un bolo de [**Regadenoson**] 400 ug. Luego de 10 minutos y tras haber administrado [**Aminofilina**] como antagonista, se adquieren las imágenes en reposo.Estudio de realce tardío con secuencias SS-PSIR y Seg-IR en los planos habituales, asi como mapas T1 post contraste
+
+resultados:
+Ventrículo izquierdo no dilatado, severamente hipertrófico a expensas septal (septo anterior basal [**18 mm**], septo inferior medio [**17 mm**]), con discreta hipocinesia septal inferior en su segmento basal y acinesia muy focalizada en el segmento basal inferior, sin adelgazamiento. Motilidad global preservada.
+FEVI:  [**53%**] (VN: [**55-77%**])
+VTDVI: [**104 ml**] Indexado: [**44 ml/m2**] (VN: [**57-105 ml/m2**])
+VTSVI: [**49 ml**] Indexado: [**21 ml/m2**] (VN: [**14-38 ml/m2**])
+VLVI: [**55 ml**] Indexado: [**23 ml/m2**]
+Masa: [**122 g**] Indexada: [**51 g/m2**] (VN: [**49-85 g/m2**])
+Ventrículo derecho no dilatado ni hipertrófico con motilidad global y segmentaria conservadas.
+FEVD: [**50%**]
+VTDVD: [**106 ml**] Indexado: [**45 ml/m2**] (VN: [**61-121 ml/m2**])
+VTSVD: [**53 ml**] Indexado: [**22 ml/m2**] (VN: [**19-59 ml/m2**])
+VLVD: [**53 ml**] Indexado: [**22 ml/m2**]
+Tras la administración de un bolo de [**Regadenoson**] de 400 ug, el paciente refiere disnea, sin presentar dolor torácico.
+*PA (basal): [**127/67 mmHg**] FC (basal): [**66 bpm**]
+*PA (regadenoson): [**102/66 mmHg**] FC (regadenoson): [**86 bpm**]
+En el estudio de perfusión se identifica defecto de perfusión localizado a nivel de septo inferior y cara inferior basal y media, presente tanto en reposo como en estrés, coincidiendo con los segmentos que presentan realce tardío, compatible con infarto establecido, sin isquemia inducible peri infarto.
+En las secuencias de realce tardío se identifica:
+Realce transmural (en torno del 60% grosor pared) en el segmento inferoseptal e inferior  basal y medio.Presenta una pequeña zona de extensión focal prácticamente transmural a nivel de septo inferior.
+Además presenta un ténue realce intramiocárdica en punto de inserción septal inferior.
+Raíz aórtica y aorta ascendente proximal ([**32mm**]) no dilatadas
+Aurícula izquierda leve-moderadamente dilatada(área en 4C: [**27 cm2**]).
+Severa hipertrofia lipomatosa del septo interauricuar.
+Válvula aórtica trivalva, de velos engrosados, sobre todo a expensas del velo no coronariano. Sin estenosis. Sin evidencia de valvulopatías significativas. Arterioesclerosis de la aorta descendente.
+No se observa derrame pericárdico ni pleural.
+
+conclusiones:
+Cardiopatía con probable componente mixto (isquémica, HTA?):
+- Sin isquemia miocárdica inducible.
+- Infarto mayoritariamente transmural en segmento basal y medio de cara inferior y septo inferior. Territorio de CD.
+- Discreta fibrosis miocárdica de sustitución en punto de inserción septal inferior.
+- Ventrículo izquierdo no dilatado, severamente hipertrófico a extensas de septo. Función biventricular preservada
+- Aurícula izquierda leve-moderadamente dilatada.
+
+descrip:
+[**RM CARDIACA**]

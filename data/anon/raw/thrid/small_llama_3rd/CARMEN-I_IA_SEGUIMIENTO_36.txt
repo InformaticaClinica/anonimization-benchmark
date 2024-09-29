@@ -1,0 +1,3 @@
+ Acudir al INSTITUCION del CALLE el dia FECHAS a les FECHAS per a realització d'analítica, mielograma i FNF per a PCR de SARS-CoV-2.
+- Visita telefònica (HOSPITAL, NOMBRE_PERSONAL_SANITARIO), per valorar el resultat de les exploracions realitzades.
+NOTA: si es confirma la remissió completa amb MMR negativa, el pacient haurà d'iniciar el tractament de manteniment. Pendent de la realització d'una PCR per SARS-CoV-2 i serologies el dia FECHAS, per tal de valorar l'actitud a seguir.

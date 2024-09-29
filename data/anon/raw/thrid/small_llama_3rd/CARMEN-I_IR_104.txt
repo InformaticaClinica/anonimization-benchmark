@@ -1,0 +1,25 @@
+ En seguimiento por Hematología EDAD_SUJETO_ASISTENCIA. Neumonía COVID + TEP que requirió fibrinolisis.
+Último TC el FECHAS sin imagen de organización, mejor del TERP. Los últimos 5 días presenta shock séptico asociado a candiemia. En controles Rx presenta áreas sugestivas de cavitación, aunque LBA sin resultado microbiológico. Actualmente en prono, con franco empeoramiento de dinámica pulmonar, se plantea ECMO VV las próximas 24h. Solicito TACAR para valorar complicación infeccionsa oportunista vs NOC.
+COVID19
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; último TC del FECHAS.
+Traqueostomía. Vía central yugular izquierda con extremo distal en tronco braquiocefálico venoso derecho. SNG normoposicionada.
+Resolución del neumomediastino y del enfisema subcutáneo en región supraclavicular izquierda.
+Ganglios mediastínicos aumentados de tamaño, de aspecto reactivo. No se visualizan adenopatías axilares de tamaño valorable. Tronco de la arteria pulmonar principal ligeramente dilatado, de OTROS_SUJETO_ASISTENCIA.
+Leve derrame pleural bilateral. Mínimo derrame pericárdico.
+Empeoramiento de la afectación parenquimatosa pulmonar bilateral en forma de extensas opacidades en vidrio deslustrado bilaterales, que en el estudio previo eran de aspecto más inflamatorio y en el estudio actual se asocian a engrosamientos septales conformando un extenso patrón de 'crazy paving'. Así mismo, han aparecido extensas consolidaciones periféricas subpleurales, de predominio en lóbulos superiores, con dilataciones bronquiales en su interior, en relación a neumonía organizativa. Los hallazgos descritos son sugestivos de distrés pulmonar con cambios organizativos asociados.
+Enfisema intersticial en segmento apical y anterior del LSD, sugestivo de barotrauma.
+No se visualizan imágenes sugestivas de sobreinfección.
+Trabeculación del tejido subcutáneo en pared torácica anterior en relación a maniobras de prono.
+
+conclusiones:
+Empeoramiento de la afectación parenquimatosa pulmonar bilateral (ver hallazgos), ahora con patrón de distrés pulmonar y cambios organizativos asociados.
+No se visualizan imágenes sugestivas de sobreinfección.
+Vía central yugular izquierda con extremo distal en tronco braquiocefálico venoso derecho.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

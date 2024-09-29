@@ -1,0 +1,19 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente de [**80 años**] con neumonia bilateral por COVID-19 en mejoría de los parámetros inflamatorios (PCR y ferritina) excepto por dímero-d elevado de >10.000 y persistencia de las necesidades de oxigeno. En este contexto solicitamos realización de Angio-TC pulmonar para descartar tromboembolismo.
+NEUMONÍA BILATERAL POR COVID - 19
+
+protocolo:
+Angio-TC pulmonar urgente.
+
+resultados:
+Defectos de repleción compatibles con tromboembolismo pulmonar (TEP) agudo en ramas segmentarias del segmento basal posterior y basal lateral del lóbulo inferior derecho. No se observan otros TEP, dilatación del tronco común de la arteria pulmonar ni signos de sobrecarga cardíaca derecha. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Extensos focos consolidativos bilaterales y con distribución periférica, que se acompañan de dilataciones bronquiolares y áreas de distorsión parenquimatosa, todo ello compatible con infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa). No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+TEP segmentarios en el lóbulo inferior derecho.
+Infección pulmonar por COVID-19 con tendencia a la fibrosis (signos de neumonía organizativa).
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,12 @@
+ Prednisona OTROS_SUJETO_ASISTENCIA dia hasta próxima analítica FECHAS.
+Lopinavir/ritonavir OTROS_SUJETO_ASISTENCIA cada 12h hasta 1 de enero (inclusive).
+Hidroxicloroquina 200mg cada 12h hasta 24 de enero (inclusive).
+Azitromicina 250mg cada 24h hasta 24 de enero (inclusive).
+Magnesio OTROS_SUJETO_ASISTENCIA cada 8h hasta 26 de enero (inclusive).
+Doxazosina OTROS_SUJETO_ASISTENCIA cada 12h indefinida.
+Amlodipino OTROS_SUJETO_ASISTENCIA cada 12h si presión arterial con sistólica por encima de OTROS_SUJETO_ASISTENCIA y diastólica OTROS_SUJETO_ASISTENCIA.
+Omeprazol OTROS_SUJETO_ASISTENCIA cada 24h indefinida.
+UTR- TRASPLANTE RENAL: Tratamiento al alta
+1-Prednisona OTROS_SUJETO_ASISTENCIA/dia
+2-NO ADMINISTRAR NI OTROS_SUJETO_ASISTENCIA NI OTROS_SUJETO_ASISTENCIA
+3-Dia FECHAS: analitica con niveles de Tacrolimus / everolimus (dejo la petición en Sistema de registro). Llamar a UTR (NUMERO_TELEFONO) para confirmar que debe hacer a continuación)

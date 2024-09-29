@@ -1,0 +1,16 @@
+ RX  [**PORTATIL**]  [**TORAX**]
+
+clinica:
+[**SOSPECHA COVID-19**]
+
+protocolo:
+Rx de [**tòrax**] anteroposterior portàtil.
+
+resultados:
+Persiteixen petites opacitats pulmonar bilaterals i consolidació pulmonar basal dreta sense canvis.
+
+conclusiones:
+Estabilitat de probable [**pneumonia COVID-19**].
+
+descrip:
+[**RX  PORTATIL  TORAX**]

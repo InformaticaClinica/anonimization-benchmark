@@ -1,0 +1,32 @@
+ En seguimiento por Hematología [**Paciente en lista de trasplante cardiorenal**], con antecedentes de cirugía bariatrica previa, ingreso por anasarca con ascitis en aumento. Presenta dolor abdominal en fosa iliaca izquierda con palpación de induración a ese nivel. Rogamos ecografia para descartar hernia u otro proceso y punción de liquido ascitico guiada por eco presuntamente de dificil realización debido a cirugias previas. Gracias
+INSUFICIENCIA CARDIACA
+
+protocolo:
+Ecografía abdominal + Drenaje percutáneo ecoguiado (precedimiento supervisado por [**Dra. Tamarit**]).
+
+resultados:
+Hígado de tamaño, ecogeneicidad y ecoestructura normales, de bordes discretamente irregulares. No se observan lesiones focales.
+Vesícula biliar alitiásica, de paredes edematosas.
+Vía biliar no dilatada.
+Vena porta permeable y hepatopetal, con vel media de [**13 cm/s**] y morfología ondulante.
+VSH permeables, no dilatadas ([**diámetro máximo de 13 mm**] en VSH derecha, estable).
+Páncreas  no visulizado por interposición de asas.
+Bazo de tamaño normal ([**10,9 cm**]).
+Riñones de tamaño y grosor cortical normal, sin dilatación de la vía excretora.
+Abundante cantidad de ascitis de distribución difusa.
+Moderado derrame pleural izquierdo.
+Se explora dirigidamente flanco izquierdo/mesogástrio, donde paciente refiere aumento de volumen, observando una colección heterogenea en el espesor de la vaina de los rectos, de [**41 x  18 x 33 mm**] (TxAPxCC), sugestivo de [**hematoma**] a este nivel.
+COLOCACIÓN DE DRENAJE ECOGUIADO.
+Anestesia a la piel. Se coloca drenaje percutáneo de [**6Fr**] bajo control ecográfico en flando derecho, con salida de líquido claro. Se deja drenaje a caida libre. Procedimiento sin incidentes.
+
+conclusiones:
+Signos sugestivos de [**hepatopatía crónica incipiente**]. Vena porta permeable y hepatopetal, con vel media normal ([**13 cm/s**]) y morfología ondulante. Abundante cantidad de ascitis de distribución difusa.
+Moderado derrame pleural izquierdo.
+[**Hematoma**] en el espesor de la vaina izquierda de los rectos a nivel de flanco izquierdo/mesogástrio de las características descritas.
+Colocación de drenaje percutáneo ecoguiado sin incidentes. Se deja drenaje a caida libre.
+
+descrip:
+ECO BASAL (ABDOMEN)
+
+descrip:
+ECOGRAFIA CON  DRENAJE

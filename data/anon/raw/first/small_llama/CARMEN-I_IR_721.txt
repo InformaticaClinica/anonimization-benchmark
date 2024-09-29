@@ -1,0 +1,28 @@
+ En seguimiento por [**Hematología**] [**Paciente de 55 años**] con sospecha de neoplasia de colon en ángulo esplénico con fistulización a pared abdominal. En tratamiento con [**Tazocel**] presenta aumento de rectantes de fase aguda con dolor abdominal y fiebre de 39. Se aprecia inicio de celulitis en pared abdominal
+Pendiente de [**TAC torax**] de extensión
+Se solicita [**TAC toracoabdominal**] para valorar evolución de lesión Aprovechar [**TAC tórax**] para valorar extensión
+062597
+Altres malalties especificades d'anus irecte
+
+protocolo:
+[**TC ABDOMINOPELVICO URGENTE**] con contraste e.v. en fase portal.
+
+resultados:
+Se compara con [**TC previo**] del 03/05/19.
+Engrosamiento irregular del colon transverso de 5 cms proximal al ángulo esplénico, con trayecto fistuloso de 12 mm hacia la pared abdominal en flanco izquierdo que se abre a una colección parietal hidroaérea, polilobulada, de paredes engrosadas, que ha aumentado de tamaño midiendo aprox 8x8x12 cm (APxTrxCC, previo de 7x4x6 cm). No se observa fistulización cutánea.
+Persisten los cambios inflamatorios adyacentes al segmento afectado, con trabeculación de la grasa, y algún ganglio mesentérico y engrosamiento peritoneal parietal focal.
+Proximalmente se observa discreta dilatación de asas colónicas hasta 6 cms. El grosor y captación parietal es normal. No se observa liquido libre ni neumoperitoneo.
+Hígado de tamaño y morfología normal. No se observan lesiones focales.
+Vesícula biliar de tamaño y morfología normal. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeable.
+Páncreas  y glándulas suprarrenales de tamaño y morfología normal.
+Esplenomegalia homogénea de 13 cms.
+No hay evidencia de adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Riñones de nefrograma y tamaño normal. Cicatriz cortical en polo inferior de RI. Quiste cortical simple en RD. No se observa dilatación de la vía excretora ni litiasis.
+
+conclusiones:
+Engrosamiento del colon transverso con fístula hacia pared abdominal, con formación de una colección parietal polilobulada que ha aumentado de tamaño, midiendo 12x7x8 cms; es sospechosa de proceso neoproliferativo primario intestinal.
+Resto sin cambios respecto a [**TC previo**] del 06/05/19.
+
+descrip:
+[**TC TORACOABDOMINAL (ABDOMEN)**]

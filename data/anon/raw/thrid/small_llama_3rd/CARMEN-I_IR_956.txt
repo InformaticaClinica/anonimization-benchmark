@@ -1,0 +1,28 @@
+ En seguimiento por Hematología HOSPITAL (Dra. NOMBRE_PERSONAL_SANITARIO).
+Paciente ingresada por neumonía bilateral por COVID intubada desde el FECHAS con TC del día FECHAS que informa de extensa afectación por COVID sin otras complicaciones añadidas. Presenta desde hace FECHAS cuadro febril persistente con leve aumento de los reactantes de fase aguda sin aislamientos microbiológicos ni otro foco clínico.
+Se solicita AngioTC torácico para descartar neumonía organizativa (sintomática desde el FECHAS), sobreinfección respiratoria o trombosis.
+Muchas gracias!!
+NEUMONÍA BILATERAL POR SARS-COV2
+
+protocolo:
+ANGIOTC PULMONAR URGENTE
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Se compara con TC de Torax previo del FECHAS para comparar.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de arteria pulmonar no dilatado (OTROS_SUJETO_ASISTENCIA). No se observan signos de sobrecarga derecha.
+Traqueostomía con tubo endotraqueal a OTROS_SUJETO_ASISTENCIA de carina. SNG con extremo distal en pared gástrica posterior. Presenta dos CVC con extremo distal en VCS y vena braquiocefálica.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Ganglios subcentimétricos mediastínicos (OTROS_SUJETO_ASISTENCIA) de aspecto reactivo.
+Derrame pleural bilateral mayor a izquierda. No se observa derrame pericárdico.
+Extensas opacidades en vidrio deslustrado bilaterales de distribución difusa, periférica y peribroncovascular, algunas formando bandas subpleurales en LLII. Tenues dilataciones bronquiales en LM, sin cambios. Hallazgos compatible con neumonía bilateral por COVID-19 en evolución. No se observan signos claros de organización ni sobreinfección actual.
+Focos de consolidación del espacio alveolar en ambos LLII, con captación homogénea del parénquima, sugerentes de atelectasia.
+Granuloma calcificado en lóbulo superior izquierdo.
+Cortes abdominales sin alteraciones destacables.
+
+conclusiones:
+No se observa TEP.
+Opacidades en vidrio deslustrado periféricas y difusas en relación a neumonía bilateral por COVID-19, sin observarse signos de sobreinfección u organización.
+Atelectasias de ámbos LLII, similares al estudio previo.
+
+descrip:
+ANGIO TC PULMONAR

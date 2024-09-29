@@ -1,0 +1,26 @@
+ En seguimiento por FAMILIARES_SUJETO_ASISTENCIA 
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA, ingresada por infección repsiratoria por OTROS_SUJETO_ASISTENCIA.
+Auscultación cardiaca arrítmica no conocida previamente y clínica de INSTITUCION junto con analítica con elevación de OTROS_SUJETO_ASISTENCIA hasta 3200ng/mL, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA 52%. Ante sospecha de OTROS_SUJETO_ASISTENCIA en contexto de infección por OTROS_SUJETO_ASISTENCIA se solicita de manera urgente OTROS_SUJETO_ASISTENCIA. Muchas gracias, un saludo
+POSIBLE COVID
+
+protocolo:
+PROTOCOLO mediante OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de OTROS_SUJETO_ASISTENCIA. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Imágenes de ocupación bronquial a nivel de tráquea y bronquio lobar inferior derecho. Atelectasia de la practica totalidad del lóbulo inferior derecho en probable relación. Engrosamientos peribronquiales.
+Resto del parenquima pulmonar sin alteraciones relevantes.
+Ganglios mediastinicos calcificados (paratraqueal, subcarinales e hiliares izquierdos.) No se observan adenopatías axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+Mínima cantidad de derrame cisural derecho. No se observa derrame pericárdico.
+En los cortes de hembiabomen superior no se aprecian hallazgos significativos, tan solo destaca a nivel subhepático una estructura sacular con contenido de densidad liquida parcialmente incluida, que probablemente corresponde al OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+- No se observa OTROS_SUJETO_ASISTENCIA
+-Atelectasia de la practica totalidad del OTROS_SUJETO_ASISTENCIA en probable relación a ocupación bronquial.
+- Sin signos de afectación parenquimatosa pulmonar por COVID-19
+
+descrip:
+ANGIO TC PULMONAR

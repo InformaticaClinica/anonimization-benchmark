@@ -1,0 +1,26 @@
+ RM CEREBRAL
+
+clinica:
+Paciente de [**50 años**] COVID 19 POSITIVO.
+Antecedentes de [**diabetes mellitus**], [**apnea del sueño**] y consumo de [**cocaína**] moderado.
+Durante el ingreso presenta un cuadro confusional que persiste 1 semana tras la extubación del paciente.
+Solicito RM PROTOCOLO COVID19 para valoración.
+Gracias.
+POSIBLE HIPERTROFIA VENTRICULAR IZQUIERDA
+
+protocolo:
+Exploración RM cerebral mediante secuencias potenciadas en T1 y T2 en los tres planos del espacio, sin y con contraste paramagnético.
+
+resultados:
+Cisternas basales libres.
+Estructuras de la línea media centradas.
+Sistema ventricular de tamaño prominente para la edad del paciente, sin signos de actividad hidrocefálica y con su situación conservada.
+No se aprecian lesiones focales, alteraciones significativas de la señal ni captaciones patológicas infra ni supratentoriales.
+Leve ensanchamiento de surcos de la convexidad para la edad del paciente, especialmente del surco poscentral izquierdo y de las cisuras de Silvio.
+Sinusopatía en el seno esfenoidal izquierdo y mínima ocupación mucosa de algunas celdillas mastoideas.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+RM CEREBRAL

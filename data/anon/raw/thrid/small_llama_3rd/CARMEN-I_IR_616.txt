@@ -1,0 +1,27 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Agradecería ANGIO TC PULMONAR en paciente con FAMILIARES_SUJETO_ASISTENCIA por FAMILIARES_SUJETO_ASISTENCIA (ECMO VV hasta el día FECHAS) que como complicación tiene un OTROS_SUJETO_ASISTENCIA con múltiples fenómenos OTROS_SUJETO_ASISTENCIA durante el ingreso y que además asocia OTROS_SUJETO_ASISTENCIA que ha requerido de OTROS_SUJETO_ASISTENCIA sin causa clara. Agradeceríamos angio-TC de torax y abdominal para descartar TEP y trombosis de venas renales o TVP proximal, gracias
+NEUMONIA BILATERAL POR SARS-COV-2
+
+protocolo:
+PROTOCOLO.
+
+resultados:
+Se compara con el estudio previo del FECHAS.
+Traqueostomía. SNG con un loop en cámara gástrica y extremo distal en el fundus. CVC yugular izquierdo con extremo distal en unión atriocaval.
+Tronco de la arteria pulmonar y sus ramas principales, lobares y segmentarias permeables, sin defectos de repleción que sugieran un TEP agudo. Dilatación del tronco de la arteria pulmonar de hasta EDAD_SUJETO_ASISTENCIA, estable.
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio. Ganglio paratraqueal alto derecho de tamaño borderline (EDAD_SUJETO_ASISTENCIA) que ha disminuido respecto el estudio previo (EDAD_SUJETO_ASISTENCIA).
+Mínimo derrame pleural bilateral que ha disminuido respecto el estudio previo. No se observa derrame pericárdico.
+Práctica resolución de la afectación parenquimatosa pulmonar en relación a la neumonía bilateral por FAMILIARES_SUJETO_ASISTENCIA conocida. Atelectasias laminares en TERRITORIO, TERRITORIO, TERRITORIO y língula. Dilataciones bronquiales en TERRITORIO.
+Consolidación normocaptante y con pérdida de volumen de todo el TERRITORIO que asocia broncograma aéreo y líquido, de aspecto atelectásico. Se aprecian otros focos consolidativos peribroncovasculares en el segmento posterior del TERRITORIO con una correcta captación de contraste, también de aspecto atelectásico.
+Esplenomegalia de EDAD_SUJETO_ASISTENCIA. Colelitiasis. Secciones abdominales incluidas en el estudio sin otros hallazgos relevantes.
+Colección densa de morfología fusiforme en la topografía del m. serrato anterior derecho con unos diámetros axiales de EDAD_SUJETO_ASISTENCIA, discretamente mayor respecto el estudio previo.
+
+conclusiones:
+- No hay signos de TEP.
+- Práctica resolución de la neumonía bilateral por FAMILIARES_SUJETO_ASISTENCIA conocida.
+- Consolidaciones de aspecto atelectásico en todo el TERRITORIO y segmentos basales posteriores del TERRITORIO.
+
+descrip:
+ANGIO TC PULMONAR

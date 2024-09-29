@@ -1,0 +1,21 @@
+ ANGIO TC PULMONAR
+
+clinica:
+[**Varón**] con neumonía COVID-19 intubado que presenta dímero D que asciende de forma persistente. Solicitamos Angio TC para descartar TEP.
+NEUMONIA BILATERAL POR SARS-COV-2
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+Defectos de repleción compatibles con TEP agudo en ramas segmentarias izquierdas y subsegmentarias bilaterales. Arterias pulmonares principales y tronco de la arteria pulmonar permeable de calibre normal (24 mm). No se identician signos por imagen de sobrecarga cardíaca derecha.
+Tubo endotraqueal a 2 cm de la carina.
+No se observan adenopatías axilares o mediastínicas de tamaño valorable.
+Sin derrame pleural o pericárdico.
+Parénquima pulmonar con presencia de opacidades en vidrio deslustrado bilaterales y difusas, ascociadas a importante componente consolidativo de predominio en segmentos posteriores, compatibles con neumonía bilateral por COVID-19. Se observan discretos signos de organización incipiente. Enfisema centrolobulillar y paraseptal.
+
+conclusiones:
+TEP agudo bilateral sin signos de sobrecarga cardíaca derecha. Neumonía bilateral por COVID-19 con signos de organización incipiente.
+
+descrip:
+ANGIO TC PULMONAR

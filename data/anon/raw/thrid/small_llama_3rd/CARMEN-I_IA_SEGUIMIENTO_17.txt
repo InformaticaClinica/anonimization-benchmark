@@ -1,0 +1,2 @@
+ - Seguir controles habituales por OTROS_SUJETO_ASISTENCIA.
+- Continuará controles en INSTITUCION de su ID_SUJETO_ASISTENCIA (INSTITUCION).

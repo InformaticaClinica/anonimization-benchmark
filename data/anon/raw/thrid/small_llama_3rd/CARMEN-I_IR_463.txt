@@ -1,0 +1,20 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA, ingresada en contexto de OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, TVP bilateral extensa en contexto de lo anterior. Debuta con OTROS_SUJETO_ASISTENCIA sin causa tóxico-metabólica actual. Solicito estudio. Gracias
+INFECCIÓN SARS-CoV-2
+
+protocolo:
+ECOGRAFIA DOPPLER ABDOMINAL (se realiza con protocolo de protección para OTROS_SUJETO_ASISTENCIA).
+
+conclusiones:
+Hígado de tamaño levemente aumentado, con ecoestructura mínimamente heterogénea y aumento difuso de su ecogenicidad, en relación a OTROS_SUJETO_ASISTENCIA. El LHI es de aspecto algo atrófico. Imagen hiperecogénica de 34 mm adyacente al lig. falciforme que probablemente corresponda a OTROS_SUJETO_ASISTENCIA.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+V. Porta permeable de calibre normal, con flujo hepatopetal a velocidades normales.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

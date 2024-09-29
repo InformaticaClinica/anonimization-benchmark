@@ -1,0 +1,26 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+
+## clinica
+Paciente con AP de OTROS_SUJETO_ASISTENCIA, cardiopatía isquémica, taquiarrítmias en tratamiento con OTROS_SUJETO_ASISTENCIA que ingresa por neumonía por FECHAS, con inicio de síntomas el FECHAS. Clínicamente evoluciona bien, pero en Rx presenta focos consolidativos periféricos y elevación progresiva en OTROS_SUJETO_ASISTENCIA, por lo que ante sospecha de probable neumonía organizativa solicito OTROS_SUJETO_ASISTENCIA. Cr 1.16. Gracias.
+FECHAS +
+
+
+## protocolo
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+
+## resultados
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Presenta múltiples focos consolidativos y de vidrio deslustrado subpleurales junto con bandas parenquimatosas subpleurales, todo ello coherente con neumonía por FECHAS. No objetivo imágenes que sugieran neumonía organizativa en el repsente estudio. Presenta ocupación mucosa endobronquial por lo que no puedo descartar una sobreinfección bacteriana.
+Cambios degenerativos en la columna torácica.
+
+
+## conclusiones
+Ver resultados.
+
+
+## descrip
+TC TÒRAX ALTA RESOLUCIO

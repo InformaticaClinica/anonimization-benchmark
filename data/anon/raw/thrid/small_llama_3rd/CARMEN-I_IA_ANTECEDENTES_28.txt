@@ -1,0 +1,6 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, no refiere hábitos tóxicos.
+- Anemia cronica.
+- Hipotiroidismo en tratamiento con OTROS_SUJETO_ASISTENCIA.
+- El FECHAS consulta al INSTITUCION por edema a nivel parotideo bilateral (D>I), no asociado a fiebre/tiritona. Orientado como parotiditis, inician tratamiento con amoxicilina y paracetamol. Convive con OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA quien se encuentra asintomática.
+- Quirúrgicos: QUIRÚRGICOS.
+PSICOBIOGRAFÍA: Vive con su OTROS_SUJETO_ASISTENCIA e OTROS_SUJETO_ASISTENCIA. Actualmente se encuentran bien, asintomáticos. Trabaja en PROFESION (actualmente en contacto con pacientes OTROS_SUJETO_ASISTENCIA).

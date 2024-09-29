@@ -1,0 +1,10 @@
+ RX PORTATIL TORAX
+
+
+## clinica
+Control post OTROS_SUJETO_ASISTENCIA - mañana FECHAS
+FAMILIARES_SUJETO_ASISTENCIA
+
+
+## conclusiones
+Importante mejoria radiologica de las opacidades alveolo intersticiales bilaterales, con respecto la Rx previa del 23-06-2027.

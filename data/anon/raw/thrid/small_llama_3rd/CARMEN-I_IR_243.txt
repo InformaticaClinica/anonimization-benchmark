@@ -1,0 +1,23 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA, ingresado por neumonía por Sars-cov-2 la cual requirió ingreso en la UCI por insuficiencia respiratoria. Al analítica aumento de indices de FAMILIARES_SUJETO_ASISTENCIA persistente. A la EF no signos de obstrucción biliar (Murphy neg).
+Ruego valoración.
+Gracias
+Coletasis
+
+protocolo:
+Ecografia abdominal.
+
+conclusiones:
+Hígado de tamaño normal, contornos lisos y ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar normodistendida y de paredes finas, no litiásica.
+Ausencia de signos ecográficos de colecistitis aguda. Vía biliar no dilatada.
+Vena porta permeable, de calibre normal y flujo hepatopetal a velocidades normales. Confluente espleno-mesentérico y venas suprahepáticas permeables.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes. Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Quistes sinusales en riñón izquierdo.
+Vejiga urinaria colapsada con sonda vesical en su interior.
+No hay líquido libre intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

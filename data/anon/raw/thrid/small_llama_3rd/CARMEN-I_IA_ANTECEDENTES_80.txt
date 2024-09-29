@@ -1,0 +1,47 @@
+ Antecedentes personales:
+* ANTECEDENTES PERSONALES:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA. Natural de PAIS. No viajes recientes (viajó por Sapporo, Japón, Portugal, Rusia; Último viaje hace más de 10 años).
+Hace más de 40 años que vive en TERRITORIO. Sin alergias medicamentosas.
+Fumador de OTROS_SUJETO_ASISTENCIA desde los OTROS_SUJETO_ASISTENCIA (actualmente < OTROS_SUJETO_ASISTENCIA). Ex- consumo ocasional de cocaína inhalada o fumada. Actualmente refiere consumo de metanfetamina fumada (ocasional, no siempre en contexto sexual). Convivió en casas compartidas, en el último domicilio en FECHAS tuvo una plaga de garrapatas. Actualmente vive con un compañero de piso, OTROS_SUJETO_ASISTENCIA.
+* ANTECEDENTES PATOlÓGICOS:
+1. HIPERTENSIÓN ARTERIAL SISTÉMICA
+2. DIABETES MELLITUS TIPO 2. Diagnóstico en FECHAS aproximadamente, Insulinodependiente. Afe3ctación de órgano diana: europatía periférica y retinopatía secundaria (no contamos con informes complementarios). Mal control (Hb glicada OTROS_SUJETO_ASISTENCIA)
+3. DISLIPEMIA en tratamiento farmacológico
+4. CARDIOPATIA ISQUÉMICA.
+- Debut en FECHAS. Angina inestable con elevación del ST (Coronografía: tronco común OTROS_SUJETO_ASISTENCIA; D.A. OTROS_SUJETO_ASISTENCIA; CX OTROS_SUJETO_ASISTENCIA y CD OTROS_SUJETO_ASISTENCIA). Se realizó Angioplastia y colocación de Stent (CYPHER) en lesión severa de la D.A.
+- Ecocardiograma (FECHAS): FE OTROS_SUJETO_ASISTENCIA, Válvulas normofuncionantes. Válvula aórtica trivalva. Raíz no dilatada. VI de dimensiones y motilidad normales. Tabique interauricular íntegro. Aorta torácica descendente explorada hasta 35 cm. Cavidades derechas de dimensiones y motilidad normal, No derrame pericárdico. No vegetaciones.
+- SPECT Miocárdico (FECHAS): FE OTROS_SUJETO_ASISTENCIA. No se aobservan alteraciones regionales de la contractilidad ni del engrosamiento sistólico. 6,7 METs. 68% de la FCMT. Sin angor ni cambios ECG. Estudio de perfusión sin evidencia de isquemia.
+Actualmente sin seguimiento por CAR.
+5. INFECCIÓN CRÓNICA POR VIH
+Diagnosticado en FECHAS (probable contacto sexual a través de su ex- cónyuge, OTROS_SUJETO_ASISTENCIA) en seguimiento por medicina interna de INSTITUCION hasta 2009, actualmente en nuestro hospital (Dra. Villoslada).
+- No tenemos datos analíticos previos a FECHAS. A partir de FECHAS con adecuado control inmunológico y carga viral persistentemente indetectable. Último análisis 3/12: CD4 1439 cv indetectable
+- No infecciones oportunistas.
+- Serologías:
+VHA IgG (27/1): +
+HBsAg (04/12): -
+HBsAc-IgG(04/12): -
+CoreHB-IgG (1/10): -
+IgG VHC (04/12): -
+IgG CMV (1/10): +
+IgG Toxoplasma (1/10): -
+IgG Sarampión (1/10): +
+IgG Parotiditis (1/10): +
+Ac Rubeola (1/10): +
+AcVVZ (07/11): +
+- PPD (1/10): -
+- HLA-B*5701 (1/10): -
+- Tratamientos:
+De FECHAS a 08/11: Atripla
+08/11 a actualidad: Raltegravir + Emtricitabina + TAF (cambio debido a que presentó episodios de síncopes y se pensó que efavirenz podría incrementar efecto de hipotensores)
+- Infecciones oportunistas: no refiere
+6. CARCINOMA UROTELIAL DE BAJO GRADO sin evidencia de infiltración (PTa). Tratado mediante RTU 5/2006 en INSTITUCION. Refiere que le dieron de alta. No hay cursos ni informes en Historia clínica electrónica. Sin seguimiento actual.
+Además detección de PSA en FECHAS de OTROS_SUJETO_ASISTENCIA, por lo que realizaron ecografía y biopsia prostática, ambas sin hallazgos.
+7. PROCTITIS INFECCIOSA FECHAS (LGV) y FECHAS (Gonococo)
+8. SÍFILIS:
+- Tratada con penicilina (3 dosis) en FECHAS.
+- Por sospecha de neuro-lues, se realiza PL en FECHAS: VRDL en LCR negativo LCR, treponémicas (IgM negativa, IgG positiva). Bioquímica con glucosa OTROS_SUJETO_ASISTENCIA, prot OTROS_SUJETO_ASISTENCIA, hematies OTROS_SUJETO_ASISTENCIA, células OTROS_SUJETO_ASISTENCIA. Se trató nuevamente con Penicilina, 3 dosis.
+9. BACTERIEMIA POR MRSA en contexto de prostatitis polimicrobiana.
+Ecocardiograma transtorácico y transesofágico negativos. TAC abdominal informa la presencia de varios abscesos prostáticos, extraprostáticos y nefritis bilateral. Drenaje absceso: aislamiento de E.Coli BLEA y una Klebsiella Oxytoca. Inicialemnte antibiótico con ceftarolina y daptomicina, ajustado a linezolid y ertapenem (OTROS_SUJETO_ASISTENCIA).
+10. DELIRIO PARASITARIO (SÍNDROME DE EKBOM). Múltiples consultas al CAP y PSI por mismo motivo.
+* TRATAMIENTO ACTUAL:
+TARV: Descovy + Raltegravir 1200 mg/2, Isosorbide 20mg/8h, Solifenacina 10mg/24h, Alprostadil (caverject) 10mcg/24h, Hidroferol /14 d, Atorvastatina 40mg/24h, Bisoprolol 1.25mg/24h, Lorazepam 1mg/24h Insulina novomix 38-0-18 UI, Metformina 850mg/24h, Omeprazol 20mg/24h, Clopidogrel 75mg/24h

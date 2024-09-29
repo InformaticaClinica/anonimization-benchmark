@@ -1,0 +1,20 @@
+ Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas conocidas. Exfumador sin otros hábitos tóxicos. Actualmente dependiente para las ABVD (vive en domicilio con su OTROS_SUJETO_ASISTENCIA y están en trámites con INSTITUCION para ayuda).
+*ANTecedentes patológicos:
+1. FAMILIARES_SUJETO_ASISTENCIA
+2. FAMILIARES_SUJETO_ASISTENCIA en tratamiento.
+3. FAMILIARES_SUJETO_ASISTENCIA.
+4. FAMILIARES_SUJETO_ASISTENCIA.
+5. FAMILIARES_SUJETO_ASISTENCIA en arteria cerebral media izquierda con ingreso en HOSPITAL del 11 al 14 de mayo realizándose OTROS_SUJETO_ASISTENCIA con migración del trombo a rama M4 parietal distal izquierda descartándose OTROS_SUJETO_ASISTENCIA por inaccesibilidad. Quedó como secuela FAMILIARES_SUJETO_ASISTENCIA con FAMILIARES_SUJETO_ASISTENCIA y FAMILIARES_SUJETO_ASISTENCIA y FAMILIARES_SUJETO_ASISTENCIA.
+6. Probable FAMILIARES_SUJETO_ASISTENCIA pendiente de estudio con OTROS_SUJETO_ASISTENCIA y seguimiento por INSTITUCION.
+7. FAMILIARES_SUJETO_ASISTENCIA. Ingreso reciente (junio de 2024) en HOSPITAL por infección de tracto urinario. Durante el ingreso, por episodio de rectorragias, se realizó OTROS_SUJETO_ASISTENCIA que mostró neoformación pseudooclusiva a 50 cm del margen anal con sangrado difuso en babeo. No encontramos informe de biopsia, pero el informe de alta refiere adenocarcinoma de colon descendente. El paciente refiere que resecó el tumor quirúrgicamente (el paciente presenta cicatrices de OTROS_SUJETO_ASISTENCIA reciente).
+**TRATAMIENTO HABITUAL (27/06/2024):
+omeprazol 20mg/24h
+bemiparina 3500mg/24h
+acido acetilsalicilico 100mg/24h
+atorvastatina 40mg/24h
+ziprasidona 20mg/24h
+quetiapina 25mg/24h
+loracepam 5mg/24h
+venlafaxina 150mg/24h
+enalapril 5mg/24h.

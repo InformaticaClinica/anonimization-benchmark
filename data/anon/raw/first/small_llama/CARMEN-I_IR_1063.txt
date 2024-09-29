@@ -1,0 +1,29 @@
+ En seguimiento por Hematología [**ANGIO TC REGION ESPLACNICA**] (TC, AMS)
+
+clinica:
+Paciente [**mujer**] 75 [**años**]. Neumonía [**COVID-19**]. Buena evolución. Actualmente estable, ayer inició sedeastación. Anticoagulada por [**ACxFA**]. Esta madrugada presenta episodio de hipotensión brusca. Sospecha hemaorragia abdominal (probablemente retroperitoneal), Interesa [**angioTC**]. GRacias
+[**NEUMONIA COVID19**]
+
+protocolo:
+[**ANGIO TC REGION ESPLACNICA**] URGENTE
+
+resultados:
+Gran hematoma retroperitoneal derecho de aproximadamente 235 x 137 x 125 mm, que se extiende cranealmente hacia espacio perirrenal y fascia pararrenal ipsilaterales y caudalmente avanza por la gotiera paracólica derecha hasta pelvis.
+Foco de extravasación de contraste en fase arterial adyacente al músculo psoas derecho que aumenta en fases tardías, compatible con sangrado activo.
+Moderado hemoperitoneo en pelvis. No se observan colecciones ni neumoperitoneo.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Vesicula biliar distendida, sin alteraciones evidentes. Via biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables.
+Bazo, páncreas y glándulas suprarrenales sin alteraciones.
+Riñones de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+Sondaje vesical.
+Sutura metálica en recto.
+Leve derrame pleural bilateral que condiciona copaso pasivo del paréqnquima pulmonar adyacente.
+Múltiples focos consolidativos difusos identificados en paréqnuima pulmonar incluido en el estudio, en relación con su infección por [**COVID**], en evolución.
+
+conclusiones:
+Gran hematoma retroperitoneal derecho con foco de sangrado activo arterial adyacente al músculo psoas derecho.
+
+descrip:
+[**ANGIO TC REGION ESPLACNICA**] (TC, AMS)

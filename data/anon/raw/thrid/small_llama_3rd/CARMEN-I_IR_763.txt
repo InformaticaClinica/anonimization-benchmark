@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+COVID19 + OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Opacidades alveolares bilaterales sugestivo de afectación pulmonar por COVID que han  disminuido ligeramente con respecto a control previo de FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

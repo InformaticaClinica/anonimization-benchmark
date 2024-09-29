@@ -1,0 +1,2 @@
+ Varón de EDAD_SUJETO_ASISTENCIA. Totalmente dependiente, con deterioro cognitivo y actualmente en INSTITUCION tras ingreso reciente por shock séptico secundario a colitis por OTROS_SUJETO_ASISTENCIA y hemorragia digestiva en éste mismo contexto con requerimiento de soporte transfusional, además es OTROS_SUJETO_ASISTENCIA, afecto de OTROS_SUJETO_ASISTENCIA, trasplantado en FECHAS pero con pérdida del injerto hace un mes en relación con falta de adherencia terapéutica por lo que se inició hemodiálisis crónica (M,J,S).
+Hoy es derivado desde su INSTITUCION por objetivar fiebre.

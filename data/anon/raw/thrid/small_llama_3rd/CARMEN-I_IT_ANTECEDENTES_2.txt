@@ -1,0 +1,36 @@
+ Antecedentes personales:
+Hombre de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, no fumador, consumo de enol muy esporádico, no otros hábitos tóxicos. Natural de PAIS, en TERRITORIO desde hace 4 años. Trabaja como PROFESION. Tiene 3 OTROS_SUJETO_ASISTENCIA. Sin hijos.
+
+ANTECEDENTES PATOLÓGICOS:
+1. LEUCEMIA AGUDA LINFOBLÁSTICA T estadio madurativo T-II diagnosticada el 24/12/2024. Sin infiltración a SNC.
+* AMO: infiltrado monomorfo por elementos blásticos.
+* IF (Anya): 96.8% en MO y un 40.8% en SP de células con marcadores asociados a línea linfoide T (CyCD3+, CD3-, CD7++, CD5+ débil) con rasgos de inmadurez relativa (TDT+, CD99++). Fenotipo compatible con LLA T-II: CyCD3+, sCD3-, HLADR-, CD7++, CD5+débil, CD2 +débil, nTDT+.
+* Citogenética convencional no valorable.
+* FISH BCR/ABL1 normal y KMT2A normal.
+* Estudio genómico (lab. externo) NO muestra un genotipo de alto riesgo.
+* PET-TC 29/12: masa en mediastino anterior con SUVmáx de 5.22.
+Inició tratamiento quimioterápico según el protocolo PETHEMA LAL 2023:
+> INDUCCIÓN, inicio 29/12/2024.
+* AMO +14d: RC morfológica con EMR-IF 0,3%.
+* AMO fin de inducción: 1% blastos con EMR-IF negativa (confirmado en Anya).
+* PET/TC: respuesta metabólica completa.
+Complicaciones durante la inducción:
+a) Shock de probable etiología infecciosa sin foco claro con ingreso en AVI con requerimiento de soporte vasoactivo con rápida recuperación hemodinámica.
+b) Coagulopatía de consumo con prolongación del tiempo de protrombina y plaquetopenia sin evidencia de hemorragia ni requerimiento de soporte transfusional, con resolución progresiva.
+c) Hepatotoxicidad grado 4 por asparraginasa, por lo que no se administró la 2o dosis de la inducción. Requirió ingreso a finales de enero y se realizó una biopsia hepática que mostró esteatosis difusa compatible con toxicidad por fármaco. Recibió tratamiento con L- carnitina 50mg/kg c/8h, con mejoría progresiva del perfil hepático, hasta la práctica normalización.
+> CONSOLIDACIÓN PRECOCES:
+> CONSOLIDACIÓN PRECOZ-1, del 6/03-10/03/25, VCR d+1 y d+8, MTX 5g/m2 d+1, sin PEG-Asparraginasa. Presentando como complicaciones una depuración lenta de metrotexate con insuficiencia renal aguda (Cr 1,45 mg/dl) con niveles indetectables y resolución de la complicación a las 72 horas. El 6/03 se realiza PL con TIT (LCR normal).
+> CONSOLIDACIÓN PRECOZ-2, del 5/04 - 08/04, con dosis matizadas de PEG- Asparraginasa +  ARA-C + DXM. El 12/04 se realiza PL con TIT (LCR normal). Neulasta 10/04.  Sin incidencias.
+> CONSOLIDACIÓN PRECOZ-3, del 26 al 6/5/25, con dosis matizada de PEG- Asparraginasa y MTX.
+> REINDUCCIÓN: del 29/5 al 25/6/20, con 2 terapias intratecales.
+* AMO (5/7/25): RC morfológica (1% blastos), EMR<0.01%.
+* PET/TAC (7/7/25): no actividad tumoral macroscópica.
+> CONSOLIDACIÓN TARDÍA-1, del 1/08 al 3/08, como complicaciones presentó:
+* Insuficiencia renal aguda (creat máxima 2,0 mg/dl) con lenta eliminación de metotrexate, en resolución.
+* Bacteriemia por Pseudomona ozihabitans y Morraxella morgagni que requirió retirar el catéter y tratamiento con ceftacidima.
+* Trombosis asociada al PICC (22/08/25), se retiró e inició anticoagulación que deberá mantener durante 3 meses
+> CONSOLIDACIÓN TARDÍA-2, del 6/09 al 11/9, sin complicaciones
+> CONSOLIDACIÓN TARDÍA-3, del 7/10 al 10/10.Dosis matizada PEG-A (500UI/m2) y MTX a 2g/m2 por toxicidad renal y hepática.
+* RECAÍDA MORFOLÓGICA EN LA REEVALUACIÓN TRAS CONSOLIDACIONES TARDÍAS:
+- AMO 08/11/25: 57% blastos por morfología IF: Infiltració medul·lar per un 57% de limfoblasts T (estadi maduratiu T- III) de fenotipus TdT + (24% molts intens, 70% dèbil), CD99+ CD5+ CD10+ CD1a+ (67%) CD3 membrana- CD3 citoplasmàtic + CD45 dèbil CD2+ CD7+ CD4+ dèbil i parcial CD8- CD34- TCR beta citoplamàtic + TCR alfa beta membrana - i TCRgamma delta- amb expressió aberrant de CD79a i sense expressió dels marcadors mieloides dels CD117, CD33, CD13, CD123 ni HLADR.
+- PET/TC 08/11/25: Sin actividad tumoral macroscópica.

@@ -1,0 +1,43 @@
+ TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+Paciente de [**62 años**] de edad:
+1. COVID+ (hallazgo, asintomatica). Alta de sala COVID el 15.05.2013.
+Luego negativización.
+2. PERFORACIÓN INTESTINAL POST-HISTEROSCOPIA --> dos perforaciones de aproximadamente 1cm de diámetro cada una
+en yeyuno e íleon distal (a unos 15cm de ciego); se realizo resección de dichos segmentos y anastomosis L-L isoperistáltica con endoGIA tri- stapler (60mm y 45mm).
+3. SUBOCLUSIONES DE REPETICIÓN: en IQ se observa ANASTOMOISIS IEAL APLASTRONADA A PARED ABDOMINAL > RESECCIÓN DE ANASTOMOSIS PREVIA + ANASTOMOSIS ILEO- ILEAL L-T MANUAL + BLAKE + MALLA DE SUSTITUCIÓN RETROMUSCULAR (26/05/2013).
+4. HEMATOMA DE LA VAINA DE LOS RECTOS (11cm) POR SANGRADO EPIGÁSTRICA DERECHA --> EMBOLIZACIÓN 29/05
+Paciente estable, drenaje con debito oscuro; se realiza analítica del drenaje y se observa Bilirrubina de 1,6 (0.2 la serica) y Amilasa de 9009
+Por lo tanto solicitamos TAC abdominal
+Gracias!!!!
+Obstrucció intestinal no especificada
+
+protocolo:
+TC abdominal en fase pancreatográfica y en fase portal tras la administración de contraste endovenoso.
+
+resultados:
+Se compara con los TC previos del 29/5/13 y el 1/6/13:
+Cambios postquirúrgicos por resección intestinal con dos suturas metálicas latero-terminales ileales
+No se observa liquido libre ni colecciones en la vecindad de las anastomosis mencionadas. Se observan dos burbujas de aire en el mesenterio.  Estos hallazgos no son concluyentes de un fallo, se podria ampliar estudio con contraste oral.
+Drenaje quirúrgico con entrada en FID con un trayecto que discurre por el interior del hematoma derecho y la coleccion izuqierda y con  extremo distal en vació izquierdo adyacente a la pared abdominal y sutura quirurgica.
+Disminución del tamaño del hematoma de la vaina de los rectos izquierdo, actual de 24x91x115mm, previo de 33x110x176mm. Este presenta material de embolización y burbujas de aire en el seno del mismo, sin objetivar signos de resangrado.
+Se identifica una colección adyacente al ángulo hepático de 33x 17 mm que contacta con la pared abdominal en HCD y la pared colónica adyacente. Ha aumentado de tamaño respecto al estudio previo, y está en probable relación con extensión del hematoma de rectos a nivel intraabdominal.
+Reducción de la colección fusiforme en pared abdominal derecha con pequeñás burbujas de aire en el momento actual, de 60x 21 mm, previo de 30x73mm. Ulceración en tejido subcutáneo periumbilical. Edema subcutáneo difuso.
+Fecaloma
+Higado de tamaño y morfolofía normal con disminución difusa de su coeficiente de atenucaicón en relación con esteatosis hepática.
+Vesícula biliar de tamaño normal. Vía biliar intra y extrahepática no dilatadas.
+Vena porta y eje esplenomesentérico permeables.
+Bazo de tamaño normal con pequeña lesión hipovascular en polo superior, inespecífica y sin cambios. Páncreas de densidad y tamaño normales, sin alteraciones destacables. Glándulas suprarrenales de aspecto adenomatoso.
+Riñones de tamaño y morfología conservados con nefrograma simétrico bilateral. Discreta ectasia bilateral de la vía excretora secundaria a globo vesical.
+No se identifican adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Histerectomía y doble annexectomía
+Atelectasias bibasales con tenues fococs consolidativos en probable relación a cambios residuales por infección previa por COVID.
+
+conclusiones:
+Cambios postquirúrgicos por resección intestinal con dos suturas metálicas latero-terminales ileales
+No se observa liquido libre ni colecciones en la vecindad de las anastomosis mencionadas. Se observan dos burbujas de aire en el mesenterio.  Estos hallazgos no son concluyentes de un fallo, se podria ampliar estudio con contraste oral.
+Drenaje quirúrgico con entrada en FID con un trayecto que discurre por el interior del hematoma derecho y la coleccion izuqierda y con  extremo distal en vació izquierdo adyacente a la pared abdominal y sutura quirurgica.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

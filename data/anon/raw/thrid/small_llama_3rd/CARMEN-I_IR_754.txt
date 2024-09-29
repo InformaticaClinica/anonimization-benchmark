@@ -1,0 +1,21 @@
+ En seguimiento por FAMILIARES_SUJETO_ASISTENCIA
+
+clinica:
+Síndrome febril, en TC Lesión expansiva de EDAD_SUJETO_ASISTENCIA en los ganglios basales izdos de aspecto necrótico-quístico con áreas de OTROS_SUJETO_ASISTENCIA ,realce periferico y con edema perilesional.Efecto masa sobre el VLI y estructuras de la TERRITORIO.A valorar por favor sangrado vs abceso, gracias.
+FIEBRE
+
+protocolo:
+Se administra OTROS_SUJETO_ASISTENCIA
+
+resultados:
+Se compara con el TC previo realizado en FECHAS. El estudio está artefactado por movimientos durante la adquisición ya que el paciente está agitado.
+Se observa la lesión previamente descrita a nivel de ganglios basales y capsula interna izquierda que mantiene un componente OTROS_SUJETO_ASISTENCIA y con una captación periferica. Ha disminuido levemente de tamaño respecto al estudio previo. En secuencias difusión muestra un aumento heterogeneo de la misma relacionado con el componente OTROS_SUJETO_ASISTENCIA. En el momento actual tiene menos efecto de masa que en el estudio previo y menor desviación de la TERRITORIO. La lesión se acompaña de OTROS_SUJETO_ASISTENCIA
+Los ventriculos laterales estan dilatados y hay una persistencia del cavum del septum pelucidum que en el TC estaba mas dilatada. Hay signos de edema transpendimario en ventriculo lateral izquierdo y un leve realce subependimario izquierdo.
+Entre el DD se debe de hacer con un OTROS_SUJETO_ASISTENCIA ahora en estado subagudo por TC y por RM que estaria captando contraste y que está mejorando respecto al estudio previo. La otra opción es un OTROS_SUJETO_ASISTENCIA pero su mejoria y su aspecto tan irregular no es tan tipico. Por otra parte hay el realce subependimario que podria ser reactivo o por OTROS_SUJETO_ASISTENCIA.
+Hay una OTROS_SUJETO_ASISTENCIA en ventriculos laterales sobre todo el izquierdo que actualmente se está reduciendo.
+
+conclusiones:
+Lesión expansiva en ganglios basales derechos que está reduciendo su tamaño y que tiene un componente OTROS_SUJETO_ASISTENCIA. Por localización podria ser un hematoma de ganglios basales que esta mejorando. La hidrocefalia está disminuyendo aunque hay edema y captación subependimaria. También está mejorando la desviación de la TERRITORIO. La opción de absceso no se puede descartar aunque radiologicamente parece menos probable debido al componente OTROS_SUJETO_ASISTENCIA de la lesión. No se descarta una sobreinfección del OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+FAMILIARES_SUJETO_ASISTENCIA

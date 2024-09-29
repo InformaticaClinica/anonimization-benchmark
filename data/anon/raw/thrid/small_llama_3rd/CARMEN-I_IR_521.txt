@@ -1,0 +1,11 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+COVID-19 +
+
+conclusiones:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+Disminución de la extensión y dnsidad de la codensación del tercio inferior del pulmón izquierdo y de la base pulmonar derecha en relación a la exploración previa del día FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

@@ -1,0 +1,12 @@
+ Ciprofloxacino 500 MG. Vía oral. Cada 12 horas. por una semana
+Clexane 60 MG. Vía subcutanea. Cada 24 horas. por dos semanas más
+Ideos 1 UND. Vía oral. Dos veces al día: desayuno y cena. por un mes
+Prednisona EDAD_SUJETO_ASISTENCIA hasta el FECHAS
+EDAD_SUJETO_ASISTENCIA desde el FECHAS hasta el FECHAS
+EDAD_SUJETO_ASISTENCIA desde el FECHAS hasta el FECHAS
+EDAD_SUJETO_ASISTENCIA desde el FECHAS hasta el FECHAS y suspender
+MEDICACIÓN HABITUAL:
+Dutamsin OTROS_SUJETO_ASISTENCIA 1 UND. Vía oral. Una vez al día, en la cena.
+Optovite® B12. 1 MG. Vía oral. Cada mes.
+Tebetane. 2 UND. Vía oral. Cada 24 horas.
+Omeprazol 20 MG. Vía oral. Una vez al día, en el desayuno.

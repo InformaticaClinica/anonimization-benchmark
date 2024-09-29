@@ -1,0 +1,22 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+NEUMONIA COVID
+
+protocolo:
+RX OTROS_SUJETO_ASISTENCIA portátil bipedestación. Se compara con RX del FECHAS.
+
+resultados:
+EVOLUCION
+Extensión: Disminución
+Consolidación: Disminución
+Aparición de fibrosis: No
+
+conclusiones:
+Afectación pulmonar por COVID que muestra mejoría respecto a Rx previa (FECHAS).
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

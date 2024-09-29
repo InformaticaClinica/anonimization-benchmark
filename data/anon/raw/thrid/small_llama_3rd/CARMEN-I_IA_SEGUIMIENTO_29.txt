@@ -1,0 +1,2 @@
+ - Acudir al INSTITUCION del CALLE per a realització d'analítica i radiografia de tòrax el dia FECHAS a les FECHAS.
+- Acudir a INSTITUCION per a visita mèdica (NOMBRE_PERSONAL_SANITARIO) el dia FECHAS a les FECHAS.

@@ -1,0 +1,6 @@
+ INFECCIÓN OTROS_SUJETO_ASISTENCIA.
+2. OTROS_SUJETO_ASISTENCIA
+3. Alzheimer GDS 6, DABVD, OTROS_SUJETO_ASISTENCIA
+.
+Por mala evolución clínica con desaturación y contexto clínico se decidió no tratamiento e iniciar tratamiento sintomático. Comentado con OTROS_SUJETO_ASISTENCIA.
+La paciente se encuentra tranquila sin trabajo respiratorio. Llamo de nuevo a OTROS_SUJETO_ASISTENCIA (NUMERO_TELEFONO) para informarle y resolver dudas.

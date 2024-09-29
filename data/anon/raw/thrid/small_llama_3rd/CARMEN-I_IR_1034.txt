@@ -1,0 +1,21 @@
+ TC TORAX
+
+clinica:
+ALTA SOSPECHA DE COVID PERO 2 FROTIS NEGATIVOS,
+OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Se practica estudio torácico en condiciones basales mediante INSTITUCION.
+
+resultados:
+Se compara con estudio de INSTITUCION previo realizado en otro INSTITUCION y FECHAS.
+Pequeñas OTROS_SUJETO_ASISTENCIA mediastínicas de tamaño significativo a la mayor a nivel subcarinal de EDAD_SUJETO_ASISTENCIA en su eje corto. No se observan otras OTROS_SUJETO_ASISTENCIA de tamaño significativo en los territorios comprendidos en el estudio.
+Engrosamiento difuso de OTROS_SUJETO_ASISTENCIA interlobulillares, OTROS_SUJETO_ASISTENCIA irregular de OTROS_SUJETO_ASISTENCIA y de OTROS_SUJETO_ASISTENCIA, sugestivo de OTROS_SUJETO_ASISTENCIA que ha progresado con respecto a estudio previo. Múltiples OTROS_SUJETO_ASISTENCIA parenquimatosos pulmonares que han aumentado en número y tamaño con respecto a OTROS_SUJETO_ASISTENCIA sugestivo asimismo de OTROS_SUJETO_ASISTENCIA.
+Se apreciaOTROS_SUJETO_ASISTENCIA algunos focos OTROS_SUJETO_ASISTENCIA alveolares y en OTROS_SUJETO_ASISTENCIA de predominio periférico por lo que no se puede descartar afectación pulmonar por OTROS_SUJETO_ASISTENCIA concomitente.
+Ligero OTROS_SUJETO_ASISTENCIA pleural bilateral.
+
+conclusiones:
+Indeterminado para OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+INSTITUCION

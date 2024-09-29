@@ -1,0 +1,24 @@
+ * ECODOPPLER (27/09/2021):
+Arterias OTROS_SUJETO_ASISTENCIA comun, bifurcación OTROS_SUJETO_ASISTENCIA, y superficial/profunda (tercio proximal) permeables. Los registros doppler son de morfología (trifásico) y velocidades normales.
+Venas OTROS_SUJETO_ASISTENCIA comun, bifurcación OTROS_SUJETO_ASISTENCIA, y superficial/profunda (tercio proximal) compresibles, permeables sin signos eco-doppler de trombosis.
+No imágenes de pseudoaneurisma ni fistula arteriovenosa.
+No colecciones.
+* IC ENDOCRINOLOGIA (27/09/2021):
+SEXO_SUJETO_ASISTENCIA 79 años, vive con su OTROS_SUJETO_ASISTENCIA, independiente para ABVD. AP destacables de hipotiroidismo primario (OTROS_SUJETO_ASISTENCIA 25 mcg/d).
+DIABETES MELLITUS TIPO 2. Diagnosticada en 2006. Inició tratamiento con OTROS_SUJETO_ASISTENCIA y actualmente con OTROS_SUJETO_ASISTENCIA/OTROS_SUJETO_ASISTENCIA 50/1000 mg/12h y OTROS_SUJETO_ASISTENCIA 15mg/d, con mal control glucémico (última HbA1c 10,7% en abril/2021). Sin complicaciones crónicas diagnosticadas. En seguimiento por MAP en INSTITUCION.
+* ENFERMEDAD ACTUAL: Ingresado por neumonía por SARS-CoV-2 con neumonía organizativa secundaria.
+Inició tratamiento con OTROS_SUJETO_ASISTENCIA 8 mg del 18/09-23/09. Posteriormente OTROS_SUJETO_ASISTENCIA 60mg/d hasta iniciar OTROS_SUJETO_ASISTENCIA 40 mg/d el 19/10 que mantiene en la actualidad. Durante su ingreso ha presentado hiperglucemias en patrón corticoideo 200-360 mg/dl, a pesar de tratamiento con OTROS_SUJETO_ASISTENCIA 0.66-0.79 U/kg/d.
+Nos interconsultan para valorar ajuste de tratamiento hipoglucemiante.
+Analítica sanguínea (19/09): HbA1c 10.8%, Función renal normal. Perfil tiroideo normal (TSH 0.508 mUI/ml).
+EF: Peso 68 kg, Talla 164 cm, IMC 25.3 kg/m2.
+* ORIENTACIÓN DIAGNÓSTICA: DIABETES MELLITUS TIPO 2 con mal control glucémico en contexto de neumonía por SARS-CoV-2 y corticoterapia, con mal control crónico.
+* PLAN DURANTE INGRESO:
+- Se ajusta pauta de OTROS_SUJETO_ASISTENCIA a 0.75 UI/kg/día. Insulina Glargina 20 UI/BT + Insulina Lispro 10-11-10 UI con pauta correctora según glicemia capilar con un FSI de 40. Ajustaremos según evolución.
+- Recomendamos educación de múltiples dosis de OTROS_SUJETO_ASISTENCIA por parte de enfermería de sala así como aportar glucómetro.
+* PLAN AL ALTA:
+- Como tratamiento al alta recomendamos mantener OTROS_SUJETO_ASISTENCIA/OTROS_SUJETO_ASISTENCIA 50/1000 mg/12h, OTROS_SUJETO_ASISTENCIA 15mg/d y además pauta de OTROS_SUJETO_ASISTENCIA:
+* OTROS_SUJETO_ASISTENCIA 40 mg: Lantus 18 UI + Lispro 6-8-6 UI.
+* OTROS_SUJETO_ASISTENCIA 30 mg: Lantus 16 UI + Lispro 5-7-5 UI.
+* OTROS_SUJETO_ASISTENCIA 20 mg: Lantus 14 UI + Lispro 4-6-4 UI.
+- Solicitamos visita en H. de día de PROFESION para seguimiento, se valorará continuar con OTROS_SUJETO_ASISTENCIA basal.
+- Para cualquier consulta contactar con OTROS_SUJETO_ASISTENCIA 660536.

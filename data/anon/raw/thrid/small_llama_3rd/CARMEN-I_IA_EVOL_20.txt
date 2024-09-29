@@ -1,0 +1,21 @@
+ INGRESO M926.
+1. INFECCIÓN SARS-COV-2.
+2. INSUFICIENCIA RENAL CRÓNICA EN DIÁLISIS.
+Vacunación correcta tres dosis, abril y diciembre de 2018 con OTROS_SUJETO_ASISTENCIA.
+Inicio síntomas 11/02/2019: síndrome diarreico, rinorrea y sensación distérmica.
+Primera PCR positiva 12/02/2019.
+PCR 14/02: FECHAS
+Inicio tratamiento 13/02/2019: OTROS_SUJETO_ASISTENCIA.
+PCR 18/02: 29 CTS
+A su llegada a nuestro centro el paciente se encuentra hemodinámicamente estable y afebril. En la exploración no se aprecian alteraciones en la auscultación pulmonar. El electrocardiograma muestra ritmo sinusal. La analítica sanguínea muestra una elevación discreta de reactantes de fase aguda con PCR de FECHAS y leucocitosis leve de FECHAS; ferritina elevada de FECHAS; D-dímero de FECHAS; alteración del perfi hepático con colestasis asociada con FA de FECHAS y ggt de FECHAS sin hiperbilirrubinemia; anemia macrocítica leve, estable con respecto a previas con hemoglobina de FECHAS; troponinas negativas. Filtrado de FECHAS (en diálisis); no alteraciones iónicas. La radiografía de tórax no presenta claros infiltrados comparando con las previas.
+Se trata de una infección FAMILIARES_SUJETO_ASISTENCIA en paciente con factores de riesgo y comorbilidad. Se comenta el caso con infecciones y se inicia OTROS_SUJETO_ASISTENCIA con dosis habituales y enoxaparina profiláctica a dosis ajustadas tras consultar con PROFESION (FECHAS. En cuanto a la diálisis se comenta con PROFESION que realizará hoy a la noche (a partir de las FECHAS).
+Evolución ingreso:
+Durante su ingreso el paciente ha realizado las sesiones de diálisis según pautado por PROFESION los lunes-miércoeles-viernes.
+Se pautó desde el FECHAS OTROS_SUJETO_ASISTENCIA 5 días.
+A nivel respiratorio se mantuvo estable durante la primera semana, realizando un pico febril el viernes FECHAS tras regresar de diálisis.
+Este pico febril se acompañó de un empeoramiento de los parámetros inflamatorios a nivel analítico: PCR de FECHAS; leucocitosis leve de FECHAS; ferritina de FECHAS; D-dímero de FECHAS.
+Además, también se observó un infiltrado basal izquierdo en Rx tórax que no estaba presente en la Rx tórax del ingreso.
+Por todo ello, en consenso con infecciones, se pautó OTROS_SUJETO_ASISTENCIA FECHAS y OTROS_SUJETO_ASISTENCIA.
+En la PCR de control tras fin OTROS_SUJETO_ASISTENCIA FECHAS, CTs de FECHAS.
+A raíz de tratamiento, el paciente presenta mejoría clínica y analítica, disminuyendo los parametros analíticos de forma progresiva.
+El día FECHAS se decide cambio de medicación a oral, desescalando la dexametasona a FECHAS y cambiando el antibiótico a OTROS_SUJETO_ASISTENCIA FECHAS.Por buena evolución se decide alta a domicilio con próxima visita en Consultas Externas de Enfermedades Infecciosas.

@@ -1,0 +1,14 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+[**COVID19**]
+[**COVID CONFIRMADO**]
+
+protocolo:
+RX de [**tórax portátil**]
+
+conclusiones:
+Opacidades alveolointersticiales bilaterales y periféricas, con algún foco consolidativo asociado que afectan a campos medio e inferior del pulmón derecho y campo superior, medio e inferior del pulmón izquierdo en relación con afectación pulmonar por [**COVID**]. Comparativamente con RX previa del [**5/7/2017**] no se identifican cambios significativos, siendo aparentemente estable. No se identifican alteraciones hiliomediastínicas. No hay derrame pleural. Acceso venoso central en brazo derecho con extremo en aurícula derecha.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

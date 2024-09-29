@@ -1,0 +1,9 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA, sin AMC.
+1. CARDIOPATÍA ISQUÉMICA colocación de stent cardíaco hace 10 años, aparentemente asintomático, no dispongo de informes.
+2. HTA con difícil control de cifras tensionales por adherencia irregular. Ingreso en FECHAS por Crisis hipertensiva.
+3. DISLIPIDEMIA en tratamiento farmacológico
+4. HIPOTIROIDISMO en tratamiento sustitutivo
+5. POLIARTROPATÍA GOTOSA en tratamiento con OTROS_SUJETO_ASISTENCIA
+6. DETERIORO COGNITIVO, de tiempo de evolución que se precipita en FECHAS.
+7. Trombosis venosa superficial en OTROS_SUJETO_ASISTENCIA, ¿diagnóstico en FECHAS? no dispongo de pruebas de imagen, tto anticoagulante.
+IQ: colecistectomía, OTROS_SUJETO_ASISTENCIA.

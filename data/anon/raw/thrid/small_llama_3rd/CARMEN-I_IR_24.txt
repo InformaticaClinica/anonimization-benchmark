@@ -1,0 +1,12 @@
+ RX  PORTATIL  INSTITUCION
+
+clinica:
+Infección por COVID-19
+
+conclusiones:
+Se compara con exploración previa del FECHAS.
+Persiste el tenue infiltrado intersticial bilateral más evidente a nivel de las OTROS_SUJETO_ASISTENCIA.
+Disminución del tamaño del nódulo pulmonar en LSI que corresponde a M1.
+
+descrip:
+RX  PORTATIL  INSTITUCION

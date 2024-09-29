@@ -1,0 +1,17 @@
+ En seguimiento por SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con antecedentes: HTA, OTROS_SUJETO_ASISTENCIA, FA anticoagulado con OTROS_SUJETO_ASISTENCIA, Enfermedad renal crónica por OTROS_SUJETO_ASISTENCIA (Creatinina basal FECHAS, FG> FECHAS). Ingresado por celulitis-fascitis de la extremidad inferior izquierda con buena evolución con reducción del eritema y sin aumento de temperatura. Deterioro importante de la función renal en las ultimas 24h con creatinina de FECHAS y aumento del potasio hasta FECHAS. Ayer episodio de RAO de FECHAS, sondaje con orina hemática. Solicitamos eco reno- OTROS_SUJETO_ASISTENCIA de valoración. MUCHAS GRACIAS.
+Infecció per OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Se realiza estudio basal.
+
+resultados:
+Riñones de tamaño y ecoestructura normal.  No se observan litiasis renales evidentes. No se observa dilatación de la vía excretora (presencia de mínima ectasia piélica derecha sin otros hallazgos significativos).
+Se observan escasos quistes simples bilaterales.
+Vejiga urinaria de morfología normal y muy distendida (presencia de sonda vesical pinzada para la exploración),  sin proliferaciones parietales evidentes.
+Próstata no visible por vía suprapúbica.
+
+conclusiones:
+Riñones sin alteraciones morfológicas con mínima ectasia piélica derecha (en paciente con vejiga muy distendida).
+
+descrip:
+ECO RENO-VESICAL

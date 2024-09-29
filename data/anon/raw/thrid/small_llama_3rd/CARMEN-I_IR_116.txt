@@ -1,0 +1,20 @@
+ En seguimiento por EDAD_SUJETO_ASISTENCIA neumonía bilateral por OTROS_SUJETO_ASISTENCIA a día FECHAS de síntomas, a su ingreso parámetros inflamatorios elevados con OTROS_SUJETO_ASISTENCIA, hiperferritinemia, insuficiencia respiratoria, respuesta al tratamiento con OTROS_SUJETO_ASISTENCIA y rescate con OTROS_SUJETO_ASISTENCIA. En las últimas jornadas objetivamos disnea de esfuerzo con hipoxemia y taquicardia sinusal, llama la atención elevación marcada de OTROS_SUJETO_ASISTENCIA a OTROS_SUJETO_ASISTENCIA a pesar de mejoría inicial tras OTROS_SUJETO_ASISTENCIA. Ruego descartar complicación post-covid: OTROS_SUJETO_ASISTENCIA en primer lugar, o bien, neumonía organizativa. Gracias
+NEUMONIA OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+INSTITUCION
+
+resultados:
+No se visualizan defectos de repleción intraluminal sugestivos de OTROS_SUJETO_ASISTENCIA en las arterias pulmonares principales, en sus ramas lobares ni segmentarias.
+Tronco de la arteria pulmonar permeable de calibre normal.
+Parénquima pulmonar con opacidades en vidrio deslustrado de distribución difusa y con algunas áreas con tendencia a la consolidación en ambos lóbulos inferiores en relación a afectación pulmonar por COVID-19.
+No se visualizan adenopatías de tamaño patológico a nivel mediastínico, hiliar ni axilar.
+Resto de estructuras mediastínicas sin alteraciones significativas.
+No hay derrame pleural ni pericárdico.
+En los cortes de hemiabdomen superior incluidos se visualiza un bazo accesorio de OTROS_SUJETO_ASISTENCIA y dos imágenes hipodensas en segmentos OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA sugestivas de OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+No hay signos concluyentes de OTROS_SUJETO_ASISTENCIA
+
+descrip:
+ANGIO TC PULMONAR

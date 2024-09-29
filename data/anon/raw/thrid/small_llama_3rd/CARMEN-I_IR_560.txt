@@ -1,0 +1,17 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA+
+
+protocolo:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+resultados:
+Comparativamente con la radiografía previa del FECHAS se visualiza aumento de la extensión de las opacidades alveolares que afectan predominantemente ambas bases pulmonares.
+PICC con extremo distal en vena cava superior.
+
+conclusiones:
+Progresión de la afectación neumónica bilateral con patrón que sugiere neumonía por FAMILIARES_SUJETO_ASISTENCIA.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

@@ -1,0 +1,4 @@
+ Paciente SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA sin AMC, ni tratamientos habituales es trasladada desde INSTITUCION por presentar síndrome distémico de 2 días de evolución acompañado de cefalea, tos no productiva y disnea a medianos esfuerzos sin ageusia, anosmia ni alteración de ritmo deposicional.
+A su llegada a INSTITUCION, la paciente se encuentra consciente orientada en las tres esferas, exploración física destaca crepitantes bibasales.
+Rx tórax realizada en TERRITORIO destaca 2 imágenes de condensación parenquimatosa a nivel de basal derecho y izquierdo con refuerzo hiliar bilateral. ICT límite. Analítica PCR 6.46 mg/dL, lactato 1.35 mmol/L, troponinas <14 ng/L, perfil hepátocp en rango de la normalidad, leucocitos de 6040. No hay DD.
+Se administró OTROS_SUJETO_ASISTENCIA 1g ev + 2 inhal iptratropio/bromuro 20mcg/inh + 2 inhal salbutamol 0.1mg/inh. y es remitido para nuestro centro por sospecha de infección por OTROS_SUJETO_ASISTENCIA.

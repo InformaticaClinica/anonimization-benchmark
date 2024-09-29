@@ -1,0 +1,14 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+RX tòrax anteroposterior portàtil.
+
+resultados:
+Veure conclusions.
+
+conclusiones:
+L´exploració es compara amb la realitzada el FECHAS:
+Franca milloria radiològica de totes les consolidacions que afectaven els tres camps pulmonars d´ambdós pulmons, persistint en l'actualitat petites consolidacions a bases pulmonars de predomini OTROS_SUJETO_ASISTENCIA.

@@ -1,0 +1,22 @@
+ TC TORAX
+
+clinica:
+Varón de EDAD_SUJETO_ASISTENCIA, con AP de VIH (ultimoa CD4 OTROS_SUJETO_ASISTENCIA y CV<50), VHC curada, sífilis, DM2 en tratamiento con OTROS_SUJETO_ASISTENCIA. PResenta fiebre con pico de hasta FECHAS y odinofagia, de casi FECHAS de evolución. Analítica del FECHAS con linfopenia y elevación LDH. Frotis covid negativo (sin embargo realizado tras FECHAS de iniciar la clinica). Rx de tórax aparentemente normal, con dudosa lesión rendondeada región de mediastino derecho. Se oreinta como posible covid.
+Solicitamos TC pulmonar para descartar afectación pulmonar y estudio de dudosa lesión mediastinica derecha, gracias.
+FIEBRE
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Adenopatías paratraqueales bilaterles, prevasculares  y subcarinales con calcificacioes.la adenopatía subcarinal es la mayor, mide OTROS_SUJETO_ASISTENCIA y tiene un acalcificación puntiforme.
+No se observan adenopatías axilares.
+No se observa derrame pleural ni pericárdico.
+Resto del parénquima pulmonar sin hallazgos valorables.
+Colecistectomía.
+
+conclusiones:
+Adenopatías mediastínicas calcificadas. Adenopatía subcarinal de tamaño patológico con calcificación puntiforme excéntrica. Se aconseja control evolutivo.
+
+descrip:
+TC TORAX

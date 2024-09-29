@@ -1,0 +1,21 @@
+ ECO DOPPLER ARTERIAL EXTREMIDADES
+
+clinica:
+[**55 años**], ingresado por neumonía covid-19 grave que ha requerido ingreso en UCI, muy buena evolución respiratoria. Ha sido portador de [**cateter arterial femoral derecho**], retirado el sábado. Por favor descartar pseudoaneurisma/sangrado, hablado telefónicamente. Gracias
+[**Cateter arterial femoral derecho**], sospecha de comp
+
+protocolo:
+[**Ecografia Doppler EID**]
+
+resultados:
+Artèries femoral comú i origen de profunda i superficial permeables, registre doppler de morfologia normal.
+Vena femoral comú permeable, registre doppler de morfologia normal.
+Hematoma per davant dels vasos femorals de 47 x 18 mm.
+No hi ha imatges suggestives de pseudoaneurisma ni fístula arteriovenosa.
+*Nota: el [**pacient**] ha baixat amb [**cadira**]. Davant la sospita d'un pseudoaneurisma femoral el [**pacient**] hauria de baixar en [**llitera**].
+
+conclusiones:
+.
+
+descrip:
+ECO DOPPLER ARTERIAL EXTREMIDADES

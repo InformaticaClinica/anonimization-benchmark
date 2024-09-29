@@ -1,0 +1,24 @@
+ * ECODOPPLER (27/09/2021):
+Arterias [**femoral**] comun, bifurcación [**femoral**], y superficial/profunda (tercio proximal) permeables. Los registros doppler son de morfología (trifásico) y velocidades normales.
+Venas [**femoral**] comun, bifurcación [**femoral**], y superficial/profunda (tercio proximal) compresibles, permeables sin signos eco-doppler de trombosis.
+No imágenes de pseudoaneurisma ni fistula arteriovenosa.
+No colecciones.
+* IC ENDOCRINOLOGIA (27/09/2021):
+[**Varón**] 79 años, vive con su [**mujer**], independiente para ABVD. AP destacables de hipotiroidismo primario ([**Eutirox**] 25 mcg/d).
+DIABETES MELLITUS TIPO 2. Diagnosticada en 2006. Inició tratamiento con [**glimepirida**] y actualmente con [**sitagliptina**]/[**metformina**] 50/1000 mg/12h y [**pioglitazona**] 15mg/d, con mal control glucémico (última HbA1c 10,7% en abril/2021). Sin complicaciones crónicas diagnosticadas. En seguimiento por MAP en [**Mutua de Málaga**].
+* ENFERMEDAD ACTUAL: Ingresado por neumonía por SARS-CoV-2 con neumonía organizativa secundaria.
+Inició tratamiento con [**dexametasona**] 8 mg del 18/09-23/09. Posteriormente [**metilprednisolona**] 60mg/d hasta iniciar [**PDN**] 40 mg/d el 19/10 que mantiene en la actualidad. Durante su ingreso ha presentado hiperglucemias en patrón corticoideo 200-360 mg/dl, a pesar de tratamiento con [**insulina**] 0.66-0.79 U/kg/d.
+Nos interconsultan para valorar ajuste de tratamiento hipoglucemiante.
+Analítica sanguínea (19/09): HbA1c 10.8%, Función renal normal. Perfil tiroideo normal (TSH 0.508 mUI/ml).
+EF: Peso 68 kg, Talla 164 cm, IMC 25.3 kg/m2.
+* ORIENTACIÓN DIAGNÓSTICA: DIABETES MELLITUS TIPO 2 con mal control glucémico en contexto de neumonía por SARS-CoV-2 y corticoterapia, con mal control crónico.
+* PLAN DURANTE INGRESO:
+- Se ajusta pauta de [**insulina**] a 0.75 UI/kg/día. [**Insulina Glargina**] 20 UI/BT + [**Insulina Lispro**] 10-11-10 UI con pauta correctora según glicemia capilar con un FSI de 40. Ajustaremos según evolución.
+- Recomendamos educación de múltiples dosis de [**insulina**] por parte de enfermería de sala así como aportar [**glucómetro**].
+* PLAN AL ALTA:
+- Como tratamiento al alta recomendamos mantener [**sitagliptina**]/[**metformina**] 50/1000 mg/12h, [**pioglitazona**] 15mg/d y además pauta de [**insulina**]:
+* [**PDN**] 40 mg: [**Lantus**] 18 UI + [**Lispro**] 6-8-6 UI.
+* [**PDN**] 30 mg: [**Lantus**] 16 UI + [**Lispro**] 5-7-5 UI.
+* [**PDN**] 20 mg: [**Lantus**] 14 UI + [**Lispro**] 4-6-4 UI.
+- Solicitamos visita en H. de día de [**Endocrino**] para seguimiento, se valorará continuar con [**insulina**] basal.
+- Para cualquier consulta contactar con [**BUSCA**] 660536.

@@ -1,0 +1,17 @@
+ RX  PORTATIL  HOSPITAL
+
+clinica:
+1. NEUMONIA BILOVAR ESQUERRA PER COVID19.
+
+protocolo:
+Rx portátil de HOSPITAL. Se compara con previa del FECHAS.
+
+resultados:
+Placa parcialmente rotada.
+Persistencia con leve progresión en densidad de las opacidades de tipo alveolo-intersticial de predominio en campos pulmonares superior, medio e inferior del lado izquierdo y superior del lado derecho consistentes con afectación parenquimatosa por OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  HOSPITAL

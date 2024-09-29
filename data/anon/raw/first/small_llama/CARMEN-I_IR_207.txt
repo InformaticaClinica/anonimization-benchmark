@@ -1,0 +1,25 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+[**72 años**]. Infección respiratoria por [**SARS-COVD2**]. Persistencia de hipoxia a pesar de mejoría de parámetros inflamatorios. Ruego realizar TAC para descartar NOC vs TEP (dd 710)
+Gracias. Infecció per [**coronavirus no especificada**]
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; última RX del [**25/04/2016**] y último TC del [**9/8/2012**].
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Ateromatosis aórtica calcificada difusa.
+Calcificaciones en raíz aórtica y en coronarias.
+Ausencia de derrame pleural, ni pericárdico.
+Leve afectación parenquimatosa pulmonar en forma de opacidades en vidrio deslustrado subpleurales y peribroncovasculares, de predominio izquierdo, con algunas bandas parenquimatosas de morfología perilobular asociadas; hallazgos sugestivos de proceso infeccioso por [**COVID-19**], con mínimos cambios organizativos.
+Enfisema centrolobulillar bilateral.
+Discretas bronquiectasias cilíndricas difusas con marcados engrosamientos parietales asociados. Resto del parénquima pulmonar sin alteraciones.
+Clips de colecistectomía. Pequeño [**bazo accesorio**], de disposición posterior.
+
+conclusiones:
+Proceso infeccioso por [**COVID-19**], de extensión leve, con mínimos cambios organizativos asociados.
+Enfisema centrolobulillar bilateral. Discretas bronquiectasias cilíndricas difusas con marcados engrosamientos parietales asociados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

@@ -1,0 +1,21 @@
+ En seguimiento por Hematología INSTITUCION (Dra. NOMBRE_PERSONAL_SANITARIO).
+clinica:
+Pacient de EDAD_SUJETO_ASISTENCIA amb AR en tment amb metotrexat que presenta OTROS_SUJETO_ASISTENCIA que sembla dependre de parts toves, d'un any d'evolució, gegant. Infecció per FECHAS a l'gener. Sol.licitem TC toracoabdominal per completar estudi.
+
+protocolo:
+TC DE TÓRAX Y ABDOMEN CON CONTRASTE EV. Y VO. (TÓRAX ARTERIAL Y ABDOMEN PORTAL)
+
+resultados:
+TÓRAX: Parénquima pulmonar de morfología normal, sin imágenes que sugieran afectación pulmonar por FECHAS en este momento. No se observan ganglios mediastínicos ni axilares de características patológicas.
+Grandes vasos del mediastino sin alteraciones relevantes. No hay derrame pleural ni pericárdico. Fracturas antiguas consolidadas en tercio posterior de las 4ª, 7ª y 8ª costillas derechas.
+ABDOMEN: Severa OTROS_SUJETO_ASISTENCIA con un gran panículo adiposo en hipogastrio que cuelga caudalmente (faldón graso), observándose en esta zona engrosamiento de la piel y trabeculación de la grasa por lo que debería valorarse clínicamente la posible de la OTROS_SUJETO_ASISTENCIA en esta localización (si bien esta imagen podría estar causada por la estasia linfática de esta zona debido a dificultad de drenaje). Subyacente al faldón se identifica una OTROS_SUJETO_ASISTENCIA que contiene grasa intraabdominal (saco de 5 x 8 cm, defecto herniario de 3 cm).
+Hígado de morfología normal, con signos sugestivos de esteatosis, sin lesiones sospechosas. Vesícula, vía biliar, bazo, páncreas, glándulas suprarrenales y ambos riñones sin alteraciones relevantes. Vena porta y eje espleno-mesentérico permeables. Asas intestinales y colon sin hallazgos relevantes. No se observan ganglios intraabdominales de características patológicas ni líquido libre intraabdominal.
+
+conclusiones:
+- Parénquima pulmonar sin imágenes que sugieran afectación pulmonar por FECHAS en este momento.
+- Severa OTROS_SUJETO_ASISTENCIA con un gran panículo adiposo en hipogastrio (faldón graso), observándose en esta zona engrosamiento de la piel y trabeculación de la grasa, a valorar clínicamente una posible OTROS_SUJETO_ASISTENCIA si bien también podría corresponder a dificultad de drenaje linfático de esta zona.
+- Hernia umbilical (saco de 5 x 8 cm, defecto herniario de 3 cm) que contiene grasa intraabdominal. Probablemente corresponda a la massa palpable.
+- No se identifican masas intraabdominales sugestivas de un proceso neoformativo.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

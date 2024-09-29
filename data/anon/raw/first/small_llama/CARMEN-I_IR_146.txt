@@ -1,0 +1,19 @@
+ ECO DOPPLER ARTERIAL EXTREMIDADES
+
+clinica:
+Mujer con [**pseudoaneurisma arterial radial izquierda**] que el día [**10/10/21**] se trombosó mediante inyección de [**trombina**]. En informe indica control ecográfico en 24h aunque no se solicitó [**petición**]. Ruego realizar ecografía doppler de cara a evaluar resultados y valorar retirada de [**vendaje compresivo**]. Gracias
+TEP BILATERAL PESIS V
+
+protocolo:
+[**Ecografia Doppler Arterial ESD**]
+
+resultados:
+Artèria radial [**permeable**], registre doppler de morfologia [**conservada**].
+No s'identifiquen imatges de [**pseudoaneurisma**]. Col.lecció [**hipoecoica**] per davant de l'artèria radial, de [**7 mm de diàmetre**], sense registre doppler al seu interior, corresponent a [**hematoma residual**].
+Es retira [**embenat compressiu**].
+
+conclusiones:
+.
+
+descrip:
+ECO DOPPLER ARTERIAL EXTREMIDADES

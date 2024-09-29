@@ -1,0 +1,21 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente comentado vía teléfonica, FECHAS; hemicolectomía derecha por ADK de colon. Ingresado en SalaUCI: pro PROFESION, fracaso PROFESION (IOT), llama la atención alteración del perfil PROFESION, sospecha de OTROS_SUJETO_ASISTENCIA
+Neoplàsia maligna, còlon ascendent
+
+protocolo:
+ECOGRAFIA ABDOMINAL BASAL URGENTE
+
+conclusiones:
+Hígado de tamaño normal con aumento difuso de su ecogeniciidad en relación a esteatosis hepática. No se identifican lesiones focales evidentes.
+Vesícula biliar de paredes finas, con barro biliar en su interior.  Los hallazgos por imagen no son sugestivos de colecistitis en el momento actual.
+Vía biliar no dilatada.
+V. Porta permeable de calibre normal.
+Páncreas no visualizado por interposoción de gas.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+Minima lamina de liquido libre subhepático, sin identificar otras áreas con líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

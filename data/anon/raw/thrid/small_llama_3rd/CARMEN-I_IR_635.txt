@@ -1,0 +1,24 @@
+ RM HOSPITAL Y HOSPITAL
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA ingresado por neumonía bilateral por SARS-COV2 con antecedente de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA con M1 cerebral previamente resecada, que presenta sangrado de la lesión con crisis focales. Rogamos RMN para completar estudio.
+
+protocolo:
+RM HOSPITAL Y HOSPITAL: adquisiciones multiplanares antes y después de administrar contraste ev.
+
+resultados:
+Se compara con TC y RM previas (FECHAS y FECHAS respectivamente).
+Estudio artefactado por movimientos del paciente durante la adquisición.
+Craneotomía parietal izquierda. Cambios postquirúrgicos en parénquima parietal izquierdo con cavidad posquirurgica.
+Adyacente a la misma se objetivan restos tumorales ya conocidos y que con respecto a la RM previa han aumentado de tamaño y presentan componente hemorrágico en la RM actual.
+Aumento de la extensión del edema vasogénico perilesional, que se extiende hacia el lóbulo frontal.
+Múltiples focos de alteración de la sustancia blanca periventricular, de ambos centros semiovales y aislados en tronco, en relación a microangiopatía crónica (Fazekas 2) +- secundario al tratamiento recibido, todo ello estable.
+Sistema ventricular de tamaño, morfología y situación conservadas.
+Cisternas basales no ocupadas.
+Estudio angioRM arterial sin alteraciones a destacar, con origen fetal de ACPd.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+RM HOSPITAL Y HOSPITAL

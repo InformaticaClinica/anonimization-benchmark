@@ -1,0 +1,27 @@
+ En seguimiento por Hematología INSTITUCION.
+
+paciente de EDAD_SUJETO_ASISTENCIA, lobectomía izquierda por neo de pulmón, aspergiloma intervenido con fístula broncopleural que se cerró en noviembre con exéresis de parilla costal y toracoplastia, portadora de OTROS_SUJETO_ASISTENCIA habiendo recibido antibioterapia en febrero por crecimiento de OTROS_SUJETO_ASISTENCIA. Ingresa por FAMILIARES_SUJETO_ASISTENCIA que parece leve clínicamente, con hemitórax izquierdo colapsado, a descartar por favor complicación de toracoplastia( empiema). Gracias!
+
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+TC de tórax tras adminsitración de contraste e.v.
+
+resultados:
+Se compara con los estudios previos, última TC del FECHAS
+No se observa derrame pleural ni pericárdico.
+Discreto aumento de los ganglios axilares bilaterales, el mayor de OTROS_SUJETO_ASISTENCIA en cadena axilar izquierda y de OTROS_SUJETO_ASISTENCIA en cadena axilar derecha.Adenopatía hiliar izquierda de OTROS_SUJETO_ASISTENCIA, estable.
+Resolución del defecto de repleción en rama subsegmentaria de la arteria segmentaria posterobasal del INSTITUCION. Calcificaciones coronarias.
+Cambios postquirúrgicos hemitórax izquierdo en relación a lobectomía inferior y secundarios a reparación de fístula broncopleural del bronquio lobar inferior izquierdo con resección de arcos costales y toracoplastia omental.
+Aparición de colapso subtotal de pulmón izquierdo secundario a obstrucción total de bronquio principal izquierdo por mas de partes blandas en el lecho quirúrgico sugestivo de recidiva tumoral Asimismo de observa substitución de la densidad grada omental por densidad de partes blandas que podrí acorresponder  también a componente tumoral.
+Afectación parenquimatosa en forma de opacidades en vidrio desluestrado multilobares derechas de predominio periférico en relación a neumonía por FAMILIARES_SUJETO_ASISTENCIA.
+Enfisema centrolobulillar derecho multilobar. Hiperinsuflación compensatoria de pulmón derecho. Estabilidad de los ganglios intrapulmonares derechos conocidos. Atelectasias subsegmentarias en INSTITUCION, sin cambios.
+
+conclusiones:
+_ Colapsos subtotal del pulmón izq con obstrucción bronquial por componente de  partes blandas probablemente tumoral-- Aparición de una masa de densidad heterogénea en espacio extrepleural izquierdo, probbalemente del mismo origen
+-Se aconseja realización de OTROS_SUJETO_ASISTENCIA en cuanto las condiciones del paciente lo permitan.
+- Opacidades en vidrio deslustrado que sugieren neumonía por FAMILIARES_SUJETO_ASISTENCIA.
+- Resolución del OTROS_SUJETO_ASISTENCIA agudo subsegmentario en INSTITUCION.
+
+descrip:
+OTROS_SUJETO_ASISTENCIA

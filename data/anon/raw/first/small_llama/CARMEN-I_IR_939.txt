@@ -1,0 +1,17 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+neumonía por Covid19
+
+protocolo:
+Rx de tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el [**3/11/2020**].
+Milloria radiològica de les opacitats bipulmonars tret de focus de consolidació de base pulmonar esquerra que han augmentat respecte d'estudi previ a valorar component d'atelectasia o sobreinfecció.
+
+conclusiones:
+.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

@@ -1,0 +1,36 @@
+ ANGIO TC PULMONAR
+
+clinica:
+49 años [**49 años**] INSUFICIENCIA RESPIRATORIA AGUDA POR NEUMONISA POR SARS-COV2 IOT con ECMO, sepsis por neumonia por PAMS y E.coli BLEA con fracaso multiorgánico en HDFVVC, se colocaron 2 tubos de drenaje pleural anterior y posterior, el jueves y viernes respectivamnete y presenta desde ayer sangrado activo con hemotórax con salida de >2L por dernaje anterior.
+Tras 1L plasma, 1 plaq y 6CCHH actualmente Hb estable pero persiste sangrado activo, 400mL última hora.
+Solicito angioTC urgente valorar punto de sangrado para embolización.
+Ruego avisar para concretar horario para poder coordinar equipo para realizar traslado.
+Graciaas
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+TC de Tórax: se adquieren imágenes en condiciones basales y tras constrate iv en fase arterial y tardía URGENTE
+
+resultados:
+Se compara con TC previo de hace dos días.
+Respecto a TC previo se observa:
+- Dos drenajes pleurales de reciente colocación, uno con entrada lateral por el 6º espacio intercostal derecho y extremos distal en contacto con la pared toráica posterior. El otro drenaje con entrada posterior en el 3º espacio intercostal derecho y extremo distal adyacente al mediastino.
+- Gran colección pleural derecha de densidad heterogénea, de bordes anfractuosos y de dificil delimitación, compatible con gran hematoma pleural de nueva aparición, asociado a hemotórax de aspecto loculado ya conocido. En fase arterial, se observa una imagen lineal hiperdensa adyacente al sitio de entrada del tubo de drenaje descrito con entrada en el 6º espacio intercostal, que aumenta en las fases dinámicas, compatible con sangrado activo arterial a este nivel, proveniente de la arteria intercostal a este nivel. Asimismo, en la fase venosa existen áreas de extravasación de contraste a nivel más central, con dudosa comunicación con el punto previamente descrito por lo que no es posible descartar totalmente focos de sangrado originado del sistema pulmonar en relación con la neumonía necrotizante. Moderado derrame pleural izquierdo con componente cisural, estable.
+- En los cortes de hemiabdomen superior, destaca lesión hipodensa anfractuosa, heterogénea en los segmentos posteriores del LHD, de 54 x 28 x 60 mm (APxTxCC), de nueva aparición respecto a TC reciente que, en el contexto clínico del paciente, es sugestivo área flemonosa/absceso hepático. Discreto aumento del líquido libre hipodenso descrito en TC previo adyacente al LHD con extensión hacia la gotiera parietocólica ipsilateral.
+Resto del TC, sin cambios significativos respecto al previo.
+Adenopatías mediastínicas paratraqueales derechas, la mayor de 17 mm y adenopatía subcarinal de 15 mm, probablemente reactivas. Ganglios supraclaviculares, el mayor izquierdo 12 mm. No se observan otras adenopatías mediastínicas ni axilares de tamaño significativo.
+Extensas áreas consolidativas en el pulmón derecho, hipocaptantes y heterogénas con áreas de cavitación en LID y LSD, sugestivo de neumonía necrotizante.
+Colapso del LII con broncograma líquido con focos hipodensos en el parénquima colapsado que podrían corresponder a focos neumónicos, estables.
+Focos consolidativos y en vidrio deslustrado peribroncovasculares y periféricos en el LSI, LSD y LM, en relación a la neumonía por COVID-19.
+Algunos focos presentan morfología de neumonía organizativa, estable.
+TET con extremo distal a 28 mm de la carina. ECMO. SNG.
+
+conclusiones:
+Respecto a TC previo se observa:
+- Signos de sangrado activo arterial dependiente de la arteria intercostal de la 6º costilla, en su porción lateral. Gran hematoma pleural de nueva aparición, asociado a hemotórax de aspecto loculado ya conocido.
+- Dos drenajes pleurales de reciente colocación en las situaciones descritas.
+- Lesión sugestiva de absceso hepático en los segmentos posteriores del LHD de nueva aparición respecto a TC previo. Discreto aumento del líquido libre hipodenso descrito en TC previo adyacente al LHD con extensión hacia la gotiera parietocólica ipsilateral.
+Resto del TC, sin cambios significativos respecto al previo.
+
+descrip:
+ANGIO TC PULMONAR

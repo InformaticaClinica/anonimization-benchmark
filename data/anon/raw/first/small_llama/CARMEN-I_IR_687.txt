@@ -1,0 +1,19 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+Fallida renal no especificada
+
+protocolo:
+RX [**TORAX**].
+
+conclusiones:
+Se compara con estudio previo del [**1/1/2023**]
+EVOLUCION (valorar extensión y progresión a consolidación)
+Extensión -Estabilidad
+Consolidación-Disminución
+Aparición de fibrosis- No
+CONCLUSION:
+Afectación pulmonar por COVID que muestra práctica estabilidad respecto a RX previa
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

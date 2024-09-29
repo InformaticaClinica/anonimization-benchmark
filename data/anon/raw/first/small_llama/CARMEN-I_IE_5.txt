@@ -1,0 +1,28 @@
+ ## DIAG
+SCACEST
+
+
+## DIAG
+neumonia por [**covid**]
+
+
+## DIAG
+insuficiencia respiratoria
+
+
+## CAUSA
+
+Parada cardiorrespiratoria por insuficiencia respiratoria y cardiaca, secundarias a [**COVID**] y infarto agudo de miocardio.
+ 
+
+
+## OBSER
+
+Paciente de [**76 años**] con AP de HTA y Linfoma linfoplasmocítico E-IVA MYD88 mutado con banda IgM k, diagnosticado en 2009 (TC con adenopatias <15mminfadiafragmática, infiltración masiva MO), en tratamiento con [**ibrutinib**] con buena respuesta hematológica.
+Ingresa el [**15.8**] con diagnóstico de neumonía por [**COVID 19**]. Se inicia tratamiento con hidroxicloroquina y azitromicina, así como soporte con oxigenoterapia. No se añade lopinavir/r por diarreas abundantes y riesgo de interacción farmacológica con medicación habitual.
+Durante la estancia en planta la paciente presenta episodio de disnea y desaturación franca, acompañado de cambios electrocardiográficos ([**elevación de ST**] en DI y aVL) y elevación de marcadores de daño miocárdico. Es valorada por cardiología orientándose como IAM con lesión subepicàrdicatransitoria y necrosis subendocardica.
+Posteriormente la paciente presenta mala evolución a nivel respiratorio con requerimientos de FiO2 100% para mantener saturaciones de 90%, con taquipnea y mala dinámica respiratoria, pero sin percepción subjetiva de disnea.
+Analíticamente, se acompaña de deterioro de función renal y hepática así como elevación de reactantes de fase aguda. Se optimiza tratamiento médico, sin mejoría. Muy mala tolerancia a las movilizaciones.
+Se mantiene informada a la familia ([**sobrina**]) de la evolución clínica, así como de las complicaciones y el mal pronóstico.
+Ante el deterioro general progresivo de la paciente y los signos de discomfort, se acuerda iniciar medidas de confort.
+La paciente finalmente es éxitus el día [**10/8/20**] a las [**17h**], se informa a la familia.

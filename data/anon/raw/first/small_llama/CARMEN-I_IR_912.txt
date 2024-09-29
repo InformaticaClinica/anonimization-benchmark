@@ -1,0 +1,23 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paiente de [**74 años**] con diagnóstico de [**NEUMONÍA BILATERAL COVID19**] y antecedentes de [**FPI**] en tratamiento con [**nintedanib**] y enfermedad de [**Alzheimer**]. Durante su ingreso hospitalario, tras estancia en vigilancia intensiva, se solicitó angioTC por empeoramiento pero no se logró realizar debido a inestabilidad respiratoria del paciente durante el traslado. Permanece con necesidad de oxígeno suplementario con lentillas de alto flujo con FiO2 del 60% y flujo de 30L/min.
+Rogamos realización de la prueba. Muchas gracias.
+[**NEUMONÍA BILATERAL POR SARS-COV-2**]
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante [**TCMD**].
+
+resultados:
+Dilatación del tronco de la arteria pulmonar ([**32 mm**]) y de arteria pulmonar principal derecha ([**32 mm**]). No se observan defectos de repleción en arterias pulmonares sospechosos de tromboembolismo pulmonar.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+No se observa derrame pleural ni pericárdico.
+Opacidades en vidrio deslutrado y consolidaciones bilaterales y difusas, de predominio periférico y peribroncovascular, con bronquiectasias en su interior y signo del halo reverso, sugestivo de infección pulmonar por [**COVID-19**], con preogresión a neumonía organizada.
+
+conclusiones:
+Patrón parenquimatoso pulmonar sugestivo de infección pulmonar por [**COVID-19**], con preogresión a neumonía organizada.
+Signos de hipertensión pulmonar.
+No se evidencia [**TEP**].
+
+descrip:
+[**ANGIO TC PULMONAR**]

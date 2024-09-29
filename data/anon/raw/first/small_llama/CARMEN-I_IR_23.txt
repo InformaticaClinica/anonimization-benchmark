@@ -1,0 +1,32 @@
+ En seguimiento por Hematología [**Paciente**] de [**74 años**], hospitalizado por neumonía bilateral por [**COVID**], requiere oxigenoterapia a altos flujos (VMK 0.60) desde su ingreso pese a tratamiento médico, en Rx tórax presenta aparición de atelectasias subsegmentarias y signos de fibrosis en relación a evolución a neumonía organizada y elevación de D dimero a 2500. Descartar TEP vs neumonía organizativa. Gracias
+NEUMONÍA BILATERAL, PROBABLE [**COVID-19**]
+
+protocolo:
+ANGIO-TC PULMONAR mediate energia dual + TC ABDOMINO-PELVICO-EEII (hasta rodillas.)
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tras el posprocesado de las imágenes adquiridas mediante energía dual no se observan defectos de perfusión en los mapas de iodo. Tronco de la arteria pulmonar de diámetro normal, sin signos de fallo ventricular derecho.
+Afectación parenquimatosa bilateral y difusa en forma de consolidaciones con morfologia en banda de disposición subpleural y peribroncovascular.
+En el seno de estas consolidaciones en ambos lóbulos inferiores existen dilataciones bronquiales, no presentes en estudios previos de [**2014-2009**].
+A nivel de lóbulos superiores predomina el vidrio deslustrado con septos interlobulillares engrosados (patrón en empedrado). Todos estos hallazgos estan en relación con neumonia por [**COVID-19**] con neumonia organizativa.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Calcificaciones ateromatosas en vasos coronarios.
+No se observa derrame pleural ni pericárdico.
+Hígado sin alteraciones. Colelitiasis. No se observa dilatación de la vía biliar. Vena porta permeable.
+Páncreas y bazo sin alteraciones. Nódulos adreneales bilaterales ([**derecho**] 12 mm, [**izquierdo**] 18 mm), caracterizados como adenomas en TC de [**2009**], sin cambios. Riñones sin alteraciones con algun quiste cortical.
+No se observa dilatación de la vía excretora. Vejiga urinaria sin defectos parietales evidentes.
+Asas de intestino delgado y marco colonico sin alteraciones relevantes.
+Ateromatosis calcificada en eje aortoilíaco. Aorta, tronco celíaco y arteria mesentérica superior permeables.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se observa líquido libre intraabdominal.
+Hernia umbilical de contenido graso.
+Fracturas antiguas en ramas iliopubiana e isquiopubiana [**izquierda**].
+Ambas v. femorales comúnes, superficiales y profundas permeables.
+V. poplíteas permeables.
+
+conclusiones:
+- No se observa TEP ni TVP
+- Hallazgos sugestivos de neumonia virica por [**COVID-19**] con neumonia organizativa
+
+descrip:
+ANGIO TC PULMONAR

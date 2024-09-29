@@ -1,0 +1,24 @@
+ TC CEREBRAL
+
+clinica:
+Paciente de [**76 años**], con diagnóstico de neumonía bilateral por COVID.
+Adicionalmente delirio y agitación. Previo al ingreso, era prácticamente autónoma. A la exploración física no se evidencia focalidad neurológica pero impresiona discurso afásico. Rogamos decartar [**ictus**].
+DETERIORO COGNITIVO
+
+protocolo:
+TC craneal basal de URGENCIA
+PD: [**Dr. Blanco**]
+
+resultados:
+Parénquima cerebral sin alteraciones densitométricas. Sin signos de isquemia aguda valorables por TC.
+No hay evidencia de lesiones ocupantes de espacio ni signos de hemorragia aguda extra y/o intraaxial.
+Calcificación de la [**hoz cerebral interhemisférica**].
+Sistema ventricular de morfología y tamaño normales.
+No se observan desplazamientos de la línea media.
+Cisternas basales libres
+
+conclusiones:
+Estudio sin alteraciones significativas.
+
+descrip:
+TC CEREBRAL

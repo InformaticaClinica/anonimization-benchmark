@@ -1,0 +1,24 @@
+ Antecedentes personales:
+Mujer de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, ni hábitos tóxicos. Independiente para las actividades básicas de la vida diaria, reside sola en domicilio (TERRITORIO). Buen soporte por parte de su OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Jubilada, se dedicó a la PROFESION en centros comerciales.
+
+* ANTECEDENTES PATOLÓGICOS:
+1-. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico con dos fármacos.
+Buen control de las cifras tensionales.
+2-. CARDIOPATÍA HIPERTENSIVA con FEVI DISMINUIDA. CF NYHA I. Única descompensación en 2007 durante ingreso por neumonía bacteriana en HOSPITAL.
+* Ecocardiograma (FECHAS): FEVI 45% Ventrículo izquierdo de dimensiones normales, con motilidad global en el límite inferior de la normalidad. Patrón diastólico de alteración en la relajación. Ventrículo derecho de dimensiones y motilidad normales. Válvulas normofuncionantes con ligera insuficiencia tricuspidea. Ligera dilatación de la aorta ascendente.
+3-. NEUMOPATÍA CRÓNICA OBSTRUCTIVA (ASMA BRONQUIAL + BRONQUIECTASIAS).
+Múltiples episodios de sobreinfección respiratoria desde 1999.
+Seguimiento por Neumología de nuestro INSTITUCION (Dra NOMBRE_PERSONAL_SANITARIO).
+* Aislamientos microbiológicos: OTROS_SUJETO_ASISTENCIA (2007), OTROS_SUJETO_ASISTENCIA (2007), OTROS_SUJETO_ASISTENCIA (2007), OTROS_SUJETO_ASISTENCIA (2009), OTROS_SUJETO_ASISTENCIA (2010).
+* Estudio etiológico: OTROS_SUJETO_ASISTENCIA negativo. OTROS_SUJETO_ASISTENCIA 2.3. OTROS_SUJETO_ASISTENCIA 11 normal- OTROS_SUJETO_ASISTENCIA discretamente disminuida 4.5 (normal 4.9-11) OTROS_SUJETO_ASISTENCIA normal, OTROS_SUJETO_ASISTENCIA normal. OTROS_SUJETO_ASISTENCIA normal, OTROS_SUJETO_ASISTENCIA: negativo. OTROS_SUJETO_ASISTENCIA normal Gen OTROS_SUJETO_ASISTENCIA: negativo. OTROS_SUJETO_ASISTENCIA negativo. OTROS_SUJETO_ASISTENCIA: No atipias.
+* Última PFR (FECHAS): FEV1/FVC 60%, FEV1 90%, FVC 85%. PBD 0%. DLCO +17% respecto previa.
+* TC tórax (FECHAS): Múltiples adenopatías mediastínicas de predominio derecho y subcarinal con un diámetro corto máximo de 15mm. Calcificcaiones traqueobronquiales. Bronquiectasias cilíndricas difusas con predominio en LM y LLII, asociadas a focos consolidativos, impactaciones mucosas y nódulos con morofología de árbol en brote sugestivo de sobreinfección
+4-. NEUMONÍA POR OTROS_SUJETO_ASISTENCIA en 2007 que requirió ingreso en HOSPITAL.
+5-. HIPOTIROIDISMO SUBCLÍNICO.
+6-. INCONTINENCIA URINARIA DE ESFUERZO.
+* INTERVENCIONES QUIRÚRGICAS:
+1-. ARTROPLASTIA TOTAL DE CADERA en el FECHAS. Recambio de prótesis por infección crónica en 05/2010 sin complicaciones.
+2-. PROTESIS TOTAL DE RODILLA DERECHA en 10/2008.
+3-. AMIGDALECTOMÍA.
+4-. FAQUECTOMÍA BILATERAL.
+* MEDICACIÓN HABITUAL (actualizada 28/10/2013): OTROS_SUJETO_ASISTENCIA 250 mg/48h, OTROS_SUJETO_ASISTENCIA 100 mcg/8h si precisa, OTROS_SUJETO_ASISTENCIA 50/500 mcg 2 inh/24h, OTROS_SUJETO_ASISTENCIA 18 mcg 1 inh/12h, OTROS_SUJETO_ASISTENCIA 25 mg/24h, OTROS_SUJETO_ASISTENCIA 5 mg (1-0-0,5), OTROS_SUJETO_ASISTENCIA 25 mg/24h, OTROS_SUJETO_ASISTENCIA 1 g/8h si precisa. Nebulizaciones de OTROS_SUJETO_ASISTENCIA al 3%.

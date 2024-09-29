@@ -1,0 +1,6 @@
+ -No requiere aislamiento.
+-Dieta OTROS_SUJETO_ASISTENCIA.
+-Retomar gradualmente OTROS_SUJETO_ASISTENCIA.
+-Se dan pautas de alarma para la reconsulta: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, etc.
+-Control con analítica en INSTITUCION (CALLE). Se adjuntan citas.
+-Control con PROFESION en 10-15 días y PROFESION.

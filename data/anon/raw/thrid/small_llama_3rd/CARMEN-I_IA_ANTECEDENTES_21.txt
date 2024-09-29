@@ -1,0 +1,9 @@
+ Varón de EDAD_SUJETO_ASISTENCIA independiente para las actividades de vida diaria.
+Tiene ayuda varios días a la semana por una OTROS_SUJETO_ASISTENCIA. Hasta el momento del ingreso vivía con la FAMILIARES_SUJETO_ASISTENCIA (tienen 3 OTROS_SUJETO_ASISTENCIA).
+Sin alergias medicamentosas ni habitos tóxicos.
+* ANTECEDENTES PATOLÓGICOS:
+1. ANTECEDENTES PATOLÓGICOS. Estable. Realiza tratamiento antiagregante con OTROS_SUJETO_ASISTENCIA y mononitrato de OTROS_SUJETO_ASISTENCIA.
+2. ANTECEDENTES PATOLÓGICOS. En tratamiento con OTROS_SUJETO_ASISTENCIA.
+3. ANTECEDENTES PATOLÓGICOS.
+4. Hiperplasia prostática benigna. En tratamiento con OTROS_SUJETO_ASISTENCIA.
+5. ANTECEDENTES PATOLÓGICOS. En tratamiento.

@@ -1,0 +1,24 @@
+ RX  PORTATIL  TORAX
+
+clinica:
+Control FAMILIARES_SUJETO_ASISTENCIA. Realizar el FECHAS!
+FAMILIARES_SUJETO_ASISTENCIA POSITIU
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+HALLAZGOS:
+Opacidades: OTROS_SUJETO_ASISTENCIA
+Consolidación: OTROS_SUJETO_ASISTENCIA
+Patrón intersticial: OTROS_SUJETO_ASISTENCIA
+Distribución: OTROS_SUJETO_ASISTENCIA.
+Campos pulmonares:
+-Derecho: OTROS_SUJETO_ASISTENCIA.
+-Izquierdo: OTROS_SUJETO_ASISTENCIA.
+Otros hallazgos relevantes: discretos casquetes apicales bilaterales (OTROS_SUJETO_ASISTENCIA).
+EVOLUCION (se compara con RX previa de )
+Extensión opacidades: leve progresión de la extensión y densidad de las opacidades OTROS_SUJETO_ASISTENCIA.
+Consolidación: No.
+CONCLUSION:
+Afectación pulmonar por FAMILIARES_SUJETO_ASISTENCIA que muestra leve progresión de las opacidades OTROS_SUJETO_ASISTENCIA respecto a la RX previa.

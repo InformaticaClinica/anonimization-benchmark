@@ -1,0 +1,32 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA de edad, ingresado en la Sala INSTITUCION (E352) por una neumonía por OTROS_SUJETO_ASISTENCIA con insuficiencia respiratoria hipoxemica grave refractaria, que actualmente se encuentra con OTROS_SUJETO_ASISTENCIA + OTROS_SUJETO_ASISTENCIA y soporte con OTROS_SUJETO_ASISTENCIA.
+Actualmente a día +26 desde el inicio de los síntomas presenatando estabilidad de la clínica sin poder progresar/disminuir por parámetros de soporte. Interesa realizar antioTAC pulmonar para descartar complicaciones asociadas y por lo tanto instaurar tratamiento dirigido:
+1. Datos de sobreinfección
+2. TEP
+3. NOC
+Dado a que el paciente se encuentra con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA interesaría realizarlo el día de mañana FECHAS de cara a la organización de las máquinas de soporte y personal. Gracias.
+NEUMONÍA BILATERAL POR OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Estudio TC de arterias pulmonares.
+
+resultados:
+Se revisan estudios previos; última RX del FECHAS.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP agudo.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable.
+Leve-moderado derrame pleural bilateral. Discreto derrame pericárdico.
+Extensas afectación parenquimatosa pulmonar en forma de opacidades consolidativas en segmentos posteriores en TERRITORIO y de la totalidad de los TERRITORIO; en relación a proceso neumónico bilateral por COVID-19, de extensión severa. No se visualizan cambios organizativos asociados.
+En el segmento basal anterior del TERRITORIO, se visualiza un área hipodensa e hipoperfundida, de morfología triangular, que es sugestiva de infarto pulmmonar. Así mismo, se visualiza algun área hipodensa de morfología nodular en el sg posterobasal del TERRITORIO, que podría corresponder con focos de sobreinfección.
+Discretos cambios degenerativos en columna torácica.
+TERRITORIO superior incluido sin alteraciones.
+OTROS_SUJETO_ASISTENCIA. Sonda nasogástrica. CVC bilaterales y en OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+- No se evidencian signos de TEP.
+- Neumonía bilateral por COVID-19 de extensión severa (vr), sin cambios organizativos. Área hipoperfundida sugestiva de infarto pulmmonar en sg basal anterior del TERRITORIO, y probable foco de sobreinfección posterobasal en TERRITORIO.
+- Leve-moderado derrame pleural bilateral. Discreto derrame pericárdico.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,23 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Home EDAD_SUJETO_ASISTENCIA, ingrés el dia FECHAS amb neumonia bilateral per OTROS_SUJETO_ASISTENCIA amb progressió radiològica a la placa de INSTITUCION. Ha rebut OTROS_SUJETO_ASISTENCIA però persisteix amb requeriment d'OTROS_SUJETO_ASISTENCIA i inflamació analítica (OTROS_SUJETO_ASISTENCIA i OTROS_SUJETO_ASISTENCIA-> OTROS_SUJETO_ASISTENCIA). Decartar TEP i valorar si persisteix inflamació per a nou antiinflamatori. Gràcies!
+Neumonía por OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+ANGIO TC PULMONAR OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar comú, ramas principals, lobares, ni segmentàries que suggerin TEP.
+Opacitats en vidre delustrat amb patró en empedrat bilaterals de distribució perifèrica i de predominio en bases pulmonars, amb consolidació en INSTITUCION. Se acompanya de moderades bandes subpleurals i lleu desestructuració del parènquima pulmonar. Hallazgos compatibles amb afectació pulmonar per OTROS_SUJETO_ASISTENCIA, amb senyals de neumonía organitzada.
+Moderada enfisema pulmonar paraseptal, de predominio en INSTITUCION.
+No se observa derrame pleural ni pericàrdic.
+Adenopatia de OTROS_SUJETO_ASISTENCIA patraqueal baixa dreta.No se observen adenopaties axilars ni mediastíniques de mida patològica.
+Lesió hipodensa de OTROS_SUJETO_ASISTENCIA en lòbul tiroideu esquerra que amerita estudi dirigida amb ecografia.
+
+conclusiones:
+No se observen senyals que suggerin TEP.
+Hallazgos compatibles amb afectació pulmonar per OTROS_SUJETO_ASISTENCIA, amb senyals de neumonía organitzada.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,34 @@
+ Antecedentes personales:
+         Mujer de EDAD_SUJETO_ASISTENCIA. Sin alergias medicamentosas conocidas, independiente para actividades básicas de la vida diaria. No fumadora, ni hábitos enólicos ni otros hábitos tóxicos. Vive con OTROS_SUJETO_ASISTENCIA e OTROS_SUJETO_ASISTENCIA.
+         * ANTECEDENTES PATOLÓGICOS:
+         1.- HIPERTENSIÓN ARTERIAL en tratamiento médico
+         2.- INSUFICIENCIA CARDÍACA con fracción de eyección preservada.
+         * Clase funcional II-III
+         * Ecocardiograma 5/10/2013: FE estimada 45%. Hipertrofia ventricular izquierda moderada, no dilatada y con motilidad global ligeramente reducida por hipocinesia difusa. Alteración de la relajación. Insuficiencia mitral ligera con calcificación del anillo.
+         3.- DIABETES MELLITUS 2 en tratamiento con ADOS.
+         4.- DISLIPEMIA en tratamiento médico.
+         5.- ASMA BRONQUIAL Y BRONQUIECTASIAS con trastorno dlco en Pruebas de función respiratoria.
+         *TCAR tórax (03/2012): Imagen nodular en vidrio deslustrado de 13 mm subpleural del LM.
+         *TCAR (7/2012): NO --> áreas parcheadas de vidrio deslustrado de localización bilateral y distribución subpleural y peribroncovascular.
+         Algunas zonas han disminuido o desaparecido en relación al examen precedente y otras son de nueva aparición. Sugestivo de neumonía organizativa.
+         *PFR (07/2012): FVC 79%, TLC 86%, KC88, índice 79, PBD negativa.
+         *PFR (09/2012): FVC 93, TLC 93, KCO 77, índice 78, PBD negativa.
+         *PFR estables (07/2013). -/-0.8, FVC 2.19(96%), FEV1 1.75(108%), PBD nosig. TLC 88%, DLCO 68/90%.
+         6.- DOLOR NEUROPATICO.
+         *EMG (05/2012): nervios sural y peroneal superficial bilateralmente que muestra potenciales de baja amplitud (5 mV el sural y 4mV peroneal superficial).
+         7.- Posible VAA-MPO (tipo GEPA). Catalogada de asma (con espiros siempre normales) + PNP (con DM) + ANCA/MPO + posible NO; no ORL ni eosinofilia.
+         *AN: pANCA-MPO (x2: 21-99), orina normal; Eo normales.
+         *Bx muscular (9/2012): no vasculitis (no se pudo obtener muestra de nervio). ** Ha presentado lesiones purpúricas en brazos, de distribución asimétrica, alguna palpable, que DER (Dra. NOMBRE_PERSONAL_SANITARIO) cataloga (en 2 visitas) como púrpura simple y no se ha hecho biopsia. Se orienta como posible VAA sin evidencia de actividad (no afectación clara de órganos diana en la actualidad), por lo que, dada la comorbilidad, no se cree indicado iniciar tratamiento y seguir control evolutivo.
+         8.- SINDROME ANSIOSO-DEPRESIVO.
+         9.- INSUFICIENCIA VENOSA CRÓNICA.
+         10.- HIPERPARATIROIDISMO PRIMARIO sin criterios quirúrgicos en seguimiento por endocrino.
+         * último control 4 Julio: MIBI sin signos gammagráficos de tejido paratiroideo hiperfuncionante.
+         * Ecografía de cuello 1/2013: Nódulos tiroideos a correlacionar clínica y analíticamente, y a valorar control evolutivo
+         11.- ITUs DE REPETICIÓN. Último episodio en 09/14 con aislamiento de Citrobacter freundii. Antibiograma: Amikacina S, Amox./àc. clavulànic R, Ampicil.lina R, Cefotaxima S, Ceftazidima S, Cefuroxima R, Ciprofloxacina S, Cotrimoxazol S, Ertapenem S, Fosfomicina S Gentamicina S, Imipenem S, Meropenem S, Pipera/tazobactam S Tobramicina S. Tratado con Ceftriaxona 10 días. Urocultivo posterior negativo (12/14)
+         * ANTECEDENTES QUIRURGICOS
+         - APENDICECTOMIA
+         - SÍNDROME DE TUNEL CARPIANO mano izquierda.
+         - CATETERISMO RENAL con sedación en (1997)
+         - ARTROSCOPIA RODILLA IZDA. (2007)
+         - FAQUECTOMIA + I.Q. POR GLAUCOMA (abril-2009).
+         * MEDICACIÓN HABITUAL ): Omeprazol 20mg/12h, fluticasona+formoterol 2inh/12h, furosemida 40mg 2-0-0, metformina 850mg/12h, simvastatina 20mg/24h, trazodona 100mg/24h, pregabalina 75mg/24h, pramipexol 18mg/24h, rotigotina parche/24h, tapentadol 50mg/12h, calcifediol 1 cap/15d, brinzolamida 2gotas/24h, bimatoprost 1 got/24h, verapamilo 240mg/24h, candesartan 32mg/24h, alopurinol 300mg/24h, colchicina 1mg/24h.

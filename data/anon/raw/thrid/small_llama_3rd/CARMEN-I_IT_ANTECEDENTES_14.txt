@@ -1,0 +1,13 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas. Autónomo para las OTROS_SUJETO_ASISTENCIA. Ex-fumador. Hermanos con OTROS_SUJETO_ASISTENCIA.
+Historia familiar de neoplasia de OTROS_SUJETO_ASISTENCIA.
+ANTECEDENTES PATOLÓGICOS
+1- ANTECEDENTES PATOLÓGICOS
+2- ANTECEDENTES PATOLÓGICOS
+3- ANTECEDENTES PATOLÓGICOS en heterocigosis. Primer episodio de ANTECEDENTES PATOLÓGICOS de pierna izquierda en 1994.
+4- ANEURISMA DE AORTA ABDOMINAL, hallado tras estudio por TAC por ANTECEDENTES PATOLÓGICOS.
+Reparación abierta con prótesis recta ANTECEDENTES PATOLÓGICOS 14 mm en 1995.
+Anticoagulado con ANTECEDENTES PATOLÓGICOS 150 mg/12h.
+** 14-3-1998: reparación de eventración mediante ANTECEDENTES PATOLÓGICOS y refuerzo con ANTECEDENTES PATOLÓGICOS 1.0 mm, sin incidencias intraoperatorias de interés.
+5- ANTECEDENTES PATOLÓGICOS que requirió cirugía en forma de ANTECEDENTES PATOLÓGICOS el 01/03/2020. Desde entonces en tratamiento con ANTECEDENTES PATOLÓGICOS. Intolerancia a los OTROS_SUJETO_ASISTENCIA. En seguimiento por INSTITUCION INSTITUCION.
+++ OTROS_SUJETO_ASISTENCIA (10/13) 9,36 y 36%. Previos de 8-9 desde hace años.
+6- HEMATURIA FINAL de repetición, va ser estudiat durant el 2012 amb OTROS_SUJETO_ASISTENCIA que va descartar etiologia neoplàsica. Medicación habitual: - ANTECEDENTES PATOLÓGICOS 40 mg C/24h - ANTECEDENTES PATOLÓGICOS 150 mg c/12h.

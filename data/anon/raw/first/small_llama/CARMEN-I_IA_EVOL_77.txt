@@ -1,0 +1,29 @@
+ EVOLUCIÓN EN ONCOLOGÍA MEDICA
+1. ADK COLON DERECHO BRAFmut E-IV (carcinomatosis peritoneal, hepáticas,ganglionares). 1L FOLFOX (C9, 5/03). Enfermedad estable
+2. NEUMONÍA BILATERAL POR COVID-19
+3. INSUFICIENCIA RESPIRATORIA HIPOXÉMICA. SINDROME DE DISTRÉS RESPIRATORIO.
+4. INSUFICIENCIA RENAL AGUDA CON NECROSIS TUBULAR AGUDA SECUNDARIA A DESHIDRATACIÓN.
+5. DIARREA Y DISELECTROLITEMIA SECUNDARIAS A KALETRA
+* Inicio síntomas: fiebre y tos (7/03)
+* Fecha frotis positivo: 8/03
+* Fecha ingreso: 8/03
+* Fecha inicio tratamiento: 8/03
+* Tipo de tratamiento: L/r (8/03-11/03), HDQ, Azitro.
+* Otros: Tocilizumab (13/03), Anakinra (13/03-16/03), bolus cortis 17/3
+Paciente de [**71 años**], con AP de infarto y neo de colon estadío IV (con metastasis hepaticas, ganglionares, carcinomatosis peritoneales), en tratamiento de pirmera linea (FOLFOX). Acude derivado por su MAP por fiebre de 48h de evolución, disnea de esfuerzo y tos con expectoración.
+A su llegada a urgencias, el paciente presenta regular estado general, hemodinámicamente estable, taquipneico (25 rpm, SatO2 97%) y febricular.
+A la auscultación presenta crepitantes en base pulmonar derecha, abdomen blando y depresible, no doloroso, sin masas ni megalias a la palpación.
+Resto de la exploración sin hallazgos de interés.
+Analíticamente presenta PCR 12.26, Crea 1.71 (similar a previas), FG 39, AST 18, ALT 24, GGT 36, Br 1, FA 86, LDH 233. Na 136, K 3.0, Ca 8, Mg 1.3, Procalcitonina 0.37, ferritina 1512. Leucos 7630 (7100 N, 200 L), Hb 10.8, Plaq 82.000. TP 92%, TTPA 22.7, D- Dímer 5000 ng/mL.
+Radiografia de torax sin condensaciones ni opacidades parenquimatosas, senos costofrénicos libres.
+ECG: ritmos sinusal a 70ppm, QRS estrecho,QT corregido de 342 ms.
+Se inicia triple terapìa con Kaletra (ritonavir/lopinavir), hidroxicloroquina y azitromicina y se traslada a sala de oncología para continuar manejo.
+Al ingreso se evidencia progresivo deterioro de la función renal, con creatinia hasta 3.2mg/dL y FG 18ml/min, en contexto de deshidratación los díaprevios y diarrea secundaria a Kaletra. Por antecedentes de litiasis renales se realiza TC que descarta presencia de litiasis obstructivas.
+Paralelamente, tambien en contexto de Kaletra el paciente presenta diselectrolitemias (hipocalcemia, hipopotasemia e hipomagnesemia) por lo que se retira el 11/3/11. Con reposición electrolitica y sueroterapia se consigue mejoría de la función renal hasta sus valores basales.
+El 13/3/11 presenta deterioro respiratorio, analitico y radiologico, con aparición de infiltrados bilaterales, por lo que, de acuerdo con Infecciones, se inicia Tocilizumab y Anakinra. El 17/3, por persistencia y requerimientos de oxigeno, se añaden bolos de corticoides. Pese a ello el paciente persiste con empeoramiento respiratorio hasta FiO2 100%, secundario a distrés respiratorio.
+6. MAL CONTROL DOLOR SACRO DERECHO
+El paciente refería mal control de dolor sacro izquierdo, de caracteristicas mecanicas, con la movilización. Durante el ingreso se inicia parche de fentanilo de 12mcg/h con mejoría del dolor
+7. HISTORIA ETV (TEP, TVP FEMORAL IZQUIERDA): clexane 70mg/12h
+Paciente con antecedentes de tromboembolismo pulmonar en [**septiembre de 2010**], que suspendió anticoagulación por hematuria persistente, en TC de control de enero se objetiva además trombosis femoral por lo que se reinicia anticoagulación con clexane 70mg/12h.
+-----
+Finalmente que día [**23/4**] por mala evolución de clínica respiratoria se contacta con la [**mujer**] y se inicia sedación paliativa. Es éxitus el día [**23/4/11**] a las 10:45.

@@ -1,0 +1,20 @@
+ En seguimiento por Hematología [**Clinica COVID**]
+1. NEUMONIA BILATERAL. SOSPECHA COVID-19.
+Durante su estancia en el [**Clinica COVID**] el paciente se encuentra hemodinámicamente estable, afebril, eupneico y sin requerimiento de oxigenoterapia suplementaria. Al Examen físico destacan crepitantes bibalases. Además presenta mejoría de la analítica con disminución de reactantes de fase aguda ([**PCR**] <0.4 mg/dL, [**DD**] 2900 ng/mL, [**LDH**] 327), hemograma estable sin linfopenia (2000).
+2. ENFERMEDAD RENAL CRÓNICA. TRASPLANTE RENAL DONANTE CADÁVER ([**11/21**])
+Durante su estancia mantiene tratamiento diurético con [**furosemida**] vo 40mg 1-1-0 con mejoría progresiva de los edemas en [**EEII**] hasta práctica remisión al alta. Balances hídricos correctos. Al alta [**Creatinina**] 3.5 mg/dL y [**FGe**] 15 ml/min (sus habituales).
+Respecto a la inmunosupresión, dado que se trata de un paciente de edad avanzada, con TR realizado hace < 1 año y con disfunción crónica del injerto renal, se consensúa con [**UTR**] y se decide mantener biterapia con [**prednisona**] 15 mg/24h y [**micofenolato**] a dosis bajas por antecedentes de neoplasia vesical ([**180- 0-180**]), para evitar efecto nefrotóxico de inhibidores de calcineurina y m-TOR. Al alta visita de seguimiento con [**UTR**] ([**21/08/2022**]).
+3. ANEMIA MICROCÍTICA.
+Anemia crónica multifactorial ([**ferropenia**] + [**trastorno crónico**] + [**IRC**]).
+Hemoglobina al alta [**10.7g/L**], Hematocrito [**32%**], permaneciendo estable.
+En vista de mejoría clínica, sin signos de alarma, y de parametros de la analítica se decide alta a domicilio.
+----------
+RESUMEN COVID19
+----------
+Fecha de inicio de síntomas: [**28/7**] (fiebre y tos)
+Fecha de ingreso: [**1/08**].
+Fecha [**PCR**] : [**1/8**] (negativa), [**2/8**] negativa.
+Fecha de inicio de tratamiento: [**1/8**]
+[**1.08 - 7.07**]: [**kaletra**]
+[**1.08**]: [**Azitro**], [**HCQ**], [**Ceftriaxona**].
+[**2.08**]: [**tocilizumab**].

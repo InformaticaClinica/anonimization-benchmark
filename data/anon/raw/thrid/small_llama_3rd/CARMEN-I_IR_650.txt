@@ -1,0 +1,30 @@
+ En seguimiento por Hematología INSTITUCION (clinica).
+
+Solicito TC abdominopélvico para descartar colecciones intraabdominales en paciente con cesárea FECHAS y fiebre puerperal de hasta FECHAS sin claro foco hace FECHAS a pesar de antibiótico. Paciente OTROS_SUJETO_ASISTENCIA.
+Actualmente, tto ATB con tazocel hace FECHAS. Cultivos negativos, hemocultivos en curso. RxTx sin hallazgos, SpO2 FECHAS basal. No tributaria de tto antiviral ni esteroideo para OTROS_SUJETO_ASISTENCIA.
+Gracias!
+fiebre puerperal OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+TC abdominopèlvic URGENT amb contrast e.v. en fase portal
+
+resultados:
+Fetge de morfologia, vores i atenuació normals. S'identifica una lesió focal hipodensa de OTROS_SUJETO_ASISTENCIA a cúpula del OTROS_SUJETO_ASISTENCIA amb una dubtosa captació periférica de contrast. Es tracta d'una lesió inespecífica (possible hemangioma, a valorar mitjançant ecografia si es considera necessari).
+S'identifica una segona lesió hipodensa mil·limètrica a nivell subcapsular del OTROS_SUJETO_ASISTENCIA, molt petita per a ser caracteritzada.
+Vesícula biliar de mida normal i parets fines. Via biliar no dilatada.
+Vena porta i eix porto-espleno-mesentèric permeable.
+Pàncrees, melsa i glàndules suprarenals sense alteracions significatives. Petita melsa accessòria hiliar.
+Nanses intestinals i colon no dilatats, amb correcta captació de contrast.
+Ronyons de mida i morfologia normal, captació bilateral i simètrica de contrast. No hi ha dilatació de la via excretora.
+No s'observen adenopaties retroperitoneals ni ilíaques de mida patològica.
+Úter augmentat de mida i d'aspecte heterogeni, en relació a embaràs recent. Canvis post cesària a la paret anterior.
+No hi ha líquid lliure intraabdominal ni col·leccions.
+Petit acúmul de líquid i gas a nivell subcutani de TERRITORIO
+
+conclusiones:
+Canvis en relació a cesària recent amb un petit acúmul de líquid i gas a nivell subcutani de la TERRITORIO.
+No hi ha líquid lliure intraabdominal ni col·leccions.
+S'identifica una lesió focal inespecífica a cúpula del OTROS_SUJETO_ASISTENCIA (possible hemangioma, a valorar mitjançant ecografia si es considera necessari).
+
+descrip:
+TC ABDOMINOPELVICO (GU)

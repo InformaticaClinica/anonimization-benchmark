@@ -1,0 +1,15 @@
+ RX  PORTATIL  [**TORAX**]
+
+clinica:
+INFECCIÓN POR [**SARS-CoV-2**]
+
+protocolo:
+RX  PORTATIL  [**TORAX**]
+
+conclusiones:
+Opacidades alveolares bilaterales de predominio subpleural que muestran leve disminución de extensión y densidad. Cardiomegalia. Sutura de esternotomía. Marcapasos. Válvula protésica. Calcificación del arco aórtico. Catéter ev izquierdo con extremo distal en VCS.
+CONCLUSION:
+Afectación pulmonar por [**COVID**] que muestra leve mejoría respecto a Rx previa del [**10/04/2027**].
+
+descrip:
+RX  PORTATIL  [**TORAX**]

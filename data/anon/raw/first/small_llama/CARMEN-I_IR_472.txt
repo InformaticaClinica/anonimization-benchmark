@@ -1,0 +1,26 @@
+ PET CEREBRAL FDG
+
+clinica:
+Paciente de [**69 años**] con cuadro bulbar e hiperreflexia que ingresa por empeoramiento subagudo el [**4/10**]. Cuadro clínico que se inicia en [**Marzo**] con alteración de la voz (hipofonía). Posteriormente se añade de forma progresiva disfagia mayor a líquidos, disnea, tetraparesia, clínica esfinteriana y anartria.
+De momento no filiada la causa, ruego PET para descartar cuadro de [**Demencia Frontotemporal**].
+CUADRO BULBAR Y DE 1º MOTONEURONA
+
+protocolo:
+Radiofármaco: [**18F-fluorodesoxiglucosa (FDG)**]. Dosis: 6,5 mCi. Glicemia en el momento de inyección de la FDG: 153 mg/dL.
+Se adquiere una TAC de baja dosis y sin utilizar contraste yodado endovenoso. Sin movilizar al paciente, seguidamente se adquieren imágenes PET, 30 minutos después de la inyección endovenosa de la FDG, con un tomógrafo PET Biograph mCT([**Siemens**]).
+Se reconstruyen y presentan imágenes tomográficas PET del encéfalo, corregidas por atenuación, en planos transversales, coronales y sagitales e imágenes tomográficas TAC, de 1 mm de grosor, en los mismos planos.
+Las imágenes PET muestran el metabolismo glicolítico regional cerebral y cerebeloso.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG del córtex cerebral de ambos hemisferios cerebrales, sustancia gris subcortical y ambos hemisferios cerebelosos.
+El estudio PET/TC no muestra en la actualidad un claro patrón de hipometabolismo cortical sugestivo de proceso neurodegenerativo. No obstante, se aprecia un área de hipometabolismo focal en región de polo temporal anterior derecho que podría encontrarse en relación con los hallazgos descritos en RM del [**07/10/26**] como moderado efecto de masa con mínimo edema, probablemente secundarios a [**meningioma ya conocido del ala esfenoidal derecho**].
+Leve hipometabolismo parietal bilateral de predominio derecho, de carácter inespecífico.
+En las imágenes del TC se aprecian signos de atrofia cortical.
+La captación en el resto de estructuras cortico-subcorticales y cerebelosas se encuentra conservada.
+
+conclusiones:
+Estudio PET/TC que no muestra en la actualidad un patrón de hipometabolismo cortical sugestivo de proceso neurodegenerativo.
+Hipocaptación en polo temporal derecho, probablemente secundario a los hallazgos descritos en RM previa (Ver resultados).
+
+descrip:
+PET CEREBRAL FDG

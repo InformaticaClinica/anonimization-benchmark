@@ -1,0 +1,34 @@
+ PET TC COS SENCER [**FDG**]
+
+clinica:
+Paciente de [**71 años**] que ingresa por HDA por ulcera FOrrest IIA, antecedente de neumonía por COVID19 reciente por lo que se le realizó TC torácico en que se observa nódulo sólido espiculado de 24 mm en LII y otro de 17 mm en LSD, ambos sugestivos de malignidad. Actualmente sin sintomatología de COVID + serologías positivas.
+Se comenta con radiología de tórax (Dr [**Alvite**]), quien solicita nueva prueba de imágen actual, dado que los hallazgos podrían corresponder a artefactuación por la neumonía COVID19 previa.
+Recomienda solicitar PET-TAC para comprobar niveles de captación de ambas lesiones.
+
+protocolo:
+Radiofármaco: [**Fluordesoxiglucosa-F18**] (FDG). Se practica tomografía de emisión y transmisión de cuerpo entero, 60 min después de la inyección endovenosa de 8,3 mCi de [**FDG**]. Glucemia en el momento de la inyección: 90 mg/dl.
+Se ha realizado la TC torácica en inspiración (diagnóstica).
+
+resultados:
+Se compara con TC previo del 25/07/2028.
+Catéter periférico derecho con extremo distal en VCS.
+Nódulo de 7 mm intensamente hipermetabólico (SUVmax 10,3) en espacio parotídeo izquierdo que probablemente se localiza en la glándula parotídea y corresponde con un tumor de Warthin, sin poder descartar que se corresponda con una adenopatía que sería entonces patológica por su intensa captación de [**FDG**].
+Persiste la afectación del parénquima pulmonar bilateral en relación a proceso infeccioso por COVID-19, pero en la actualidad las opacidades en vidro deslustrado subpleurales difusas tienen un aspecto más consolidativo y son intensamente hipermnetabólicas, asociado a distorsiones parenquimatosas y imágenes en halo invertido, hallazgos radiológicos que sugiere cambios organizativos. Discretas dilataciones bronquiales difusas con engrosamientos parietales, sin cambios. Pequeños granulomas calcificados bilaterales.
+Estabilidad del nódulo sólido espiculado de 25 mm paravertebral en segmento basal medial del LII, que condiciona retracción de la pleura adyacente, intensamente hipermetabólico (SUVmax 7,2). Estabilidad del otro nódulo sólido irregular y de bordes espiculados peribroncovascular de 18 mm en segmento apical del LSD, que también retrae la pleura y es moderadamente hipermetabólico (SUVmax 4,3). Ambos nódulos serían sugestivos de procesos neoproliferativos primarios de pulmón, particularmente el nódulo del LSD, pero más por su aspecto en la TC previa ya que en la actualidad son más difíciles de diferenciar respecto al resto del parénquima pulmonar por la extensa afectación infecciosa consolidativa.
+Se visualizan adenopatías prevasculares e hiliares derechas hipermetabólicas, no caracterizables considerando la coexistencia de un proceso infeccioso y otro probablemente tumoral. Ganglios paratraqueales derechos calcificados, de aspecto granulomatoso.
+Aparición de leve derrame pleural bilateral.
+Calcificación del anillo valvular aórtico. Calcificaciones coronarias.
+Glándulas suprarrenales engrosadas pero sin captaciones patológicas de [**FDG**].
+Imágenes esclerosas hipermetabólicas en región lateral de la 6a costilla derecha y cuerpo vertebral de T6 y L3, sugestivas de metástasis. También se visualiza un leve foco hipermetabólica en la apófisis espinosa de T2 sin clara traducción en las imágenes de TC pero que también podría corresponder con metástasis.
+No se observan otras captaciones de [**FDG**] significativas ni otros hallazgos morfológicos relevantes, considerando las limitaciones del estudio TC abdominal (no diagnóstico, de baja dosis y sin contraste yodado endovenoso).
+
+conclusiones:
+Estudio PET/TC que muestra:
+- Afectación del parénquima pulmonar bilateral en relación a proceso infeccioso por COVID-19 en evolución, en la actualidad con cambios organizativos.
+- Estabilidad del nódulo sólido de 25 mm en LII, intensamente hipermetabólico, así como del otro nódulo sólido de 18 mm en LSD, moderadamente hipermetabólico; ambos nódulos serían sugestivos de procesos neoproliferativos primarios de pulmón, particularmente el nódulo del LSD, si bien en la actualidad son más difíciles de diferenciar respecto al resto del parénquima pulmonar por la extensa afectación infecciosa consolidativa.
+- Adenopatías prevasculares e hiliares derechas hipermetabólicas, no caracterizables.
+- Aparición de leve derrame pleural bilateral.
+- Metástasis óseas esclerosas hipermetabólicas en 6a costilla derecha, T6 y L3, y más dudosa en de T2.
+
+descrip:
+PET TC COS SENCER [**FDG**]

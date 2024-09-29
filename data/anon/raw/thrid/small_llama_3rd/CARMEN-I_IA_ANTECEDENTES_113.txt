@@ -1,0 +1,27 @@
+ Antecedentes personales: SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, sin AMC. No hábitos tóxicos.
+Parcialmente dependiente para las ABVD, camina con andador. Vive en INSTITUCION.
+*ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento médico.
+2. DEMENCIA POR CUERPOS DE LEWY. Diagnosticada en 2019 en INSTITUCION.
+Seguimiento por Neurología OTROS_SUJETO_ASISTENCIA (Dra. OTROS_SUJETO_ASISTENCIA).
+3. Aneurisma de ACMI M1-M2 de 4 mm. Incidental. En control periódico con neuroimagen (último TC craneal en 2021: aneurisma estable). La paciente rechazó tratamiento quirúrgico.
+4. OSTEOPOROSIS en tratamiento sustitutivo.
+5. SÍNDROME DEPRESIVO de larga evolución en tratamiento médico.
+6. NEUMOPATIA INTERSTICIAL. PROBABLE NEUMONÍA POR HIPERSENSIBILIDAD.
+Se presentó el caso en Comité de EPID, recomendando ampliación de estudio por parte de MAS para descartar enfermedad autoinmune asociada (Scl-70 y ANA por IFI Hep2 positivo). En tratamiento con MEDICACION_ACTUAL 5 mg/d. En control por Neumología INSTITUCION.
+- Función pulmonar: Deterioro espirométrico y de la DLCO (FEV1-13 y DLCO- 16%) en relación a estudio del 14.02.26.
+En ingreso Diciembre 2026 por neumonía presentó episodios puntuales de desaturación al esfuerzo asociado a taquipnea, por lo que se decidió iniciar oxigenoterapia ambulatoria las 24H y realizar seguimiento posterior con Equipo de Intersticiales en 3 meses.
+7. ESTENOSIS DE CANAL LUMBAR Y DISCOPATÍA LUMBAR DIFUSA.
+Ha sido estudiada por Unidad de Raquis de Traumatología en INSTITUCION (Dr. Nanning) en diciembre de 2022. Ha estado en Centro Médico Aspasia hasta febrero 2023 para rehabilitación.
+*INTERVENCIONES QUIRÚRGICAS: Faquectomía bilateral.
+*MEDICACIÓN ACTUAL (actualizada 16/03/2027):
+- Lexatin 3mg
+- Calcio c24
+- Prednison 5
+- Mirtazapina 15/24
+- Haloperidol prn
+- Omeprazol 20/24
+- Sinemt plus c8h
+- Serc 16/8
+- Losartan/HCTZ 50/12.5
+- Adolonta retard.

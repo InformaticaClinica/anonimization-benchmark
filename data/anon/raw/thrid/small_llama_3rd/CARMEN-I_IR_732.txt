@@ -1,0 +1,24 @@
+ En seguimiento por Hematología EDAD_SUJETO_ASISTENCIA con antecedentes de covid + NOC en FECHAS. Acude por cuadro febril de una semana de evolución. Se trata de un paciente sin claro foco del cuadro febril, sin presentar focalidad infecciosa clara y tampoco aparenta que sea exclusivamente reactivación de NOC (TC con imagen en evolución).
+Refiere pérdida de peso, con sudoración y fiebre nocturna, por lo que se solicita un estudio con PET para descartar posible proceso linfoproliferativo.
+
+protocolo:
+PET: Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 6,25 mCi de 18F FDG (18F-Fluordesoxiglucosa).
+Glucemia en el momento de la inyección de FDG: 107 mg/dL.
+Se realiza TAC, tras la administración de contraste oral, y PET de cuerpo entero.
+Se obtienen imágenes tomográficas de cuerpo entero de PET (con y sin corrección de atenuación) e imágenes fusionadas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de FDG (cerebro, región orofaríngea, miocardio, hígado, bazo y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Discreto aumento de captación de FDG en la afectación parenquimatosa bilateral descrita en la Tc torácica reciente (SUVmax 1,9 y 3,8) y atribuible a cambios residuales a neumonía por COVID. Sin evidencia de adenopatías hipermetabólicas.
+Importante aumento de captación de FDG en lo que parece corresponder con cola de pancreas (SUVmax 6,4), que obliga a descartar patología infiltrativa en la zona. Se recomienda ampliar estudio mediante Tc abdominal con contraste.
+Irregularidad en la representación hepática, donde parece delimitarse alguna imagen hipercaptante  (SUVmax segmento VI-VII 3,2, hígado normal 2,1), a confirmar en el Tc abdominal aconsejado.
+Aumento difuso de captación de FDG en la médula ósea, que se muestra más activa que el hígado, de forma difusa, especialmente en el esqueleto axial. Esta representación puede ser secundaria a un proceso regenerativo, secundario a una anemia, o ser reactiva a un proceso infeccioso, a valorar clinicamente.
+Calcificaciónes en grandes vasos y disección focal en aorta abdominal, ya conocidas, sin hipermetabolismo significativo asociado.
+No se observan otras captaciones patológicas de FDG en bazo ni el resto de sectores corporales estudiados sugestivos de actividad macroscópica tumoral con avidez por la FDG.
+
+conclusiones:
+Estudio PET/TC con FDG que muestra captación patológica de FDG en lo que parece corresponder con cola de pancreas e irregularidad en la captación hepática, a descartar patología infiltrativa en la zona y ampliar estudio mediante Tc abdominal con contraste.
+Discreto hipermetabolismo glicídico asociado a la afectación parenquimatosa bilateral atribuible a cambios residuales a neumonía por COVID.
+
+descrip:
+PET TC COS SENCER FDG

@@ -1,0 +1,5 @@
+ Paciente que es derivado desde el [**CAP**] a urgencias del [**C. La Salud**] donde consultó por cuadro de unos 10 días de evolución de fiebre, artromialgias, diarrea y cefalea, a lo que en los últimos 4 días se había añadido disnea de mínimos esfuerzos. A pesar de que el test de antígeno rápido (TAR) resultó negativo en el [**CAP**], lo derivan por clínicacompatible.
+A su llegada a urgencias presenta regular estado general, estando taquipneico y con saturación de oxígeno de 90% por lo que se coloca VMK 0.31. Auscultación pulmonar con crepitantes bibasales.
+Analítica: PCR [**3.3 mg/dL**], LDH [**290 U/L**], DD [**500 y 1700**] linfocitos.
+Radiografía de tórax donde se objetivan infiltrados intersticiales bilaterales en bases.
+Se orienta como neumonía por [**SARS-CoV-2**] con insuficiencia respiratoria hipoxémica grave secundaria. Se inicia [**Dexametasona**] 8 mg i.v. y acaba ingresando a cargo de [**Medicina Interna**].

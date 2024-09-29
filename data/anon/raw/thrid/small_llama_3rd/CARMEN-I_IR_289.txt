@@ -1,0 +1,31 @@
+ En seguimiento por INSTITUCION
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA sin antecedentes OTROS_SUJETO_ASISTENCIA previos de interés. Ingresada desde el día FECHAS por neuomonía OTROS_SUJETO_ASISTENCIA, que requirió de traslado a HOSPITAL. Extubación día FECHAS, persiste desde entonces OTROS_SUJETO_ASISTENCIA y posible OTROS_SUJETO_ASISTENCIA. TC cerebral FECHAS con cambios involutivos sin otras alteraciones. Agradeceríamos prueba de neuroimagen para valorar posibles eventos vasculares o patología hipóxica a nivel cerebral.
+
+protocolo:
+Exploración INSTITUCION mediante secuencias potenciadas en T1 y T2 y posterior estudio INSTITUCION mediante secuencia TOF.
+
+resultados:
+Exploración parcialmente artefactada por movimiento.
+Foco de alteración de la señal con tenue restricción del ADC en el centro semioval frontal derecho que sugiere OTROS_SUJETO_ASISTENCIA.
+No se aprecian signos que sugieran sangrados agudos ni de microsangrados previos.
+Focos de alteración de la señal en la sustancia blanca periventricular y subcortical, que sugieren cambios secundarios a OTROS_SUJETO_ASISTENCIA en grado leve-moderado.
+No se observan otras lesiones focales ni otras alteraciones significativas de la señal a nivel infra ni supratentorial.
+Cisternas de la base libres.
+Estructuras de la línea media centradas.
+Sistema ventricular de tamaño y situación conservada.
+Silla turca parcialmente vacía y discreta disminución de volumen cerebral global para la edad de la paciente.
+Ocupación del oído medio derecho y bilateral de las celdas mastoideas.
+Hiperostosis bifrontal interna.
+La angio-RM obtenida está muy artefactada por movimiento.
+Hipoplasia de la arteria vertebral izquierda y probable variante fetal de la ACP derecha, sin otras alteraciones destacables.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+INSTITUCION
+
+descrip:
+RM ANGIO INTRACRANIAL ARTERIAL

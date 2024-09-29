@@ -1,0 +1,25 @@
+ En seguimiento por SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, fumador. Ingresado por OTROS_SUJETO_ASISTENCIA. Intubado. Infección respiratoria con aislamiento de OTROS_SUJETO_ASISTENCIA, en cobertura antibiótica.
+En radiografía de control se objetiva probable neumonia bibasal con progresivo empeoramiento a pesar de pauta dirigida. Se solicita OTROS_SUJETO_ASISTENCIA para descartar absceso pulmonar. Gracias!!!!
+OTROS_SUJETO_ASISTENCIA
+
+
+## protocolo
+Se realiza estudio dinámico torácico durante la inyección de contraste ev. desde vértices pulmonares hasta diafragmas empleando técnica TC espiral.
+
+
+## resultados
+Enfisema subcutáneo cervical.
+Traqueostomía.OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA, Vía central en tronco innominado venoso.
+OTROS_SUJETO_ASISTENCIA en descendente anterior
+Pequeño derrame pleural OTROS_SUJETO_ASISTENCIA.Mínimo derrame pleural izq,
+Consolidación con broncograma aéreo en OTROS_SUJETO_ASISTENCIA, en el interior del parenquima consolidado se observan pequeñas zonas hipodensas sugestivo de neunonía necrotizante.
+Pequeña consolidación postero basal izq y opacidades en vidrio deslustrado en OTROS_SUJETO_ASISTENCIA.
+Todo ello de aspecto infeccioso. Valorar broncoaspiración.
+
+
+## conclusiones
+OTROS_SUJETO_ASISTENCIA
+
+
+## descrip
+OTROS_SUJETO_ASISTENCIA

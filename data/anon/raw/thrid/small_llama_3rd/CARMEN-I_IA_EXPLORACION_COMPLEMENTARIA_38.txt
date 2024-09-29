@@ -1,0 +1,8 @@
+ * MICROBIOLOGÍA:
+- Detecció virus Covid-19 (FECHAS): Positivo.
+- Antigenúria OTROS_SUJETO_ASISTENCIA (FECHAS): Negativo
+- Antigenúria OTROS_SUJETO_ASISTENCIA (FECHAS): Negativo
+- Urinocultiu (FECHAS ) : OTROS_SUJETO_ASISTENCIA NEGATIVO, OTROS_SUJETO_ASISTENCIA NEGATIVO, OTROS_SUJETO_ASISTENCIA NEGATIVO, Cultivo Negativo.
+- Hemocultiu (FECHAS): OTROS_SUJETO_ASISTENCIA (contaminación)
+- Hemocultivo (FECHAS): negativo.
+- Urinocultivo (22.01.2025): OTROS_SUJETO_ASISTENCIA en orina negativo, nitritos en orina negativo, OTROS_SUJETO_ASISTENCIA orina OTROS_SUJETO_ASISTENCIA

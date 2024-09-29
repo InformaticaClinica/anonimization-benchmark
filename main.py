@@ -45,7 +45,6 @@ def post_processing_replace_text(text, dictionary_list):
 
 
 def first_iteration(metrics, filename, llm, name_model):
-    print("\n first iteration \n")
     context = LLMContext(llm)
     data = {}
     data["system"] = read_text("prompts/system_prompt1.txt")
@@ -59,7 +58,6 @@ def first_iteration(metrics, filename, llm, name_model):
     return metrics, text_generated
 
 def second_iteration(metrics_second, text_generated, llm, name_model, filename):
-    print("\n second iteration \n")
     metrics_second.set_filename(filename)
     prompt_filename = 'prompts/system_prompt2_beta.txt'
     prompt = {"system": read_text(prompt_filename), "user": text_generated}
@@ -77,7 +75,6 @@ def second_iteration(metrics_second, text_generated, llm, name_model, filename):
     return json.loads(dictionary)
 
 def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename):
-    print("\n third iteration \n")
     metrics_thrid.set_filename(filename)
     ground_truth = read_text(f'{PATH}txt/masked/{filename}')
     text_generated = post_processing_replace_text(text_generated, dictionary)
@@ -89,7 +86,6 @@ def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filen
     metrics_thrid.store_metrics()
     store_text(text_generated, filename, "thrid/" + name_model+"_3rd")
     return metrics_thrid
-
 
 def anonimized_loop(llm, name_model):
     start_time = time.time()
@@ -103,10 +99,6 @@ def anonimized_loop(llm, name_model):
             dictionary = second_iteration(metrics_second, text_generated, llm, name_model, filename)
             metrics_thrid = third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename)
             counter += 1
-            if counter >= 1:
-                break
-            if counter % 10 == 0:
-                print(counter)
         except Exception as e:
             print(e)
     metrics.save_metrics()
@@ -116,15 +108,15 @@ def anonimized_loop(llm, name_model):
 
 def call_models():
     anonimized_loop(SmallLlamaModel(),  "small_llama")
-    # anonimized_loop(BigMistralModel(),  "big_mistral_model",   data)
-    # anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model", data)
-    # anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model",     data)
-    # anonimized_loop(BigLlamaModel(),    "big_llama_model",     data)
-    # # anonimized_loop(ChatGPTModel(),     "chatgpt_model",       data)
-    # # anonimized_loop(ChatGPTminiModel(),     "chatgpt_mini_model",       data)
-    # anonimized_loop(Sonet3Model(),      "sonet_3_model",       data)
-    # anonimized_loop(Haiku3Model(),      "haiku_3_model",       data)
-    # anonimized_loop(OpusModel(),        "opus_model",          data)
+    anonimized_loop(BigMistralModel(),  "big_mistral_model")
+    anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model")
+    anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model")
+    anonimized_loop(BigLlamaModel(),    "big_llama_model")
+    # anonimized_loop(ChatGPTModel(),     "chatgpt_model")
+    # anonimized_loop(ChatGPTminiModel(),     "chatgpt_mini_model")
+    anonimized_loop(Sonet3Model(),      "sonet_3_model")
+    anonimized_loop(Haiku3Model(),      "haiku_3_model")
+    anonimized_loop(OpusModel(),        "opus_model")
 
 
 def main():

@@ -1,0 +1,11 @@
+ RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+Respecto a la RX de HOSPITAL de FECHAS se observa disminución de las opacidades alveolares de distribución periférica en los campos pulmonares medio e inferior izquierdos y afectación más difusa del pulmón derecho con opacidades alveolares más extensas en el campo pulmonar medio e inferior.
+OTROS_SUJETO_ASISTENCIA bilateral por OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+RX  PORTATIL  HOSPITAL

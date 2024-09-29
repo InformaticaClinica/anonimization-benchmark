@@ -1,0 +1,23 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Neumonia por FAMILIARES_SUJETO_ASISTENCIA.
+DimeroD 27.000. sospecha de OTROS_SUJETO_ASISTENCIA
+NEUMONÍA BILATERAL POR SARS-COV-2
+
+protocolo:
+PROTOCOLO
+
+resultados:
+Imagen hipodensa en lóbulo tiroideo izquierdo, no presente en TC previo del FECHAS. Aunque probablemente se trate de un quiste, se podria ampliar estudio mediante ecografía.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de OTROS_SUJETO_ASISTENCIA.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Focos de vidrio deslustrado subpleural, bilaterales y con distribución periférica, de predominio en lóbulos superiores. Se observan bandas subpleurales con múltiples áreas de distorsión parenquimatosa y dilataciones bronquiolares asociadas, de predominio en TERRITORIO. Hallazgos compatibles con OTROS_SUJETO_ASISTENCIA con cambios organizativos.
+
+conclusiones:
+No se observa OTROS_SUJETO_ASISTENCIA.
+Hallazgos compatibles con OTROS_SUJETO_ASISTENCIA con distorsión parenquimatosa y dilataciones bronquiolares asociadas, de predominio en TERRITORIO.
+
+descrip:
+ANGIO TC PULMONAR

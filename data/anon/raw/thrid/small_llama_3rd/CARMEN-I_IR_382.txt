@@ -1,0 +1,28 @@
+ En seguimiento por Hematología INSTITUCION (Dra. NOMBRE_PERSONAL_SANITARIO).
+Varón de EDAD_SUJETO_ASISTENCIA, ingresado en AVI por insuficiencia respiratoria por neumonia bilateral por OTROS_SUJETO_ASISTENCIA que requirió intubación. El FECHAS se realizó angioOTROS_SUJETO_ASISTENCIA donde se descartó TEP pero mostraba signos de OTROS_SUJETO_ASISTENCIA (analítica con OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA elevadas).
+Además se complicó con un estado OTROS_SUJETO_ASISTENCIA.
+Hoy presenta franco empeoramiento analítico (OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA de hasta OTROS_SUJETO_ASISTENCIA) junto con OTROS_SUJETO_ASISTENCIA.
+Se ha solicitado OTROS_SUJETO_ASISTENCIA que descarta OTROS_SUJETO_ASISTENCIA o alteraciones de OTROS_SUJETO_ASISTENCIA.
+Consensuado con el OTROS_SUJETO_ASISTENCIA se decide realizar OTROS_SUJETO_ASISTENCIA urgente para descartar complicaciones de la OTROS_SUJETO_ASISTENCIA (FECHAS desde último OTROS_SUJETO_ASISTENCIA). Además se solicita añadir OTROS_SUJETO_ASISTENCIA por empeoramiento respiratorio, de cara a descartar OTROS_SUJETO_ASISTENCIA.
+Muchas gracias
+OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+OTROS_SUJETO_ASISTENCIA con contraste ev. urgente.
+
+resultados:
+Se compara con TC torácico previo del 24/10/24.
+OTROS_SUJETO_ASISTENCIA normoposicionado.
+OTROS_SUJETO_ASISTENCIA con extremo distal en segunda porción duodenal.
+OTROS_SUJETO_ASISTENCIA con entrada por extremidad superior derecha y extremo en el cayado de la vena cefálica derecha y acceso yugular derecho con extremo en tercio inferior de la vena cava superior.
+No se observan OTROS_SUJETO_ASISTENCIA de tamaño patológico en los territorios ganglionares explorados.
+OTROS_SUJETO_ASISTENCIA de nueva aparición.
+Múltiples opacidades en vidrio deslustrado parcheadas y bilaterales, de distribución difusa y pequeño tamaño, compatibles con OTROS_SUJETO_ASISTENCIA conocida. Se observa OTROS_SUJETO_ASISTENCIA en segmentos basales posteriores de predominio derecho, así como OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA del LII, con OTROS_SUJETO_ASISTENCIA y ocupación endobronquial hipodensa (probablemente por secreciones), sugestivo de OTROS_SUJETO_ASISTENCIA sin poder descartar sobreinfección bacteriana.
+OTROS_SUJETO_ASISTENCIA de aspecto edematoso de predominio en cuerpo y cola, con extensos OTROS_SUJETO_ASISTENCIA que se extienden a espacio pararrenal anterior izquierdo, sin focos de necrosis ni colecciones delimitables, compatible con pancreatitis aguda edematoso-intersticial. Leve líquido libre en pelvis.
+OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA sin alteraciones.
+
+conclusiones:
+Afectación pulmonar por COVID con colapso del LII y leve derrame pleural izquierdo de nueva aparición (sugestivo de OTROS_SUJETO_ASISTENCIA sin poder descartar sobreinfección bacteriana). Pancreatitis aguda edematoso-intersticial, sin necrosis ni colecciones delimitables, con extensos OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

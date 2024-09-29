@@ -1,0 +1,38 @@
+ En seguimiento por FAMILIARES_SUJETO_ASISTENCIA. Febril, con OTROS_SUJETO_ASISTENCIA, leucos de EDAD_SUJETO_ASISTENCIA. Sospecha OTROS_SUJETO_ASISTENCIA, pendiente de OTROS_SUJETO_ASISTENCIA. Agradezco TC toracoabdominal (descartar causas abdominales de sepsis.). Gracias.
+Infecció per coronavirus no especificada
+
+protocolo:
+TC TORACOABDOMINAL en fase portal urgente.
+
+resultados:
+Se compara con el TC previo del FECHAS:
+Catéter yugular derecho con extremo distal que hace un bucle en TERRITORIO.
+No se observan adenopatías axilares ni mediastínicas de tamaño valorable.
+No se identifica derrame pleural ni pericárdico.
+Atelectasias laminares y adhesivas en ambos TERRITORIO y en TERRITORIO.
+TERRITORIO con extremo distal en el estómago.
+Cambios postquirúrgicos por OTROS_SUJETO_ASISTENCIA.  Tutor pancreático.
+Dos drenajes quirúrgicos con entrada en vacío izquierdo, uno de ellos con extremo distal en TERRITORIO y el segundo subhepático en TERRITORIO.
+Tercer drenaje con entrada en vacío derecho y extremo distal en el TERRITORIO.
+Discreto enfisema y hematoma subcuáneo en pared abdominal derecha subyacente a las grapas quirurgicas.
+Trabeculación y aumento de la densidad de la grasa así como líquido libre a nivel TERRITORIO, TERRITORIO, TERRITORIO, TERRITORIO y en TERRITORIO.
+Pequeña cantidad de liquido pseudocoleccionado precaval y en gotiera paracólica derecha con algun nivel hemático en su interior. Discreto hemoperitoneo en pelvis. No se observan colecciones intraabdominales.
+Moderada cantidad de neumoperitoneo de predominio en hemiabdomen superior, residual a la cirugía reciente.
+Higado de tamaño y estructura normal, sin lesiones focales evidentes.
+Hepaticoyeyunostomía. Vía bilira no dilatada. Leve engrosamiento e hipercaptación de las paredes del conducto hepático común y del radical biliar izquierdo, hallazgos que pueden ser secundarios a la cirugía reciente vs colangitis.
+INSTITUCION y INSTITUCION permeables.
+INSTITUCION de tamaño normal sin alteraciones.
+INSTITUCION sin alteraciones. INSTITUCION de EDAD_SUJETO_ASISTENCIA, estable.
+INSTITUCION de tamaño y morfología normal,con nefrograma simétrico bilateral. No se observa dilatación de la via excretora.
+INSTITUCION de tamaño borderline en receso cardiofrénico derecho, preesofágica baja y en raíza mesentérica. No se observan adenopatías de tamaño patológico iliacas, mesentétricas ni retroperitoneales.
+OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Catéter yugular derecho con extremo distal que hace un bucle en TERRITORIO.
+Cambios postquirúrgicos por OTROS_SUJETO_ASISTENCIA. Pneumoperitoneo, probablemente residual a la cirugía reciente.
+Trabeculación y aumento de la densidad de la grasa así como líquido libre a nivel TERRITORIO, TERRITORIO, TERRITORIO, TERRITORIO y en TERRITORIO y pequeña cantidad de liquido pseudocoleccionado precaval y en gotiera paracólica derecha con algun nivel hemático en su interior. Discreto hemoperitoneo en pelvis.
+Hepaticoyeyunostomía. Leve engrosamiento e hipercaptación de las paredes de la vía biliar, hallazgos que pueden ser secundarios a la cirugía reciente o colangitis.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

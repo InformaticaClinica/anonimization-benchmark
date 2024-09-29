@@ -1,0 +1,10 @@
+ ENFERMEDADES INFECCIOSAS
+Paciente con los antecedentes mencionados entre los que destacan ENFERMEDADES INFECCIOSAS, ENFERMEDADES INFECCIOSAS, ENFERMEDADES INFECCIOSAS y ENFERMEDADES INFECCIOSAS por lo que es portador de ENFERMEDADES INFECCIOSAS, acude por clínica de fiebre y ENFERMEDADES INFECCIOSAS que se inició el miércoles FECHAS, coincidiendo con la administración de la primera dosis de la vacuna de OTROS_SUJETO_ASISTENCIA. TAR en Consultorio INSTITUCION positivo de hoy.
+Ingresa  en planta de hospitalización 7-4, por infección de vías respiratorias inferiores por ENFERMEDADES INFECCIOSAS, cuyo inicio de síntomas fue el día FECHAS, siendo su TAR positivo el día FECHAS, cuyo ingreso fue el día FECHAS, por lo mismo se inicio tratamiento con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, primer tratamiento que completa de forma intravenosa y OTROS_SUJETO_ASISTENCIA durante 5 días.
+INFECCIÓN POR SARS-CoV2
+A su llegada a urgencias hemodinámicamente estable, febril, taquipnea a mínimos esfuerzos, saturación correcta con VMK al NUMERO. A la exploración crepitantes difusos en ambos campos pulmonares. Se realiza radiografía de tórax que muestra infiltrados intersticiales pulmonares bilaterales de predominio periférico. Analítica con PCR de NUMERO, LDH en rango.
+Hemograma con Hb de NUMERO, plaquetas NUMERO, 4120 leucocitos (L800).
+Dado que se trata de un paciente pluripatológico con necesidades de oxigenoterapia, se decide ingreso en sala de hospitalización de pacientes SARS-CoV-2 +. Hoy alta hospitalaria, ante mejoría clínica, analítica y hemodinámica. No disnea de reposo, no de moderados esfuerzos. No dolor torácico, no palpitaciones. No semiología infecciosa digestiva, respiratoria o urinaria.
+Hemodinámicamente estable, eupneico con LN 1l con saturación NUMERO,afebril. Glucemias NUMERO.
+Se recomienda estudio de hiperglucemia en paciente con alto riesgo cardiovascular, con introducción de antidiabéticos orales y control de dicha patología de forma ambulatoria.
+Ante estabilidad clínica, analítica y hemodinámica se decide alta hospitalaria con oxigenoterapia, siendo citado al alta en Neumología.

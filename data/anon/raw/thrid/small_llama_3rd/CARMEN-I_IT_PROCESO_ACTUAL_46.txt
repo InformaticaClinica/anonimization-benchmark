@@ -1,0 +1,2 @@
+ La paciente es conviviente con su OTROS_SUJETO_ASISTENCIA quien resultó la semana pasada positivo para SARS-CoV-2. El jueves FECHAS inicia cuadro clínico consistente en fiebre, tos seca, astenia y adinamia, motivo por el cual el FECHAS realizan PCR en INSTITUCION que resulta positiva para SARS-CoV-2.
+Persiste con fiebre de 39-40o hasta el día FECHAS a pesar de antitérmicos reglados, junto con tos y aparición de sensación de disnea por lo que reconsulta. No está vacunada por OTROS_SUJETO_ASISTENCIA.

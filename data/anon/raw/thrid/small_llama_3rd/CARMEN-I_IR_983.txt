@@ -1,0 +1,19 @@
+ ECOGRAFIA ABDOMINAL CON CONTRASTE
+
+clinica:
+Paciente con pseudoaneurisma hepatico con fistula solicitamos estuidio ECO.
+
+protocolo:
+ECOGRAFÍA ABDOMINAL CON CONTRASTE OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Hígado OTROS_SUJETO_ASISTENCIA de contornos nodulares y muy heterogéneo, correspondiente a hepatopatía crónica avanzada. Nódulo hipoecoico de 11 mm en s.TERRITORIO que se estudia con CEUS siendo hipo-hipo-hipo (posible nódulo de regeneración), a controlar.
+TIPS permeable, con vel máxima de 158 cm/s. Vena porta con zonas de trombosis parietal a nivel proximal (EDAD_SUJETO_ASISTENCIA de grosor, de <50% de la luz del vaso), siendo por lo demás permeable y con vel media de 39 cm/s.
+Ramas portales intrahepáticas OTROS_SUJETO_ASISTENCIA.
+Arteria hepática permeable, hipertrófica. En correlación con los hallazgos de la arteriografía y TC previos (valorados por la Dra NOMBRE_PERSONAL_SANITARIO) se realizan reconstrucciones del TC previo del FECHAS que delimitan la imagen de pseudoaneurisma (imágenes enviadas al PACS). La imagen se corresponde en ecografía como una imagen nodular hipoecoica de EDAD_SUJETO_ASISTENCIA, localizada por detrás del TIPS, con Doppler y registros arteriales en su interior y localizada en una trifurcación de dónde se originan las ramas para el seg.TERRITORIO (adyacente al pseudoaneurisma), s.TERRITORIO y s.TERRITORIO. Se delimita el pseudoaneurisma con contraste ecográfico.
+Vesícula biliar replecionada, de paredes finas, con litiasis y abundante contenido ecogénico en su interior (OTROS_SUJETO_ASISTENCIA).
+Vía biliar no dilatada.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes. Leve esplenomegalia de EDAD_SUJETO_ASISTENCIA. Riñones de tamaño y morfología normal, sin dilatación de la vía excretora. Moderada cantidad de OTROS_SUJETO_ASISTENCIA de distribución difusa.
+
+descrip:
+ECOGRAFIA ABDOMINAL CON CONTRASTE

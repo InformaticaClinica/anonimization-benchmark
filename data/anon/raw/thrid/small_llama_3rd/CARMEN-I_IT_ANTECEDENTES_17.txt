@@ -1,0 +1,7 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas conocidas ni hábitos tóxicos. Independiente para ABVD (FAMILIARES_SUJETO_ASISTENCIA), funciones superiores preservadas (FAMILIARES_SUJETO_ASISTENCIA). Vive con su OTROS_SUJETO_ASISTENCIA, tienen dos OTROS_SUJETO_ASISTENCIA y buen soporte sociofamiliar.
+ANTECEDENTES PATOLÓGICOS
+- ANTECEDENTES PATOLÓGICOS en tratamiento.
+- ANTECEDENTES PATOLÓGICOS hace 20 años con recuperación ad integrum.
+En tratamiento con TRATAMIENTO HABITUAL.
+- ANTECEDENTES PATOLÓGICOS, Gleason 6 (ANTECEDENTES PATOLÓGICOS) bilateral, ANTECEDENTES PATOLÓGICOS en 2014
+TRATAMIENTO HABITUAL (febrero 2028): omeprazol 20mg/24h, TRATAMIENTO HABITUAL 300mg/24h, hidroxizina 25mg/24h, calcifediol 266 mcg/30días, amlodipino 5mg/24h, nicardipino 20mg/24h, losartan-hidroclorotiazida 25-100mg/24h, fluticasona 2 inh/12h, cetirizina 10mg/24h.

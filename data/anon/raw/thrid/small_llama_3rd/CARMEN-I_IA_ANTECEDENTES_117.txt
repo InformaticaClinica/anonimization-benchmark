@@ -1,0 +1,12 @@
+ Antecedentes personales:
+Es el mayor de una fratria de FAMILIARES_SUJETO_ASISTENCIA. Natural de PAIS. Emigró a TERRITORIO, donde vivieron durante muchos años y PROFESION. Actualmente jubilado desde hace EDAD_SUJETO_ASISTENCIA. Vive en domicilio familiar con su OTROS_SUJETO_ASISTENCIA. Tiene OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. La familia explica que siempre ha sido muy PROFESION, muy PROFESION, sociable y PROFESION.
+Antecedentes somáticos: alergia a la NUMERO_TELEFONO. Insuficiencia renal crónica, hipertensión esencial, bloqueo auriculoventricular, obesidad, hiperuricemia, bocio multinodular no tóxico.
+Antecedentes psiquiátricos: primer pisodio depresivo en FECHAS. Explican episodio de OTROS_SUJETO_ASISTENCIA.
+La familia refiere que tras OTROS_SUJETO_ASISTENCIA inició cuadro depresivo y estuvo ingresado en HOSPITAL durante mucho tiempo tras realizar intentto autolítico bebiendo una botella de NUMERO_TELEFONO. Segundo episodio depresivo hace 17 años. Estuvo en tratamiento farmacolóigco consiguiendo recuperación completa interepisódica.
+Ultimo ingreso FECHAS en HOSPITAL por presentar clínica depresiva con ideas de ruina.
+Medicación habitual:
+NUMERO_IDENTIF 100 mg
+NUMERO_IDENTIF 5 mg
+NUMERO_IDENTIF 20/12.5 mg
+NUMERO_IDENTIF 50 mg
+NUMERO_IDENTIF 225 mg.

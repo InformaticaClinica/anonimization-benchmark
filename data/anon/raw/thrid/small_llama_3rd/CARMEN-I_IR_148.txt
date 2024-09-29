@@ -1,0 +1,29 @@
+ En seguimiento por FECHAS 100cc.
+
+clinica:
+INFECCIÓN POR OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+Estudio ESTUDIO con contraste ev, en fase arterial.
+
+resultados:
+Se revisan estudios previos; último TC del FECHAS.
+OTROS_SUJETO_ASISTENCIA izquierda con extremo distal en unión cavoatrial.
+OTROS_SUJETO_ASISTENCIA aumentado de tamaño de aspecto nodular con ligera extensión endotorácica.
+OTROS_SUJETO_ASISTENCIA paratraqueales, subcarinal e hiliares bilaterales aumentados de tamaño, de probable carácter reactivo. No se visualizan OTROS_SUJETO_ASISTENCIA, ni en regiones axilares de tamaño valorable.
+Pequeño OTROS_SUJETO_ASISTENCIA posterolateral alto derecho.
+OTROS_SUJETO_ASISTENCIA derecho, ya conocido, con disminución de tamaño de las colecciones apicales derechas, que ahora presentan aire en su interior, y se visualiza disminución del colapso del parénquima pulmonar adyacente. Persiste la colección basal derecha, de EDAD_SUJETO_ASISTENCIA de diámetro maximo.
+Extenso OTROS_SUJETO_ASISTENCIA en pared torácica lateral derecha y en mama derecha. Aumento de partes blandas en la pared torácica D, en relación a cambios inflamatorios secundarios a OTROS_SUJETO_ASISTENCIA, con pequeños focos de OTROS_SUJETO_ASISTENCIA asociados. Se visualiza trayecto de OTROS_SUJETO_ASISTENCIA previo a nivel del 4o espacio intercostal D.
+Leve OTROS_SUJETO_ASISTENCIA.
+Mínimo OTROS_SUJETO_ASISTENCIA izquierdo. Mínimo OTROS_SUJETO_ASISTENCIA.
+Afectación OTROS_SUJETO_ASISTENCIA bilateral, de predominio en OTROS_SUJETO_ASISTENCIA, en forma de opacidades en vidrio deslustrado bilaterales peribroncovasculares y subpleurales, que han aumentado respecto estudio previo, asociadas a engrosamientos septales, todo ello conformando un patrón de 'OTROS_SUJETO_ASISTENCIA'. Se asocian también a focos OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA, algunas dilataciones bronquiales y bandas de morfología perilobular. Los hallazgos descritos están en relación con proceso infeccioso por COVID-19, con cambios organizativos asociados.
+Pequeña OTROS_SUJETO_ASISTENCIA.
+Cambios OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Proceso infeccioso por COVID-19, con mayor afectación de los OTROS_SUJETO_ASISTENCIA, que ha aumentado discretamente respecto previo, con cambios organizativos asociados.
+OTROS_SUJETO_ASISTENCIA derecho, con disminución de tamaño de las colecciones apicales derechas, que ahora presentan aire en su interior. Persiste la colección basal derecha, de EDAD_SUJETO_ASISTENCIA de diámetro maximo.
+Extenso OTROS_SUJETO_ASISTENCIA en pared torácica lateral derecha y en mama derecha, con cambios inflamatorios asociados y pequeños focos de OTROS_SUJETO_ASISTENCIA. Leve OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+TC TORAX

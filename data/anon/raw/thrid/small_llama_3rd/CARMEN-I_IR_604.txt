@@ -1,0 +1,10 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+RX de OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA. Se compara con RX del FECHAS.
+
+conclusiones:
+Tènues opacidades pulmonares bilaterales, estables.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

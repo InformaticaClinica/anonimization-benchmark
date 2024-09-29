@@ -1,0 +1,26 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA, con antecedente de OTROS_SUJETO_ASISTENCIA, ingresado por OTROS_SUJETO_ASISTENCIA. Evoluciona con insuficiencia respiratoria (LAF al FECHAS), dímero-d en ascenso de FECHAS. Solicitamos angioTC para descartar OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE: adquisición mediante energía dual.
+
+resultados:
+Se compara con estudio previo de hace FECHAS (FECHAS).
+Se observan un defecto de replección intraarterial en rama para el segmento lateral del INSTITUCION, compatible con TEP segmentario en dicho nivel.
+Estabilidad de la dilatación del tronco de la arteria pulmonar (FECHAS), sugestivo de OTROS_SUJETO_ASISTENCIA. Reflujo de contraste a venas suprahepáticas, que podría estar en relación a insuficiencia de cavidades derechas (probablemente todo ello secundario a la OTROS_SUJETO_ASISTENCIA).
+Múltiples ganglios mediastínicos (OTROS_SUJETO_ASISTENCIA), con leve aumento de tamaño de los paratraqueales derechos, que son de tamaño OTROS_SUJETO_ASISTENCIA.
+Leve ateromatosis calcificada en la aorta torácica y en arterias coronarias.
+Traqueombroncomegalia con engrosamientos parietales difusos, estable.
+No se observa derrame pleural ni pericárdico.
+Extensa afectación parenquimatosa pulmonar con reticulación subleural, bronquiectasias y broncoliectasias de tracción, y áreas de panalización, de predominio basal y subpleural. Extensas calcificacione pulmonares dendríticas. Todo ello en relación a OTROS_SUJETO_ASISTENCIA.
+Aparición de extensas áreas de vidio deslustrado de distribución peribroncovascular, con afectación predominante en lóbulos superiores, que sugieren reagudización de la NIU como primera opción, sin poder descartar afectación por OTROS_SUJETO_ASISTENCIA ya conocida (aunque no sería el patrón típico).
+Pequeña OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Estabilidad del patrón de neumopatía intersticial fibrosante tipo NIU ya conocida, con aparición de extensas áread de vidrio deslustrado peribroncovascular en LLSS, que sugiere reagudización de la NIU como primera opción, sin poder descartar a afectación por OTROS_SUJETO_ASISTENCIA conocido (no sería el patrón típico).
+TEP segmentario en INSTITUCION asociado a signos de OTROS_SUJETO_ASISTENCIA ya conocidos (probablemetne secundario a su enf. de base).
+
+descrip:
+ANGIO TC PULMONAR

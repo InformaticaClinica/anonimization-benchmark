@@ -1,0 +1,22 @@
+ En seguimiento por Hematología TC TORAX
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA, ingresado por neumonía covid grave (ya desaislado), a pesar de 3 semanas de evolución, necesita OTROS_SUJETO_ASISTENCIA, sin mejoría desde hace una semana. Rogamos descartar OTROS_SUJETO_ASISTENCIA, gracias!
+COVID (+)
+
+protocolo:
+Estudio FAMILIARES_SUJETO_ASISTENCIA.
+
+resultados:
+Se revisan estudios previos; última RX del FECHAS.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Tronco braquiocefálico tipo bovino, como variante anatómica de la normalidad.
+Ausencia de derrame pleural, ni pericárdico.
+Afectación del parénquima pulmonar en forma de opacidades en vidrio deslutrado bilaterales con engrosamientos septales asociados, de distribución peribroncovascular y subpleural, y de leve predominio en campos superiores, asociadas a discretas dilataciones bronquiales y a algunas bandas de morfología perilobular; hallazgos sugestivos de proceso infeccioso por OTROS_SUJETO_ASISTENCIA en evolución, con cambios organizativos incipientes. Resto del parénquima pulmonar sin otras alteraciones valorables.
+Discretos cambios degenerativos en columna torácica.
+Clips de OTROS_SUJETO_ASISTENCIA. Pequeño OTROS_SUJETO_ASISTENCIA, de disposición subhiliar.
+
+conclusiones:
+Neumonía bilateral por OTROS_SUJETO_ASISTENCIA en evolución, de leve predominio en campos superiores, con cambios organizativos incipientes.
+
+descrip:
+TC TORAX

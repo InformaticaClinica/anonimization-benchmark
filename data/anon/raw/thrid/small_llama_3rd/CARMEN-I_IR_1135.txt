@@ -1,0 +1,23 @@
+ En seguimiento por Radiología. EDAD_SUJETO_ASISTENCIA. Antecedente OTROS_SUJETO_ASISTENCIA en respuesta parcial tras OTROS_SUJETO_ASISTENCIA. Ingresada por OTROS_SUJETO_ASISTENCIA. Múltiples complicaciones: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA...
+Presenta OTROS_SUJETO_ASISTENCIA con requerimiento de OTROS_SUJETO_ASISTENCIA al 28%.
+Interesa INSTITUCION para descartar OTROS_SUJETO_ASISTENCIA vs OTROS_SUJETO_ASISTENCIA vs OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+INSTITUCION. Mediante técnica helicoidal se realizan cortes axiales desde TERRITORIO hasta TERRITORIO en condiciones basales para estudio torácico presentados en ventana de TERRITORIO y TERRITORIO.
+
+resultados:
+Se compara con INSTITUCION del 7/06/2021
+Disminución global del volumen mamario izquierdo, persistiendo los dos hematomas de pared torácica anterior ya conocidos con discreta trabeculación de la grasa y edema de TERRITORIO adyacentes, en menor grado que TC previo. El hematoma que se encuentra situado entre los músculos TERRITORIO mide actualmente unos 22x63 mm (previo de 41x52 mm), y el que se localiza en el margen lateral del TERRITORIO de 42x46 mm (previo de 45x47 mm).
+INSTITUCION de calibre aumentado (33 mm), sin cambios.
+INSTITUCION de 13 mm, estable. INSTITUCION ligeramente aumentados de tamaño, que podrían ser de carácter OTROS_SUJETO_ASISTENCIA. No se observan INSTITUCION ni TERRITORIO de tamaño valorable (estudio sin OTROS_SUJETO_ASISTENCIA).
+INSTITUCION en TERRITORIO. INSTITUCION en TERRITORIO y en TERRITORIO.
+Aparición de leve OTROS_SUJETO_ASISTENCIA que asocia OTROS_SUJETO_ASISTENCIA. Mínimo OTROS_SUJETO_ASISTENCIA. No hay OTROS_SUJETO_ASISTENCIA.
+INSTITUCION sin OTROS_SUJETO_ASISTENCIA ni OTROS_SUJETO_ASISTENCIA. INSTITUCION en base izquierda. INSTITUCION.
+OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Respecto estudio previo destaca aparición de leve OTROS_SUJETO_ASISTENCIA que asocia OTROS_SUJETO_ASISTENCIA y mínimo OTROS_SUJETO_ASISTENCIA.
+Disminución global del volumen mamario izquierdo con persistencia de los dos hematomas ya conocidos.
+
+descrip:
+TC TORAX

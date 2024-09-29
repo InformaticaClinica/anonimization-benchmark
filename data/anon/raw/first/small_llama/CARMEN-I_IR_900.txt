@@ -1,0 +1,32 @@
+ RM CARDIACA
+
+clinica:
+Dona de [**54 anys**] amb antecedent de [**cardiopatia dilatada**] probablement no isquèmica. Portadora de [**DAI**] i dispositius [**Pascal**] en posició [**mitral**]. RMC prèvia de [**2017**]. Ingressa ara per [**TV**]. Demanem RMC de cara a valorar [**cicatriu**]. Gràcies
+
+protocolo:
+Se realiza estudio de [**RM cardíaca**] con sincronización electrocardiográfica en paciente portador de dispositivo intracardíaco [**RM compatible**] (previa programación del dispositivo en modo [**RM**]). Se realiza secuencia de [**angio-RM 3D**] tras la administración de [**gadolinio**], secuencias de [**cine**] y secuencia de [**realce tardío 2D**].
+
+resultados:
+Ventrículo izquierdo severamente dilatado, no hipertrófico, con disfunción sistólica severa por hipocinesia difusa. Alteración de la contracción sistólica longitudinal ([**MAPSE**] < 1cm).
+[**FE VI**]: 28%.
+[**VTD VI**]: 397 ml ([**VTD VI indexado**]: 207 ml/m2; N: 51-95)
+[**VTS VI**]: 285 ml ([**VTS VI Indexado**]: 149 ml/m2; N: 11-35)
+[**Volumen latido ventricular izquierdo**]: 112 ml ([**VL indexado**]: 58 ml/m2; N: 35-67).
+Ventrículo derecho no dilatado, con ligera dfuncion sistólica. Presencia de electrodo de [**DAI**] en su interior.
+[**FE VD**]: 41 %
+[**VTD VD**]: 171 ml ([**VTD VD indexado**]: 89 ml/m2; N: 42-118)
+[**VTS VD**]: 101 ml ([**VTS VD Indexado**]: 53 ml/m2; N: 6-54)
+[**VL VD**]: 69  ml; [**VL VDi**]: 36  ml/m2.
+Aurícula izquierda severamente dilatada ([**planimetría 4c**]: 46 cm²).
+Aurícula derecha ligeramente dilatada ([**planimetría 4c**]: 25 cm²).
+Artefacto de dispositivo [**mitral**].
+En la secuencia de [**realce tardío**] se identifica un realce lineal mesocárdico septal, anterior e inferior basal y realce mesocárdico septal medioventricular, sugestivo de [**fibrosis focal**].
+No se identifican trombos a nivel intracardiaco.
+Ligera dilatación de la [**aorta torácica ascendente**] (41 mm).
+No se observa [**derrame pleural**] ni [**pericárdico**].
+
+conclusiones:
+[**Miocardiopatía dilatada**] de etiología no isquémica con disfunción sistólica en severa. [**Fibrosis**] por reemplazamiento de las localizaciones descritas.
+
+descrip:
+[**RM CARDIACA**]

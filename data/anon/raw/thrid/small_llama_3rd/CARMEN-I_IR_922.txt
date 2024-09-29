@@ -1,0 +1,15 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX tòrax portatil
+es compara amb RX previa del FECHAS
+
+conclusiones:
+Pràctica resolució completa de les opacitats alveolars a camp mig i inferior del pulmó dret, descrites a RX previa del FECHAS
+Catèter ev amb extrem distal a OTROS_SUJETO_ASISTENCIA
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

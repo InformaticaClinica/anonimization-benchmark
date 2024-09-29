@@ -1,0 +1,14 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+SOSPITA COVID-19
+
+protocolo:
+RX PORTATIL TORAX
+
+conclusiones:
+Comparativamente con la radiografía previa del FECHAS se observa marcada progresión de la afectación alveolo-intersticial bilateral, que actualmente predomina en la base derecha con formación de consolidación en campo pulmonar inferior.
+El patrón es compatible con afectación por COVID 19.
+
+descrip:
+RX  PORTATIL  TORAX

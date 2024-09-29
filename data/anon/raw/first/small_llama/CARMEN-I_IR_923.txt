@@ -1,0 +1,22 @@
+ ECOGRAFIA ME BIOPSIA ([**ESPECIFICAR LOCLIZACIÓN**])
+
+clinica:
+[**Varón**] de [**48 años**] con los antecedentes descritos en los que destaca [**trastorno esquizoafectivo**] en tratamiento con [**antipsicótico IM y ca**].
+[**Escamoso de pulmón (E-IIIc)**] que en el contexto de ingreso por [**pericarditis bacteriana**] y persistencia [**febricular**] se solicita [**PET/TC**] que objetiva dos depósitos focales entre músculo [**glúteo mayor**] y [**menor derechos**].
+Solicito estudio ecográfico dirigido con el fin de descartar la posibilidad de implantes tumorales; valorar posibilidad de tomar [**biopsia ecodirigida**].
+[**bacteriemia foco urinario**]
+
+protocolo:
+ECOGRAFIA REGIÓN [**GLÚTEA DERECHA**]
+
+resultados:
+No se identifican evidentes nódulos o lesiones ocupantes de espacio entre el [**glúteo mayor**] y [**medio**], que se identificaban en el [**PET/TC**].
+Estas captaciones podrían estar asociadas a una [**inyección intramuscular**] que el paciente refiere en días previos a la realización del [**PET**].
+Se propone estudio con [**RM**] para confirmarlo.
+[**Infiltración grasa por atrofia**] en [**glúteo mayor**].
+
+conclusiones:
+No se identifican lesiones nodulares por ecografía. Se propone [**RM**] para confirmarlo.
+
+descrip:
+ECOGRAFIA ME BIOPSIA ([**ESPECIFICAR LOCLIZACIÓN**])

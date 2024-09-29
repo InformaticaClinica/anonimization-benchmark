@@ -1,0 +1,14 @@
+ ECOSCOPIA (a pie de cama) que muestra ventrículo izquierdo no dilatado sin segmentarismos con función ventricular normal. VD no dilatado normofuncionante. VCI ligeramente dilatada. No derrame pericárdico.
+* ECO PULMONAR: líneas B bilaterales coalescentes y posible consolidación en base pulmonar izquierda.
+*MICROBIOLOGÍA:
+- Frotis muestra respiratoria COVID-19 (INSTITUCION) FECHAS: positivo
+- Frotis rectal MDR FECHAS: negativo
+- Frotis muestra respiratoria COVID-19 FECHAS: indetectable
+- Detecció/Control S. aureus (OTROS_SUJETO_ASISTENCIA) FECHAS: se aislan colònies de: OTROS_SUJETO_ASISTENCIA
+- Frotis uretral estudio bacterias FECHAS: negativo
+- Frotis uretral FECHAS Estudis moleculars i/o detecció àc. nucleics per PCR Chlamydia trachomatis, PCR Negatiu, Neisseria gonorrhoeae, PCR Negatiu, PCR Mycoplasma genitalium Negatiu
+- Frotis muestra respiratoria FECHAS: positivo
+- Detección Ag galactomanano FECHAS: negativo
+- Quantiferón FECHAS: indeterminado, no valorable
+- Broncoaspirado FECHAS: flora habitual
+- DNA VHB negativo. VIH negativo. IgG anti-core VHB positivo. IgG anti- superficie VHB negativo

@@ -1,0 +1,13 @@
+ * EXPLORACIÓN A SU LLEGADA A LA HOSPITAL:
+Consciente, orientada, eupneica. Coloración normal de piel y mucosas.
+Exploración cardiocirculatoria: Tonos cardíacos rítmicos, sin soplos audibles ni otros ruidos agregados. No ingurgitación yugular ni reflujo hepatoyugular. Pulsos periféricos presentes y simétricos (pedios, popliteos, radial). Tiempo de llenado capilar <2 segundos. Sin edemas en extremidades inferiores ni signos de trombosis venosa profunda.
+Exploración respiratoria: MVC con crepitantes bibasales.
+Exploración abdominal: Abdomen blando y depresible, sin dolor a la palpación. No se palpan masas ni visceromegalias. Ruidos hidroaéreos presentes. Sin peritonismo.
+Exploración neurológica: Consciente y orientada en las tres esferas, sin focalidad neurológica. Pupilas isocóricas normoreactivas y simétricas a la luz.
+* EXPLORACIÓN AL ALTA DE LA HOSPITAL:
+Consciente, orientada, eupneica. Coloración normal de piel y mucosas.
+Exploración cardiocirculatoria: Tonos cardíacos rítmicos, sin soplos audibles ni otros ruidos agregados. No ingurgitación yugular ni reflujo hepatoyugular. Tiempo de llenado capilar <2 segundos. Sin edemas en extremidades inferiores ni signos de trombosis venosa profunda.
+Exploración respiratoria: MVC con crepitantes bibasales en discreta mejoría.
+Exploración abdominal: Abdomen blando y depresible, sin dolor a la palpación. No se palpan masas ni visceromegalias. Ruidos hidroaéreos presentes. Sin peritonismo.
+Exploración neurológica: Consciente y orientada en las tres esferas, sin focalidad neurológica. Pupilas isocóricas normoreactivas y simétricas a la luz.
+INDICADORES DE ESTANCIA EN UCI Indicador de gravedad: FAMILIARES_SUJETO_ASISTENCIA : 7; Indi cador disfunción orgánica: FAMILIARES_SUJETO_ASISTENCIA : 1;

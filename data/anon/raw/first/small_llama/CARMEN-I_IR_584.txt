@@ -1,0 +1,26 @@
+ En seguimiento por Hematología [**TC TORAX**]
+
+clinica:
+[**Varón**] de [**60 años**], con EPOC severo por enfisema pulmonar que ingresa por infección COVID. Mejoria analitica pero franco empeoramiento radiológico. Valorar NOC asociada para iniciar corticoterapia.
+INFECCIÓN RESPIRATORIA POR [**COVID-19**]
+
+protocolo:
+[**TC TORAX**] URGENTE sin contraste ev.
+
+conclusiones:
+Se compara con [**TC previa**] del [**10/04/2007**]:
+Se observan dos adenopatías paratraqueales derechas de [**15 y 17 mm**].
+Pequeño ganglio de [**7 mm**] supraclavicular izquierdo, inespecífico. No se observan adenopatías  axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Granumolmas calcificados. Placas pleuras calcificadas, sin cambios.
+Enfisema centrolobulillar y paraseptal confluente en LLSS.
+Reticulación subpleural bilateral con afectación de lóbulos superiores e inferiores que condicionan bronquiolectasias de tracción y apanalamiento que sugiere neumopatía intersticial fibrosante, con empeoramiento radiológico evidente en comparación a [**TC previo**], aunque es difícil de caracterizar dado el procesio infeccioso activo por el extenso enfisema pulmonar paraseptal.
+Engrosamientos bronquiales difusos. Algunos focos consolidativos subpleurales y bandas parenquimatosas con zonas de patrón perilobular, en relación a cierto componente de neumonía organizativa. Se trata de un patrón indeterminado para [**COVID-19**].
+En el segmento posterior del LSD se observa una lesión nodular mal definida, de bordes espiculados y que ha aumentado de tamaño respecto estudio previo midiendo actualmente [**27 mm**] (previo infracentrimétrico).
+Los hallazgos descritos son sugestivos de neoplasia pulmonar primaria.
+
+descrip:
+[**TC TORAX**]
+
+descrip:
+[**TC TORAX**]

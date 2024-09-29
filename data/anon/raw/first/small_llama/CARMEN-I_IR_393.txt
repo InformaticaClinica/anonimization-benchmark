@@ -1,0 +1,21 @@
+ En seguimiento por Hematología [**TC TORAX**]
+
+Paciente con ATC de [**EM**].
+Neumonia bilateral por [**SARS-CoV-2**]
+Cumple [**13 días**] desde inicio de sintomas, el día de hoy presenta deterioro respiratorio y fiebre
+[**COVID-19**]
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual. Se realiza una segunda adquisición del estudio debido a que en el primero se obtiene una muy leve contrastación de la arteria pulmonar que no se consigue corregir completamente tras el postprocesado con energía dual.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un tromboembolismo pulmonar (TEP). Tampoco se visualiza dilatación del tronco común de la arteria pulmonar ni signos de sobrecarga cardíaca derecha.
+No se observa derrame pleural ni pericárdico. Aisladas atelectasias laminares subsegmentarias biasales, sin otros hallazgos a destacar en el resto del parénquima pulmonar. No se observan ganglios axilares ni mediastínicos de tamaño valorable.
+Opacidades en vidrio deslustrado bilaterales y con disposición periférica, que en ambos lóbulos inferiores y el lóbulo medio muestran tendencia a la consolidación, especialmente en el lóbulo inferior derecho donde conforma bandas subpleurales, alguna dudosa imagen en halo reverso y dilataciones bronquiales. Los hallazgos son compatibles con una infección pulmonar por [**COVID-19**] con signos de neumonía organizativa asociados (evolución natural de la enfermedad).
+No se observa derrame pleural ni pericárdico. No se evidencian ganglos axilares ni mediastínicos de tamaño valorable.
+Se intuyen dos lesiones hepáticas de [**45 mm**] en el segmento [**VIII-IVa**] y de [**34 mm**] [**VI**]. Ambas parecen mostrar en la segunda adquisición del Angio-TC una zona captante tardía en su porción más central, por lo que podrían corresponder a [**hiperplasias nodulares focales**] (ya se estudió una en [**2005**]). A valorar la necesidad de ampliar el estudio mediante una [**RM dirigida**] para una mejor caracterización.
+
+conclusiones:
+- No se observa [**TEP**].
+- Infección pulmonar por [**COVID-19**] con signos de neumonía organizativa (evolución natural de la enfermedad).
+- Dos lesiones hepáticas que probablemente correspondan a [**hiperplasias nodulares focales**]. A valorar la necesidad de ampliar el estudio mediante [**RM dirigida**].

@@ -1,0 +1,19 @@
+ ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA ingreso prolongado por OTROS_SUJETO_ASISTENCIA, que requirió estancia prolongada en UCI, (IOT OTROS_SUJETO_ASISTENCIA).
+Está en recuperación de su OTROS_SUJETO_ASISTENCIA, presenta a la OTROS_SUJETO_ASISTENCIA; simetría de OTROS_SUJETO_ASISTENCIA, edema de OTROS_SUJETO_ASISTENCIA izquierda.
+Se solicita eco doppler para descartar OTROS_SUJETO_ASISTENCIA.
+Gracias
+OTROS_SUJETO_ASISTENCIA
+
+resultados:
+EI IZQUIERDA
+Pequeño trombo parcial en venas femoral comun y  en tercio proximal de vena femoral superficial.
+Venas  femoral superficial (tercio medio -distal) , poplitea, perones  y tibiales posteriores compresibles, permeables, sin signos eco-doppler de trombosis.
+
+conclusiones:
+vr
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

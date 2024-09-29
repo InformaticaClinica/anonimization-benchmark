@@ -1,0 +1,28 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente con FAMILIARES_SUJETO_ASISTENCIA por OTROS_SUJETO_ASISTENCIA, IOT tras claudicación respiratoria el día FECHAS con sobreinfección respiratoria por OTROS_SUJETO_ASISTENCIA. Aumento de OTROS_SUJETO_ASISTENCIA hasta OTROS_SUJETO_ASISTENCIA, interesa confirmar/descartar OTROS_SUJETO_ASISTENCIA. Anticoagulado a dosis plenas ajustado por función renal.
+
+protocolo:
+Angio-TC pulmonar urgente adquirida mediante energía dual.
+
+resultados:
+Es compara amb l'estudi previ del FECHAS.
+CVC jugular dret amb extrem distal a la INSTITUCION. TOT amb l'extrem distal a OTROS_SUJETO_ASISTENCIA de la INSTITUCION. OTROS_SUJETO_ASISTENCIA normoposicionada.
+No s'identifiquen defectes de replecció a l'arbre arterial pulmonar que suggereixin un OTROS_SUJETO_ASISTENCIA. Tronc de l'artèria pulmonar de calibre normal.
+OTROS_SUJETO_ASISTENCIA de fins a OTROS_SUJETO_ASISTENCIA, d'aspecte reactiu. No s'aprecien altres adenopaties mediastíniques ni axil·lars valorables.
+Lleu embassament pleural bilateral de predomini dret. Mínim embassament pericàrdic (fins a 5 mm de gruix).
+Extenses opacitats en vidres esmerilat i focus consolidatius difusos que associen uns lleus engruiximents septals (patró en "crazy paving") i presenten un gradient antero-posterior, destacant la consolidació amb broncograma aeri de la pràctica totalitat dels dos lòbuls inferiors.
+Troballes suggestives d'un síndrome de distrés respiratori (SDRA) en el context de la pneumònia per OTROS_SUJETO_ASISTENCIA coneguda. S'identifiquen algunes zones de parènquima consolidat que presenten una discreta hipocaptació de contrast, fet que no permet descartar un component de sobreinfecció.
+Canvis per nefrectomia radical dreta. Ronyó esquerre parcialment inclòs, d'aspecte discretament més atròfic respecte l'estudi previ i amb una dilatació dels grups calicials més evident. Lleu quantitat de líquid lliure difús a hemiabdomen superior.
+Discrets canvis degeneratius a la columna toràcica. Fractura per aixafament de la plataforma superior de EDAD_SUJETO_ASISTENCIA amb pèrdua d'alçada d'un OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+- Exploració sense signes de OTROS_SUJETO_ASISTENCIA.
+- Lleu embassament pleural bilateral i mínim embassament pericàrdic.
+- Afectació parenquimatosa pulmonar bilateral suggestiva d'un FAMILIARES_SUJETO_ASISTENCIA en relació a la pneumònia per OTROS_SUJETO_ASISTENCIA coneguda.
+Associa troballes que no permeten descartar un component de sobreinfecció.
+- Lleu quantitat de líquid lliure difús a hemiabdomen superior.
+
+descrip:
+ANGIO TC PULMONAR

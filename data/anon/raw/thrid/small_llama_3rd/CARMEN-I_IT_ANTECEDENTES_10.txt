@@ -1,0 +1,8 @@
+ * ANTECEDENTES PATOLÓGICOS:
+Paciente de EDAD_SUJETO_ASISTENCIA sin alergia a medicamentos conocidos. Consumidor habitual de OTROS_SUJETO_ASISTENCIA.
+Vive con su OTROS_SUJETO_ASISTENCIA, independiente para OTROS_SUJETO_ASISTENCIA. Trabaja como PROFESION.
+* ANTECEDENTES PERSONALES
+- INFECCIÓN CRÓNICA POR VIH. Trasmisión por vía sexual. En tratamiento anti-retroviral con OTROS_SUJETO_ASISTENCIA. En seguimiento en INSTITUCION. Su OTROS_SUJETO_ASISTENCIA refiere que tomaba regularmente la medicación antirretroviral pero no la había tomado en las últimas 2 semanas por ansiedad.
+- COINFECCIÓN POR VIRUS HEPATITIS C. Pendiente de inicio de OTROS_SUJETO_ASISTENCIA.
+- ASMA BRONQUIAL en tratamiento broncodilatador. Última crisis hace un año.
+* MEDICACIÓN HABITUAL (octubre 2015): OTROS_SUJETO_ASISTENCIA 1 comp/24h, OTROS_SUJETO_ASISTENCIA 1 inh/12h.

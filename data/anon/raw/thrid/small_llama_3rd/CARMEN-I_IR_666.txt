@@ -1,0 +1,43 @@
+ TC TORAX Y HEMIABDOMEN SUPERIOR
+
+clinica:
+Paciente EDAD_SUJETO_ASISTENCIA con OTROS_SUJETO_ASISTENCIA de debut en forma de OTROS_SUJETO_ASISTENCIA que requirió OTROS_SUJETO_ASISTENCIA. Además OTROS_SUJETO_ASISTENCIA. Evolución favorable, ahora en weaning (traqueostomía).
+Ha presentado 2 complicaciones: OTROS_SUJETO_ASISTENCIA, con OTROS_SUJETO_ASISTENCIA. Posible OTROS_SUJETO_ASISTENCIA, con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, con signos de OTROS_SUJETO_ASISTENCIA. Pendiente OTROS_SUJETO_ASISTENCIA.
+En las últimas 48 horas presenta OTROS_SUJETO_ASISTENCIA en zona de OTROS_SUJETO_ASISTENCIA, no bien apreciable en OTROS_SUJETO_ASISTENCIA, e imagen basal derecha sugestiva de neumotórax, extrañando localización.
+Por ese motivo solicitamos TC tórax.
+Además ha presentado OTROS_SUJETO_ASISTENCIA y signos de OTROS_SUJETO_ASISTENCIA, por lo que se solicita TC abdomen superior para valorar OTROS_SUJETO_ASISTENCIA y dilatación vía biliar intrahepática.
+PACIENTE FAMILIARES_SUJETO_ASISTENCIA. FAMILIA NO AUTORIZA USO DE CONTRASTE.
+Gracias
+OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+INSTITUCION en condiciones basales. URGENTE
+
+resultados:
+Se compara con INSTITUCION de FECHAS y con INSTITUCION de FECHAS.
+Traqueostomía con extremo distal de la cánula situada a OTROS_SUJETO_ASISTENCIA. Catéter venoso central yucular derecho con extremo distal en unión atrio-caval. Sónda nasogástrica.
+Ganglios mediastínicos aumentados de tamaño, probablemente reactivos.
+Tronco de la arteria pulmonar de calibre conservado.
+Extenso enfisema subcutáneo y entre planos musculares de partes blandas del hemitórax izquierdo.
+Extenso neumotórax bilateral. Tubo de drenaje pleural izquierdo con entrada en el OTROS_SUJETO_ASISTENCIA y extremo distal de localización posterior en contacto con el derrame pleural. Moderado derrame pleural bilateral posterobasal.
+No se identifica neumomediastino.
+Secreciones endobronquiales en el bronquio lobar inferior derecho.
+Colapso del segmento anterior del LSD y de los segmentos posterobasales de los LLII. Comparativamente con el TC abdominal previo se observa disminución de las opacidades centrolobulillares en vidrio deslustrado bilaterales asociado a discretos engrosamientos septales, en probable relación con la hemorragia alveolar en resolución. Llama la atención la presencia de pequeñas imágenes quísticas bilaterales en los LLSS, algunas de ellas subpleurales de predominio en el LSI, no presentes en el PET-TC de 03/2017, sugestivos de OTROS_SUJETO_ASISTENCIA, pudiendo ser el origen del neumotórax. Se aconseja valorar la posibilidad de OTROS_SUJETO_ASISTENCIA, o a su enfermedad de base (OTROS_SUJETO_ASISTENCIA).
+Se observan algunos focos consolidativos y en vidrio deslustrado peribroncovasculares, de predominio en el segmento posterior del LSD y en el LSI, que podrían estar en relación a la neumonía por OTROS_SUJETO_ASISTENCIA (patrón no típico), no incluidos en el TC abdominal previo.
+Persiste leve cantidad de líquido libre perihepático, periesplénico y en gotieras paracólicas.
+Hígado de tamaño, morfología y coeficiente de atenuación normales sin lesiones focales aparentes en el estudio basal actual. Vesícula biliar distendida, hidrópica, con leve edema parietal, sin cambios. No se observan signos de inflamación perivesiculares. Colédoco de calibre normal. Se aprecia una ligera dilatación de vía biliar intrahepática, de difícil valoración en el estudio actual. Edema periportal.
+Páncreas, bazo y glándulas suprarrenales de tamaño y morfología dentro de la normalidad, sin cambios.
+Riñones de tamaño y morfología normal. Nódulo cortical de OTROS_SUJETO_ASISTENCIA en valva posterior de tercio medio/inferior de RD, sugestivo de OTROS_SUJETO_ASISTENCIA, sin cambios. Sin dilatación de la vía excretora.
+Signos de OTROS_SUJETO_ASISTENCIA.
+No se observan adenopatías retroperitoneales de tamaño significativo.
+Edema difuso de partes blandas.
+
+conclusiones:
+Hidroneumotórax bilateral. Tubo de drenaje pleural izquierdo. Extenso enfisema subcutáneo en el hemitórax izquierdo.
+Disminución de las opacidades centrolobulillares en vidrio deslustrado bilaterales asociado a discretos engrosamientos septales, en probable relación con la hemorragia alveolar en resolución.
+Aparición de imágenes sugestivas de OTROS_SUJETO_ASISTENCIA en LLSS, algunas de ellas subpleurales, no presentes en el PET-TC de 03/2017 (origen del neumotórax?). Se aconseja valorar la posibilidad de OTROS_SUJETO_ASISTENCIA, o a su enfermedad de base (OTROS_SUJETO_ASISTENCIA).
+Se observan algunos focos consolidativos y en vidrio deslustrado peribroncovasculares, que podrían estar en relación a la neumonía por OTROS_SUJETO_ASISTENCIA (patrón no típico).
+Leve cantidad de líquido libre intraabdominal. Vesícula biliar hidrópica. Ligera dilatación de vía biliar intrahepática, de difícil valoración en el estudio actual. Edema periportal.
+
+descrip:
+TC TORAX Y HEMIABDOMEN SUPERIOR

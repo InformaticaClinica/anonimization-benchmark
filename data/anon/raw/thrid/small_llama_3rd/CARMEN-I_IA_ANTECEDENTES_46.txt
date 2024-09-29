@@ -1,0 +1,11 @@
+ Hombre de EDAD_SUJETO_ASISTENCIA, con dudosa alergia a OTROS_SUJETO_ASISTENCIA (edema manos), exfumador desde los FECHAS (OTROS_SUJETO_ASISTENCIA).
+* ANTECEDENTES PATOLÓGICOS.
+1. OTROS_SUJETO_ASISTENCIA en tratamiento médico.
+2. Carcinoma urotelial vesical, tratado mediante resección transuretral e instilaciones de OTROS_SUJETO_ASISTENCIA, en seguimiento por PROFESION con citoscopia de control, actualmente libre de enfermedad.
+3. OTROS_SUJETO_ASISTENCIA 2023 (HOSPITAL). Presentó nuevo episodio en mayo 2025 que no requirió ingreso pero sí tratamiento antibiótico (no disponemos de informes). En tratamiento con MEDICACION_HABITUAL.
+4. OTROS_SUJETO_ASISTENCIA parcialmente vacía (FECHAS 2023).
+5. OTROS_SUJETO_ASISTENCIA en 2023 por motivo laboral, con cuadro de amnesia autolimitada. Fue valorado por PROFESION del INSTITUCION, con test OTROS_SUJETO_ASISTENCIA 48, OTROS_SUJETO_ASISTENCIA 26, OTROS_SUJETO_ASISTENCIA 0, OTROS_SUJETO_ASISTENCIA 34 (todos normales).
+6. OTROS_SUJETO_ASISTENCIA por tumor benigno (no sabe especificar si tiroides o paratiroides) en 2011, realizado en INSTITUCION (sin informes).
+7. OTROS_SUJETO_ASISTENCIA
+* MEDICACIÓN HABITUAL:
+MEDICACION_HABITUAL 200mg c/mes (desde junio 2025), MEDICACION_HABITUAL 10mg 1 comp/d, MEDICACION_HABITUAL 100/25mg c/24h.

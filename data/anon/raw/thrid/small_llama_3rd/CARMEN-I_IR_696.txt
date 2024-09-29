@@ -1,0 +1,18 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+NEUMONÍA BILAERAL COVID 19
+
+conclusiones:
+EVOLUCION
+Extensión:
+- Estabilidad
+Consolidación:
+- Disminución
+Aparición de fibrosis:
+- No
+CONCLUSION:
+Afectación pulmonar por COVID que muestra mejoría respecto a Rx previa del FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

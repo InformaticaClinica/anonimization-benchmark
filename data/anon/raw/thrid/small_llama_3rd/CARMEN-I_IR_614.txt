@@ -1,0 +1,24 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente con infección de COVID 19, con datos de neumnía que persiste con elevación de RFA, inicia el día FECHAS tratamiento con anakimra y solicitamos TC para determinar evolución
+Infecció per coronavirus no especificada
+
+protocolo:
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales para estudio torácico presentados en ventana de partes blandas y pulmonar.
+
+resultados:
+Se revisan estudios previos; última RX del FECHAS.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable. Calcificaciones coronarias y ateromatosis cálcica aórtica.
+Stents en coronaria OTROS_SUJETO_ASISTENCIA.
+Ausencia de derrame pleural ni pericárdico.
+Afectación del parénquima pulmonar en forma opacidades irregulares de aspecto consolidativo de distribución peribroncovascular y subpleural y de predominio en OTROS_SUJETO_ASISTENCIA, asociadas bandas perilobulares, ténues opacidades en vidrio deslutrado y a discretas dilataciones bronquiales; hallazgos en relación a proceso neumónico bilateral por OTROS_SUJETO_ASISTENCIA, con cambios organizativos asociados.
+Resto del parénquima pulmonar sin otras alteraciones.
+Cambios degenerativos en columna torácica.
+En cortes de hemiabdomen superior (estudio sin contraste), sin alteraciones.
+
+conclusiones:
+Neumonía por OTROS_SUJETO_ASISTENCIA de extensión moderada, con cambios organizativos asociados.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

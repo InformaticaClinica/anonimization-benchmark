@@ -1,0 +1,5 @@
+ ANTECEDENTES PERSONALES
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA natural de PAIS, refiere reacción cutánea en una ocasión a la administración de OTROS_SUJETO_ASISTENCIA.
+No antecedentes médicos relevantes.
+No toma medicación habitual.
+Situación social: Hermana trabajadora de clínica veterinaria afectada de COVID19.

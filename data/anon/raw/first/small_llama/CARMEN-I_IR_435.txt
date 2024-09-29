@@ -1,0 +1,20 @@
+ RM-ENTEROGRAFIA
+
+clinica:
+Dona de [**50 anys**] amb debut de [**Malaltia de Crohn**] colònic amb ingrés greu que requereix [**corticoteràpia**] endovenosa. Tenia [**Entero-RMN**] programada per [**principis septiembre/2026**]. Ara ingressa per [**coticodependència**] amb nou [**brot**] al reduir dosi de [**corticoteràpia**] que ha tornat a requerir d'ingrés i inici de [**tractament biològic**]. Interessa [**Entero-RMN**] durant l'ingrés per veure si hi ha més extensió de la [**malaltia**] a nivell d'intestí [**prim**]. Moltes gràcies!
+[**BROT**] [**CROHN**]
+
+protocolo:
+[**EnteroRM**]
+
+resultados:
+[**Sigma**], colon descendent, transvers i meitat distal del colon ascendent amb marcat [**engruiximent mural**], [**edema**], [**úlceres**] i [**afectació perientèrica**], tot ell compatible amb [**activitat colica greu**]. L'intestí [**prim**], recte i primera porció del colon ascendent d'aspecte [**normal**]. L'afectació és [**continua**] i [**homogènia**].
+No identifico [**fístules**] associades.
+Petita quantitat de [**líquid lliure pèlvic**].
+[**Fetge**], [**melsa**], [**pàncrees**] i [**ronyons**] sense [**alteracions**].
+
+conclusiones:
+[**Malaltia de crohn**] en colon [**extensa**] i amb [**lesions greus**].
+
+descrip:
+[**RM-ENTEROGRAFIA**]

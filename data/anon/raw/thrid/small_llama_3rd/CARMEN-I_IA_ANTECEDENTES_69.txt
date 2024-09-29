@@ -1,0 +1,2 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA, alérgica al OTROS_SUJETO_ASISTENCIA, sin antecedentes medicos de interes.
+- Antecedente de internación a los FECHAS por fiebre de origen desconocido no filiada.

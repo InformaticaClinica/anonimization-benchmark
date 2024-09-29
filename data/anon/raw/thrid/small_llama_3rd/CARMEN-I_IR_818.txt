@@ -1,0 +1,26 @@
+ En seguimiento por Hematología INSTITUCION (Pacient de EDAD_SUJETO_ASISTENCIA).
+Té antecedent de OTROS_SUJETO_ASISTENCIA (tipus OTROS_SUJETO_ASISTENCIA) i va completar tractament amb 5 cicles de R-CHOP presentant múltiples complicacions.
+Va patir una pneumònia bilateral per OTROS_SUJETO_ASISTENCIA (ingrés de FECHAS) amb TEP associat. Darrera FECHAS positiva dèbil.
+Actualment sospita de probable recidiva OTROS_SUJETO_ASISTENCIA. Valorada per OTROS_SUJETO_ASISTENCIA, recomanen realització de OTROS_SUJETO_ASISTENCIA per completar estadiatge sd linfoproliferativo
+
+protocolo:
+Radiofármaco: OTROS_SUJETO_ASISTENCIA.
+Se practica tomografía de emisión y transmisión, de cuerpo entero 60 min después de la inyección endovenosa de 10.46 mCi de FDG. Se obtienen imágenes tomográficas PET transversales, coronales y sagitales sin corrección de atenuación y corregidas.
+Glucemia en el momento de la inyección: OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+Se compara con OTROS_SUJETO_ASISTENCIA.
+Las imágenes tomográficas ponen de manifiesto la distribución fisiológica de la FDG en el organismo.
+OTROS_SUJETO_ASISTENCIA que muestra, en su porción externa, focos de actividad por acumulación de radiofármaco. Se observa también contaminación cutánea en TERRITORIO.
+Disminución de las áreas de condensación en vidrio deslustrado de ambas bases pulmonares, así como de su captación de FDG, atribuidas a proceso inflamatorio/infeccioso.
+No se observan ganglios hipermetabólicos en territorios supra- ni infradiafragmáticos.
+Se observan focos hipermetabólicos hepáticos, los mayores en segmento VI-VII (SUVmáx:14,67) y IV (SUVmáx:5,34).
+Visualizamos también otros aumentos de captación de FDG. Uno localizado adyacente a asa ileal (SUVmáx:13,22), implante en CALLE y en epiplon mayor (caudal a la previamente descrita).
+OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA con captación difusa normal de FDG.
+
+conclusiones:
+PET/TC que muestra lesiones hipermetabólicas hepáticas y peritoneales de nueva aparición, sugestivas de recidiva de su proceso linfoproliferativo.
+
+descrip:
+PET TC COS SENCER FDG

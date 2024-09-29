@@ -1,0 +1,20 @@
+ RM-ENTEROGRAFIA
+
+clinica:
+Dona de EDAD_SUJETO_ASISTENCIA amb debut de OTROS_SUJETO_ASISTENCIA colònic amb ingrés greu que requereix OTROS_SUJETO_ASISTENCIA endovenosa. Tenia OTROS_SUJETO_ASISTENCIA programada per FECHAS. Ara ingressa per OTROS_SUJETO_ASISTENCIA amb nou OTROS_SUJETO_ASISTENCIA al reduir dosi de OTROS_SUJETO_ASISTENCIA que ha tornat a requerir d'ingrés i inici de OTROS_SUJETO_ASISTENCIA. Interessa OTROS_SUJETO_ASISTENCIA durant l'ingrés per veure si hi ha més extensió de la malaltia a nivell d'intestí TERRITORIO. Moltes gràcies!
+OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+INSTITUCION
+
+resultados:
+OTROS_SUJETO_ASISTENCIA, colon descendent, transvers i meitat distal del colon ascendent amb marcat OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA i OTROS_SUJETO_ASISTENCIA, tot ell compatible amb OTROS_SUJETO_ASISTENCIA. L'intestí TERRITORIO, recte i primera porció del colon ascendent d'aspecte OTROS_SUJETO_ASISTENCIA. L'afectació és OTROS_SUJETO_ASISTENCIA i OTROS_SUJETO_ASISTENCIA.
+No identifico OTROS_SUJETO_ASISTENCIA associades.
+Petita quantitat de OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA i OTROS_SUJETO_ASISTENCIA sense OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA en colon OTROS_SUJETO_ASISTENCIA i amb OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+RM-ENTEROGRAFIA

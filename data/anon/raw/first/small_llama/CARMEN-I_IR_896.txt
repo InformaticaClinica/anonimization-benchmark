@@ -1,0 +1,19 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+[**INSUFICIENCIA RESPIRATORIA**] (COVID19)
+
+protocolo:
+RX de tòrax anteroposterior portàtil.
+
+resultados:
+Pacient amb TC i RX del [**5/3/2025**].
+Milloria radiològica de les opacificacions pulmonars bilaterals superiors i mitges.
+Augment de mida de consolidació pulmonar inferior dreta i aparició de consolidació pulmonar inferior esquerra que si bé pot correspondre a focus de consolidació no podem descartar atelectasia de lòbul inferior en resolució.
+
+conclusiones:
+Respecte estudi previ s´observa aparició de condensacions pulmonars bilaterals (es considera empitjorament radiològic al costat dret i indeterminada al costat esquerre).
+Milloria radiològica de les opacitats de resta de parènquima pulmonar.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

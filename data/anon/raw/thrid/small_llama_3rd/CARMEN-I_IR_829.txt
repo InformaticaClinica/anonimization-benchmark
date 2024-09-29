@@ -1,0 +1,21 @@
+ RX  OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+Empeoramiento clínico y analítico
+Pneumònia causada per microorganismes no especificats
+
+protocolo:
+Rx tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el 9/1/2015 (Historia clínica electrónica).
+Persistència d´opacitats pulmonars bilaterals difuses amb aparició de consolidació pulmonar mitja dreta.
+
+conclusiones:
+Empitjorament radiològic amb aparició de consolidació pulmonar mitja dreta, resta sense canvis.
+
+descrip:
+RX  OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA
+
+descrip:
+RX  OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA

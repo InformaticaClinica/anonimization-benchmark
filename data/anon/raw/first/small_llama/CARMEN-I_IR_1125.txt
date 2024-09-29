@@ -1,0 +1,17 @@
+ CATETER [**SIN RESERVORIO**] [**SUBCUTANEO**]
+
+clinica:
+Solicito colocación de CVC de 2 luces para paciente que recibirá tratamiento [**CAR-T**]. Paciente [**COVID**] ingresado en la [**38-8**].
+Muchas gracias.
+Infección por [**Sars-Cov-2**] persistente
+
+protocolo:
+[**CATÉTER**] [**SIN RESERVORIO**]
+
+conclusiones:
+Previa infiltración con anestesia local se realiza punción yugular derecha guiada por ecografía para colocación guiada por radioscopia de [**catéter**] yugular derecho ([**Arrow**] de 2 luces) con extremo distal del [**catéter**] en la unión cavoatrial.
+Se comprueba correcto funcionamiento en sala.
+Sin incidencias durante ni inmediatamente tras el procedimiento.
+
+descrip:
+[**CATETER**] [**SIN RESERVORIO**] [**SUBCUTANEO**]

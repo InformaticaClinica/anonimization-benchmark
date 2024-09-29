@@ -1,0 +1,13 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+[**NEUMONIA COVID-19**]
+
+protocolo:
+RX [**TORAX**] [**PORTÁTIL**]
+
+conclusiones:
+Ténue infiltrado en el [**LID**], que muestra clara mejoría con respecto al estudio precedente de [**9.3.21**]. Pequeña opcidad basal izq. no visible en el mencionado estudio.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

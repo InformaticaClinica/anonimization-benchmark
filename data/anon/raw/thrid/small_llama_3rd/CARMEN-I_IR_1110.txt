@@ -1,0 +1,22 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA con infección por SARS-COV2 con evolución tórpida con más de un mes ingreso y altos requerimientos de oxigeno. Obesa. Se debería descartar TEP.
+
+protocolo:
+TC TÓRAX URGENTE: adquisición tras la administración de contraste ev.
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+No se observan adenopatías axilares ni mediastínicas.
+No se evidencia derrame pleural ni pericárdico.
+Focos consolidativos bilaterales y con distribución periférica, que se acompañan de imágenes periféricas en vidrio deslustrado, pequeñas dilataciones bronquiolares y alguna banda subpleural. Presenta predominio posterior. Todo ello compatible con infección pulmonar por COVID-19. No se observan signos concluyentes de neumonía organizativa.
+En lóbulo tiroideo derecho aumentado de tamaño a expensas de nódulo calcificado de 1.6 cm, que presenta extensión endotorácica.
+Colecistectomía. Quiste hepático de 1.9 cm en segmento IVb.
+
+conclusiones:
+No se observa TEP. Cambios pulmonares compatibles con infección por COVID-19.
+Aumento del LTI a expensas de nódulo calcificado, con extensión endotorácica. Valorar realización de ecografía dirigida.
+
+descrip:
+ANGIO TC PULMONAR

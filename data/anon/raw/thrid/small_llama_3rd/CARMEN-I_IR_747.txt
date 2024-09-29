@@ -1,0 +1,24 @@
+ TC CEREBRAL
+
+clinica:
+EDAD_SUJETO_ASISTENCIA, neumonía por covid y bacteriemia por OTROS_SUJETO_ASISTENCIA con buena evolución, hoy Glasgow FAMILIARES_SUJET por lo que solicito descartar OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+TC OTROS_SUJETO_ASISTENCIA: adquisición basal.
+
+resultados:
+Sin signos de OTROS_SUJETO_ASISTENCIA intra o extraaxial.
+Calcificación cortical en giro temporal superior derecho, inespecífica.
+Sin otras alteraciones densitométricas encefálicas a destacar.
+Sistema ventricular de morfología, tamaño y situación conservadas.
+Estructuras de la línea media centradas.
+Cisternas basales no ocupadas.
+Aumento de tamaño y densidad de partes blandas a nivel parasagital izquierdo (EDAD_SUJETO_ASISTENCIA de grosor máximo) compatible con OTROS_SUJETO_ASISTENCIA de partes blandas.
+Ausencia de OTROS_SUJETO_ASISTENCIA derecho.
+
+conclusiones:
+Sin signos radiológicos de patología intracraneal aguda.
+Hematoma de partes blandas parasagital izquierdo.
+
+descrip:
+TC CEREBRAL

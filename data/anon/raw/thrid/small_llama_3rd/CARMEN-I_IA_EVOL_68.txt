@@ -1,0 +1,17 @@
+ EVOLUTIVO B06.8
+1. Infección por Covid 19, con insuficiencia respiratoria asociada.
+1.1. TEP agudo en rama principal derecha de la arteria pulmonar SIN claros signos de hipertensión HTPu ni de sobrecarga  cardíaca derecha.FAMILIARES_SUJETO_ASISTENCIA TERAPÉUTICA (FECHAS)
+1.2. SOBREINFECCIÓN BACTERIANA (probablemente 2a a broncoaspiración).Tto: TRATAMIENTO 2G/8H (2/07-5/07).TRATAMIENTO (05/07- 10/7)
+1.3. PROBABLE BRONCOASPIRACIÓN (FECHAS)-->TRATAMIENTO
+-Fecha de inicio de síntomas: Dudoso
+-Fecha de PCR positiva: FECHAS
+-Fecha de ingreso: FECHAS
+-Tratamiento: TRATAMIENTO 6 mg/d (FECHAS)
+Paciente con los antecedentes descritos que acude referido desde INSTITUCION por dismución del estado de consciencia,crisis hipertensiva(NUMERO_TELEFONO) y dísnea con NUMERO_TELEFONO.
+A su llegada a urgencias se encuentra hemodinamicamente estable, febril, normotenso, eupneico NUMERO_TELEFONO con crepitantes basales a la auscultación, sin otros ruidos agregados.OTROS_SUJETO_ASISTENCIA sin evidencia de soplos.OTROS_SUJETO_ASISTENCIA.
+Rx Torax evidencia de infiltrados en zona perihiliar derecha y base ipsilateral.
+Analítica sanguínea ANALITICA_SANGUINEA, función renal estable, ANALITICA_SANGUINEA, ANALITICA_SANGUINEA con ANALITICA_SANGUINEA, ANALITICA_SANGUINEA, ANALITICA_SANGUINEA.
+Se realiza PCR para sars-cov2 que resulta positiva.
+Se realiza TAC torácico en el que destaca TEP agudo en rama principal derecha de la arteria pulmonar y parénquima pulmonar con hallazgos que sugieren una neumonía bilateral por COVID-19 en evolución con signos de un proceso infeccioso de pequeña vía aérea sobreañadido.
+Se inicia heparina a dosis terapéutica y antibioterapia (completa una semana) con inicial buena evolución.
+El día FECHAS presenta broncoaspiración en la cena con necesidad de aumento de FIO2 a 60% con gasometría que muestra PO2 de 75 mmHg. Se reinicia antibioterapia y se inician nebulizaciones sin respuesta precisando el paciente dísnea con necesidad de administración de morfina sc. Así, dada la situación de gravedad y fragilidad del paciente se consensúa con familiares priorizar medidas de confort siendo el paciente éxitus el día FECHAS a las FECHAS.

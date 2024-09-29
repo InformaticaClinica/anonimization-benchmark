@@ -1,0 +1,24 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente con neumonía FAMILIARES_SUJETO_ASISTENCIA + neumonía necrotizante por OTROS_SUJETO_ASISTENCIA + TEP agudo + neumotórax anterior drenado + hematoma pélvico espontáneo que se embolizó. Presiente deterioro hemodinámico e incremento de reactantes de fase aguda. Interesa TC body para descartar focos infecciosos no dreandos. Muchas gracias!!
+
+TROMBOEMBOLISMO PULMONAR
+
+protocolo:
+TC TÓRAX: Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v.
+
+resultados:
+Se revisan estudios previos; último TC del FECHAS.
+Intubación orotraqueal con extremo distal a 2 cm de la carina. Catéter de hemodiálisis de acceso yugular derecho y dos catéteres venosos centrales de acceso yugular y subclavio izquierdo con extremo distal en VCS. SNG con extremo distal en antro gástrico.
+Adenopatías mediastínicas a nivel de los espacios prevascular, paratraqueal izquierdo y subcarinal, de aspecto reactivo. No se observan adenopatías axilares de tamaño patológico.
+Moderado derrame pleural bilateral de predominio izquierdo. Portador de tubos de drenaje pleural bilaterales. No se observa derrame pericárdico.
+Presenta defecto de repleción cabalgante en la rama de la arteria pulmonar para el lóbulo superior derecho que se extiende a las tres ramas segmentarias, todo ello coherente con TEP agudo. También presenta un defecto de repleción en una rama subsegmentaria del segmento basal posterior del lóbulo inferior derecho, compatible con TEP agudo, con infarto pulmonar en territorio aferente.
+Severo empeoramiento de la afectación parenquimatosa pulmonar, con hepatización completa del parénquima y extensa ocupación mucosaa endobronquial, en probable relación con ECMO. Presenta hipodensidades difusas en relación a las cavidades aéreas descritas en el estudio previo, sugestivas de sobreinfección. Persiste alguna cavidad aérea en segmentos anteriores (antecedente de infección por S. Aureus) que muestra irregularidades en el "nivel hidroaéreo" lo que sugiere foco de gangrena pulmonar con marcada destrucción del parénquima.
+Discretos cambios osteodegenerativos de columna torácica. Presenta una colección líquida intrarticular en la articulación glenohumeral derecha, con captación de contraste que podría sugerir infección.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+ANGIO TC PULMONAR

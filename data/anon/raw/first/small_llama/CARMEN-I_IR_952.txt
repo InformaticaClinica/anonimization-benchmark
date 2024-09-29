@@ -1,0 +1,27 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+** CÓDIGO ASPERGILLUS **
+[**Hombre**] de [**77 años**] con enfisema moderado-severo no conocido previamente, ingresado por neumonía bilateral intersticial por SARS-CoV2 asociado a cambios organizativos, que ha recibido dosis elevadas de corticoterapia sistémica durante >1mes. Último TC el [**14/06/16**]. Por persistencia de expectoración y requerimientos de O2, se solicitó esputo con aislamiento de [**Aspergillus sp**]. Pdte de nuevo esputo. Ruego TCAR pulmonar para descartar lesiones nodulares compatibles con aspergilosis angioinvasiva.
+Gracias
+INSUFICIENCIA RESPIRATORIA AGUDA GRAVE
+
+protocolo:
+Se practica estudio torácico de alta resolución en condiciones basales mediante [**TCMD**].
+
+resultados:
+Se revisan estudios previos, el último la TC del [**14/06/2016**].
+Aumento de tamaño de ganglios mediastínicos paratraqueales bilaterales y prevasculares, de aspecto reactivo. Ganglio calcificado subcarinal.
+Cardiomegalia con dilatación auricular izquierda. Ateromatosis calcificada aórtica y coronaria. Dilatación de la aorta torácica ascendente ([**40 mm**]).
+Resolución del derrame pleural izquierdo. Ausencia de derrame pleural derecho.
+Severo enfisema paraseptal y centrolobulillar confluente de predominio en [**LLSS**]. Se observan imágenes de bronquiolectasias de tracción, de predominio basal, a valorar posible neumopatía intersticial con [**TCAR**] tras proceso agudo actual.
+Persisten opacidades en vidrio deslustrado bilaterales, de distribución periférica, asociado a la presencia de algunos pequeños focos consolidativos peribroncovasculares y perilobulares, de predominio en [**LM**] y [**LLII**], en relación a evolución a cambios organizativos.
+Comparativamente y de forma global se observa mejoría radiológica con disminución de la densidad y extensión de las opacidades. Asimismo se observa mejoría radiológica de las áreas consolidativas posterobasales en [**LLII**].
+En este contexto no se observan evidentes focos consolidativos nodulares sugestivos de infección fúngica.
+
+conclusiones:
+Persistencia de cambios organizativos pulmonares tras neumonia bilateral por COVID19, con mejoría radiológica de forma global respecto al estudio previo.
+En este contexto no se observan evidentes focos consolidativos nodulares sugestivos de infección fúngica; aunque a correlacionar con clínica y valorar nuevo control.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

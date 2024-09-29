@@ -1,0 +1,29 @@
+ RM CEREBRAL
+
+clinica:
+Paciente FAMILIARES_SUJETO_ASISTENCIA
+Paciente de EDAD_SUJETO_ASISTENCIA con antecedente de encefalitis por virus gripe A en 2012, presentado como un cuadro de afasia, confusión y deterioro cognitivo subagudo.
+Ingresa en INSTITUCION por un nuevo episodio de características similares, predominando la afasia. TC presenta un quiste aracnoideo frontal izquierdo (OTROS_SUJETO_ASISTENCIA), punción lumbar con proteinorraquia leve (OTROS_SUJETO_ASISTENCIA).
+Solicito RM para valoración de cuadro encefalítico y descartar causas estructurales.
+Gracias
+PROBABLE OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+T1, T2, FLAIR, DWI-ADC, SWI, T1 + CONTRASTE.
+
+resultados:
+Se compara con RM previa de FECHAS
+INFORME
+Imagen quística de OTROS_SUJETO_ASISTENCIA frontal izquierda, que comunica con espacio subdural, sin captaciones de OTROS_SUJETO_ASISTENCIA, compatible con quiste aracnoideo/área de porencefalia/lesión
+quística residual...
+No se observan otras alteraciones valorables en el aspecto, morfología y señal de las estructuras
+encefálicas, ni realces sospechosos con OTROS_SUJETO_ASISTENCIA.
+Sistema ventricular simétrico.
+Estructuras de linea media centradas.
+Sin alteraciones extracraneales.
+
+conclusiones:
+ESTABILIDAD.
+
+descrip:
+RM CEREBRAL

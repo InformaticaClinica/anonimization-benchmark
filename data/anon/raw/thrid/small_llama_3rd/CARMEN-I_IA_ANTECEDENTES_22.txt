@@ -1,0 +1,31 @@
+ Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, parcialmente dependiente para las OTROS_SUJETO_ASISTENCIA, refiere alergia a OTROS_SUJETO_ASISTENCIA, vive en domicilio habitual con su OTROS_SUJETO_ASISTENCIA y su OTROS_SUJETO_ASISTENCIA.
+HÁBITOS TÓXICOS:
+- Exfumador desde hace 20 años con carga acumulada de OTROS_SUJETO_ASISTENCIA.
+- Consumo crónico de alcohol de OTROS_SUJETO_ASISTENCIA + media botella vino el fin de semana, niega otras bebidas alcohólicas.
+** ANTECEDENTES PATOLÓGICOS:
+1. ANTECEDENTES PATOLÓGICOS tipo 2 en tratamiento antidiabético oral.
+2. ANTECEDENTES PATOLÓGICOS en tratamiento farmacológico.
+3. ANTECEDENTES PATOLÓGICOS con ANTECEDENTES PATOLÓGICOS. Disfunción diastólica grado I (FECHAS). Se descarta OTROS_SUJETO_ASISTENCIA por cateterismo derecho (OTROS_SUJETO_ASISTENCIA).
+4. ANTECEDENTES PATOLÓGICOS en contexto de OTROS_SUJETO_ASISTENCIA diagnosticado hace 15 años (OTROS_SUJETO_ASISTENCIA, clínica bronquitis crónica, reactividad bronquial) en tratamiento broncodilatador desde hace 8 años. Sigue controles en INSTITUCION de HOSPITAL con OTROS_SUJETO_ASISTENCIA.
+Usuario de OTROS_SUJETO_ASISTENCIA 16h/día a 2.5 l/m y OTROS_SUJETO_ASISTENCIA nocturna.
+Se ha estudiado y valorado para reducción de volumen pulmonar, por ahora no se ha indicado.
+- OTROS_SUJETO_ASISTENCIA (FECHAS): OTROS_SUJETO_ASISTENCIA, Disfuncion diastólica grado I.
+- OTROS_SUJETO_ASISTENCIA (FECHAS) descarta OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA, atribuido a su patologia respiratoria de base. OTROS_SUJETO_ASISTENCIA.
+- OTROS_SUJETO_ASISTENCIA (FECHAS). Índice OTROS_SUJETO_ASISTENCIA. FEV1 0.85 (25%) FVC 3.64 (80%).
+- OTROS_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA) OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA.
+5. ANTECEDENTES PATOLÓGICOS en mayo 2007. No ingresos recientes.
+6. ANTECEDENTES PATOLÓGICOS de celulas transicionales in situ. Se realizó OTROS_SUJETO_ASISTENCIA en 10/2004.
+OTROS_SUJETO_ASISTENCIA en 2006. Actualmente libre de enfermedad. Sigue controles por Urología de HOSPITAL. Buena función renal y ecografía sin dilatación en 8/2017 (último control). Actualmente refiere buen funcionamiento de neovejiga.
+7. ANTECEDENTES PATOLÓGICOS en 8/2005, ANTECEDENTES PATOLÓGICOS que requirió ingreso en 10/2007.
+** ANTECEDENTES QUIRÚRGICOS:
+- OTROS_SUJETO_ASISTENCIA con placas y tornillos por fractura de OTROS_SUJETO_ASISTENCIA.
+TRATAMIENTO HABITUAL (16.12.2018)
+- TRATAMIENTO HABITUAL 1INH/8h
+- TRATAMIENTO HABITUAL 1INH/8h
+- TRATAMIENTO HABITUAL 2INH/24h
+- TRATAMIENTO HABITUAL 100mg/24h
+- TRATAMIENTO HABITUAL 40mg/24h
+- TRATAMIENTO HABITUAL 850mg/12h
+- TRATAMIENTO HABITUAL 20mg/24h
+- TRATAMIENTO HABITUAL 30mg/24h.

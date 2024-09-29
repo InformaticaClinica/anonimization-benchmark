@@ -1,0 +1,11 @@
+ EVOLUCIÓN DURANTE EL INGRESO:
+1. INFECCIÓN RESPIRATORIA POR FAMILIARES_SUJETO_ASISTENCIA.
+2. ENFERMEDAD RENAL CRÓNICA SECUNDARIA A OTROS_SUJETO_ASISTENCIA.
+3. TRASPLANTE RENAL DONANTE VIVO (2013) + RECHAZO.
+4. MONORENO IZQUIERDO.
+A su llegada al INSTITUCION empeoramiento de requerimiento de oxigenoterapia con FiO2 hasta el 100% con elevación de reactantes de fase aguda en la analítica y progresión de imagen radiológica en la radiografía de tórax. Tras comentar con infecciones se decide pautar nuevamente kaletra/dolquine y azitromicina, además de iniciar cobertura antibiótica con meropenem + daptomicina (1 de 2 hemocultivos positivos para OTROS_SUJETO_ASISTENCIA en INSTITUCION, probable contaminación). Se traslada a la UCI. En las 48 horas en cuidados intensivos mejoría clínica con disminución de la FiO2, por lo que se traslada a sala convencional.
+En sala convencional buen estado general, manteniendose PROFESION.
+Descenso de requerimiento de oxigenoterapia hasta retirada. Finaliza tratamiento antiviral el día FECHAS. A los dos días se reintroduce tratamiento inmunosupresor. Tras estabilidad clínica y hemodinámica, se decide alta a domicilio con seguimiento en INSTITUCION.
+5. OTROS_SUJETO_ASISTENCIA.
+Durante su estancia en INSTITUCION se evidencia en 1 de los 2 hemocultivos extraidos por fiebre OTROS_SUJETO_ASISTENCIA, por lo que en contexto de fiebre tras finalizar tratamiento de FAMILIARES_SUJETO_ASISTENCIA, se decide iniciar daptomicina con hemocultivos de control negativos y ausencia de fiebre.
+Exploración fíisca sin soplos. Al alta no requiere tratamiento.

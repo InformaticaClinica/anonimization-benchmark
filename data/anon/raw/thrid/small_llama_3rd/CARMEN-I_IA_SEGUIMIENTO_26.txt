@@ -1,0 +1,6 @@
+ Fumar aumenta las probabilidades de que usted vuelva a padecer una nueva complicación cardiovascular. Si fumaba antes del ingreso considérese ya un exfumador. Aproveche el ingreso para no volver a fumar.
+Mantenga el peso adecuado siguiendo las recomendaciones de su OTROS_SUJETO_ASISTENCIA.
+Procure seguir una dieta OTROS_SUJETO_ASISTENCIA rica en OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA y pobre en OTROS_SUJETO_ASISTENCIA.
+Mantenga una vida OTROS_SUJETO_ASISTENCIA. Después del alta aumente gradualmente su actividad física hasta realizar una hora de ejercicio OTROS_SUJETO_ASISTENCIA (caminar, ir en bicicleta, nadar, etc.) al menos tres veces a la semana.
+Se recomienda programar una visita de control con la OTROS_SUJETO_ASISTENCIA (CAP) y con el OTROS_SUJETO_ASISTENCIA lo antes posible dentro del primer mes.
+Se adjunta visita de seguimiento en la consulta externa de INSTITUCION (NOMBRE_PERSONAL_SANITARIO).

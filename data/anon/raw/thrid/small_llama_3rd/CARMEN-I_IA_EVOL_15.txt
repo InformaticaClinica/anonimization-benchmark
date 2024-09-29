@@ -1,0 +1,16 @@
+ EVOLUCIÓN INFECCIONES:
+1. NEUMONÍA ADQUIRIDA EN LA COMUNIDAD EDAD_SUJETO_ASISTENCIA CON INFECCIÓN OTROS_SUJETO_ASISTENCIA SIN TRATAMIENTO
+Fecha inicio síntomas: FECHAS
+Fecha ingreso: FECHAS
+Fecha frotis: FECHAS - negativo para OTROS_SUJETO_ASISTENCIA
+Fecha inicio tratamiento: FECHAS
+Tipo de tratamiento:
+FECHAS-19.09.2010: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA
+Paciente con infección OTROS_SUJETO_ASISTENCIA sin tratamiento antirretroviral desde hace más de cuatro meses, derivado a nuestro INSTITUCION por tos, febrícula y disnea de 3 días de evolución.
+A su llegada a HOSPITAL se encuentra hemodinámicamente estable, febricular (OTROS_SUJETO_ASISTENCIA), eupneico con SaO2 96% basal. Dada la clínica respiratoria y el contexto epidemiológico actual, se solicita frotis de OTROS_SUJETO_ASISTENCIA y se inicia tratamiento empírico con OTROS_SUJETO_ASISTENCIA (y OTROS_SUJETO_ASISTENCIA por OTROS_SUJETO_ASISTENCIA), OTROS_SUJETO_ASISTENCIA y hidroxicloroquina y se decide ingreso en sala convencional A465 para completar tratamiento y control evolutivo.
+Durante el ingreso en la HOSPITAL, el paciente se encuentra hemodinamicamente estable, afebril en todo momento y eupneico. No requiere oxígeno suplementario. Se añade antibioticoterapia empírica el 13/09 con OTROS_SUJETO_ASISTENCIA y profilaxis para PCP con OTROS_SUJETO_ASISTENCIA. Refiere mejoría subjetiva, sin disnea en reposo, aunque persistencia de tos con predominio nocturno. En los hemocultivos realizados al ingreso se aislan colonias de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA (R OTROS_SUJETO_ASISTENCIA), se mantiene antibioticoterapia con OTROS_SUJETO_ASISTENCIA completando 6 días de tratamiento.
+En la radiografía de tórax de control, no se observa el dudoso infiltrado izquierdo y en ápice izquierda. Se solicita OTROS_SUJETO_ASISTENCIA que es negativo y esputo en el que no se observan OTROS_SUJETO_ASISTENCIA, cultivo al alta en curso que se valorará en visita sucesiva de OTROS_SUJETO_ASISTENCIA.
+Dada la negatividad para PCR de SARS-CoV-2, los aislaminetos que ofrecen un diagnóstico alternativo a COVID y la radiografía y analítica poco características de COVID, se decide alta hospitalaria descartando COVID (aún así recibió tratamiento completo de forma empírica tras la sospecha inicial y por ser un paciente inmunodeprimido).
+En cuanto al VIH, se mantiene OTROS_SUJETO_ASISTENCIA al alta y profilaxis con OTROS_SUJETO_ASISTENCIA.
+Se realiza TAC pulmonar para completar estudio pulmonar, pendiente de reporte al alta. Se solicita cita de control en H. Día.
+Se ha ofrecido alta a INSTITUCION en varias ocasiones, se valoró por OTROS_SUJETO_ASISTENCIA. Hoy tenía OTROS_SUJETO_ASISTENCIA, sin embargo el paciente lo ha rechazado.

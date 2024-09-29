@@ -1,0 +1,26 @@
+ EVOLUCIÓN DEL INGRESO (SalaUCI-NMO INTERMEDIOS-INFECCIONES):
+-----------------------------------------------------------------------
+Techo terapético I
+Fecha de inicio de los síntomas: FECHAS
+Fecha ingreso: 24.10.2023
+Fecha ingreso en UCI: 24.10.2023
+Fecha de frotis positivo (primer): 24/10 - control 26/11: negativo - control 29/11 positivo - control 07/12 negativo
+Tratamiento recibido: Remdesivir inicio 24.10.23 (5d). Tocilizumab 600mg inicio FECHAS (2d) (previamente MPDN 80 mg ev). Ceftriaxona+Teicoplanina inicio FECHAS (7d). 03.11.2023: piperacilina-tazobactam (8d). 09.11.2023: meropenem+teicoplanina (8d). 11.11.2023: anticoagulación HPNa.
+24.11.2023: enoxaparina 60/12h. 30.11.2023: enoxaparina 100 c/12h
+---------------------------------------------------------------------
+1. NEUMONIA BILATERAL POR SARS-COV2 (qSOFA 0)
+1.1 SINDROME DE DISTRÉS RESPIRATORIO AGUDO (IOT 26/10- Prono 27/10- Traqueostomía 28/10- Decanulación 23/11)
+Ingresó en la AVI y por progresión de la insuficiencia respiratoria se intubó requiriendo ventilación mecánica invasiva (FECHAS) con PaFI <100 las primeras 24horas por lo que requirió pronación precoz con mejoría del intercambio de gases. Con sedoanalgesia a dosis elevadas y los primeros días perfusión de cisatracurio, en este contexto precisó noradrenalina para tensiones arteriales correcta.
+Se realiza traqueostomia (FECHAS) sin incidencias, a pesar de lo cual presentó weaning lento. Progresivamente se inicia ventilación espontánea, desde el FECHAS se mantiene con oxigenoterapia con Venturi, al traslado al 24%.
+En la Unidad de Intermedios evoluciona favorablemente, pudiendio retirarse la oxigenoterapia con buenas SatO2 y manteniéndose eupneico por lo que se procede a decanular el 23/11 previo a objetivar correcta tolerancia a cánula de plata tapada (x48h) con adecuada deglución, fonación y fuerza para expectorar.
+Actualmente eupneico, Sat>95% basal. Hemodinámicamente estable. FC <100lpm en ritmo sinusal. Función renal correcta con diuresis preservada. Tolera sedestación, pendiente optimizar fisioterapia para recuperación funcional (todavía mantiene hipoestesia en rodilla y gemelo izquierdos, ver problema 5). Tolera vía oral.
+2. TRAQUEOBRONQUITIS POR BURKOLDERIA GLADIOLI.
+Durante el ingreso presentó en aspirado traqueal Burkolderia gladioli (solo R a ceftazidima) el FECHAS motivo por lo que se inició tratamiento con piperacilina-tazobactam, pero por fiebre a pesar de 6 dias de antibioterapia se escala a meropenem + teicoplanina.
+Posteriormente afebril, con cultivos de vigilancia negativos.
+3. INFARTO PULMONAR BASAL MEDIAL DERECHO SIN IMAGEN DE TEP
+Durante su ingreso en AVI, por presentar D-Dimero >10.000 y evolución clínica lenta se solicitó un angio-TC torácico (FECHAS) que descartó signos de TEP, pero sí se comentaba la existencia de una hipocaptación del parénquima a nivel basal medial derecho sugestivo de infarto pulmonar (por oclusión de pequeño vaso no detectable).
+Se recomendaba volver a realizar angio-TC (con los brazos levantados) para descartarlo con seguridad, de cara a la descoagulación del paciente y/o duración (Ver problema 4 y 5).
+En la Unidad de Intermedios se solicita nuevo AngioTC en el que se confirma la reducción del área de infarto, sin imagen de TEP. Se realiza derivación para seguimiento con MDI-TVP tras consulta telefónica.
+4. TROMBOSIS COMPLETA VENA CEFÁLICA DE ESD y T. PARCIAL DE SUBCLAVIA DERECHA.
+En la AVI, se objetivó extremidad superior derecha edematosa, eritematosa y caliente desde mitad de brazo hasta mano derechas.
+Se solicitó una ECO-Doppler que mostró trombosis completa de la vena cefálica y trombosis parcial de subclavia derechas (FECHAS). Se inició anticoagulación con heparina sódica que se tuvo que suspender a las 12- 18h por sangrado por traqueostomia (FECHAS) que precisó hemostasia y punto quirurgico por parte de ORL. Tras 48h-72h sin anticoagulación (solo clexane profiláctico) se reinició Heparina Na (FECHAS a las 14h) con buenos controles (en rango).

@@ -1,0 +1,16 @@
+ Consulta en urgencias por presentar dolor torácico opresivo sobre las [**16h**]. En urgencias se realizan ECG seriados donde se objetiva progresivo ascenso del ST en cara inferior. Se activa código IAM.
+HORARIOS DE ATENCIÓN:
+Hora de inicio del dolor: [**16:00**].
+Hora de primer contacto médico: [**17:14**].
+Hora de primer ECG: [**17:24**].
+Hora de activación de Código IAM: [**20:00h**]
+Hora de llegada a hemodinámica: [**20:24h**]
+Hora de apertura de la arteria: --
+La paciente llega en clase clínica [**Killip I**], con dolor torácico residual y sin complicaciones arrítmicas.
+ECG: Elevación del ST en cara inferior y derivaciones derechas, máxima elevación de [**1 mm**].
+Tratamiento antiagregante [**AAS**] 300 mg. Tratamiento anticoagulante: [**heparina sódica**] 5000 UI.
+Se realiza cateterismo vía radial derecha (ver informe adjunto de hemodinámica) y se objetiva disección arterial coronaria de IVP tributaria de manejo conservador. Se acaba el procedimiento sin complicaciones.
+ECG post-ICP con elevación inframilimétrica en cara inferior.
+Ecocardioscopia muestra VI no dilatado, motilidad global y segmentaria conservadas ([**FE 60%**]). Sin valvulopatías significativas. VD no dilatado, normcootnráctil. VCI no dilatada. Sin derrame pericárdico.
+La paciente ingresa a cargo de [**Cardiología**] para control post-IAM. Se deja monoantiagregada con [**AAS**] y se mantiene tratamiento con [**betabloqueantes**] que ya lleva. Seriación de [**TnI**].
+El frotis para [**SARS-CoV-2**] es positivo (con [**Ct 27**]), por lo que, de acuerdo con [**Infecciones**], ingresa en [**C617**].

@@ -1,0 +1,20 @@
+ TC CEREBRAL
+
+clinica:
+PACIENTE CON INFECCIÓN DISEMINADA POR [**ASPERGILLUS FUMIGATUS**] (PULMONAR, ENDOFTALMITIS BILATERAL, VENTRICULITIS Y ABSCESOS [**CEREBRALES**].
+RMN DEL DÍA [**9**] CON ABSCESOS Y VENTRICULITIS. AHORA CUADRO DE PÉRDIDA DE FUERZA EN [**ESI**]. SE SOLICITA TAC. GRACIAS
+TRASPLANTE HEPÁTICO ORTOTÓPICO EL [**19/1/14**]
+
+protocolo:
+TC [**CRANEAL**] URGENTE
+
+conclusiones:
+Pequeño foco hiperdenso corticosubcortical parietal izquierdo compatible con foco de contusión intraparenquimatosa.
+Mínima dilatación del sistema ventricular y de los surcos cerebrales y cerebelosos en relación a discreta atrofia difusa por edad del paciente.
+Resto del parénquima cerebral y cerebeloso sin otras alteraciones valorables.
+No se observan desplazamientos valorables de las estructuras de línea media.
+Cisternas basales y peritronculares libres.
+Sin trazos de fractura craneal evidentes.
+
+descrip:
+TC [**CEREBRAL**]

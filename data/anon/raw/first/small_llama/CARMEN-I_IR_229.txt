@@ -1,0 +1,22 @@
+ ANGIO TC PULMONAR
+
+clinica:
+covid + posible tep
+
+protocolo:
+TC TÓRAX ALTA RESOLUCIÓN: Se realiza aquisición basal debido al antecedente de alergia al contraste yodado. Exploración realizada de forma urgente durante horario de guardia.
+
+resultados:
+Se compara con TC previo del [**10/04/2021**].
+No se observan adenopatías mediastínicas o axilares de tamaño patológico.
+Ateromatosis aórtica y coronaria.
+Sin derrame pleuro-pericárdico.
+Opacidades bilaterales y difusas en vidrio deslustrado de distribución periférica y peribroncovascular, algunas de ellas parcialmente consolidadas, en relación a afectación pulmonar por [**COVID-19**] en mayor grado que en estudio previo. No se aprecian claros signos de organización en la actualidad.
+Engrosamientos pleurales izquierdos asociados a múltiples placas pleurales calcificadas, asociadas a atelectasia redonda en LII.
+Cerclaje esternal.
+
+conclusiones:
+Extensa afectación bilateral por [**COVID-19**] mayor que en estudio previo del [**10/04**]. No se aprecian claros signos de organización.
+
+descrip:
+[**ANGIO TC PULMONAR**]

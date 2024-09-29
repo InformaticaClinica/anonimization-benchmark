@@ -1,0 +1,18 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+COVID
+Linfoma Folicular en [**tto**]
+
+protocolo:
+RX [**PORTATIL**] [**TORAX**]
+
+conclusiones:
+Se compara con Rx previa del [**4/10/2021**].
+OPACIDADES: Sí. Se observan discetras opacidades bilaterales, de predominio izquierdo y en ambos campos medios, periféricas, que han aumentado respecto a radiografía del [**4/10/2021**], compatibles con infección por COVID ya conocida, con empeoramiento radiológico respecto a control previo. Consolidación lobar campo superior del [**LII**], hecho que no permite descartar sobreinfección.
+PATRÓN INTRSTICIAL: No.
+CONCLUSIÓN: Hallazgos sugestivos de neumonía por COVID, que radiológicamente ha empeorado respecto a radiografía previa.
+Consolidación presente en campo medio pulmonar izquierdo no permite descartar sobreinfección.
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

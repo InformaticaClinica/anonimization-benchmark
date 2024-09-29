@@ -1,0 +1,11 @@
+ RX  PORTATIL  TORAX
+
+clinica:
+Pneumònia causada per microorganismes no especificats
+
+conclusiones:
+Opacidades alveolo-intersticiales de distribución difusa y bilateral, sin cambios significativos respecto a RX de tórax previa de FECHAS.
+Elevación del OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+RX  PORTATIL  TORAX

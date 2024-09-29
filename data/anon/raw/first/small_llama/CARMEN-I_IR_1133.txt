@@ -1,0 +1,19 @@
+ En seguimiento por [**ECO RENO-VESICAL**]
+
+clinica:
+Paciente de [**56 años**]. AP: TBC hace 18 años, aparentemente completó tratamiento. Ingresado por SARS,IOT+VM desde [**25/01**] con una sesión de prono, soporte con NA (x4) 5ml/h estable.
+Durante el ingreso, destacar trombosis radial con trombectomía mecánica hace 24 horas. Además edema e hipoperfusión de EID con D dímero >35.000 sugestivo de TVP. En éste contexto empeoramiento progresivo de función renal con FG 26. Interesa descartar causa vascular.
+Gracias.
+LESION RENAL AGUDA
+
+protocolo:
+[**ECO RENO-VESICAL**] URGENTE PORTÁTIL
+
+conclusiones:
+Riñones de tamaño y ecoestructura normal, sin dilatación de vías excretoras.
+Arteria y vena renales permeables, siendo el estudio subóptimo para valorar los registros arteriales por las condiciones del paciente. Se comentan los resultados con el equipo médico tratante, en caso de alta sospecha valorar completar estudio con angio-TC.
+Vejiga urinaria parcialmente colapsada.
+No se observa líquido libre ni colecciones intraabdominales evidentes.
+
+descrip:
+[**ECO RENO-VESICAL**]

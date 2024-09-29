@@ -1,0 +1,37 @@
+ En seguimiento por Hematología INSTITUCION (Dra. NOMBRE_PERSONAL_SANITARIO).
+Varón de EDAD_SUJETO_ASISTENCIA.
+.AP: - Vasoespasme coronari en tt amb OTROS_SUJETO_ASISTENCIA, - HTA, - Uricàriacrònica en tt OTROS_SUJETO_ASISTENCIA
+MA: Ingressa el FECHAS per pneumonia secundaria a infecció per FAMILIARES_SUJETO_ASISTENCIA.Ingressa a UCI el FECHAS i es intubada el mateix dia. No ha requerit pronació. Extubació fallida el FECHAS, posteriorment es realitzatraqueostomia. Weanning difícil, solicitem TC toràcic per a descartar NOC. Gràcies
+NEUMONÍA INTERSTICIAL BILATERAL POR FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+TC HOSPITAL + TC HOSPITAL
+
+resultados:
+TC HOSPITAL
+No hay evidencia de sangrado agudo extra y/o intraaxial.
+Discretas áreas hipodensas en sustancia blanca supratentorial en relación a microangiopatía crónica. No se identifican hipodensidades ni desdiferenciación cortico-subcortical sugestivas de isquémia aguda.
+Sistema ventricular de morfología y tamaño normales.
+Estructuras de la línea media centradas.
+Cisternas basales y peritronculares libres.
+TC HOSPITAL
+Vía central yugular izquierda con extremo distal a nivel de vena inominada.
+Traqueostomía con extremo distal de la intubación en tráquea a unos OTROS_SUJETO_ASISTENCIA de la carina.
+SNG.
+Extensa afectación pulmonar bilateral y difusa consistente en consolidaciones en banda de disposición subpleural y peribroncovascular.
+Existe un gradiente craneocaudal siendo más abundantes dichas consolidaciones a nivel basal y existiendo a nivel de ambos lóbulos superiores áreas de vidrio deslustrado con septos interlobulillares (patrón en empedrado). En el seno de las consolidaciones se aprecian algunas bronquiolectasias, distorsión arquitectural y también se identifican imágenes de halo reverso. Globalmente estos hallazgos son compatibles con los de una neumonía vírica por FAMILIARES_SUJETO_ASISTENCIA con componente de neumonía organizativa y tendencia a la fibrosis.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Retracción del pezón izquierdo sin apreciar una clara masa subyacente, a valorar clínicamente.
+En los cortes de hemiabdomen superior no se observan hallazgos patológicos relevantes.
+
+conclusiones:
+- Exploración craneal sin hallazgos patológicos agudos relevantes.
+- Neumonia vírica por FAMILIARES_SUJETO_ASISTENCIA con neumonía organizativa.
+
+descrip:
+TC HOSPITAL
+
+descrip:
+TC HOSPITAL

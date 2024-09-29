@@ -1,0 +1,32 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Hombre de EDAD_SUJETO_ASISTENCIA, con FRCV, ingresado por neumonia bilateral por SARS- COV-2, que requirió ingreso en UCI donde presentó como complicaciones: insuficiencia cardíaca, insuficiencia renal aguda y neumotórax derecho, por lo que se le ha colocado un drenaje. A pesar de tratamiento y mejoría de los parámetros inflamatorios persiste con insuficiencia respiratoria grave, con dímero-d persistentemente elevado (actualmente de 1200). Solicitamos angioTC pulmonar para descartar TEP u otras complicaciones (NOC). Gracias.
+NEUMONÍA BILATERAL POR SARS-CoV-2
+
+protocolo:
+AngioTC de arteria pulmonar URGENTE
+
+resultados:
+Se compara con TC previo del 11/06/20 (sin contraste).
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar discretamente aumentado de calibre hasta 34 mm. Cardiomegalia.
+Calcificación valvular aórtica. Ateromatosis coronaria calcificada.
+Ventrículo izquierdo dilatado.
+Escasos ganglios mediastínicos en situación paratraqueal baja y prevascular, inespecíficos. No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Tubo de drenaje pleural con entrada por el 5º espacio intercostal derecho y extremo distal en receso cardiofrénico ipsilateral; importante enfisema subcutáneo en hemitórax derecho. Imagen densa (60 HU) en base derecha de 80 x 59 x 64 mm (APxTxCC), de base pleural, que se dispone en la cisura mayor derecha, visible desde el día 23/3/21 (que coincide con fecha de hemotórax descrito en curso clínico), no visible en radiografía previas a esta fecha. Por su evolución temporal descrita y densidad, esta imagen podría corresponder a hematoma/hemotórax encapsulado.
+Actualmente no se observa neumotórax, pleural ni pericárdico.
+Extensas opacidades en vidrio deslustrado de predominio en LLSS, con algunas atelectasias laminares en ambas bases, en relación a neumonía COVID19 conocida. No se observan claros cambios organizativos ni signos de fibrosis.
+Discreto enfisema centrolobulillar de predominio en LLSS.
+Nódulo sólido apical izquierdo de 6 mm, subpleural, estable.
+Ginecomastia bilateral.
+CVC con entrada periférica y extremo distal en aurícula derecha.
+En los cortes de hemiabdomen superior, no se observan hallazgos significativos.
+
+conclusiones:
+No se observan signos de TEP. Cardiomegalia.
+Imagen densa (60 HU) en base derecha de características descritas, de base pleural y localizada en la cisura mayor derecha, visible desde el día 23/3/21 (que coincide con fecha de hemotórax descrito en curso clínico), no visible en radiografía previas a esta fecha. Por su evolución temporal descrita y densidad, esta imagen podría corresponder a hematoma/hemotórax encapsulado. Actualmente no se observa neumotórax.
+Hallazgos en relación a neumonía COVID19 conocida. No se observan claros cambios organizativos ni signos de fibrosis.
+*Se comentará caso con sección de radiología torácica a primera hora de la mañana.
+
+descrip:
+ANGIO TC PULMONAR

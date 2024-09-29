@@ -1,0 +1,10 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas.
+Exfumadora de 1 paq/día durante FECHAS (DA FECHAS) hasta hace 10 años. Consumo enólico moderado habitual (ex-enolismo severo).
+Vive con su OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, siendo independiente para actividades básicas de la vida diaria. Sin deterioro cognitivo.
+* ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2. DIABETES MELLITUS TIPO 2 en tratamiento con antidiabéticos orales.
+3. POLIARTROSIS.
+4. NEUMONÍA NEUMOCÓCICA GRAVE CON SHOCK SÉPTICO SECUNDARIO EN 2017.
+Serología Coxiella burnetii BURNETII IgM (+) 1/640 en el mismo ingreso, por lo que recibió tratamiento con levofloxacino durante 14 días.
+MEDICACIÓN HABITUAL (02/3/2027): Amlodipino 10mg c/24h, Bisoprolol 5mg c/24h, Linagliptina/metformina 2.5mg/850mg c/12h, Hidroclorotiazida/lisinopril 12.5/20mg c/24h.

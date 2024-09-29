@@ -1,0 +1,8 @@
+ ANTECEDENTES PERSONALES:
+Varón de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, exfumador desde 2004 (OTROS_SUJETO_ASISTENCIA), consumo de enol moderado (OTROS_SUJETO_ASISTENCIA), no consumo de otros tóxicos.
+Natural de PAIS, en España desde hace FECHAS, tiene tres OTROS_SUJETO_ASISTENCIA en PAIS. Vive con su OTROS_SUJETO_ASISTENCIA en CALLE y trabaja como PROFESION.
+Barrera idiomática
+ANTECEDENTES PATOLÓGICOS:
+1.- OTROS_SUJETO_ASISTENCIA en PAIS.
+INTERVENCIONES QUIRÚRGICAS: OTROS_SUJETO_ASISTENCIA.
+MEDICACIÓN HABITUAL: no refiere.

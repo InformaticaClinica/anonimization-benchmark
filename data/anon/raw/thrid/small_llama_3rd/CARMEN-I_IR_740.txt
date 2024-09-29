@@ -1,0 +1,20 @@
+ GAMMAGRAFIA OSSIA
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA de edad con AP de OTROS_SUJETO_ASISTENCIA diagnósticado hace más de 15 años tratada con OTROS_SUJETO_ASISTENCIA con remisión completa.
+Actualmente en valoración ambulatoria por aumento de OTROS_SUJETO_ASISTENCIA (>300), OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA de mal control.
+Interesa re-estadiaje enfermedad (sospecha OTROS_SUJETO_ASISTENCIA).
+
+protocolo:
+Radiofármaco: NUMERO_IDENTIF, 25 mCi.
+Se realiza rastreo corporal a las 2 horas p.i. del trazador.
+
+resultados:
+Se visualizan múltiples imágenes activas en columna vertebral, ambos ilíacos y art. sacroilíacas, parrilla costal bilateral, esternón, calota, maxilar superior izquierdo y extremidades sugestivas de enfermedad ósea metastásica diseminada.
+Aunque alguna de estas lesiones vertebrales tienen morfología lineal y algunas costales muestran un aspecto puntiforme, más sugestivo de fracturas, en el contexto sugieren OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+Estudio gammagráfico sugestivo de enfermedad metastásica ósea diseminada.
+
+descrip:
+GAMMAGRAFIA OSSIA

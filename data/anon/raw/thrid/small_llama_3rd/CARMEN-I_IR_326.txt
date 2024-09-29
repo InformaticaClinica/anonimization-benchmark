@@ -1,0 +1,24 @@
+ En seguimiento por INSTITUCION INSTITUCION (Dra. NOMBRE_PERSONAL_SANITARIO).   ->
+En seguimiento por INSTITUCION INSTITUCION (Dra. NOMBRE_PERSONAL_SANITARIO).
+Varón de EDAD_SUJETO_ASISTENCIA con FRCV, ingresado en la Sala HOSPITAL desde hace FECHAS por COVID grave que requirió OTROS_SUJETO_ASISTENCIA, con neumonía organizativa como complicación.
+Esta madrugada presenta empeoramiento de la insuficiencia respiratoria y shock con exploración abdominal patológica, más doloroso en hipocondrio derecho y con defensa. Analítica con elevación de OTROS_SUJETO_ASISTENCIA, colestasis con hiperbilirrubinemia directa y DD de OTROS_SUJETO_ASISTENCIA.
+Solicitamos TC toracoabdominal con angioTC torácico para descartar OTROS_SUJETO_ASISTENCIA y complicaciones a nivel abdominal.
+COVID-19
+
+protocolo:
+TC abdominal: Se obtiene estudio TC sobre el abdomen en fase portal, tras administrar contraste iv. URGENTE
+
+resultados:
+No se dispone de TCs previas para comparar.
+Vesícula biliar distendida, con engrosamiento parietal, asociado a discreta trabeculación de la grasa y mínima cantidad de líquido perivesicular. Ante los hallazgos descritos, se decide complementar estudio con ecografía que muestra una vesícula biliar distendida, de paredes de grosor dentro de la normalidad, con barro biliar en su interior, sin litiasis, signo de Murphy ecográfico no valorable (todo esto sin cambios significativos respecto a ecografía portatil de hace 10 hrs) por el estado clínico del paciente. Llama la atención la disociación entre los hallazgos del TC y la ecografía, pero considerando el estado clínico del paciente y la ausencia de otros hallazgos intraabdominales y torácicos que expliquen su estado clínico, los hallazgos descritos no permiten descartar una colecistitis aguda.
+Mínima cantidad en FID y subhepático. No se observan colecciones.
+Hígado, bazo, páncreas, glándulas suprarrenales, vías biliares y riñones sin alteraciones significativas. Eje porto-espleno-mesentérico permeable.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño significativo.
+CVC con entrada femoral derecha y extremo distal en VCI. SNG con extremo distal en segunda porción del duodeno.
+
+conclusiones:
+Llama la atención la disociación entre los hallazgos del TC y la ecografía, pero considerando el estado clínico del paciente y la ausencia de otros hallazgos intraabdominales y torácicos que expliquen su deterioro clínico actual, los hallazgos descritos no permiten descartar una colecistitis aguda. Mínima cantidad en FID y subhepático.
+No se observan colecciones.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

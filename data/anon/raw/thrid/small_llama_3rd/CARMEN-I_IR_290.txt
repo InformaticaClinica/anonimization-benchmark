@@ -1,0 +1,16 @@
+ RX  OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Rx de OTROS_SUJETO_ASISTENCIA anteroposterior portàtil.
+
+resultados:
+Persiteixen petites opacitats pulmonar bilaterals i consolidació pulmonar basal dreta sense canvis.
+
+conclusiones:
+Estabilitat de probable OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+OTROS_SUJETO_ASISTENCIA

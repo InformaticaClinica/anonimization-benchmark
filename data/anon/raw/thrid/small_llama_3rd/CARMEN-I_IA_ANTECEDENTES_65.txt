@@ -1,0 +1,7 @@
+ Hombre de EDAD_SUJETO_ASISTENCIA, natural de PAIS (barrera idiomática), trabaja como PROFESION. Idependiente para OTROS_SUJETO_ASISTENCIA. Fumador OTROS_SUJETO_ASISTENCIA, enol OTROS_SUJETO_ASISTENCIA. No alergias medicamentosas conocidas.
+*ANTECEDENTES PATOLÓGICOS:
+1. OTROS_SUJETO_ASISTENCIA en tratamiento médico.
+2. ICTUS en FECHAS y FECHAS sin secuelas (no disponemos de informes).
+*MEDICACIÓN HABITUAL:
+- OTROS_SUJETO_ASISTENCIA
+- OTROS_SUJETO_ASISTENCIA

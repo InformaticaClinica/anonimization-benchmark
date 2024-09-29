@@ -1,0 +1,6 @@
+ Hombre de EDAD_SUJETO_ASISTENCIA sin alergias a medicamentos conocidas. Exfumador de OTROS_SUJETO_ASISTENCIA hasta los EDAD_SUJETO_ASISTENCIA sin otros hábitos tóxicos. Independiente para las actividades básicas de la vida diaria. Jubilado, trabajaba de PROFESION. Vive en domicilio con su OTROS_SUJETO_ASISTENCIA y sus OTROS_SUJETO_ASISTENCIA.
+
+* Antecedentes patológicos:
+- OTROS_SUJETO_ASISTENCIA en tratamiento con OTROS_SUJETO_ASISTENCIA.
+INTERVENCIONES QUIRÚRGICAS: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.
+TRATAMIENTO HABITUAL: OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA.

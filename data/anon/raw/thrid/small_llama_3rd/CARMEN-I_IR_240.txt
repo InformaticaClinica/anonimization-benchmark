@@ -1,0 +1,24 @@
+ ANGIO TC PULMONAR
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, ingreso por neumonia bilateral por COVID 19 con insuficiencia respiratoria grave que ha requerido ingreso en UCI e IOT.
+Actualmente en sala de infecciosas, con persistencia de insuficiencia respiratoria y ascenso de dimero D. Se solicita TAC para descartar TEP/NOC. Gracias
+NEUMONIA COVID 19
+
+protocolo:
+PROTOCOLO.
+
+resultados:
+Se compara con TC previa de otro INSTITUCION de FECHAS.
+No se observan defectos de repleción en arterias pulmonares que sugiera TEP.
+Mínimo derrame pleural cisural derecho. Ausencia de derrame pleural izquierdo.
+Mejoría radiológica de la afectación parenquimatosa secundaria a la neumonia bilateral por COVID-19. Resolución de las consolidaciones posterobasales. Disminución de las extensas opacidades en vidrio deslustrado peribroncovasculares y periféricas de localización posterobasal en LLII, LM y língula, asociado a bandas perilobulares y leve distorsión bronquial, en relación a leves cambios organizativos.
+Leve esplenomegalia. Pequeña hernia de hiato.
+
+conclusiones:
+Sin signos de TEP.
+Mejoría radiológica de la afectación parenquimatosa secundaria a la neumonía por COVID-19 con resolución de las consolidaciones posterobasales y disminución de las extensas opacidades en vidrio deslustrado bilaterales. Leves cambios organizativos bilaterales de predominio posterobasal.
+Mínimo derrame pleural cisural derecho.
+
+descrip:
+ANGIO TC PULMONAR

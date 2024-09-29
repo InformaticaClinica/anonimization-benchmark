@@ -1,0 +1,5 @@
+ Refiere que el día 1/6 inicia cuadro de tos irritativa y artromialgias generalizadas. A los dos días se añade anosmia y ageusia acompañantes.
+Posteriormente inicia fiebre de hasta 39.5oC que persiste hasta el día 08/6, desde entonces febrícula. En los últimos 4 días presenta aumento de la tos seca y sensación de opresión torácica, sin clara disnea.
+Por este motivo acude a OTROS_SUJETO_ASISTENCIA de HOSPITAL donde realizan analítica en la que destaca hemograma sin alteraciones. Función INSTITUCION y INSTITUCION conservadas e OTROS_SUJETO_ASISTENCIA de 896 ng/mL y OTROS_SUJETO_ASISTENCIA de 4.6 mg/dL.
+Realizan OTROS_SUJETO_ASISTENCIA en el que se evidencia OTROS_SUJETO_ASISTENCIA que sugiere afectación moderada/grave por OTROS_SUJETO_ASISTENCIA y derivan a nuestro CENTRO_SALUD por OTROS_SUJETO_ASISTENCIA para ingreso (no disponemos de las imágenes).
+No vacunado de OTROS_SUJETO_ASISTENCIA.

@@ -1,0 +1,21 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA de edad, dudosa alergia a la OTROS_SUJETO_ASISTENCIA, no fumadora ni bebedora de OTROS_SUJETO_ASISTENCIA.
+VALORACIÓN GERIÁTRICA:
+- FUNCIONAL: polifarmacia, Barthel 60 (dependencia leve), camina con bastón y ha presentado 2 caídas en el último año.
+- SOCIAL: vive con su OTROS_SUJETO_ASISTENCIA quien es su cuidadora principal.
+- COGNITIVO: deterioro cognitivo con Pffeifer 5 errores.
+- COMORBILIDAD: Charlson 11.
+ANTECEDENTES PATOLÓGICOS:
+1. INSTITUCION diagnosticada en 1989, en tratamiento con OTROS_SUJETO_ASISTENCIA, sin complicaciones retinianas, con nefropatía probablemente diabética.
+2. INSTITUCION diagnosticada en 1989.
+3. INSTITUCION diagnosticada en ene/07 por OTROS_SUJETO_ASISTENCIA, se realizó cateterismo que mostraba arteria coronaria derecha distal ocluida crónica, lesión del tronco común 50% y lesión significativa de la descendente anterior a nivel medio. La paciente se rechazó para cirugía por alto riesgo quirúrgico, colocándose OTROS_SUJETO_ASISTENCIA.
+* Episodio de dolor torácico en mar/09, se realizó cateterismo de arterias coronarias que mostraba tronco común izquierdo con lesión en segmento medio del 30% y lesión distal del 80%, DA con ateromatosis difusa, OTROS_SUJETO_ASISTENCIA, con lesión significativa en segmento medio-distal; CD con ateromatosis difusa. El 25/11/2003 se realizó triple bypass a DA media (OTROS_SUJETO_ASISTENCIA), a segunda marginal (OTROS_SUJETO_ASISTENCIA) y segunda diagonal (OTROS_SUJETO_ASISTENCIA).
+* Prueba de esfuerzo jul/12 clínicamente negativa y eléctricamente positiva, SPECT sin isquemia aguda.
+4. INSTITUCION. Varios episodios de insuficiencia cardíaca en forma de edemas y aumento de la dísnea, tratados con diuréticos sin requerir diurético basal, clase funcional basal OTROS_SUJETO_ASISTENCIA (disnea a moderados esfuerzos). Última agudización en mayo de 2014.
+* Última ecocardiografía (sep/13) FE 55-60%. Ventrículo izquierdo de movilidad normal. Dilatación del ventrículo derecho y discinesia (movimiento en parte por marcapasos), insuficiencia tricuspídea grave que permite estimar hipertensión pulmonar grave (65 mmHg de PAP Sistólica estimada). Vena cava inferior gravemente dilatada.
+5. HIPOTIROIDISMO SUBCLÍNICO diagnosticado en mar/09 en tratamiento con OTROS_SUJETO_ASISTENCIA.
+6. INSTITUCION en tratamiento farmacológico.
+7. INSTITUCION que requirió implante de OTROS_SUJETO_ASISTENCIA en 2006 (INSTITUCION).
+8. INSTITUCION.
+9. INSTITUCION probablemente secundaria a INSTITUCION.
+10. INSTITUCION. Ingreso en Marzo del 2013, pero dado el contexto de la paciente (IAMSEST con episodios de dolor torácico, cambios eléctricos con ascenso de TpI a 0.826 ng/ml y descompensación de insuficiencia cardíaca), se desestima continuar estudio de hemorragia digestiva con fibrocolonoscopia.
+MEDICACIÓN HABITUAL: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.

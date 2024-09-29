@@ -1,0 +1,32 @@
+ En seguimiento por INSTITUCION OTROS_SUJETO_ASISTENCIA. 
+
+Paciente de EDAD_SUJETO_ASISTENCIA reciente diagnostico de ADK de pancreas pendiente de iniciar tratamiento de quimioterapia , ingreso actual por mal control del dolor abdominal, vomitos persistentes.
+Solicitamos TAC abdominal para descartar oclusion intestinal
+Gracias
+OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Se obtienen imágenes axiales sobre el TERRITORIO, en condiciones basales, tras administrar agua como medio de contraste oral. A continuación se explora el TERRITORIO en fases pancreatográfica, portal y retardada. Se obtiene también estudio torácico en fase arterial.
+
+resultados:
+No se observan adenopatías axilares ni mediastínicas de tamaño significativo.
+No se observa derrame pleural ni pericárdico.
+No se aprecian hallazgos patológicos en el parénquima pulmonar.
+Hígado de tamaño normal y contornos lisos. Pequeño quiste simple en el segmento IV. Lesión hipodensa y con realce periférico en la fase portal de 6 mm de tamaño situada en el s. II, de nueva aparición. El parénquima adyacente muestra realce arterial, indicativo de fístula arterioportal.
+Sugiere metástasis. Imagen ovalada en el s VII, con realce arterial, no visible en otras fases, indeterminada.
+Vesícula biliar de tamaño normal de paredes finas. Vía biliar no dilatada. Prótesis en colédoco con gas en su interior. Vena porta permeable.
+Bazo y glándulas suprarrenales sin alteraciones.
+Masa tumoral polilobulada en la cabeza pancreática y proceso uncinato, de unos 40 mm,  que se extiende hacia la región porto-caval y provoca dilatación del conducto de Wirsung. Engloba a la arteria gastroduodenal, contacta cranealmente con la arteria hepática y medialmente con el TC.
+Hay una AHD accesoria, rama de la AMS que discurre por el interior de la tumoración. Contacta también con el confluente portomesentérico, que está reducido de calibre, y ampliamente con la VCI.
+La lesión contacta con la pared de la segunda porción del duodeno y con la rodilla inferior, que están engrosadas, indicativo de infiltración visceral.
+Riñones de morfología y tamaño normal. No se observa dilatación de la vía excretora.
+Las múltiples adenopatías de pequeño tamaño inter-aórtico-cavales, retro-cavales y paraaórticas observaas en el TC antreior se individualizan ahora con más dificultad. Alguna parece de menor tamaño, pero otras están rodeadas por tejido graso de densindad elevada.
+Ascitis difusa, con engrosamiento sólido del epiplon mayor y con múltiples engrosamientos nodulares sólidos del peritoneo parietal en relación con carcinomatosis. Muestra una clara progresión con relación al estudio TC anterior.
+Dilatación gástrica que en parte es debida a la administración de agua para realizar el estudio. No puede excluirse un compromiso del tránsito en relación con la infiltración duodenal descrita. Se observa dilatación de asas de yeyuno proximal, de hasta 34 mm, mietras que las asas ileales tienen tamaño preservado. No es posible identificar una zona focal de cambio de calibre.
+
+conclusiones:
+Noplasia de cabeza de pancreas en progresión, especialmente a nivel peritoneal, pero también duodenal, vascular esplácnica y hepática.
+La dilatación gástrica observada en parte es debida a la administración de agua para realizar el estudio. No puede excluirse un compromiso del tránsito en esta región. La dilatación de asas de yeyuno sugiere obstrucción mecánica, probablemente relacionada con carcinomatosis. No se puede delimitar con claridad una zona focal de cambio de calibre intestinal.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

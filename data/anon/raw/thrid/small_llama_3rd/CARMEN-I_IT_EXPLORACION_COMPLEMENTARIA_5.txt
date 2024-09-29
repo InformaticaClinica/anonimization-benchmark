@@ -1,0 +1,13 @@
+ -PCR DE SARS CoV-2 (FECHAS): positiva
+-**Esputo**: aislamiento **sólo de flora habitual**.
+-Influenzavirus B: Indetectable
+-Influenzavirus C: Indetectable
+-Influenzavirus A: Indetectable
+-Virus respiratorio sincitial: Indetectable
+-Enterovirus: Indetectable
+-**Adenovirus**: Indetectable
+-Metapneumovirus humano: Indetectable
+-Bocavirus humano: Indetectable
+-Rinovirus: Indetectable
+-Virus parainfluenza (FECHAS): indetectable.
+-**Antigenurias Legionella y S.pneumoniae**: negativo.

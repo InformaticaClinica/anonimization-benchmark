@@ -1,0 +1,4 @@
+ - Mantener medidas de aislamiento en domicilio hasta el día FECHAS
+- Acudirá el FECHAS a INSTITUCION para valoración como tenía previsto.
+- Pendiente de resultado OTROS_SUJETO_ASISTENCIA, se pide analítica con anticuerpos antifosfolipídicos en 3 meses y visita con INSTITUCION, pendiente de programar la cita.
+- Control por su PROFESION de cara a introducción de OTROS_SUJETO_ASISTENCIA tras el FECHAS y resultado de OTROS_SUJETO_ASISTENCIA.

@@ -1,0 +1,2 @@
+ Solicito analítica de control para valorar reactantes de fase aguda y valorar inicio de tocilizumab
+Solicito OTROS_SUJETO_ASISTENCIA en orina y cultivo de esputo si OTROS_SUJETO_ASISTENCIA Mantenemos cobertura antibiótica empírica con ceftriaxona+NUMERO_TELEFONO Contacto con el OTROS_SUJETO_ASISTENCIA NUMERO_TELEFONO y explico la situación actual Traslado a TERRITORIO

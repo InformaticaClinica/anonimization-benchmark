@@ -1,0 +1,22 @@
+ En seguimiento por Hematología PROTOCOLO
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA ingresado por neumonia bilateral grave con SDRA por SARS-CoV2 precisando de ingreso en UCI con IOT/VM. Comienzo sintomas FECHAS, ingreso FECHAS. Recibe tto con DEXA, TOCI y anakinra. TC de tórax FECHAS por empeoramiento respiratorio confirma presencia de TEP subsegmentario LM (desde entonces anticoagulado con enoxa FECHAS) y descarta presencia de cambios organizativos. RxTx FECHAS persiste con infiltrados bilaterales. Hoy además taquicardia sinusal con mismo requerimientos de oxígeno (GN 2lpm). Solicitamos valoración para además de descartar en el momento actual la posible progresión a cambios organizativos por tiempo de evolución y la posible progresión de la afectación trombótica dado la presencia de taquicardia sinusal sin otra causa plausible.
+
+protocolo:
+ANGIO TC PULMONAR URGENTE
+
+resultados:
+Se compara con angioTC previa del FECHAS
+No se observan claros defectos de replección intraarterial en árbol pulmonar que sugieran TEP.
+Retirada tubo de IOT.
+Adenopatías en hilio derecho. Pequeños ganglios mediastínicos de tamaño no significativo. No se observan adenopatías axilares.
+No se evidencia derrame pleural ni pericárdico.
+Disminución de la extensión de los pequeños focos consolidativos bilaterales con distribución periférica, que se acompañan de imágenes periféricas en vidrio deslustrado, bandas subpleurales y dilataciones bronquiolares, todo ello compatible con infección pulmonar por COVID-19 en resolución, sin signos de organización (afectación <25% del parénquima pulmonar).
+Colelitiasis.
+
+conclusiones:
+No se oberva TEP. Disminucón de la extensión de los focos de afectación pulmonar por COVID-19, sin signos de organización.
+
+descrip:
+PROTOCOLO

@@ -1,0 +1,21 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA con neumonía bilateral por covid19 que presenta trigliceridemia 1000 con pancreatitis aguda diagnosticada por TC el martes. Hoy presenta aumento significativo de la bilirrubina total hasta 4.5mg/dL y aumento de PCR. Ruego realizar ecografía urgente portátil para descartar alteraciones de vía biliar o valorar complicaciones de la pancreatitis.
+
+protocolo:
+Ecografía abdominal urgente portátil
+
+conclusiones:
+Hígado de tamaño y morfología normal, de contornos lisos. Presenta una ecogenicidad difusamente aumentada probablemente en relación con esteatosis en grado leve. No se observan lesiones hepáticas. Mínima lámina de líquido subhepático.
+Vesícula biliar replecionada, con barro biliar en su interior y alitiásica, de paredes finas (sin signos de colecistitis aguda).
+Vía biliar intra y extrahepática no dilatada.
+Vena porta permeable hepatopetal.
+Páncreas (cabeza y cuerpo) de morfología normal, sin identificarse líquido adyacente. Cola del páncreas (zona afecta por TC previo) no visualizable por ecografía. Vena esplénica permeable.
+Bazo de tamaño y morfología normal. Leve cantidad de líquido caudal al bazo (corresponde al líquido acumulado en la fascial pararrenal anterior izquierda visible en TC previo).
+Riñones de tamaño y morfología normal, sin dilatación de la vía excretora.
+Vejiga urinaria con sonda en su interior.
+No se identifica líquido libre intraabdominal en otras localizaciones.
+
+descrip:
+ECO BASAL (ABDOMEN)

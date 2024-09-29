@@ -1,0 +1,17 @@
+ INGRESO EN PLANTA DE HOSPITALIZACIÓN COVID19 (SINT)
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con antecedentes relevantes de OTROS_SUJETO_ASISTENCIA sin tratamiento, OTROS_SUJETO_ASISTENCIA en tratamiento con PROFESION, OTROS_SUJETO_ASISTENCIA en FECHAS, OTROS_SUJETO_ASISTENCIA en FECHAS.
+Ingreso actual por los siguientes problemas clínicos:
+1.  Neumonía bilateral por OTROS_SUJETO_ASISTENCIA
+1.1. Insuficiencia respiratoria aguda
+Inicio síntomas: FECHAS.
+Síntomas: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA con sensación OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.
+Fecha diagnóstico. TAR +: FECHAS, PCR +: FECHAS (CT 33)
+Vacuna: Dos dosis (OTROS_SUJETO_ASISTENCIA, FECHAS)
+Esquema de tratamiento:
+*Tratamiento dual anti-inflamatorio (PCR>10): OTROS_SUJETO_ASISTENCIA (FECHAS) y OTROS_SUJETO_ASISTENCIA (22/06).
+*Otros: OTROS_SUJETO_ASISTENCIA (FECHAS), OTROS_SUJETO_ASISTENCIA (FECHAS)
+Estudios radiológicos: Pendiente OTROS_SUJETO_ASISTENCIA pendiente
+Estudios microbiológicos. OTROS_SUJETO_ASISTENCIA pendiente. OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA
+Al ingreso, por neumonía bilateral y datos de insuficiencia respiratoria con elevación de marcadores inflamatorios se decide comienzo de tratamiento anti-inflamatorio dual con dexametasona y tocilizumab (dosis única). No se inicia antiviral por CT 33 en PCR al ingreso. Durante ingreso y tras inicio de medicación se logra reducción de requerimiento de oxigenoterapia desde VMX 35% a gafas nasales 3lpm con saturación del 95-96%.
+3. Fibrilación de origen incierto con RV rápida. CHA2DS2-Vasc 1
+Durante ingreso y ante episodio de taquicardia, se realiza ECG con constatación de fibrilación auricular con respuesta ventricular rápida (136lpm) con estrategia de tratamiento con anticoagulación plena y control de frecuencia con betalbloqueante con buena respuesta y tolerancia.

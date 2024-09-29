@@ -1,0 +1,22 @@
+ En seguimiento por [**Paciente**] de [**56 años**] con [**cirrosis hepática childA**], [**carcinoma hepatocelular**] en segunda línea y [**enfermedad por IgG4**]. Ingresado en [**septiembre**] por [**covid + NOC**]. Ingresado por [**neuvo empeoramiento respiratorio**]. Se solicita [**TC**] para descartar [**progresion de NOC**], [**sobreifnección**], descartar [**infección inmunodeprimido**] ([**pneumocistis**], [**virus**], [**hongos**]).
+
+protocolo:
+[**TC TÓRAX URGENTE**]: adquisición sin contraste ev.
+
+resultados:
+Se compara con [**TCs torácicas**] del [**18/10/2023**] y del [**5/10/2023**].
+No se observan [**adenopatías axilares o mediastínicas**] de tamaño sospechoso.
+No se evidencia [**derrame pleural ni pericárdico**].
+Abundante [**enfisema centrolobulillar y paraseptal difuso**].
+Disminución de la extensión de los cambios por [**neumonía organizativa previa**], sobretodo a expensas de las [**consolidaciones**]. Persisten los [**engrosamientos bronquiales difusos**], las [**bronquiectasias**] y [**bronquioloectasias**] previas y la [**desestructuración de la arquitectura del parénquima pulmonar**].
+Escasa ocupación endotraqueal de aspecto [**mucoso**].
+[**Nefrolitiasis no obstructiva puntiforme**] en [**GCS derecho**].
+[**Cambios degenerativos**] en la [**columna torácica**].
+[**Hígado**] de contornos irregulares en relación a [**hepatopatía crónica**].
+[**Cambios post-RF**] en [**s.VIII**]. [**Cambios postquirúrgicos**] en [**s.V-IVb**].
+
+conclusiones:
+Disminución de la extensión de los cambios por [**neumonía organizativa previa**], persistiendo [**bronquiolectasias**] y la [**desestructuración de la arquitectura del parénquima pulmonar**].
+
+descrip:
+[**TC TORAX**]

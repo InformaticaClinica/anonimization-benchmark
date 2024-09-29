@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX OTROS_SUJETO_ASISTENCIA PORTÁTIL
+
+conclusiones:
+Ténue infiltrado en el LID, que muestra clara mejoría con respecto al estudio precedente de FECHAS. Pequeña opcidad basal izq. no visible en el mencionado estudio.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

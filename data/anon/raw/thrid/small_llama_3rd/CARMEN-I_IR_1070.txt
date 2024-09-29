@@ -1,0 +1,8 @@
+ RX OTROS_SUJETO_ASISTENCIA  TORAX
+
+clinica:
+OTROS_SUJETO_ASISTENCIA BILATERAL POR COVID-19
+
+conclusiones:
+RX TORAX PORTATIL
+Comparativamente con la exploración del FECHAS, persisten las imagenes, pero ha disminuido la densidad de los infiltrados que se identifican en ambos OTROS_SUJETO_ASISTENCIA.

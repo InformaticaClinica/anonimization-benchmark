@@ -1,0 +1,2 @@
+ Paciente acude por presentar fiebre de FECHAS y sangrado en cavidad oral a las FECHAS aproximadamente. Niega clínica urinaria o tos intensa.
+Estuvo ingresada hasta el FECHAS por infección por OTROS_SUJETO_ASISTENCIA (FECHAS).

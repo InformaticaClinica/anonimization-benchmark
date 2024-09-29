@@ -1,0 +1,13 @@
+ RX  PORTATIL  HOSPITAL
+
+clinica:
+LMA secundaria a INSTITUCION
+
+conclusiones:
+Comparativamente con RX de tórax previo del FECHAS se observa la persistencia de tenues opacidades en el campo pulmonar medio e inferior derecho de distribución central, valorar proceso infeccioso. Atelectasia laminar en OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA para OTROS_SUJETO_ASISTENCIA.
+Otros hallazgos:
+OTROS_SUJETO_ASISTENCIA en el OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+RX  PORTATIL  HOSPITAL

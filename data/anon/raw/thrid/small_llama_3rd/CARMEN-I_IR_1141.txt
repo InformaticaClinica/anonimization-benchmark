@@ -1,0 +1,24 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA ingresado por neumonía bilateral por OTROS_SUJETO_ASISTENCIA (día + 12 de inicio de síntomas). Ha recibido tratamiento con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.
+Por progresión radiológica y estancamiento en cuanto a requerimientos de oxigenoterapia pese a mejoría de parámetros analíticos, rogamos TACAR pulmonar para descartar componente de neumonía organizativa.
+Muchas gracias.
+Infecció per OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+TC desde vértices pulmonares hasta glándulas suprarenales sin contraste endovenoso mediante TC espiral.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo. Pequeños ganglios calcificados hiliares izquierdos.
+No se observa derrame pleural ni pericárdico.
+Moderadas calcificaciones coronarias.
+Opacidades en vidrio deslustrado asociado a pequeños focos consolidativos parcheados bilaterales, de distribución periférica y peribroncovascular, que predominan en las bases y en campos pulmonares posteriores, todo ello en relación a neumonía bilateral por COVID-19. Se observan opacidades lineales de distribución perilobular con leve distorsión bronquial, de predominio basal, sugestivo de cambios organizativos secundarios a la neumonia.
+Pequeño granuloma calcificado en el OTROS_SUJETO_ASISTENCIA.
+Colecistectomía.
+
+conclusiones:
+Hallazgos sugestivos de neumonía bilateral por COVID-19, con cambios organizativos de predominio basal.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

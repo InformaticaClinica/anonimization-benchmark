@@ -1,0 +1,21 @@
+ ESTUDIO DEGLUCION
+
+clinica:
+EDAD_SUJETO_ASISTENCIA. Post COVID, ahora negativo. IOT + VM, traqueostomía, decanulado el FECHAS. Herida OK, algo de fuga, el paciente va con OTROS_SUJETO_ASISTENCIA.
+Solicitamos videodeglución.
+OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+Estudio de la FAMILIARES_SUJETO_ASISTENCIA
+
+resultados:
+Con la densidad OTROS_SUJETO_ASISTENCIA se aprecia paso importante del contraste a vías aéreas.
+En estos casos no administramos contraste con densidad OTROS_SUJETO_ASISTENCIA.
+Con la administración de contraste con densidad OTROS_SUJETO_ASISTENCIA no se aprecia paso  evidente del mismo a vías aéreas (el contraste que se observa en estas vías corresponde al ingerido en primer lugar, el  de densidad OTROS_SUJETO_ASISTENCIA).
+En la placa de control al final de la exploración se aprecia importante retención de contrastee en vías aéreas y senos piriformes.
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

@@ -1,0 +1,15 @@
+ TC CEREBRAL
+
+clinica:
+SS Tc control postoperatorio.
+Neoplàsia maligna secundària, encèfal
+
+conclusiones:
+Se compara con estudio TC previo prequirúrgico con contraste para neuronavegacion/IQ, del FECHAS.
+Cambios post craneotomía  OTROS_SUJETO_ASISTENCIA, con mínimos signos de OTROS_SUJETO_ASISTENCIA a nivel de OTROS_SUJETO_ASISTENCIA y surcos de la OTROS_SUJETO_ASISTENCIA, sin colecciones hemáticas subdurales que sugieran hematoma subdural postquirúrgico
+Contaminación hemática de OTROS_SUJETO_ASISTENCIA sin signos de hidrocefalia
+Continua apreciándose áreas hipodensas subcorticales en centro semioval derecho, que en el contexto de diagnostico previo de OTROS_SUJETO_ASISTENCIA del paciente, obliga a excluir OTROS_SUJETO_ASISTENCIA.
+Exploración actual sin administrar contraste yodado endovenoso.
+
+descrip:
+TC CEREBRAL

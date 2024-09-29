@@ -1,0 +1,7 @@
+ INFECCIÓN POR SARS-CoV-2
+2. DETERIORO COGNITIVO
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA de edad, con comorbilidad (OTROS_SUJETO_ASISTENCIA), que presenta infección por FAMILIARES_SUJETO_ASISTENCIA, aunque sin datos radiológicos de neumonía y sin datos analíticos de mal pronóstico. Inicio de síntomas el FECHAS con TAR positivo NUMERO_TELEFONO sin requerimiento de OTROS_SUJETO_ASISTENCIA.
+Consulta a INSTITUCION por OTROS_SUJETO_ASISTENCIA. No OTROS_SUJETO_ASISTENCIA de sobreinfección respiratoria. No vacunado. Radiografía de HOSPITAL normal. Analítica sin elevación de OTROS_SUJETO_ASISTENCIA. No precisa de OTROS_SUJETO_ASISTENCIA.
+Se decide ingreso en régimen de INSTITUCION para control evolutivo en OTROS_SUJETO_ASISTENCIA.
+Tras FECHAS de ingreso y de vigilancia estrecha, el OTROS_SUJETO_ASISTENCIA se ha mantenido OTROS_SUJETO_ASISTENCIA y hemodinámicamente OTROS_SUJETO_ASISTENCIA. Previo al alta, OTROS_SUJETO_ASISTENCIA en reposo, tolera OTROS_SUJETO_ASISTENCIA con ayuda. Constantes OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA 97-98%. Auscultación HOSPITAL con mínimos OTROS_SUJETO_ASISTENCIA en ambas bases de aspecto OTROS_SUJETO_ASISTENCIA.
+Dada la OTROS_SUJETO_ASISTENCIA y ausencia de OTROS_SUJETO_ASISTENCIA, se decide alta. Se dan OTROS_SUJETO_ASISTENCIA de reconsulta.

@@ -1,0 +1,6 @@
+ Consulta por cuadro de 4 días de evolución consistente en astenia, malestar general, tos seca, y fiebre de hasta FECHAS además de dísnea decurso progresivo, motivo por el que acude a OTROS_SUJETO_ASISTENCIA de INSTITUCION.
+A la exploración postrado, febril con taquipnea superficial FECHAS y ligero tiraje intercostal, SpO2 FECHAS VM FECHAS crepitantes difusos predomino en bases.
+Radiografía con infiltrados bilaterales. Analíticamente destaca leucopenia sin linfopenia, plaquetopenia leve y leve aumento LDH con PCR 3.68. D-dímero normal.
+Se inicia tratamiento antiviral con OTROS_SUJETO_ASISTENCIA + OTROS_SUJETO_ASISTENCIA y enoxaprina profiláctica y en vistas de i. respiratoria precoz y potencial progresión de la misma se acuerda traslado a sala de hospitalización INSTITUCION.
+Durante las primeras 6 horas tras la hospitalización ya en INSTITUCION presenta requerimientos crecientes de oxigenoterapia siendo preciso VMK FECHAS con taquipnea superficial (FR 28-32 rpm) y GSA (Fio2 FECHAS) con pH FECHAS, pO2 FECHAS, pCO2 FECHAS, HCO3 FECHAS (PAFI FECHAS).
+En vistas de la rápida progresión clínica se decide traslado a Unidad de Cuidados Intensivos (ID_SUJETO_ASISTENCIA) para monitorización estrecha. Previo al traslado se administra dosis única de OTROS_SUJETO_ASISTENCIA.

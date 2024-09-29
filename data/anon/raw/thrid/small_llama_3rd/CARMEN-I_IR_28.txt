@@ -1,0 +1,34 @@
+ En seguimiento por Hematología HOSPITAL (Dra. NOMBRE_PERSONAL_SANITARIO).
+Varón de EDAD_SUJETO_ASISTENCIA. Adenocarcinoma de INSTITUCION metástico. Portador de OTROS_SUJETO_ASISTENCIA. Ingresado por infección por FAMILIARES_SUJETO_ASISTENCIA. A pesar de encontrarse a día +30, al intentar retirar antibiótico (ceftriaxona) en varias ocasiones reaparace fiebre y elevación de procalcitonina (PCT 4), sugeriendo infección bacteriana. Dado los antecedentes del paciente, solicitamos TC abdominal para descartar presencia de abceso hepático u otra complicación intraabdominal. Gracias!
+FIEBRE PERSISTENTE
+
+protocolo:
+TC toracoabdominal tras la administración de contraste oral y e.v. en fases arterial (torax) y portal (abdomen)
+
+resultados:
+TÓRAX:
+* Se compara con TC previo del FECHAS
+Aumento de las opacidades en vidrio deslustrado y consolidaciones subpleurales bilaterales, en relación a su infección por FAMILIARES_SUJETO_ASISTENCIA.
+Incontables nódulos pulmonares infracentimétricos en relación a M1 conocidas. Engrosamientos de septos interlobulillares, cisuras y paredes bronquiales así como consolidaciones nodulares sugestivos de linfangitis carcinomatosa. Todo ello sin cambios significativos  respecto a TC previo.
+Adenopatias hiliarae bilaterales y subcarinales, estables. No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+ABDOMEN:
+Se compara con TC previo de otro centro del FECHAS
+Lesión hipodensa y heterogénea en cola pancreática que infiltra los vasos esplénicos en relación a neoplasia conocida. Presenta esxcasos coambios con relación al TC anterior.
+Hígado de morfología, contornos y atenuación normales. Lesión hipodensa con paredes levemente hipercaptantes y contornos irregulares, de OTROS_SUJETO_ASISTENCIA en segmento II-III que sugiere MH y que se corresponde con la misma topografía donde el paciente presentaba una lesión metastásica en diciembre de FECHAS. En el contexto del paciente, un absceso podria producir imágenes similares y debe ser contemplado en el DD. Esta lesión se acompaña de una dilatación de la vía biliar en el LI, más acusada que en el resto del parénquima.
+Lesión heterogénea que rodea a la rama anterior de la vena porta derecha, que está adelgazada e irregular, y que condiciona una dilatación segmentaria de vías biliares en el LD. Se acompaña de lesiones focales en el segmento IV, que han aumentado con relación al estudio de enero pasado, y que también coinciden con zonas tumorales previas. Todo esto sugiere progresión hepática por su enfermedad.
+Vía biliar extrahepática no dilatada. Drenajes biliares en embos lóbulos. No hay aerobilia.
+Vesícula biliar de tamaño normal, con paredes edematosas.
+Vena porta y eje espleno-portal permables.
+Bazo y glándulas suprarenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste. Quistes corticales simples bilaterales. No se observa dilatación de la vía excretora.
+Adenopatías celíacas de hasta un centímetro de tamaño máximo, con contornos irregulares, que han progresado con relación al examen anterior. Sugieren extensión tumoral. No se observan adenopatías en otros territorios retroperitoneales ni ilíacos de tamaño patológico.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+Lesiones focales hepáticas y lesión de aspecto infiltrativo en la vecindad de las ramas derechas de la vena porta, que condiciona dilatación de vías biliares intrahepáticas. Todo ello sugiere progresión por su enfermedad.
+En el contexto infeccioso del paciente, algunas de las lesiones podrían estar asociadas a cambios en relación con colangitis.
+Adenopatías celíacas de nueva aparición, sospechosas.
+Vesícula biliar de paredes edematosas.
+Neoplasia de cola pancreática.
+Imágenes pulmonares sugestivas de M1 con linfangitis carcinomatosa y sobreinfección pòr FAMILIARES_SUJETO_ASISTENCIA. Todo ello ya conocido.

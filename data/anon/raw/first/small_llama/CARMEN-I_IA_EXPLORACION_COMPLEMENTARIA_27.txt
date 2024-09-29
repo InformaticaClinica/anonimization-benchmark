@@ -1,0 +1,24 @@
+ *INTERCONSULTA HEMATOLOGÍA
+Hombre de [**43 años**] con antecedente de trombosis venosa profunda poplítea en 1996 y policitemia vera JAK2V617F+ diagnosticada en el año 2003 a la edad [**31 años**] con los siguientes datos inicales: Hb [**224**] Hto [**61**], leucocitos [**12.000**] plaquetas [**398.000**], esplenomegalia radiológica leve poreco. En el año 2010 por aparición de esplenomegalia dolorosa ([**22 cm**] por eco abdominal con imagen de infarto esplénico por TC, normal hasta [**12 cm**]) se constató la progresión a mielofibrosis. En aquel momento mantenía fenotipo de PV con Hb [**156**] Hto [**50**] VCM [**60**] leucocitos [**23380**] (neutrofilia) y plaquetas [**224.000**]. Se realizó una BMO que resultó hipercelular con acúmulos de megacariocitos displásicos y fibrosis reticulínica grado 2. Desde entonces recibe tratamiento con ruxolitinib.
+En la última visita  realizada en Hematología de [**C. La Salud**] el [**22/6/2016**] no presentaba síntomas, no tenía esplenomegalia palpable ([**15 cm**] en la última ecografía) y la analítica objetivaba un adecuado control hematológico: Hb [**140**] Hto [**42**] leucocitos [**12200**] plaquetas [**497.000**]. Vacunado contra COVID con Pfizer, 2 dosis [**12/8/2016**]. Actualmente ingresado en [**AVI**] por neumonía grave por COVID que ha requerido intubación. En TC se objetivo un TEP segmentario.OD: MF-post PV sin datos de clínicos de mal pronóstico en cuanto a su enfermedad hematologica (supervivencia > 5 años). Sí presenta un alto riesgo de trombosis por antecedente de historia previa de trombosis y probable alta carga mutacional de JAK2V617F (un dato constante en pacientes transformados a MF).
+Plan: - Mantener tratamiento con ruxolitinib [**10 mg/12h**] y añadir hidroxiurea [**500 mg/24h**] con el objetivo de normalizar la cifra de plaquetas y leucocitos - Mientras reciba HBPM a dosis anticoagulantes no es necesario administrar AAS. Si se pasa a dosis profilácticas entonces asociar AAS.
+*ECG: ritmo sinusal sin alteraciones de la repolarización ni de la conducción eléctrica.
+*ECG en sala: ritmo sinusal a [**95 lpm**], PR normal, QRS estrecho, eje normal, sin alteraciones de repolarización.
+*FIBROBRONCOSCOPIA (28.08.2016): Tubo orotraqueal normoposicionado.
+Inflamación difusa de mucosa traqueal y bronquial. Secreciones mucopurulentas espesas que se aspiran tras la instilación de suero hipertónico.
+Se realiza:
+1. BAS para estudio microbiológico.
+2. LBA a nivel de língula con 100 ml de suero fisiológico, recuperándose [**38 ml**]. Se remiten muestras para estudio microbiológico y citológico     (protocolo inmunodeprimidos).
+*MICROBIOLOGÍA:
+-PCR COVID-19 (26.08.2016): [**Positiva**]
+-PCR COVID-19 (28.08.2016): [**Negativa**]
+-PCR COVID-19 (4.09.2016): [**Positiva**]
+-PCR COVID-19 (8.09.2016): [**Debilmente positiva**]. CT [**38**]
+-Anticossos totals covid-19 (IgG + IgM) (8.09/2016): [**Positivo**]
+-Cultivo aspirado traqueal (27.08.2016): [**Negativo**]. No se observen bacils àcid-alcohol resistents.
+-Lavado broncoalveolar (28.08.2016): Cultivo negativo para bacterias y hongos. AGA [**0,20**]. PCP negativo. Pendiente PCR de CMV.
+-Hemocultivos (28.08.2016): [**Negativos**]
+-Hemocultivos (30.08.2016): [**Negativos**]
+-Antigenuria Legionella y S. pneumoniae: [**Negativa**].
+-Urocultivo (30.08.2016): [**Candida parapsilosis**].
+-Frotis rectal y nasal (30.08.2016): S'aïlla flora habitual o saprò

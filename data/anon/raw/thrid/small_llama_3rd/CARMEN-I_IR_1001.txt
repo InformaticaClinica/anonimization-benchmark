@@ -1,0 +1,14 @@
+ RX OTROS_SUJETO_ASISTENCIA PA L
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX tórax en PA y lateral.
+
+conclusiones:
+Se revisan estudios previos; última RX disponible del FECHAS.
+Ausencia de alteraciones pleuroparenquimatosas, ni mediastínicas valorables.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA PA L

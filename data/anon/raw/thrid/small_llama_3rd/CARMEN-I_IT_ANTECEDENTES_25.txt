@@ -1,0 +1,13 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, no refiere hábitos tóxicos. Natural de PAIS.
+INTERVENCIONES QUIRÚRGICAS:
+- Colecistectomia en 2009 en HOSPITAL por colelitiasis y pancreatitis aguda sin criterios de gravedad.
+- Tres OTROS_SUJETO_ASISTENCIA.
+*ANTECEDENTES PATOLÓGICOS:
+- OTROS_SUJETO_ASISTENCIA con última analítica en 04/12 que muestra OTROS_SUJETO_ASISTENCIA de 5.31 y OTROS_SUJETO_ASISTENCIA de 12.51, sin tratamiento actualmente.
+- OTROS_SUJETO_ASISTENCIA en seguimiento por su OTROS_SUJETO_ASISTENCIA sin tratamiento farmacológico.
+- OTROS_SUJETO_ASISTENCIA sin cirrosis hepática.
+- OTROS_SUJETO_ASISTENCIA, detectada de manera casual en cribaje de donante de sangre. Se realizó tratamiento durante dos meses en HOSPITAL. Sin afectación de órganos y sin seguimiento.
+- OTROS_SUJETO_ASISTENCIA grado III con OTROS_SUJETO_ASISTENCIA de 41.
+- OTROS_SUJETO_ASISTENCIA con cirugía de varices.
+MEDICACIÓN HABITUAL
+No toma medicación. Recientemente ha dejado de tomar OTROS_SUJETO_ASISTENCIA.

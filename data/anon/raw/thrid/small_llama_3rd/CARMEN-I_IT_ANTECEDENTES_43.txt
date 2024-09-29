@@ -1,0 +1,32 @@
+ Antecedentes personales:
+-No alergias medicamentosas conocidas.
+-Independiente para ABVD. FFSS conservadas.
+ANTECEDENTES:
+-Sobrepeso. Talla TALLA_SUJETO_ASISTENCIA y peso PESO_SUJETO_ASISTENCIA. IMC 29.
+-Exfumador. No consumo enólico.
+-Hipertensión arterial sistémica en tratamiento.
+-Dislipemia en prevención secundaria postIAM.
+-Diabetes mellitus tipo II. Insulinodependiente. HbA1c EDAD_SUJETO_ASISTENCIA en 2021. No proteinuria. Afectación renal y polineuropatía.
+-Hiperuricemia en tratamiento farmacológico.
+-Enfermedad renal crónica estadio EDAD_SUJETO_ASISTENCIA (FG 45).
+-AVC isquémico previo sin secuelas.
+-Psoriasis en tratamiento con OTROS_SUJETO_ASISTENCIA.
+-Nódulo pulmonar OTROS_SUJETO_ASISTENCIA en LSD. *TAC torácico 2021: Nódulo pulmonar de OTROS_SUJETO_ASISTENCIA en LSD, sin cambios.Se aconseja control en 12 meses.
+-Infección por COVID paucisintomática en FECHAS.
+-Hidrocele bilateral de gran tamaño.
+ANTECEDENTES CARDIOLÓGICOS:
+-FA permanente desde FECHAS anticoagulada.
+-MCD isquémica. DVI severa. CF III.
+*IAM anterior extenso FECHAS. Stents en DA y CD.
+*KT 2020: restenosis stent DA 70%.
+*SPECT 2019: infarto apical y sin evidencia de isquemia.
+*Portador de DAI-TRC St. Jude desde FECHAS. No respondedor.
+-Estudio pretrasplante cardíaco:
+*Grupo sanguíneo: ID_SUJETO_ASISTENCIA
+*CMV y Toxoplasma positivo.
+*CCD 12/2021: AD 14, PAP 37/18/26, PCP 18, GC 4.17, GTP 8, UW <2. *EcoTT 8/2022: VI 81, FEVI 15%, patrón restrictivo, IM I, VD normal, ITII.
+ANTECEDENTES PSIQUIÁTRICOS PERSONALES
+Niega antecedentes personales o familiares, no historia de ingresos ni intentos autolíticos.
+PSICOBIOGRAFÍA
+Natural de PAIS, convive con primo e sobrino de OTROS_SUJETO_ASISTENCIA. Tiene otras dos hijas. PROFESION de profesión, actualmente pensionista. Buen soporte familiar.
+Tratamiento actual: Insulina Lantus 0-0-48, Omeprazol, Sintrom, Digoxina, Furosemida 40 mg/24h, Eplerenona 25 mg/24h, Xigduo 5/1000 mg/12h, Pravastatina 40 mg/24h, Ezetimibe 10 mg/24h, OTROS_SUJETO_ASISTENCIA, Hidroferol, AcFol 5 mg/24h, Carvediolol 25 mg/12h, Entresto 97/103 mg/12h, Alopurinol 300 mg/24h, Pregabalina 25 mg/12h.

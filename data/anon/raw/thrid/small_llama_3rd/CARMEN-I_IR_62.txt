@@ -1,0 +1,43 @@
+ TC TORAX
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas ni antecedentes de interés.
+1.- NEUMONÍA POR SARS-CoV2. INSUFICIENCIA RESPIRATORIA AGUDA GRAVE **Inicio de síntomas : 15/10
+**Ingreso: 24/10 # UCI 25/10 : IOT + ECMO VV 25/10 # 11/11 TRAQUEOSTOMÍA
+- DECANULADO DE ECMO 14/11 # EX IOT 17/11 # DECANULADO 19/11. NPT hasta 17/11 # NE (SNG bien tolerada) .
+**Traslado a sala: 21/11
+**Tratamiento: Enoxaparina 40/24h; DXM 19/10-29/10; Remdesivir 20/10/15- 24/10. Tocilizumab dosis única 20/10/15
+1.1.- CAMBIOS ORGANIZATIVOS - no corticoterapia prologada (por sepsis??). MTP 40 mg iv (21/11)
+1.2.- NEUMONÍA ASOCIADA A VM POR Pseudomonas aeruginosa R a carbapenems + K. pneumoniae MultiS + Serratia marcescens.
+.- BAS
+**(26/10): 20.000 UFC/mL de Haemophilus influenzae S A Levofloxacino.
+Soca resistent a l'ampicil.lina i l'amoxicil.lina/ac. clavulànic per modificació de les PBPs.
+** (28/10): 200.000 UFC/mL de Pseudomonas aeruginosa multiS (incluido Q) ** (3/11): 400.000 UFC/mL de Pseudomonas aeruginosa ** 5/11: 100.000 UFC/mL de Pseudomonas aeruginosa. 100.000 UFC/mL de Serratia marcescens
+** 6/11: 400.000 UFC/mL de Serratia marcescens (S a Q, TMP-SMX, carbapenems, CAZ, AG y P/T) . 10.000 UFC/ml de Pseudomonas aeruginosa ** 8/11 400.000 UFC/mL de Pseudomonas aeruginosa. Resistència a imipenem per pèrdua de porina OprD. Recomanem no utilizar carbapenems (IMI R) ** 09/11: 10.000 UFC/ml de Klebsiella pneumoniae complex (TMP-SMX R, RESTO S). 100.000 UFC/mL de Pseudomonas aeruginosa
+**18/11: 400.000 UFC/mL de Pseudomonas aeruginosa
+5. BACTERIEMIA POR PSEUDOMONAS AERUGINOSA (R A CARBAPENEMS) .- HC (29/10): Pseudomonas aeruginosa multiS. 5/11 Y 11/11 HCX2: NEG .- HCX2 (17/11): Pseudomonas aeruginosa S a CAZ, P/T, ciprofloxacino y AG. Mero I, IMI R
+.- CATÉTER ARTERIAL 17/11: NEG
+.- HC DE CATÉTER SUBCLAVIO (18/11): Cultiu semiquantitatiu = o > a 15 UFC per segment de catèter (recompte de colònies significatiu) de Pseudomonas aeruginosa
+**ANTIBIOTERAPIA: Ceftri + Clinda (25/10-30/10). Meropenem + Levo (30/10) # 31/10: Tazocel + Cipro (pos Pae multiS en BAL) # que se mantiene por Pae en HC x2 # 7/11: + Linezolid (hasta el 13/11 que se sustituye por Teicoplanina) + Isavuconazol profiláctico # 10/11 : Se sustituye P/T por Meropenem (por aislamiento de Pae, Serratia y Klebsiella en BAL) # 11/11 se sustituye de nuevo carbapenem por P/T por antibiograma de Pae R a carbapenems #P/T + Teico hasta el 18/11. Por febrícula y aislamiento de Pae en HCx2 del 17/11 R a carbapenems: Amikacina + Ciprofloxacino el 19/11 # 20/11: CAZ + Ciprofloxacino
+RUEGO TC DE CONTROL PARA VALORAR EXTENSIÓN DE N. ORGANIZATIVA Y DESCARTAR COMPLICACIONES (CAVITACIONES ABSCESOS) PREVIO 25/10
+Intubación prolongada COVID
+
+protocolo:
+TC de tórax tras administración de contraste e.v. (adquisición de imágenes en fase arterial tardía).
+
+resultados:
+Se compara con estudios previos, última TC del 25/10/2015 y última RX del 19/11/2015
+Trayecto fistuloso de pared traqueal anterior a superficie cutánea de 8 mm de grosor máximo.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Presenta varios defectos de repleción endovasculares en las ramas de la arteria pulmonar del lóbulo superior derecho compatibles con TEP agudo.
+Afectación parenquimatosa en forma de opacidades consolidativas en segmentos posterobasales de ambos LLII asociada a dilatacioens bronquiales bibasales, bandas parenquimatosas y distorsión parenquimatosa predominantemente bibasal más evidentes que estudio previo.
+Las opacidades en vidrio deslustrado descritas en estudio previo han disminuido en su extensión. Persisten predominantemente en segmentos superiores de LLSS.
+Mínimo derrame pleural bilateral. No se observa derrame pericárdico.
+Múltiples imágenes hipodensas en ambos lóbulos hepáticos compatibles con quistes simples, sin cambios. Resto de estructuras ed hemiabdomen superior sin hallazgos patológicos.
+
+conclusiones:
+Hallazgos en relación a neumonía organizativa por COVID-19 en evolución, con cambios de "fibrosis-like".
+TEP agudo en LSD.
+
+descrip:
+HOSPITAL

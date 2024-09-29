@@ -1,0 +1,12 @@
+ *-*
+:: INFECCIONES::
+1. NEUMONIA BILATERAL POR SARS-COV-2
+*Inicio de sintomas: FECHAS
+*Diagnostico: TAR positivo FECHAS. PCR FECHAS (Ct FECHAS)
+*NO vacunado
+*Tratamiento: OTROS_SUJETO_ASISTENCIA (FECHAS)
+2. RASH MACULO-PAPULAR
+1. Buena evolución clínica, inicialmente OTROS_SUJETO_ASISTENCIA 92% aire ambiente, por lo que requiere OTROS_SUJETO_ASISTENCIA bajo flujo, con mejoría progresiva en las próximas horas hasta que se mantiene con buenas saturaciones sin necesidad del mismo (OTROS_SUJETO_ASISTENCIA 98%  aire ambiente) . Se moviliza sin sensación de disnea, sin hipoxemia asociada.
+Inicialmente con crepitantes bilaterales hasta campo medio, coincidiendo con radiología (infiltrados intersticiales periféricos bilaterales), mejoría progresiva.  Al momento del alta sin crepitantes a la auscultación.
+Analíticamente no ha presentado ascenso de parámetros inflamatorios, linfopenia inicial que recupera al momento del alta.
+2. Previo al alta presenta rash maculopapular distribuido en OTROS_SUJETO_ASISTENCIA, en OTROS_SUJETO_ASISTENCIA y en OTROS_SUJETO_ASISTENCIA, pruriginoso, el rash desaparece casi totalmente luego de FECHAS de tratamiento antihistamínico.

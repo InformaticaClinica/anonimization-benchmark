@@ -1,0 +1,20 @@
+ ANGIO TC PULMONAR
+
+clinica:
+paciente de EDAD_SUJETO_ASISTENCIA en la FECHAS. Sd OTROS_SUJETO_ASISTENCIA que requirió ingreso en UCI i cesarea. Contacto NUMERO_TELEFONO i confirmado caso NUMERO_TELEFONO positiva por fiebre hace 15 días. Consulta por disnea. SpO2 97%, FC 110.
+Rx tora noraml. comentado, agradeceremos descartar OTROS_SUJETO_ASISTENCIA
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+Angio-TC pulmonar urgente con energía dual.
+
+resultados:
+No se observan defectos de repleción en arterias pulmonares principales, ramas lobares, ni ramas segmentarias que sugieran un OTROS_SUJETO_ASISTENCIA. Tampoco se evidencia dilatación del tronco común de la arteria pulmonar. No se observan OTROS_SUJETO_ASISTENCIA ni OTROS_SUJETO_ASISTENCIA de tamaño valorable.
+Se visualizan algunas ténues opacidades redondeadas en vidrio deslustrado con disposición periférica en ambos lóbulos inferiores, que si bien son inespecíficas, no permiten descartar que se trate de afectación pulmonar por OTROS_SUJETO_ASISTENCIA. Resto del parénquima pulmonar sin otros hallazgos. No se observa OTROS_SUJETO_ASISTENCIA ni OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+No se observa OTROS_SUJETO_ASISTENCIA.
+Muy ténues opacidades redondeadas en vidrio deslustrado con distribución periférica en ambos lóbulos inferiores, que dado el contexto podrían corresponder a afectación pulmonar leve por OTROS_SUJETO_ASISTENCIA
+
+descrip:
+ANGIO TC PULMONAR

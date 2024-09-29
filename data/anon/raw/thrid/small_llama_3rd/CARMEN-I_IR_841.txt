@@ -1,0 +1,31 @@
+ ANGIO TC PULMONAR
+
+clinica:
+SEXO_SUJETO_ASISTENCIA 70 años, antecedente de OTROS_SUJETO_ASISTENCIA en INSTITUCION hace tres semanas Infección por FAMILIARES_SUJETO_ASISTENCIA e ingreso en HOSPITAL desde hace 2 semanas OTROS_SUJETO_ASISTENCIA
+Evolución desfavorable a nivel respiratorio desde hace 3 días OTROS_SUJETO_ASISTENCIA
+Descartada sobreinfección respiratoria
+Anticoulada por PROFESION
+Duda de presencia de OTROS_SUJETO_ASISTENCIA vs OTROS_SUJETO_ASISTENCIA en paciente inmunodeprimida Solicitamos TAC de control
+Gracias
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante PROFESION.
+
+resultados:
+Exploración poco valorable por artefactos respiratorios del paciente.
+Trqueostomía.Tubo endotraqueal con extremo a 30 mm de OTROS_SUJETO_ASISTENCIA.
+Sonda nasogástrica con extremo distal en OTROS_SUJETO_ASISTENCIA.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de OTROS_SUJETO_ASISTENCIA.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Adenopatía paratraqueal izquierdo baja de 10 mm. No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural. Mínima cantidad de derrame pleural anterior.
+Areas de vidrio deslustrado de distribución parcheada subpleural y peribroncovascular bilateral en relación a neumonía conocida por FAMILIARES_SUJETO_ASISTENCIA-
+En segmentos posterobasales se observan focos consolidativos con broncograma aéreo, en probable relación con evoución de la neumonía.
+
+conclusiones:
+-No se observan signos de OTROS_SUJETO_ASISTENCIA.
+-Signos de neumonía bilateral por infección por FAMILIARES_SUJETO_ASISTENCIA conocida.
+
+descrip:
+ANGIO TC PULMONAR

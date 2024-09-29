@@ -1,0 +1,19 @@
+ TC CEREBRAL
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA ingresada en INSTITUCION por bronquitis aguda. Inicio de OTROS_SUJETO_ASISTENCIA hace 6 meses, posible OTROS_SUJETO_ASISTENCIA con OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Solicitamos TC para completar estudio. Muchas gracias.
+DETERIORO COGNITIVO
+
+resultados:
+OTROS_SUJETO_ASISTENCIA de atrofia bifrontal.
+OTROS_SUJETO_ASISTENCIA de la sustancia blanca periventricular.
+Estructuras de la línea media centradas.
+Cisternas basales libres.
+Sistema ventricular de tamaño normal.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA de atrofia bifrontal.
+OTROS_SUJETO_ASISTENCIA de la sustancia blanca periventricular.
+
+descrip:
+TC CEREBRAL

@@ -1,0 +1,19 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Mujer EDAD_SUJETO_ASISTENCIA sin antecedentes en día FECHAS de síntomatología por neumonía OTROS_SUJETO_ASISTENCIA que persiste con fiebre, elevación de reactantes de fase aguda y requerimiento de oxigenoterapia. Agradecería descartar neumonía organizada, muchas gracias
+Infecció per coronavirus no especificada
+
+protocolo:
+Se realiza estudio torácico desde vértices pulmonares hasta áreas suprarrenales empleando técnica  TC espiral.
+
+resultados:
+Múltiples adenopatías mediastínicas de OTROS_SUJETO_ASISTENCIA de diámetro corto máximo a nivel subcatinal. de aspecto recativo.
+No se observa derrame pleural ni pericárdico.
+Bandas consolidativas subpleurales en LLII y focos parcheados en vidrio deslustrado compatible con neumonia OTROS_SUJETO_ASISTENCIA con mínimos cambios organizativos.
+
+conclusiones:
+Neumonia OTROS_SUJETO_ASISTENCIA con mínimos cambios organizativos.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

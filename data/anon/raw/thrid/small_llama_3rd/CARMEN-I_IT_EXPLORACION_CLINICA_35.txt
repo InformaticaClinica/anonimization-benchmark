@@ -1,0 +1,12 @@
+ 20/12/2019-15:09:00: Frecuencia respiratoria (rpm) 18. 20/12/2019-15:10:00 : Ta axilar (oC) 36. 20/12/2019-15:11:00 : PAS (mm Hg) 120, PAD (mm Hg) 60. 20/12/2019-16:30:00 : Pulsioximetría (%) 89. 21/12/2019-23:00:00 : FiO2 (%) 35. 24/12/2019-01:00:00 : Glicemia capilar (mg/dl) 109. 24/12/2019-04:30:00 : Peso (Kg) 70, Talla (cm) 170.
+EXAMEN FISICO AL INGRESO:
+Paciente OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, sin OTROS_SUJETO_ASISTENCIA ni OTROS_SUJETO_ASISTENCIA distal, OTROS_SUJETO_ASISTENCIA, afebril, OTROS_SUJETO_ASISTENCIA en basal, con respiración OTROS_SUJETO_ASISTENCIA, mucosas hidratadas. Sin alteraciones en piel ni mucosas.
+Ruidos OTROS_SUJETO_ASISTENCIA arrítmicos OTROS_SUJETO_ASISTENCIA sin soplos. Pulsos perifericos palpables. Edemas OTROS_SUJETO_ASISTENCIA hasta OTROS_SUJETO_ASISTENCIA.
+Campos OTROS_SUJETO_ASISTENCIA con murmullo vesicular hipofonético en todo OTROS_SUJETO_ASISTENCIA, sin ruidos agregados.
+Abdomen OTROS_SUJETO_ASISTENCIA, depresible, no doloroso a la palpación, con OTROS_SUJETO_ASISTENCIA.
+No signos de OTROS_SUJETO_ASISTENCIA. Perisltasis conservada.
+**AL ALTA DE INSTITUCION:
+CVs: Apirético. TA 119/78/60 FC 92lpm spO2 96% con CNAF 60/60% Eupneico en reposo, no al habla.
+AC: rítmica, sin soplos ni ruidos sobreañadidos
+AP: abolición de mvc en campo pulmonar derecho. Crepitantes en campo pulmonar izquierdo.
+MMII sin edemas ni signos de TVP.

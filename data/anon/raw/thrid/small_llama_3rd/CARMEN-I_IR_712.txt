@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX Tórax Portatil
+
+conclusiones:
+Persisten las consolidaciones presentes en la RX previa del FECHAS, observandose una progresion en la localizada en el TERRITORIO.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

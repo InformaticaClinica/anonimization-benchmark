@@ -1,0 +1,18 @@
+ En seguimiento por FAMILIARES_SUJETO_ASISTENCIA con progresión de EPId en FECHAS en forma de OTROS_SUJETO_ASISTENCIA para lo cual estaba en tratamiento con OTROS_SUJETO_ASISTENCIA a dosis plenas que ingresa por INSTITUCION, progresión de afectación pulmonar intersticial en placa y PCR COVID +.
+Solicitamos valoración con OTROS_SUJETO_ASISTENCIA para definir mejor la afectación pulmonar. Muchas gracias
+
+protocolo:
+OTROS_SUJETO_ASISTENCIA sin administración de contraste e.v.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad (OTROS_SUJETO_ASISTENCIA). Aurícula izquierda dilatada.
+Dilatación esofágica. No se observa derrame pleural ni pericárdico.
+Parénquima pulmonar basalmente patológico con presencia de OTROS_SUJETO_ASISTENCIA, engrosamiento de septos interlobulillares, reticulación con presencia de OTROS_SUJETO_ASISTENCIA y zonas sospechosas de OTROS_SUJETO_ASISTENCIA, todo ello en relación a su FAMILIARES_SUJETO_ASISTENCIA con FAMILIARES_SUJETO_ASISTENCIA.
+En comparación con el previo de FECHAS existe un ténue aumento del componente de OTROS_SUJETO_ASISTENCIA. Es difícil de establecer si esto se debe a un componente de FAMILIARES_SUJETO_ASISTENCIA o a progresión de su proceso de base, a evaluar una vez resuelto el episodio agudo.
+Moderada OTROS_SUJETO_ASISTENCIA que contiene a OTROS_SUJETO_ASISTENCIA. Pequeñas OTROS_SUJETO_ASISTENCIA bilaterales. Puente OTROS_SUJETO_ASISTENCIA en tercio medio de OTROS_SUJETO_ASISTENCIA. Cortes de OTROS_SUJETO_ASISTENCIA sin otros hallazgos de interés.
+
+conclusiones:
+Parénquima pulmonar con hallazgos coherentes con FAMILIARES_SUJETO_ASISTENCIA con FAMILIARES_SUJETO_ASISTENCIA conocida. Ténue aumento del componente de OTROS_SUJETO_ASISTENCIA. Es difícil de establecer si esto se debe a un componente de FAMILIARES_SUJETO_ASISTENCIA sobreañadido o a progresión de su proceso de base, a evaluar una vez resuelto el episodio agudo.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

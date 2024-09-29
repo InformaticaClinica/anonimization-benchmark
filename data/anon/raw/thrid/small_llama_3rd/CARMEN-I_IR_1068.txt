@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+neumonia bilateral por sospecha de OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+RX TÓRAX AP
+
+conclusiones:
+Opacidades alveolares bilaterales de predominio periférico sugestivo de afectación pulmonar por OTROS_SUJETO_ASISTENCIA sin cambios significativos  con respecto a control previo de FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

@@ -1,0 +1,28 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Mujer de [**61 años**] con dto de EMTC y EPID (NINE) que ingresa por progresión de infiltrados pulmonares, además de fiebre y postración del estado general con reciente PCR para SAR-COV2 el [**09/5**] positiva. Se solicita TCAR para caracterización mejor de los infiltrados pulmonares.
+Muchas gracias
+COVID 19
+
+protocolo:
+Estudio TC torácico de alta resolución.
+
+resultados:
+Se revisan estudios previos; último TC del [**24/12/2014**].
+Calcificación grosera en el lóbulo tiroideo izquierdo.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares.
+Pequeños ganglios paratraqueales bajos bilaterales y prevasculares, de aspecto reactivo. Discretas calcificaciones coronarias. Dilatación esofágica difusa, sin cambios.
+Ausencia de derrame pleural. Discreto derrame pericárdico.
+Afectación parenquimatosa pulmonar bilateral, con opacidades parcheadas en vidrio deslustrado y engrosamientos septales, con patrón en empedrado, de predominio periférico en los lóbulos superiores, y con cambios organizativos en el lóbulo inferior derecho; hallazgos en relación con neumonía bilateral por [**COVID-19**].
+Discretas bronquiectasias cilíndricas difusas.
+En las regiones posterobasales de los lóbulos inferiores, se visualizan unas discretas opacidades en vidrio deslutrado, de predominio izquierdo, asociadas a las opacidades reticulares subpleurales bibasales ya conocidas. Los hallazgos podrían estar en relación con exacerbación aguda de la neumopatía intersticial de base. A valorar clínicamente.
+Discretos cambios degenerativos en columna torácica.
+En hemiabdomen superior incluido, se visualiza engrosamiento de ambas gl suprarrenales, de aspecto hiperplásico. Lesión quística hepática en lóbulo izquierdo, sin cambios.
+
+conclusiones:
+Neumonía bilateral por [**COVID-19**] de extensión moderada, con cambios organizativos en el lóbulo inferior derecho.
+Addendum: En las regiones posterobasales de los lóbulos inferiores, se visualizan unas discretas opacidades en vidrio deslutrado, de predominio izquierdo, asociadas a las opacidades reticulares subpleurales bibasales ya conocidas. Los hallazgos podrían estar en relación con exacerbación aguda de la neumopatía intersticial de base. A valorar clínicamente.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

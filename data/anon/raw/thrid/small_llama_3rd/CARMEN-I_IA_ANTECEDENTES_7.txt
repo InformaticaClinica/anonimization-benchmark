@@ -1,0 +1,10 @@
+ Antecedentes personales:
+Mujer de EDAD_SUJETO_ASISTENCIA años, natural de PAIS, vino a España hace unos 15 años. ALERGIA A OTROS_SUJETO_ASISTENCIA. Informe Alergología (09/2019): Intolerancia a aspirina y resto de AINE incluso paracetamol, con clínica de urticaria/angioedema (NIUA). Alergia alimentaria a OTROS_SUJETO_ASISTENCIA (gamba, langostino, etc). Conclusiones: Evitar la ingesta de OTROS_SUJETO_ASISTENCIA.
+Evitar aspirina y resto de inhibidores de la COX-1, incluso el OTROS_SUJETO_ASISTENCIA. Como analgesicos alternativos puede tomar solo OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Puede tomar opiáceos con los mismos efectos adversos que la población general (mala tolerancia a OTROS_SUJETO_ASISTENCIA). Sin hábitos tóxicos. No viajes recientes, no transfusiones. Vive en domicilio con su OTROS_SUJETO_ASISTENCIA y su hijo de EDAD_SUJETO_ASISTENCIA.
+
+* ANTECEDENTES PATOLÓGICOS:
+1.- Síndrome vertiginoso y acúfenos en estudio por ORL.
+2.- OTROS_SUJETO_ASISTENCIA. De 5 años de evolución, en seguimiento en CAP y con tratamiento farmacológico iniciado en 12/2020 aproximadamente.
+* ANTECEDENTES QUIRÚRGICOS: Ligadura de trompas por embarazo ectópico tubárico hace 20 años en INSTITUCION y 2011 Trompas para repación de ligadura.
+AGO: FUM: 23/07/13 RM 8/28 PARA 2010 Ambos OTROS_SUJETO_ASISTENCIA fallecidos al año, uno de OTROS_SUJETO_ASISTENCIA y el 2º a los 8 meses desconoce causa.
+* TRATAMIENTO FARMACOLÓGICO HABITUAL (según Registro de farmacia 21/01/20): OTROS_SUJETO_ASISTENCIA 2.5mg 1 comp / 24h, OTROS_SUJETO_ASISTENCIA 1mg 1 comp /24h, OTROS_SUJETO_ASISTENCIA 50mg 1 comp / 24h, OTROS_SUJETO_ASISTENCIA 266mcg 1 càpsula / 1mes, OTROS_SUJETO_ASISTENCIA 10mg 1 comp / 24h.

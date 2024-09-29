@@ -1,0 +1,23 @@
+ En seguimiento por Hematología [**56 años**], asmático, ingresado en [**AVI**] por neumonía bilateral por COVID19, IOT 03/4, presenta empeoramiento respiratorio con requerimientos alto de oxigenoterapia y febrícula y aumento progresivo del D-dimero, sin alteración muy llamativa en Rx de tórax.
+Se solitica AngioTC torax para descartar TEP, NOC o sobreinfección bacteriana.
+
+protocolo:
+ANGIO TC PULMONAR
+
+resultados:
+No se visualizan defectos de repleción intraluminal sugestivas de TEP en las arterias pulmonares principales. Resto del árbol vascular distal poco valorable por escasa opacificación. No hay signos aparentes de sobrecarga derecha (V.suprahepáticas poco valorables). Diámetro del tronco pulmonar normal.
+Parénquima pulmonar con múltiples opacidades en vidrio deslustrado bilaterales difusas de predominio en ambos lóbulos superiores y de distribución subpleural, con signo del halo invertido. Los hallazgos son compatibles con infección por COVID19 con signos de neumonía organizativa. Tractos fibrosos pleuroparenquimatosos con colapso de los segmentos posterobasales de ambos hemitórax de predominio izquierdo, con engrosamientos peribronquiales y tapones mucosos endoluminales.
+Adenopatía subcarinal de [**13 mm**]. No se visualizan otras adenopatías mediastínicas, hiliares ni axilares de tamaño patológico.
+Mínimo derrame pleural derecho. Sin líquido pericárdico.
+Focos de ateromatosis aórtica calcificada. CVC derecho con extremo distal en VCS. IOT a [**4 cm**] de carina.
+Estructuras mediastínicas centradas.
+En los cortes de hemiabdomen superior se se visualiza sonda gástrica con extremo distal en región antropilórica.
+
+conclusiones:
+Sin signos de TEP en las arterias pulmonares principales. Resto del árbol vascular distal poco valorable por escasa opacificación.
+Parénquima pulmonar con múltiples opacidades en vidrio deslustrado bilaterales difusas subpleurales con halo invertido. Los hallazgos son compatibles con infección por COVID19 con signos de neumonía organizativa. Tractos fibrosos pleuroparenquimatosos posterobasales con engrosamientos peribronquiales y tapones mucosos endoluminales.
+Mínimo derrame pleural derecho.
+CVC derecho con extremo distal en VCS. IOT a [**4 cm**] de carina.
+
+descrip:
+ANGIO TC PULMONAR

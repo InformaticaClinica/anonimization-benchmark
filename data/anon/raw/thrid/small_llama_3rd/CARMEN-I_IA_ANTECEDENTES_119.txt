@@ -1,0 +1,5 @@
+ Hombre de EDAD_SUJETO_ASISTENCIA originario de PAIS (cerca de TERRITORIO) sin viajes recientes ni contactos positivos para coronavirus conocidos.
+Hijo enfermo, etiología no conocida.
+No antecedentes patológicos de interés (traumatismo en OTROS_SUJETO_ASISTENCIA que requirió intervención), OTROS_SUJETO_ASISTENCIA
+NO OTROS_SUJETO_ASISTENCIA
+No OTROS_SUJETO_ASISTENCIA

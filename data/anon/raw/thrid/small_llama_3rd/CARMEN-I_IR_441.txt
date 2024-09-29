@@ -1,0 +1,27 @@
+ En seguimiento por Hematología NOMBRE_PERSONAL_SANITARIO de EDAD_SUJETO_ASISTENCIA de edad con AP de CDI OTROS_SUJETO_ASISTENCIA (tto. con RDT pulmonar y QT 1a línea) con ingreso prolongado por neumonía bilat.
+por Covid-19 con NO.
+Presentó i.resp. grave con requerimiento de LAF 90/60 por tiempo prolongado y TC en ese momento (FECHAS) con cambios organizativos de aspecto fibrótico, que se orientaron como en contetxo de NO fibrótica + secuelas RDT.
+Dada la gravedad en ese momento y los hallazgos radiológicos se asumió irreversibilidad del cuadro. No obstante la paciente presenta lenta pero progresiva mejoría pudiendo descender hasta LN2l con mejoría del esatdo general, tolerando sedestación.
+De cara a valorar estado actual del parenquima pulmonar, pronóstico del mismo y las implicaciones que etse pudiera tener de cara al tto. de su neoplasia, interesa nuevo TC de valoración.
+Neumonía bilateral grave por Covid-19
+
+protocolo:
+TC de tórax con contraste iv. en fase arterial.
+
+resultados:
+Se compara con estudios previos, últimos angio-TC pulmonar de 12/05/2012 y 1/05/2012.
+Algunos ganglios paratraqueales bajos infracentimétricos, estables. No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+No se observan signos de TEP. Tronco de la arteria pulmonar de calibre normal.
+No se observa derrame pleural ni pericárdico
+Nódulo conocido en UCI de la mama derecha, estable.
+Comparativamente con el TC previo se observa leve aumento de los focos consolidativos peribroncovasculares centrales asociado a broquiectasias con distorsión bronquial y a bandas parenquimatosas, de localización paravertebral y paramediastínica, con pérdida de volumen pulmonar.
+Se observa una leve disminución de las opacidades en vidrio deslustrado de distribución periférica asociado a bandas subpleurales. Los hallazgos descritos son sugestivos de cambios post-RT por la localización paravertebral de los cambios organizativos descrito y por la evolución en los TC desde FECHAS, asociado a cambios periféricos que sugieren probable afectación leve y residual por COVID-19 en evolución.
+Destaca el aumento de una consolidación/atelectasia en el segmento apicoposterior del HOSPITAL de localización yuxtacisural, identificándose una pequeña cavidad en el seno de la consolidación, así como la aparición de otro foco consolidativo nodular con pequeña cavitación en la HOSPITAL y de foco hipodenso en el segmento basal posterior del HOSPITAL. Estos hallazgos sugieren descartar sobreinfección (hongos), a valorar en el contexto de la paciente.
+Afectación ósea metastásica difusa. Fracturas costales patológicas bilaterales. Aplastamientos de cuerpos vertebrales dorsales, todo esto estable respecto a TC previo.
+
+conclusiones:
+Afectación parenquimatosa de las características descritas que sugiere leve aumento de los cambios organizativos post-RT por la localización paravertebral y la evolución en los TC desde 3/194 asociado a probable afectación leve y residual de predominio periférica por COVID-19.
+Destaca la aparición de tres pequeñas lesiones cavitadas, en el seno de consolidación focal en el HOSPITAL, en la HOSPITAL y HOSPITAL. Estos hallazgos sugieren descartar sobreinfección (hongos), a valorar en el contexto clínico de la paciente.
+
+descrip:
+TC TORAX

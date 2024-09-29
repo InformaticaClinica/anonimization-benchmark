@@ -1,0 +1,31 @@
+ ANGIO TC PULMONAR
+
+clinica:
+[**Mujer**] 70 [**años**], antecedente de [**mieloma**] en [**tto QT**] hace tres semanas Infección por [**COVID**] e ingreso en [**UCI**] desde hace 2 semanas [**Traqueostomizada**]
+Evolución desfavorable a nivel respiratorio desde hace 3 días [**Hipoxemia refractaria**]
+Descartada sobreinfección respiratoria
+Anticoulada por [**FA**]
+Duda de presencia de [**TEP**] vs [**NOC**] en paciente inmunodeprimida Solicitamos TAC de control
+Gracias
+[**COVID**]
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante [**TCMD**].
+
+resultados:
+Exploración poco valorable por artefactos respiratorios del paciente.
+[**Trqueostomía**].Tubo endotraqueal con extremo a 30 mm de [**carina**].
+Sonda nasogástrica con extremo distal en [**duodeno**].
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de [**TEP**].
+Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Adenopatía paratraqueal izquierdo baja de 10 mm. No se observan adenopatías axilares de tamaño patológico.
+No se observa [**derrame pleural**]. Mínima cantidad de [**derrame pleural**] anterior.
+Areas de vidrio deslustrado de distribución parcheada subpleural y peribroncovascular bilateral en relación a neumonía conocida por [**COVID-19**]-
+En segmentos posterobasales se observan focos consolidativos con broncograma aéreo, en probable relación con evoución de la neumonía.
+
+conclusiones:
+-No se observan signos de [**TEP**].
+-Signos de neumonía bilateral por infección por [**COVID-19**] conocida.
+
+descrip:
+[**ANGIO TC PULMONAR**]

@@ -1,0 +1,24 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Hombre de [**65 años**], antecedente de [**EPOC**] con [**O2 domiciliario**]. Ingresado por [**neumonía bilateral por covid-19**], que requirió ingreso en [**UCI**] y tratamiento con [**LAF**]. Hoy con aumento de los requerimientos de [**O2**]. Analítica con aumento de parámetros inflamatorios y dímero-d de [**12400**], asociado a emperoamiento de la función renal. Solicitamos angioTC para descartar [**TEP**]. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+TC TÓRAX URGENTE: adquisición tras la administración de contraste ev mediante energía dual. Se compara con TC previa de hace [**1 semana**] ([**18/11/2025**]).
+
+resultados:
+No se observan defectos de replección intraarterial en árbol pulmonar que sugieran [**TEP**].
+Aparición de imagen nodular paraesofágica derecha alta (tercio superior), discretamente heterogénea, de [**2.5 x 9 cm**] ([**TRA x LONG**]).
+También se observa la aparición de una imagen de características similares y con semiología extrapleural, a nivel lateral a los vasos mamarios internos izquierdos (en hemitorax superior), de [**3.5  x 5 cm**] ([**TRA x LONG**]). Ésta presenta pequeñas burbujas de aire en su interior, y pequeñas burbujas de enfisema subcutáneo en región pectoral anterior (manipulación previa?).
+Ambas imágenes, por cronología y semiología radiológica, podrían sugerir [**hematomas**] (mediastínico posterior y extrapleural anterior izquierdo).
+No se observan [**adenopatías axilares**]. Pequeños ganglios mediastínicos de tamaño no significativo. [**Adenopatías subcarinales**]. Calcificaciones coronarias y raiz aórtica. Dilatación de aorta ascendente de [**41 mm**].
+Aparición de moderado derrame pleural bilateral. No se evidencia derrame pericárdico.
+Pequeñas atelectasias laminares en ambos LLII. Enfisema centrolobulillar confluente difuso.
+Discreto aumento de la extensión de las opacidades en vidrio deslustrado y focos consolidativos de distribución difusa y heterogénea (ya que afectan principalmente a parenquima no enfisematoso) compatible con [**neumonia COVID**] en evolución sin imágenes de organización.
+
+conclusiones:
+Se han comentado los hallazgos con radiología torácica (Dr. [**Cuello**]) y los hallazgos sugieren [**hematomas**] mediastínico retrotraqueal y extrapleural anterior izquierdo.
+
+descrip:
+ANGIO TC PULMONAR

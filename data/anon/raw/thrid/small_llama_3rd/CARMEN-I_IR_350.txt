@@ -1,0 +1,22 @@
+ En seguimiento por OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA en segunda línea y OTROS_SUJETO_ASISTENCIA. Ingresado en FECHAS por OTROS_SUJETO_ASISTENCIA. Ingresado por OTROS_SUJETO_ASISTENCIA. Se solicita INSTITUCION para descartar progresion de NOC, sobreifnección, descartar infección inmunodeprimido (pneumocistis, virus, hongos).
+
+protocolo:
+INSTITUCION: adquisición sin contraste ev.
+
+resultados:
+Se compara con INSTITUCION del FECHAS y del FECHAS.
+No se observan adenopatías axilares o mediastínicas de tamaño sospechoso.
+No se evidencia derrame pleural ni pericárdico.
+Abundante enfisema centrolobulillar y paraseptal difuso.
+Disminución de la extensión de los cambios por OTROS_SUJETO_ASISTENCIA, sobretodo a expensas de las consolidaciones. Persisten los engrosamientos bronquiales difusos, las bronquiectasias y bronquioloectasias previas y la desestructuración de la arquitectura del parénquima pulmonar.
+Escasa ocupación endotraqueal de aspecto mucoso.
+Nefrolitiasis no obstructiva puntiforme en INSTITUCION.
+Cambios degenerativos en la columna torácica.
+Hígado de contornos irregulares en relación a OTROS_SUJETO_ASISTENCIA.
+Cambios post-RF en INSTITUCION. Cambios postquirúrgicos en INSTITUCION.
+
+conclusiones:
+Disminución de la extensión de los cambios por OTROS_SUJETO_ASISTENCIA, persistiendo bronquiolectasias y la desestructuración de la arquitectura del parénquima pulmonar.
+
+descrip:
+TC TORAX

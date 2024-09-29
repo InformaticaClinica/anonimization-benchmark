@@ -1,0 +1,23 @@
+ ECOGRAFIA ABDOMINAL Y DOPPLER
+
+clinica:
+Noi de EDAD_SUJETO_ASISTENCIA que ingresa a la UCI per una OTROS_SUJETO_ASISTENCIA.
+Covid OTROS_SUJETO_ASISTENCIA. Solicitem eco per valorar permeabilita vascular. Gracies
+HEPATITIS
+
+protocolo:
+ECO BASAL ABDOMEN URGENT
+
+conclusiones:
+Fetge de mida i ecostructura normal, sense lesions focals evidents.
+Vena porta permeable, de diàmetre normal i fulx hepatopetal.
+Venes suprahepàtiques i vena cava inferior permeables.
+Melsa homogènia de mida normal.
+Vesícula biliar de mida normal, alitiàsica, de parets discretament discretmament engruixides (canvis probablement reactius) . Via biliar no dilatada.
+Pàncrees de morfologia i ecogenicitat normal.
+Ronyons de mida normal, amb cortical d'ecogenicitat i gruix conservats.
+No dilatació de la via excretora.
+No líquid lliure intraabdominal.
+
+descrip:
+ECOGRAFIA ABDOMINAL Y DOPPLER

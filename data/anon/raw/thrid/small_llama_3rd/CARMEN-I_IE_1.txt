@@ -1,0 +1,31 @@
+ En seguimiento por OTROS_SUJETO_ASISTENCIA por E.coli y S.gallolyticus multiS (resuelta)
+## CAUSA
+
+Insuficiencia respiratoria secundaria a neumonia bilateral por OTROS_SUJETO_ASISTENCIA.
+ 
+
+
+## OBSER
+
+a) NEUMONÍA BILATERAL POR OTROS_SUJETO_ASISTENCIA
+b) OTROS_SUJETO_ASISTENCIA por E.coli y S.gallolyticus multiS (resuelta)
+c) EPISODIO DE FIBRILACION AURICULAR RÁPIDA (resuelto)
+d) BACTERIEMIA por S.epidermidis multiR (20/1,27/1)
+e) ANEMIZACIÓN PROGRESIVA (transfusión 1 CCHH)
+f) ÚLCERA EN TOBILLO GRADO I
+.
+2. CRONOLOGÍA:
+Fecha de inicio de los síntomas: 01.04.2021 (aprox) Fecha de ingreso hospital: 11.01.2021
+Fehca de ingreso Q930: 15.01.2021
+Fecha de ingreso T671: 28.01.2021
+Fecha de frotis positivo (primera PCR): no tiene
+Fecha de frotis positivo (2a PCR): -
+Fecha de inicio tratamiento: 11.01.2021
+.
+3. TRATAMIENTO recibido: piper/tazo (1d), ceftriaxona (5d), azitromicina (6d), amikacina (1d), teicoplanina (1d), hidroxicloroquina (7d), MPDN 70 mg/día (2d). Dexametasona 20 mg/día (4d) --> 10 (6d).
+Paciente de EDAD_SUJETO_ASISTENCIA, ingresada en Q930 por OTROS_SUJETO_ASISTENCIA por empeoramiento clínico y radiológico (OTROS_SUJETO_ASISTENCIA). Se ha realizado tratamiento COVID según protocolo (hidroxicloroquina y azitromicina, ceftriaxona + teicoplanina). Se inicia tratamiento con baricitinib 4mg/24h durante cuatro días. Pese a ello, cursa con necesidad de mayor oxigenoterapia con requerimiento de LAF FiO2 60% 60Lts y aparición de hipotensión arterial con requerimientos de drogas vasoactivas. Se realiza TAC de tórax (28/01) en el cual se observa mayor consolidación de infiltrados, pero sin signos de neumonía organizativa. Por persistencia de Dímero D elevado se mantiene con enoxaparina ampliada 1mg/kg/día.
+Durante su ingreso en R564 además por piuria se solicita urocultivo, se admnistra dosis única de amikacina. Se recibe resultados de urocultivo positivo a E.Coli + S.gallolyticus multiS por lo que incia tazocel y posteriormente se desescala a ceftriaxona. Se ha solicitado hemocultivos el 20/1 con aislamiento de Staphylococcus epidermidis multiR sin realizar tratamiento antibiótico para esto.
+Ha presentado FA rápida el 17/01, para lo que se administra dosis única de digoxina 0'15mg iv con respuesta escasa y bolus de amiodarona de 300mg el 18/01 con reversión a RS.
+Se traslada a Intermedios para continuar evolución. A su llegada con LNAF 50/50.Se reciben resultados de Hemocultivos 27.01.2021: se observan Staphylococcus epidermidis pendiente antibiograma. Se inicia ceftarolina + daptomicina de acuerdo a sensibilidad del HC 19/4.
+En la T671 la paciente presenta hipoxemia grave mantenida, sin mejoría.
+Evoluciona desfavorablemente a pesar del tratamiento iniciado, siendo éxitus el dia 2/5/21 a las 6:50 am.

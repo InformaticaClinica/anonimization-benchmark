@@ -1,0 +1,22 @@
+ RM HOSPITAL PROCESO OCUPANTE DE ESPACIO (OTROS_SUJETO_ASISTENCIA,..)
+
+clinica:
+Postop. meningioma ala esfenoidal izq. Gracias
+Neoplàsia benigna de meninges cerebrales
+
+protocolo:
+RM craneal de 3T mediante secuencias T1, T2, FLAIR, SWI, difusión y T1 gadolinio.
+
+resultados:
+Comparativa: RM previa FECHAS
+Craneotomía pterional izquierda con colección serohemática epidural subyacente y cavidad de resección perisilviana con restos hemáticos y material de hemostasia.
+Pequeño resto tumoral en vertiente izquierda de cisterna supraselar, en contacto con carótida terminal izquierda, de 15 x 10 x 8 mm AP, T y CC respectivos.
+Pequeñas áreas isquémicas en los márgenes anterior (frontobasal) y potero-superior (lenticular) de la cavidad.
+Discreto efecto masa sobre la línea media.
+
+conclusiones:
+Cambios posquirúrgicos, con pequeño resto tumoral supraselar izquierdo.
+Pequeñas áreas isquémicas frontobasal y lenticular en los márgenes de la cavidad.
+
+descrip:
+RM HOSPITAL PROCESO OCUPANTE DE ESPACIO (OTROS_SUJETO_ASISTENCIA,..)

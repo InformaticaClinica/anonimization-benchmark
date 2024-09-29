@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+LINFOMA DEL MANTO EN RC
+
+protocolo:
+RX DE TORAX PORTATIL
+
+conclusiones:
+Opacidades en campo medio del pulmon izquierdo y en la porcion basal y paracardiaca del pulmon derecho, sin cambios significativos respecto a RX previa del FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

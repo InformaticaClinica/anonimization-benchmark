@@ -1,0 +1,18 @@
+ RX OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX anteroposterior de tòrax
+
+resultados:
+L´exploració es compara amb la realitzada el FECHAS.
+Milloria radiològica en quan a extensió i nombre d´opacitats respecte d'estudi previ.
+Aparició d´imatges lineals perifèriques a pulmó dret (superior) i a pulmó esquerre (inferior) compatibles amb aparició de patrò intersticial.
+
+conclusiones:
+Milloria radiològica franca.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA

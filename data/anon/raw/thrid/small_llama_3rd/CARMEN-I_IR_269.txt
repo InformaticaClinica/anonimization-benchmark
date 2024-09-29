@@ -1,0 +1,11 @@
+ RX  PORTATIL  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+POSIBLE FAMILIARES_SUJETO_ASISTENCIA
+
+conclusiones:
+Silueta cardíaca aumentada de tamaño.
+Tenues opacidades en pulmón izquierdo de predominio periférico sugestivo de afectación pulmonar por FAMILIARES_SUJETO_ASISTENCIA sin cambios significativos con respecto a control previo  FECHAS.
+
+descrip:
+RX  PORTATIL  OTROS_SUJETO_ASISTENCIA

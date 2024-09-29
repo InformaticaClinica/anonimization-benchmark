@@ -1,0 +1,6 @@
+ Paciente seguido en HOSPITAL por transplante renal. Que consulto el 20/06/2024 al HOSPITAL por malestar general, astenia, artromialgias y tos desde el día 22-14/06/2024, que se acompaña progresivamente de sensación disneica.
+Desde el 14/07/2024, el paciente presenta un OTROS_SUJETO_ASISTENCIA para OTROS_SUJETO_ASISTENCIA.
+Se orienta como insuficiencia respiratoria en relación con infección por OTROS_SUJETO_ASISTENCIA, con altos requerimientos de O2 (FiO2 entre 50-60 % la mayor parte del tiempo, salvo durante unas horas por la madrugada en que requirió OTROS_SUJETO_ASISTENCIA). Se decide iniciar tratamiento con OTROS_SUJETO_ASISTENCIA 1a dosis el 20/06/2024 a las 19 hs y OTROS_SUJETO_ASISTENCIA 1a.
+Con empeoramiento de la función renal, durante el ingreso. Por lo que se suspendió OTROS_SUJETO_ASISTENCIA y se inicio OTROS_SUJETO_ASISTENCIA por cifras tensionales elevadas (168/97).
+Y descompensación de la diabetes con hiperglucemia simple, requiriendo perfusión de insulina tras no obtener control de glucemia con tratamiento subcutáneo.
+En el momento del traslado máscara al 40%

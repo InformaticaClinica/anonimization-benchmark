@@ -1,0 +1,8 @@
+ Antecedentes personales:
+         SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, natural de PAIS. No AMC ni hábitos tóxicos. Vive en PAIS, vino a La Altura de vacaciones hace 6 meses con su OTROS_SUJETO_ASISTENCIA y no ha podido volver por la situación actual de pandemia por OTROS_SUJETO_ASISTENCIA.
+ANTecedentes patológicos:
+- Litiasis biliar de repetición. Tenía OTROS_SUJETO_ASISTENCIA programada para FECHAS en PAIS pero no se ha podido realizar.
+- OTROS_SUJETO_ASISTENCIA de repetición. Última en FECHAS.
+- Infección por Sars-Cov-2 diagnosticada el FECHAS mediante OTROS_SUJETO_ASISTENCIA positivo realizado en INSTITUCION por contacto estrecho con paciente positivo. Asintomático, no requirió ingreso hospitalario.
+OTROS_SUJETO_ASISTENCIA: ligadura de vena femoral izquierda por episodio trombótico
+Niega toma de medicación habitual.

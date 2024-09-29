@@ -1,0 +1,19 @@
+ ECO DOPPLER TRASPLANTE RENAL
+
+clinica:
+TRDC ID_SUJETO_ASISTENCIA
+TRDC INSTITUCION
+
+protocolo:
+Se realiza estudio basal y Doppler.
+
+resultados:
+Riñón OTROS_SUJETO_ASISTENCIA de tamaño y ecoestructura normal. No se observa dilatación de la vía excretora.
+No se observa líquido perirrenal ni colecciones evidentes.
+Los registros Doppler intraparenquimatosos muestra un IR= EDAD_SUJETO_ASISTENCIA, dentro de los límites de la normalidad.
+
+conclusiones:
+Sin hallazgos significativos.
+
+descrip:
+ECO DOPPLER TRASPLANTE RENAL

@@ -1,0 +1,54 @@
+ ANGIO - TC  AORTA TORACICA
+
+clinica:
+PROTOCOLO ANGIOTC PARA ESTUDIO TAVI
+Paciente de EDAD_SUJETO_ASISTENCIA que ingresa por aparición de síntomas en Estenosis Aórtica severa. Por sus antecedentes personales y su estado actual se considera tributaria a implante de TAVI. Se solicita angioTC para estudio. Gracias.
+Estenosi aòrtica no reumàtica (vàlvula)
+
+protocolo:
+Protocolo de adquisición pre-TAVI:
+1. Adquisición mediante sincronización prospectiva sin contraste para valoración de calcio a nivel de la válvula aórtica.
+2. Adquisición restrospectiva con contraste iodado y modulación sistólica enfocado en aorta ascendente.
+3. Seguidamente y sin administrar contraste adicional se realiza adquisición toracoabdominal en modo FLASH para valoración del eje aorto- ilíaco-femoral.
+
+resultados:
+Válvula aórtica tricúspide severamente calcificada, afectando los tres velos, con predominio en velo no coronario. Índice de Agatston valvular aórtico: NUMERO_IDENTIF. Planimetria valvular en sístole de 0,44 cm2. Los hallazgos son congruentes con estenosis aórtica severa.
+Origen y distribución anatómica normal de las arterias coronarias.
+Distancia entre el tronco común y el anillo aórtico: 10,2 mm
+Distancia entre la arteria coronaria derecha y el anillo aórtico: 9,9 mm
+Diámetro del anillo aórtico: 2,87 cm x 1,89 cm.
+Perímetro del anillo aórtico: 8,22 cm
+Área del anillo aórtico: 4,51 cm2
+* Existen calcificaciones focales protuyentes a nivel de anillo aórtico (a las 5h) i en base de los tres velos.
+Diámetro a nivel de la unión sino-tubular: 3,02 cm x 2,58 cm. Area: 5,92 cm2. Existe alguna calcificación laminar no protuyente.
+Calcificación anular de válvula mitral.
+Aorta torácica ascendente de 3,53 cm x 3,57 cm.
+Cayado aórtico de 3,3 x 3,5 cm.
+Aorta torácica descendente de 2,6 cm x 2,5 cm.
+El diámetro menor de la aorta abdominal se localiza a nivel infrarrenal, de 1,4 x 1,2 cm. La aorta abdominal se encuentra calcificada en toda su circunferencialidad y trayecto.
+Arteria ilíaca primitiva derecha: 6,7 x 9,2 mm con calcificación circunferencial del 50%.
+Arteria ilíaca externa derecha: 6,5 x 7,9 mm con calcificación circunferencial del 25%.
+Arteria femoral derecha: 6,1 x 6,8 mm con calcificación circunferencial del 25%.
+Arteria ilíaca primitiva izquierda: 8,5 x 9,2 mm.
+Arteria ilíaca externa izquierda: 6,5 x 7,1 mm con calcificación circunferencial del 25%.
+Arteria femoral izquierda: 7,2 x 7, 4 mm.
+Hallazgos extracardiacos: Atelectasias bibasales de predominio izquierdo. Esplenomegalia y riñón derecho de aspecto atrófico, hallazgos presentes en TC de 2009. Pequeño granuloma calcificado en LII. Múltiples pérdidas de altura de cuerpos vertebrales dorsales y algún lumbar, de aspecto osteopórotico. Trazos de fractura antiguos en pelvis y humero izquierdos.
+Asimetría mamaria con aumento de partes blandas de aspecto nodular ligeramente hipercaptante en mama izquierda, asociado a engrosamiento cutáneo. Se recomienda estudio dirigido. No se evidencian claras adenopatías axilares, en cadena mamaria interna, supraclaviculares ni mediastínicas.
+
+conclusiones:
+Estenosis aórtica severa.
+Altura de arterias coronarias favorable.
+Acceso ilíaco para TAVI favorable.
+Nódulo de partes blandas en mama izquierda, asociado a engrosamiento cutáneo (vr), se debe realizar estudio dirigido.
+
+descrip:
+ANGIO - TC  AORTA TORACICA
+
+descrip:
+ANGIO - TC DE AORTA ABDOMINAL Y DE EE.II.
+
+descrip:
+TC MEDICION DE CALCIO CARDIACO (CALCIO SCORING)
+
+descrip:
+ANGIO TC CORONARIAS

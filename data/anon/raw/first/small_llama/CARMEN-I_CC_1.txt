@@ -3,7 +3,7 @@
 Trabaja en [**hilandero**]
 Vive con [**suegro**] y [**2 yernos**], empezaron con sintomas digestivos previos Ant med: [**rinitis alergica**]
 Tto: no
-Alergias: niega
+Alergias: [**niega**]
 .
 Fecha frotis SARS-CoV-2: [**8/9/21**] por control rutinario Fecha inicio síntomas: [**7/9/21**] amb sx digestivos...
 .

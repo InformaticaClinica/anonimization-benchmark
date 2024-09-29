@@ -1,0 +1,17 @@
+ ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA ingresado por COVID grave con estancia en UCI. Presenta TEP subsegementario. Por favor realizar ecodopper de FECHAS.
+OTROS_SUJETO_ASISTENCIA
+
+resultados:
+EI DERECHA / EI IZQUIERDA
+Venas  femoral común, superficial y profunda, poplitea, peroneas y tibiales posteriores  compresibles,  permeables, sin signos eco - Doppler de TVP. Fasicidad del registro doppler normal a nivel de femoral comun.
+Venas musculares de la pantorrilla permeables.
+No trombosis superficial.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

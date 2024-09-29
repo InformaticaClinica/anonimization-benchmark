@@ -1,0 +1,28 @@
+ En seguimiento por Hematología [**Neoplàsia maligna, cap del pàncrees**].
+
+clinica:
+Paciente con antecedente de [**DPC**] hace 1 semana, ya no porta [**drenajes**].
+Desde esta madrugada dolor abdominal intenso, con elevación de la [**PCR**] hasta 19.
+TAC de hace 4 días por [**fiebre**] con evidencia de [**liquido libre**] en lecho [**IQ**], con discreto [**hemoperitoneo**].
+Interesa descartar complicaciones post[**IQ**].
+Gracias.
+[**Neoplàsia maligna, cap del pàncrees**]
+
+protocolo:
+TC ABDOMINOPELVICO en fase portal y excretora tras la administración de contraste oral urgente
+
+resultados:
+Se compara con el TC previo del [**9/1/25**]:
+Cambios postquirúrgicos por [**duodenopancreatectomía cefálica y colecistectomía**]. Tutor [**pancreático**].
+No hay presencia de [**drenajes quirúrgicos**] en el momento actual.
+Se identifica un leve aumento generalizado del [**líquido libre**] a nivel [**peripancreático**], raíz del [**mesenterio**], [**saco menor**], [**ligamento gastrohepático**], [**pelvis**] y lecho [**vesicular**] que alcanza el borde [**subhepático anterior**]. Muestra un aspecto [**pseudocoleccionado**] en el lecho quirúrgico [**vesicular**] y en localizaciones [**precaval**] y [**fascial pararrenal anterior derecha**].
+Trabeculación y aumento de la densidad de la [**grasa mesentérica**] en [**mesogastrio**], similar al estudio previo.
+No se observan [**colecciones intraabdominales**]. Leve cantidad de [**neumoperitoneo**] de predominio en [**hemiabdomen superior**] que ha disminuido respecto al previo, no obstante en la actualidad se identifican pequeñas [**burbujas**] a nivel [**hiliar hepático**] y en el lecho quirúrgico, no visibles previamente y que pueden estar en relación a la retirada reciente de los [**drenajes quirúrgicos**].
+Dados los hallazgos se administra contraste oral que progresa adecuadamente y opacifica parte del asa de la [**anastomosis gastroyeyunal**] y del asa de la [**hepaticoyeyunostomía**], sin identificar [**fugas de contraste**]. Cabe mencionar que no es posible evaluar el muñón de la [**hepaticoyeyunostomía**] dado el contraste no progresa hasta ese nivel.
+Resto del estudio sin cambios respecto al TC previo.
+
+conclusiones:
+Ver resultados.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

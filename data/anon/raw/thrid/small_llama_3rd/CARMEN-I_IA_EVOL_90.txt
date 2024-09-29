@@ -1,0 +1,19 @@
+ EVOLUCIÓN CARDIOLOGÍA
+1. IAM SIN ENFERMEDAD CORONARIA OBSTRUCTIVA (MINOCA) a estudio.
+Paciente de EDAD_SUJETO_ASISTENCIA, sin antecedentes personales/familares ni factores de riesgo cardiovascular.
+Consultó por dolor centrotorácico opresivo que se exacerba con la inspiración, sin vegetatismo, irradiación ni otra clinica acompañante, que inicia estando en reposo y se mantuvo constante durante más de 6 horas. El dolor mejoró con inicio de perfusión de nitroglicerina.
+Exploración física sin signos e insuficiencia cardiaca ni edemas en miembros inferiores.
+Se realizó ECG en urgnecias que muestra ritmo sinusal con eje 0º, PR 200ms, QRS estrecho, repolarización sin alteraciones con minimo ascenso inframilimétrico del ST en cara inferior. En ECG sucesivo (descenso del dolor) se observan ondad T aplanadas en precordiales.
+Analítica sanguínea donde destaca elevación de TnI US NUMERO_IDENTIF --> NUMERO_IDENTIF ng/L. Hemograma en rango, función renal estable sin alteraciones hidroelectroliticas. Hemostasia normal y Dímer D NUMERO_IDENTIF ng/ml.
+Rx de Tórax con ICT aumentado, sin infiltrados y senos costofrénicos libres. Ecoscopia a pie de cama con VI no dilatado y función global y segmentaria conservada, sin valvulopatías. VD no dilatado normocontráctil. Sin derrame pericárdico.
+Por persistencia del dolor se activa código IAM; y se realiza coronariografía emergente que muestra coronarias sin lesiones y ventriculografía con disinesia inferior media-apical.
+Se orienta como MINOCA a estudio. Se mantiene perfusión de nitroglicerina durante 24 horas y tras suspenderla presenta remisión total de dolor. Paralelamente se inicia tratamiento antiagregante con OTROS_SUJETO_ASISTENCIA 100 mg/d, así como estatinas e IECA.
+Ha realizado pico de troponinas ultrasensibles hasta NUMERO_IDENTIFng/L, posteriormente en descenso.
+Eco cardioscopia (valorada de forma conjunta con Dra NOMBRE_PERSONAL_SANITARIO): Ventrículo izquierdo no dilatado no hipertrófico con motilidad global normal, sin segmentarismos. FEVI EDAD_SUJETO_ASISTENCIA%. No valvulopatías. Ventrículo derecho no dilatado con motilidad normal. No IT que permita estimar PAPs. .
+No derrame pericárdico.
+Durante estancia en UVIR, buena evolución clínica, hemodinámicamente estable, sin dolor torácico residual. ECG en ritmo sinusal con extrasístoles ventriculares sin alteraciones de la repolarización.
+2. INFECCIÓN POR SARS-CoV-2
+Frotis positivo para FAMILIARES_SUJETO_ASISTENCIA , sin clínica (niega fiebre, tos, disnea o contactos epidemiológicos) analítica y radiología sugestiva por lo que no se inicia tratamiento específico.
+La paciente, tras 48h de monitorización en la UVIR, es trasladada a sala de hospitalización convencional, encontrándose asintomática y HD estable, por lo que se decide dar de alta hospitalaria. Se deja a la paciente en tratamiento con OTROS_SUJETO_ASISTENCIA, enalapril y atorvastatina.
+Se realizará de forma ambulatoria RM cardíaca unas semanas tras infección Covid 19 (se avisará a la paciente) con seguimiento posterior por parte de cardiólogo de referencia.
+Se indica a la paciente realización de aislamiento domiciliario desde 14 días tras conocimiento de PCR positiva.

@@ -1,0 +1,16 @@
+ EVOLUCIÓN EN UNIDAD DE INTERMEDIOS Y SALA DE HOSPITALIZACIÓN COVID (6.2):
+1. NEUMONÍA BILATERAL POR COVID-19.
+2. INSUFICIENCIA RESPIRATORIA
+- Inicio síntomas: [**7/4/2017**]
+- Primer frotis (17/07/17): positivo
+- Día ingreso: [**13/07/17**]
+- Ingreso en UCI: [**15/7/17**] - [**19/7/17**]
+- Tratamiento: HDQ (fin [**18/07**]), L/r (suspendido por diarrea), ceftriaxona + teicoplanina (fin [**19/07**]). Otros: Tocilizumab ([**14/07**]), DXM 20mg x 3días
+Hombre de [**62 años**], con los antecedentes previamente descritos, a destacar [**hipertensión arterial**], [**diabetes mellitus tipo 2**] y [**síndrome de apneas-hipoapneas nocturna**].
+Consulta a Urgencias el [**13/07**] por cuadro de 10 días de evolución compatible con infección por SARS-CoV-2 (fiebre, tos seca, disnea de esfuerzo). En Urgencias, hemodinámicamente estable, taquipneico, precisando de oxigenoterapia con FiO2 con 31% para mantener correcta saturación, con crepitantes bilaterales a la auscultación respiratoria.
+Analítica con elevación de RFA (PCR 9, ferritina 435 ng/mL), elevación de LDH (432) y limfopenia (800). Radiografía de tórax con infiltrado intersticial bilateral y opacidades en LID/LM.
+Se orienta como neumonía bilateral por SARS-CoV-2, por lo que se inicia tratamiento triple según protocolo con lopinavir/ritonavir, azitromicina y hidroxicloroquina, además de tratamiento antibiótico con ceftriaxona y teicoplanina. A pesar de ello, el paciente presenta deterioro clínico, con insuficiencia respiratoria y elevación de los parámetros inflamatorios progresiva, por lo que se decide inicio de tocilizumab 600mg ([**14/07**]) y corticoides y traslado a Unidad de Intermedios ([**15/07**]).
+En la Unidad de Intermedios, el paciente presenta evolución favorable, con disminución progresiva de los requerimientos de oxigenoterapia y reactantes de fase aguda por lo que se traslada a sala convencional COVID-6.2, donde persiste la evolución favorable hasta práctica normalización analítica y retirada de la oxigenoterapia. Como única incidencia, presenta alteración del perfil hepático con elevación de transaminasas, probablemente en relación a infección por SARS-CoV-2 vs síndrome activación macrofágica vs hepatotoxicidad.
+Dada la evolución favorable y estabilidad clínica, se decide alta a [**domcilio**], pendiente de completar aislamiento y con control por Unidad de Atención Domiciliaria.
+2. MAL CONTROL GLUCÉMICO. DIABETIS MELLITUS TIPO-2.
+En contexto de tratamiento con corticoides a altas dosis, presenta mal control glucémico, precisando de optimización de tratamiento con insulina.

@@ -1,0 +1,25 @@
+ ECO BIOPSIA RENAL
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA con ERCT secundaria a vasculitis OTROS_SUJETO_ASISTENCIA, receptora de trasplante renal en 2008 (HOSPITAL). Actualmente con función renal en torno a FECHAS.
+Ingresa en el HOSPITAL con evidencia de deterioro de la función renal hasta creat FECHAS, con signos compatibles con OTROS_SUJETO_ASISTENCIA. Ha recibido 3 bolus de OTROS_SUJETO_ASISTENCIA y trasladan para completar el estudio con biopsia renal
+Solicito eco-biopsia renal del ID_SUJETO_ASISTENCIA.
+Gracias!!
+Estat de trasplantament de ronyó
+
+protocolo:
+ECO BIOPSIA RENAL
+
+resultados:
+Injerto renal en ID_SUJETO_ASISTENCIA de tamaño normal, difusamente hiperecogénico con vascularización disminuida. IRs en el seno de FECHAS.
+Previa asepsia y anestesia local se realiza biopsia con aguja gruesa de NUMERO_TELEFONO con NUMERO_TELEFONO (4x) en el tercio inferior del injerto renal.
+No se observan complicaciones durante procedimiento.
+Se practican FECHAS de compresión local postpunción.
+Se remite muestra para URL_WEB.
+
+conclusiones:
+Injerto en ID_SUJETO_ASISTENCIA hiperecogénico e hipovascularizado, IRs normales.
+Biopsia con aguja gruesa NUMERO_TELEFONO, 4x, sin complicaciones.
+
+descrip:
+ECO BIOPSIA RENAL

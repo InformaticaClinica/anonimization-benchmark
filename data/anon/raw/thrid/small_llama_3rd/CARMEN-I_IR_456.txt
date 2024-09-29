@@ -1,0 +1,23 @@
+ TC CEREBRAL
+
+clinica:
+SS tc control evolutivo OTROS_SUJETO_ASISTENCIA.
+Hidrocefàlia obstructiva
+
+protocolo:
+Se realizan secciones axiales desde la base del cráneo hasta el vértice.
+
+resultados:
+Se compara con estudios previos, último TC del FECHAS. Cambios postquirúrgicos por OTROS_SUJETO_ASISTENCIA resección y clipaje de OTROS_SUJETO_ASISTENCIA. No se observan restos hemáticos agudos actualmente en el lecho quirúrgico
+Persiste la hipodensidad residual así como el edema vasogénico.
+OTROS_SUJETO_ASISTENCIA con inserción de OTROS_SUJETO_ASISTENCIA con trayecto intraventricular. Estabilidad del tamaño del  sistema ventricular. No se observa contaminación hemática aguda en el sistema ventricular.
+OTROS_SUJETO_ASISTENCIA fronto-temporal inferior derecha en relación a isquemia establecida.
+No hay desplazamiento valorable de la línea media. Cisternas basales libres.
+
+conclusiones:
+Se compara con estudios previos, último TC del FECHAS. Cambios postquirúrgicos por resección y clipaje de OTROS_SUJETO_ASISTENCIA.Persiste la hipodensidad residual así como el edema vasogénico. OTROS_SUJETO_ASISTENCIA con inserción de OTROS_SUJETO_ASISTENCIA con trayecto intraventricular.
+Estabilidad del tamaño del  sistema ventricular.
+OTROS_SUJETO_ASISTENCIA fronto-temporal inferior derecha en relación a isquemia establecida.
+
+descrip:
+TC CEREBRAL

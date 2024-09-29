@@ -1,0 +1,23 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Hombre de [**92 años**], ingresado por Neumonía por [**COVID**], con progresión radiológica y empeoramiento clínico a pesar de tratamiento. Actualmente con altos requerimientos de oxígeno. Solicitamos angioTC para descartar complicaciones ([**TEP**]?, [**NOC**]?). Gracias.
+[**COVID19**]
+
+protocolo:
+Estudio de [**angio-TC pulmonar**].
+
+resultados:
+No se identifican imagenes de [**TEP**].
+[**Ectasia**] de [**aorta ascenente**] 47mm y [**arco aortico**].
+[**Ateromatosis**] [**aortica**] y [**coronaria**].
+[**Cardiomegalia**] con [**dilatación biauricular**].
+Discreto [**derrame pleural izquierdo**].
+[**Adenopatia**] de [**tamaño patologico**] en la [**ventana aorto pulmonar**].
+Extenso [**infiltrado**] en [**vidrio deslustrado**] difuso bilateral, engrosamientos septales asociados compatible con [**proceso infeccioso**] [**COVID 19**].
+
+conclusiones:
+ver resultados.
+
+descrip:
+[**ANGIO TC PULMONAR**]

@@ -1,0 +1,23 @@
+ En seguimiento por Hematología [**Paciente**] con Neumonía por COVID 19, complicada con sobreinfección por [**s. malthophila**]. NEcesidad de ECMO V-V que se retira el día [**13/04/27**]. Ahora solicitamos TAC de Tórax para descartar signos de NOC incipiente y descartar TEP. Además solicitamos TAC de craneo para descartar patología aguda tras registros bajos durante la monitorización. Caso comentado con equipo de CDI
+Gracias!
+
+protocolo:
+ANGIO TC PULMONAR URGENTE: Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares para su valoración.
+
+resultados:
+Se revisan estudios RX previos.
+TOT a [**3.8 cm**] de la carina. CVC yugular izquierdo con extremo distal en VCS. SNG normoposicionada.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de TEP. Tronco de la arteria pulmonar de calibre conservado.
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Cambios post-quirúrgicos en relación a sustitución valvular aórtica y mitral. Esternotomía media.
+Leve derrame pleural bilateral, de predominio izquierdo. Ausencia de derrame pericárdico.
+Afectación parenquimatosa pulmonar difusa en forma de extensas opacidades en vidrio deslustrado peribroncovasculares y subpleurales bilaterales y focos consolidativos de predominio en ambos lóbulos inferiores, que se asocian a dilataciones bronquiales y a algunas discretas bandas parenquimatosas perilobulares; los hallazgos descritos son sugestivos de neumonía bilateral por COVID-19, en fase inflamatoria con cambios organizativos incipientes.
+En hemiabdomen superior incluido, se visualiza esplenomegalia homogénea de [**180 mm**] con calcificaciones groseras. Discreta cantidad de líquido libre perihepático y periesplénico. Vesícula biliar distendida. Riñones de aspecto atrófico.
+
+conclusiones:
+Sin signos de TEP.
+Neumonía bilateral por COVID, de extensión severa, en fase inflamatoria con cambios organizativos incipientes.
+Leve derrame pleural bilateral.
+Esplenomegalia. Ligera cantidad de líquido libre perihepático y periesplénico. Vesícula biliar distendida.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,39 @@
+ PET FAMILIARES_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA SENCER NUMERO_IDENTIF
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA que consulta por tos de 2 meses de evolución.
+Realizamos FAMILIARES_SUJETO_ASISTENCIA toracoabdominal: Condensación/masa pulmonar en lóbulo inferior izquierdo, como primera posibilidad sugestiva de primario pulmonar. Múltiples metástasis pulmonares.
+Múltiples lesiones hipodensas hepáticas, Lesiones líticas óseas en cuerpos vertebrales de D8 y L4, sospechosas. Solicitamos PET-TC.
+
+protocolo:
+Radiofármaco: Fluordesoxiglucosa-F18 ( NUMERO_IDENTIF ).
+Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 min después de la inyección endovenosa de 10.5 mCi de NUMERO_IDENTIF. Se obtienen imágenes tomográficas PET transversales, coronales y sagitales, sin corrección de atenuación y corregidas.
+Glucemia en el momento de la inyección: 114 mg/dL.
+
+resultados:
+No se dispone de estudio FAMILIARES_SUJETO_ASISTENCIA o PET/TC previo para realizar estudio comparativo con las imágenes con contraste e.v..
+Las imágenes ponen de manifiesto la captación fisiológica de NUMERO_IDENTIF (miocardio, hígado y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Se visualiza una masa hipermetabólica (SUV max 12.33) en el LSI, sugestivo de malignidad, que condiciona obstrucción distal con atelectasia sobre la que se observa captación levemente aumentada de NUMERO_IDENTIF. De forma distal, en contato con la pared torácica, se identifica otra captación focal de NUMERO_IDENTIF (SUV max 8.56) de la que no es posible diferenciar si se trata de otro nódulo pulmonar o de un implante pleural.
+Se visualizan múltiples nódulos pulmonares hipermetabólicos en ambos pulmones, sugestivos de M1.
+Leve derrame pleural bilateral.
+Adenopatías hipermetabólicas de localización laterocervical y supraclavicular izquierda (SUV max 15.36), paratraqueal izquierda alta y baja e hiliar bilateral y en la cadena mamaria interna derecha.
+Adenopatía subcarinal levemente hipercaptante, más inespecífica.
+Se visualizan múltiples captaciones focales del trazador en el parénquima hepático atribuibles a M1 hepáticas.
+Captación focal de NUMERO_IDENTIF (SUV max 11.99) en el bazo, que se corresponde con una lesión hipodensa (se trata de un estudio sin contraste e.v.) que sugiere una M1 esplénica.
+Nódulo hipermetabólico en la gl. suprarrenal derecha (SUV max sugestivo de M1.
+Se observan múltiples adenopatías hipermetabólicas retroperitoneales en el hemiabdomen superior. Nódulos mesentéricos levemente hipermetabólicos, inespecíficos.
+Captación focal de NUMERO_IDENTIF (SUV max 11,02) adyacente a un área de calcificaciones en la gl. prostática, que se encuentra aumentada de tamaño, a correlacionar con ecografía transrectal y valor de PSA.
+Se visualizan múltiples lesiones óseas hipermetabólicas atribuibles a M1 en la columna vertebral, incluída una lesión en el cuerpo vertebral de C6 y T12, que en el estudio PET no parece afectar al canal medular, sin embargo se aconseja ampliar estudio mediante RM ante la sospecha clínica de invasión medular. Otras lesiones óseas se localizan en el esternón, la clavícula izquierda, parrilla costal bilateral, ambos huesos ilíacos, sacro, acetábulo e isquion derechos, cuello femoral izquierdo, sin componente blástico.
+
+conclusiones:
+Estudio PET-TC con NUMERO_IDENTIF que muestra una masa pulmonar en el LSI atribuible a la neoplasia primaria, con afectación ganglionar hiliar bilateral, mediastínica, laterocervical y supraclavicular izquierda.
+Leve derrame pleural bilateral.
+M1 pulmonares bilaterales.
+M1 hepáticas múltiples.
+M1 esplénica.
+M1 suprarrenal derecha.
+M1 óseas múltiples, líticas, destacando la afectación del cuerpo vertebral de C6 y de T12, sin que se observe invasón del canal medular, aunque ante la sospecha clínica debe estudiarse mediante RM.
+Captación focal de NUMERO_IDENTIF en la gl. prostática, a correlacionar con valor de PSA y/o ecografía.
+
+descrip:
+PET FAMILIARES_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA SENCER NUMERO_IDENTIF

@@ -1,0 +1,17 @@
+ Antecedentes personales:
+Antecedentes Personales:
+- No reacciones alérgicas a medicamentos conocidas.
+- No factores de riesgo cardiovascular conocidos, salvo obesidad tipo I (EDAD_SUJETO_ASISTENCIA).
+- No refiere hábitos tóxicos.
+- Enfermedad de Chagas diagnosticada en torno al FECHAS en PAIS.
+Tratamiento en su INSTITUCION (INSTITUCION) con OTROS_SUJETO_ASISTENCIA en FECHAS. En seguimiento por OTROS_SUJETO_ASISTENCIA desde FECHAS
+OTROS_SUJETO_ASISTENCIA. Implante de marcapasos bicameral OTROS_SUJETO_ASISTENCIA y modelo OTROS_SUJETO_ASISTENCIA (ID_SUJETO_ASISTENCIA) en FECHAS por disfunción sinusal (OTROS_SUJETO_ASISTENCIA que evolucionó a OTROS_SUJETO_ASISTENCIA con bradicardia sintomática a OTROS_SUJETO_ASISTENCIA).
+Se realizó pruebas digestivas, que refiere fueron normales.
+- OTROS_SUJETO_ASISTENCIA diagnosticada como parte de estudio de OTROS_SUJETO_ASISTENCIA, secundaria a OTROS_SUJETO_ASISTENCIA (más dudoso por OTROS_SUJETO_ASISTENCIA) y derecho (OTROS_SUJETO_ASISTENCIA).
+Intervenciones Quirúrgicas:
+OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA en FECHAS.
+Tratamiento Habitual:
+Ninguno.
+Situación Basal:
+OTROS_SUJETO_ASISTENCIA. Natural de PAIS (CALLE), lleva en España desde FECHAS.
+Trabaja como PROFESION. Vive sola.

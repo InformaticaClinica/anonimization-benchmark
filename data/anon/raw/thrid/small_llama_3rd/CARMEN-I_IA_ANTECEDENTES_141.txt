@@ -1,0 +1,21 @@
+ Antecedentes personales:
+Mujer de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas. Ex-fumadora con dosis acumulada de OTROS_SUJETO_ASISTENCIA, ex-enolismo hasta hace OTROS_SUJETO_ASISTENCIA (hasta OTROS_SUJETO_ASISTENCIA; OTROS_SUJETO_ASISTENCIA). Jubilada había trabajado de PROFESION, PROFESION, PROFESION. Reside en TERRITORIO con su OTROS_SUJETO_ASISTENCIA y durante el día pasa el día con su OTROS_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA).
+Actualmente FECHAS ingresada en INSTITUCION tras ingreso prolongado.
+* ANTECEDENTES PATOLÓGICOS:
+1. OTROS_SUJETO_ASISTENCIA en tratamiento farmacológico.
+2. OTROS_SUJETO_ASISTENCIA en tratamiento farmacológico.
+* INTERVENCIONES QUIRÚRGICAS: OTROS_SUJETO_ASISTENCIA hace OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.
+* MEDICACIÓN HABITUAL: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.
+* HISTORIA ONCOLÓGICA:
+1. OTROS_SUJETO_ASISTENCIA. En curso de OTROS_SUJETO_ASISTENCIA.
+- 1er sintoma (FECHAS) Disfonía que evoluciona a disnea de pequeños esfuerzos. EF ORL: lesión de aspecto neoplásico, NBI positivo en hemilaringe izq, fijada (min mov de aritenoides) afecta a OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.
+- OTROS_SUJETO_ASISTENCIA: Tumoración que afecta a OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Deforma vía aerea. Esclerosis pancartilaginosa izquierda.
+1er diagnóstico (5.3.14) biopsia hemilaringe izquierda: Carcinoma escamoso infiltrante
+OTROS_SUJETO_ASISTENCIA: Se valora como un OTROS_SUJETO_ASISTENCIA. Afecta OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.
+- OTROS_SUJETO_ASISTENCIA:  aumento de captación de OTROS_SUJETO_ASISTENCIA en la tumoración OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Dudosa imagen en OTROS_SUJETO_ASISTENCIA. Pequeño foco nodular mixto de OTROS_SUJETO_ASISTENCIA, inespecífico (OTROS_SUJETO_ASISTENCIA) Lesión nodular pélvica anexial izq de 24 mm, con discreto aumento de captación de OTROS_SUJETO_ASISTENCIA, inespecífica (OTROS_SUJETO_ASISTENCIA)
+* Tratamiento realizado y evolución:
+Valorado como un OTROS_SUJETO_ASISTENCIA se realiza OTROS_SUJETO_ASISTENCIA para asegurar via aeria y tto posterior.
+Inicia tratamiento con OTROS_SUJETO_ASISTENCIA el FECHAS. Completó QT, última dosis el FECHAS, no finalizó la radioterapia por ingreso en FECHAS.
+**FECHAS Choque séptico por neumonía bilateral, (OTROS_SUJETO_ASISTENCIA), OTROS_SUJETO_ASISTENCIA en contexto de choque, dificultad para movilización de secreciones.
+Pendiente de valoración radiológica de respuesta al tratamiento
+* Seguimiento en CEX por OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.

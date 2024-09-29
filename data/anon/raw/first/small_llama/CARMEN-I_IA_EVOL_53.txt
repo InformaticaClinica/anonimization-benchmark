@@ -1,0 +1,32 @@
+ NOTA DE INGRESO (UCIAS):
+1.INFECCIÓN RESPIRATORIA POSIBLE COVID-19
+Paciente [**mujer**] de [**64 años**], [**recepcionista de hotel**].· Antecedentes de [**artritis reumatoide**], en tratamiento actualmente [**concloroquina 200mg/48h**] (NO tratamiento con corticoides).
+Aplastamiento vertebral tratado conservadoramente. Osteoporosis.Sin otros antecedentes médico-quirúrgicos de interés.
+Refiere cuadro de 10 días de evolución iniciado con fiebre termometrada en domicilio de [**38oC**] y tos seca. Niega disnea. Refiere persistencia de la clínica pese a tratamiento con [**paracetamol**] motivo por el que consulta.
+PRC [**14.45**], Ferritina [**235**], L [**6.16**], D-Dímer [**200**].
+ECG: [**71x?**], ritmo sinusal, sin alteraciones en QRS, QT [**378**], sin alteraciones en ST.
+Rx: infiltrados basales derechos leves (sin cambios respecto a controles previos), sin condensaciones.
+Sat [**97%**] a aire ambiente, FR [**15**]. Febril a su llegada ([**38.1oC**]).· EF: murmullo vesicular en ambos hemitórax, con crepitantes de predominio en base derecha.
+PLAN: pendiente de resultado de frotis (covid-19 + gripe). Se inicia tratamiento empírico con [**kaletra**], [**hidroxicloroquina**] y [**ceftiriaxona**].
+NOTA DE EVOLUCIÓN (SALA DE HOSPITALIZACIÓN):
+1. INFECCIÓN RESPIRATORIA (COVID-19)
+2. SIADH
+Paciente que ingresa a sala de hospitalización con sospecha de COVID-19, que se confirma con frotis positivo. Se mantiene en buen estado general y estable. Cefalea que se controla con [**paracetamol**].
+Rx con infiltrados bibasales, a predominio izquierdo.
+Analítica con estabilidad de parámetros inflamatorios pero hiponatremia hasta [**124**], con sospecha de SIADH, por lo que se inicia restricción hídrica y suero fisiológico con buena evolución.
+
+SALA A513
+Ingresada por Pneumonia COVID-19 positivo.
+Ingreso con buena evolución.
+Como intercorrências a destacar Hiponatrémia, corregida.
+Alta a domicilio, cumpliendo criterios de estabilidad clínica:
+- TT [**36.2C**]
+- FR [**16cpm**]; [**18cpm**]
+- FC [**80bpm**]; [**78 bpm**]
+- PAS [**141mmHg**]; [**104mmHg**]
+- SpO2 basal [**98%**]
+Analítica (25/03)
+- Leuc [**4190/mm3**] (Nt [**64.4%**], Linf [**18,9%**])
+- PCR [**1.16mg/dL**]
+- Na+ [**137 mmol/L**]
+Cumplir [**Kaletra**] más 2 días ([**7 días**] en total)

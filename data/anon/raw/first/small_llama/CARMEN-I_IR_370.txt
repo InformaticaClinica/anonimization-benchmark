@@ -1,0 +1,21 @@
+ En seguimiento por Hematología [**Paciente de 60 años**], diabetica mal controlada con nefropatia y retinopatia, ingresada con neumonia bilateral por [**SARS COV2**] + Shock séptico + mal control glicemico + acidosis metabólica, TQT en VM en VC con FiO2 55%, con gran empeoramiento radiológico en las últimas 24h, persistencia de RFA con PCR 22, PCT 0.85, Ferritina 2800, Dimero D progresivamente en aumento 6200, Linfopenia 600. Último PCR [**COVID**] + con CT 21. Interesa [**AngioTC**] + [**TACAR**] Para descartar [**TEP**] y valorar parenquima pulmonar.
+Infecció per [**coronavirus no especificada**]
+
+protocolo:
+[**Angio-TC**] de arteria pulmonar.
+
+resultados:
+Exploración artefactada por movimientos del paciente. En estas condiciones:
+Se compara con [**TC**] previo del 29/07/18.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de [**TEP**]. Tronco de la arteria pulmonar de calibre normal (28 mm). Dilatación del ventrículo derecho, con rectificación del tabique interventricular y reflujo de contraste a venas suprahepáticas, todo esto sugestivo de [**sobrecarga cardiaca derecha**].
+Ganglio paratraqueal bajo en el límite superior de la normalidad (10 mm). No se evidencian adenopatías axilares ni mediastínicas de tamaño patológico.
+Mínimo derrame pleural bilateral de predominio derecho de nueva aparición. No se observa derrame pericárdico.
+Extensa afectación parenquimatosa caracterizada por opacidades en vidrio deslustrado y consolidaciones bilaterales de distribución peribroncovascular, con algunas imágenes en halo reverso y bandas subpleurales, todo esto compatible con neumonía [**COVID19**] conocida con cambios organizativos. Respecto a [**TC**] previo y radiografías hasta la fecha, se observa empeoramiento radiológico.
+Tubo de traqueostomía a 5 cm de la carina. Extremo distal del cateter endovenoso en VCS. Sonda nasogastrica con extremo distal en cámara gástrica.
+En los cortes de hemiabdomen superior, nódulo suprarrenal derecho de 3 cm, inespecífico en esta exploración, estable.
+
+conclusiones:
+No se observan signos de [**TEP**]. Signos sugestivos de [**sobrecarga cardiaca derecha**].
+Afectación parenquimatosa compatible con neumonía [**COVID19**] con cambios organizativos. Respecto a [**TC**] previo y radiografías hasta la fecha, se observa empeoramiento radiológico.
+Mínimo derrame pleural bilateral de predominio derecho de nueva aparición.
+Resto, sin cambios significativos.

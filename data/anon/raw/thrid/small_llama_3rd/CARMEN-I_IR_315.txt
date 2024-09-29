@@ -1,0 +1,17 @@
+ RX  OTROS_SUJETO_ASISTENCIA  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+Rx portátil de tórax. Se compara con previa del FECHAS.
+
+resultados:
+Placa completamente rotada de valoración muy limitada.
+Se siguen apreciando las OTROS_SUJETO_ASISTENCIA de predominio en campos pulmonares superior, medio e inferior del lado izquierdo en relación con afectación parenquimatosa por FAMILIARES_SUJETO_ASISTENCIA. Se recomienda repetir RX en condiciones técnicas óptimas si fuera posible.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

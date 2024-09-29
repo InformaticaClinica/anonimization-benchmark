@@ -1,0 +1,23 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+sospecha FAMILIARES_SUJETO_ASISTENCIA por d-dímero 4300.
+covid-19
+
+protocolo:
+Angio-TC pulmonar URGENTE Obs: Dr. NOMBRE_PERSONAL_SANITARIO
+
+resultados:
+No se observan defectos de repleción en tronco pulmonar común, ramas principales, lobares, ni segmentarias que sugieran FAMILIARES_SUJETO_ASISTENCIA.
+Cardiomegalia. Tronco pulmonar común levemente dilatado (EDAD_SUJETO_ASISTENCIA).
+Dilatación aneurismática de la INSTITUCION (EDAD_SUJETO_ASISTENCIA).
+Leve derrame pleural bilateral de predominio izquierdo. No se observa derrame pericárdico.
+Ganglios linfáticos OTROS_SUJETO_ASISTENCIA (EDAD_SUJETO_ASISTENCIA) paratraqueales bilaterales y subcarinal. No se observan adenopatías axilares de tamaño valorable.
+Patrón pulmonar con opacidades en vidrio deslustrado y engrosamientos septables (empedrado) de distribución periférica y bilateral. Se asocia consolidaciones periféricas y en ambas bases pulmonares, con broncograma aéreo y algún signo de halo reverso. En bases pulmonares también se observa distorsión del parénquima pulmonar con bandas subpleurales. Todo ello es compatible con FAMILIARES_SUJETO_ASISTENCIA con probable neumonía organizada.
+Nódulo OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA.
+
+conclusiones:
+No se observan signos que sugieran FAMILIARES_SUJETO_ASISTENCIA. Hallazgos compatibles con afectación pulmonar por FAMILIARES_SUJETO_ASISTENCIA con componente de neumonía organizativa.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

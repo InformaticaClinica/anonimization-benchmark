@@ -1,0 +1,31 @@
+ ANGIO TC EVALUACION RECEPTOR RENAL
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA con natecedentes de OTROS_SUJETO_ASISTENCIA por OTROS_SUJETO_ASISTENCIA , OTROS_SUJETO_ASISTENCIA e infección reciente por OTROS_SUJETO_ASISTENCIA portador de OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA de evolución con inicio de HD FECHAS. Ruego estudio pre trasplante a valorar reinclusión en INSTITUCION.
+Solicito corte torácico dado que refiere tos crónica de mas de FECHAS de evolución sin otra sintomatología asociada.
+Estudio Pre trasplante
+
+protocolo:
+Estudio basal y con contraste endovenoso.
+
+resultados:
+Moderado derrame pericárdico, estable en comparación a TC previo de FECHAS.
+A nivel pulmonar se observa reticulación subpleural bilateral de predominio izquierdo, con patrón más consolidativo con calcificaciones en HOSPITAL, compatible con OTROS_SUJETO_ASISTENCIA. También se muestran estables los signos de patología inflamatoria de la vía aérea.
+Ateromatosis HOSPITAL con presencia de placas de OTROS_SUJETO_ASISTENCIA siendo la afectación más prominente a nivel HOSPITAL. Ambas ilíacas externas muestran segmentos sin calcificaciones, con anastomosis renal del riñón trasplantado aparentemente término-terminal con ilíaca interna derecha.
+Tronco celíaco de morfología normal, y permeable, con leve ateromatosis no calcificada en el tercio proximal de la arteria esplénica.
+Riñones propios de pequeño tamaño y cortical adelgazada compatible con OTROS_SUJETO_ASISTENCIA, sin dilatación evidente de la vía excretora. Se observan quistes simples bilaterales.
+Riñón trasplantado en fosa ilíaca derecha, con cortical adelgazada de forma parcheada, con presencia de quistes renales y con calcificaciones vasculares múltiples.
+Hígado de morfología normal, sin lesiones focales evidentes, excepto algún quiste simple.
+Vesícula biliar de morfología normal. Vía biliar no dilatada.
+Bazo, páncreas y suprarrenales de morfología y tamaño normal.
+No se observan adenopatías retroperitoneales ni iliacas de tamaño valorable.
+Vejiga urinaria escasamente distendida. Hipertrofia prostática que impronta el suelo vesical.
+Leve cantidad de líquido libre en pelvis.
+Anterolistesis de TERRITORIO sobre TERRITORIO con espondilolisis de arcos posteriores acompañante.
+
+conclusiones:
+Cambios a nivel pulmonar ya conocidos en relación a afectación intersticial bilateral de predominio izquierdo con patrón más consolidativo en base izquierda.
+Ateromatosis aortoilíaca de las características descritas.
+
+descrip:
+ANGIO TC EVALUACION RECEPTOR RENAL

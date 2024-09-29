@@ -1,0 +1,29 @@
+ En seguimiento por Hematología [**Pacient**] de [**58 anys**] amb pneumònia bilateral per [**COVID-19**] greu que ha requerit ingrés a UCI amb dímerD inicial >10.000 que ha presentat descens progressiu (actualment 3200). Milloria respiratòria. Actualment ventimask 40%. Se sol·licita angioTC per descartar [**TEP**] (comentat amb Dr. [**Revuelta**]). Gràcies!
+[**COVID-19**]
+
+protocolo:
+ANGIO-TC PULMONAR mediate energia dual + TC ABDOMINO-PELVICO-EEII (hasta rodillas.)
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de [**TEP**]. Tras el posprocesado de las imágenes adquiridas mediante energía dual no se observan defectos de perfusión en los mapas de iodo. Tronco de la arteria pulmonar de diámetro normal, sin signos de fallo ventricular derecho.
+Afectación parenquimatosa pulmonar en forma de múltiples áreas consolidativas con morfología en banda de disposición subpleural y peribroncovascular de predominio en lóbulos inferiores y campo pulmonar izquierdo, existiendo en su seno dilataciones bronquiolares así como alguna imágen de halo invertido. En lóbulos superiores predomina una afectación parcheada nodular de vidrio deslustrado de disposición subpleural y peribroncovascular. Globalmente estos hallazgos son compatibles con los presentes en una neumonía vírica por [**COVID-19**] con signos de neumonía organizativa sobreañadida. Llama la atención que existe una hiperperfusión de la mayoría de zonas con afectación pulmonar por [**COVID-19**] que alcanza el doble de concentración de yodo respecto a las zonas sin aparente afectación. También existen vasos dilatados en el interior de algunas de las áreas afectas.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Via venosa central yugular derecha con extremo distal a nivel cavo- atrial.
+Hígado globalmente hipodenso en probable relación a estatosis. Vena porta permeable. Colelitiasis sin dilatación de la vía biliar.
+Páncreas, bazo, glándulas suprarrenales y riñones sin alteraciones.
+Litiasis izquierda no obstructiva en grupo calicial inferior de 11 mm.
+No se observa dilatación de las vías excretoras.
+Diverticulo duodenal a nivel de 3º porción.
+Asas de intestino delgado y marco colonico sin alteraciones relevantes.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se observa líquido libre intraabdominal.
+Probables artefactos de flujo en venas de ambas EEII, sin signos concluyentes de trombosis.
+
+conclusiones:
+- No se observa [**TEP**]
+- Hallazgos compatibles con neumonia vírica por [**COVID-19**] con signos de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,15 @@
+ Antecedentes personales:
+Paciente de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas. Ex fumador (OTROS_SUJETO_ASISTENCIA) consumo de OTROS_SUJETO_ASISTENCIA al día.
+Vive con OTROS_SUJETO_ASISTENCIA y la hija de OTROS_SUJETO_ASISTENCIA. Independiente para ABVD.
+Trabajó como PROFESION, actualmente jubilado.
+* ANTECEDENTES PATOLÓGICOS
+- HIPERTENSIÓN ARTERIAL sin tratamiento por buen control tensional. Con lesión de OTROS_SUJETO_ASISTENCIA.
+- DISLIPEMIA en tratamiento farmacológico.
+- CARDIOPATÍA HIPERTENSIVA, ecocardiograma de FECHAS con FE conservada (OTROS_SUJETO_ASISTENCIA), OTROS_SUJETO_ASISTENCIA severamente hipertrófico con movilidad conservada.
+Insuficiencia diastólica.
+- ENFERMEDAD RENAL CRÓNICA estadío OTROS_SUJETO_ASISTENCIA, probable nefroangioesclerosis.
+Creatinina habitual entorno a OTROS_SUJETO_ASISTENCIA.
+- SAHS, usa OTROS_SUJETO_ASISTENCIA nocturna.
+- HIPERURICEMIA
+- HIPERPLASIA BENIGNA DE OTROS_SUJETO_ASISTENCIA
+* TRATAMIENTO HABITUAL: Furosemida OTROS_SUJETO_ASISTENCIA, sertralina OTROS_SUJETO_ASISTENCIA, clonazepam OTROS_SUJETO_ASISTENCIA, bisoprolol OTROS_SUJETO_ASISTENCIA, tamsulosina-solifenacina OTROS_SUJETO_ASISTENCIA, alopurinol OTROS_SUJETO_ASISTENCIA.

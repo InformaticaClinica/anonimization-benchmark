@@ -1,0 +1,13 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+SOSPECHA DE CORONAVIRUS.
+
+protocolo:
+RX tórax
+
+conclusiones:
+Opacidades alveolo-intersticiales de predominio en campos superiores bilateral  que muestra leve mejoría en relación a la realizada el FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

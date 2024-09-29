@@ -1,0 +1,17 @@
+ RX [**PORTATIL**]  TORAX
+
+clinica:
+para el dia [**4**] (hoy)
+[**COVID-19**]
+
+protocolo:
+RX de tòrax anteroposterior [**portàtil**].
+
+resultados:
+No evidencien [**alteracions**] pulmonars tret de petita imatge lineal a base pulmonar esquerra on en estudi previ s'observava [**pinçament**] del si [**costofrènic**].
+
+conclusiones:
+[**Milloria**] radiològica.
+
+descrip:
+RX [**PORTATIL**]  TORAX

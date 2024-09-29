@@ -1,0 +1,10 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+INSTITUCION
+
+conclusiones:
+Control sin cambios significativos con respecto a estudio previo de FECHAS.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

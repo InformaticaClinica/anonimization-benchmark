@@ -1,0 +1,16 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+QUIANTIFERON POSITIVO
+
+protocolo:
+Rx portátil de tórax. Se compara con previa del FECHAS.
+
+resultados:
+A pesar de las diferencias técnicas entre ambas exploraciones, se aprecia leve mejoría radiológica de las múltiples opacidades alveolares de predominio periferico en campos medios e inferiores bilaterales en relación con infección por OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+.
+
+descrip:
+RX  PORTATIL  TORAX

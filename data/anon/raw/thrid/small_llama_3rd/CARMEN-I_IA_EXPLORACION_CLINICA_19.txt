@@ -1,0 +1,2 @@
+ Fecha de inicio de los síntomas: FECHAS
+Fecha de frotis positivo (primera PCR): FECHAS

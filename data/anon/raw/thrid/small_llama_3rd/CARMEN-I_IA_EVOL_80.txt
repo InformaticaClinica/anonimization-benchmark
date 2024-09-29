@@ -1,0 +1,32 @@
+ Dado que persiste febril, covid +, precisa ingreso. Se comenta con Gestora.
+
+Paciente de EDAD_SUJETO_ASISTENCIA, sin antecedentes destacables. Acude por edemas faciales con aparición de lesiones urticariformes, acompañado de fiebre y tiritonas desde ayer por la tarde con nauseas y vómitos.
+A su llegada a urgencias paciente febril con t 38o sin otra focalidad aparente en exploración física.
+Se solicita A/S, rx tórax , HC, perfil orina. PCR 3.41, LDH 211, filtrado correcto, perfil hepatico correcto, ligera hipopotasemia 3.4, con hipomagnesemia leve 1.5, procalcitonina negativa 0.10, no leucocitosis, D-Dimero 18200.
+Paciente con clínica de viriasis, ante la sospecha se solicita PCR de sarscov y se mantiene en evolución en H Virgen del Carmen. Si mejoria clinica podria ser alta a domicilio por la mañana.
+
+INGRESO SALA COVID 19
+Paciente de EDAD_SUJETO_ASISTENCIA sin AMC, natural de PAIS, fumador habitual , trabaja en un OTROS_SUJETO_ASISTENCIA, no AP de interés
+Acude a urgencias  por cuadro de 24 horas de evolución caracterizado por edema facial, labial, palpebral asociada  a lesiones habonosas pruriginosas evanescentes ( tiene fotos )  a los que se asociad fiebre y tiritonas con nauseas y vomitos, niega fármacos nuevos, comidas diferentes, ni toxicos
+Niega clínica respiratorioa, miccional , gastrointestinal, niega ageusia o anosmia, no contacto con pacientes covid 19 positivos A su llegada a urgencias, febril  Hemodinámicamente estable. Edema parpebral, con leve edema bucal, no lesiones piel (aporta imagen con gran edema bucal y parpebral y lesiones habonosas en frente) lesiones de rascado zona clavicular.
+Cardiopulmonar clínicamente estable
+Analitica de ingreso destaca: PCR 3,49,  Ddimero de 18200
+A mi valoración en sala Covid, refiere el cuadro descrito en urgencias.
+A la exploración en la sala Febril 38, FR 18, SpO2 basal de 93, a la auscultación pulmonar murmullo vesicular conservado en ambos campos pulmonares, no edemas ni signos de TVP en extremidades, no edema palpebral ni labial actualmente Con lentillas nasales SpO2 a 98%.
+angio TAC Descarta  TEP
+Plan
+1.- Analitica de control
+
+EVOLUTIVO EN SALA COVID 19
+1.-INFECCIÓN POR  COVID 19
+2.-REACCION URTICARIFORME
+Paciente de EDAD_SUJETO_ASISTENCIA sin AMC, natural de PAIS, fumador habitual , trabaja en un OTROS_SUJETO_ASISTENCIA, no AP de interés
+Acude a urgencias  por cuadro de 24 horas de evolución caracterizado por edema facial, labial, palpebral asociada  a lesiones habonosas pruriginosas evanescentes ( tiene fotos )  a los que se asociad fiebre y tiritonas con nauseas y vomitos, niega fármacos nuevos, comidas diferentes, ni toxicos
+Niega clínica respiratorioa, miccional , gastrointestinal, niega ageusia o anosmia, no contacto con pacientes covid 19 positivos A su llegada a urgencias, febril  Hemodinámicamente estable. Edema parpebral, con leve edema bucal, no lesiones piel (aporta imagen con gran edema bucal y parpebral y lesiones habonosas en frente) lesiones de rascado zona clavicular. Cardiopulmonar clínicamente estable Analitica de ingreso destaca: PCR 3,49,  Ddimero de 18200
+En sala Covid, refiere el cuadro descrito en urgencias. A la exploración en la sala Febril 38, FR 18, SpO2 basal de 93, a la auscultación pulmonar murmullo vesicular conservado en ambos campos pulmonares, no edemas ni signos de TVP en extremidades, no edema palpebral ni labial actualmente Con lentillas nasales SpO2 a 98%.
+Dados los hallazgos analiticos y la leve desaturación durante los picos febriles  se solicita  Angio TAC pulmonar que descarta TEP  y no se evidencian lesiones a nivel de parenquima pulmonar Urocultivo negativo, hemocultivos hasta el dia del alta sin crecimiento bacteriano.
+Durante su estancia en sala evoluciona favorablemente manteniendose afebril por mas de 24 horas sin medicamentos antitermicos, si presentar la lesiones urticariformes   y mejoria progresiva de los parametros analiticos que al alta PCR 0,46,  perfil hepatico normal, hemograma normal, D-Dimero 500
+Dada la buena evolución clinica, la mejoria de los parametros analiticos, la ausencia de signos de gravedad, se  decide el alta hospitalaria  con tratamiento sintomatico.
+Debera realizar aislamiento domiciliario hasta cumplir  14 dias desde el inicio de  los sintomas  ( 12 de agosto  )
+Se le indica  signos de alarma para reconsulta inmediata a urgencias.
+Se le recomienda seguimiento de manera ambulataria por su medico de CAP y alergologo de zona para completar estudio

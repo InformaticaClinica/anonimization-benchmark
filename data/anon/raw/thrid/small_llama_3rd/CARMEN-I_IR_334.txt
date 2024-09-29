@@ -1,0 +1,22 @@
+ En seguimiento por INSTITUCION INSTITUCION. Fiebre y tos con consulta FECHAS con sospecha de OTROS_SUJETO_ASISTENCIA. En tratamiento con OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, requirió de una dosis de OTROS_SUJETO_ASISTENCIA el FECHAS por empeoramiento.
+En las últimas FECHAS desaturación (OTROS_SUJETO_ASISTENCIA basal) con aumento de la tos y dolor pleurítico en OTROS_SUJETO_ASISTENCIA. PCR OTROS_SUJETO_ASISTENCIA (ligero descenso); D- OTROS_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA, en descenso); OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA; OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA. Recibe OTROS_SUJETO_ASISTENCIA. Ruego OTROS_SUJETO_ASISTENCIA para estudio de empeoramiento clínico. Gracias!!
+
+DISNEA CON FIEBRE
+
+protocolo:
+TC TÓRAX URGENTE SIN CONTRASTE E.V. (Se decide no administrar debido a la mala función renal)
+
+resultados:
+Se compara con OTROS_SUJETO_ASISTENCIA previo del FECHAS.
+Estructuras mediastínicas de aspecto normal. No se observan adenopatías mediastínicas o axilares de tamaño patológico.
+Leve derrame pleural derecho y mínimo derrame pleural izquierdo. No se observa derrame pericárdico.
+Sutura quirúrgica en relación a OTROS_SUJETO_ASISTENCIA.
+Opacidades en vídrio deslustrado bilaterales, de predominio en OTROS_SUJETO_ASISTENCIA, algunas de ellas con imágenes de "crazy paving" y alteración arquitectural bibasal de predominio derecho, todo esto compatible con OTROS_SUJETO_ASISTENCIA, con incipientes cambios organizativos.
+Comparativamente con la radiografía previa disponible de FECHAS se aprecia cierta progresión.
+En los cortes abdominales incluidos, se observa parcialmente el riñón izquierdo atrófico, sin otros hallazgos significativos.
+
+conclusiones:
+Hallazgos compatibles con OTROS_SUJETO_ASISTENCIA, con incipientes cambios organizativos de predominio en LID, todo ello presenta progresión respecto a la RX previa de FECHAS.
+
+descrip:
+TC TORAX

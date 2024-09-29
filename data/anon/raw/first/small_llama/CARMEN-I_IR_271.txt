@@ -1,0 +1,27 @@
+ En seguimiento por Hematología [**Paciente con linfoma difuso**].
+Presenta PCR SARS-CoV-2 positiva desde hace [**4 meses**] con Cts persistentemente bajos (indicando alta carga viral). Recibió en el pasado [**Remdesivir**] y mejoró. Ahora reingresa con empeoramiento radiológico.
+Rogamos TC para descartar NOC, aunque la sensación clínica es de respuesta viral sostenida (el TC también serviría para certificar la afectación pulmonar pese a la larga evolución desde la primera PCR).
+Gracias!!
+[**NEUMONÍA BILATERAL POR SARS-COV-2**]
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+Se realiza examen comparativo con TC previo de [**01/03/2020**].
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+[**Tiroides**] aumentado de tamaño a expensas del lóbulo izquierdo y con un nódulo en el interior de la porción intratorácica.
+Presenta una zona hipodensa en el interior de la aurícula izquierda adyacente al septo interauricular lo que podría traducir la existencia de un foramen oval permeable.
+No se evidencia derrame pleural o pericárdico.
+Aparición de una imagen nodular sólida que se localiza intrapulmonar paraaórtica izquierda y alrededor del paquete broncovascular del segmento apicoposterior del culmen. Esta lesión podría corresponder a una adenopatía intralobar o a un nódulo pulmonar. Su rápida evolución orientaría hacia una causa infecciosa o inflamatoria. Dada su localización peribronquial podría abordarse con EBUS radial aunque el segmento apicoposterior del culmen es de díficl acceso con dicha técnica.
+Presenta resolución de los focos de vidrio deslustrado presentes en el anterior control aunque con aparición de nuevos focos de vidrio deslustrado de disposición peribroncovascular en el lóbulo superior derecho, acompañados de una banda pulmonar. Estos hallazgos podrían estar en relación con infección por COVID-19 aunque también podrían corresponder a neumonía organizativa.
+Discreto crecimiento de un nódulo subpleural de morfología ovoidea que se localiza en el segmento basal posterior del lóbulo inferior izquierdo y que ha pasado de [**5 x 2 mm**] a [**7 x 4 mm**] y es de aspecto inespecífico.
+Resto del parénquima pulmonar sin alteraciones valorables.
+Discretos cambios degenerativos en la columna torácica.
+[**Colecistectomía**]. [**Quistes simples intrahepáticos**].
+
+conclusiones:
+Ver resultados.
+
+descrip:
+[**TC TORAX**]

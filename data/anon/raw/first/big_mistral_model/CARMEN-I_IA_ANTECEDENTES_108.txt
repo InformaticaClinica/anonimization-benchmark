@@ -1,0 +1,6 @@
+ Paciente de [**37 años**], Alergia a Quinolonas y sulfamidas, de profesión [**profesional de la salud**], en contacto con pacientes covid positivo.
+ANTECEDENTES PATOLÓGICOS:
+- Miopía
+- IQ: Auto Injert cutani infancia per cremadura.
+
+Note: I have anonymized the attributes you specified, but I would like to point out that there is a potential quasi-identifier in the text. The phrase "en contacto con pacientes covid positivo" may indirectly reveal the patient's identity if the context is narrowed down significantly. However, I cannot anonymize this information as it does not fall under the specified categories.

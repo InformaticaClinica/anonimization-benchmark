@@ -1,0 +1,30 @@
+ PET HOSPITAL PROFESION OTROS_SUJETO_ASISTENCIA NUMERO_IDENTIF
+
+clinica:
+Varón de EDAD_SUJETO_ASISTENCIA sin AP de interés que consulta por cuadro de 10 días de evolución de malestar general, sudoración nocturna y aparición de tumoración en región cervical izquierda asociado edemas en FECHAS.
+Analíticamente destaca creatinina de 5 por lo que se realiza ecografia renovesical urgente donde presenta adenopatías patológicas a nivel mesentérico. Radiografía de tórax con posible imagen parahiliar izquierda.
+Con sospecha de sindrome linfoproliferativo, posible OTROS_SUJETO_ASISTENCIA, se solicita PET-TC para diagnóstico y estadiaje.
+
+protocolo:
+PET: Se practica tomografía de emisión y transmisión, de cuerpo entero, 60 minutos después de la inyección endovenosa de 7,1 mCi de 18F NUMERO_IDENTIF (18F-Fluordesoxiglucosa).
+Glucemia en el momento de la inyección de NUMERO_IDENTIF: 90 mg/dL.
+Se realiza TAC, tras la administración de contraste oral, y PET de cuerpo entero.
+Se obtienen imágenes tomográficas de cuerpo entero de PET (con y sin corrección de atenuación) e imágenes fusionadas.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de NUMERO_IDENTIF (cerebro, región orofaríngea, miocardio, hígado, bazo y tracto gastrointestinal) y su eliminación urinaria (riñones, uréteres y vejiga).
+Importante aumento de captación de NUMERO_IDENTIF, irregular, en multiples adenopatías cervicales, que afectan prácticamente todos los niveles, incluso retrofaringeas, de predominio izquierdo y algunas formando mazacotes (SUVmax nivel II izquierdo 15,2).
+Aumento de captación de NUMERO_IDENTIF, difuso pero irregular, en musculatura supraespinal que, además parece engrosada (SUVmax 5,0), tambien sugestivo de invasión tumoral.
+Importante aumento de captación de NUMERO_IDENTIF en multiples adenopatías supraclaviculares bilaterales, mediastínicas e hiliares, destacando las de localización: supraclavicular izquierdo (SUVmax 6,8), paratraqueales, prevasculares, axilares izquierdas (SUVmax 9,7), de ventana aortopulmonar, subcarinales  y periesofágicas.
+Derrame pleural bilateral, con discreto aumento de captación de NUMERO_IDENTIF (SUVmax 3).  Imágenes hipermetabólicas focales que parecen localizarse en pleura (SUVmax 5,6), sugestiva de implantes.
+Aumento de captación de NUMERO_IDENTIF en pericardio que traduce infiltración en la zona (SUVmax 8,3).
+Importante aumento de captación de NUMERO_IDENTIF en multiples adenopatías infradiafragmáticas, destacando las de localización: celiaca, periportal, peripancreática, mesentérica, retroperitoneal (SUVmax 10,2), que rodea en su totalidad los vasos, e iliaca (SUVmax 10,8). El Tc es no diagnóstico y sin contraste, por lo que podría existir captación no adenopática en algunas de estas zonas atribuible a tunor primario, imposible de diferenciar en el estudio sin contraste iodado.
+Importante aumento de captación de NUMERO_IDENTIF en varias vértebras (SUVmax c6 8,7), costillas, ilico derecho, fémur izquierdo y pubis derecho (SUVmax 12,6), sugestivos de metástasis
+No se observan otras captaciones patológicas de NUMERO_IDENTIF en bazo ni en el resto de sectores corporales estudiados sugestivos de actividad macroscópica tumoral con avidez por la NUMERO_IDENTIF.
+
+conclusiones:
+Estudio PET/TC que muestra importante aumento patológico de captación de NUMERO_IDENTIF en multiples adenopatías cervicales, supra e infradiafrágmaticas, sin poder descartar que entre estas imágenes exista captación patológica no adenopática. Se recomienda realizar un Tc diagnóstico con contraste para delimitar mejor y diferenciar las distintas estructuras, especialmente en región abdominopélvica (pancreas?).
+Importante aumento patológico de captación de NUMERO_IDENTIF en estructuras óseas, pericardio, pleura y musculatura supraespinosa. Todas las imágenes son sugestivas de infiltración tumoral.
+
+descrip:
+PET HOSPITAL PROFESION OTROS_SUJETO_ASISTENCIA NUMERO_IDENTIF

@@ -1,0 +1,8 @@
+ Hombre de EDAD_SUJETO_ASISTENCIA, independiente para OTROS_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, sin hábitos tóxicos. Natural de PAIS.
+Vacuna complenta (Pfizer) 2a dosi el 14/12/12
+*ANTECEDENTES PATOLÓGICOS:
+1. Hipertensión arterial en tratamiento farmacológico.
+2. Mielofibrosis secundaria a Policitemia Vera (mutación JAK2 +) en tratamiento con Ruxolitinib. Se diagnosticó de Policitemia Vera en 1999 a raíz de poliglobulia (Hb 224 g/L, hematocrito 67%, hierro 125 ug/dL, ferritina 82.3 ng/mL, eritropoyetina 6.2 mU/mL, LDH 1391 U/L) en contexto de cuadro con cefalea, astenia, prurito y esplenomegalia.
+3. Trombosis venosa profunda a nivel poplíteo en 1992.
+4. Discopatia degenerativa L5-S1 y hernia discal extruida a nivel de L5- S1 postero-lateral y con afectación radicular S1 izquierdas.
+* Medicación habitual: Ruxolitinib 15mg/12h, AAS 100mg/día, omeprazol 20mg/día.

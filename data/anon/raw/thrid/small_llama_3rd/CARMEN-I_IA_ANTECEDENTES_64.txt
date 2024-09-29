@@ -1,0 +1,8 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA sin alergias a medicamentos. Niega hábitos tóxicos, enol muy ocasional. Independiente para las ABVD, vive con su OTROS_SUJETO_ASISTENCIA, ha realizado trabajos puntuales.
+No vacunada.
+ANTECEDENTES PERSONALES
+- ANTECEDENTES_PERSONALES sin tratamiento médico.
+- ANTECEDENTES_PERSONALES sin tratamiento médico.
+- ANTECEDENTES_PERSONALES sin tratamiento médico.
+- ANTECEDENTES_PERSONALES
+Sin tratamiento habitual.

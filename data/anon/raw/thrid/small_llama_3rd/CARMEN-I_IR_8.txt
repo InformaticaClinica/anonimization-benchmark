@@ -1,0 +1,17 @@
+ RM HOSPITAL Y ANGIO RM ARTERIAL INTRACRANEAL
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA politoxicomano que acude por cuadro hemimotor hemisensitivo derecho tras consumo de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. Ruego RM NIT para producir estudio. PACIENTE FAMILIARES_SUJETO_ASISTENCIA POSITIVO. Gracias.
+SÍNDROME HEMIMOTOR HEMISENSITIVO DERECHO
+
+protocolo:
+RM Y ANGIORM HOSPITAL
+
+resultados:
+En el estudio efectuado se aprecia una fosa posterior de morfología y señal normales.  Supratentorialmente el sistema ventricular es de forma, tamaño y situación normales.  No se aprecian alteraciones morfológicas ni de la señal en el parénquima cerebral. ESTUDIO ANGIOGRAFICO INTRACANEAL SIN ALTERACIONES
+
+conclusiones:
+Examen RM craneal dentro de límites normales.
+
+descrip:
+RM HOSPITAL Y ANGIO RM ARTERIAL INTRACRANEAL

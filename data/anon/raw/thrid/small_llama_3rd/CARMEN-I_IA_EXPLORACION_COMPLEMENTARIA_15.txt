@@ -1,0 +1,28 @@
+ PRUEBAS MICROBIOLOGICAS
+PCR SARS-COV2 17/5. POSITIVO
+PCR SARS-COVD2 19/5. POSITIVO. CT 32
+Serologia VIH/VHB 17/5: NEGATIVA
+INTERCONSULTA PSIQUIATRÍA 19/5/2019
+Motivo de consulta
+Realizan interconsulta para paciente SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA ingresada por infección por SARS-COV-2 (no vacunada), que evoluciona con inestabilidad emocional durante hospitalización dado contexto médico de su propia salud y de su OTROS_SUJETO_ASISTENCIA quien se encuentra hospitalizado por COViD-19 en HOSPITAL en UCI por insuficiencia respiratoria, por lo que se solicita valoración por nuestra especialidad.
+Antecedentes médicos:
+Personales: HTA, HDA 2011 por úlcera duodenal y antritis, infección por H. pylori, migraña.
+Familiares: bisabuelo fallecido IAM, bisabuela HTA Arritmia.
+Antecedentes quirúrgicos: no refiere. Alergias: amoxicilina ac clavulánico, tramadol, aines.
+Antecedentes Psiquiátricos:
+Personales: intento autolítico con ingesta medicamentosa hace 35 años aproximadamente en contexto de conflicto familiar (ex pareja se queda con tuición de hijos y se los lleva a vivir a Guadalajara), intento requirió hospitalización en HOSPITAL, tuvo seguimiento por psiquiatría y fue dada de alta, uso tratamiento psicofarmacológico que no recuerda. Familiares: no refiere. Hospitalizaciones: HOSPITAL por intento autolítico hace 35 años.
+Historia de suicidio:
+Personal: HOSPITAL por intento autolítico hace 35 años.
+Familiar: no refiere. Hábitos: Tabaco: no refiere. OH: no refiere.
+Cannabis, cocaína u otras sustancias: no refiere. Fármacos: sin fármacos. Psicobiografía: casada, 2 OTROS_SUJETO_ASISTENCIA, vive con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, trabajaba en una PROFESION, refiere buenas relaciones intrafamiliares, OTROS_SUJETO_ASISTENCIA actualmente se encuentra hospitalizado por COVID-19 en UCI de HOSPITAL, además refiere que en diciembre del 2018 fallecen 2 mascotas y amigo cercano. Me comunico con OTROS_SUJETO_ASISTENCIA quien me refiere que el día 15.5.2019 paciente evoluciona con crisis ansiosa previo a ingreso hospitalario en contexto de infección de COVID-19, donde refiere que "si a su OTROS_SUJETO_ASISTENCIA (Luisa) le pasa algo o fallece, ella se va a suicidar".
+Desde el punto de vista médico, paciente se encuentra altable según tratancia.
+Exploración clínica
+Al examen mental: vigil, orientada en tiempo, espacio, persona y situación, aspecto cuidado, representa edad cronológica, vestimenta acorde al contexto hospitalario, higiene conservada, contacto sintónico, cooperadora a la entrevista, llora durante entrevista, euprosexica, sin déficits mnémicos apreciables, discurso espontáneo, fluido, flexible, bien estructurado, sin alteraciones del curso formal del pensamiento, sin alteraciones sensoperceptivas o de la vivencia yoica, impresiona eutímica, labilidad emocional, ansiedad psíquica en contexto de hospitalización actual de ella y OTROS_SUJETO_ASISTENCIA, sin ideación suicida en la actualidad, sin alteraciones del sueño ni apetito en la actualidad, juicio crítico de realidad preservado, in sight presente.
+OD: Reacción vivencial.
+Plan: Se ofrece manejo psicofarmacológico a paciente para manejo de sintomatología, sin embargo, lo rechaza. Dejamos diazepam 10 mg PRN en caso de crisis ansiosa. Se sugiere al alta enviar a paciente a domicilio acompañada mientras se encuentre en aislamiento. Control con psiquiatría de enlace
+INTERCONSULTA PSICOLOGIA 20/5/2019
+Psicología. NOMBRE_PERSONAL_SANITARIO. 20/5/2019 IC a petición de equipo médico.
+Paciente de EDAD_SUJETO_ASISTENCIA con diagnóstico de infección por SARS-Cov-2, inicio de síntomas 9/5.
+Antecedentes de trastorno depresivo con intento autolítico hace 35 años, con ingreso en Psiquiatría. Casada, tiene dos OTROS_SUJETO_ASISTENCIA de anterior OTROS_SUJETO_ASISTENCIA. La hija preocupada por como contener la ansiedad de la paciente.
+Visita de valoración. Abordable y colaboradora. Ansiedad psicofísica elevada en contexto de preocupación porque su OTROS_SUJETO_ASISTENCIA está ingresado en HOSPITAL por neumonía por Covid-19. Refiere duelos recientes no resueltos (fallecimiento de dos perros e hijo de una amiga). Validación emocional y aboramos estrategias de regulación emocional. Refiere momentos de mayor ansiedad cuando no recibe información por parte del hospital. La paciente hace demanda de medicación ansiolítica para tomarla si precisa. Abordamos otras estrategias (buscar apoyo social, respiración diafragmática, estrategias cognitivas).
+Llamada a la hija, doy información sobre estado de la paciente y pautas para controlar situación de crisis y ansiedad, acompañamiento por parte de amigos y familiares.

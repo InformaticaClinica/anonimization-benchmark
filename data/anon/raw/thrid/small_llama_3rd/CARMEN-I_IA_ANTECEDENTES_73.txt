@@ -1,0 +1,8 @@
+ ANTECEDENTES PERSONALES
+Mujer de EDAD_SUJETO_ASISTENCIA natural de PAIS. Reside en TERRITORIO desde hace 10 años con su OTROS_SUJETO_ASISTENCIA y su OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA. Último viaje a PAIS hace 3 años. Independiente para las ABVD. Actualmente en desempleo desde hace un mes (antes trabajaba como limpiadora). No refiere hábitos tóxicos ni AMC.
+Barrera idiomática parcial.
+ANTECEDENTES PATOLÓGICOS
+No refiere AP de interés.
+TPAL NUMERO_IDENTIF (OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA).
+FUR FECHAS.
+No toma medicación de manera habitual.

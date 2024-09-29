@@ -1,0 +1,23 @@
+ **EVOLUCIÓN Clinica COVID**
+1. NEUMONÍA. PROBABLE INFECCIÓN POR SARS-CoV2 (COVID-19)
+2. FA CRÒNICA
+TECHO TERAPÉUTICO: ESTADIO I.
+ÍNDICE DE GRAVEDAD ROX: 15,8 (deterioro leve)
+Paciente de [**73 años**] de edad. Alérgico a la [**amiodarona**] y [**enalapril**] con mala tolerancia a los nitratos por cefalea. Consultó en urgencias de [**Hospital Clínico Universitario Ferrán i Clua**] por cuadro de fiebre de predominio nocturno con tos seca sin diarrea ni disnea franca. Por sintomatología, imagen y analítica compatible se orientó el cuadro como probable neumonía por COVID y se inició tratamiento empírico tras consentimiento del paciente. Se ingresó en sala por comorbilidades, presentando buena evolución y finalizando el tratamiento pautado. Dada la estabilidad clínica se decidió traslado a [**Clinica COVID**], para seguimiento (el paciente todavía requería [**oxigenoterapia con LN 2L**]) y control de transaminasas.
+Situación social al alta: Sin hábitos tóxicos. Independiente para las ABVD. Vive con su [**cuñado**] y con posibilidad de hacer aislamiento domiciliario.
+Fecha inicio síntomas: 28.08.2022
+Fecha de ingreso: 09.04.2022
+Fecha de frotis positivo (primera PCR): SIN FROTIS.
+Fecha ingreso Hospital COVID: 10/09/2022
+Medicación COVID:
+09/04 Ceftriaxona + teicoplanina, kaletra, HQL y azitromicina (06/09 STOP) antibiótico (procalcitonina N, sin consolidación en Rx).
+Oxígeno durante la estancia hospitalaria: LN 2L /
+Oxígeno al alta en HDOM: No precisa
+Analítica (09/09/2022): PCR en descenso (1.73 mg/dl), Leucos normales (5'470/μl), mínima linfopenia (0.9/μl). DD 400. Ferritina en descenso (1100). Mg 1.7mg/dl. Bt 2.5 mg/dl (descenso) con transaminasas de 50/80 y FA normal.
+Analítica (12/09/22): PCR 0.99 mg/dl, Leu 6.420/μl, linf 1.6/μl, LDH 243U/L, Ca 11mg/dl, Mg 2.1 mg/dl, Na 137 mEq/L, K 4.8 mEq/L, AST/ALT 30/52 U/L, GGT 1.3 U/L, FA normal, TAG 272 mg/dl.
+Rx tórax 07/09/22: sin progresión/mejoría respecto previas.
+ECG (del ingreso): RS a 80x, QTc normal (440 mseg), sin alteraciones de la repolarización.
+ECG 11/09/2022: Fibrilación auricular con conducción ventricular a 60 lpm, Qtc 400 mseg. Sin alteraciones de la repolarización.
+ECO abdominal 09/09/22: colecistectomizado, resto normal (sin dilatación de la VB)
+A su llegada a Clinica COVID, se pautó medicación habitual del paciente ([**Pantoprazol 20mg/12h**], [**Amlodipino 2,5 mg/d**], [**Paracetamol 1000 mg/d**], [**Bisoprolol 5 mg/12h**], [**AAS 100 mg/d**], [**Atorvastatina 20 mg/d**], [**Alprazolam 0,75 mg/d**], [**Tobradex colirio**], [**Elidel 10 mg/g crema**], [**Cafinitrina a demanda**], [**Alprazolam 1.5mg/d**], [**Diltiazem 150mg/d**]), pero se mantuvo con [**enoxaparina 40mg/12h**] (dosis terapéuticas), por dificultad de realizar la pauta y los controles de hemostasia. A su llegada el paciente se encontraba hemodinámica y clínicamente estable con ligera astenia, con saturación de 97% con LN2L y 89% basales por lo que en ese momento se decidió mantener oxigenoterapia con LN2L.
+Durante el ingreso el paciente ha tolerado la reducción de oxigenoterapia hasta mantener unas saturaciones basales del 98% y sin disnea por lo que se ha decidido cesar su uso, aunque sigue requiriendo CPAP nocturna habitual. Se le realizó un segundo ECG el 11/09/22 que mostró fibrilación auricular con conducción ventricular de 60 lpm por lo que se redujo [**Bisoprolol**] a 2.5 mg/24h. Desarrolló deposiciones diarreicas por lo que se cursa coprocultivo el 17/09 sin hallazgos significativos. Se mantiene HBPM durante 1 mes más para pasar posteriormente a SINTRON. Respecto al COVID19 el paciente se ha mantenido estable asintomático por lo que se da el alta a domicilio con desplazamiento en taxi el día 20/09/2022.

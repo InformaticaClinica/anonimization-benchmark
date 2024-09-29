@@ -1,0 +1,18 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+COVID
+Linfoma Folicular en OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+Se compara con Rx previa del FECHAS.
+OPACIDADES: Sí. Se observan discetras opacidades bilaterales, de predominio izquierdo y en ambos campos medios, periféricas, que han aumentado respecto a radiografía del FECHAS, compatibles con infección por COVID ya conocida, con empeoramiento radiológico respecto a control previo. Consolidación lobar campo superior del OTROS_SUJETO_ASISTENCIA, hecho que no permite descartar sobreinfección.
+PATRÓN INTRSTICIAL: No.
+CONCLUSIÓN: Hallazgos sugestivos de neumonía por COVID, que radiológicamente ha empeorado respecto a radiografía previa.
+Consolidación presente en campo medio pulmonar izquierdo no permite descartar sobreinfección.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

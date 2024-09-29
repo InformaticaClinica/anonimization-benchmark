@@ -1,0 +1,29 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente con [**SDRA**] COVID grave en soporte con [**IOT**] + [**VMI**], Evolución tórpida con altos requerimientos de oxigenoterapia y persistencia de hipoxemia a pesar de varios ciclos de prono. En TAC previo presentaba ya datos de [**NOC**] incipiente. Solicitamos nuevo angioTAC pulmonar para valorar estado del parenquima pulmonar y valorar progresion/extensión de la [**NOC**], posibilidad de sobreinfección u otras complicaciones que justifiquen el empoeramiento del paciente.
+El paciente se encuentra en posicion prono, la intención sería mañana supinarlo y realización del TAC, idealmente por la mañana. Muchas gracias.
+
+2. [**INSUFICIENCIA RESPIRATORIA HIPOXÉMICA E HIPERCA**]
+
+protocolo:
+Angio-TC pulmonar.
+
+resultados:
+Se compara con angio-TC pulmonar previo de [**9/6/2020**].
+No se observan defectos de repleción en arterias pulmonares que sugieran [**TEP**]. Tronco de la arteria pulmonar de calibre en el límite superior de la normalidad ([**30 mm**]). Sin signos de sobrecarga cardiaca derecha.
+[**TET**] a 7 cm de la carina. [**SNG**].
+No se observan adenopatías mediastínicas ni axilares de tamaño significativo.
+Ausencia de derrame pleural.
+Moderado enfisema centrolobulillar y paraseptal de predominio en [**LLSS**].
+Focos consolidativos y en vidrio deslustrado peribroncovasculares con bandas parenquimatosas de distribución bilobular asociado a dilatación y distorsión bronquial, de predominio basal ([**LM**], [**língula**] y [**LLII**]), sugestivo focos de neumonía organizativa secundaria a infección por [**COVID-19**]. Los focos consolidativos descritos han disminuido de tamaño respecto al TC previo, lo que sugiere mejoría.
+Disminución de las tenues opacidades reticulares y en vidrio deslustrado, sugestivo de cambios residuales por [**COVID-19**].
+En [**LLSS**] se observa la aparición de opacidades centrolobulillares en vidrio deslustrado con tendencia a confluir en el [**LSI**] y en el segmento anterior del [**LSD**], sugestivo de bronquiolitis infecciosa, valorar etiología bacteriana como primera opción.
+
+conclusiones:
+Sin signos de [**TEP**].
+Disminución de los focos de neumonía organizativa de predominio basal secundaria a infección por [**COVID-19**]. Disminución de las opacidades reticulares y en vidrio deslustrado en [**LLSS**] sugestivo de cambios residuales por [**COVID-19**].
+Aparición de signos de bronquiolitis infecciosa en el [**LSI**] y en el segmento anterior del [**LSD**], valorar etiología bacteriana como primera opción.
+
+descrip:
+ANGIO TC PULMONAR

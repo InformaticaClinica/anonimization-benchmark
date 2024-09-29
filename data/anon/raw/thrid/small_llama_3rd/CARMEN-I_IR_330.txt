@@ -1,0 +1,17 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+POSIBLE COVID-19
+
+protocolo:
+Rx de tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la realitzada el FECHAS.
+Pràctica desaparició de les opacitats descrites en estudi previ, actualment només observem petites opacitats a base de pulmó esquerre molt menys llamatives que en estudi previ.
+
+conclusiones:
+Franca milloria radiològica de OTROS_SUJETO_ASISTENCIA
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

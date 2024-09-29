@@ -1,0 +1,34 @@
+ TC TÒRAX ALTA RESOLUCIO
+
+clinica:
+Paciente SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA ap=nodulo pulmonar solitario(NPS) en seguimiento por neumología INSTITUCION, bronquiectasias cilíndricas de prodominio bibasal sin engrosamientos parietales y atelectasias laminares en TERRITORIO en TAC 2015. ESCOLIOSIS CON + 60% DESVIACIÓN Posible PMR en tto con corticoides en julio 2017, pte de inicio de aclasta por osteoporosis. Adenoma suprarrenal.
+Ingreso por:
+1),,Neumonia bilateral por COVID con insuficiencia respiratoria, ahora satura FECHAS-GN2L, fatiga al realizar cualquier movimiento. Inicio de clínica FECHAS, hoy día FECHAS, y diagnóstico en día FECHAS por pcr.
+Ha completado OTROS_SUJETO_ASISTENCIA (FECHAS) y está en curso de OTROS_SUJETO_ASISTENCIA.
+Refiere tos y fatiga. No tiene fiebre ni otra clínica. Pido TAC torácico porque presenta ligera molestia torácica y mucha fatiga para descartar entre otras cosas OTROS_SUJETO_ASISTENCIA. Va con profilaxis con OTROS_SUJETO_ASISTENCIA. Tambien por sus bronquiectasias está cubierta con OTROS_SUJETO_ASISTENCIA, pte de analítica para ver si podemos pasar a via oral.
+2),,Insuficiencia respiratoria por FAMILIARES_SUJETO_ASISTENCIA
+A pesar de tto la paciente sigue presentando sturacion justa con bastante disnea al esfuerzo, rogamos TAC toracico para descartar complicaciones de FAMILIARES_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA, tep...)
+NEUMONÍA por FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+Estudio basal mas alta resolución pulmonar.
+
+resultados:
+Se compara con TC previa de 04/5/2017.
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Mínimo derrame pleural bilateral.
+Areas en vidrio deslustrado de distribución periferica subpleural bilateral con afectación de todos los lobulos pulmonares. Mayor consolidación en TERRITORIO. Algunos de estos focos presentan el signo del halo inverso en LLII que podrían corresponder a focos de neumonia organizativa.
+Bronquiectasias cilíndricas difusas de predominio LLII con engrosamientos peribronquiales.
+Atelectasias laminares en el TERRITORIO.
+Hernia de hiato.
+Nódulo suprarrenal derecho de 22 mm, hipodenso, sin cambios, sugestivo de adenoma.
+Escoliosis dorsolumbar de convexidad derecha.
+
+conclusiones:
+Empeoramiento radiologico con multiples focos  en vidrio deslustrado bilaterales con focos de neumonia organizativa en LLII.
+Bronquiectasias cilíndricas difusas de predominio LLII.
+Hernia de hiato.
+Adenoma suprarrenal derecho.
+
+descrip:
+TC TÒRAX ALTA RESOLUCIO

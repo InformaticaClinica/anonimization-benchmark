@@ -1,0 +1,12 @@
+ INGRESO PROGRAMADO PARA ECO-BIOPSIA DE MASA RENAL, en contexto de FAMILIARES_SUJETO_ASISTENCIA
+2.- LINFOMA FOLICULAR TRANSFORMADO REFRACTRIO actualmente en recidiva de enfermedad a nivel abdominal tras  terapia OTROS_SUJETO_ASISTENCIA el FECHAS
+3.- INFECCION ASINTOMÁTICA POR FAMILIARES_SUJETO_ASISTENCIA en PCR de control para ingreso
+- No sintomas
+- PCR + 06/07 CT 01/03/2020
+- Vacunada por FAMILIARES_SUJETO_ASISTENCIA + infección pasada
+- Tratamiento: Niega
+Paciente de EDAD_SUJETO_ASISTENCIA con un linfoma folicular transformado refractario tratado con terapia OTROS_SUJETO_ASISTENCIA el FECHAS tras el cual alcanza una respuesta completa metabólica mantenida hasta reevaluación del mes + 6 realizada el FECHAS, momento en el cual un PET/TAC detecta la aparición de dos lesiones tumorales abdominales, una de ellas a nivel renal derecho, sugestivo de recaída.
+Se programa biopsia renal guiada por ecografía, y en el frotis nasofaríngeo de protocolo previo ingreso se detecta infección por FAMILIARES_SUJETO_ASISTENCIA por lo que ingresa.
+La paciente refiere encontrarse completamente asintomática hoy y las semanas previas. Tiene antecedentes de haber transitado un FAMILIARES_SUJETO_ASISTENCIA oligosintomático el 16/4/2022 que no preciso ingreso ni realizo tratamiento alguno. Paciente vacunada con OTROS_SUJETO_ASISTENCIA xFAMILIARES_SUJETO_ASISTENCIA (FECHAS) y xFAMILIARES_SUJETO_ASISTENCIA el FECHAS.
+Ingresa en sala INSTITUCION para realizar donde se mantiene asintomática con analítica sin evidencia de elevación de reactantes de fase aguda y radiografía sin hallazgos patológicos.
+Se realiza Eco-biopsia de masa renal sin incidencias por lo que se decide alta médica reiniciando tratamiento previo con enoxaparina 80mg/24hs y con control posterior por Hematólogo de referencia.

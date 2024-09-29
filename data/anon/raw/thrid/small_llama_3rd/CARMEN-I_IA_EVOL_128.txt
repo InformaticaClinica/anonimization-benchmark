@@ -1,0 +1,16 @@
+ NEUMONIA LID POR SARS-COV2
+Fecha de ingreso: 14/5
+Inicio de sintomas: 05/08/18
+Esquema de vacunación: no realizado
+Tto recibidos: remdesivir (14/08-18/08), prednisona (21/08)
+
+2.- ELEVACIÓN DE LAS TRANSAMINASAS
+3.- NEUMONÍA ORGANIZATIVA (NO) INCIPIENTE POS-COVID
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA de edad con antecedente de OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA sin tratamiento actual. Acude por clínica de febrícula y tos desde el FECHAS a la que se asocia disnea en las últimas horas.
+Realiza TAR el FECHAS que es positivo.
+A su llegada a urgencias presenta sat OTROS_SUJETO_ASISTENCIA basal, eupneico, hemodinámicamente estable y febril.
+Rx de tórax muestra consolidación en LID. Analíticamente destaca proteína C- reactiva (PCR OTROS_SUJETO_ASISTENCIA) y LDH OTROS_SUJETO_ASISTENCIA, ferritina OTROS_SUJETO_ASISTENCIA, leucopenia OTROS_SUJETO_ASISTENCIA, limfopenia OTROS_SUJETO_ASISTENCIA, resto hemograma en rango, ddímero OTROS_SUJETO_ASISTENCIA.
+Se inicia tratamiento con remdesivir y se decide ingreso hospitalario.
+Durante el ingreso presenta mejoría clínica sin presentar desaturación oxigeno y por tanto tampoco requiere oxigenoterapia. Asimismo, descenso de reactantes de fase aguda, pero aumento de AST/ALT hasta OTROS_SUJETO_ASISTENCIA en contexto de remdesivir que desciende al suspender dicho tratamiento (ALT/AST OTROS_SUJETO_ASISTENCIA). En Rx control se evidencia aumento de consolidación en LID motivo por el cual se solicita TAC de tórax que muestra neumonía por COVID-19 con ligeros cambios organizativos en lóbulo inferior derecho.
+En vista de mejoría clínica y de pruebas complementarias se decide alta a domicilio (no precisa aislamiento) con pauta descendente de glucocorticoides por Neumonia Organizativa y control por médico de cabecera en un o dos meses tras el alta.
+Se explican signos de alarma y reconsulta.

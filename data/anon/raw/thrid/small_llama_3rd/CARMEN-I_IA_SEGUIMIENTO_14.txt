@@ -1,0 +1,5 @@
+ Plan de diálisis:
+Lunes-miércoles-viernes de 14.30-18.30 en HOSPITAL.
+Se adjunta última analítica de cara a ajuste de metabolismo calcifósforo en INSTITUCION. A nivel de anemia, actualmente se encuentra en tratamiento con OTROS_SUJETO_ASISTENCIA 40 mcg cada FECHAS. Pendiente descenso progresivo de OTROS_SUJETO_ASISTENCIA.
+Pendiente de OTROS_SUJETO_ASISTENCIA.
+Dirección INSTITUCION: CALLE. Deberá mantener OTROS_SUJETO_ASISTENCIA hasta el día FECHAS.

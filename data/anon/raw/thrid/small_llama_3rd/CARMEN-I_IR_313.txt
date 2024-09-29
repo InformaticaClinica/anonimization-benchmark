@@ -1,0 +1,17 @@
+ RX OTROS_SUJETO_ASISTENCIA  TORAX
+
+clinica:
+para el dia FECHAS (hoy)
+FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX de tòrax anteroposterior OTROS_SUJETO_ASISTENCIA.
+
+resultados:
+No evidencien OTROS_SUJETO_ASISTENCIA pulmonars tret de petita imatge lineal a base pulmonar esquerra on en estudi previ s'observava OTROS_SUJETO_ASISTENCIA del si OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA radiològica.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA  TORAX

@@ -1,0 +1,2 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA que el 7/2 se realiza PCR covid en la INSTITUCION que resulta positiva, tras contacto con amiga covid positiva 3 días antes.
+Su primo y su hija, con los que convive también son positivos. Refiere que inició los síntomas el mismo 7/2, con OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA los primeros días que ya no tiene. Hoy (FECHAS) ha ido al HOSPITAL de INSTITUCION donde la derivan por disnea y desaturación de 91% basal. La paciente refiere encontrarse bien, sin sensación disneica.

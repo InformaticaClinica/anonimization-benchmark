@@ -1,0 +1,23 @@
+ TC CEREBRAL
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA que presenta hematoma intraparenquimatoso cerebral con disminución del nivel de conciencia que requiere IOT + VMI.
+Actualmente GSC 3-4 a pesar de retirada de sedación farmacológica.
+Interesa TC craneal para comparar con previos y valorar hidrocefalia, aumento del edema vasogénico u otros signos de progresión de la lesión.
+Hematoma intracerebral parasagital derecho.
+
+protocolo:
+TC craneal basal URGENTE
+
+conclusiones:
+Se compara con TC previo del FECHAS.
+Disminución de la densidad y el tamaño del hematoma conocido frontal mediosagital derecho con extensión a la rodilla del cuerpo calloso, actualmente de OTROS_SUJETO_ASISTENCIA (APxTxCC, previo de OTROS_SUJETO_ASISTENCIA), asociado a moderado edema perilesional. Mínima disminución del efecto de masa descrito en TC previo, actualmente determinando mínima menor desviación a izquierda de la línea media (OTROS_SUJETO_ASISTENCIA, previo de OTROS_SUJETO_ASISTENCIA).
+Disminución de la densidad y cantidad de contaminación hemática descrita previamente. Actualmente persiste en ambas astas posteriores. Persiste sin cambios significativos la dilatación del sistema ventricular supratentorial conocida.
+Persiste, aunque menos evidente, el foco de OTROS_SUJETO_ASISTENCIA en la cisura de Silvio izquierda.
+Cisternas basales libres.
+Ensanchamiento de surcos cerebrales en relación a cambios involutivos.
+Imágenes lacunares hipodensas en ganglios basales, inespecíficas por TC (dilataciones vasculares vs infartos crónico), sin cambios. No se observan otras alteraciones significativas de la densidad del parénquima cerebral.
+Pseudoafaquia derecha.
+
+descrip:
+TC CEREBRAL

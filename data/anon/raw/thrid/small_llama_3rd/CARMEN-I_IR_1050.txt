@@ -1,0 +1,21 @@
+ En seguimiento por Hematología clinica.
+Varón de EDAD_SUJETO_ASISTENCIA con antecedentes de OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA curada, y OTROS_SUJETO_ASISTENCIA tratada en FECHAS.
+Presenta OTROS_SUJETO_ASISTENCIA de origen desconocido de FECHAS de evolución. FECHAS negativo. OTROS_SUJETO_ASISTENCIA en curso. OTROS_SUJETO_ASISTENCIA sin aparente afectación por OTROS_SUJETO_ASISTENCIA, pendiente de informar.
+Solicitamos OTROS_SUJETO_ASISTENCIA para descartar OTROS_SUJETO_ASISTENCIA y otro foco, gracias.
+OTROS_SUJETO_ASISTENCIA sin foco
+
+OTROS_SUJETO_ASISTENCIA:
+Radiofármaco: OTROS_SUJETO_ASISTENCIA. Se practica tomografía de emisión y transmisión, de cuerpo entero, FECHAS después de la inyección endovenosa de NUMERO_IDENTIF de OTROS_SUJETO_ASISTENCIA.
+Glucemia en el momento de la inyección: NUMERO_IDENTIF.
+
+resultados:
+Las imágenes ponen de manifiesto la captación fisiológica de OTROS_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA) y su eliminación urinaria (OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA).
+Se visualiza moderada captación de OTROS_SUJETO_ASISTENCIA en escasas OTROS_SUJETO_ASISTENCIA mediastínicas localizadas en ventana aortopulmonar, región subcarinal (NUMERO_IDENTIF) e hiliares bilaterales de predominio derecho, de problable características inflamatorias.
+No hay evidencia de depósitos patológicos de OTROS_SUJETO_ASISTENCIA en parénquima pulmonar ni hepático.
+No se identifican otras alteraciones en la captación del radiotrazador en el resto de sectores corporales estudiados.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA que muestra captación de OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA mediastínicas e hiliares, de probable características inflamatorias, sin otros signos de enfermedad macroscópica con avidez para la OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+PET TC COS SENCER FDG

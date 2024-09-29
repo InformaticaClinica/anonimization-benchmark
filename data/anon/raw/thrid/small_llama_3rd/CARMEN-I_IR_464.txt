@@ -1,0 +1,11 @@
+ RX  PORTATIL  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+COVID-19 PENDIENTE
+
+conclusiones:
+Patrón alveolo-intersticial bilateral en campos pulmonares medios e inferiores bilaterales con áreas consolidativas periféricas en el campo pulmonar medio e inferior izquierdo y campo pulmonar medio derecho.
+Presenta leve mejoría respecto a RX previa de FECHAS con disminuución de la densidad y extensión de las áreas consolidativas.
+
+descrip:
+RX  PORTATIL  OTROS_SUJETO_ASISTENCIA

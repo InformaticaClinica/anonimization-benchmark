@@ -1,0 +1,25 @@
+ Paciente de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas conocidas. Fumadora de OTROS_SUJETO_ASISTENCIA desde los FECHAS. Ha consumido cannabis, cocaína y basuco inhalada y algunas veces inyectada. Dependiente para actividades básicas de la vida diaria; EDAD_SUJETO_ASISTENCIA de discapacidad. Actualmente institucionalizada.
+
+* ANTECEDENTES PATOLÓGICOS:
+1. INFECCIÓN CRÓNICA POR VIH diagnosticado en FECHAS durante su segundo embarazo.
+- Nadir CD4 NUMERO_IDENTIF (NUMERO_IDENTIF) (FECHAS) y Zenit CV (FECHAS): NUMERO_IDENTIF.
+- Último control (FECHAS): CV 289, CD4 432.
+- Ha realizado NUMERO_IDENTIF esquemas de tratamiento con múltiples interrupciones.
+Actualmente con OTROS_SUJETO_ASISTENCIA (OTROS_SUJETO_ASISTENCIA).
+- Serologías (FECHAS): IgG VHA negativo. IgGVHBsAg, HBsAg, HBcoreAg egativo. IgG VHC negativo con VHC Genotipo OTROS_SUJETO_ASISTENCIA curada con carga viral positiva en FECHAS, no recibió tratamiento. RNA de control FECHAS, FECHAS y FECHAS negativo, no evidencia de hepatopatía. VDLR: negativo. IgG parótidanegativo. Ac rubeóla negativo. Ac VVZ negativo. FECHAS IgG toxoplasma negativa. FECHAS IgG CMV negativa.
+- INFECCIONES OPORTUNISTAS:
+> TUBERCULOSIS MILIAR: diagnosticada en FECHAS, recibió tuberculostáticos durante NUMERO_IDENTIF meses. Durante NUMERO_IDENTIF meses acudía personal médico para administración supervisada de medicación.
+> HERPES ZOSTER OCULAR CON SOBREINFECCIÓN BACTERIANA en FECHAS. > MENINGITIS CRIPTOCÓCCICA (FECHAS): tratamiento inicial con anfotericina B liposomal + flucitosina, buena respuesta. Consolidación con fluconazol NUMERO_IDENTIF mg/24h. Ag Criptococo en LCR 3/2015 : Negativo > CONDILOMAS ANALES Y VULVARES. Diagnosticado en FECHAS. Requiriendo resección.
+> CONDILOMA VULVAR Y PERIANAL  realizandose fulguración en FECHAS. > NEOPLASIA INTRAEPITELIAL VAGINAL (VAIN II) POR VPH Y NEOPLASIA INTRAEPITELIAL VULVAR (VIN DE GRADO III DE TIPO BASALOIDE): En FECHAS.
+Requirio conización y exéresis-vaporización láser CO2 el FECHAS. > DETERIORO COGNITIVO ASOCIADO AL VIH.
+- RMN cerebral (FECHAS): Atrofia cerebral global córtico-subcortical frontoparietal bilateral. *Neuropsicología (FECHAS): Déficits motores, en funciones ejecutivas y visuoespaciales compatibles con complejo demencia-VIH.
+> POLINEUROPATÍA AXONOPÁTICA DE GRADO MODERADO (FECHAS):  en probable relación a VIH mal controlado. *EMG: Muestra mioclonias en extremidades superiores y polineuropatía axonal moderada. Déficit de B12 y Á.fólico (FECHAS) que recibió tratamiento IM durante un tiempo. Actualmente resuelto.
+> GLOMERULOPATÍA INCIPIENTE Asociada al VIH. Diagnosticado FECHAS a raíz de proteinúria en rango no nefrótico con función renal normal. En tratamiento con Enalapril como antiproteinúrico.
+> SARCOMA DE KAPOSI (FECHAS):  presenta una placa eritemato-violácea enmucosa yugal derecha de OTROS_SUJETO_ASISTENCIA de diámetro siendo altamente compatibles con  Sarcoma de Kaposi, no se realiza biopsia cutánea se recomienda     iniciar TARGA.
+2. TROMBOEMBOLISMO PULMONAR segmentario en LÓBULO INFERIOR DERECHO en FECHAS. Requirió anticoagulación con fondaparinux durante 6 meses, posterior suspensión por Neumología.
+- Angio TAC pulmonar FECHAS: destaca presencia de TEP segmentario el lóbulo inferior derecho. Valorado por Neumología, dado que presenta tendencia a la plaquetopenia se inició tratamiento con fondaparinux.
+3. TROMBOSIS PARCIAL EN VENA CAVA INFERIOR:
+- Último TAC TÓRAX-ABDOMINAL 09/2015: Disminución de tamaño de las adenopatías mediastínicas. Estabilidad global de las opacidades en vidrio deslustrado y atelectasias laminares, que pueden ser inflamatorias/infecciosas. Disminución aparente de tamaño de la imagen de trombosis parcial en VCI. Segmento de 6.5 cm de sigma con hallazgos compatibles con diverticulitis aguda o bien puede corresponder a una sigmoiditis inflamatoria/infecciosa, de nueva aparición. A valorar ampliar estudio con colonoscopia.
+4. NEUMOPATÍA CRÓNICA ASOCIADA A ASMA BRONQUIAL (Diagnosticada en la infancia) y EPOC Gold D. Tratamiento broncodilatador a demanda. No realiza controles. Multiples episodios de descompensación (5 ingresos desde 07/2014).
+5. OSTEOPOROSIS CON FRACTURAS VERTEBRALES PATOLOGICAS.
+6. INFECCIONES URINARIAS DE REPETICIÓN

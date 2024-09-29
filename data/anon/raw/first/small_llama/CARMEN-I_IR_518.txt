@@ -1,0 +1,23 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Neumonia por [**SARS-CoV-2**].
+DimeroD 27.000. sospecha de [**TEPA**]
+NEUMONÍA BILATERAL POR [**SARS-COV-2**]
+
+protocolo:
+[**ANGIO-TC URGENTE**]
+
+resultados:
+Imagen hipodensa en lóbulo tiroideo izquierdo, no presente en TC previo del [**20/04/26**]. Aunque probablemente se trate de un quiste, se podria ampliar estudio mediante ecografía.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de [**TEP**].
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Focos de vidrio deslustrado subpleural, bilaterales y con distribución periférica, de predominio en lóbulos superiores. Se observan bandas subpleurales con múltiples áreas de distorsión parenquimatosa y dilataciones bronquiolares asociadas, de predominio en [**LLII**]. Hallazgos compatibles con [**COVID19**] con cambios organizativos.
+
+conclusiones:
+No se observa [**TEP**].
+Hallazgos compatibles con [**COVID**] con distorsión parenquimatosa y dilataciones bronquiolares asociadas, de predominio en [**LLII**].
+
+descrip:
+[**ANGIO TC PULMONAR**]

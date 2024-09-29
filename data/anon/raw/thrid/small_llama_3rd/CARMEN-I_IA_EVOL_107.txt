@@ -1,0 +1,9 @@
+ 1- NEUMONÍA BILATERAL POR SARS-COV-2
+2- INSUFICIENCIA RESPIRATORIA
+3- INFECCIÓN DEL TRACTO URINARIO
+4- FIBRILACIÓN AURICULAR
+Paciente de EDAD_SUJETO_ASISTENCIA con los antecedentes descritos, entre los que destaca OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA, que condicionan dependencia para OTROS_SUJETO_ASISTENCIA (vacunada frente a COVID con 3 dosis), que ingresa por neumonía bilateral por FAMILIARES_SUJETO_ASISTENCIA con insuficiencia respiratoria secundaria, requiriendo oxigenoterapia con FiO2 31%. Se inició tratamiento con OTROS_SUJETO_ASISTENCIA. Dado que la paciente había presentado cuadro sincopal, se solicitó OTROS_SUJETO_ASISTENCIA que descartó OTROS_SUJETO_ASISTENCIA.
+Buena evolución clínica con disminución de los requerimientos de oxígeno (manteniendo SatO2 96% sin oxígeno) y reducción progresiva de los reactantes de fase aguda.
+Como intercurrencia durante el ingreso, la paciente ha sido diagnosticada de infección de orina con sedimento urinario con nitritos y leucocituria, pero sin poder identificarse microorganismo causal (> 100.000 UFC en urocultivo, orina contaminada). Se inició tratamiento empírico con OTROS_SUJETO_ASISTENCIA con buena evolución clínica presentando además urocultivo negativo a los 3 días.
+Por otro lado, la paciente es diagnosticada de OTROS_SUJETO_ASISTENCIA (120lpm). Dada la cronología incierta de la misma y el riego trombótico de la paciente (OTROS_SUJETO_ASISTENCIA = 7), se inicia anticoagulación con OTROS_SUJETO_ASISTENCIA a dosis plenas y se opta por control de la frecuencia con disminución de la frecuencia hasta 85-90lpm. Además se inicia tratamiento deplectivo con OTROS_SUJETO_ASISTENCIA. Se realiza interconsulta a OTROS_SUJETO_ASISTENCIA para secuenciar anticoagulación con heparina a anticoagulación oral.
+Ante la estabilidad clínica de la paciente y de acuerdo con la familia, se decide alta a OTROS_SUJETO_ASISTENCIA.

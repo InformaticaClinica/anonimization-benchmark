@@ -1,0 +1,18 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+SOSPECHA SOSPECHA
+
+protocolo:
+RX DE TÓRAX OTROS_SUJETO_ASISTENCIA
+
+resultados:
+Rx poco penetrada y levemente rotada hacia la izq. Marcage incorrecto del lado derecho (la D está en el lado izquierdo).
+Cardiomegalia. En la RX de ayer realizada en el INSTITUCION se identificaban 2 opacidades pulmonares localizadas la periferia del LID y campos medio e inferior del pulmon izq, sugestivas de infección por SOSPECHA dado el contexto epidemiológico actual.
+En la RX de hoy destaca la aparición de una extensa afectación pulmonar bilateral de predominio central que se extiende hacia la periferia (en alas de mariposa), asociada a signos de redistribución vascular y mala definición de ambos hilios pulmonares. Estos hallazgos sugieren la aparición de edema pulmonar cardiogénico en fase alveolar. Leve derrame pleural derecho de nueva aparición.
+
+conclusiones:
+RX previa de ayer con signos sugestivos de infección por SOSPECHA. EN RX de hoy existe un marcado empeoramiento a expensas de aparición de signos sugestivos de edema pulmonar cardiogénico en fase alveolar. Aparición de leve derrame pleural derecho.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

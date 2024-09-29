@@ -1,0 +1,22 @@
+ En seguimiento por Hematología INSTITUCION (Paciente con OTROS_SUJETO_ASISTENCIA).
+Ha presentado varioas complicaciones trombóticas y hemorrágicas: OTROS_SUJETO_ASISTENCIA (disminución de tamaño
+en FECHAS. NO TEP, TROMBOSIS COMPLETA VENA CEFÁLICA DE ESD y T.PARCIAL DE SUBCLAVIA DERECHA y recinete HEMATOMA DE MÚSCULO ILÍACO Y PSOAS IZQUIERDO con último Angio TC 14/07 sin focos de sangrado activo por lo quue tras se introdujo OTROS_SUJETO_ASISTENCIA en dosis lentamente crecientes, actualmente OTROS_SUJETO_ASISTENCIA en paciente con EDAD_SUJETO_ASISTENCIA. Refiere OTROS_SUJETO_ASISTENCIA en cara anterior del muslo izdo desde el dx del hematoma, pero esta tarde se hace descendente con hipoestesia de la cara anterior de la rodilla y tibial anterior sin focalidad motora en esa extremidad ni en ninguna otra ubicación, OTROS_SUJETO_ASISTENCIA de esta mña estable OTROS_SUJETO_ASISTENCIA, he solicito OTROS_SUJETO_ASISTENCIA e interesa descartar progresión del OTROS_SUJETO_ASISTENCIA ya conocido.
+
+protocolo:
+S'ha realitzat estudi de l'abdomen i de la pelvis directament amb contrast ev obtenint imatges en fase portal. Es compara amb FECHAS.
+
+resultados:
+OTROS_SUJETO_ASISTENCIA que afecta al OTROS_SUJETO_ASISTENCIA de OTROS_SUJETO_ASISTENCIA, ha disminuit discretament de mides respecte el control anterior.
+El OTROS_SUJETO_ASISTENCIA és de OTROS_SUJETO_ASISTENCIA dins de la normalitat, homogeni, no apreciant-se lesions focals. Via OTROS_SUJETO_ASISTENCIA no dilatada. Bufeta biliar distesa.
+OTROS_SUJETO_ASISTENCIA permeables.
+OTROS_SUJETO_ASISTENCIA sense alteracions.
+OTROS_SUJETO_ASISTENCIA de OTROS_SUJETO_ASISTENCIA dins de la normalitat amb OTROS_SUJETO_ASISTENCIA, sense signes d'OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA no obtructives bilaterals. OTROS_SUJETO_ASISTENCIA de OTROS_SUJETO_ASISTENCIA al OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA a la OTROS_SUJETO_ASISTENCIA.
+No es veuen OTROS_SUJETO_ASISTENCIA augmentats de mida ni al retroperitoni ni en altres territoris abdominals o pèlvics.
+Estructures pèlviques dins de la normalitat.
+No es veu OTROS_SUJETO_ASISTENCIA.
+
+conclusiones:
+OTROS_SUJETO_ASISTENCIA que afecta al OTROS_SUJETO_ASISTENCIA que ha disminuit discretament de mides respecte el control anterior.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

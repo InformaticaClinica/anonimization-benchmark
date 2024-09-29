@@ -1,0 +1,21 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA con AP de OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, MCD con disfunción grave VI con implantación del OTROS_SUJETO_ASISTENCIA. Actualmente continúa con OTROS_SUJETO_ASISTENCIA, aumento de OTROS_SUJETO_ASISTENCIA con empeoramiento del perfil OTROS_SUJETO_ASISTENCIA.
+PCR/LDH normal y ausencia de otros datos que sugieran activación macrofágica, además de que el paciente respiratoriamente ha evolucionado hasta limpiar radiografía de tórax y retirar soporte de OTROS_SUJETO_ASISTENCIA. Podría tratarse de una OTROS_SUJETO_ASISTENCIA más patente por efecto sobreañadido tóxico farmacológico: OTROS_SUJETO_ASISTENCIA + OTROS_SUJETO_ASISTENCIA (26/1).
+Solicito valoración. Muchas gracias
+Infecció per OTROS_SUJETO_ASISTENCIA no especificada
+
+protocolo:
+US OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+Augment difús de la ecogenicitat del parènquima hepàtic compatible amb OTROS_SUJETO_ASISTENCIA marcada, que difuclta valorar el OTROS_SUJETO_ASISTENCIA i els OTROS_SUJETO_ASISTENCIA.
+Via biliar no dilatada. Bufeta biliar alitiàsica.
+Pàncrees (cap i cos) normal.
+Melsa de mida normal (OTROS_SUJETO_ASISTENCIA).
+Ronyons de mida i morfologia dintre de la normalitat, sense signes d'uropatia obstructiva.
+Absència de líquid lliure OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+ECO BASAL (ABDOMEN)

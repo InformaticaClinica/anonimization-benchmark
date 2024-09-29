@@ -1,0 +1,27 @@
+ En seguimiento por [**NEUMONÍA BILATERAL POR SARS CoV2**]
+
+clinica:
+Mujer de [**73 años**]. Ingreso prolongado por CoVID-19 con múltiples intercurrencias. Presenta un TC previo del [**9-may**] con cambios por CoVID en descenso pero signos de NOC progresiva con aumento de derrame.
+Desde entonces la paciente no ha presentado una mejoría respiratoria significativa. Por ello solicitamos nuevo TC para comparar con el previo y decidir actitud terapéutica.
+Gracias
+
+protocolo:
+Estudio TC [**torácico**] de alta resolución.
+
+resultados:
+Se revisan estudios previos; último TC del [**9/05/2021**].
+TOT normoposicionado con extremo distal a 2,7 cm de la carina. Vías centrales bilaterales, con extremo distal en VCS. SNG (extremo distal no incluido).
+No se visualizan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable. Calcificaciones coronarias. Tronco de la arteria pulmonar dilatado, de 33 mm.
+Práctica resolución del neumomediastino previo, con discretas burbujas aéreas mediastínicas residuales.
+Moderado derrame pleural bilateral, que ha aumentado respecto estudio previo. Ausencia de derrame pericárdico.
+Leve mejoría de la afectación parenquimatosa pulmonar bilateral, con discreta disminución de las opacidades en vidrio deslutrado, que en el estudio previo eran de aspecto más inflamatorio y en el estudio actual se asocian más claramente a engrosamientos septales (patrón de 'crazy paving'), de predominio en LLSS. Persisten marcadas dilataciones bronquiales de aspecto arrosariado en LLII y algunas bandas subpleurales, en relación a cambios organizativos.
+Aumento del líquido libre perihepático y perisplénico. Distensión de asas colónicas con contenido hiperdenso, parcialmente incluidas; valorar clínicamente y valorar necesidad de completar con estudio TC abdominal.
+
+conclusiones:
+- Práctica resolución del neumomediastino.
+- Leve mejoría de la afectación parenquimatosa pulmonar bilateral, en relación a proceso infeccioso por [**COVID-19**] (vr).
+- Aumento del derrame pleural bilateral.
+- Aumento del del líquido intraabdominal y distensión de asas colónicas con contenido hiperdenso, parcialmente incluidas; a correlacionar clínicamente y valorar necesidad de completar con estudio TC abdominal.
+
+descrip:
+[**TC TORAX**]

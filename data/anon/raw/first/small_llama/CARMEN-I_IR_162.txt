@@ -1,0 +1,20 @@
+ ECO DOPPLER VENOSO EXTREMIDADES
+
+clinica:
+[**Varón**] de [**55 años**] hipertenso que ingresa en [**01/03/2020**] por episodio [**psicótico**].
+Al ingreso presentaba [**febricula**] y regular estado general por lo que se realiza [**AS**] destacando elevación de [**transainasas**], [**LDH**], [**PCR**] y [**neutrofilia**].
+Se decide realizar tras contactar con [**infecciosas**] [**PCR Covid-19**] siendo [**negativa**] y [**TC torax**] que no muestra alteraciones. Por persistencia de [**febricula**] durante primeras horas de la mañana y últimas de la noche se realiza otra analítica donde destaca [**Dimero D**] de [**4600**]. El paciente refiere al tercer día de ingreso [**parestesias**] y en ocasiones [**dolor**] en [**EEII**] (más en [**izaquierda**]) pero en la [**EF**] no se aprecian claros signos sugestivos de [**TVP**]. Dado que el paciente paso varios días en contención y la presencia de [**DD**] elevado solicitamos [**Eco dopler**] de [**EEII**] para descartar posible [**TVP**].
+Gracias,
+[**Psicosi no especificada no causada per una substància o un factor fisiològic conegut**]
+
+resultados:
+EID / EII
+Venas  femoral común, superficial y profunda, poplitea, pèroneas  y tibiales posteriores  compresibles,  permeables, sin signos eco - Doppler de [**TVP**].
+Venas musculares de la pantorrilla permeables.
+No trombosis superficial.
+
+conclusiones:
+vr
+
+descrip:
+ECO DOPPLER VENOSO EXTREMIDADES

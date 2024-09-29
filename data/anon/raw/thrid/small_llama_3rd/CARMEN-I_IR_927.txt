@@ -1,0 +1,16 @@
+ RM CEREBRAL
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA de edad con un ADENOCARCINOMA DE PULMÓN E-IV con enfermedad en SNC en tratamiento de 3L con cisplatino + pemetrexed, retrasado última dosis por ingreso secundario a infección por infección respiratoria (probable OTROS_SUJETO_ASISTENCIA). Acude a urgencias traída por SEM por afasia de nueva instauración. TC craneal con aparición de múltiples M1 snc y realce de contsrate en leptomeninges. Solicito RMN para descartar carcinomatosis leptomeningea. Muchas gracias.
+MÚLTIPLES M1 CEREBRALES. SOSPECHA DE CARCINOMATOSI
+
+resultados:
+Se compara con estudio previo del 08.2024
+Comparativamente con el estudio previo, se aprecia un aumento de tamaño de las lesiones existentes y presencia de múltiples nuevas lesiones que realzan tras administración de contraste con morfología de anillo. No se aprecia edema circundante en cantidad significativa. No hay efecto de masa en cantidad valorable. Se aprecian algunas imágenes de micro sangrados a nivel del parénquima cerebral y ganglios de la base.
+Se observan algunos focos de captación de contraste a nivel de los surcos en el vermis, pueden corresponder a nódulos leptomeníngeaos a este nivel. Éstos cambios leotomeningeos no estaban presentes en el estudio previo.
+
+conclusiones:
+.
+
+descrip:
+RM CEREBRAL

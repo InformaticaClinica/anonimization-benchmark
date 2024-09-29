@@ -1,0 +1,18 @@
+ RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+COVID-19
+
+protocolo:
+Rx de tòrax anteroposterior portàtil.
+
+resultados:
+L´exploració es compara amb la Rx de tòrax i la TC realitzades el FECHAS.
+Camps pulmonars superiors i mitjos sense alteracions.
+Persistencia de petites opacitats a lòbuls inferiors que presenten major component intersticial que en estudi previ.
+
+conclusiones:
+Estabilitat de patrò pulmonar alveolar bibasal amb major component intersticial respecte estudi previ.
+
+descrip:
+RX OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

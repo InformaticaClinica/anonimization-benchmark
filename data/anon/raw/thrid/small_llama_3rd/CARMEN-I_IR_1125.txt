@@ -1,0 +1,17 @@
+ CATETER OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA
+
+clinica:
+Solicito colocación de CVC de 2 luces para paciente que recibirá tratamiento PROFESION. Paciente FAMILIARES_SUJETO_ASISTENCIA ingresado en la FECHAS.
+Muchas gracias.
+Infección por Sars-Cov-2 persistente
+
+protocolo:
+CATÉTER OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+Previa infiltración con anestesia local se realiza punción yugular derecha guiada por ecografía para colocación guiada por radioscopia de catéter yugular derecho (Arrow de 2 luces) con extremo distal del catéter en la unión cavoatrial.
+Se comprueba correcto funcionamiento en sala.
+Sin incidencias durante ni inmediatamente tras el procedimiento.
+
+descrip:
+CATETER OTROS_SUJETO_ASISTENCIA OTROS_SUJETO_ASISTENCIA

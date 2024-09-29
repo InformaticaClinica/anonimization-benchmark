@@ -1,0 +1,15 @@
+ RX  PORTATIL  OTROS_SUJETO_ASISTENCIA
+
+clinica:
+INFECCIÓN POR FAMILIARES_SUJETO_ASISTENCIA
+
+protocolo:
+RX  PORTATIL  OTROS_SUJETO_ASISTENCIA
+
+conclusiones:
+Opacidades alveolares bilaterales de predominio subpleural que muestran leve disminución de extensión y densidad. Cardiomegalia. Sutura de esternotomía. Marcapasos. Válvula protésica. Calcificación del arco aórtico. Catéter ev izquierdo con extremo distal en VCS.
+CONCLUSION:
+Afectación pulmonar por FAMILIARES_SUJETO_ASISTENCIA que muestra leve mejoría respecto a Rx previa del FECHAS.
+
+descrip:
+RX  PORTATIL  OTROS_SUJETO_ASISTENCIA

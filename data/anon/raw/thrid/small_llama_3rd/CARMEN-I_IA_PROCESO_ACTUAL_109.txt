@@ -1,0 +1,3 @@
+ La paciente acude el día FECHAS a Urgencias por sintomatologia febricula diaria sin ser febril y dolor osteomuscular generalizado desde el día FECHAS; anosmia desde el inicio. En contacto con OTROS_SUJETO_ASISTENCIA que es COVID+. Es derivada desde INSTITUCION con Rx de tórax con "Opacidades alveolares de predominio en pulmón derecho, campo medio y superior. Engrosamientos difusos de paredes bronquiales. Patrón de probable neumonia por COVID."
+En Urgencias se realiza analítica: creatinina NUMERO_IDENTIF, PCR NUMERO_IDENTIF, d-dimero NUMERO_IDENTIF, linfocitos NUMERO_IDENTIF, LDH NUMERO_IDENTIF.
+Ante la estabilidad clínica y la ausencia de marcadores de riesgo, se traslada a la paciente al HOSPITAL.

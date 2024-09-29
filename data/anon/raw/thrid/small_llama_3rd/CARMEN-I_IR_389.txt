@@ -1,0 +1,30 @@
+ En seguimiento por Neumonología INSTITUCION.
+
+Se trata de paciente de EDAD_SUJETO_ASISTENCIA de edad, ingresado desde hace dos meses por neumonía bilateral por COVID que requirió IOT+VM y traqueostomía, y criterios de neumonía organizativa secundaria, actualmente en la sala de HOSPITAL desde la semana pasada donde presentó al momento de su ingreso (hace 7 días) neumonía por broncoaspiración (al comer OTROS_SUJETO_ASISTENCIA), con shock séptico secundario. El paciente ha mejorado, actualmente estable hemodinámicamente, afebril, con mejoría analítica, a quien se le inició nutrición enteral el viernes pasado con intolerancia a la misma, con retención de más de 400 ml y probable salida de NE por el estoma de la traqueostomía. Hoy además a la exploración física paciente con franca distensión abdominal.
+
+Por este motivo se solicita TAC toraco-abdominal, para evaluar parénquima pulmonar y abdomen para descartar causa obstructiva o patología abdominal que impida la nutrición enteral.
+Shock séptico
+
+protocolo:
+Estudio TC torácico con contraste ev, en fase arterial.
+
+resultados:
+Se revisan estudios previos; última RX del 18/02/2016 y último TC del 21/01/2016.
+Vía central derecha con extremo distal en VCS. Traqueostomía.
+Secreciones mucosas endotraqueales y en ambos bronquios principales.
+Adenopatía hiliares bilaterales, la de mayor tamaño hiliar derecha de 15 mm, y ganglios paratraqueales bajos bilaterales y subcarinales ligeramente aumentados de tamaño; todo ello de aspecto reactivo. No se visualizan adenopatías axilares de tamaño valorable. Cardiomegalia global. Calcificaciones coronarias.
+Leve derrame pleural derecho; sin cambios respecto TC del 21/01/2016.
+Resolución del derrame pleural izquierdo. Ausencia de derrame pericárdico.
+Aumento de los focos consolidativos subpleurales en LID con dilataciones bronquiales de aspecto arrosariado asociadas, y discreto aumento de las opacidades en vidrio deslustrado bilaterales y de las bandas parenquimatosas; hallazgos sugestivos de cambios organizativos en relación a proceso infeccioso por COVID-19.
+Aparición de focos consolidativos nodulares en LSI y LII, de predominio en segmentos posteriores, que podrían estar en relación con antecedente de broncoaspiración.
+Pequeña hernia de hiato.
+Cambios degenerativos en columna torácica.
+
+conclusiones:
+- Hallazgos sugestivos de cambios organizativos en relación a proceso infeccioso por COVID-19, de predominio en LID, que han aumentado respecto previo.
+- Aparición de focos consolidativos nodulares en LSI y LII, de predominio en segmentos posteriores, que podrían estar en relación con antecedente de broncoaspiración.
+- Leve derrame pleural derecho; sin cambios respecto TC del 21/01/2016.
+Resolución del derrame pleural izquierdo.
+
+descrip:
+TC TORAX

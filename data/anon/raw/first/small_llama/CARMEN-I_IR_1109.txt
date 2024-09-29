@@ -1,0 +1,22 @@
+ ANGIO TC PULMONAR
+
+clinica:
+Paciente [**varón**] de [**65 años**] con dx de neumonía por Covid y empeoramiento durante su estancia en intermedios con Dímero D > 10000. Solicito estudio para descartar TEP. Gracias.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice tras la administración de c.e.v.
+
+resultados:
+Presenta algunos ganglios mediastínicos aumentados de tamaño.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+No objetivo defectos de repleción endovasculares en las rmas de la arteria pulmonar que sugieran la existencia de TEP agudo o trombosis vascular. Tampoco identifico alteraciones en la perfusión con los mapas de yodo.
+Presenta una afectación parenquimatosa pulmonar difusa parcheada con zonas de consolidación, vidrio deslustrado y patrón en empedrado, que muetsra diolataciones bronquiales en el interior de algunas de ellas sugiriendo la exitsencia de cierta fibrosis intralobular. Respecto al control previo de hace 2 días muestra una discreta mayor tendencia a la consolidación y hacia la pérdida de volumen.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Patrón pulmonar de afectación por COVID-19 sin evidencia de trombosis vascular o alteraciones en la perfusión.
+
+descrip:
+ANGIO TC PULMONAR

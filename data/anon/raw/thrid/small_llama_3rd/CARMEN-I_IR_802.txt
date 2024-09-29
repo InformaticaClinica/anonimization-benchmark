@@ -1,0 +1,29 @@
+ En seguimiento por Hematología INSTITUCION (Dr. SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA que ingresó en FECHAS por neumonia bilateral por infección SARS-CoV-2 tratada que requirió OTROS_SUJETO_ASISTENCIA. Posteriormente OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA por diversas complicaciones. TC tórax de hace 3 semanas como mejoría de las lesiones parenquimatosas causadas por el coronavirus.
+En las últimas 48 horas presenta OTROS_SUJETO_ASISTENCIA con OTROS_SUJETO_ASISTENCIA progresiva y OTROS_SUJETO_ASISTENCIA con infiltrados pulmonares bilaterales. Persiste con OTROS_SUJETO_ASISTENCIA para covid-19 en aspirado traqueal.
+Interesa TC tórax urgente para completar estudio y diagnóstico diferencial: componente infamatorio/organizativo tardío secundario al covid que pudiera beneficiarse de tratamiento corticoideo vs replicación viral con neumoníoa secundaria vs distrés respiratorio de otra causa.
+Muchas gracias!
+OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+TC TORAX EN FASE ARTERIAL TRAS LA ADMINISTRACIÓN DE CONTRASTE ENDOVENOSO URGENTE
+
+resultados:
+Se compara con FECHAS del FECHAS
+No se observan defectos de repleción en las ramas principales/ lobares/segmentarias/subsegmentarias compatibles con TEP agudo.
+OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA, de hasta OTROS_SUJETO_ASISTENCIA, hallazgos sugestivos de OTROS_SUJETO_ASISTENCIA. No hay signos de sobrecarga cardíaca derecha.
+OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA a OTROS_SUJETO_ASISTENCIA de la OTROS_SUJETO_ASISTENCIA.
+OTROS_SUJETO_ASISTENCIA con extremo en OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA con extremo distal en OTROS_SUJETO_ASISTENCIA.
+Pequeños OTROS_SUJETO_ASISTENCIA en ambos OTROS_SUJETO_ASISTENCIA, sin cambios.
+OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA que han aumentado respecto al TC previo.
+Aumento significativo del OTROS_SUJETO_ASISTENCIA de predominio derecho y en cisuras respecto al TC previo que mustra un aspecto encapsulado en OTROS_SUJETO_ASISTENCIA y en ambas cisuras en la actualidad.
+OTROS_SUJETO_ASISTENCIA del OTROS_SUJETO_ASISTENCIA con marcado aumento de las OTROS_SUJETO_ASISTENCIA en vidrio deslustrado en parénquima pulmonar de distribución difusa respecto al estudio previo. Estos hallazgos sugieren como primera opción una sobre infección por PCP, menos probable etiología vírica.
+OTROS_SUJETO_ASISTENCIA difusas bilaterales.
+Enfisema centrolobulillar en ambos ápices pulmonares, sin cambios respecto TC previo.
+Resto del estudio sin cambios significativos.
+
+conclusiones:
+Obs: Caso compentado con la sección de radiología torácica (Dr. NOMBRE_PERSONAL_SANITARIO).
+-NO hay signos de TEP.
+- OTROS_SUJETO_ASISTENCIA del patrón en vidrio deslustrado difuso, hallazgos que sugieren sobre infección por PCV, menos probable una etiología vírica.
+- Aumento del OTROS_SUJETO_ASISTENCIA, de predominio derecho y en cisuras.

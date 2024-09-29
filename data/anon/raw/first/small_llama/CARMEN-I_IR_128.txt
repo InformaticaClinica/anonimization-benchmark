@@ -1,0 +1,16 @@
+ RM CEREBRAL
+
+clinica:
+mujer de [**76 años**], con transtorno bipolar de años de evolución que ingresa por crisis conversiva vs sincope vs caída causal en contexto de tratamiento con [**benzodiacepinas**]. Además, la paciente presenta alteración del comportamiento y cierta bradipsiquia junto con frotis de [**COVID**] positivo por lo que otras de las posibles etiologías podría ser origen vascular. Solicito RMN para valorar afectación vascular. gracias
+[**COVID**]+
+
+conclusiones:
+Escasos focos de hiperseñal en sustancia blanca supratentorial de predominio subcortical, de características inespecíficas.
+Resto de las estructuras parenquimatosas supra e infratentoriales sin otras alteraciones significativas.
+No se observan captaciones patológicas tras la administración de contraste.
+Cisternas de la base libres.
+Estructuras de línea media centradas.
+Resto del estudio sin otras alteraciones significativas.
+
+descrip:
+RM CEREBRAL

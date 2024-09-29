@@ -1,0 +1,19 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente de [**54 años**] ingresado por neumonía bilateral por COVID-19 y neumonía necrotizante por [**S aureus**]. Actualmente en [**ECMO veno-venosa**].
+Elevación de bilirrubina progresiva durante la última semana.
+Solicitamos ecografía abdominal para descartar [**coléstasis**] vs [**hemólisis mecánica**].
+COVID-19
+
+protocolo:
+[**US portàtil**]
+
+conclusiones:
+[**Fetge**] normal.
+[**Bufeta**] distesa, de [**parets**] no engruixides.
+[**Via biliar**] no dilatada.
+Reste de l'estudi de valoració limitada per [**US**].
+
+descrip:
+ECO BASAL (ABDOMEN)

@@ -1,0 +1,8 @@
+ * ANTECEDENTES PERSONALES:
+Paciente de EDAD_SUJETO_ASISTENCIA de edad, ex-fumador hasta los FECHAS con DA (FECHAS). Vive en domicilio con su OTROS_SUJETO_ASISTENCIA, no tienen OTROS_SUJETO_ASISTENCIA. Trabajó como PROFESION.
+* ANTECEDENTES PATOLÓGICOS:
+1.- ESTENOSIS URETRA BULBAR no intervenida.
+- Cistografía + CUMS (FECHAS): Canvis reparatius a paret. Necrosi avascular de caps femorals. No ho vaig esmentar en l'estudi previ. En l'estudi uretral retrograd, tornem a repetir la imatge sospitosa d'estenosi a uretra bulbar. Discreta extravassació de contrast periuretral, atribuïble a la hiperpresió en l'intent de replecció retrograda vesical. Contorns vesicals interns trabeculats. Engruiximent mural important i aparentment uniforme. Permiccionalment, moderada dilatació de la uretra posterior, amb canvi de diàmetre a uretra bulbar.
+Discret residu-post-miccional.
+* INTERVENCIONES QUIRÚRGICAS: miopía, amigdalectomía, hernia umbilical en FECHAS en HOSPITAL.
+* MEDICACIÓN HABITUAL: no refiere.

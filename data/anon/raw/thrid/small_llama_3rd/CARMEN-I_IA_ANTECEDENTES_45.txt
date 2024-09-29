@@ -1,0 +1,10 @@
+ Mujer de EDAD_SUJETO_ASISTENCIA. No alergias medicamentosas. Autónoma para OTROS_SUJETO_ASISTENCIA. No fumadora.
+* Antecedentes patológicos de interés.
+- OTROS_SUJETO_ASISTENCIA 2006
+- Microlitiasis calicilar inferior de riñón izquierdo (FECHAS 22.09.2015)
+- Leve OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA (FECHAS 22.09.2015)
+- OTROS_SUJETO_ASISTENCIA (FECHAS 16/01/2017)
+- OTROS_SUJETO_ASISTENCIA. Refiere varios episodios aislados.
+- OTROS_SUJETO_ASISTENCIA
+* Antecedentes quirúrgicos
+- OTROS_SUJETO_ASISTENCIA en 2006.

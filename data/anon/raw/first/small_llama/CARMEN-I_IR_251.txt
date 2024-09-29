@@ -1,0 +1,39 @@
+ En seguimiento por Hematología [**Hospital Mediterráneo**]
+Varón de [**72 años**] de edad con AP de hemofilia A y miocardiopatía dilatada + DAI-TRC con bactereimia persistente polimicrobiana de foco no aclarado (portador de SVC permanente con ITUs de repetición, si bien presenta repetidos sedimentos de orina estrictamente anodinos con UC negativo y por otro lado aislameinto en HCs de BGNs de foco no aclarado).
+Evoluciona de forma tórpida con fiebre alta y clínica bacteriémica a pesar de cobertura amplia por >7d y elevación de RFA.
+Interesa TC toracoabd para trara de filiar foco/descartrar complicación obstructiva/colección
+Bacterièmia persistent
+
+protocolo:
+Estudio urgente.
+TC Torax: Se realiza estudio dinámico torácico durante la inyección de contraste ev. desde vértices pulmonares hasta áreas suprarrenales.
+Posteriormente se obtiene estudio en fase portal y tardía tras la administración de un bolus de contraste endovenoso.
+
+resultados:
+TC TORAX:
+MCP tricameral en pared torácica anterior izquierda.
+Hematoma intramuscular en el bíceps braquial izquierdo, que mide 57 x 42 x 99 mm. No se visualizan focos de extravasación de contraste en las fases adquiridas que sugieran signos de sangrado activo.
+Ganglios ligeramente aumentados de tamaño supraclaviculares izquierdos, de aspecto reactivo. No se observan adenopatías mediastínicas, ni en regiones axilares de tamaño valorable.
+Leve derrame pleural bilateral. Ausencia de derrame pericárdico.
+Discretas opacidades en vidrio deslutrado subpleurales biapicales y también en língula y LM, asociadas a un pequeño foco consolidativo subpleural en LM; hallazgos sugestivos de proceso infeccioso. Se sugiere descartar infección por COVID-19.
+Engrosamientos parietales bronquiales difusos. Resto del parénquima pulmonar sin otras alteraciones.
+TC ABDOMEN:
+Se compara con TC previo de 27/6/2016:
+Hígado de tamaño y morfología normal sin evidencia de lesiones focales.
+Vesicula biliar de tamaño normal con paredes finas y litiasis en su interior. Vía biliar no dilatada.
+Páncreas, glándula suprarrenal derecha sin alteraciones. Persiste el pequeño nódulo en glándula suprarrenal izquierda, indeterminado. Bazo de tamaño normal con pequeño granuloma calcificado, estable. Pequeña hernia de hiato.
+Vena porta y ramas principales permeables.
+Riñones funcionantes de tamaño normal con captación bilateral, simétrica. No se observan masas ni litiasis. Vía excretora no dilatada.
+Sondaje vesical. Próstata de tamaño aumentado.
+No se observan adenopatias de tamaño significativo a nivel retroperitoneal, iliaco o mesentérico.
+No se observa líquido libre intra abdominal ni colecciones. No se evidencia neumoperitoneo.
+Voluminosa hernia inguinoescrotal izquierda que contiene grasa y colon sigmoide, sin signos de complicaciones.
+Cambios degenerativos en columna toracolumbar. Calcificación parcial del músculo ilíaco izquierdo, posiblemente en relación a ruptura previa.
+
+conclusiones:
+Hematoma intramuscular en el bíceps braquial izquierdo, sin signos de sangrado activo.
+Discretas opacidades en vidrio deslutrado subpleurales biapicales y también en língula y LM, asociadas a un pequeño foco consolidativo subpleural en LM; hallazgos sugestivos de proceso infeccioso. Se sugiere descartar infección por COVID-19.
+No se evidencian signos de patología aguda intraabdominal. No colecciones, neumoperitoneo ni líquido libre.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

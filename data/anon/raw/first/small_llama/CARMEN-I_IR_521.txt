@@ -1,0 +1,11 @@
+ RX [**PORTATIL**] [**TORAX**]
+
+clinica:
+COVID-19 +
+
+conclusiones:
+RX [**TORAX**] [**PORTATIL**]
+Disminución de la extensión y dnsidad de la codensación del tercio inferior del pulmón izquierdo y de la base pulmonar derecha en relación a la exploración previa del día [**30/04/2027**].
+
+descrip:
+RX [**PORTATIL**] [**TORAX**]

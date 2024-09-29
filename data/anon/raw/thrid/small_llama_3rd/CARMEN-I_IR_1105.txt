@@ -1,0 +1,22 @@
+ En seguimiento por Hematología EDAD_SUJETO_ASISTENCIA, neumonia bilateral por COVID en día FECHAS de evolución. Inicialmente insuficiencia respiratoria VMK 60%, después de tratamiento inmunosupresor intensivo con el que ha empezado a normalizar RFA, pero persiste con requerimientos de FiO2 35%. En TC día FECHAS no hay TEP y muestra fibrosis incipiente. Solicitamos nuevo TC para valorar si existe TEP +/- componente de NOC. Gracias!
+NEUMONÍA POR COVID-19
+
+protocolo:
+ANGIO-TC PULMONAR mediante energía dual.
+
+resultados:
+Ocupaciones endovasculares sugestivas de TEP a nivel de arterias segmentarias y subsegmentarias para segmentos de la porción basal de lóbulo inferior izquierdo y en arterias segmentarias de lóbulo superior derecho, lóbulo medio y lóbulo inferior derecho. Tronco de la arteria pulmonar de diámetro normal, sin signos de sobrecarga ventricular derecha.
+Persiste la afectación parenquimatosa bilateral y difusa de distribución subpleural y peribroncovacular de predominio izquierdo en relación a neumonia vírica por COVID-19. En comparación con el estudio previo el componente en vidrio deslustrado y las zonas con patrón en "crazy paving" de lóbulos superiores han evolucionado hacia consolidaciones en banda subpleural con bronquiolectasias e imágenes de halo reverso, todo ello sugestivo de cierto componente de neumonia organizativa. La afectación a nivel de ambas bases pulmonares permanece sin cambios significativos respecto al estudio previo.
+No se observan adenopatías mediastínicas ni axilares de tamaño patológico.
+Estructuras mediastínicas sin hallazgos patológicos relevantes.
+No se observa derrame pleural ni pericárdico.
+Via venosa central cefalica izquierda con extremo distal a nivel de auricula derecha.
+Pequeña hernia de hiato.
+En cortes de hemiabdomen superior incluidos en el estudio no se aprecian hallazgos patológicos relevantes.
+
+conclusiones:
+- TEP bilateral a nivel de arterias segmentarias y subsegmentarias de LII, LSD, LM y LID.
+- Hallazgos de neumonia vírica bilateral por COVID-19 con componente de neumonia organizativa.
+
+descrip:
+ANGIO TC PULMONAR

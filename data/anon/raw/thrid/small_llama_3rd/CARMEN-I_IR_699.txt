@@ -1,0 +1,21 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Mujer de EDAD_SUJETO_ASISTENCIA cardiópata isquémica, ingresada por COVID-19 con escasa repercusión a nivel respiratorio (OTROS_SUJETO_ASISTENCIA). Hoy presenta hipotensión, taquicardia e hiperlactacidemia, probablemente en contexto de shock séptico de foco urinario. En la analítica presenta elevación de transaminasas de FAMILIARES_SUJETO_ASISTENCIA y colestasis con hiperbilirrubiemia directa de FAMILIARES_SUJETO_ASISTENCIA, junto con insuficiencia renal aguda con FG FAMILIARES_SUJETO_ASISTENCIA. Solicitamos ecografía abdominal, gracias.
+alt perfil hepático
+
+protocolo:
+Ecografía abdominal basal URGENTE
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar colapsada, de paredes finas, no litiásica.
+Vía biliar no dilatada.
+V. Porta y sus ramas intrahepáticas permeables. Arteria hepática y ramas intrahepáticas permeables.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Quiste parapiélico simple izquierdo.
+No se observa líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

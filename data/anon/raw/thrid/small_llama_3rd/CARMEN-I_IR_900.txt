@@ -1,0 +1,32 @@
+ RM CARDIACA
+
+clinica:
+Dona de EDAD_SUJETO_ASISTENCIA amb antecedent de OTROS_SUJETO_ASISTENCIA probablement no isquèmica. Portadora de OTROS_SUJETO_ASISTENCIA i dispositius OTROS_SUJETO_ASISTENCIA en posició OTROS_SUJETO_ASISTENCIA. RMC prèvia de FECHAS. Ingressa ara per OTROS_SUJETO_ASISTENCIA. Demanem RMC de cara a valorar OTROS_SUJETO_ASISTENCIA. Gràcies
+
+protocolo:
+Se realiza estudio de FAMILIARES_SUJETO_ASISTENCIA con sincronización electrocardiográfica en paciente portador de dispositivo intracardíaco OTROS_SUJETO_ASISTENCIA (previa programación del dispositivo en modo OTROS_SUJETO_ASISTENCIA). Se realiza secuencia de FAMILIARES_SUJETO_ASISTENCIA tras la administración de OTROS_SUJETO_ASISTENCIA, secuencias de FAMILIARES_SUJETO_ASISTENCIA y secuencia de FAMILIARES_SUJETO_ASISTENCIA.
+
+resultados:
+Ventrículo izquierdo severamente dilatado, no hipertrófico, con disfunción sistólica severa por hipocinesia difusa. Alteración de la contracción sistólica longitudinal (OTROS_SUJETO_ASISTENCIA < 1cm).
+OTROS_SUJETO_ASISTENCIA: 28%.
+OTROS_SUJETO_ASISTENCIA: 397 ml (OTROS_SUJETO_ASISTENCIA: 207 ml/m2; N: 51-95)
+OTROS_SUJETO_ASISTENCIA: 285 ml (OTROS_SUJETO_ASISTENCIA: 149 ml/m2; N: 11-35)
+OTROS_SUJETO_ASISTENCIA: 112 ml (OTROS_SUJETO_ASISTENCIA: 58 ml/m2; N: 35-67).
+Ventrículo derecho no dilatado, con ligera dfuncion sistólica. Presencia de electrodo de OTROS_SUJETO_ASISTENCIA en su interior.
+OTROS_SUJETO_ASISTENCIA: 41 %
+OTROS_SUJETO_ASISTENCIA: 171 ml (OTROS_SUJETO_ASISTENCIA: 89 ml/m2; N: 42-118)
+OTROS_SUJETO_ASISTENCIA: 101 ml (OTROS_SUJETO_ASISTENCIA: 53 ml/m2; N: 6-54)
+OTROS_SUJETO_ASISTENCIA: 69  ml; OTROS_SUJETO_ASISTENCIA: 36  ml/m2.
+Aurícula izquierda severamente dilatada (OTROS_SUJETO_ASISTENCIA: 46 cm²).
+Aurícula derecha ligeramente dilatada (OTROS_SUJETO_ASISTENCIA: 25 cm²).
+Artefacto de dispositivo OTROS_SUJETO_ASISTENCIA.
+En la secuencia de realce tardío se identifica un realce lineal mesocárdico septal, anterior e inferior basal y realce mesocárdico septal medioventricular, sugestivo de fibrosis focal.
+No se identifican trombos a nivel intracardiaco.
+Ligera dilatación de la OTROS_SUJETO_ASISTENCIA (41 mm).
+No se observa derrame pleural ni pericárdico.
+
+conclusiones:
+Miocardiopatía dilatada de etiología no isquémica con disfunción sistólica en severa. Fibrosis por reemplazamiento de las localizaciones descritas.
+
+descrip:
+RM CARDIACA

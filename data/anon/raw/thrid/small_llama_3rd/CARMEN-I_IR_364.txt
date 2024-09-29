@@ -1,0 +1,18 @@
+ En seguimiento por Hematología EDAD_SUJETO_ASISTENCIA, que ingresa a día FECHAS con fiebre alta, tos, PCR NUMERO_TELEFONO, Sat. O2 NUMERO_TELEFONO y neumonia bilateral de predominio derecho por RX con signos sugestivos de probable OTROS_SUJETO_ASISTENCIA. Rogamos valoración por TC para iniciar tratamiento corticoideo. Muchas gracias.
+NEUMONIA BILATERAL POR OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+INSTITUCION URGENTE sin administración de contraste endovenoso.
+
+resultados:
+No se observan adenopatías mediastínicas ni axilares de tamaño valorable.
+Estructuras mediastínicas sin alteraciones significativas.
+No se observa derrame pleural ni pericárdico.
+Patrón pulmonar bilateral que afecta todos los lóbulos pulmonares, menos extensamente el lóbulo inferior derecho, con opacidades en vidrio delustrado con engrosamientos septables (empedrado), bandas subpleurales de distribución periférica, engrosamiento difuso de las paredes bronquiales, alguna aislada bronquioloectasia de tracción y pequeñas consolidaciones periféricas. Algunas de estas consolidaciones, sobre todo en TERRITORIO y TERRITORIO siguen un patrón perilobulillar presencia de alguna imagen en halo reverso.
+Estos hallazgos son compatibles por afectación moderada por OTROS_SUJETO_ASISTENCIA, con signos incipientes de neumonía organizativa en TERRITORIO y TERRITORIO.
+
+conclusiones:
+Patrón pulmonar compatible con afecatación bilateral por COVID19, con signos incipientes de neumonía organizativa en ambos TERRITORIO y en TERRITORIO.
+
+descrip:
+INSTITUCION

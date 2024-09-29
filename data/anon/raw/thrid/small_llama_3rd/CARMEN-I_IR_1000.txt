@@ -1,0 +1,21 @@
+ TC TORAX
+
+clinica:
+Paciente de EDAD_SUJETO_ASISTENCIA con antecedentes de Ca de mama OTROS_SUJETO_ASISTENCIA (protesis mamaria bilateral. Artitis reumatoridea en OTROS_SUJETO_ASISTENCIA con cortis.
+Ingreso en el hospital por infección COVID de una semana de evolución el FECHAS. Ha recibido tto con OTROS_SUJETO_ASISTENCIA.
+Persite con requerimiento de oxígeno OTROS_SUJETO_ASISTENCIA y alteración analitica con reactantes de fase aguda. INFECCIÓN POR FAMILIARES_SUJETO_ASISTENCIA. SOSPITA DE OTROS_SUJETO_ASISTENCIA
+
+protocolo:
+TC tórax realizado en condiciones basales
+
+resultados:
+Prótesis mamarias. Ateromatosis aórtica calcificada. Tronco de arteria pulmonar no dilatado. No se observan adenopatías mediastínicas ni axilares de tamaño patológico. Cambios por linfadenectomía axilar derecha. Leve derrame pleural bilateral. No se observa derrame pericárdico.
+Opacidades en vidrio deslustrado subpleurales y peribroncovasculares bilaterales de predominio en lóbulos inferiores, que asocia leves dilataciones bronquiales y engrosamientos septales (patrón en crazy- paving). Hallazgos compatibles con infección bilateral por COVID-19. En el momento actual no se observan signos sugestivos de neumonía organizativa. Granuloma calcificado en segmento superior de lóbulo inferior derecho.
+Hernia de hiato.
+
+conclusiones:
+Neumonía bilateral por COVID-19 visible como varias zonas con afectación pulmonar bilateral, periféricas y peribroncovasculares en crazy-paving.
+No se identifican hallazgos sospechosos de neumonía organizativa en este momento.
+
+descrip:
+INSTITUCION

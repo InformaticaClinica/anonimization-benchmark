@@ -1,0 +1,17 @@
+ RM FAMILIARES_SUJETO_ASISTENCIA
+
+clinica:
+Varón de EDAD_SUJETO_ASISTENCIA que presentó TCE con HSA, tras despertar presenta plejia braquial izquierda y crural derecha no justificable por TCE ni por HSA. En la exploración signos piramidales. Solicitamos RM FAMILIARES_SUJETO_ASISTENCIA para descartar afectación a dicho nivel. Gracias
+
+TRAUMATISMO CRANEOENCEFÁLICO
+
+conclusiones:
+Estudio de columna cervical incompleto y artefactuado lo cual disminuye su lectura e interpretación.
+Leves cambios de uncoartrosis desde FECHAS hasta FECHAS asociado a protusiones discales posteromediales de base amplia que contactan con el margen anterior del OTROS_SUJETO_ASISTENCIA sin condicionar mielopatia secundaria.
+No se aprecian otras alteraciones morfológicas ni de la señal en los discos cervicales y primeros discos dorsales visualizados.
+Las estructuras óseas no muestran otras alteraciones morfológicas ni de la señal.
+La imagen de la OTROS_SUJETO_ASISTENCIA, región del OTROS_SUJETO_ASISTENCIA y espacios subaracnoideos son de aspecto normal.
+Resto del estudio sin otras alteraciones significativas.
+
+descrip:
+RM FAMILIARES_SUJETO_ASISTENCIA

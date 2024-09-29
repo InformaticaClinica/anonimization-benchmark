@@ -1,0 +1,12 @@
+ RX  OTROS_SUJETO_ASISTENCIA  INSTITUCION
+
+clinica:
+COVID-19
+
+conclusiones:
+Se compara con respecto a RX previa del FECHAS:
+Se identifica mejoría de los hallazgos en comparación con RX previa, con prctica resolución de las opacidades en base derecha y persistiendo alguna tenue opacidad en base izquierda.
+Cambios post-quirúrgicos con esternotomía media y grapas metálicas en hemitórax izquierdo.
+
+descrip:
+RX  OTROS_SUJETO_ASISTENCIA  INSTITUCION

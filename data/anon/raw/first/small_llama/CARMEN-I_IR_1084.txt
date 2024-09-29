@@ -1,0 +1,20 @@
+ ECO BASAL (ABDOMEN)
+
+clinica:
+Paciente con melanoma uveal con M1 hepáticas, que se realizó biopsia hepática el [**3/04**]. Evolucionó con fiebre las primeras 24 horas post biosia. En la analítica destaca anemia aguda con caída de la Hb de 4 puntos. Se solicita ecografía abdominal para descartar complicaciones.
+Gracias. ** El paciente es contacto estrecho de [**COVID-19**]. Frotis negativo del [**4/04**]. MELANOMA UVEAL ESTADIO IV
+
+protocolo:
+ECOGRAFÍA ABDOMINAL URGENTE
+
+conclusiones:
+Hígado de tamaño normal, con varias lesiones hepáticas correspondientes a [**M1**] conocidas. La de mayor tamaño se localiza en cúpula del [**LHD**], siendo de 5 cm. La lesión biopsiada en s.V-VI ([**1.7 cm**]) no presenta cambios respecto a US previo. No se identifican signos sospechosos de sangrado / sobreinfección.
+Vesícula biliar alitiásica, de paredes finas. Vía biliar no dilatada.
+Vena porta permeable y hepatopetal.
+Páncreas no visualizado.
+Esplenomegalia leve de [**13.6 cm**].
+Riñones de tamaño y morfología normal, sin dilatación de la vía excretora.
+No hay líquido libre intraabdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

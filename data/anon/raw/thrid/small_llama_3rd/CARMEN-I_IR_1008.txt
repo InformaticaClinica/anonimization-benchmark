@@ -1,0 +1,31 @@
+ En seguimiento por Hematología FAMILIARES_SUJETO_ASISTENCIA
+
+clinica:
+Paciente con OTROS_SUJETO_ASISTENCIA grave que requiere intubación y ventilación mecánica. Evolución tórpida con altos requerimientos de oxigenoterapia, elevación de FAMILIARES_SUJETO_ASISTENCIA y reactantes de fase aguda. Solicitamos FAMILIARES_SUJETO_ASISTENCIA urgente para valorar posible FAMILIARES_SUJETO_ASISTENCIA, progresión a organización o sobreinfección bacteriana. Gracias!
+
+2. OTROS_SUJETO_ASISTENCIA.
+
+protocolo:
+PROFESION + FAMILIARES_SUJETO_ASISTENCIA ALTA RESOLUCION
+Mediante técnica helicoidal se realizan cortes axiales desde ápex pulmonares hasta apófisis xifoides en condiciones basales y tras la administración de bolus de contraste i.v. centrado en la repleción de arterias pulmonares y el parénquima pulmonar para su valoración.
+
+resultados:
+Se revisan estudios previos; última FECHAS del FECHAS.
+OTROS_SUJETO_ASISTENCIA yugular izquierdo con extremo distal en vena innominada. OTROS_SUJETO_ASISTENCIA a 4.5 cms de carina. OTROS_SUJETO_ASISTENCIA con extremo distal en camara gástrica.
+No se evidencian defectos de repleción endovasculares en las ramas de la arteria pulmonar que sugieran la existencia de FAMILIARES_SUJETO_ASISTENCIA agudo.
+No se observan OTROS_SUJETO_ASISTENCIA mediastínicas y axilares de tamaño valorable.
+OTROS_SUJETO_ASISTENCIA calcificada en arco aórtico y en coronarias. Tronco de arteria pulmonar de calibre en el límite alto de la normalidad (31 mm).
+Ausencia de OTROS_SUJETO_ASISTENCIA pleural ni pericárdico.
+OTROS_SUJETO_ASISTENCIA parenquimatosa pulmonar con opacidades consolidativas peribroncovasculares, de predominio en OTROS_SUJETO_ASISTENCIA y en ambos OTROS_SUJETO_ASISTENCIA, asociadas a dilataciones bronquiales. Algunas de estas consolidaciones son de distribución perilobular, en relación a cambios organizativos. Los hallazgos descritos están en relación a proceso neumónico bilateral por OTROS_SUJETO_ASISTENCIA.
+Así mismo, se visualizan opacidades difusas en vidrio deslutrado en los lóbulos superiores y língula, que son sugestivas como primera posibilidad de sobreinfección por OTROS_SUJETO_ASISTENCIA. No se observan OTROS_SUJETO_ASISTENCIA.
+Signos de OTROS_SUJETO_ASISTENCIA centrolobulillar, de predominio en OTROS_SUJETO_ASISTENCIA.
+Discretos cambios degenerativos en columna torácica.
+Múltiples lesiones focales hepáticas de aspecto quístico, la mayor tamaño de 66 mm en sg VI/V.
+
+conclusiones:
+- No se observan signos de FAMILIARES_SUJETO_ASISTENCIA.
+- Neumonía bilateral por OTROS_SUJETO_ASISTENCIA con opacidades consolidativas en OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA y con cambios organizativos asociados.
+- Opacidades en vidrio deslutrado difusas en OTROS_SUJETO_ASISTENCIA y língula, sugestivas como primera posibilidad de sobreinfección por OTROS_SUJETO_ASISTENCIA.
+
+descrip:
+FAMILIARES_SUJETO_ASISTENCIA

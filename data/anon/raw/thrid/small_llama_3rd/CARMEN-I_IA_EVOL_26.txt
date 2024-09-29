@@ -1,0 +1,5 @@
+ EVOLUCION EN SALA COVID
+1) Neumonia bilateral por COVID, seria posible candidato a OTROS_SUJETO_ASISTENCIA, pero ayer no se inicio por NUMERO_IDENTIF, se comenta con farmacia y no seria contraindicacion, a valorar segun evolucion y control de funcion EDAD_SUJETO_ASISTENCIA
+2) Insuficiencia respiratoria leve por 1, NUMERO_TELEFONO hipoxemia (NUMERO_TELEFONO) por lo que se inicia OTROS_SUJETO_ASISTENCIA, con NUMERO_TELEFONO satura 97% y esta EDAD_SUJETO_ASISTENCIA.
+3) Enol leve no ha presentado durante el ingreso signos o sintomas de abstinencia, control evolutivo plan
+Dada la disponibilidad de OTROS_SUJETO_ASISTENCIA y camas en INSTITUCION y se comenta el caso para traslado que se realizará hoy FECHAS
