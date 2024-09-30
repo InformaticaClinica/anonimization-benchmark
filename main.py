@@ -10,6 +10,9 @@ from metrics import Metrics, MetricsDict
 import os
 import re
 import json
+from io import StringIO
+import csv
+import pandas as pd 
 
 PATH = './data/carmen/'
 
@@ -17,6 +20,26 @@ PATH = './data/carmen/'
 def read_text(filename=None):
     with open(filename, 'r') as archivo:
         return archivo.read()
+
+
+def output_to_csv(data):
+
+    if data.strip() == 'None':
+        return None
+
+    # Crear un objeto StringIO a partir del string
+    datos_io = StringIO(data)
+
+    # Crear un lector CSV con el delimitador de coma y el caracter de comillas dobles
+    lector_csv = csv.reader(datos_io, delimiter=',', quotechar='"', skipinitialspace=True)
+
+    filas  = []
+
+    # Iterar sobre cada fila y agregarla a la lista
+    for fila in lector_csv:
+        filas.append(fila)
+    
+    return pd.DataFrame(filas)
 
 def save_time_to_file(block, start_time):
     end_time_1 = time.time()
@@ -57,22 +80,33 @@ def first_iteration(metrics, filename, llm, name_model):
     store_text(text_generated, filename, "first/" + name_model)
     return metrics, text_generated
 
+# TODO: implement logic when there is no labels to classify (input_text = '')
 def second_iteration(metrics_second, text_generated, llm, name_model, filename):
     metrics_second.set_filename(filename)
     prompt_filename = 'prompts/system_prompt2_beta.txt'
-    prompt = {"system": read_text(prompt_filename), "user": text_generated}
+
+    # Process text_generated to create a list of labels
+    labels = re.findall(r'\[\*\*(.*?)\*\*\]', text_generated)
+    labels = list(map(lambda x: f'"{x}"', labels))
+    input_text = '\n'.join(labels)
+
+    prompt = {"system": read_text(prompt_filename), "user": input_text}
     context = LLMContext(llm)
-    dictionary = context.generate_response(prompt)
+    output = context.generate_response(prompt)
+
+    df = output_to_csv(output)
+
     # metrics_second.calculate_classification_metrics(
     #     filename,
     #     dictionary
     # )
+
     directorio = f"./data/json/{name_model}"
     os.makedirs(directorio, exist_ok=True)
-    archivo_json = os.path.join(directorio, f"{filename}.json")
-    with open(archivo_json, 'w') as archivo:
-        json.dump(dictionary, archivo, indent=4)
-    return json.loads(dictionary)
+    output_path = os.path.join(directorio, f"{filename}.csv")
+    df.to_csv(output_path)
+
+    return df
 
 def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename):
     metrics_thrid.set_filename(filename)
