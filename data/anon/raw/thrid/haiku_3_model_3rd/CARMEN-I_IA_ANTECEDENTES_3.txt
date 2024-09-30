@@ -1,0 +1,2 @@
+Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, sense al·lèrgies medicamentoses conegudes ni hàbits tòxics, no antecedents a destacar més enllà de OTROS_SUJETO_ASISTENCIA. FAMILIARES_SUJETO_ASISTENCIA. No antecedents de sagnat major.

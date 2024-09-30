@@ -1,0 +1,18 @@
+Antecedentes personales:
+Paciente SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, Natural de la TERRITORIO, reside en PAIS. Sin Alergias medicamentosas conocidas ni hábitos tóxicos. Barrera idiomatica (solo se comunica a través de sus FAMILIARES_SUJETO_ASISTENCIA).
+*ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento farmacológico.
+2.- VIRUS DE LA HEPATITIS C, diagnosticado en FECHAS en su PAIS.
+2. CIRROSIS HEPÁTICA POR VIRUS DE LA HEPATITIS C. HIPERTENSIÓN PORTAL, ESPLENOMEGALIA. Ahora en FECHAS, acaba de finalizar tratamiento de VHC, está pendiente de nueva carga viral para establecer si está curada o no.
+3. PÚRPURA TROMBÓCITOPÉNICA IDIOPÁTICA asociada a VHC documentada en FECHAS (TERRITORIO) a raiz de metrorragía abundante. NUMERO_IDENTIF plaquetas en el momento del diagnóstico, buena respuesta a corticoides (NUMERO_IDENTIF). En seguimiento por Hematología CENTRO_SALUD (NOMBRE_PERSONAL_SANITARIO).
+* 2do brote en 4/2010, con respuesta a Prednisona.
+* 3er brote el 12/2010 con respuesta a Prednisona
+* 4to brote en 12/2011 con respuesta a Prednisona  pero con cierta corticodependencia.
+* FECHAS descenso de PDN (llevaba dosis de NUMERO_IDENTIF con hiperglucemia) hasta PDN NUMERO_IDENTIF (nadir), con disminucion lentamente progresiva del recuento plaquetario hasta NUMERO_IDENTIF --> Aumento progresivo hasta NUMERO_IDENTIF.
+*Último control FECHAS: reducción de tratamiento con prednisona NUMERO_IDENTIF y trombopag (trombopoyetina) NUMERO_IDENTIF. En FECHAS presentaba NUMERO_IDENTIF plaquetas. Última analítica realizada en CENTRO_SALUD: plaquetas NUMERO_IDENTIF.
+4. ANEMIA FERROPÉNICA en contexto de sangrados. En tratamiento con ferroterapia oral con buena evolución. Actualmente hemoglobina de NUMERO_IDENTIF.
+5. Epigastralgia + nauseas + vómitos de forma intermitente. Se realizó FGS sin anormalidades.
+6. DM tipo II por lo que realiza tratamiento con metformina e insulina.
+Mal control. Última hemoglobina glicosilada NUMERO_IDENTIF.
+7. CARDIOPATIA ISQUÉMICA. IAM KILIPP I EN FECHAS. Colocación de stent convencional en DA media en FECHAS. Última ecocardio FECHAS: FE NUMERO_IDENTIF. .
+8. IQ hernia umbilical. Medicación habitual: MEDICACIÓN HABITUAL FECHAS - Insulina (NUMERO_IDENTIF) - Omeprazol NUMERO_IDENTIF - Prednis ona NUMERO_IDENTIF - Metformina NUMERO_IDENTIF - Paracetamol NUMERO_IDENTIF - Carbon ato de calcio + colecalciferol NUMERO_IDENTIF - Bisoprolol NUMERO_IDENTIF - Enalapril NUMERO_IDENTIF.

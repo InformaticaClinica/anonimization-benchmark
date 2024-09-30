@@ -1,0 +1,17 @@
+Mujer de EDAD_SUJETO_ASISTENCIA, alergia al OTROS_SUJETO_ASISTENCIA, no hábitos tóxicos, parcialmente dependiente para las ABVD. Vive con una FAMILIARES_SUJETO_ASISTENCIA y con FAMILIARES_SUJETO_ASISTENCIA. Deambula en domicilio con dificultad, se desplaza en silla de ruedas por la calle.
+* ANTECEDENTES PATOLÓGICOS:
+1. Hipertension arterial de larga evolucion, en tratamiento farmacologico, con buen control. Sin lesiones en organos diana.
+2.  Tuberculosis pulmonar, en FECHAS, tratada farmacologicamiente por FECHAS. Con secuelas pulmonares importantes
+(radiologia).
+3. Neumopatia restrictiva, en relacion a TBC. En seguimiento en INSTITUCION y en tratamiento con broncodilatadores. Presenta cuadros de hiperreactividad bronquial cada invierno coincidiendo con infección por virus respiratorios.
+4. Hipotiroidismo subclínico.
+5. Insuficiencia Aortica ligera.
+6. ACxFA paroxistica
+MEDICACIÓN HABITUAL:
+- Losartan OTROS_SUJETO_ASISTENCIA
+- Amlodipino OTROS_SUJETO_ASISTENCIA.
+- Bisoprolol OTROS_SUJETO_ASISTENCIA.
+- Carbonato de calcio + Colecalciferol OTROS_SUJETO_ASISTENCIA.
+- Acenocumarol OTROS_SUJETO_ASISTENCIA.
+- Fluticasona + Salmeterol OTROS_SUJETO_ASISTENCIA.
+- Omeprazol OTROS_SUJETO_ASISTENCIA.

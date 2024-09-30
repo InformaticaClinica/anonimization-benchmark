@@ -1,0 +1,11 @@
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA sin alergias medicamentosas. Fumador OTROS_SUJETO_ASISTENCIA. 
+Consumidor de OTROS_SUJETO_ASISTENCIA. Ex-OTROS_SUJETO_ASISTENCIA. Vive con su FAMILIARES_SUJETO_ASISTENCIA.
+ANTECEDENTES PATOLÓGICOS:
+1) INFECCIÓN POR VIH estadio A3: Diagnóstico en FECHAS, ha realizado 4 líneas de tratamiento distintas, con mala adherencia. Genotipo en el FECHAS sin mutaciones. HLAB5701 negativo. Último control en FECHAS (CV OTROS_SUJETO_ASISTENCIA, CD4 OTROS_SUJETO_ASISTENCIA). Inició en ese momento tratamiento con TRATAMIENTO hasta hace tres semanas que se le acabó.
+2) INFECCIÓN POR VHB: Ac VHBc+ y Ag VHBs neg.
+3) INFECCIÓN POR VHC: Ac VHC+, RNA indetectable (FECHAS).
+4) DIABETES MELLITUS TIPO 1. Diagnosticado a los EDAD_SUJETO_ASISTENCIA, en tratamiento con insulina con mal control. Complicaciones crónicas: ND (MAU FECHAS, FG >90 mL/min), refiere clínica de claudicación intermitente y neuropatía. Complicaciones agudas: múltiples episodios de CAD. Último ingreso en FECHAS en nuestro CENTRO_SALUD. No ha acudido a controles posteriores.
+5) TRASTORNO ANTISOCIAL DE LA PERSONALIDAD: en tratamiento con TRATAMIENTO y control PROFESION.
+6) Ex-OTROS_SUJETO_ASISTENCIA en tratamiento sustitutivo con TRATAMIENTO. Control en CENTRO_SALUD (NOMBRE_PERSONAL_SANITARIO)
+7) Anemia detectada en ingreso de FECHAS. Pendiente FCS y FGS
+TRATAMIENTO HABITUAL : TRATAMIENTO, TRATAMIENTO, TRATAMIENTO, TRATAMIENTO, TRATAMIENTO; TRATAMIENTO.

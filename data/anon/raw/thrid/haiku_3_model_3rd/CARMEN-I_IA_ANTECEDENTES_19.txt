@@ -1,0 +1,22 @@
+Paciente de EDAD_SUJETO_ASISTENCIA. Vive con su FAMILIARES_SUJETO_ASISTENCIA y su FAMILIARES_SUJETO_ASISTENCIA, tiene otro FAMILIARES_SUJETO_ASISTENCIA que vive en TERRITORIO. Independiente para actividades básicas de la vida diaria.
+
+ALERGIA A ALERGIA Y ALERGIA.
+Ex fumador de hace FECHAS con dosis acumulada de OTROS_SUJETO_ASISTENCIA. No OTROS_SUJETO_ASISTENCIA.
+Actualmente PROFESION, PROFESION.
+
+* ANTECEDENTES PATOLÓGICOS
+1.- ENFERMEDAD en tratamiento con tres antihipertensivos con buen control. Lesión de órgano diana (cardiopatía) sin nefropatía.
+2.- ENFERMEDAD sin tratamiento farmacológcio ni complicaciones microvasculares. Última HbA1c de OTROS_SUJETO_ASISTENCIA en FECHAS.
+3.- ENFERMEDAD, último ecocardiograma de FECHAS; hipertrofia ventricular izquierda severa asintomática. Prueba de esfuerzo FECHAS negativa.
+** ECOCARDIO FECHAS: FEVI OTROS_SUJETO_ASISTENCIA -- Hipertrofia severa del ventrículo izquierdo con predominio en el apex y con leve obliteración apical; no obstrucción al tracto de salida del ventrículo izquierdo. Cavidad no dilatada y con motilidad global y segmentaria preservada.
+-- Válvulas normofuncionantes. -- Ventrículo derecho no dilatado, normocontráctil. -- Aurícula izquierda ligeramente dilatada
+1er Episodio de ICC IZQUIERDA, EN FECHAS, pendiente de visita por NOMBRE_PERSONAL_SANITARIO
+3.- ENFERMEDAD en tratamiento broncodilatador fijo y de rescate.
+Sin exacerbaciones en el último año. Clase funcional: tolera bien caminar en plano. Disnea con las subidas. Última espirometría FECHAS; Obstrucción moderada FEV1 OTROS_SUJETO_ASISTENCIA, PBD negativa.
+** PFR FECHAS: Gasometría arterial basal: hipoxemia moderada con normocapnia; pH conservado. PaO2 OTROS_SUJETO_ASISTENCIA, PaCo2 OTROS_SUJETO_ASISTENCIA, pH= OTROS_SUJETO_ASISTENCIA
+4.- ENFERMEDAD, Probablemente por ENFERMEDAD, sin tratamiento. No clínica de congestión sistémica.
+5.- POLISOMNOGRAFIA FECHAS: Estudio que descata ENFERMEDAD. Pero presenta CT90 elvado y SpO2 media OTROS_SUJETO_ASISTENCIA, por lo que se recomienda visita con su Neumológo de referncia y valorar O2 nocturno, PENDIENTE DE VALORACION POR NOMBRE_PERSONAL_SANITARIO.
+6.- ENFERMEDAD
+** EMG FECHAS: Estudio neurofisiológico compatible con mononeuropatia de nervio mediano derecho por atrapamiento a nivel del codo de carácter incipiente
+
+* TRATAMIENTO HABITUAL: Salbutamol OTROS_SUJETO_ASISTENCIA si precisa, indacaterol- glicopirronio OTROS_SUJETO_ASISTENCIA, budesonida OTROS_SUJETO_ASISTENCIA, furosemida OTROS_SUJETO_ASISTENCIA, amlodipino OTROS_SUJETO_ASISTENCIA, hidroclorotiazida-lisinopril OTROS_SUJETO_ASISTENCIA.

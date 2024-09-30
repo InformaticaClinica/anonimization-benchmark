@@ -1,0 +1,31 @@
+Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas. Fumador desde los FECHAS a los FECHAS años, con dosis acumulada de OTROS_SUJETO_ASISTENCIA. Niega consumo de alcohol u otros tóxicos. Independiente para ABVD, vive en CALLE con su FAMILIARES_SUJETO_ASISTENCIA.
+* ANTECEDENTES PATOLÓGICOS:
+1. HIPERTENSIÓN ARTERIAL en tratamiento con tres fármacos en seguimiento con NOMBRE_PERSONAL_SANITARIO.
+2. MIOCARDIOPATIA HIPERTENSIVA con FE preservada, controlado por NOMBRE_PERSONAL_SANITARIO.
+- TAC arterias coronarias (6/2010): Arbol arterial coronario epicárdico con densa y extensa fibrocalcificación de los vasos. Estenosis significativa de arteria Cx proximal (60-70%) que requiere de valoración con test funcional, resto de vasos con estenosis no significativas.
+- Ecocardio (09/10) con FEVI 65%. DTDVI 47mm, DTSVI 31mm, SIV 14, PP 12, AI 42mm, Ao 41mm. AAsc 37mm.
+- SPECT: estudio de perfusión miocádica que no muestra isquemia.
+3. ENFERMEDAD DE CROHN ILEAL diagnosticado en HOSPITAL el FECHAS, en actual seguimiento por NOMBRE_PERSONAL_SANITARIO en CENTRO_SALUD.
+- FECHAS: tratamiento con azatioprina.
+- FECHAS: brote clínico. Metotrexate.
+- FECHAS: adalimumab. Reacción cutánea adversa psoriasiforme por lo que se reintroduce metotrexate.
+- FECHAS: vedolizumab. Inicio controles NOMBRE_PERSONAL_SANITARIO en CENTRO_SALUD.
+- FECHAS: brote clínico, suboclusión intestinal que requiere ingreso en CENTRO_SALUD. Cambio a ustekinumab. Como manifestaciones extraintestinales ha presentado artralgias en muñecas.
+- TAC ABDOMEN FECHAS: Signos de afectación crónica de su enfermedad inflamatoria intestinal en los últimos OTROS_SUJETO_ASISTENCIA del ileon distal, con fístula compleja que afecta hasta tres segmentos del ileón terminal y distal y al sigma. Grasa en la capa submucosa del ileon terminal y de parte del ileón distal. Nódulo exofítico en polo inferior del OTROS_SUJETO_ASISTENCIA de OTROS_SUJETO_ASISTENCIA compatible con neoplasia conocida.
+Desde el diagnostico de carcinoma urotelial se decide suspender ustekinumab para priorizar tratamiento oncoespecifico
+4. HIPERPLASIA BENIGNA DE PRÓSTATA en tratamiento farmacológico en seguimiento por Urología del CAP.
+5. COLECISTITIS AGUDA en FECHAS con colecistectomía laparoscópica en CENTRO_SALUD.
+**HISTORIA ONCOLOGIA: CARCINOMA UROTELIAL INDIFERENCIADO**
+- Diagnosticado a raíz de TC control enfermedad de Crohn hallazgo incidental de tumor renal
+- TC FECHAS: Riñones de tamaño conservado, homogéneos, sin dilatación de la vía excretora ni imágenes sospechosas de litiasis. Nódulo de baja densidad en el polo inferior del OTROS_SUJETO_ASISTENCIA, de OTROS_SUJETO_ASISTENCIA.
+- ECOGRAFIA (FECHAS): RD de OTROS_SUJETO_ASISTENCIA sin dilataciones, litiasis ni Tm.
+RI: RI de OTROS_SUJETO_ASISTENCIA sin dilataciones, litiasis, sin hematoma. Mínimo tumor renal en polo inferior
+- TC FECHAS: Signos sugestivos de pielonefritis aguda izquierda con foco hipodenso en polo superior de OTROS_SUJETO_ASISTENCIA (de casi OTROS_SUJETO_ASISTENCIA) que sugiere un foco de abscesificación incipiente. Estabilidad de la tumoración renal exofítica en polo inferior izq. Estabilidad de la afectación por E. de Crohn conocida.
+- ECO FECHAS: Hallazgos compatibles con absceso renal de OTROS_SUJETO_ASISTENCIA en tercio superior del RI, que se encuentra comunicado con la vía excretora.
+- FECHAS se realiza biopsia renal: PARÉNQUIMA RENAL CON FOCOS INFLAMATORIOS CRÓNICOS, FOCAL ATROFIA TUBULAR Y SIGNOS DE NECROSIS TUBULAR AGUDA. AUSENCIA DE MALIGNIDAD
+- Tras nueva valoraicón en comité de tumores urológicos se decide realizar NEFROURETERECTOMÍA IZQUIERDA el FECHAS + linfadenectomia hiliar izquierda el FECHAS
+- AP: CARCINOMA UROTELIAL POBREMENTE DIFERENCIADO CON EXTENSO COMPONENTE SARCOMATOIDE pT3N2
+- Pendiente de inicio QT adyuvante
+* Seguimiento por NOMBRE_PERSONAL_SANITARIO (Oncología)
+TRATAMIENTO HABITUAL (FECHAS): Omeprazol OTROS_SUJETO_ASISTENCIA; AAS OTROS_SUJETO_ASISTENCIA; atorvastatina OTROS_SUJETO_ASISTENCIA; diazepam OTROS_SUJETO_ASISTENCIA; sulfato ferroso OTROS_SUJETO_ASISTENCIA; bisoprolol OTROS_SUJETO_ASISTENCIA; amlodipino OTROS_SUJETO_ASISTENCIA; losartán + hidroclototiazida OTROS_SUJETO_ASISTENCIA; tamsulosina OTROS_SUJETO_ASISTENCIA.

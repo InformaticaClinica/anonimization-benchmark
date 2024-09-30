@@ -1,0 +1,32 @@
+* ANTECEDENTES PERSONALES:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, natural de TERRITORIO que reside en PAIS desde hace FECHAS. Vive en TERRITORIO con una FAMILIARES_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA: secundaria completa. Actualmente trabaja como PROFESION. No refiere alergias medicamentosas. No tabaquismo, alcohol ocasional, no drogas recreativas. No contacto con animales actual. OTROS_SUJETO_ASISTENCIA: no desde que llegó a TERRITORIO (hace dos años). SEXO_SUJETO_ASISTENCIA. No tratamiento hormonal sustitutivo.
+Relaciones sexuales con preservativo, penetración oral y anal receptiva.
+- Antecedentes psiquiátricos: insomnio y ansiedad, actualmente en tratamiento con MEDICAMENTO a demanda. Además tiene recetada MEDICAMENTO.
+* ANTECEDENTES PATOLÓGICOS:
+1. ENFERMEDAD. Diagnóstico el FECHAS en INSTITUCION a raíz de test rápido de rutina. Última serología negativa en FECHAS y test rápido negativo en FECHAS. Relaciones sexuales desprotegidas con una FAMILIARES_SUJETO_ASISTENCIA y con algún OTROS_SUJETO_ASISTENCIA en los últimos meses. En tratamiento con MEDICAMENTO con buena adherencia. OTROS_SUJETO_ASISTENCIA.
+* FECHAS: CV OTROS_SUJETO_ASISTENCIA, genotipado en curso. CD4 OTROS_SUJETO_ASISTENCIA.
+Cociente CD4/CD8 OTROS_SUJETO_ASISTENCIA.
+*Serologías FECHAS:
+-IgG ENFERMEDAD: +
+-Antigen superficie ENFERMEDAD: -
+-IgG superficie ENFERMEDAD: Quantitatiu >1000.00 UI/L
+-IgG core ENFERMEDAD: +
+-IgG ENFERMEDAD: -
+Tropisme HIV Informat
+Genotipat de Resistències VIH-1,sang tot Informat
+-IgG v. ENFERMEDAD OTROS_SUJETO_ASISTENCIA
+-IgG ENFERMEDAD:+
+-IgG ENFERMEDAD: +
+-IgG ENFERMEDAD: +
+-IgG ENFERMEDAD: +
+-ENFERMEDAD: -
+-IgG ENFERMEDAD: -
+-IgG anti-ENFERMEDAD: OTROS_SUJETO_ASISTENCIA
+2. ENFERMEDAD. En tratamiento sustitutivo.
+* ANTECEDENTES QUIRÚRGICOS ELECTIVAS: OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA, OTROS_SUJETO_ASISTENCIA.
+* TRATAMIENTO HABITUAL:
+- MEDICAMENTO OTROS_SUJETO_ASISTENCIA.
+- MEDICAMENTO OTROS_SUJETO_ASISTENCIA, con otra dosis de MEDICAMENTO en la noche de OTROS_SUJETO_ASISTENCIA (dosis doble por interación con rifampicina).
+- MEDICAMENTO OTROS_SUJETO_ASISTENCIA.
+- MEDICAMENTO OTROS_SUJETO_ASISTENCIA.
+- MEDICAMENTO OTROS_SUJETO_ASISTENCIA.

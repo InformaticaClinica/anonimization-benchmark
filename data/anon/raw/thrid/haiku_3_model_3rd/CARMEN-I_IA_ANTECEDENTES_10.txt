@@ -1,0 +1,15 @@
+ANTECEDENTES:
+- No alergias conocidas
+- No hábitos tóxicos.
+- OTROS_SUJETO_ASISTENCIA en tratamiento.
+- OTROS_SUJETO_ASISTENCIA en la infancia.
+- OTROS_SUJETO_ASISTENCIA en tórax en la juventud.
+- OTROS_SUJETO_ASISTENCIA en lóbulo inferior derecho en FECHAS
+- OTROS_SUJETO_ASISTENCIA.
+- OTROS_SUJETO_ASISTENCIA, seguimiento en consultas: No se descarta una EAS asociada aunque baja probabilidad (OTROS_SUJETO_ASISTENCIA sin clínica). En comité se decide inicio de TRATAMIENTO con OTROS_SUJETO_ASISTENCIA de control con progresión con mayor aspecto de NINE por lo que se inició TRATAMIENTO.
+- OTROS_SUJETO_ASISTENCIA.
+*Pendiente de realizar OTROS_SUJETO_ASISTENCIA para descartar OTROS_SUJETO_ASISTENCIA.
+TRATAMIENTO HABITUAL: TRATAMIENTO, TRATAMIENTO, TRATAMIENTO, TRATAMIENTO, TRATAMIENTO,TRATAMIENTO,TRATAMIENTO,TRATAMIENTO,TRATAMIENTO,TRATAMIENTO, TRATAMIENTO, TRATAMIENTO
+FILIACIÓN :
+Natural de PAIS, ha vivido en TERRITORIO, TERRITORIO, TERRITORIO, TERRITORIO.Vacunada con dos dosis para OTROS_SUJETO_ASISTENCIA
+No deterioro cognitivo, vive con su FAMILIARES_SUJETO_ASISTENCIA, sale a la calle pero pocos metros, hace pequeñas tareas del hogar.

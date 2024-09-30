@@ -1,0 +1,24 @@
+* ANTECEDENTES PERSONALES:
+Paciente de EDAD_SUJETO_ASISTENCIA, alérgico a la Clorhexidina, OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA hasta los EDAD_SUJETO_ASISTENCIA con dosis acumulada de más de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA. FAMILIARES_SUJETO_ASISTENCIA como único familiar.
+Parcialmente dependiente para las ABVD. Barthel BARTHEL.
+* ANTECEDENTES PATOLÓGICOS:
+1. PATOLOGIA en tratamiento farmacológico.
+2. PATOLOGIA objetivada por ecocardiograma en FECHAS. No ha presentado descompensaciones.
+3. PATOLOGIA de tipo PATOLOGIA diagnosticado en FECHAS sin evidencia de extensión a distancia y con múltiples resecciones transuretrales por recidiva (última en FECHAS).
+- PATOLOGIA en el que se implantó drenaje con retirada posterior por parte del paciente. En control radiológico en FECHAS, persistendia de leve fuga en mucha menor cantidad que en estudios previos.
+4. PATOLOGIA estadio V en hemodiálisis (Ma-Ju-Sa) a través de OTROS_SUJETO_ASISTENCIA en OTROS_SUJETO_ASISTENCIA.
+5. PATOLOGIA con ingresó en FECHAS para deshabituación.
+6. PATOLOGIA en FECHAS que requirió toracotomía y desbridamiento pleural.
+7. PATOLOGIA en tratamiento con hierro y ácido fólico.
+8. PATOLOGIA evidenciada en FECHAS. Ecocardiograma sin vegetaciones y PET-TAC con lesión en OTROS_SUJETO_ASISTENCIA sugestiva de patología no crónica (no sospecha de espondilodiscitis). Durante el ingreso además, presenta PATOLOGIA.
+9. PATOLOGIA en FECHAS. En PET de FECHAS se evidencia capatación de OTROS_SUJETO_ASISTENCIA y probable PATOLOGIA con PATOLOGIA.
+10. PATOLOGIA diagnosticado en FECHAS tras evidencia de lesión rectal en PET y biopsia mediante fibrocolonoscopia. Sin tratamiento oncoespecífico por el momento.
+11. PATOLOGIA.
+- RMN FECHAS: Imagen de antigua fractura aplastamiento con deformación ecnu ña de OTROS_SUJETO_ASISTENCIA, sin alteración de señal que sugiera fractura subaguda.
+Excluir PATOLOGIA, por densitometria ósea . Canal raquídeo hasta OTROS_SUJETO_ASISTENCIA de características normales. Leves signos de degeneración y protrusión global OTROS_SUJETO_ASISTENCIA. Imagen de estenosis adquirida del canal raquídeo lumbar a la altura del espacio discal OTROS_SUJETO_ASISTENCIA secundaria artrosis interapofisaria hipertrófica, con engrosamiento de ligamentos amarillos y quiste sinovial OTROS_SUJETO_ASISTENCIA, asociado a protrusión global de predominio mediolateral izquierda, que condiciona estenosis concéntrica del saco dural a dicho nivel. No se detectan alteraciones discales significativas OTROS_SUJETO_ASISTENCIA. Moderada artrosis interapofisaria hipertrófica OTROS_SUJETO_ASISTENCIA. No se evidencian imágenes sugestivas de espondilodiscitis lumbar. No se detectan cambios significativos en comparación con estudio de RM lumbar previo del FECHAS. Visualización marginal de divertículos vesicales en las secciones sagitales.
+* MEDICACIÓN HABITUAL actualizado el FECHAS:
+- Tiamina MEDICACION
+- Hierro oral MEDICACION 
+- Acfor MEDICACION
+- Amlodipino MEDICACION
+- Losartan MEDICACION.

@@ -1,0 +1,6 @@
+OTROS_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, sin alergias ni hábitos tóxicos. Natural de PAIS, vive en TERRITORIO con su FAMILIARES_SUJETO_ASISTENCIA desde FECHAS.
+ANTECEDENTES PATOLÓGICOS:
+- OTROS_SUJETO_ASISTENCIA desde FECHAS, diagnosticada a raíz de hipertransaminasemia con biopsia sugestiva. OTROS_SUJETO_ASISTENCIA. Tratamiento corticoideo y con MEDICACION semanal. Toma MEDICACION con normalización de la fosfatasa alcalina.
+- OTROS_SUJETO_ASISTENCIA. Dos OTROS_SUJETO_ASISTENCIA con anticuerpos para OTROS_SUJETO_ASISTENCIA negativos.
+- OTROS_SUJETO_ASISTENCIA, con una OTROS_SUJETO_ASISTENCIA en FECHAS a raíz del tratamiento corticoideo que requirió colocación de placas. Tratamiento con suplementos de MEDICACION.
+MEDICACIÓN HABITUAL: MEDICACION 20 mg/24h, MEDICACION 12.5 mg/semana los martes, MEDICACION 300 mg/8h, MEDICACION posterior, MEDICACION 5 mg si precisa.

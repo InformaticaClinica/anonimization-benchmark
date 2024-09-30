@@ -1,0 +1,16 @@
+Antecedentes personales:
+**ANTECEDENTES PERSONALES: No alergias medicamentosas conocidas. No hábitos tóxicos, no fumador. Independiente para las actividades básicas de la vida diaria, OTROS_SUJETO_ASISTENCIA y camina con ayuda de un OTROS_SUJETO_ASISTENCIA, tiene OTROS_SUJETO_ASISTENCIA.
+**ANTECEDENTES PATOLÓGICOS:
+1.- ANTECEDENTES_PATOLOGICOS en tratamiento farmacológico.
+2.- ANTECEDENTES_PATOLOGICOS, en forma de ANTECEDENTES_PATOLOGICOS en FECHAS.
+* ANTECEDENTES_PATOLOGICOS, realizaron un ecocardiograma que mostró ligera hipertrofia del ventrículo izquierdo con motilidad global conservada. Cateterismo cardiaco que mostró la ANTECEDENTES_PATOLOGICOS con lesión severa y larga proximal calcificada, así como una ANTECEDENTES_PATOLOGICOS con una lesión proximal del 80%. Ante estos hallazgos, se realizó revascularización percutánea con ANTECEDENTES_PATOLOGICOS sobre ANTECEDENTES_PATOLOGICOS y ANTECEDENTES_PATOLOGICOS. Se optimiza el tratamiento cardioprotector.
+- ETT (FECHAS): FE 57%, VI ligeramente hipertrófico no dilatado con motilidad conservada, ANTECEDENTES_PATOLOGICOS moderadamente dilatada. ANTECEDENTES_PATOLOGICOS ligera, válvua trivalva esclerocalcificada con apertura conservada. ANTECEDENTES_PATOLOGICOS ligera. VD no dilatada con motilidad normal. Sin derrame pericárdico.
+4.- ANTECEDENTES_PATOLOGICOS evidenciado en ECG de FECHAS. Con PR 200ms. Ha presetado varios episodios de ANTECEDENTES_PATOLOGICOS e ANTECEDENTES_PATOLOGICOS, niega ANTECEDENTES_PATOLOGICOS, ANTECEDENTES_PATOLOGICOS o ANTECEDENTES_PATOLOGICOS.
+4.- ANTECEDENTES_PATOLOGICOS, de etiologia no filiada.
+5.- ANTECEDENTES_PATOLOGICOS diagnosticada hace FECHAS en tratamiento y seguimiento por NOMBRE_PERSONAL_SANITARIO. Recibió tratamiento en el diagnóstico con ANTECEDENTES_PATOLOGICOS que se retiraron por ANTECEDENTES_PATOLOGICOS.
+6.- ANTECEDENTES_PATOLOGICOS.
+7.- ANTECEDENTES_PATOLOGICOS durante la FECHAS (aprox. año FECHAS).
+** ANTECEDENTES QUIRÚRGICOS:
+1.- IQ: ANTECEDENTES_QUIRURGICOS.
+2.- Portador de ANTECEDENTES_QUIRURGICOS. Se ha realizado ANTECEDENTES_QUIRURGICOS. (portador de ANTECEDENTES_PATOLOGICOS con tratamiento supresivo con MEDICACION_HABITUAL).
+**MEDICACIÓN HABITUAL (Sire FECHAS): MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL MEDICACION_HABITUAL, MEDICACION_HABITUAL, MEDICACION_HABITUAL. MEDICACION_HABITUAL

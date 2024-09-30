@@ -1,0 +1,27 @@
+Antecedentes personales:
+Sin alergias medicamentosas conocidas ni hábitos tóxicos. Deterioro funcional progresivo tras la muerte de su FAMILIARES_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA para ABVD con un Barthel de 85. Vive sola en CALLE con ayuda de una OTROS_SUJETO_ASISTENCIA las 24h. Utiliza OTROS_SUJETO_ASISTENCIA para desplazarse.
+
+** ANTECEDENTES PATOLÓGICOS:
+1. PATOLOGIAS en tratamiento farmacológico.
+2. PATOLOGIAS en tratamiento con antidiabético oral + insulina con adherencia parcial a tratamiento.Control por su NOMBRE_PERSONAL_SANITARIO. Última HbA1c 7.9% (FECHAS)
+3. PATOLOGIAS sin tratamiento farmacológico.
+4. PATOLOGIAS con PATOLOGIAS que requirió implante de OTROS_SUJETO_ASISTENCIA el FECHAS Generador OTROS_SUJETO_ASISTENCIA.
+5. PATOLOGIAS con FEVI preservada. Último ecocardiograma: FEVI 63%, con válvula aórtica trivalva de sigmoides con apertura conservada y regurgitación ligera moderada
+6. PATOLOGIAS en control por NOMBRE_PERSONAL_SANITARIO que ha requerido dos infiltraciones en el último año Ecografía OTROS_SUJETO_ASISTENCIA (FECHAS): rotura completa del tendón del músculo supraespinoso; rotura parcial de los tendones del músculo subescapular; tendones del infraespinoso y porción larga bíceps normales; cambios degenerativos en articulación acromioclavicular.
+7. PATOLOGIAS en tratamiento con clonazepam.
+8. PATOLOGIAS en tratamiento farmacológico.
+
+** INTERVENCIONES QUIRÚRGICAS:
+- INTERVENCIONES_QUIRURGICAS y aspiración de INTERVENCIONES_QUIRURGICAS en ambos ojos en FECHAS en control por HOSPITAL.
+- PATOLOGIAS : INTERVENCIONES_QUIRURGICAS (FECHAS).
+
+**MEDICACIÓN HABITUAL (actualizada FECHAS):
+- Insulina Glulisina 8UI cada 12h vía subcutánea 0-8-0-8-0
+- Insulina Glargina 20UI cada 24h vía subcutánea 0-0-0-20-0
+- Furosemida 40mg medio comprimido cada 24h vía oral 0.5-0-0-0-0
+- Metformina 850mg cada 8h vía oral 0.5-0.5-0-0.5-0
+- Sertralina 50 mg cada 24h vía oral 1-0-0-0-0
+- Clonazepam 0.5mg cada 24h vía oral
+- Gabapentina 300mg dos cápsulas cada 24h vía oral 0-0-0-2-0
+- Paracetamol 1000mg cada 8h vía oral si precisa
+- Losartan 50mg cada 24h vía oral 0.5-0-0-0-0.

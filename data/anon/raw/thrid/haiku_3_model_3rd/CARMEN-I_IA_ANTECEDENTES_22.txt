@@ -1,0 +1,31 @@
+Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, parcialmente dependiente para las ABVD, refiere alergia a PULMICORT, vive en domicilio habitual con su FAMILIARES_SUJETO_ASISTENCIA y su FAMILIARES_SUJETO_ASISTENCIA.
+HÁBITOS TÓXICOS:
+- Exfumador desde hace FECHAS con carga acumulada de OTROS_SUJETO_ASISTENCIA.
+- Consumo crónico de alcohol de OTROS_SUJETO_ASISTENCIA + OTROS_SUJETO_ASISTENCIA el fin de semana, niega otras bebidas alcohólicas.
+** ANTECEDENTES PATOLÓGICOS:
+1. DIABETES MELLITUS tipo 2 en tratamiento antidiabético oral.
+2. DISLIPEMIA en tratamiento farmacológico.
+3. INSUFICIENCIA CARDÍACA DIASTÓLICA con FEVI 55%. Disfunción diastólica grado I (FECHAS). Se descarta Hipertensión pulmonar por cateterismo derecho (PAPm OTROS_SUJETO_ASISTENCIA).
+4. INSUFICIENCIA RESPIRATORIA CRÓNICA en contexto de EPOC GOLD D TIPO ENFISEMATOSO diagnosticado hace FECHAS (OTROS_SUJETO_ASISTENCIA, clínica bronquitis crónica, reactividad bronquial) en tratamiento broncodilatador desde hace FECHAS. Sigue controles en Neumología de HOSPITAL con Dra NOMBRE_PERSONAL_SANITARIO.
+Usuario de oxigenoterapia crónica dmiciliaria OTROS_SUJETO_ASISTENCIA a OTROS_SUJETO_ASISTENCIA y VMNI nocturna.
+Se ha estudiado y valorado para reducción de volumen pulmonar, por ahora no se ha indicado.
+- Ecocardiografía (FECHAS): FE 55%, Disfuncion diastólica grado I.
+- PSG (FECHAS) descarta SAHS IAH OTROS_SUJETO_ASISTENCIA. CT90 OTROS_SUJETO_ASISTENCIA, atribuido a su patologia respiratoria de base. Roncador simple.
+- PFR (FECHAS). Índice OTROS_SUJETO_ASISTENCIA. FEV1 OTROS_SUJETO_ASISTENCIA FVC OTROS_SUJETO_ASISTENCIA
+- TLC OTROS_SUJETO_ASISTENCIA VR OTROS_SUJETO_ASISTENCIA. CV OTROS_SUJETO_ASISTENCIA CI OTROS_SUJETO_ASISTENCIA. DLCO OTROS_SUJETO_ASISTENCIA KCO OTROS_SUJETO_ASISTENCIA.
+5. NEUMONÍA en FECHAS. No ingresos recientes.
+6. CARCINOMA VESICAL de celulas transicionales in situ. Se realizó cistoprostatectomía radical + neovejiga tipo Tadovana en FECHAS.
+Neocistolitotomía en FECHAS. Actualmente libre de enfermedad. Sigue controles por Urología de HOSPITAL. Buena función renal y ecografía sin dilatación en FECHAS (último control). Actualmente refiere buen funcionamiento de neovejiga.
+7. INFECCIÓN DE TRACTO URINARIO en FECHAS, PIELONEFRITIS AGUDA que requirió ingreso en FECHAS.
+** ANTECEDENTES QUIRÚRGICOS:
+- Osteosíntesis con placas y tornillos por fractura de OTROS_SUJETO_ASISTENCIA y OTROS_SUJETO_ASISTENCIA.
+TRATAMIENTO HABITUAL (FECHAS)
+- Budesonida + formoterol 1INH/8h
+- Salbutamol + ipratropi 1INH/8h
+- Ipratropio 2INH/24h
+- AAS 100mg/24h
+- Furosemida 40mg/24h
+- Metformina 850mg/12h
+- Simvastatina 20mg/24h
+- Citalopram 30mg/24h.

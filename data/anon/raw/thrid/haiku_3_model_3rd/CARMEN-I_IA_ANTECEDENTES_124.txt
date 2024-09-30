@@ -1,0 +1,14 @@
+HISTORIAL MÉDICO:
+Alergias: No FAMILIARES_SUJETO_ASISTENCIA medicamentosas conocidas. Hábitos tóxicos: No FAMILIARES_SUJETO_ASISTENCIA. Consumo de alrededor de FAMILIARES_SUJETO_ASISTENCIA diarias y algún FAMILIARES_SUJETO_ASISTENCIA ocasional.
+Antecedentes patológicos:
+- OTROS_SUJETO_ASISTENCIA desde FECHAS. Actualmente en tratamiento con OTROS_SUJETO_ASISTENCIA, refiere seguimiento hospitalario en el pasado pero no recuerda OTROS_SUJETO_ASISTENCIA
+- OTROS_SUJETO_ASISTENCIA. No OTROS_SUJETO_ASISTENCIA. OTROS_SUJETO_ASISTENCIA.
+-Intervenida quirúrgicamente de OTROS_SUJETO_ASISTENCIA en FECHAS. - OTROS_SUJETO_ASISTENCIA por P. falciparum sin criterios de gravedad (parasitemia0.06%), tratada con OTROS_SUJETO_ASISTENCIA (artemisina oral), pauta estándar entre el FECHAS.
+Situación social:
+Natural de TERRITORIO, de la TERRITORIO, de TERRITORIO. Viene a PAIS por primera vez en FECHAS, y vive en TERRITORIO hasta FECHAS, cuando regresa de nuevo a TERRITORIO para contraer FAMILIARES_SUJETO_ASISTENCIA, y donde vive hasta FECHAS cuando vuelve de nuevo a PAIS para quedarse hasta la fecha actual. Últimoviaje a Principado de Mónaco en FECHAS. No ha viajado nunca a otras zona de TERRITORIO, TERRITORIO ni TERRITORIO. Actualmente OTROS_SUJETO_ASISTENCIA, PROFESION.
+Vacunada de OTROS_SUJETO_ASISTENCIA para SARS-COV-2 con dos dosis (FECHAS)
+Tratamiento habitual:
+- OTROS_SUJETO_ASISTENCIA 1-0-0
+- OTROS_SUJETO_ASISTENCIA 0-0-1.
+- OTROS_SUJETO_ASISTENCIA 1-0-0
+- OTROS_SUJETO_ASISTENCIA 0-0-1

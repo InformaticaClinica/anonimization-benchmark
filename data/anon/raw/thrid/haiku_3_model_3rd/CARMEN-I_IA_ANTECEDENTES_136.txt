@@ -1,0 +1,14 @@
+Antecedentes personales:
+SEXO_SUJETO_ASISTENCIA de EDAD_SUJETO_ASISTENCIA, sin alergias medicamentosas conocidas, exfumador desde hace FECHAS de OTROS_SUJETO_ASISTENCIA, consumidor ocasional de alcohol.
+* ANTECEDENTES PATOLÓGICOS:
+- HIPERTENSIÓN ARTERIAL sin tratamiento en el momento actual.
+- SÍNDROME DE APNEA-HIPOAPNEA DEL SUEÑO portador de CPAP nocturna con escaso cumplimiento
+- HIPERPLASIA BENIGNA DE PRÓSTATA en tratamiento con tamsulosina
+- ENFERMEDAD RENAL CRÓNICA estadío 3B (Creatinas habituales OTROS_SUJETO_ASISTENCIA)
+- ACCIDENTE CEREBRO-VASCULAR con recuperación ad integrum (no informes)
+* ANTECEDENTES QUIRÚRGICOS:
+Herniorrafia inguinal bilateral.
+* MEDICACIÓN HABITUAL (actualizada a FECHAS):
+- AAS OTROS_SUJETO_ASISTENCIA
+- Paracetamol OTROS_SUJETO_ASISTENCIA
+- Tamsulosina OTROS_SUJETO_ASISTENCIA.
