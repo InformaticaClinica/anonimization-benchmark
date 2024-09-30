@@ -1,0 +1,18 @@
+
+prueba:
+TC CEREBRAL
+
+clinica:
+COVID GRAVE
+
+resultados:
+Estructuras de la línea media centradas.
+Cistrnas basales libres.
+Sistema ventricular de tamaño,morfología y localziación conservada.
+No se visualizan alteracioens de la morfología, de la densidad ni captaciones patológicas de cev a nivel de las estructuras encefálicas tanto supra como infratentoriales.
+
+conclusiones:
+TAC craneal sin alteraciones significativas.
+
+descrip:
+TC CEREBRAL

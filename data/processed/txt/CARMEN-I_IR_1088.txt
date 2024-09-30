@@ -1,0 +1,16 @@
+
+prueba:
+TC FEMUR
+
+clinica:
+Paciente con infección grave por COVID19 (AUN EN AISLAMIENTO) que requirió ingreso en UCI. Colocación de via femoral derecha. Ahora en régimen de HDOm. Presenta hematoma extenso en cara interna de muslo derecho con disminución de 10 ptos de hematocrito. Solicito TC para descartar sangrado y complicacion local. Gracias.
+COVID 19
+
+resultados:
+Veure informa Angio-TC del mateix dia
+
+conclusiones:
+.
+
+descrip:
+TC FEMUR

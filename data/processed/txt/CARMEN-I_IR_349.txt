@@ -1,0 +1,30 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Descartar TEP NEUMONÍA POR COVID-19
+
+protocolo:
+Se practica estudio de angio-TC pulmonar mediante TCMD.
+
+resultados:
+Tubo endotraqueal con extremo distal en bronquio principal derecho.
+Sonda nasogástrica con extremo distal en segunda porción duodenal.
+Accesos venosos con entrada por extremidad superior derecha y extremo en el cayado de la vena cefálica derecha y acceso yugular derecho con extremo en tercio inferior de la vena cava superior.
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP.
+Tronco de la arteria pulmonar de diámetro normal, sin signos de hipertensión pulmonar.
+Adenopatía paratraqueal izquierda baja (10 mm). Adenopatía paratraqueal derecha baja (10 mm). Adenopatía hiliar derecha, de aspecto reactivo.
+No se observan adenopatías axilares de tamaño patológico.
+No se observa derrame pleural ni pericárdico.
+Múltiples opacidades en vidrio deslustrado parcheadas y bilaterales, de distribución difusa y pequeño tamaño, compatibles con neumonía bilateral por COVID-19 conocida. Se observa parénquima colapsado en segmentos basales posteriores de predominio derecho, así como múltiples atelectasias laminares.
+En los cortes adquiridos del hemiabdomen superior destaca la presencia de leve cantidad de líquido y trabeculación que rodea al cuerpo y cola pancreáticos, extendiéndose por la fascial pararrenal anterior izquierda, siendo hallazgos muy sugestivos de una pancreatitis aguda.
+
+conclusiones:
+- No se observa TEP
+- Neumonía bilateral por COVID-19 ya conocida.
+- Tubo traqueal con extremo en bronquio principal derecho, recomendándose su retirada parcial.
+-Hallazgos muy sugestivos de pancreatitis aguda, visualizados parcialmente en los cortes obtenidos del abdomen superior.
+
+descrip:
+ANGIO TC PULMONAR

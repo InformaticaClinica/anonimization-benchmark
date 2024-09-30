@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+sospita covid-19
+
+protocolo:
+RX de tòrax anteroposterior portàtil.
+
+resultados:
+No evidenciem signes radiològics d'afectació pulmonar per pneumonia COVID-19.
+
+conclusiones:
+Rx de tòrax sense alteracions radiològiques significatives.
+
+descrip:
+RX  PORTATIL  TORAX

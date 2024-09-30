@@ -1,0 +1,13 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA BILATERAL POR COVID-19
+
+conclusiones:
+Masa en la mitad superior del hemitórax izquierdo (masa vs atelectasia del lóbulo superior izquierdo).
+Ligero aumento de la densidad de los focos consolidativos derechos sugestivos de afectación por COVID.
+
+descrip:
+RX  PORTATIL  TORAX

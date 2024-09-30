@@ -1,9 +1,0 @@
-1- NEUMONÍA BILATERAL POR SARS-COV-2
-2- INSUFICIENCIA RESPIRATORIA
-3- INFECCIÓN DEL TRACTO URINARIO
-4- FIBRILACIÓN AURICULAR
-Paciente de 94 años con los antecedentes descritos, entre los que destaca demencia vacular, AVC con hemiparesia derecha y enfermedad de Parkinson, que condicionan dependencia para ABVD (vacunada frente a COVID con 3 dosis), que ingresa por neumonía bilateral por COVID con insuficiencia respiratoria secundaria, requiriendo oxigenoterapia con FiO2 31%. Se inició tratamiento con remdesivir. Dado que la paciente había presentado cuadro sincopal, se solicitó AngioTC que descartó TEP.
-Buena evolución clínica con disminución de los requerimientos de oxígeno (manteniendo SatO2 96% sin oxigeno) y reducción progresiva de los reactantes de fase aguda.
-Como intercurrencia durante el ingreso, la paciente ha sido diagnosticada de infección de orina con sedimento urinario con nitritos y leucocituria, pero sin poder identificarse microorganismo causal (> 100.000 UFC en urocultivo, orina contaminada). Se inició tratamiento empírico con amoxicilina/clavulánico con buena evolución clínica presentando además urocultivo negativo a los 3 días.
-Por otro lado, la paciente es diagnosticada de fibrilación auricular rápida (120lpm). Dada la cronología incierta de la misma y el riego trombótico de la paciente (CHADS2-VASc = 7), se inicia anticoagulación con enoxaparina a dosis plenas y se opta por control de la frecunecia con disminución de la frecuencia hasta 85-90lpm. Además se inicia tratamiento deplectivo con furosemida oral. Se realiza interconsulta a hemostasia para secuenciar anticoagulación con heparina a anticoagulación oral.
-Ante la estabilidad clíncia de la paciente y de acuerdo con la familia, sedecide alta a residencia.

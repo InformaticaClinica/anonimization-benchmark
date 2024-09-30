@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Control Covid a las 8 am
+
+descrip:
+RX  PORTATIL  TORAX

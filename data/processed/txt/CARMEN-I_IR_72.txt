@@ -1,0 +1,18 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA ADQUIRIDA EN LA COMUNIDAD DEL LSD FINE II
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+Foco consolidativo en campo pulmonar superior derecho que ha disminuido en comparación a la RX previa de hace 5 dias.
+Silueta mediastínica conservada. Índice cardiotorácico normal.
+Senos costofrénicos libres de ocupación.
+Cambios degenerativos en la columna torácica.
+
+descrip:
+RX  PORTATIL  TORAX

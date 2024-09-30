@@ -1,0 +1,21 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Lesions múltiples no especificades, A
+
+protocolo:
+TC de tórax urgente sin contraste ev.
+
+resultados:
+Focos consolidativos nodulares parcheados y consolidaciones bilaterales y periféricas con predominio en ambos lóbulos inferiores, en algunas localizaciones con morfología en banda. Algún foco nodular presenta morfología de neumonía organizativa, aunque sin presencia de distorsión parenquimatosa, fibrosis ni halo reverso. Estos hallazgos son compatibles con infección pulmonar por COVID-19, sin claras imágenes de fibrosis asociada.
+No se observa derrame pleural ni pericárdico.
+Estructuras mediastínicas sin alteraciones. No se evidencian ganglios axilares ni mediastínicos de tamaño valorable. Ganglio subcarinal e hiliar derecho calcificados.
+Dos imágenes hipodensas infracentimétricas en el hígado, de probable naturaleza quística.
+
+conclusiones:
+Hallazgos compatibles con infección por COVID-19, sin claras imágenes de fibrosis asociada.
+
+descrip:
+TC TORAX

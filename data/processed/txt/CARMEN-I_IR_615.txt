@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+NEUMONÍA POR PROB COVID-19
+
+resultados:
+Mejoría de la afectación parenquimatosa pulmonar bilateral, parcialmente justificable por un mayor grado de inspiración.
+
+conclusiones:
+Afectación por COVID con mejoría.
+
+descrip:
+RX  PORTATIL  TORAX

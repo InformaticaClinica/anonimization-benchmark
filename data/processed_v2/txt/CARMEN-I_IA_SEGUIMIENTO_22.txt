@@ -1,7 +1,0 @@
-- Dadas las características del paciente se recomienda mantener aislamiento domiciliario hasta una semana después del alta domiciliaria.
-- Se recomienda la vacunación anual de la gripe que se podrá administrar transcurridos 15 días del alta hospitalaria.
-VISITAS:
-- Visita 17/06/2013 en Centro de Extracciones (Calle Nueva 11) a las 13.15h (analítica y frotis nasofaríngeo).
-- Visita 28/10/2013 a las 10h en Hospital de Dia de Neumologia.
-- Pendiente de citación de visita telefónica en una semana con nefrologia (se enviará por correo convencional o electrónico).
-- Pendiente de citación de visita telefónica en 3 meses con hematologia (se enviará por correo convencional o electrónico).

@@ -1,9 +1,0 @@
-
-10/04/2027-00:00:00: Pulsioximetría (%) 100. 10/04/2027-02:00:00 : Tª a xilar (ºC) 36.5. 10/04/2027-02:30:00 : Glicemia capilar (mg/dl) 113. 10/ Indicador de gravedad: APACHE II : 18; Indicador disfunción orgánica: SO FA : 11;Indicadores de calidad intra-UCI: Valoració Unidad del Dolor:
-* EXPLORACIÓN FÍSICA EN UNIDAD DE INTERMEDIOS *
-Buen estado general, normocoloreado y normohidratado.
-AC: arrítmico, sin soplos ni otros ruidos. Discreta ingurgitación yugular, no edemas en MMII.
-AP: murmullo vesicular conservado con crepitantes hasta campos medios sin otros ruidos sobreañadidos.
-ABD: blando y depresible, no impresiona de doloroso. No signos de peritonismo, no masas ni megalias palpables. RHA conservados.
-NRL: Glasgow 15/15. Consciente y orientado en T-E-P. No signos de focalidad neurológica.
- 

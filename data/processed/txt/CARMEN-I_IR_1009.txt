@@ -1,0 +1,34 @@
+
+prueba:
+TC ABDOMINOPELVICO (ABDOMEN)
+
+clinica:
+comentado telefónicamente
+NEUMONÍA POR SARS-COV-2
+zona indurada en fosa iliaca derecha e hipogastrio (fecaloma?),dolorosa a la palpación, ruidos peristálticos conservados.
+
+protocolo:
+TC ABDOMINAL URGENTE en condiciones basales y tras la administración de contraste ev en fase arterial y portal
+
+resultados:
+No se observa derrame pleural ni pericárdico. Aumento de densidad en vidrio deslustrado bibasales, de predominio derecho, con atelectasias subsegmentarias asociadas.
+Hígado de tamaño y morfología normales. Pequeña imagen nodular hipodensa en segmento II hepático, de 7 mm, inespecífica.
+Vesícula biliar colapsada. Vía biliar no dilatada.
+Vena porta y eje esplenomesentérico permeables.
+Páncreas y glándulas suprarrenales sin alteraciones significativas.
+Esplenomegalia homogénea. Circulación venosa colateral en hilio esplénico.
+Riñones de tamaño y morfología normal, captación bilateral y simétrica de contraste, sin dilatación de las vías excretoras.
+Asas intestinales de diámetro normal, con captación preservada de contraste.
+Hernia inguinal izquierda por la que protruye segmento de íleon, con captación conservada.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+No se evidencia neumoperitoneo.
+Leve trabeculación de la grasa mesentéric adifusa, inespecífica. Láminas líquidas presacras.
+Hematoma de pared abdominal anterior derecho a nivel de hipogastrio, de 96 x 62 mm, sin focos de extravasación de contraste que sugieran sangrado activo en el estudio actual. Discreta extensión inferior hacia el espacio prevesical.
+
+conclusiones:
+Hematoma de pared abdominal anterior, sin signos de sangrado activo en el momento actual.
+Esplenomegalia.
+Áreas de aumento de densidad en vidrio deslustrado bibasal, en relación a infección por COVID19, sin cambios.
+
+descrip:
+TC ABDOMINOPELVICO (ABDOMEN)

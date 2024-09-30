@@ -1,0 +1,20 @@
+
+prueba:
+ESTUDIO DEGLUCION
+
+clinica:
+Paciente con estancia prolongada, paciente postcritico , con historia de aspiración por aparente trast de deglución, requeire estudio para definir manejo
+PNEUMÒNIA BILATERAL PER SARS-CoV-2
+
+protocolo:
+ESTUDIO DE LA DEGLUCIÓN
+
+resultados:
+Marcada alteración de la deglución.
+El paciente presenta extrema dificultad con la ingesta inicial de 5 ml de densidad néctar). Los movimientos deglutorios son prácticamente inexistentes en la fase oral, observándose  hipotonía de la hipofaringe y retención del contraste en valléculas por lo que ante el peligro de aspiración se interrumpe el examen.
+
+conclusiones:
+.
+
+descrip:
+ESTUDIO DEGLUCION

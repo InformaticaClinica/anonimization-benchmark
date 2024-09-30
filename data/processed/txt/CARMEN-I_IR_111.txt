@@ -1,0 +1,28 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+ruego adjuntar a petición de tc de tórax programado para mañana a las 13.00 para realización conjunta, ya que presenta fiebre persistente con abdomen distendido sin ruidos hidroaereos para descartar foco abdominal.
+gracias.
+Inicio de neumonía organizativa
+
+protocolo:
+TC abdominal con contraste ev. en fase portal.
+
+resultados:
+Hígado de morfología, contornos y atenuación normales. No se observan lesiones focales.
+Vesícula biliar de tamaño normal. Vía biliar no dilatada.
+Vena porta y eje espleno-mesentérico permeables.
+Páncreas, bazo y glándulas suprarrenales sin alteraciones significativas.
+Riñones de tamaño y morfología normal, con captación bilateral y simétrica de contraste. No se observa dilatación de las vías excretoras.
+No se observan adenopatías retroperitoneales ni ilíacas de tamaño patológico.
+Leve paniculitis mesentérica.
+Asas intestinales y colon de calibre normal.
+No se observa líquido libre intraabdominal.
+
+conclusiones:
+Sin hallazgos abdominales a destacar.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

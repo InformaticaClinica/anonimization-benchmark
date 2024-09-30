@@ -1,0 +1,36 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente ingresado en la unidad de crínticos con insuficiencia respiratoria persistente por Covid-19.
+Presenta d-dimero persistentemente elvado de >10.000.
+Interesa descartar TEP.
+
+protocolo:
+ANGIOTC TORÁCICA URGENTE: adquisición mediante energía dual
+
+resultados:
+Se observa defecto de replección intraarterial en rama segmentaria para el LID. compatible con TEP/trombosis vascular en dicho nivel.
+No se observan signos radiológicos que sugieran sobrecarga de cavidades derechas.
+Drenaje pleural con entrada entre 5º espacio intercostal derecho trayecto por espacio pleural anterior y extremo en linea media. Mínima lámina de neumotórax derecho.
+Traqueostomía con cánula. Catéter central con entrada por v. yugular izquierda y extremo en v. cava sup. SNG con extremo en antro pilórico.
+No se observan adenopatías axilares ni mediastínicas de tamaño significativo. Ganglios hiliares izquierdos calcificados.
+No se evidencia derrame pericárdico.
+Atelectasias laminares bibasales. Granuloma en LID. Bullas subpleurales en pulmón izquierdo.
+Extensos focos consolidativos bilaterales con distribución periférica, que se acompañan de imágenes difusas en vidrio deslustrado y áreas de distorsión parenquimatosa, todo ello compatible con infección pulmonar por COVID-19 con discreta tendencia a la fibrosis (signos de neumonía organizativa en probable pulmón enfisematoso previo).
+ABDOMEN: Colelitiasis infundibular. Sonda vesical. Prótesis de rodilla izquierda. Diverticulosis colónica sin signos de complicación.
+Estenosis de canal lumbar a nivel de L4-L5.
+Ateromatosis calcificada en el infundíbulo de la a. renal derecha, que es filiforme a nivel distal. Atrofia renal derecha con quistes parapiélicos. Moderada dilatación de la vía excretora hasta tercio medial, donde se observa litiasis de 1.2 cm. Leve hipercaptación de la vía excretora probablemente reactiva.
+Pequeño trombo en porción más caudal de la v. femoral profunda izquierda. En el resto de las venas valorables por TC de las EEII no se visualizan defectos de repleción.
+V. poplítea izquierda no valorable por arterfacto de prótesis.
+
+conclusiones:
+TEP/trombosis vascular en rama segmentaria para el LID. Sin signos de sobrecarga de cavidades derechas.
+Pequeño trombo en v. femoral profunda izquierda.
+Mínimo neumotórax derecho residual con drenaje pleural.
+Bullas subpleurales en pulmón izquierdo. Afectación pulmonar difusa compatible con COVID-19, con mínima tendencia a la fibrosis.
+Colelitiasis. Hidronefrosis derecha crónica por litiasis ureteral obstructiva con atrofia renal.
+
+descrip:
+ANGIO TC PULMONAR

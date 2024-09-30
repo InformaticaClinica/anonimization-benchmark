@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COLEDOCOLITIASIS
+
+descrip:
+RX  PORTATIL  TORAX

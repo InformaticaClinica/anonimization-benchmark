@@ -1,0 +1,17 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+VARICEL·LA
+
+protocolo:
+Rx de tòrax
+
+conclusiones:
+Signos de EPOC.
+Pinzamiento de ambos senos costofrenicos.
+Discreta mejoria radiologica de los infiltrados intersticiales bilaterales más evidente en pulmón izquierdo.
+
+descrip:
+RX  PORTATIL  TORAX

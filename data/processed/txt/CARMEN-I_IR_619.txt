@@ -1,0 +1,12 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+COVID-19
+
+conclusiones:
+Sin consolidaciones ni opacidades intersticiales evidentes.
+
+descrip:
+RX  PORTATIL  TORAX

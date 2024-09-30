@@ -1,0 +1,28 @@
+
+prueba:
+TC TORACOABDOMINAL (ABDOMEN)
+
+clinica:
+Dolor abdominal en paciente con leucemia linfoblástica, solicito TC para descartar colitis o complicacion abdominal. Gracias1
+LEUCÈMIA AGUDA
+
+protocolo:
+TC ABDOMINOPÈLVIC URGENT: adquisició després d'administrar contrast iodat ev (fase portal).
+
+resultados:
+Fetge de mida i morfologia normal, sense lesions focals evidents.
+Vesícula biliar de mida normal i parets fines. Via biliar no dilatada.
+Eix portoesplenomesenteric permeable.
+Melsa homogènia de mida normal (12.4 cm).
+Pàncrees i glàndules suprarrenals sense alteracions evidents.
+Ronyons de mida i morfologia normal. Nòdul hipocaptant al pol renal inferior dret, de 16 mm, amb calcificació parietal. Es recomana ampliar estudi amb TC multifàsic. No s'observa dilatació de la via excretora.
+Marc colònic amb captació conservada, sense signes de colitis.
+Mínima làmina de líquid a la fossa ilíaca dreta.
+
+conclusiones:
+Marc colònic i nanses intestinals sense alteracions a destacar.
+Nòdul renal en RD, que podria correspondre a tumor primari, es recomana ampliar estudi amb TC multifàsic.
+Mínima cantitat de líquid lliure en FID.
+
+descrip:
+TC TORACOABDOMINAL (ABDOMEN)

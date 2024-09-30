@@ -1,0 +1,23 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+RX DE TÓRAX PORTATIL
+
+resultados:
+RX levemente rotada hacia la derecha y poco penetrada.
+Cardiomegalia. Marcapasos bicameral en región pectoral izquierda.
+Opacidades bilaterales de localización central y extensión hacia la periferia, pérdida de delimitación de ambos hilios pulmonares y signos sugestivos de redistribución vascular en ambos lóbulos superiores.
+Pinzamiento de ambos senos constofrénicos, de predominio izquierdo.
+Estos hallazgos son altamente sugestivos de edema pulmonar cardiogénico (fase alveolar) en contexto de una insuficiencia cardíaca.
+Estos hallazgos estaban ausentes en la RX previa de ayer dónde se visualizaban ténues opacidades periféricas en ambos lóbulos superiores (atribuibles a la infección por COVID). En la actualidad dichas opacidades no son distinguibles por el patrón de edema sobreimpuesto.
+
+conclusiones:
+Comparativamente con RX previa de ayer destaca la aparición de importantes signos sugestivos de edema pulmonar cardiogénico. Las opacidades periféricas presentes en RX previa (compatibles con afectación pulmonar por COVID) no son distinguibles por la aparición del importante edema descrito.
+
+descrip:
+RX  PORTATIL  TORAX

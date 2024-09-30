@@ -1,0 +1,22 @@
+
+prueba:
+ECO BASAL (ABDOMEN)
+
+clinica:
+infeccion por covid-19, epigastralgia irradiada a ambas fosas con dolor a la palpación en hipocondrio derecho, descartar alteraciones por favor.
+Altres tipus de coronavirus que causen malalties classificades en un altre lloc
+
+protocolo:
+ECOGRAFIA ABDOMINAL (se realiza con protocolo de infección por COVID- 19).
+
+conclusiones:
+Hígado de tamaño normal con ecoestructura homogénea, sin lesiones focales evidentes.
+Vesícula biliar de paredes finas, no litiásica. Vía biliar no dilatada.
+V. Porta permeable de calibre normal, hepatopetal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No hay líquido libre intra-abdominal.
+
+descrip:
+ECO BASAL (ABDOMEN)

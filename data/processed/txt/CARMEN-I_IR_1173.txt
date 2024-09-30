@@ -1,0 +1,28 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Paciente Covid-19 confirmado quien presenta empeoramiento clínico con expectoración hemoptóica y elevación de dímero D 900-->2300, precisando apoyo con O2 en lentillas tras previamente haberlo suspendido. Por favor valorar. gracias.
+NEUMONÍA BILATERAL POR COVID-19
+
+protocolo:
+ANGIO TC PULMONAR  URGENTE
+
+resultados:
+Mínimo defecto de replección en una rama subsegmentaria del LII (ser 8 img 157)en relación con  TEP agudo.
+Permeabilidad del tronco pulmonar principal, de calibre aumentado (30mm) en el límite alto de la normalidad. No hay signos de sobrecarga cardíaca derecha.
+Presencia de adenopatías mediastínicas en ventana aortopulmonar, subcarinales e hiliar derecha, esta ultima la de mayor tamaño, de 12 mm.
+No hay derrame plaural izquierdo. Leve derrame pleural derecho. No se observa derrame pericárdico.
+Múltiples focos consolidativos subpleurales bilaterales que predominan y presentan mayor afectación en LLSS. Estos focos asocian algunos tractos y altelectasias subsegmentarias lobares.  Presencia de dilataciones bronquiales difusas que predominan en los lóbulos inferiores.
+Los hallazgos descritos estan en relación con infección pulmonar por COVID en evolución.
+Hernia de hiato.
+Granulomas calcificados hepáticos.
+Colecistectomía. Ectasia coledocal de hasta 11 mm, probablemente secundaria al antecedente quirurgico.
+Mielolipoma suprarrenal izquierdo de 19 mm.
+
+conclusiones:
+Pequeño foco de TEP agudo subsegmentario en LII.
+
+descrip:
+ANGIO TC PULMONAR

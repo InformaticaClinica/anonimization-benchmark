@@ -1,8 +1,0 @@
-28/6/2013-20:00:00: FiO2 (%) 40. 18/6/2013-13:00:00 : Glicemia capilar (mg/dl) 216. 18/6/2013-19:09:00 : Peso (Kg) 60. 18/6/2013-12:27:00 : Pulsioximetría (%) 99. 18/6/2013-19:12:00 : Talla (cm) 171. 18/6/2013- 13:00:00 : Ta axilar (oC) 32.
-IOT. TA 140/60mmhg bajo perfusión de NA x4 a 15ml/H. Pupilas no valorables (intervendio ojo izquierdo), medias. Entrada de aire en ambos campos pulmonares, no crepitantes.
-EXPLORACION FISICA AL ALTA DE INTERMEDIOS:
-CVs en rango. spO2 99% con 2L/min
-Eupneico en reposo y al habla. Consciente y orientado, colaborador en la entrevista aunque con persistencia de las ideas de temática paranoide.
-AC: rítmica, sin soplos ni ruidos sobreañadidos.
-AP: mvc en ambos hemitorax. Se aprecian leves crepitantes sin apreciar sibilancias ni roncus.
-Resto de la exploración anodina.

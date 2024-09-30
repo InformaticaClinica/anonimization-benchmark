@@ -1,0 +1,23 @@
+
+prueba:
+ANGIO TC PULMONAR
+
+clinica:
+Neumonía por CV. Sospecha de progresión a NOC Vs TEP. Gracias.
+NEUMONÍA BILATERAL COVID19
+
+protocolo:
+ANGIO-TC PULMONAR URGENTE
+
+resultados:
+Arterias pulmonares principales, ramas lobares y segmentarias permeables sin defectos de repleción sugestivos de TEP. Tronco de la arteria pulmonar permeable de calibre normal.
+No se observan adenopatías axilares o mediastínicas de tamaño valorable.
+Sin evidencia de derrame pleural o pericárdico.
+Parénquima pulmonar con presencia de opacidades bilaterales en vídrio deslustrado de predominio peribroncovascular, asociado a zonas consolidativas periféricas de predominio basal, todo ello compatible con neumonía por COVID-19. Se observa alguna banda subpleural incipiente, pero sin signos concluyendes de neumonía organizativa.
+Pequeña hernia de hiato. Cortes abdominales parcialmente incluidos en el estudio sin hallazgos relevantes.
+
+conclusiones:
+No se observa TEP agudo. Hallazgos compatibles con neumonía bilateral por COVID-19 sin claros signos de neumonía organizativa.
+
+descrip:
+ANGIO TC PULMONAR

@@ -1,0 +1,23 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPITA COVID 19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+RX subóptima por rotación e inspiración insuficiente.
+HALLAZGOS:
+Opacidades: SI
+Consolidación: SI
+Patrón intersticial: NO
+Distribución: difusa.
+Campos pulmonares: todos
+CONCLUSION:
+Probable COVID con extensos focos consolidativos bilaterales.
+
+descrip:
+RX  PORTATIL  TORAX

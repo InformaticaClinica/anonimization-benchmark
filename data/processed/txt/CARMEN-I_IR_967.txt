@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+Paciente cumpliendo ingreso actal por Neumonia bilateral por SARS-CoV2, +14 dias desde inicio de sintomas y radiologiia con infiltrados bilaterales. Interesa descartar NOC asociada
+Grcaias
+COVID-19
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Dilatación del tronco de la arteria pulmonar (32 mm) que debe valorarse con los parámetros de ecocardiografía para valorar si existe hipertensión pulmonar.
+No se evidencia derrame pleural o pericárdico.
+Divertículo traqueal en la pared posterolateral derecha. Presenta una afectación parenquimatosa pulmonar difusa en forma de áreas parcheadas de consolidación con bandas parenuiqmatosas y alguna zona con probable semiología de halo invertido.
+Cambios degenerativos en la columna torácica.
+
+conclusiones:
+Afectación pulmonar por COVID-19 con imágenes sugestivas de patrón de neumonía organizativa.
+
+descrip:
+TC TORAX

@@ -1,0 +1,9 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+SOSPECHA DE COVID19
+
+descrip:
+RX  PORTATIL  TORAX

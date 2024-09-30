@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+INFECCION COVID19
+
+resultados:
+Discreto crecimiento de tamaño de los focos consolidativos de disposición paracardíaca izquierda y en el campo medio del hemitórax derecho.
+
+conclusiones:
+COVID con leve progresión.
+
+descrip:
+RX  PORTATIL  TORAX

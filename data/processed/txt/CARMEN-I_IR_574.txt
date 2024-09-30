@@ -1,0 +1,27 @@
+
+prueba:
+ECOGRAFIA PORTATIL (ABDOMEN)
+
+clinica:
+Pacient IOT per I Resp per pneumonia bilateral per covid i NTP. Ha presentat febre i empitjorament perfil hepàtic (hipertransaminassèmia i colèstasis). Interessa eco abdominal per descartar colecistitis, gràcies!
+INFECCIÓN POR SARS-COV-2
+
+protocolo:
+Ecografía abdominal URGENTE
+
+resultados:
+Estudio realizado a pie de cama con ecógrafo portatil.
+Hígado de tamaño normal con ecoestructura homogénea, con algunos quistes simples bilaterales sin lesiones focales evidentes.
+Vesícula biliar de tamaño normal yparedes finas, no litiásica. No hay líquido libre perivesicular. Murphy ecográfico no valorable. Los hallazgos NO son sugestivos de colecistitis aguda.
+Vía biliar intra y extrahepática no dilatada.
+V. Porta permeable de calibre normal y con flujo hepatopetal.
+Páncreas (cabeza y cuerpo) sin alteraciones evidentes.
+Bazo homogéneo de tamaño normal.
+Riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora.
+No líquido libre intra-abdominal
+
+conclusiones:
+No hay signos de patología aguda intraabdominal.
+
+descrip:
+ECOGRAFIA PORTATIL (ABDOMEN)

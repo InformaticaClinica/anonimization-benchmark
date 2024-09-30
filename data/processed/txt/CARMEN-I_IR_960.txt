@@ -1,0 +1,24 @@
+
+prueba:
+TC TORAX
+
+clinica:
+DESCARTAR ASPERGILOSIS INVASIVA
+INSUFICIENCIA RESPIRATORIA AGUDA SECUNDARIA
+
+protocolo:
+TC TÓRAX: Se realiza adquisición mediante hélice de forma basal.
+
+resultados:
+No se observan adenopatías de tamaño significativo en los territorios comprendidos en el estudio.
+Estructuras mediastínicas sin alteraciones significativas.
+No se evidencia derrame pleural o pericárdico.
+Notable enfisema centrolobulillar y paraseptal de predominio superior.
+Anomalía del desarrollo bronquial con bronquio traqueal para el segmento apical del lóbulo superior derecho. Presenta patología difusa de la vía aérea con dilataciones bronquiales de predominio basal, engrosamientos peribronquiales y ocupación endobronquial. Se identifica un pequeño foco consolidativo nodular de límites irregulares que se localiza parahiliar en el segmento superior de la língula. Esta lesión es de probable naturaleza infecciosa, si bien no podemos determinar el tipo de agente causante. Resto del parénquima pulmonar sin alteraciones valorables.
+Discretos cambios degenerativos en la columna torácica.
+
+conclusiones:
+Probable infección respiratoria con afectación bronquial y un nódulo indeterminado en la língula.
+
+descrip:
+TC TORAX

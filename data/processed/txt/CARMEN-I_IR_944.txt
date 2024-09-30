@@ -1,0 +1,15 @@
+
+prueba:
+RX  PORTATIL  TORAX
+
+clinica:
+Neumonia por COVID19
+
+protocolo:
+RX  PORTATIL  TORAX
+
+conclusiones:
+Exploración subóptima por inspiración insuficiente, aunque no se aprecian alteraciones pleuroparenquimatosas significativas.
+
+descrip:
+RX  PORTATIL  TORAX
