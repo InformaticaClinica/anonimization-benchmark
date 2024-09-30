@@ -55,6 +55,8 @@ This function is responsible for saving the list of all experiments conducted up
 # TODO
 - We can mesure the times of the model is unable to return a good structure (prompt2)
 
+- Separar los textos si son muy largos
+
 # MEASURES
 - Nombres
 - Calle
