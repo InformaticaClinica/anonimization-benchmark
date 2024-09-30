@@ -1,6 +1,5 @@
 # Data
 results/*
-data/anon/*
 
 # MacOS system
 .DS_Store
