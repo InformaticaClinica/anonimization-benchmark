@@ -1,0 +1,16 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Tórax",
+            "observation_type": "positive",
+            "description": "Mala calidad con ICT aumentado",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Tórax",
+            "observation_type": "positive",
+            "description": "Infiltrado LSD",
+            "measurements": []
+        }
+    ]
+}

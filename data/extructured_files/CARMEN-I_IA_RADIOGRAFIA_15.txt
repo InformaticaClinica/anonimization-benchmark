@@ -1,0 +1,52 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Infiltrados intersticiales bilaterales",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "negative",
+            "description": "No se observan defectos de repleción en arterias pulmonares sospechosos de tromboembolismo pulmonar",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Tronco de la arteria pulmonar",
+            "observation_type": "negative",
+            "description": "Calibre normal",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Corazón",
+            "observation_type": "negative",
+            "description": "No se observan signos de sobrecarga cardíaca derecha",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Mediastino y axilas",
+            "observation_type": "negative",
+            "description": "No se observan adenopatías de tamaño valorable",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pleuray pericardio",
+            "observation_type": "negative",
+            "description": "No se observa derrame",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Opacidades en vidrio deslustrado y alveolares bilaterales de predominio periférico asociado a discretas bronquiectasias, atelectasias subsegmentarias y signo del halo reverso sugestivo de afectación pulmonar por COVID con evolución a neumonía organizada",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Hígado",
+            "observation_type": "positive",
+            "description": "Disminución difusa del coeficiente de atenuación hepático compatible con esteatosis",
+            "measurements": []
+        }
+    ]
+}

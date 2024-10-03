@@ -1,0 +1,16 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Campos pulmonares",
+            "observation_type": "positive",
+            "description": "Opacidades persistentes",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Campos pulmonares",
+            "observation_type": "positive",
+            "description": "Mejoría de las opacidades respecto a estudios previos",
+            "measurements": []
+        }
+    ]
+}

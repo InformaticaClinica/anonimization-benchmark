@@ -1,0 +1,28 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Tórax",
+            "observation_type": "positive",
+            "description": "Condensaciones bilaterales de patrón central compatibles con EAP",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Tórax",
+            "observation_type": "positive",
+            "description": "ICT > 0.5",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Lóbulo medio derecho",
+            "observation_type": "positive",
+            "description": "Condensación redondeada que impresiona dependiente de pared torácica (compatible con hematoma extrapleural)",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Infiltrados interticiales bilaterales de predominio periférico",
+            "measurements": []
+        }
+    ]
+}

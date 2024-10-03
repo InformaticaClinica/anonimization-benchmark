@@ -1,5 +1,7 @@
 import json
 import pandas as pd
+import os 
+import numpy as np
 
 class MetricsDict:
     def __init__(self, name_model = "Unassigned"):
@@ -8,11 +10,13 @@ class MetricsDict:
         self._metrics_data = {
             "filename":         None,
             "total":            None, 
-            "correct":          None, 
+            "total_correct":    None, 
             "total_fails":      None, 
             "precision":        None, 
-            "real":             None, 
-            "predicted":        None, 
+            "ground_truth":     None, 
+            "generated":        None, 
+            "added":            None, 
+            "missing":          None, 
             "fails":            None, 
             "miss":             None            
         }
@@ -20,45 +24,80 @@ class MetricsDict:
     def set_filename(self, filename):
         self._metrics_data["filename"] = filename
     
-    def store_metrics(self, real, predicted,fails, miss):
+    def store_metrics(self, real, predicted, missing, added, fails, correct):
         self._list_metrics.append(self._metrics_data)
-        self._metrics_data["total"] = len(real.keys())
-        total_fails = len(fails.keys()) + len(miss)
-        self._metrics_data["correct"] = len(real.keys()) - total_fails
+        self._metrics_data["total"] = len(real)
+        total_fails = len(fails) + len(missing)
+        self._metrics_data["total_correct"] = len(correct)
         self._metrics_data["total_fails"] = total_fails
-        self._metrics_data["precision"] = 100 - (total_fails * 100 / len(real.keys()))
-        self._metrics_data["real"] = real
-        self._metrics_data["predicted"] = predicted
-        self._metrics_data["fails"] = fails
-        self._metrics_data["miss"] = miss
-    
-    def compute_classification_agreement(self, dict1, dict2):
-        keys_not_present_in_dict2 = list(set(dict1.keys()) - set(dict2.keys()))
-        
-        disagreement_in_values = {}
-        for key in dict1.keys() & dict2.keys():
-            if dict1[key] != dict2[key]:
-                disagreement_in_values[key] = (dict1[key], dict2[key])
+        self._metrics_data["precision"] = 100 - (total_fails * 100 / len(real))
 
-        return disagreement_in_values, keys_not_present_in_dict2
+        self._metrics_data["ground_truth"] = real
+        self._metrics_data["generated"] = predicted
+        self._metrics_data["added"] = added
+        self._metrics_data["missing"] = missing
+        self._metrics_data["fails"] = fails
+        self._metrics_data["correct"] = correct
+    
+    def compute_classification_agreement(self, gt, gen):
+        missing = []
+        added = []
+        missclassified = []
+        good_clasified = []
+
+
+        # Added: 
+        subset = gen.loc[np.isin(gen[0], gt[0])==False]
+        for text in subset[0]:
+            added.append(text)
+
+
+        for row in gt.iterrows():
+            
+            text, label = row[1]
+            subset = gen.loc[gen[0]==text]
+
+            # Si no se encuentra la key es que no ha respetado el csv de entrada
+            if subset.empty:
+                missing.append(text)
+
+            else:
+                result = subset.loc[subset[1]==label]
+
+                # Si result esta vacio es que había almenos una coincidencia para 
+                # text en el dataframe pero esta no tenia el label que buscamos
+                if result.empty:
+                    missclassified.append(text)
+                
+                else:
+                    # Se elimina el primer resutado (podría haber varios pero deberian ir en orden)
+                    finded_index = result.index[0]
+                    gen = gen.drop(finded_index)
+
+                    good_clasified.append(text)
+
+        return missing, added, missclassified, good_clasified
 
     def get_array_ground_truth(self, filename):
-        df = pd.read_csv("data/carmen/tsv/replaced/CARMEN-I_replaced_anon.tsv", sep='\t')
-        filtered_df = df[df['name'] == filename]
-        result = [{row['text']: row['tag']} for _, row in filtered_df.iterrows()]
-        json_result = json.dumps(result, ensure_ascii=False, indent=4)
-        print(json_result)
-        return json_result
+        df = pd.read_csv(os.path.join('data', 'processed', 'anon', filename), sep='\t', header=None)
 
-    def calculate_classification_metrics(self,  filename, array_generated):
-        print("\n classification metrics \n")
-        print(array_generated)
-        array_ground_truth = self.get_array_ground_truth(filename.split(".")[0])
-        merged_dict = {}
-        for d in array_generated:
-            merged_dict.update(d)
-        diferencias, unicas_dict1 = self.compute_classification_agreement(array_ground_truth, array_generated)
-        self.store_metrics(array_ground_truth, merged_dict, diferencias, unicas_dict1)
+        aux = df[1].values
+        df[1] = list(map(lambda x: x.split(' ')[0], aux))
+
+        # result = [{row[2]: row[1]} for _, row in df.iterrows()]
+        result = df[[2,1]]
+        result.columns = [0,1]
+        
+        return result
+
+    def calculate_classification_metrics(self,  filename, df_generated):
+
+        df_ground_truth = self.get_array_ground_truth(filename.replace('.txt', '.ann'))
+
+        # df_generated = [{row[0]: row[1]} for _, row in df.iterrows()]
+
+        missing, added, missclassified, good_clasified = self.compute_classification_agreement(df_ground_truth, df_generated)
+        self.store_metrics(df_ground_truth, df_generated, missing, added, missclassified, good_clasified)
     
     def save_metrics(self):
         df = pd.DataFrame(self._list_metrics)

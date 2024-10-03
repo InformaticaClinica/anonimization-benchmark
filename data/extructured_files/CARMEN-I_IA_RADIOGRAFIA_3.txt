@@ -1,0 +1,10 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Seno costofrénico izquierdo",
+            "observation_type": "positive",
+            "description": "Pinzamiento muy discreto",
+            "measurements": []
+        }
+    ]
+}

@@ -94,12 +94,13 @@ def second_iteration(metrics_second, text_generated, llm, name_model, filename):
     context = LLMContext(llm)
     output = context.generate_response(prompt)
 
+
     df = output_to_csv(output)
 
-    # metrics_second.calculate_classification_metrics(
-    #     filename,
-    #     dictionary
-    # )
+    metrics_second.calculate_classification_metrics(
+        filename,
+        df
+    )
 
     directorio = f"./data/json/{name_model}"
     os.makedirs(directorio, exist_ok=True)

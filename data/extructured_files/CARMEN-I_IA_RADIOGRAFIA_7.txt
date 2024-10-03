@@ -1,0 +1,28 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Lungs",
+            "observation_type": "positive",
+            "description": "Bilateral interstitial infiltrates",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Lungs",
+            "observation_type": "positive",
+            "description": "Progression of bilateral interstitial infiltrates",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Lungs",
+            "observation_type": "positive",
+            "description": "Worsening of bilateral interstitial infiltrate, more marked on the right base",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Lungs",
+            "observation_type": "positive",
+            "description": "Significant radiological improvement, although with persistence of bilateral interstitial infiltrate predominantly in the bases",
+            "measurements": []
+        }
+    ]
+}

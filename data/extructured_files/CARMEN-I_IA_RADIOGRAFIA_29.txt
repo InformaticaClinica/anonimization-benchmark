@@ -1,0 +1,70 @@
+{
+    "findings": [
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Opacidades bilaterales, de predominio izquierdo y en ambos campos medios, periféricas, compatibles con infección por COVID",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Consolidación lobar campo superior del LII, sugestiva de sobreinfección",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pleura",
+            "observation_type": "negative",
+            "description": "No se observa derrame pleural",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pericardio",
+            "observation_type": "negative",
+            "description": "No se observa derrame pericárdico",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Múltiples focos de vidrio deslustrado periféricos y subpleurales en lóbulos superiores y medio, compatibles con patrón de probable infección por COVID19",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Área de vidrio deslustrado asociada a engrosamientos septales (crazy paving) con tendencia a la consolidación en LSI",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Focos alveolares y en vidrio deslustrado de predominio periférico en campos medios de ambos pulmones, sugestivos de COVID",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Opacidades alveolo-intersticiales bilaterales de predominio periférico, con mayor afectación de campos superiores y medios, compatibles con afectación pulmonar por COVID",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Evidencia de opacidades alveolo-intersticiales en ambos lóbulos superiores con mayor consolidación y aparente pérdida de volumen de estos lóbulos",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pulmones",
+            "observation_type": "positive",
+            "description": "Consolidaciones en ambos lLSS de distribución perilobular y peribroncovascular con dilataciones bronquiales",
+            "measurements": []
+        },
+        {
+            "anatomical_location": "Pericardio",
+            "observation_type": "positive",
+            "description": "Discreto derrame pericárdico sin cambios",
+            "measurements": []
+        }
+    ]
+}
