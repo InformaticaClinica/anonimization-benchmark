@@ -1,0 +1,8 @@
+Here is the text with the patient's personal information anonymized:
+
+Antecedentes personales:
+[**Mujer**] de [**82 años**] sin alergias medicamentosas conocidas. Niega hábitos tóxicos.
+ANTECEDENTES PATOLÓGICOS:
+-HIPERTENSIÓN ARTERIAL en tratamiento con Seguril 40mg y Enalapril 10mg -COLITIS ULCEROSA en tratamiento con mesalazina y azatioprina.
+-SDR. DEPRESIVO en tratamiento con Citalopram 20mg; Orfidal 1mg - OSTEOPOROSIS en tratamiento con Hidroferol 0.266mg
+TRATAMIENTO HABITUAL: SEGURIL 40MG; BOI-K; TRAMADOL; CLAVERSAL 500MG; DOLOCATIL; CITALOPRAM 2 0MG; BISOPROLOL; IMUREL 50MG; ORFIDAL 1MG; ENALAPRIL 10MG; HIDROFEROL 0, 266MG; OMEPRAZOL 20 mg..

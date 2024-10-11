@@ -3,7 +3,7 @@
 Trabaja en [**hilandero**]
 Vive con [**suegro**] y [**2 yernos**], empezaron con sintomas digestivos previos Ant med: [**rinitis alergica**]
 Tto: no
-Alergias: [**niega**]
+Alergias: niega
 .
 Fecha frotis SARS-CoV-2: [**8/9/21**] por control rutinario Fecha inicio síntomas: [**7/9/21**] amb sx digestivos...
 .
@@ -27,7 +27,7 @@ Fecha frotis SARS-CoV-2: [**8/9/21**] por control rutinario Fecha inicio síntom
 Asintomatico.
 Anticuerpos negativos, IgG e IgA
 PLAN
-Llamar 15/09Llamada de control COVID
+Llamar [**15/09**]Llamada de control COVID
 Fecha frotis SARS-CoV-2: [**8/9/21**] por control rutinario Fecha inicio síntomas: [**7/9/21**] digestivos
 .
 Anticuerpos negativos [**10.09.2021**], IgG e IgA
