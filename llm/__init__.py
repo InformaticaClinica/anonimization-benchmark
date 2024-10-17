@@ -1,9 +1,12 @@
 from .context.llm_context import LLMContext
-from .strategy.big_llama_model import BigLlamaModel
-from .strategy.big_llama3_1_model import BigLlama3_1Model
-from .strategy.small_llama_model import SmallLlamaModel
+from .strategy.llama3_70b_Model import Llama3_70b_Model
+from .strategy.llama3_1_405b_Model import Llama3_1_405b_Model
+from .strategy.llama3_1_11b_Model import Llama3_1_11b_Model
+from .strategy.llama3_1_90b_Model import Llama3_1_70b_Model
+from .strategy.llama3_2_90b_Model  import Llama3_2_90b_Model 
+from .strategy.llama3_8b_Model import Llama3_8b_Model
 from .strategy.big_mistral_model import BigMistralModel
-from .strategy.haiku3_model import Haiku3Model
+from .strategy.haiku3_model import Haiku3Model  
 from .strategy.sonet3_model import Sonet3Model
 from .strategy.opus3_model import OpusModel
 from .strategy.sonet3_5_model import Sonet3_5Model
@@ -14,9 +17,12 @@ __all__ = [
     "LLMContext",
     "ChatGPTModel",
     "ChatGPTminiModel",
-    "BigLlamaModel",
-    "BigLlama3_1Model",
-    "SmallLlamaModel",
+    "Llama_3_70b_Model",
+    "Llama3_1_405b_Model",
+    "Llama3_1_11b_Model",
+    "llama3_1_90b_Model",
+    "llama3_2_90b_Model",
+    "Llama3_8b_Model",
     "BigMistralModel",
     "Haiku3Model",
     "Sonet3Model",

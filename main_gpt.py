@@ -2,10 +2,10 @@ import time
 
 # Models
 from llm import LLMContext
-from llm import BigLlamaModel, BigLlama3_1Model, ChatGPTModel, ChatGPTminiModel
-from llm import BigLlamaModel, BigLlama3_1Model
+from llm import Llama_3_70b_Model, Llama3_1_405b_Model, ChatGPTModel, ChatGPTminiModel
+from llm import Llama_3_70b_Model, Llama3_1_405b_Model
 from llm import Haiku3Model, Sonet3Model, OpusModel
-from llm import BigMistralModel, Sonet3_5Model, SmallLlamaModel
+from llm import BigMistralModel, Sonet3_5Model, Llama3_8b_Model
 from metrics import Metrics, MetricsDict
 import os
 import re
@@ -107,11 +107,11 @@ def anonimized_loop(llm, name_model):
     save_time_to_file(name_model, start_time)
 
 def call_models():
-    # anonimized_loop(SmallLlamaModel(),  "small_llama")
+    # anonimized_loop(Llama3_8b_Model(),  "small_llama")
     # anonimized_loop(BigMistralModel(),  "big_mistral_model")
-    # anonimized_loop(BigLlama3_1Model(), "big_llama_3_1_model")
+    # anonimized_loop(Llama3_1_405b_Model(), "big_llama_3_1_model")
     # anonimized_loop(Sonet3_5Model(),    "sonet_3_5_model")
-    # anonimized_loop(BigLlamaModel(),    "big_llama_model")
+    # anonimized_loop(Llama_3_70b_Model(),    "llama3_70b_Model")
     anonimized_loop(ChatGPTModel(),     "chatgpt_model")
     anonimized_loop(ChatGPTminiModel(),     "chatgpt_mini_model")
     # anonimized_loop(Sonet3Model(),      "sonet_3_model")
