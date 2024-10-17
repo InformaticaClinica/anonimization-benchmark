@@ -74,37 +74,37 @@ def second_iteration(metrics_second, text_generated, llm, name_model, filename):
         json.dump(dictionary, archivo, indent=4)
     return json.loads(dictionary)
 
-def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename):
+def third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename, start_time):
     metrics_thrid.set_filename(filename)
     ground_truth = read_text(f'{PATH}txt/masked/{filename}')
     text_generated = post_processing_replace_text(text_generated, dictionary)
     metrics_thrid.calculate(
         ground_truth, 
         text_generated, 
-        classification_bool = False
+        classification_bool = False,
+        time = start_time
         )
     metrics_thrid.store_metrics()
     store_text(text_generated, filename, "thrid/" + name_model+"_3rd")
     return metrics_thrid
 
 def anonimized_loop(llm, name_model):
-    start_time = time.time()
     counter = 0
     metrics = Metrics(name_model)
     metrics_second = MetricsDict(name_model+"_2rd")
     metrics_thrid = Metrics(name_model+"_3rd")
     for filename in sorted(os.listdir(f'{PATH}txt/replaced/')):
+        start_time = time.time()
         try:
             metrics, text_generated = first_iteration(metrics, filename, llm, name_model)
             dictionary = second_iteration(metrics_second, text_generated, llm, name_model, filename)
-            metrics_thrid = third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename)
+            metrics_thrid = third_iteration(metrics_thrid, text_generated, dictionary, name_model, filename, start_time)
             counter += 1
         except Exception as e:
             print(e)
     metrics.save_metrics()
     metrics_second.save_metrics()
     metrics_thrid.save_metrics()
-    save_time_to_file(name_model, start_time)
 
 def call_models():
     # anonimized_loop(Llama3_8b_Model(),  "small_llama")

@@ -1,6 +1,7 @@
 import spacy
 import warnings
 import re
+import time
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
@@ -23,7 +24,8 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
-            "language":             None
+            "language":             None,
+            "time":                 None
         }
 
     def set_filename(self, filename):
@@ -184,12 +186,16 @@ class Metrics:
     def calculate_overall(self):
         self._metrics_data["overall"] = self._metrics_data["precision"] + self._metrics_data["recall"] +  self._metrics_data["f1"] + self._metrics_data["cosine_sim"] + self._metrics_data["inv_levenshtein"]
 
+    def calculate_time(self, start_time):
+        self._metrics_data["time"] = time.time() - start_time
+
     def calculate(self, 
                   ground_truth, 
                   generated, 
                   classification_bool = True, 
                   cosine_sim_bool = True, 
-                  levenshtein_bool = True):
+                  levenshtein_bool = True,
+                  time = False):
         '''
             That functions calculates all the metrics and stores them in the metrics_data variable
             Args:
@@ -201,6 +207,7 @@ class Metrics:
             Returns:
                 None
         '''
+        if time: self.calculate_time(time)
         if classification_bool: self.evaluate(ground_truth, generated)
         if cosine_sim_bool: self.get_cos_sim(ground_truth, generated)
         if levenshtein_bool: self.levenshtein_distance(ground_truth, generated)
@@ -226,7 +233,8 @@ class Metrics:
             "labels":               None,
             "inv_levenshtein":      None,
             "overall":              None,
-            "language":             None
+            "language":             None,
+            "time":                 None
         }
 
     def get_metrics(self):
