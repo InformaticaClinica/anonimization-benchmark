@@ -221,7 +221,7 @@ class Metrics:
         language = data.loc[filename, 'language']
         self._metrics_data["language"] = language
 
-    def store_metrics(self):
+    def store_metrics(self):    
         self._list_metrics.append(self._metrics_data)
         self._metrics_data = {
             "filename":             None,
